@@ -1,6 +1,10 @@
 # About
 
-This is repository hosts the UI and content of an RSS feed reader.
+This is repository hosts the UI and content of an RSS feed reader,
+found at: https://vredchenko.github.io/osmoscraft_feed/
+
+TODO:
+- [ ] https://gitlab.tinkerlab.dev/sofias-pets/scrapeyards/-/issues/28
 
 ## Links and references
 
