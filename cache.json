@@ -1,31 +1,6 @@
 {
   "sources": [
     {
-      "title": "Release notes from osmosfeed",
-      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": [
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2",
-          "author": null,
-          "description": "Fixed: unicode characters in URL caused download error\nFixed: project root npm install error\nAdded: unit test library\nChore: Dependency updates\nThank you: @CaptNo1",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2",
-          "publishedOn": "2021-09-26T18:45:39.000Z",
-          "wordCount": 354,
-          "title": "v1.11.2"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1",
-          "author": null,
-          "description": "Fixed: Unexpected nested element in author field crashes the parser\nThank you @ad-m",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1",
-          "publishedOn": "2021-09-16T06:39:32.000Z",
-          "wordCount": 344,
-          "title": "v1.11.1"
-        }
-      ]
-    },
-    {
       "title": "CSS-Tricks",
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
@@ -168,363 +143,6 @@
       ]
     },
     {
-      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "feedUrl": "https://www.smashingmagazine.com/feed/",
-      "siteUrl": "https://www.smashingmagazine.com/",
-      "articles": [
-        {
-          "id": "https://smashingmagazine.com/2021/10/search-functionality-nuxt-app-algolia-instantsearch/",
-          "author": "hello@smashingmagazine.com (Miracle Onyemna)",
-          "description": "Many websites have some sort of search feature because it helps users navigate through their content easily. Implementing it the right way can be tricky and might not give a good user experience. In this tutorial, we will be integrating Algolia, a popular and powerful search service for the best experience on our Nuxt site.",
-          "link": "https://smashingmagazine.com/2021/10/search-functionality-nuxt-app-algolia-instantsearch/",
-          "publishedOn": "2021-10-01T10:00:00.000Z",
-          "wordCount": 4897,
-          "title": "How To Implement Search Functionality In Your Nuxt App Using Algolia InstantSearch",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/584ac63f-f493-4e93-8d6a-5e6bc640d7ea/search-functionality-nuxt-app-algolia-instantsearch.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/desktop-wallpaper-calendars-october-2021/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Get your desktop ready for fall and the upcoming Halloween season with a fresh batch of desktop wallpapers. Created with love by designers and artists from across the globe, they come in versions with and without a calendar for October 2021.",
-          "link": "https://smashingmagazine.com/2021/09/desktop-wallpaper-calendars-october-2021/",
-          "publishedOn": "2021-09-30T08:00:00.000Z",
-          "wordCount": 2463,
-          "title": "A Time Of Transition (October 2021 Desktop Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8987d365-d643-429d-b840-56ff195a9da5/oct-21-autumn-vibes-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/modern-image-formats-avif-webp/",
-          "author": "hello@smashingmagazine.com (Addy Osmani)",
-          "description": "In this article, we’ll highlight how modern image formats (AVIF or WebP) can improve compression by up to 50% and deliver better quality per-byte while still looking visually appealing. We’ll compare what’s possible at high-quality, low-quality and file-size targets.",
-          "link": "https://smashingmagazine.com/2021/09/modern-image-formats-avif-webp/",
-          "publishedOn": "2021-09-29T08:25:00.000Z",
-          "wordCount": 5051,
-          "title": "Using Modern Image Formats: AVIF And WebP",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/67b6e428-ea96-41b4-baf2-6be51577910d/modern-image-formats-avif-webp.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/improving-accessibility-of-markdown/",
-          "author": "hello@smashingmagazine.com (Eric Bailey)",
-          "description": "You can find Markdown in many places on the Internet. This article covers different aspects of Markdown and how it interacts with other technology.",
-          "link": "https://smashingmagazine.com/2021/09/improving-accessibility-of-markdown/",
-          "publishedOn": "2021-09-28T09:00:00.000Z",
-          "wordCount": 3866,
-          "title": "Improving The Accessibility Of Your Markdown",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa95c8d2-8322-4766-ac8d-891dabff0dd6/improving-accessibility-of-markdown.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/cypress-end-to-end-testing/",
-          "author": "hello@smashingmagazine.com (Ramona Schwering)",
-          "description": "Is end-to-end testing a painful topic for you? In this article, Ramona Schwering explains how to handle end-to-end testing with Cypress and make it make it not so tedious and expensive for yourself, but fun instead.",
-          "link": "https://smashingmagazine.com/2021/09/cypress-end-to-end-testing/",
-          "publishedOn": "2021-09-27T11:30:00.000Z",
-          "wordCount": 4947,
-          "title": "Let’s Dive Into Cypress For End-to-End Testing",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c42e65f-5a60-4844-a252-00169b21ab0c/cypress-end-to-end-testing.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/lessons-learned-ecommerce-nextjs-case-study/",
-          "author": "hello@smashingmagazine.com (Jonne Kats)",
-          "description": "We made the switch from a more traditional integrated e-commerce platform to a headless platform with Next.js. Here are the most important lessons learned while rebuilding a large e-commerce site with Next.js.",
-          "link": "https://smashingmagazine.com/2021/09/lessons-learned-ecommerce-nextjs-case-study/",
-          "publishedOn": "2021-09-24T10:00:00.000Z",
-          "wordCount": 3786,
-          "title": "Rebuilding A Large E-Commerce Website With Next.js (Case Study)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5f1d9e62-ec85-435a-8899-56ac48b4190b/lessons-learned-ecommerce-nextjs.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/smashing-workshop-frustrating-design-patterns/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "You’ve seen them before. Confusing and frustrating design patterns that seem to be chasing you everywhere you go, from one website to another. It’s time to fix them for good in a [free Smashing online workshop](https://smashingconf.com/online-workshops/workshops/vitaly-friedman-frustrating-patterns/) next week.",
-          "link": "https://smashingmagazine.com/2021/09/smashing-workshop-frustrating-design-patterns/",
-          "publishedOn": "2021-09-24T06:50:00.000Z",
-          "wordCount": 784,
-          "title": "Free Online Workshop: Frustrating Design Patterns And How To Fix Them",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/76262eaa-9498-4682-a320-6a7469bef697/sept27-workshop.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/",
-          "author": "hello@smashingmagazine.com (Michelle Barker)",
-          "description": "The new CSS `accent-color` property makes it quick and easy to roll out our brand colors to certain form inputs by leveraging user agent styles. In this article we’ll take a look at what it does and how to use it alongside `color-scheme` for simple, accessible checkboxes and radio buttons — and imagine how we might use it in the future.",
-          "link": "https://smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/",
-          "publishedOn": "2021-09-23T11:00:00.000Z",
-          "wordCount": 2150,
-          "title": "Simplifying Form Styles With `accent-color`",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/195a9e83-5686-47fd-80d9-3c1d6dc4655a/simplifying-form-styles-accent-color.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/css-head-tag/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "We love little useful tools and techniques to help folks get their work done better and faster. Today, we’d love to shine the spotlights on a little helper that helps spot common performance bottlenecks easily: [ct.css](https://csswizardry.com/ct/).",
-          "link": "https://smashingmagazine.com/2021/09/css-head-tag/",
-          "publishedOn": "2021-09-22T15:00:00.000Z",
-          "wordCount": 725,
-          "title": "Getting Your `head` Straight: A New CSS Performance Diagnostics Snippet",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b5bbafda-ded4-4bd3-bb2a-8c4188693d30/head-2.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/mouseless-development-environment/",
-          "author": "hello@smashingmagazine.com (Matthieu Cneude)",
-          "description": "Building a development environment with the shell as a keystone offers multiple benefits. You can customize everything depending on your own needs, and the biggest of all, you can control your entire development environment with your keyboard.",
-          "link": "https://smashingmagazine.com/2021/09/mouseless-development-environment/",
-          "publishedOn": "2021-09-21T11:30:00.000Z",
-          "wordCount": 4143,
-          "title": "How To Build Your Own Mouseless Development Environment",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5c58e67b-deff-4745-b162-f60f468469ac/mouseless-development-environment.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/web-development-tools-users-keep-pace-rapid-change/",
-          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
-          "description": "The last 18 months have been a time of unprecedented turbulence. As the people of the world have flooded online, businesses have joined them, using web development tools to adapt in real-time.",
-          "link": "https://smashingmagazine.com/2021/09/web-development-tools-users-keep-pace-rapid-change/",
-          "publishedOn": "2021-09-21T09:30:00.000Z",
-          "wordCount": 1686,
-          "title": "How Web Development Tools Are Helping Users Keep Pace With Rapid Change",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d8f1b98f-ddeb-407f-ab88-c34305a5380b/web-development-tools-users-keep-pace-rapid-change.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/imposter-domains-republishing-website/",
-          "author": "hello@smashingmagazine.com (Ken Harker)",
-          "description": "Content scraping is a fact of life on the Internet. When you think of web scraping, you probably do not think about the scrapers turning around and immediately serving your entire, whole page content on another website. But what if your site content is being re-published?  It might be already happening.",
-          "link": "https://smashingmagazine.com/2021/09/imposter-domains-republishing-website/",
-          "publishedOn": "2021-09-20T11:30:00.000Z",
-          "wordCount": 3967,
-          "title": "Are Imposter Domains Re-Publishing Your Website?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4504ea89-0356-45c7-a7c1-a5c360ecc471/imposter-domains-republishing-website.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/monetize-open-source-software-gatsby-functions-stripe/",
-          "author": "hello@smashingmagazine.com (Paul Scanlon)",
-          "description": "Gatsby Functions provide front-end developers a way to write and use server-side code without the hassle of maintaining a server. If making money from open-source is of interest to you and your site isn’t built using Gatsby, this approach may well be the answer you were looking for.",
-          "link": "https://smashingmagazine.com/2021/09/monetize-open-source-software-gatsby-functions-stripe/",
-          "publishedOn": "2021-09-17T09:00:00.000Z",
-          "wordCount": 2578,
-          "title": "Monetize Open-Source Software With Gatsby Functions And Stripe",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/73f6525b-6678-4db1-a875-16150bc822cd/monetize-open-source-software-gatsby-functions-stripe.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/journey-into-web-quality-assurance/",
-          "author": "hello@smashingmagazine.com (Elie Sloïm)",
-          "description": "Twenty years ago, Elie Sloïm chose to dedicate his professional life to web quality assurance. He started asking, ”What does quality mean for a web user?” Well, this article explains everything he has learned along the way.",
-          "link": "https://smashingmagazine.com/2021/09/journey-into-web-quality-assurance/",
-          "publishedOn": "2021-09-16T12:00:00.000Z",
-          "wordCount": 4505,
-          "title": "Web Quality Assurance: From User Requirements To Web Risk Management",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/da816ee2-199c-49e8-8f63-f50d1fb5adb7/journey-into-web-quality-assurance.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/reasons-build-crm-powered-website-business/",
-          "author": "hello@smashingmagazine.com (Zara Cooper)",
-          "description": "Integrating a CRM with your business website has numerous benefits. In this article, Zara Cooper explains what these benefits are and why websites should be integrated with a CRM platform.",
-          "link": "https://smashingmagazine.com/2021/09/reasons-build-crm-powered-website-business/",
-          "publishedOn": "2021-09-16T11:00:00.000Z",
-          "wordCount": 2293,
-          "title": "Reasons To Build A CRM-Powered Website For Your Business",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bdb5e7f2-9050-4e5f-8b93-ca24f0483188/hubspot-preview-image.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/reducing-need-pseudo-elements/",
-          "author": "hello@smashingmagazine.com (Marcel Moreau)",
-          "description": "For years, pseudo-elements have faithfully helped front-end developers implement creative designs. While they still have an important place, we can now leave pseudo-elements behind in some scenarios, thanks to newer CSS properties.",
-          "link": "https://smashingmagazine.com/2021/09/reducing-need-pseudo-elements/",
-          "publishedOn": "2021-09-15T10:00:00.000Z",
-          "wordCount": 1933,
-          "title": "Reducing The Need For Pseudo-Elements",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c994e024-5695-4cf7-b9b6-dc589e547f19/reducing-need-pseudo-elements.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/power-pen-paper-sketching/",
-          "author": "hello@smashingmagazine.com (Tracy Osborn)",
-          "description": "When designing for digital spaces, it’s natural to default to digital mockup tools, but doing so cuts out a world of possibilities. Analog drawing can unleash your imagination and allow you to focus on what’s most important at the start: the ideas.",
-          "link": "https://smashingmagazine.com/2021/09/power-pen-paper-sketching/",
-          "publishedOn": "2021-09-14T09:30:00.000Z",
-          "wordCount": 2076,
-          "title": "The Power Of Pen And Paper Sketching",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e4a5bd0b-53db-40c2-90d9-9d0a19b8d377/power-pen-paper-sketching.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/orchestrating-complexity-web-animations-api/",
-          "author": "hello@smashingmagazine.com (Kirill Myshkin)",
-          "description": "There are way too many options in Web Animations API to pick them up that easily. Learning how timing works and how to control the playback of several animations at once makes for a solid foundation on which to base your projects on.",
-          "link": "https://smashingmagazine.com/2021/09/orchestrating-complexity-web-animations-api/",
-          "publishedOn": "2021-09-13T09:00:00.000Z",
-          "wordCount": 3009,
-          "title": "Orchestrating Complexity With Web Animations API",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cc4a9b5f-fd83-4fc0-9966-6f98707d1466/orchestrating-complexity-web-animations-api.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/web-design-done-well-excellent-editorial/",
-          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
-          "description": "They say content is king, and they’re right. The web has unlocked untold possibilities for storytellers — provided the story is right, of course. Here are some of our favorite examples of editorial content thriving in the digital realm.",
-          "link": "https://smashingmagazine.com/2021/09/web-design-done-well-excellent-editorial/",
-          "publishedOn": "2021-09-10T10:00:00.000Z",
-          "wordCount": 2039,
-          "title": "Web Design Done Well: Excellent Editorial",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7af3bbbe-821b-4e3c-870a-f8290ed52212/web-design-done-well-excellent-editorial.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/useswr-react-hook-library-incremental-static-regeneration-nextjs/",
-          "author": "hello@smashingmagazine.com (Sam Poder)",
-          "description": "When paired with ISR and Next.js’ API routes, SWR can be used to create a responsive user experience. In this article, Sam Poder explains what SWR is, where to use it (and where not), and how to build a website by using Incremental Static Regeneration.",
-          "link": "https://smashingmagazine.com/2021/09/useswr-react-hook-library-incremental-static-regeneration-nextjs/",
-          "publishedOn": "2021-09-09T10:30:00.000Z",
-          "wordCount": 2054,
-          "title": "Using SWR React Hooks With Next.js’ Incremental Static Regeneration (ISR)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47c6e5fc-73b3-41fe-afb7-b640b860efa0/useswr-react-hook-library-incremental-static-regeneration-nextjs.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/developer-decisions-building-flexible-components/",
-          "author": "hello@smashingmagazine.com (Michelle Barker)",
-          "description": "In this article, we’ll walk through the process of taking a seemingly simple design for a text-and-media component and deciding how best to translate it into code, keeping in mind the needs of both users and content authors.",
-          "link": "https://smashingmagazine.com/2021/09/developer-decisions-building-flexible-components/",
-          "publishedOn": "2021-09-08T10:30:00.000Z",
-          "wordCount": 2854,
-          "title": "Developer Decisions For Building Flexible Components",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/76d3eef0-2a0a-45e0-b0bb-399da37c3834/developer-decisions-building-flexible-components.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/new-smashing-online-workshops-sep-2021/",
-          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
-          "description": "What’s the state of HTML Email, Vue.js and Next.js? What are new, smart interface design patterns we could use? Let’s figure it out. With our brand new online workshops on front-end & design. Now with **free workshops** for you to test the waters.",
-          "link": "https://smashingmagazine.com/2021/09/new-smashing-online-workshops-sep-2021/",
-          "publishedOn": "2021-09-08T08:00:00.000Z",
-          "wordCount": 921,
-          "title": "New Smashing Online Workshops on Front-End & UX",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a95c729-8b29-4b44-90b0-d38183b367c0/online-workshops-2021-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/devtools-cross-browser-edition/",
-          "author": "hello@smashingmagazine.com (Patrick Brosset)",
-          "description": "Learn what’s new with developer tools in Firefox, Edge, Chrome and Safari. Discover new and powerful features that will help you be more comfortable and productive when testing and debugging across browsers.",
-          "link": "https://smashingmagazine.com/2021/09/devtools-cross-browser-edition/",
-          "publishedOn": "2021-09-07T10:00:00.000Z",
-          "wordCount": 4034,
-          "title": "What’s New With DevTools: Cross-Browser Edition",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1e0eef0e-e4b0-45b6-8afd-1d1a60b7c53b/devtools-cross-browsers.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/http3-practical-deployment-options-part3/",
-          "author": "hello@smashingmagazine.com (Robin Marx)",
-          "description": "After almost five years in development, the new HTTP/3 protocol is nearing its final form. Let’s take a close look at the challenges involved in deploying and testing HTTP/3, and how and if you should change your websites and resources as well.",
-          "link": "https://smashingmagazine.com/2021/09/http3-practical-deployment-options-part3/",
-          "publishedOn": "2021-09-06T11:00:00.000Z",
-          "wordCount": 9721,
-          "title": "HTTP/3: Practical Deployment Options (Part 3)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a19cca97-b411-44a6-a8be-e1468a0df78a/http3-practical-deployment-options-part3.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/reducing-carbon-emissions-on-web/",
-          "author": "hello@smashingmagazine.com (Berwyn Powell)",
-          "description": "Websites, unfortunately, aren’t as environmentally friendly as we might like them to be. This article contains some thoughts and experiences from trying to clean them up.",
-          "link": "https://smashingmagazine.com/2021/09/reducing-carbon-emissions-on-web/",
-          "publishedOn": "2021-09-03T11:30:00.000Z",
-          "wordCount": 3556,
-          "title": "Reducing Carbon Emissions On The Web",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bdef7e38-4e37-4177-a7b3-d74860c7724f/reducing-carbon-emissions-on-web.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        }
-      ]
-    },
-    {
       "title": "freeCodeCamp.org",
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
@@ -618,6 +236,2239 @@
           "publishedOn": "2021-09-28T18:56:03.000Z",
           "wordCount": 22805,
           "title": "HTML / CSS Tutorial - Build a Recipe Website"
+        }
+      ]
+    },
+    {
+      "title": "MUO - Feed",
+      "feedUrl": "https://www.makeuseof.com/feed/",
+      "siteUrl": "https://www.makeuseof.com",
+      "articles": [
+        {
+          "id": "https://www.makeuseof.com/download-ios-1501-apple-watch-unlock-bug/",
+          "author": "Brent Dirks",
+          "description": "The update fixes a nagging bug for iPhone 13 users with an Apple Watch.",
+          "link": "https://www.makeuseof.com/download-ios-1501-apple-watch-unlock-bug/",
+          "publishedOn": "2021-10-02T00:31:39.000Z",
+          "wordCount": 730,
+          "title": "Download iOS 15.0.1 Now to Fix the Apple Watch Unlock Bug"
+        },
+        {
+          "id": "https://www.makeuseof.com/ipad-mini-6-best-features/",
+          "author": "Hamlin Rozario",
+          "description": "Have you seen the new iPad mini yet? Here are all the reasons why we love it.",
+          "link": "https://www.makeuseof.com/ipad-mini-6-best-features/",
+          "publishedOn": "2021-10-01T22:00:12.000Z",
+          "wordCount": 1169,
+          "title": "5 Reasons Why We Love the iPad mini 6"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-use-pinned-tabs-in-safari-mac/",
+          "author": "Rachel Melegrito",
+          "description": "Learn how to pin tabs in Safari to make sure your favorite sites are always accessible, without cluttering the tab bar.",
+          "link": "https://www.makeuseof.com/how-to-use-pinned-tabs-in-safari-mac/",
+          "publishedOn": "2021-10-01T21:30:21.000Z",
+          "wordCount": 1047,
+          "title": "How to Quickly Access Sites in Safari on a Mac Using Pinned Tabs"
+        },
+        {
+          "id": "https://www.makeuseof.com/-best-sites-for-home-inspiration/",
+          "author": "Katie Rees",
+          "description": "Home decoration can be tricky, so here are six of the best websites to give you home inspiration and help you out.",
+          "link": "https://www.makeuseof.com/-best-sites-for-home-inspiration/",
+          "publishedOn": "2021-10-01T21:00:12.000Z",
+          "wordCount": 1513,
+          "title": "The 6 Best Sites for Home Inspiration"
+        },
+        {
+          "id": "https://www.makeuseof.com/grifthorse-new-trojan-steals-millions-from-android-users/",
+          "author": "Damir Mujezinovic",
+          "description": "Have you received an unusual notification saying you've won a gift? It might be GriftHorse, a new Trojan.",
+          "link": "https://www.makeuseof.com/grifthorse-new-trojan-steals-millions-from-android-users/",
+          "publishedOn": "2021-10-01T20:57:55.000Z",
+          "wordCount": 796,
+          "title": "GriftHorse: A New Trojan Stealing Millions of Dollars From Millions of Android Users"
+        },
+        {
+          "id": "https://www.makeuseof.com/easily-create-slide-decks-using-paste/",
+          "author": "Nikita Dhulekar",
+          "description": "Using Paste by WeTransfer, you can create presentation slides with auto-formatting and seamless collaboration. Here's how!",
+          "link": "https://www.makeuseof.com/easily-create-slide-decks-using-paste/",
+          "publishedOn": "2021-10-01T20:31:21.000Z",
+          "wordCount": 1528,
+          "title": "How to Easily Create Slide Decks Using Paste by WeTransfer"
+        },
+        {
+          "id": "https://www.makeuseof.com/youtube-tv-nbcuniversal-arguing/",
+          "author": "Dan Price",
+          "description": "YouTube TV and NBCUniversal are failing to consider the desires of customers in their ongoing dispute.",
+          "link": "https://www.makeuseof.com/youtube-tv-nbcuniversal-arguing/",
+          "publishedOn": "2021-10-01T20:21:12.000Z",
+          "wordCount": 1095,
+          "title": "What Are YouTube TV and NBCUniversal Arguing About?"
+        },
+        {
+          "id": "https://www.makeuseof.com/can-linux-run-windows-exe-files/",
+          "author": "Deepesh Sharma",
+          "description": "Linux is no doubt the best open-source alternative to Microsoft Windows, but is it possible to run Windows programs on a Linux-based OS?",
+          "link": "https://www.makeuseof.com/can-linux-run-windows-exe-files/",
+          "publishedOn": "2021-10-01T20:00:11.000Z",
+          "wordCount": 1098,
+          "title": "Can Linux Run Windows EXE Files?"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-add-m2-ssd-ps5-guide/",
+          "author": "Ben Stegner",
+          "description": "Here's a complete guide to adding more storage to your PS5 by installing an M.2 SSD in your console's expansion slot.",
+          "link": "https://www.makeuseof.com/how-to-add-m2-ssd-ps5-guide/",
+          "publishedOn": "2021-10-01T19:30:11.000Z",
+          "wordCount": 2171,
+          "title": "How to Add an M.2 SSD to Your PS5: A Step-by-Step Guide"
+        },
+        {
+          "id": "https://www.makeuseof.com/keep-track-footage-premiere-pro/",
+          "author": "Emma Garofalo",
+          "description": "",
+          "link": "https://www.makeuseof.com/keep-track-footage-premiere-pro/",
+          "publishedOn": "2021-10-01T19:00:12.000Z",
+          "wordCount": 1597,
+          "title": "5 Ways to Keep Track of Your Footage in Premiere Pro"
+        },
+        {
+          "id": "https://www.makeuseof.com/what-is-a-sim-card-things-to-know/",
+          "author": "Simon Batt",
+          "description": "SIM cards are an important part of your phone, but what do they do and how do you use them?",
+          "link": "https://www.makeuseof.com/what-is-a-sim-card-things-to-know/",
+          "publishedOn": "2021-10-01T18:46:56.000Z",
+          "wordCount": 1710,
+          "title": "What Is a SIM Card? 8 Things You Need to Know"
+        },
+        {
+          "id": "https://www.makeuseof.com/movie-directors-who-criticized-streaming-services/",
+          "author": "Simona Tolcheva",
+          "description": "Some movie directors see streaming services as eroding the purity of cinema. Let's take a look at some of the directors who hate streaming.",
+          "link": "https://www.makeuseof.com/movie-directors-who-criticized-streaming-services/",
+          "publishedOn": "2021-10-01T18:46:56.000Z",
+          "wordCount": 1438,
+          "title": "4 Movie Directors Who Have Criticized Streaming Services"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-use-apple-podcasts-personalized-recommendations/",
+          "author": "Aya Masango",
+          "description": "With iOS 15, Apple Podcasts has more features to recommend you new podcasts. Here's how to use them.",
+          "link": "https://www.makeuseof.com/how-to-use-apple-podcasts-personalized-recommendations/",
+          "publishedOn": "2021-10-01T18:30:21.000Z",
+          "wordCount": 1444,
+          "title": "How to Use Apple Podcasts' Personalized Recommendations to Find Podcasts You'll Like"
+        },
+        {
+          "id": "https://www.makeuseof.com/apple-podcasts-ios-15-features/",
+          "author": "Aya Masango",
+          "description": "iOS 15 is here and it brings a whole host of new features to Apple Podcasts. Here's how to use them all.",
+          "link": "https://www.makeuseof.com/apple-podcasts-ios-15-features/",
+          "publishedOn": "2021-10-01T18:16:44.000Z",
+          "wordCount": 1466,
+          "title": "What's New in iOS 15's Apple Podcasts Update?"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-create-and-use-smart-albums-on-mac/",
+          "author": "Dilum Senevirathne",
+          "description": "Keep your photo library organized by learning how to create Smart Albums in the Photos app on your Mac.",
+          "link": "https://www.makeuseof.com/how-to-create-and-use-smart-albums-on-mac/",
+          "publishedOn": "2021-10-01T17:30:21.000Z",
+          "wordCount": 1142,
+          "title": "How to Create and Use Smart Albums in Photos on a Mac"
+        },
+        {
+          "id": "https://www.makeuseof.com/facebook-smartwatch-what-we-know-so-far/",
+          "author": "Syed Hammad Mahmood",
+          "description": "Facebook is reportedly planning to introduce another hardware product. Here’s what we know so far about its rumored smartwatch.",
+          "link": "https://www.makeuseof.com/facebook-smartwatch-what-we-know-so-far/",
+          "publishedOn": "2021-10-01T17:00:11.000Z",
+          "wordCount": 1109,
+          "title": "Facebook Is Secretly Developing a Smartwatch: What We Know So Far"
+        },
+        {
+          "id": "https://www.makeuseof.com/what-is-apple-glass/",
+          "author": "Jake Harfield",
+          "description": "In this article, we’ll cover everything that’s been leaked about Apple’s new smart glasses, including their rumored design, capabilities, and cost.",
+          "link": "https://www.makeuseof.com/what-is-apple-glass/",
+          "publishedOn": "2021-10-01T16:45:45.000Z",
+          "wordCount": 1478,
+          "title": "What Is Apple Glass? What We Know About It So Far"
+        },
+        {
+          "id": "https://www.makeuseof.com/improve-productivity-using-asynchronous-communication/",
+          "author": "Lando Loic",
+          "description": "Synchronous (real-time) is the standard of workplace collaboration, but it can be a bit unproductive. Here's why asynchronous communication is better.",
+          "link": "https://www.makeuseof.com/improve-productivity-using-asynchronous-communication/",
+          "publishedOn": "2021-10-01T16:30:22.000Z",
+          "wordCount": 1493,
+          "title": "How to Improve Your Productivity Using Asynchronous Communication"
+        },
+        {
+          "id": "https://www.makeuseof.com/speed-up-microsoft-onenote/",
+          "author": "Natalie Stewart",
+          "description": "Is OneNote taking its sweet time to get anything done? Here are some tweaks you can make to speed up Microsoft OneNote.",
+          "link": "https://www.makeuseof.com/speed-up-microsoft-onenote/",
+          "publishedOn": "2021-10-01T16:15:51.000Z",
+          "wordCount": 1462,
+          "title": "6 Ways to Speed Up Microsoft OneNote"
+        },
+        {
+          "id": "https://www.makeuseof.com/what-does-faang-stand-for/",
+          "author": "Carly Chatfield",
+          "description": "The acronym FAANG is often mentioned alongside discussions about stocks and tech. Here, we'll take a look at what the acronym actually means.",
+          "link": "https://www.makeuseof.com/what-does-faang-stand-for/",
+          "publishedOn": "2021-10-01T16:01:02.000Z",
+          "wordCount": 767,
+          "title": "What Does FAANG Stand For?"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-find-out-what-country-your-iphone-was-manufactured-in/",
+          "author": "Quina Baterna",
+          "description": "Need to know where your iPhone was made? We'll show you how.",
+          "link": "https://www.makeuseof.com/how-to-find-out-what-country-your-iphone-was-manufactured-in/",
+          "publishedOn": "2021-10-01T15:00:16.000Z",
+          "wordCount": 1028,
+          "title": "How to Find Out What Country Your iPhone Was Manufactured In?"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-get-starz-free-trial/",
+          "author": "Dan Price",
+          "description": "Want to watch the latest Starz shows for free? Grab a trial today and cancel it before you pay a dime.",
+          "link": "https://www.makeuseof.com/how-to-get-starz-free-trial/",
+          "publishedOn": "2021-10-01T14:30:21.000Z",
+          "wordCount": 1581,
+          "title": "How to Get a Starz Free Trial (and Cancel Before You're Charged)"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-install-and-set-up-pm2-on-linux-servers/",
+          "author": "Nitin Ranganath",
+          "description": "Keep your Node.js applications up and running forever by installing PM2 on the production server.",
+          "link": "https://www.makeuseof.com/how-to-install-and-set-up-pm2-on-linux-servers/",
+          "publishedOn": "2021-10-01T14:01:05.000Z",
+          "wordCount": 1055,
+          "title": "How to Install and Set Up PM2 on Linux Servers"
+        },
+        {
+          "id": "https://www.makeuseof.com/populele-2-review/",
+          "author": "Christian Cawley",
+          "description": "It's light, easy to play, and LEDs in the neck sync with an instructive mobile app telling you exactly what to play.",
+          "link": "https://www.makeuseof.com/populele-2-review/",
+          "publishedOn": "2021-10-01T13:55:21.000Z",
+          "wordCount": 2059,
+          "title": "Want to Learn Ukulele? The Populele 2 Makes It Easier Than You Think"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-use-wave-accounting-for-small-businesses/",
+          "author": "David Perry",
+          "description": "Waves Accounting is a bookkeeping software that saves you time and money. Here's how to use it.",
+          "link": "https://www.makeuseof.com/how-to-use-wave-accounting-for-small-businesses/",
+          "publishedOn": "2021-10-01T13:30:21.000Z",
+          "wordCount": 1916,
+          "title": "How to Use Wave Accounting for Small Businesses"
+        },
+        {
+          "id": "https://www.makeuseof.com/sony-acquires-bluepoint-games/",
+          "author": "Soham De",
+          "description": "Sony has yet another software studio under its wing; Bluepoint Games. So what does this mean for the PlayStation game library?",
+          "link": "https://www.makeuseof.com/sony-acquires-bluepoint-games/",
+          "publishedOn": "2021-10-01T13:10:21.000Z",
+          "wordCount": 911,
+          "title": "Sony Acquires Bluepoint Games to Make Its Remasters and Remakes Even Better"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-add-passcode-nintendo-switch/",
+          "author": "Quina Baterna",
+          "description": "Did you know you can create a passcode for your Nintendo Switch? Well you can, and here's how to do it.",
+          "link": "https://www.makeuseof.com/how-to-add-passcode-nintendo-switch/",
+          "publishedOn": "2021-10-01T13:00:01.000Z",
+          "wordCount": 1093,
+          "title": "How to Add a Passcode to Your Nintendo Switch"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-much-does-the-average-computer-science-graduate-earn/",
+          "author": "Marcus Mears III",
+          "description": "Computer Science is a field of high demand in today's world. How much does the average graduate earn, and which jobs pay well?",
+          "link": "https://www.makeuseof.com/how-much-does-the-average-computer-science-graduate-earn/",
+          "publishedOn": "2021-10-01T12:31:54.000Z",
+          "wordCount": 1486,
+          "title": "How Much Does The Average Computer Science Graduate Earn?"
+        },
+        {
+          "id": "https://www.makeuseof.com/is-nextdoor-safe-or-a-security-risk/",
+          "author": "Elliot Nesbo",
+          "description": "Nextdoor touts itself as the social network for neighborhoods, but should you be concerned about the platform's security?",
+          "link": "https://www.makeuseof.com/is-nextdoor-safe-or-a-security-risk/",
+          "publishedOn": "2021-10-01T12:15:11.000Z",
+          "wordCount": 1394,
+          "title": "Is Nextdoor Safe or a Security Risk?"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-use-the-ask-alexa-widget-on-your-iphone/",
+          "author": "Tina Bailey",
+          "description": "Get even more use out of Alexa by adding the Ask Alexa widget to your iPhone Home Screen.",
+          "link": "https://www.makeuseof.com/how-to-use-the-ask-alexa-widget-on-your-iphone/",
+          "publishedOn": "2021-10-01T12:01:46.000Z",
+          "wordCount": 890,
+          "title": "How to Use the &quot;Ask Alexa&quot; Widget on Your iPhone"
+        },
+        {
+          "id": "https://www.makeuseof.com/what-are-atomic-swaps-in-crypto/",
+          "author": "Jerome Davidson",
+          "description": "Want to swap your Bitcoin for Ethereum? You can't. Not without an atomic swap, at least.",
+          "link": "https://www.makeuseof.com/what-are-atomic-swaps-in-crypto/",
+          "publishedOn": "2021-10-01T11:30:42.000Z",
+          "wordCount": 1142,
+          "title": "What Are Atomic Swaps in Crypto?"
+        },
+        {
+          "id": "https://www.makeuseof.com/finder-file-management-tips-mac/",
+          "author": "Matt Moore",
+          "description": "Take your file management to the next level on a Mac with these useful Finder tips.",
+          "link": "https://www.makeuseof.com/finder-file-management-tips-mac/",
+          "publishedOn": "2021-10-01T11:00:54.000Z",
+          "wordCount": 1766,
+          "title": "10 Tips for Managing Files or Folders in Finder on Your Mac"
+        },
+        {
+          "id": "https://www.makeuseof.com/tag/terminal-commands-chromebook/",
+          "author": "Dan Price",
+          "description": "Your Chromebook has its own terminal, the Crosh. We show you the essential Chromebook terminal commands you should know.",
+          "link": "https://www.makeuseof.com/tag/terminal-commands-chromebook/",
+          "publishedOn": "2021-10-01T09:30:15.000Z",
+          "wordCount": 1754,
+          "title": "18 Crosh Terminal Commands All Chromebook Users Should Know"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-manually-or-automatically-update-apps-iphone/",
+          "author": "Dilum Senevirathne",
+          "description": "It's important to keep the apps on your iPhone up to date to make sure they work as well as possible. Luckily, that's easy to do!",
+          "link": "https://www.makeuseof.com/how-to-manually-or-automatically-update-apps-iphone/",
+          "publishedOn": "2021-09-30T22:00:12.000Z",
+          "wordCount": 909,
+          "title": "How to Automatically or Manually Update the Apps on Your iPhone"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-buy-amazon-astro/",
+          "author": "Brent Dirks",
+          "description": "We’ll show you the steps you need to take to request an invitation to purchase Amazon’s home robot when it is available for sale later this year.",
+          "link": "https://www.makeuseof.com/how-to-buy-amazon-astro/",
+          "publishedOn": "2021-09-30T21:30:22.000Z",
+          "wordCount": 812,
+          "title": "How to Request an Invite to Buy the New Amazon Astro Home Robot"
+        },
+        {
+          "id": "https://www.makeuseof.com/when-will-flying-cars-be-ready/",
+          "author": "Ayush Jalan",
+          "description": "Flying cars sound incredible, but would you trust your fellow motorists with one?",
+          "link": "https://www.makeuseof.com/when-will-flying-cars-be-ready/",
+          "publishedOn": "2021-09-30T21:30:21.000Z",
+          "wordCount": 1729,
+          "title": "When Will Flying Cars Finally Be Ready for Public Society?"
+        },
+        {
+          "id": "https://www.makeuseof.com/invaluable-benefits-switching-to-linux/",
+          "author": "Bertel King",
+          "description": "Linux continues to provide a new experience to its users. But are there any advantages of choosing Linux over other operating systems?",
+          "link": "https://www.makeuseof.com/invaluable-benefits-switching-to-linux/",
+          "publishedOn": "2021-09-30T21:00:12.000Z",
+          "wordCount": 1689,
+          "title": "The 4 Invaluable Benefits of Switching to Linux"
+        },
+        {
+          "id": "https://www.makeuseof.com/nsfw-ads-us-government-websites/",
+          "author": "Damir Mujezinovic",
+          "description": "Stumbled across unsuitable adverts on US government websites? You're not alone, but why are spammy adult ads appearing on govt sites?",
+          "link": "https://www.makeuseof.com/nsfw-ads-us-government-websites/",
+          "publishedOn": "2021-09-30T20:45:38.000Z",
+          "wordCount": 832,
+          "title": "Seeing NSFW Ads on Government Sites? Here's Why"
+        },
+        {
+          "id": "https://www.makeuseof.com/spell-grammar-check-excel/",
+          "author": "David Perry",
+          "description": "Enabling the spell and grammar checker in Excel will ensure your work is perfect without mistakes. Here's how to do it.",
+          "link": "https://www.makeuseof.com/spell-grammar-check-excel/",
+          "publishedOn": "2021-09-30T20:30:21.000Z",
+          "wordCount": 1909,
+          "title": "How to Spell and Grammar Check in Excel"
+        },
+        {
+          "id": "https://www.makeuseof.com/ios-15-apple-music-features/",
+          "author": "Aya Masango",
+          "description": "Thanks to iOS 15, Apple Music comes with some great new features to help discover and share tunes. Here's what they are and how to use them.",
+          "link": "https://www.makeuseof.com/ios-15-apple-music-features/",
+          "publishedOn": "2021-09-30T20:00:22.000Z",
+          "wordCount": 1557,
+          "title": "4 New iOS 15 Features to Try in Apple Music"
+        },
+        {
+          "id": "https://www.makeuseof.com/java-date-and-time-api-features/",
+          "author": "Kadeisha Kean",
+          "description": "Dealing with dates and times can be tricky since there are many edge cases and complexities. Fortunately the Java 8 date and time API is here to help.",
+          "link": "https://www.makeuseof.com/java-date-and-time-api-features/",
+          "publishedOn": "2021-09-30T20:00:22.000Z",
+          "wordCount": 1900,
+          "title": "5 Useful Features of the Java 8 Date and Time API"
+        },
+        {
+          "id": "https://www.makeuseof.com/javascript-map-set-data-structures/",
+          "author": "Unnati Bamania",
+          "description": "The set and map data structures are fundamental to computer programming. Learn how to use JavaScript's native implementations and simplify your code.",
+          "link": "https://www.makeuseof.com/javascript-map-set-data-structures/",
+          "publishedOn": "2021-09-30T19:32:57.000Z",
+          "wordCount": 1189,
+          "title": "Understanding Maps and Sets in JavaScript"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-clean-your-desktop-pc/",
+          "author": "Ben Stegner",
+          "description": "Over time, dust builds up inside of your desktop computer. Here's how to clean it out and keep your PC running optimally.",
+          "link": "https://www.makeuseof.com/how-to-clean-your-desktop-pc/",
+          "publishedOn": "2021-09-30T19:15:11.000Z",
+          "wordCount": 1907,
+          "title": "How to Clean Your Desktop PC"
+        },
+        {
+          "id": "https://www.makeuseof.com/book-summary-apps-android-iphone/",
+          "author": "Shreeya Deshpande",
+          "description": "It can be hard to find the time to read. Fortunately, these book summary apps will give you all the knowledge you need in just 15 minutes.",
+          "link": "https://www.makeuseof.com/book-summary-apps-android-iphone/",
+          "publishedOn": "2021-09-30T19:00:12.000Z",
+          "wordCount": 1890,
+          "title": "The 7 Best Book Summary Apps for Android and iPhone"
+        },
+        {
+          "id": "https://www.makeuseof.com/brightness-slider-missing/",
+          "author": "Matthew Wallaker",
+          "description": "Is Windows hiding the brightness slider from you? Here’s how to fix it.",
+          "link": "https://www.makeuseof.com/brightness-slider-missing/",
+          "publishedOn": "2021-09-30T18:30:21.000Z",
+          "wordCount": 927,
+          "title": "Is the Brightness Slider Missing From Your Taskbar? Here's How to Fix It"
+        },
+        {
+          "id": "https://www.makeuseof.com/old-phones-lose-whatsapp-support-affected-devices/",
+          "author": "Ayush Jalan",
+          "description": "If you're still using an iPhone 4S or an old Android phone, you'll soon no longer be able to access WhatsApp. Here's what you need to know.",
+          "link": "https://www.makeuseof.com/old-phones-lose-whatsapp-support-affected-devices/",
+          "publishedOn": "2021-09-30T18:15:12.000Z",
+          "wordCount": 820,
+          "title": "WhatsApp Will Stop Working on Many Phones From November 1st: Is Your Device Affected?"
+        },
+        {
+          "id": "https://www.makeuseof.com/key-tips-get-more-from-apple-reminders-iphone/",
+          "author": "Muslima Akbar",
+          "description": "Everyone who uses Apple Reminders on iOS needs to know about these cool features and tricks that make the app much more useful.",
+          "link": "https://www.makeuseof.com/key-tips-get-more-from-apple-reminders-iphone/",
+          "publishedOn": "2021-09-30T18:02:06.000Z",
+          "wordCount": 1583,
+          "title": "10 Key Tips to Get More From Apple Reminders on iPhone"
+        },
+        {
+          "id": "https://www.makeuseof.com/windows-10-full-ownership-registry/",
+          "author": "Arjun Ruparelia",
+          "description": "If you're trying to edit important registry files, Windows 10 may stop you. Here's how to get the right permissions to edit the Windows 10 registry.",
+          "link": "https://www.makeuseof.com/windows-10-full-ownership-registry/",
+          "publishedOn": "2021-09-30T17:45:21.000Z",
+          "wordCount": 1099,
+          "title": "How to Take Full Ownership of Registry Keys in Windows 10"
+        },
+        {
+          "id": "https://www.makeuseof.com/essential-graphic-design-terms/",
+          "author": "Tamal Das",
+          "description": "If you're just starting out in the world of graphic design, make sure you're familiar with these terms.",
+          "link": "https://www.makeuseof.com/essential-graphic-design-terms/",
+          "publishedOn": "2021-09-30T17:30:28.000Z",
+          "wordCount": 1559,
+          "title": "18 Essential Graphic Design Terms You Need to Know"
+        },
+        {
+          "id": "https://www.makeuseof.com/windows-10-lesser-known-apps/",
+          "author": "Neeraj Paruthi",
+          "description": "There are plenty of handy Windows apps out there, but not all of them have their fair share of time in the limelight.",
+          "link": "https://www.makeuseof.com/windows-10-lesser-known-apps/",
+          "publishedOn": "2021-09-30T17:16:11.000Z",
+          "wordCount": 1808,
+          "title": "6 Lesser-Known Apps to Enhance Your Windows 10 Experience"
+        },
+        {
+          "id": "https://www.makeuseof.com/tag/buy-kindle-just-use-free-app/",
+          "author": "Brittni Devlin",
+          "description": "Do you really need a Kindle device when you can just use the free Kindle app? Ereaders have their use, but perhaps you don't need one. Let's compare.",
+          "link": "https://www.makeuseof.com/tag/buy-kindle-just-use-free-app/",
+          "publishedOn": "2021-09-30T17:05:23.000Z",
+          "wordCount": 1505,
+          "title": "Kindle Device vs. Free Kindle App: Which One Should You Use?"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-use-pokemon-tv-app-nintendo-switch/",
+          "author": "Sergio Velasquez",
+          "description": "Want to watch the latest adventures of Pikachu and pals? You can, right on your Switch with Pokemon TV!",
+          "link": "https://www.makeuseof.com/how-to-use-pokemon-tv-app-nintendo-switch/",
+          "publishedOn": "2021-09-30T17:00:44.000Z",
+          "wordCount": 820,
+          "title": "How to Use the Pokemon TV App on Your Nintendo Switch"
+        },
+        {
+          "id": "https://www.makeuseof.com/google-my-activity-android/",
+          "author": "Ayush Jalan",
+          "description": "You can manage your recent Google search history and more through the My Activity section on your Android phone. Here's how to find it.",
+          "link": "https://www.makeuseof.com/google-my-activity-android/",
+          "publishedOn": "2021-09-30T16:45:21.000Z",
+          "wordCount": 768,
+          "title": "How to Access Google &quot;My Activity&quot; on Android"
+        },
+        {
+          "id": "https://www.makeuseof.com/reasons-why-microsoft-teams-better-than-slack/",
+          "author": "David Perry",
+          "description": "Microsoft Teams and Slack are two giants of the collaboration tool space, but Teams could be better suited to your needs. Find out why!",
+          "link": "https://www.makeuseof.com/reasons-why-microsoft-teams-better-than-slack/",
+          "publishedOn": "2021-09-30T16:31:21.000Z",
+          "wordCount": 1575,
+          "title": "5 Reasons Why Microsoft Teams Is Better Than Slack"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-cancel-youtube-premium/",
+          "author": "Sergio Velasquez",
+          "description": "Had enough of YouTube Premium? Here's how to cancel your subscription quickly and simply across a range of devices.",
+          "link": "https://www.makeuseof.com/how-to-cancel-youtube-premium/",
+          "publishedOn": "2021-09-30T16:16:11.000Z",
+          "wordCount": 878,
+          "title": "How to Cancel YouTube Premium"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-set-up-back-up-authenticator-codes-google-account/",
+          "author": "Alvin Wanjala",
+          "description": "If you've got a Google account, here's how you can add an extra layer of security to your account by setting up back-up authenticator codes.",
+          "link": "https://www.makeuseof.com/how-to-set-up-back-up-authenticator-codes-google-account/",
+          "publishedOn": "2021-09-30T16:00:32.000Z",
+          "wordCount": 969,
+          "title": "How to Set Up Back-Up Authenticator Codes for Your Google Account"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-fix-troubleshoot-widgets-iphone-ipad/",
+          "author": "Dilum Senevirathne",
+          "description": "Widgets not working on your iPhone or iPad? Just follow these quick troubleshooting steps to fix them.",
+          "link": "https://www.makeuseof.com/how-to-fix-troubleshoot-widgets-iphone-ipad/",
+          "publishedOn": "2021-09-30T15:45:21.000Z",
+          "wordCount": 1598,
+          "title": "10 Quick Fixes for When Widgets Aren't Working on Your iPhone or iPad"
+        },
+        {
+          "id": "https://www.makeuseof.com/best-handheld-vacuums/",
+          "author": "Brent Dirks",
+          "description": "Cleaning up crumbs and pet hair is no longer a chore when you've got a handheld vacuum to hand.",
+          "link": "https://www.makeuseof.com/best-handheld-vacuums/",
+          "publishedOn": "2021-09-30T15:35:21.000Z",
+          "wordCount": 2406,
+          "title": "The 7 Best Handheld Vacuums"
+        },
+        {
+          "id": "https://www.makeuseof.com/ps4-controller-battery-replacement-guide-save-your-dualshock-4-from-the-landfill/",
+          "author": "Nachiket Mhatre",
+          "description": "Don’t discard your unresponsive DualShock 4 controller just yet. Here's how to replace a dead battery and give the old device a new lease of life.",
+          "link": "https://www.makeuseof.com/ps4-controller-battery-replacement-guide-save-your-dualshock-4-from-the-landfill/",
+          "publishedOn": "2021-09-30T15:30:21.000Z",
+          "wordCount": 1804,
+          "title": "PS4 Controller Battery Replacement Guide: Save Your DualShock 4 From the Landfill"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-edit-passwords-in-keychain-access-mac/",
+          "author": "Shujaa Imran",
+          "description": "Do you need to find or update a saved password on your Mac? Here's how to use Keychain Access to do it.",
+          "link": "https://www.makeuseof.com/how-to-edit-passwords-in-keychain-access-mac/",
+          "publishedOn": "2021-09-30T15:15:11.000Z",
+          "wordCount": 928,
+          "title": "How to Find and Edit Passwords in Keychain Access on a Mac"
+        },
+        {
+          "id": "https://www.makeuseof.com/learn-more-about-love-language-love-nudge-app/",
+          "author": "Sarah Chaney",
+          "description": "The Love Nudge app is the perfect way to learn more about love languages and to create stronger relationships.",
+          "link": "https://www.makeuseof.com/learn-more-about-love-language-love-nudge-app/",
+          "publishedOn": "2021-09-30T15:00:12.000Z",
+          "wordCount": 1302,
+          "title": "What's Your Love Language? Find Out in the Love Nudge App"
+        },
+        {
+          "id": "https://www.makeuseof.com/ways-to-set-up-a-test-site-for-wordpress-staging/",
+          "author": "Christian Cawley",
+          "description": "Making changes to your WordPress blog? Don't make them on the live site - here are six ways to make a staging site for testing changes on WordPress.",
+          "link": "https://www.makeuseof.com/ways-to-set-up-a-test-site-for-wordpress-staging/",
+          "publishedOn": "2021-09-30T14:46:21.000Z",
+          "wordCount": 1483,
+          "title": "6 Ways to Set Up a Test Site for WordPress Staging"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-split-excel-cells-using-a-delimiter/",
+          "author": "Hirangi Pandya",
+          "description": "The first step in working with data in Excel is organizing it. Learn the basics of delimiters and how they help to declutter a spreadsheet.",
+          "link": "https://www.makeuseof.com/how-to-split-excel-cells-using-a-delimiter/",
+          "publishedOn": "2021-09-30T14:30:22.000Z",
+          "wordCount": 1651,
+          "title": "How to Split Excel Cells Using a Delimiter"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-change-clubhouse-username/",
+          "author": "John Awa-abuon",
+          "description": "Your first Clubhouse username isn't permanent -- you can change it if you want to. Here's how.",
+          "link": "https://www.makeuseof.com/how-to-change-clubhouse-username/",
+          "publishedOn": "2021-09-30T14:16:21.000Z",
+          "wordCount": 866,
+          "title": "How to Change Your Clubhouse Username"
+        },
+        {
+          "id": "https://www.makeuseof.com/tag/netflix-amazon-video-plex-raspberry-pi/",
+          "author": "Christian Cawley",
+          "description": "Here's how to watch Disney Plus, Netflix, Amazon Video, and Plex on your Raspberry Pi to turn it into a legal streaming media center!",
+          "link": "https://www.makeuseof.com/tag/netflix-amazon-video-plex-raspberry-pi/",
+          "publishedOn": "2021-09-30T14:05:12.000Z",
+          "wordCount": 2338,
+          "title": "How to Watch Disney+, Netflix, Prime Video, and Plex With Raspberry Pi"
+        },
+        {
+          "id": "https://www.makeuseof.com/what-shovelware-gaming/",
+          "author": "Ste Knight",
+          "description": "Ever bought a game only to discover you've wasted your money? You may have bought shovelware; here's how to spot it.",
+          "link": "https://www.makeuseof.com/what-shovelware-gaming/",
+          "publishedOn": "2021-09-30T14:00:12.000Z",
+          "wordCount": 1554,
+          "title": "What Is Shovelware in Gaming?"
+        },
+        {
+          "id": "https://www.makeuseof.com/elevoc-clear-earbuds-review/",
+          "author": "Gavin Phillips",
+          "description": "Elevoc's Clear earbuds are an excellent entry-level ANC option that won't destroy your bank balance.",
+          "link": "https://www.makeuseof.com/elevoc-clear-earbuds-review/",
+          "publishedOn": "2021-09-30T13:55:21.000Z",
+          "wordCount": 2091,
+          "title": "Elevoc Clear Earbuds Review: Excellent ANC at Budget-Busting Price"
+        },
+        {
+          "id": "https://www.makeuseof.com/tips-for-cleaning-instagram-inbox/",
+          "author": "Quina Baterna",
+          "description": "Make cleaning your cluttered Instagram inbox easier with these tips.",
+          "link": "https://www.makeuseof.com/tips-for-cleaning-instagram-inbox/",
+          "publishedOn": "2021-09-30T13:47:48.000Z",
+          "wordCount": 1803,
+          "title": "6 Tips for Cleaning Your Instagram Inbox"
+        },
+        {
+          "id": "https://www.makeuseof.com/best-features-harvest-time-tracking-reporting-billing-projects/",
+          "author": "Tamal Das",
+          "description": "Harvest is an app that allows you to manage your time and expenses, from signing in to tracking them. Here are its best features to use!",
+          "link": "https://www.makeuseof.com/best-features-harvest-time-tracking-reporting-billing-projects/",
+          "publishedOn": "2021-09-30T13:30:11.000Z",
+          "wordCount": 1619,
+          "title": "The 5 Best Features of Harvest for Time Tracking, Reporting, and Billing of Projects"
+        },
+        {
+          "id": "https://www.makeuseof.com/best-group-chat-app-android/",
+          "author": "Manuviraj Godara",
+          "description": "Text chat, voice chat, video chat---no matter what you're looking for, you have a group chat app available for it.",
+          "link": "https://www.makeuseof.com/best-group-chat-app-android/",
+          "publishedOn": "2021-09-30T13:16:28.000Z",
+          "wordCount": 1571,
+          "title": "The 5 Best Group Chat Apps for Android"
+        },
+        {
+          "id": "https://www.makeuseof.com/are-your-posts-really-permanent/",
+          "author": "Shannon Flynn",
+          "description": "If you delete online content, does it disappear? It's not that simple. Here's what you need to know about content deletion on social media and beyond.",
+          "link": "https://www.makeuseof.com/are-your-posts-really-permanent/",
+          "publishedOn": "2021-09-30T13:00:22.000Z",
+          "wordCount": 1807,
+          "title": "Are Your Online Posts Really Permanent?"
+        },
+        {
+          "id": "https://www.makeuseof.com/old-android-phones-will-lose-google-apps-support/",
+          "author": "Ayush Jalan",
+          "description": "Google is ending support for older versions of Android. Here's how to see if your device is affected, and what to do if it is.",
+          "link": "https://www.makeuseof.com/old-android-phones-will-lose-google-apps-support/",
+          "publishedOn": "2021-09-30T12:46:45.000Z",
+          "wordCount": 1054,
+          "title": "Google Apps Will No Longer Work on Old Android Phones: Is Yours Affected?"
+        },
+        {
+          "id": "https://www.makeuseof.com/criteria-when-choosing-online-course/",
+          "author": "Syed Hammad Mahmood",
+          "description": "If you're trying to choose an online course, here are eight criteria you can use to make sure you're making the right choice,",
+          "link": "https://www.makeuseof.com/criteria-when-choosing-online-course/",
+          "publishedOn": "2021-09-30T12:30:21.000Z",
+          "wordCount": 1487,
+          "title": "8 Criteria to Consider When Choosing an Online Course"
+        },
+        {
+          "id": "https://www.makeuseof.com/creepy-chan-meme-girl-became-a-model/",
+          "author": "Amy Cottreau-Moore",
+          "description": "Here's the story of Creepy Chan, who turned her virality as a meme into a modeling career.",
+          "link": "https://www.makeuseof.com/creepy-chan-meme-girl-became-a-model/",
+          "publishedOn": "2021-09-30T12:15:44.000Z",
+          "wordCount": 1083,
+          "title": "Who Is Creepy Chan? How a 4chan Meme Girl Became a Model"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-use-portrait-mode-video-calls-facetime-iphone/",
+          "author": "Ankur Thakur",
+          "description": "Take your video calling to the next level by blurring the background with Portrait mode in FaceTime and other video conference apps in iOS 15.",
+          "link": "https://www.makeuseof.com/how-to-use-portrait-mode-video-calls-facetime-iphone/",
+          "publishedOn": "2021-09-30T12:00:11.000Z",
+          "wordCount": 939,
+          "title": "How to Blur the Background for Video Calls With Portrait Mode in iOS 15"
+        },
+        {
+          "id": "https://www.makeuseof.com/key-ai-facts/",
+          "author": "Katie Rees",
+          "description": "The idea of AI has been around for much longer than you might think!",
+          "link": "https://www.makeuseof.com/key-ai-facts/",
+          "publishedOn": "2021-09-30T11:30:21.000Z",
+          "wordCount": 1660,
+          "title": "5 Key Facts About AI: How Long Has It Been Around?"
+        },
+        {
+          "id": "https://www.makeuseof.com/what-is-keychain-password-mac/",
+          "author": "Jessica Lanman",
+          "description": "Does your Mac keep telling you to enter the keychain password? We'll explain what your keychain password is and how to reset it.",
+          "link": "https://www.makeuseof.com/what-is-keychain-password-mac/",
+          "publishedOn": "2021-09-30T11:00:24.000Z",
+          "wordCount": 1631,
+          "title": "What Is the Keychain Password on a Mac?"
+        },
+        {
+          "id": "https://www.makeuseof.com/best-ethernet-cables-gaming/",
+          "author": "Brady Klinger-Meyers",
+          "description": "Ensure you have a lag-free gaming experience by investing in a quality ethernet cable.",
+          "link": "https://www.makeuseof.com/best-ethernet-cables-gaming/",
+          "publishedOn": "2021-09-30T10:10:21.000Z",
+          "wordCount": 2614,
+          "title": "The 7 Best Ethernet Cables for Gaming"
+        },
+        {
+          "id": "https://www.makeuseof.com/best-digital-fertility-monitors/",
+          "author": "Jowi Morales",
+          "description": "Increase your chances when trying to conceive by tracking your ovulation cycle with a digital fertility monitor.",
+          "link": "https://www.makeuseof.com/best-digital-fertility-monitors/",
+          "publishedOn": "2021-09-30T09:40:21.000Z",
+          "wordCount": 2575,
+          "title": "The 7 Best Digital Fertility Monitors"
+        },
+        {
+          "id": "https://www.makeuseof.com/new-malware-strain-stealing-gaming-accounts/",
+          "author": "Simon Batt",
+          "description": "One bad download could cost you your entire library... but there is a way to stay safe.",
+          "link": "https://www.makeuseof.com/new-malware-strain-stealing-gaming-accounts/",
+          "publishedOn": "2021-09-29T22:46:21.000Z",
+          "wordCount": 1172,
+          "title": "A New Malware Strain Is Stealing Gaming Accounts: Here's How"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-use-voiceover-iphone/",
+          "author": "Hiba Fiaz",
+          "description": "The VoiceOver feature makes it possible to use your iPhone even if you can't see what's on the screen. Here's how to get started with it.",
+          "link": "https://www.makeuseof.com/how-to-use-voiceover-iphone/",
+          "publishedOn": "2021-09-29T22:00:56.000Z",
+          "wordCount": 1568,
+          "title": "How to Master the VoiceOver Feature to Use Your iPhone Without Looking at It"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-use-spoken-content-mac/",
+          "author": "Jessica Lanman",
+          "description": "Apple's Spoken Content feature lets your Mac read aloud from documents, PDFs, websites, and more. Here's how to make the most of it.",
+          "link": "https://www.makeuseof.com/how-to-use-spoken-content-mac/",
+          "publishedOn": "2021-09-29T21:45:21.000Z",
+          "wordCount": 1703,
+          "title": "How to Use Spoken Content to Make Your Mac Read Out Loud to You"
+        },
+        {
+          "id": "https://www.makeuseof.com/what-we-want-sony-a7-iv/",
+          "author": "Hamlin Rozario",
+          "description": "The A7 IV is Sony's latest addition to the A7 series, but will it be worth it? Here are the key features it needs to stand out.",
+          "link": "https://www.makeuseof.com/what-we-want-sony-a7-iv/",
+          "publishedOn": "2021-09-29T21:10:42.000Z",
+          "wordCount": 1180,
+          "title": "5 Things We Want to See in the Sony A7 IV"
+        },
+        {
+          "id": "https://www.makeuseof.com/best-beauty-subscription-boxes/",
+          "author": "Omega Fumba",
+          "description": "For those that are keen to keep up-to-date with the latest beauty products, here are the nine best beauty subscription boxes.",
+          "link": "https://www.makeuseof.com/best-beauty-subscription-boxes/",
+          "publishedOn": "2021-09-29T21:00:44.000Z",
+          "wordCount": 1455,
+          "title": "The 9 Best Beauty Subscription Boxes"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-optimize-todo-list-be-more-efficient/",
+          "author": "Shay Burns",
+          "description": "Want to know how to use your to-do list to it's full potential? Here are some tips on how to do it!",
+          "link": "https://www.makeuseof.com/how-to-optimize-todo-list-be-more-efficient/",
+          "publishedOn": "2021-09-29T20:30:31.000Z",
+          "wordCount": 1510,
+          "title": "How to Optimize Your To-Do List to Be More Efficient"
+        },
+        {
+          "id": "https://www.makeuseof.com/apps-to-keep-track-birthdays/",
+          "author": "Sarah Chaney",
+          "description": "This collection of Android apps will ensure you never forget a birthday or anniversary, and always send your card on time.",
+          "link": "https://www.makeuseof.com/apps-to-keep-track-birthdays/",
+          "publishedOn": "2021-09-29T20:00:28.000Z",
+          "wordCount": 1613,
+          "title": "6 Android Apps That Help You Remember Birthdays, Send a Card, and More"
+        },
+        {
+          "id": "https://www.makeuseof.com/face-id-bypass-ios-15/",
+          "author": "Aya Masango",
+          "description": "The iOS Face ID authentication has been the subject of various hack attempts. Does Apple's update in iOS 15 make Face ID tougher to bypass?",
+          "link": "https://www.makeuseof.com/face-id-bypass-ios-15/",
+          "publishedOn": "2021-09-29T19:45:21.000Z",
+          "wordCount": 1091,
+          "title": "Is Apple's Face ID Tougher to Bypass in iOS 15?"
+        },
+        {
+          "id": "https://www.makeuseof.com/xdo-pantera-picopc-tiny-pc-and-pico-projector-review/",
+          "author": "Kannon Yamada",
+          "description": "The XDO Pantera PicoPC packs a fair amount of punch relative to its tiny size. But should you buy one?",
+          "link": "https://www.makeuseof.com/xdo-pantera-picopc-tiny-pc-and-pico-projector-review/",
+          "publishedOn": "2021-09-29T19:30:44.000Z",
+          "wordCount": 2538,
+          "title": "XDO Pantera PicoPC Tiny PC and Pico Projector Review: A Good Kickstarter for Tiny PC Enthusiasts"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-quickly-record-audio-using-built-in-apps-mac/",
+          "author": "Shujaa Imran",
+          "description": "Need to record some audio on your Mac? Here are the easiest ways to do it without any third-party apps or external microphones.",
+          "link": "https://www.makeuseof.com/how-to-quickly-record-audio-using-built-in-apps-mac/",
+          "publishedOn": "2021-09-29T19:30:44.000Z",
+          "wordCount": 1128,
+          "title": "How to Quickly Record Audio Into Your Mac Using Built-in Apps"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-does-hulu-work/",
+          "author": "Anina Ot",
+          "description": "Hulu has become one of the most popular cable-cutting options available, but what's behind its success?",
+          "link": "https://www.makeuseof.com/how-does-hulu-work/",
+          "publishedOn": "2021-09-29T19:00:42.000Z",
+          "wordCount": 1467,
+          "title": "How Does Hulu Work and What Does It Offer for Subscribers?"
+        },
+        {
+          "id": "https://www.makeuseof.com/apple-music-identify-tracks-in-dj-mixes/",
+          "author": "Aya Masango",
+          "description": "Here's everything you need to know about the improvements Apple Music has made to its DJ mix feature, including the ability to identify tracks within.",
+          "link": "https://www.makeuseof.com/apple-music-identify-tracks-in-dj-mixes/",
+          "publishedOn": "2021-09-29T18:30:48.000Z",
+          "wordCount": 1475,
+          "title": "How Apple Music Has Improved Its DJ Mixes With Shazam"
+        },
+        {
+          "id": "https://www.makeuseof.com/tag/install-gimp-plugins/",
+          "author": "Emma Garofalo",
+          "description": "In this guide to using GIMP plugins, we'll walk you through where to get the best GIMP plugins and how to install them.",
+          "link": "https://www.makeuseof.com/tag/install-gimp-plugins/",
+          "publishedOn": "2021-09-29T18:15:12.000Z",
+          "wordCount": 1730,
+          "title": "The 8 Best GIMP Plugins and How to Install Them"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-use-facebook-avatar-on-whatsapp/",
+          "author": "Shan Abdul",
+          "description": "Facebook Avatars aren't only for the social media website, you can use them on WhatsApp too.",
+          "link": "https://www.makeuseof.com/how-to-use-facebook-avatar-on-whatsapp/",
+          "publishedOn": "2021-09-29T18:15:11.000Z",
+          "wordCount": 860,
+          "title": "How to Use a Facebook Avatar on WhatsApp"
+        },
+        {
+          "id": "https://www.makeuseof.com/side-hustle-apps-making-extra-cash/",
+          "author": "Joe Cason",
+          "description": "Looking to pick up a gig or temporary job for some extra money? Try these great apps that make it easy to find side hustles.",
+          "link": "https://www.makeuseof.com/side-hustle-apps-making-extra-cash/",
+          "publishedOn": "2021-09-29T18:00:47.000Z",
+          "wordCount": 1682,
+          "title": "The 6 Best Side Hustle Apps for Making Extra Cash"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-change-safari-background-on-iphone/",
+          "author": "Ankur Thakur",
+          "description": "Add a splash of color to your web browser by choosing a background design to use with Safari on your iPhone.",
+          "link": "https://www.makeuseof.com/how-to-change-safari-background-on-iphone/",
+          "publishedOn": "2021-09-29T17:30:45.000Z",
+          "wordCount": 869,
+          "title": "How to Add a Custom Background to Safari in iOS 15"
+        },
+        {
+          "id": "https://www.makeuseof.com/windows-10-critical-structure-corruption-BSOD/",
+          "author": "Shaant Minhas",
+          "description": "The Windows Critical Structure Corruption can stop your work in its tracks. Learn how to get rid of this error for good.",
+          "link": "https://www.makeuseof.com/windows-10-critical-structure-corruption-BSOD/",
+          "publishedOn": "2021-09-29T17:15:11.000Z",
+          "wordCount": 1995,
+          "title": "How to Fix the &quot;Critical Structure Corruption&quot; BSOD in Windows 10"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-change-ps5-dns-settings/",
+          "author": "Amir M. Bohlooli",
+          "description": "Using the wrong DNS can get in the way of enjoying your games. Follow these steps to change your PS5 DNS.",
+          "link": "https://www.makeuseof.com/how-to-change-ps5-dns-settings/",
+          "publishedOn": "2021-09-29T17:00:56.000Z",
+          "wordCount": 1083,
+          "title": "How to Change DNS Settings on Your PS5"
+        },
+        {
+          "id": "https://www.makeuseof.com/windows-10-install-net-framework-version-35/",
+          "author": "Arjun Ruparelia",
+          "description": "Sometimes you need to go back a few versions of .NET to get something working. But how do you do that?",
+          "link": "https://www.makeuseof.com/windows-10-install-net-framework-version-35/",
+          "publishedOn": "2021-09-29T16:45:11.000Z",
+          "wordCount": 1512,
+          "title": "How to Install .NET Framework Version 3.5 on Windows 10"
+        },
+        {
+          "id": "https://www.makeuseof.com/tips-making-group-projects-easy/",
+          "author": "Natalie Stewart",
+          "description": "Group projects can be hard, especially when one of the members isn't doing their part. Here are some ways to make group projects less painful.",
+          "link": "https://www.makeuseof.com/tips-making-group-projects-easy/",
+          "publishedOn": "2021-09-29T16:30:48.000Z",
+          "wordCount": 1465,
+          "title": "5 Tips for Making Group Projects Easy"
+        },
+        {
+          "id": "https://www.makeuseof.com/windows-fix-there-was-a-problem-starting-logildadll-error/",
+          "author": "Shaant Minhas",
+          "description": "Is your Logitech device giving your issues with a logiLDA.dll error? Here's how to fix that.",
+          "link": "https://www.makeuseof.com/windows-fix-there-was-a-problem-starting-logildadll-error/",
+          "publishedOn": "2021-09-29T16:16:21.000Z",
+          "wordCount": 1519,
+          "title": "How to Fix the “There Was a Problem Starting logiLDA.dll” Error on Windows"
+        }
+      ]
+    },
+    {
+      "title": "Hacker Noon",
+      "feedUrl": "https://hackernoon.com/feed",
+      "siteUrl": "http://github.com/dylang/node-rss",
+      "articles": [
+        {
+          "id": "https://hackernoon.com/how-to-unlock-your-android-phone-if-your-forgot-your-pin?source=rss",
+          "author": "Get ISP Info",
+          "description": "Google equipped Android devices with screen locks, ensuring your private content is safe whenever unwanted individuals handle your device. This factor is essential, especially in today's society, where stolen personal data can ruin one's life.",
+          "link": "https://hackernoon.com/how-to-unlock-your-android-phone-if-your-forgot-your-pin?source=rss",
+          "publishedOn": "2021-10-01T21:51:35.000Z",
+          "wordCount": 1813,
+          "title": "How To Unlock Your Android Phone If Your Forgot Your Pin"
+        },
+        {
+          "id": "https://hackernoon.com/the-central-declaration-of-dependencies-for-android-developers?source=rss",
+          "author": "Timofey Krestyanov",
+          "description": "A version catalog is a replacement for the previous patterns, supported by Gradle, without the drawbacks of the previous approaches.",
+          "link": "https://hackernoon.com/the-central-declaration-of-dependencies-for-android-developers?source=rss",
+          "publishedOn": "2021-10-01T21:43:46.000Z",
+          "wordCount": 804,
+          "title": "The Central Declaration of Dependencies for Android Developers"
+        },
+        {
+          "id": "https://hackernoon.com/why-are-businesses-raising-equity-with-crowdfunding?source=rss",
+          "author": "TIKI",
+          "description": "Equity crowdfunding was not the easiest choice to make, but it kept us true to our core values of trust, transparency, and user-centricity.",
+          "link": "https://hackernoon.com/why-are-businesses-raising-equity-with-crowdfunding?source=rss",
+          "publishedOn": "2021-10-01T21:27:05.000Z",
+          "wordCount": 840,
+          "title": "Why Are Businesses Raising Equity with Crowdfunding?"
+        },
+        {
+          "id": "https://hackernoon.com/3-steps-to-creating-your-own-publishing-blog?source=rss",
+          "author": "Otis H. Anderson",
+          "description": "Learn how to create your own publishing blog by choosing a name, buying a domain name and hosting provider and finding the best blogging software.",
+          "link": "https://hackernoon.com/3-steps-to-creating-your-own-publishing-blog?source=rss",
+          "publishedOn": "2021-10-01T21:25:17.000Z",
+          "wordCount": 1562,
+          "title": "3-Steps to Creating Your Own Publishing Blog"
+        },
+        {
+          "id": "https://hackernoon.com/ransomware-aids-scientists-and-a-floppy-disk?source=rss",
+          "author": "Matthew",
+          "description": "Global technological trends are pushing scammers to create more inventive ways to pay the ransom.",
+          "link": "https://hackernoon.com/ransomware-aids-scientists-and-a-floppy-disk?source=rss",
+          "publishedOn": "2021-10-01T21:24:29.000Z",
+          "wordCount": 778,
+          "title": "Ransomware:  AIDS, Scientists, and a Floppy Disk"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-create-a-bug-report-form-in-github?source=rss",
+          "author": "Anish De",
+          "description": "GitHub has got a feature that allows you to make forms for issues. In this article, I show you how to create a bug report issue form.",
+          "link": "https://hackernoon.com/how-to-create-a-bug-report-form-in-github?source=rss",
+          "publishedOn": "2021-10-01T21:15:26.000Z",
+          "wordCount": 758,
+          "title": "How to Create a Bug Report Form in GitHub"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-write-fewer-lines-of-code-with-the-openapi-generator?source=rss",
+          "author": null,
+          "description": "Hey! I'll start with the main thing - I'm a lazy person. I'm a very, very lazy developer. How can I get rid of the need to write at least part of the code?",
+          "link": "https://hackernoon.com/how-to-write-fewer-lines-of-code-with-the-openapi-generator?source=rss",
+          "publishedOn": "2021-10-01T21:06:03.000Z",
+          "wordCount": 785,
+          "title": "How to Write Fewer Lines of Code with the OpenAPI Generator"
+        },
+        {
+          "id": "https://hackernoon.com/apple-vs-microsoft-who-offers-better-security?source=rss",
+          "author": "Jessica Truong",
+          "description": "Apple vs Microsoft, which one offers better security between? In this article you will get a detailed explanation how much security each of them have to offer.",
+          "link": "https://hackernoon.com/apple-vs-microsoft-who-offers-better-security?source=rss",
+          "publishedOn": "2021-10-01T20:44:41.000Z",
+          "wordCount": 1687,
+          "title": "Apple vs Microsoft: Who Offers Better Security?"
+        },
+        {
+          "id": "https://hackernoon.com/mta-partners-with-decentraland-and-the-sandbox-to-launch-wearable-nft-metahelmets?source=rss",
+          "author": "Metaverse Travel Agency",
+          "description": "Avatars were the first step, now let's empower them with NFT wearables to improve the experience as well as bridge the gap between NFTs and the Metaverse.",
+          "link": "https://hackernoon.com/mta-partners-with-decentraland-and-the-sandbox-to-launch-wearable-nft-metahelmets?source=rss",
+          "publishedOn": "2021-10-01T20:06:29.000Z",
+          "wordCount": 801,
+          "title": "M.T.A partners with Decentraland and The Sandbox to Launch Wearable NFT Metahelmets"
+        },
+        {
+          "id": "https://hackernoon.com/web-scraping-with-javascript-and-nodejs?source=rss",
+          "author": "Ander",
+          "description": "Learn how to build a web scraper with Javascript and Node.js. Add anti-blocking techniques, a headless browser, and parallelize requests with a queue.",
+          "link": "https://hackernoon.com/web-scraping-with-javascript-and-nodejs?source=rss",
+          "publishedOn": "2021-10-01T19:29:40.000Z",
+          "wordCount": 786,
+          "title": "Web Scraping with Javascript and Node.js"
+        },
+        {
+          "id": "https://hackernoon.com/cutting-out-the-middleman-how-the-blockchain-is-disrupting-the-way-we-connect-with-businesses?source=rss",
+          "author": "Elizabeth Levine",
+          "description": "Web3 products, platforms, and technologies offer unparalleled levels of transparency and security while allowing direct trade between individuals and companies.",
+          "link": "https://hackernoon.com/cutting-out-the-middleman-how-the-blockchain-is-disrupting-the-way-we-connect-with-businesses?source=rss",
+          "publishedOn": "2021-10-01T15:49:15.000Z",
+          "wordCount": 1628,
+          "title": "Cutting Out the Middleman: How the Blockchain is Disrupting the Way We Connect With Businesses"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-the-difference-between-telnet-and-ssh?source=rss",
+          "author": "Jessica Truong",
+          "description": "Telnet and SSH are network protocols used to manage and access devices remotely. SSH is more secure and preferred because it encrypts data sent over the network",
+          "link": "https://hackernoon.com/what-is-the-difference-between-telnet-and-ssh?source=rss",
+          "publishedOn": "2021-10-01T15:18:38.000Z",
+          "wordCount": 1663,
+          "title": "What is the Difference between Telnet and SSH?"
+        },
+        {
+          "id": "https://hackernoon.com/the-science-of-productive-role-conflict?source=rss",
+          "author": "Vinita Bansal",
+          "description": "Use your sense of autonomy to feel in control of your situation and employ effective problem-solving strategies to resolve the conflict.",
+          "link": "https://hackernoon.com/the-science-of-productive-role-conflict?source=rss",
+          "publishedOn": "2021-10-01T14:23:13.000Z",
+          "wordCount": 3225,
+          "title": "The Science of Productive Role Conflict"
+        },
+        {
+          "id": "https://hackernoon.com/how-nonprofits-can-protect-themselves-against-getting-hacked?source=rss",
+          "author": "TechSoup",
+          "description": "Hacking is a serious problem for nonprofits. When a hacker attacks, it's not just the nonprofit's information that they want, but donors' information",
+          "link": "https://hackernoon.com/how-nonprofits-can-protect-themselves-against-getting-hacked?source=rss",
+          "publishedOn": "2021-10-01T11:55:44.000Z",
+          "wordCount": 1772,
+          "title": "How Nonprofits can Protect Themselves Against Getting Hacked"
+        },
+        {
+          "id": "https://hackernoon.com/we-are-surprisingly-unaware-of-the-risks-of-illegal-streaming?source=rss",
+          "author": "TorrentFreak",
+          "description": "UK’s Federation Against Copyright Theft published the results of a new survey, finding that 62% of consumers are unaware of the hidden dangers of piracy.",
+          "link": "https://hackernoon.com/we-are-surprisingly-unaware-of-the-risks-of-illegal-streaming?source=rss",
+          "publishedOn": "2021-10-01T11:00:27.000Z",
+          "wordCount": 822,
+          "title": "We are Surprisingly Unaware of the Risks of Illegal Streaming"
+        },
+        {
+          "id": "https://hackernoon.com/how-we-can-better-understand-plonk?source=rss",
+          "author": "Vitalik Buterin",
+          "description": "Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge, or PLONKS are a new general-purpose zer-knowledge proof scheme.",
+          "link": "https://hackernoon.com/how-we-can-better-understand-plonk?source=rss",
+          "publishedOn": "2021-10-01T10:42:36.000Z",
+          "wordCount": 798,
+          "title": "How we can Better Understand PLONK"
+        },
+        {
+          "id": "https://hackernoon.com/react-ink-for-cli-a-gentle-introduction?source=rss",
+          "author": "Anish De",
+          "description": "React Ink is a library that brings the power of React to designing Command-Line Interfaces.",
+          "link": "https://hackernoon.com/react-ink-for-cli-a-gentle-introduction?source=rss",
+          "publishedOn": "2021-10-01T10:26:23.000Z",
+          "wordCount": 754,
+          "title": "React Ink for CLI: A Gentle Introduction"
+        },
+        {
+          "id": "https://hackernoon.com/average-true-range-atr-what-it-is-and-its-role-in-trading?source=rss",
+          "author": "Bybit",
+          "description": "Everyone wants to know when their favorite cryptocurrency will burst into volatility? And let’s be real, I’m guessing you’re no exception.",
+          "link": "https://hackernoon.com/average-true-range-atr-what-it-is-and-its-role-in-trading?source=rss",
+          "publishedOn": "2021-10-01T10:02:03.000Z",
+          "wordCount": 821,
+          "title": "Average True Range (ATR): What it is and Its Role in Trading"
+        },
+        {
+          "id": "https://hackernoon.com/3-tips-for-effective-kubernetes-application-troubleshooting?source=rss",
+          "author": "Sadie Williamson",
+          "description": "While debugging applications is slightly easier than solving issues with K8s clusters, it’s hardly a straightforward task. Here are three ways to simplify it.",
+          "link": "https://hackernoon.com/3-tips-for-effective-kubernetes-application-troubleshooting?source=rss",
+          "publishedOn": "2021-10-01T09:42:23.000Z",
+          "wordCount": 1619,
+          "title": "3 Tips for Effective Kubernetes Application Troubleshooting"
+        },
+        {
+          "id": "https://hackernoon.com/relaible-and-secure-api-how-to-test-with-hoppscotch?source=rss",
+          "author": "Sankalp Swami",
+          "description": "The only tutorial you need to understand Hoppscotch.",
+          "link": "https://hackernoon.com/relaible-and-secure-api-how-to-test-with-hoppscotch?source=rss",
+          "publishedOn": "2021-10-01T09:01:46.000Z",
+          "wordCount": 799,
+          "title": "Relaible and Secure API: How to Test with Hoppscotch"
+        }
+      ]
+    },
+    {
+      "title": "David Walsh Blog",
+      "feedUrl": "https://davidwalsh.name/feed",
+      "siteUrl": "https://davidwalsh.name",
+      "articles": [
+        {
+          "id": "https://davidwalsh.name/?p=27474",
+          "author": "David Walsh",
+          "description": "The UUID identifier has been used in programming since the days a baby-faced David Walsh became a professional software engineer. My first exposure to UUIDs was via a ColdFusion app I inherited and … the less we say about that the better. In any event, I was recently surprised to see that JavaScript has the […]\nThe post How to Create a UUID in JavaScript appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/javascript-uuid",
+          "publishedOn": "2021-09-30T01:47:39.000Z",
+          "wordCount": 602,
+          "title": "How to Create a UUID in JavaScript"
+        },
+        {
+          "id": "https://davidwalsh.name/?p=27469",
+          "author": "David Walsh",
+          "description": "One of the big themes of the web these days is concurrency, which leads to accomplishing tasks asynchronously. In doing so, the possibility of multiple errors can occur. Instead of providing a generic error, optimally you’d provide a wealth of error information. TheAggregateError error lets developers throw multiple errors within one single Error. Let’s see […]\nThe post AggregateError appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/aggregateerror",
+          "publishedOn": "2021-09-17T15:12:17.000Z",
+          "wordCount": 573,
+          "title": "AggregateError"
+        },
+        {
+          "id": "https://davidwalsh.name/?p=27462",
+          "author": "David Walsh",
+          "description": "I old enough to remember when we thought XML was going to change the programming world…then JSON saved us from that hell. Parsing and querying JSON data is fundamental task we’ve all coded for, but sometimes I just want to get some data locally with minimal fuss. I just learned of a really awesome library […]\nThe post jq for JSON appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/jq",
+          "publishedOn": "2021-08-27T16:29:41.000Z",
+          "wordCount": 669,
+          "title": "jq for JSON"
+        },
+        {
+          "id": "https://davidwalsh.name/?p=27459",
+          "author": "David Walsh",
+          "description": "Hooks are essential for the functional component pattern in React. One frequent logic comparison with class components was comparing a previous prop value with a current prop value via lifecycle methods. So what’s an easy pattern for duplicating previous value comparisons in functional components? The useRef and useEffect hooks allow us manage that same functionality […]\nThe post React usePrevious Hook appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/react-useprevious-hook",
+          "publishedOn": "2021-08-23T14:00:13.000Z",
+          "wordCount": 636,
+          "title": "React usePrevious Hook"
+        },
+        {
+          "id": "https://davidwalsh.name/?p=27454",
+          "author": "David Walsh",
+          "description": "As I’ve shown you in the past, nvm an excellent utility for switching between Node.js versions. Whether your host machine or CI, building and testing your apps on different Node versions is a necessity. I’ve recently found a few nvm commands that I found really useful during local development. To set a default node version […]\nThe post Set a Default Node Version with nvm appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/nvm-default-node",
+          "publishedOn": "2021-08-09T16:19:11.000Z",
+          "wordCount": 525,
+          "title": "Set a Default Node Version with nvm"
+        },
+        {
+          "id": "https://davidwalsh.name/?p=27453",
+          "author": "David Walsh",
+          "description": "Coding HTML forms has been painful my entire career. Form controls look different between operating systems and browsers, coding client side and server side validation is a nightmare, and inevitably you forget something somewhere along the line. Some behaviors don’t act the way you’d hope, like onChange, which only fires when the user leaves (blurs) […]\nThe post onInput Event appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/oninput-event",
+          "publishedOn": "2021-08-03T02:03:11.000Z",
+          "wordCount": 613,
+          "title": "onInput Event"
+        },
+        {
+          "id": "https://davidwalsh.name/?p=27448",
+          "author": "David Walsh",
+          "description": "Dark mode has seemingly become the desired visual mode for websites and mobile apps alike. Dark mode is easier on the eyes, especially for those like me who like to burn the midnight oil by coding and reading tutorials. Unfortunately not all websites offer dark mode, so it’s up to me to remedy the situation. […]\nThe post Dark Mode in One Line of Code! appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/dark-mode-invert-filter",
+          "publishedOn": "2021-07-19T12:41:40.000Z",
+          "wordCount": 669,
+          "title": "Dark Mode in One Line of Code!"
+        },
+        {
+          "id": "https://davidwalsh.name/?p=27444",
+          "author": "David Walsh",
+          "description": "The early days of the web felt like the wild west when it came to coding practices — just make it work. Then we became enlightened to better practices, separating HTML from CSS and JavaScript. Then came React and JSX, where we combine JavaScript, HTML, and even CSS with Styled Components — what an elegant […]\nThe post Fix Seeing “0” in Your JSX Code appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/fix-your-jsx",
+          "publishedOn": "2021-07-09T02:18:28.000Z",
+          "wordCount": 726,
+          "title": "Fix Seeing “0” in Your JSX Code"
+        }
+      ]
+    },
+    {
+      "title": "A List Apart: The Full Feed",
+      "feedUrl": "https://alistapart.com/main/feed/",
+      "siteUrl": "https://alistapart.com",
+      "articles": [
+        {
+          "id": "https://alistapart.com/article/a-content-model-is-not-a-design-system/",
+          "author": "by",
+          "description": "Do you remember when having a great website was enough? Now, people are getting answers from Siri, Google search snippets, and mobile apps, not just our websites. Forward-thinking organizations have adopted an omnichannel content strategy, whose mission is to reach audiences across multiple digital channels and platforms.\nBut how do you set up a content management system (CMS) to reach your audience now and in the future? I learned the hard way that creating a content model—a definition of content types, attributes, and relationships that let people and systems understand content—with my more familiar design-system thinking would capsize my customer’s omnichannel content strategy. You can avoid that outcome by creating content models that are semantic and that also connect related content.…",
+          "link": "https://alistapart.com/article/a-content-model-is-not-a-design-system/",
+          "publishedOn": "2021-09-23T14:00:00.000Z",
+          "wordCount": 2436,
+          "title": "A Content Model Is Not a Design System"
+        },
+        {
+          "id": "https://alistapart.com/article/design-for-safety-excerpt/",
+          "author": "by",
+          "description": "Antiracist economist Kim Crayton says that “intention without strategy is chaos.” We’ve discussed how our biases, assumptions, and inattention toward marginalized and vulnerable groups lead to dangerous and unethical tech—but what, specifically, do we need to do to fix it? The intention to make our tech safer is not enough; we need a strategy.\nThis chapter will equip you with that plan of action. It covers how to integrate safety principles into your design work in order to create tech that’s safe, how to convince your stakeholders that this work is necessary, and how to respond to the critique that what we actually need is more diversity. (Spoiler: we do, but diversity alone is not the antidote to fixing unethical, unsafe tech.)\nThe process for inclusive safety\nWhen you are designing for …",
+          "link": "https://alistapart.com/article/design-for-safety-excerpt/",
+          "publishedOn": "2021-08-26T15:01:43.000Z",
+          "wordCount": 4004,
+          "title": "Design for Safety, An Excerpt"
+        },
+        {
+          "id": "https://alistapart.com/article/sustainable-web-design-excerpt/",
+          "author": "by",
+          "description": "In the 1950s, many in the elite running community had begun to believe it wasn’t possible to run a mile in less than four minutes. Runners had been attempting it since the late 19th century and were beginning to draw the conclusion that the human body simply wasn’t built for the task. \nBut on May 6, 1956, Roger Bannister took everyone by surprise. It was a cold, wet day in Oxford, England—conditions no one expected to lend themselves to record-setting—and yet Bannister did just that, running a mile in 3:59.4 and becoming the first person in the record books to run a mile in under four minutes. \nThis shift in the benchmark had profound effects; the world now knew that the four-minute mile was possible. Bannister’s record lasted only forty-six days, when it was snatched away by Australian ru…",
+          "link": "https://alistapart.com/article/sustainable-web-design-excerpt/",
+          "publishedOn": "2021-08-05T14:00:00.000Z",
+          "wordCount": 3523,
+          "title": "Sustainable Web Design, An Excerpt"
+        },
+        {
+          "id": "https://alistapart.com/article/voice-content-and-usability/",
+          "author": "by",
+          "description": "We’ve been having conversations for thousands of years. Whether to convey information, conduct transactions, or simply to check in on one another, people have yammered away, chattering and gesticulating, through spoken conversation for countless generations. Only in the last few millennia have we begun to commit our conversations to writing, and only in the last few decades have we begun to outsource them to the computer, a machine that shows much more affinity for written correspondence than for the slangy vagaries of spoken language.\nComputers have trouble because between spoken and written language, speech is more primordial. To have successful conversations with us, machines must grapple with the messiness of human speech: the disfluencies and pauses, the gestures and body language, an…",
+          "link": "https://alistapart.com/article/voice-content-and-usability/",
+          "publishedOn": "2021-07-29T13:00:00.000Z",
+          "wordCount": 3851,
+          "title": "Voice Content and Usability"
+        },
+        {
+          "id": "https://alistapart.com/article/designing-for-the-unexpected/",
+          "author": "by",
+          "description": "I’m not sure when I first heard this quote, but it’s something that has stayed with me over the years. How do you create services for situations you can’t imagine? Or design products that work on devices yet to be invented?\nFlash, Photoshop, and responsive design\nWhen I first started designing websites, my go-to software was Photoshop. I created a 960px canvas and set about creating a layout that I would later drop content in. The development phase was about attaining pixel-perfect accuracy using fixed widths, fixed heights, and absolute positioning.\nEthan Marcotte’s talk at An Event Apart and subsequent article “Responsive Web Design” in A List Apart in 2010 changed all this. I was sold on responsive design as soon as I heard about it, but I was also terrified. The pixel-perfect designs f…",
+          "link": "https://alistapart.com/article/designing-for-the-unexpected/",
+          "publishedOn": "2021-07-15T13:00:00.000Z",
+          "wordCount": 4518,
+          "title": "Designing for the Unexpected"
+        }
+      ]
+    },
+    {
+      "title": "Algorithms, Blockchain and Cloud",
+      "feedUrl": "http://feeds.feedburner.com/helloacm?format=xml",
+      "siteUrl": "https://helloacm.com",
+      "articles": [
+        {
+          "id": "https://helloacm.com/?p=146947",
+          "author": "ACMer",
+          "description": "Given a quadratic equation it has two real roots (which could be the same) if and only if Proof of Quadratic Equation Roots Let’s move c to the other side: And multiply both sides with 4a so we...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-finding-real-roots-of-a-quadratic-equation/",
+          "publishedOn": "2021-09-30T20:07:47.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Finding Real Roots of a Quadratic Equation",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146933",
+          "author": "ACMer",
+          "description": "Given N squares which side is M, we want to re-arrange it to form a larger rectangle. We want to maximize the Perimeter. Algorithm to Compute Maximal Perimeter by Forming a Rectangle from N squares...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-compute-the-maximal-perimeter-by-forming-a-rectangle-from-n-squares/",
+          "publishedOn": "2021-09-29T20:38:27.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Compute the Maximal Perimeter by Forming a Rectangle from N squares",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146917",
+          "author": "ACMer",
+          "description": "Eric wants to build a Rectangle Fence against an old wall using length of bricks (all 32), see below: -------------------------- // old wall | | | | L____J // new wall Eric wants...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-compute-the-max-fence-area-via-bruteforce-algorithm-or-parabola-quadratic-equation/",
+          "publishedOn": "2021-09-28T20:57:23.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Compute the Max Fence Area via Bruteforce Algorithm or Parabola Quadratic Equation",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146901",
+          "author": "ACMer",
+          "description": "Every valid email consists of a local name and a domain name, separated by the ‘@’ sign. Besides lowercase letters, the email may contain one or more ‘.’ or ‘+’....\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-number-of-unique-email-addresses/",
+          "publishedOn": "2021-09-27T20:39:45.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Number of Unique Email Addresses",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146889",
+          "author": "ACMer",
+          "description": "Given a string s, consisting of “X” and “Y”s, delete the minimum number of characters such that there’s no consecutive “X” and no consecutive...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-remove-consecutive-duplicates/",
+          "publishedOn": "2021-09-25T20:00:33.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Remove Consecutive Duplicates",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146875",
+          "author": "ACMer",
+          "description": "Given a string s, return whether all its palindromic substrings have odd lengths. Constraints n ≤ 100,000 where n is the length of s Example 1 Input s = “bab” Output True Example 2 Input...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-all-odd-palindrome-substrings/",
+          "publishedOn": "2021-09-23T20:33:00.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – All Odd Palindrome Substrings",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146862",
+          "author": "ACMer",
+          "description": "There is a programming language with only four operations and one variable X: ++X and X++ increments the value of the variable X by 1. –X and X– decrements the value of the variable X by...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-final-value-of-variable-after-performing-operations-via-reduce-function/",
+          "publishedOn": "2021-09-21T21:30:24.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Final Value of Variable After Performing Operations (via Reduce Function)",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146850",
+          "author": "ACMer",
+          "description": "On Steem Blockchain, we can either proxy a witness vote or cast a witness vote (out of 30 votes) to a steem witness. We can use the steemjs library to get account information which includes the...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/javascript-nodejs-function-to-check-if-a-witness-has-been-voted-by-or-proxied-by-on-steem-blockchain/",
+          "publishedOn": "2021-09-21T18:56:38.000Z",
+          "wordCount": null,
+          "title": "Javascript (NodeJS) Function to Check if a Witness Has been Voted by or Proxied By on Steem Blockchain",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146835",
+          "author": "ACMer",
+          "description": "Given an integer array nums and an integer k, return the number of pairs (i, j) where i < j such that |nums – nums| == k. The value of |x| is defined as: x if x >=...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-count-number-of-pairs-with-absolute-difference-k/",
+          "publishedOn": "2021-09-19T18:44:53.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Count Number of Pairs With Absolute Difference K",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146820",
+          "author": "ACMer",
+          "description": "You are given a list of integers nums, representing the number of chess matches each person has won. Return a relative ranking (0-indexed) of each person. If two players have won the same amount,...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-leaderboard-algorithm-compute-the-ranking-of-numbers/",
+          "publishedOn": "2021-09-17T19:51:49.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Leaderboard Algorithm: Compute the Ranking of Numbers",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146804",
+          "author": "ACMer",
+          "description": "Evaluate the value of an arithmetic expression in Reverse Polish Notation. Valid operators are +, -, *, and /. Each operand may be an integer or another expression. Note that division between two...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-evaluate-reverse-polish-notation/",
+          "publishedOn": "2021-09-16T19:12:24.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Evaluate Reverse Polish Notation",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146789",
+          "author": "ACMer",
+          "description": "You are given a 0-indexed integer array nums, where nums represents the score of the ith student. You are also given an integer k. Pick the scores of any k students from the array so that the...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-minimum-difference-between-highest-and-lowest-of-k-scores/",
+          "publishedOn": "2021-09-15T19:39:47.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Minimum Difference Between Highest and Lowest of K Scores",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146769",
+          "author": "ACMer",
+          "description": "Often, I do the leetcoding at spare time such as watching kids running in soft play or other e.g. family events. Leetcoding is handy as long as you have a browser. But sometimes, I’d like to do...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/work-everywhere-build-a-serverless-visual-studio-code-in-browser-using-railway/",
+          "publishedOn": "2021-09-15T14:03:39.000Z",
+          "wordCount": null,
+          "title": "Work Everywhere: Build a Serverless Visual Studio Code in Browser using Railway",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146752",
+          "author": "ACMer",
+          "description": "Given a string s, reverse the string according to the following rules: All the characters that are not English letters remain in the same position. All the English letters (lowercase or uppercase)...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-reverse-only-letters-via-two-pointer-algorithm/",
+          "publishedOn": "2021-09-14T20:18:51.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Reverse Only Letters via Two Pointer Algorithm",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146738",
+          "author": "ACMer",
+          "description": "Given a lowercase alphabet string s and an integer k, return the length of the longest substring such that every character appears at least k times. Constraints k ≤ n ≤ 100,000 where n is the length...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-divide-and-conquer-algorithm-to-find-longest-substring-with-character-count-of-at-least-k/",
+          "publishedOn": "2021-09-12T20:39:35.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Divide and Conquer Algorithm to Find Longest Substring with Character Count of at Least K",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146725",
+          "author": "ACMer",
+          "description": "Given a two-dimensional integer matrix, return the area of the largest square of 1 s. Constraints n, m ≤ 200 where n and m are the number of rows and columns in matrix Example 1 Input matrix = , , ,...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-dynamic-programming-algorithm-to-calculate-largest-square-submatrix/",
+          "publishedOn": "2021-09-12T18:06:22.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Dynamic Programming Algorithm to Calculate Largest Square Submatrix",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146711",
+          "author": "ACMer",
+          "description": "You are given a list of list of integers intervals where each element contains the inclusive interval . Return the most frequently occurring number in the intervals. If there are ties, return the...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-line-sweeping-algorithm-to-compute-the-most-frequent-number-in-intervals/",
+          "publishedOn": "2021-09-11T20:46:43.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Line Sweeping Algorithm to Compute the Most Frequent Number in Intervals",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146696",
+          "author": "ACMer",
+          "description": "Given a string s, find the length of the longest substring that contains at most 2 distinct characters. Constraints n ≤ 10,000 where n is the length of s. Example 1 Input s = “abccb”...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-longest-substring-with-2-distinct-characters-by-sliding-window-algorithm/",
+          "publishedOn": "2021-09-09T22:35:31.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Longest Substring with 2 Distinct Characters by Sliding Window Algorithm",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146681",
+          "author": "ACMer",
+          "description": "Given a square Matrix we can compute its power. The result matrix will be of same dimension. Similar to the Integer Power Algorithm, we can achieve the Matrix Multiplication in O(LogN) time. def...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-matrix-power-algorithm/",
+          "publishedOn": "2021-09-08T23:35:34.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Matrix Power Algorithm",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146662",
+          "author": "ACMer",
+          "description": "Matrix Add and Subtraction Function We can add or subtract two matrices if and only if there are of the same sizes (same number of rows and columns). def add(A, B): R = len(A) assert R > 0 C =...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-matrix-add-subtraction-and-multiplication-algorithm/",
+          "publishedOn": "2021-09-06T21:01:30.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Matrix Add, Subtraction and Multiplication Algorithm",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146643",
+          "author": "ACMer",
+          "description": "Given two vectors of same length, a and b represented by two lists/array in Python, the dot product is defined as follows: where n is the length of both vectors. Compute the Dot Product in Python...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-compute-the-dot-product-using-zip-function-in-python/",
+          "publishedOn": "2021-09-05T13:19:30.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Compute the Dot Product using Zip Function in Python",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146628",
+          "author": "ACMer",
+          "description": "Given a 0-indexed integer array nums, find the leftmost middleIndex (i.e., the smallest amongst all the possible ones). A middleIndex is an index where nums + nums + … + nums == nums + nums +...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-prefix-sum-algorithm-to-find-the-middle-index-in-array/",
+          "publishedOn": "2021-09-04T20:21:18.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Prefix Sum Algorithm to Find the Middle Index in Array",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146613",
+          "author": "ACMer",
+          "description": "Given a list of integers nums, which contains either -1 or 1, return the length of the longest sublist that sums to 0. Constraints n ≤ 100,000 where n is the length of nums. Example 1 Input nums = ...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-longest-zero-sublist-sum-via-prefix-sum/",
+          "publishedOn": "2021-09-03T21:22:06.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Longest Zero Sublist Sum via Prefix Sum",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146595",
+          "author": "ACMer",
+          "description": "You are given a two-dimensional integer matrix matrix containing 1s and 0s. 1 represents land and 0 represents water. An island is a group of 1s that are neighboring whose perimeter is surrounded by...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-recursive-depth-first-search-algorithm-to-count-the-surrounded-islands/",
+          "publishedOn": "2021-09-02T20:33:19.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Recursive Depth First Search Algorithm to Count the Surrounded Islands",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146581",
+          "author": "ACMer",
+          "description": "We sometimes need to print the string (or char array) with binary content in hexadecimal format, we then can use the following C function: void printCharInHexadecimal(const char* str, int len) { for...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/the-c-function-to-print-a-char-array-string-in-hexadecimal/",
+          "publishedOn": "2021-09-02T13:32:56.000Z",
+          "wordCount": null,
+          "title": "The C Function to Print a Char Array (String) in Hexadecimal",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146566",
+          "author": "ACMer",
+          "description": "Given the root of a binary tree, return the maximum average value of a subtree of that tree. Answers within 10-5 of the actual answer will be accepted. A subtree of a tree is any node of that tree...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-recursive-depth-first-search-algorithm-to-compute-the-max-average-of-a-binary-subtree/",
+          "publishedOn": "2021-09-01T15:33:11.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Recursive Depth First Search Algorithm to Compute the Max Average of a Binary SubTree",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146551",
+          "author": "ACMer",
+          "description": "You are given n people represented as an integer from 0 to n – 1, and a list of friends tuples, where person friends and person friends are friends. Return whether everyone has at least one...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-three-graph-algorithms-does-every-vertex-have-at-least-one-edge-in-graph/",
+          "publishedOn": "2021-08-31T20:48:24.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Three Graph Algorithms: Does Every Vertex Have at least One Edge in Graph?",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146538",
+          "author": "ACMer",
+          "description": "Sometimes, we need to view the content of a string in Python in the form of hexadecimal values, we can use the following function to convert each character to ASCII code and then hex value. def...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/one-line-python-lambda-function-to-hexify-a-string-data-converting-ascii-code-to-hexadecimal/",
+          "publishedOn": "2021-08-31T16:29:28.000Z",
+          "wordCount": null,
+          "title": "One-line Python Lambda Function to Hexify a String/Data (Converting ASCII code to Hexadecimal)",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146524",
+          "author": "ACMer",
+          "description": "Given the root of a binary tree, return true if you can partition the tree into two trees with equal sums of values after removing exactly one edge on the original tree. Equal Tree Partition via...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-equal-tree-partition-via-recursive-depth-first-search-algorithm/",
+          "publishedOn": "2021-08-30T20:08:56.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Equal Tree Partition via Recursive Depth First Search Algorithm",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146508",
+          "author": "ACMer",
+          "description": "Given an integer n, return the number of structurally unique BST’s (binary search trees) which has exactly n nodes of unique values from 1 to n. Example 1: Input: n = 3 Output: 5 Example 2:...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-dynamic-programming-algorithms-to-count-the-number-of-unique-binary-search-trees-catalan-numbers/",
+          "publishedOn": "2021-08-29T19:19:27.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Dynamic Programming Algorithms to Count the Number of Unique Binary Search Trees (Catalan Numbers)",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146493",
+          "author": "ACMer",
+          "description": "You are given a network of n nodes, labeled from 1 to n. You are also given times, a list of travel times as directed edges times = (ui, vi, wi), where ui is the source node, vi is the target node,...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-finding-the-network-delay-time-via-floyd-warshall-shortest-path-algorithm/",
+          "publishedOn": "2021-08-28T19:53:39.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Finding the Network Delay Time via  Floyd-Warshall Shortest Path Algorithm",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146476",
+          "author": "ACMer",
+          "description": "There is a bi-directional graph with n vertices, where each vertex is labeled from 0 to n – 1 (inclusive). The edges in the graph are represented as a 2D integer array edges, where each edges =...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-disjoint-set-find-if-path-exists-in-graph-via-union-find-algorithm/",
+          "publishedOn": "2021-08-26T20:28:16.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Disjoint Set: Find if Path Exists in Graph via Union Find Algorithm",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146463",
+          "author": "ACMer",
+          "description": "Given a directed acyclic graph (DAG) of n nodes labeled from 0 to n – 1, find all possible paths from node 0 to node n – 1 and return them in any order. The graph is given as follows:...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-finding-all-paths-from-source-to-target-in-a-directed-acyclic-graph-dag-using-breadth-first-search-algorithm/",
+          "publishedOn": "2021-08-25T20:45:58.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Finding All Paths from Source to Target in a Directed Acyclic Graph (DAG) using Breadth First Search Algorithm",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146446",
+          "author": "ACMer",
+          "description": "Given a directed acyclic graph (DAG) of n nodes labeled from 0 to n – 1, find all possible paths from node 0 to node n – 1 and return them in any order. The graph is given as follows:...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-finding-all-paths-from-source-to-target-in-a-directed-acyclic-graph-dag-using-recursive-depth-first-search-algorithm/",
+          "publishedOn": "2021-08-24T19:24:08.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Finding All Paths from Source to Target in a Directed Acyclic Graph (DAG) using Recursive Depth First Search Algorithm",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146429",
+          "author": "ACMer",
+          "description": "Given the root of a Binary Search Tree and a target number k, return true if there exist two elements in the BST such that their sum is equal to the given target. Example 1: Input: root = , k = 9...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-two-sum-in-binary-search-tree-via-inorder-and-two-pointer-algorithm/",
+          "publishedOn": "2021-08-23T19:27:34.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Two Sum in Binary Search Tree via Inorder and Two Pointer Algorithm",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146413",
+          "author": "ACMer",
+          "description": "Given a two-dimensional integer matrix, return a new matrix A of the same dimensions where each element is set to A = sum(matrix) for all r ≤ i, c ≤ j. Constraints n, m ≤ 250 where n and m are the...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-matrix-prefix-sum-algorithm/",
+          "publishedOn": "2021-08-22T19:30:35.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Matrix Prefix Sum Algorithm",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146399",
+          "author": "ACMer",
+          "description": "Given two strings s0 and s1, return the number of substrings where s1 contains any anagram of s0. Constraints n ≤ 100,000 where n is the length of s0 m ≤ 100,000 where m is the length of s1 Example 1...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-anagram-substrings-via-sliding-window/",
+          "publishedOn": "2021-08-21T20:19:07.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Anagram Substrings via Sliding Window",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146385",
+          "author": "ACMer",
+          "description": "There is a bi-directional graph with n vertices, where each vertex is labeled from 0 to n – 1 (inclusive). The edges in the graph are represented as a 2D integer array edges, where each edges =...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-find-if-path-exists-in-graph-via-depth-first-search-algorithm/",
+          "publishedOn": "2021-08-20T20:38:49.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Find if Path Exists in Graph via Depth First Search Algorithm",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146372",
+          "author": "ACMer",
+          "description": "If you enjoy online gambling, you should always remember to keep safe while gambling. Whether you are a beginner or an experienced gambler, the safety should be your primary concern. Here follows...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/how-to-improve-your-security-when-gambling-online/",
+          "publishedOn": "2021-08-20T14:42:04.000Z",
+          "wordCount": null,
+          "title": "How to improve your security when gambling online?",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146358",
+          "author": "ACMer",
+          "description": "Given an m x n integer matrix matrix, if an element is 0, set its entire row and column to 0’s, and return the matrix. You must do it in place. Algorithm to Set Matrix to Zeros in Place We need...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-set-matrix-zeroes/",
+          "publishedOn": "2021-08-19T18:55:20.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Set Matrix Zeroes",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146343",
+          "author": "ACMer",
+          "description": "There is a bi-directional graph with n vertices, where each vertex is labeled from 0 to n – 1 (inclusive). The edges in the graph are represented as a 2D integer array edges, where each edges =...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-find-if-path-exists-in-graph-via-breadth-first-search-algorithm/",
+          "publishedOn": "2021-08-18T20:14:41.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Find if Path Exists in Graph via Breadth First Search Algorithm",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146326",
+          "author": "ACMer",
+          "description": "The following is probably the simplest Database implementation using BASH programming language. The BASH database provides four basic functions: db_clear() to truncate the database. The db_set()...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/the-simplest-database-implementation-by-bash-programming/",
+          "publishedOn": "2021-08-17T16:10:55.000Z",
+          "wordCount": null,
+          "title": "The Simplest Database Implementation by BASH Programming",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146312",
+          "author": "ACMer",
+          "description": "Given a two-dimensional integer matrix of 1s and 0s where 0 represents empty cell and 1 represents a block that forms a shape, return the perimeter of the shape. There is guaranteed to be exactly one...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-island-shape-perimeter/",
+          "publishedOn": "2021-08-16T19:10:53.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Island Shape Perimeter Algorithm",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146299",
+          "author": "ACMer",
+          "description": "Given a list of integers nums, return whether it represents a max heap. That is, for every i we have that: nums ≥ nums if 2*i + 1 is within bounds nums ≥ nums if 2*i + 2 is within bounds Constraints...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-how-to-verify-a-max-heap/",
+          "publishedOn": "2021-08-13T20:20:55.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – How to Verify a Max Heap?",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146286",
+          "author": "ACMer",
+          "description": "Given a list of integers nums, return whether you can rearrange the order of nums such that the difference between every consecutive two numbers is the same. Constraints n ≤ 100,000 where n is the...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-arithmetic-sequence-permutation/",
+          "publishedOn": "2021-08-12T20:37:05.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Arithmetic Sequence Permutation",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146267",
+          "author": "ACMer",
+          "description": "I joined Microsoft Research Cambridge last month – and 3 days before joining the Microsoft, I received the welcome pack/box which contains the following items (SWAG – free...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/welcome-pack-swag-from-microsoft-research-cambridge/",
+          "publishedOn": "2021-08-12T15:09:08.000Z",
+          "wordCount": null,
+          "title": "Welcome Pack (SWAG) from Microsoft Research Cambridge",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146255",
+          "author": "ACMer",
+          "description": "Given two non-negative integers, num1 and num2 represented as string, return the sum of num1 and num2 as a string. You must solve the problem without using any built-in library for handling large...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-add-two-big-integers-in-strings/",
+          "publishedOn": "2021-08-10T19:33:16.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Add Two Big Integers in Strings",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146239",
+          "author": "ACMer",
+          "description": "ou are given a singly linked list node containing positive integers. Return the same linked list where every node’s next points to the node val nodes ahead. If there’s no such node, next...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-linked-list-jumps-via-recursion/",
+          "publishedOn": "2021-08-09T20:04:43.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Linked List Jumps via Recursion",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146223",
+          "author": "ACMer",
+          "description": "Given a singly linked list node, swap each pair of nodes and return the new head. Constraints n ≤ 100,000 where n is the number of nodes in node Example 1 Input node =  Output  Example 2 Input node =...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-pairwise-linked-list-swap/",
+          "publishedOn": "2021-08-08T20:13:03.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Pairwise Linked List Nodes Swap Algorithm",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=146206",
+          "author": "ACMer",
+          "description": "Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. The relative order of the elements may be changed. Since it is impossible to change the length of the...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-inplace-algorithms-to-remove-elements/",
+          "publishedOn": "2021-08-07T19:45:49.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Inplace Algorithms to Remove Elements",
+          "itunes": {}
+        }
+      ]
+    },
+    {
+      "title": "Lambda the Ultimate - Programming Languages Weblog",
+      "feedUrl": "http://lambda-the-ultimate.org/rss.xml",
+      "siteUrl": "http://lambda-the-ultimate.org",
+      "articles": []
+    },
+    {
+      "title": "Blog – Hackaday",
+      "feedUrl": "https://hackaday.com/blog/feed/",
+      "siteUrl": "https://hackaday.com",
+      "articles": [
+        {
+          "id": "https://hackaday.com/?p=499126",
+          "author": "Lewin Day",
+          "description": "The Nintendo 64 was one of the consoles that properly heralded in the era of 3D gaming. However, its controller is of a design we wouldn’t consider ideal today. For …read more",
+          "link": "https://hackaday.com/2021/10/01/mouse-and-keyboard-controls-on-the-n64/",
+          "publishedOn": "2021-10-02T05:00:19.000Z",
+          "wordCount": 1197,
+          "title": "Mouse and Keyboard Controls On The N64"
+        },
+        {
+          "id": "https://hackaday.com/?p=498208",
+          "author": "Dan Maloney",
+          "description": "Finally, someone decided to answer the question that nobody was asking: what if [Benjamin Franklin] had had a drone rather than a kite? Granted, [Jay Bowles] didn’t fly his electricity-harvesting …read more",
+          "link": "https://hackaday.com/2021/10/01/drone-replaces-kite-in-recreation-of-famous-atmospheric-electricity-experiment/",
+          "publishedOn": "2021-10-02T02:00:45.000Z",
+          "wordCount": 1145,
+          "title": "Drone Replaces Kite in Recreation of Famous Atmospheric Electricity Experiment"
+        },
+        {
+          "id": "https://hackaday.com/?p=498112",
+          "author": "Lewin Day",
+          "description": "While conventional safes can be a good place to put valuables, sometimes it’s even better to hide your things where nobody will even look in the first place. [Wesley Treat] …read more",
+          "link": "https://hackaday.com/2021/10/01/secret-keychain-safe-looks-just-like-a-bolt/",
+          "publishedOn": "2021-10-01T23:00:00.000Z",
+          "wordCount": 1463,
+          "title": "Secret Keychain Safe Looks Just Like A Bolt"
+        },
+        {
+          "id": "https://hackaday.com/?p=498568",
+          "author": "Tom Nardi",
+          "description": "Looking for something with a bit more style than the traditional kitchen timer, [Martin Jonasson] decided to take the last couple of months to design and build his own take …read more",
+          "link": "https://hackaday.com/2021/10/01/minimalist-timer-counts-down-with-led-matrix/",
+          "publishedOn": "2021-10-01T20:00:07.000Z",
+          "wordCount": 1273,
+          "title": "Minimalist Timer Counts Down With LED Matrix"
+        },
+        {
+          "id": "https://hackaday.com/?p=499312",
+          "author": "Stephen Ogier",
+          "description": "You’ve finally decided to take the plunge and build a board with surface-mount parts. After carefully dispensing the solder paste with a syringe, it’s time to place the parts. You …read more",
+          "link": "https://hackaday.com/2021/10/01/pixel-pump-pick-place-positions-parts-precisely/",
+          "publishedOn": "2021-10-01T18:30:00.000Z",
+          "wordCount": 1427,
+          "title": "Pixel Pump Pick & Place Positions Parts Precisely"
+        },
+        {
+          "id": "https://hackaday.com/?p=498947",
+          "author": "Lewin Day",
+          "description": "Another day, another vulnerability. This time, it’s AMD’s turn, with a broad swathe of its modern CPU lines falling victim to a dangerous driver vulnerability that could leave PCs open …read more",
+          "link": "https://hackaday.com/2021/10/01/flaw-in-amd-platform-security-processor-affects-millions-of-computers/",
+          "publishedOn": "2021-10-01T17:01:51.000Z",
+          "wordCount": 3481,
+          "title": "Flaw in AMD Platform Security Processor Affects Millions of Computers"
+        },
+        {
+          "id": "https://hackaday.com/?p=499302&preview=true&preview_id=499302",
+          "author": "Mike Szczys",
+          "description": "Hackaday editors Elliot Williams and Mike Szczys peruse the great hardware hacks of the past week. There’s a robot walker platform that wirelessly offloads motor control planning to a computer. …read more",
+          "link": "https://hackaday.com/2021/10/01/hackaday-podcast-138-breakin-bluetooth-doritos-rockets-wireless-robots-and-autonomous-trolling/",
+          "publishedOn": "2021-10-01T16:01:29.000Z",
+          "wordCount": 1344,
+          "title": "Hackaday Podcast 138: Breakin’ Bluetooth, Doritos Rockets, Wireless Robots, and Autonomous Trolling"
+        }
+      ]
+    },
+    {
+      "title": "Scientific American Content: Global",
+      "feedUrl": "http://rss.sciam.com/scientificamerican-global",
+      "siteUrl": "http://www.scientificamerican.com",
+      "articles": [
+        {
+          "id": "084A0F77-3147-4E96-B12D38FFF228C98C",
+          "author": "Anne C. Mulkern, E&E News",
+          "description": "The state is using the money to upgrade drinking and wastewater systems, improve streamflows, and relocate vulnerable fish\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/california-battles-historic-drought-with-5-2-billion/",
+          "publishedOn": "2021-10-01T18:15:00.000Z",
+          "wordCount": null,
+          "title": "California Battles Historic Drought with $5.2 Billion",
+          "itunes": {}
+        },
+        {
+          "id": "D8E72641-BD04-4284-999D451FD0FFFDAB",
+          "author": "Carolyn Barber",
+          "description": "The number of pregnant people suffering from severe COVID is preventable tragedy\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/pregnant-and-unvaccinated-deltas-deadly-toll/",
+          "publishedOn": "2021-10-01T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Pregnant and Unvaccinated: Delta's Deadly Toll",
+          "itunes": {}
+        },
+        {
+          "id": "B16D003C-7695-4D47-8A8D2ABE87676D2E",
+          "author": "Karen Hopkin",
+          "description": "New research uses night vision to see how nocturnal bees navigate the dark.\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/podcast/episode/night-flights-are-no-sweat-for-tropical-bees/",
+          "publishedOn": "2021-10-01T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Night Flights Are No Sweat for Tropical Bees",
+          "itunes": {
+            "duration": "03:58"
+          },
+          "enclosure": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=B56FE888-5A2C-456B-B93024F7D5F27617",
+            "length": "5753991",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "C91A7CB0-1779-4856-9DE1D283ABE5174E",
+          "author": "Mark Fischetti",
+          "description": "Jupiter Pioneers get ready; wireless moths\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/50-100-150-years-ago-october-2021/",
+          "publishedOn": "2021-10-01T13:00:00.000Z",
+          "wordCount": null,
+          "title": "50, 100 & 150 Years Ago: October 2021",
+          "itunes": {}
+        },
+        {
+          "id": "5DCEEC90-099E-4BD8-BFE10E1662B53840",
+          "author": "Jim Daley",
+          "description": "The penicillin-producing Penicillium rubens originated in a moldy Illinois cantaloupe\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/illinois-announces-official-state-microbe/",
+          "publishedOn": "2021-10-01T10:45:00.000Z",
+          "wordCount": null,
+          "title": "Antibiotic-Producing Mold Announced as Official State Microbe",
+          "itunes": {}
+        },
+        {
+          "id": "D3970FAA-BE32-4451-8EFFE2557B67D88C",
+          "author": "Irene Klotz",
+          "description": "Pandemic-spawned supply-chain disruptions are delaying launches and development of satellites, lunar rovers and interplanetary missions\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/even-rocket-launches-cant-escape-covid/",
+          "publishedOn": "2021-09-30T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Even Rocket Launches Can't Escape COVID",
+          "itunes": {}
+        },
+        {
+          "id": "70B0D719-E6CD-47A3-A20E634BE2F47000",
+          "author": "John Horgan",
+          "description": "Wearable devices that track our health may do more harm than good\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/big-data-questionable-benefits-and-my-girlfriends-magic-ring/",
+          "publishedOn": "2021-09-30T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Big Data, Questionable Benefits and My Girlfriend's Magic Ring",
+          "itunes": {}
+        },
+        {
+          "id": "342E308E-C5CD-484B-8120BFED94A9711A",
+          "author": "Josh Fischman",
+          "description": "Millions suffer from ailments such as type 1 diabetes and lupus, in which the body attacks itself\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/new-ideas-about-the-way-autoimmune-diseases-start-and-how-to-stop-them/",
+          "publishedOn": "2021-09-30T13:00:00.000Z",
+          "wordCount": null,
+          "title": "New Ideas about the Way Autoimmune Diseases Start and How to Stop Them",
+          "itunes": {}
+        },
+        {
+          "id": "796977A7-4BB6-4FB2-AA420E45F6489FAF",
+          "author": "Naomi Oreskes",
+          "description": "Unfortunately, its strongest proponent was, which tainted its reception\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-lab-leak-theory-of-covids-origin-is-not-totally-irrational/",
+          "publishedOn": "2021-09-30T13:00:00.000Z",
+          "wordCount": null,
+          "title": "The Lab-Leak Theory of COVID's Origin Is Not Totally Irrational",
+          "itunes": {}
+        },
+        {
+          "id": "16E1C033-3E56-4E0D-A143A7969A2DCAAB",
+          "author": "Tess Joosse",
+          "description": "Scientists silenced CO2-sensing genes to determine how the destructive pests find their food\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-rootworms-sniff-carbon-dioxide-to-devastate-corn-crops/",
+          "publishedOn": "2021-09-30T12:30:00.000Z",
+          "wordCount": null,
+          "title": "How Rootworms Sniff Carbon Dioxide to Devastate Corn Crops",
+          "itunes": {}
+        },
+        {
+          "id": "154F31A6-821B-4195-A661F7996E285453",
+          "author": "Tanya Lewis",
+          "description": "High-quality respirators such as N95s and K95s are now widely available and provide the best protection against COVID, according to experts. Why aren’t more people wearing them?\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/why-we-need-to-upgrade-our-face-masks-and-where-to-get-them/",
+          "publishedOn": "2021-09-30T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Why We Need to Upgrade Our Face Masks--and Where to Get Them",
+          "itunes": {}
+        },
+        {
+          "id": "B7B658E9-0A16-45AC-B39DA75A473D2F95",
+          "author": "Troy Farah",
+          "description": "LSD and psilocybin increasingly show promise as mental health treatments. Now universities and companies are exploring their use in pain management\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/can-psychedelic-drugs-treat-physical-pain/",
+          "publishedOn": "2021-09-30T10:45:00.000Z",
+          "wordCount": null,
+          "title": "Can Psychedelic Drugs Treat Physical Pain?",
+          "itunes": {}
+        },
+        {
+          "id": "F049BA66-262D-44BE-9A189FA7C3C84824",
+          "author": "Virginia Grant",
+          "description": "A mid-20th-century computer experiment created a new field of science—and programmer Mary Tsingou Menzel is finally being given credit for her role in making it happen\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/an-unsung-female-pioneer-of-computer-simulation/",
+          "publishedOn": "2021-09-29T19:00:00.000Z",
+          "wordCount": null,
+          "title": "An Unsung Female Pioneer of Computer Simulation",
+          "itunes": {}
+        },
+        {
+          "id": "7F6033CF-DA2F-4A0B-BF7A758D4C16FE2B",
+          "author": "Ariel Wittenberg, E&E News",
+          "description": "The strain from COVID will mean fewer resources and less attention on reducing carbon footprints\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/pandemic-could-stymie-effort-to-cut-health-care-emissions/",
+          "publishedOn": "2021-09-29T18:30:00.000Z",
+          "wordCount": null,
+          "title": "Pandemic Could Stymie Effort to Cut Health Care Emissions",
+          "itunes": {}
+        },
+        {
+          "id": "E5443A21-FD7F-467C-A364158B2CD86F78",
+          "author": "Michael Tabb, Jeffery DelViscio, Andrea Gawrylewski",
+          "description": "Deep learning, neural networks, imitation games—what does any of this have to do with teaching computers to “learn”?\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/video/what-is-machine-learning-and-how-does-it-work-heres-a-short-video-primer/",
+          "publishedOn": "2021-09-29T14:00:00.000Z",
+          "wordCount": null,
+          "title": "What Is Machine Learning, and How Does It Work? Here's a Short Video Primer",
+          "itunes": {}
+        },
+        {
+          "id": "F86269F3-3DE3-400B-91FED080126F1EBE",
+          "author": "Melinda Wenner Moyer",
+          "description": "Multiple causes underlie a disturbing trend. The increase for girls is more than double that for boys\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/suicide-rates-rise-in-a-generation-of-black-youth/",
+          "publishedOn": "2021-09-29T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Suicide Rates Rise in a Generation of Black Youth",
+          "itunes": {}
+        },
+        {
+          "id": "26B9612A-84D4-4041-A244361BC142DF9C",
+          "author": "Christina Szalinski",
+          "description": "The organizations touting unproved protocols for the antiparasitic drug may be harming vaccination efforts\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/fringe-doctors-groups-promote-ivermectin-for-covid-despite-a-lack-of-evidence/",
+          "publishedOn": "2021-09-29T10:45:00.000Z",
+          "wordCount": null,
+          "title": "Fringe Doctors' Groups Promote Ivermectin for COVID despite a Lack of Evidence",
+          "itunes": {}
+        },
+        {
+          "id": "26DB804D-69C6-4B9D-AAE6C22D828369BE",
+          "author": "Michael Latner, Jean Schroedel",
+          "description": "National Voter Registration Day reminds us of the urgent need to protect electoral integrity\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/we-must-fight-restrictions-on-voting-rights/",
+          "publishedOn": "2021-09-28T20:30:00.000Z",
+          "wordCount": null,
+          "title": "We Must Fight Restrictions on Voting Rights",
+          "itunes": {}
+        },
+        {
+          "id": "BE06728C-49EF-46D7-B8A56E19FC405990",
+          "author": "Leonard David, SPACE.com",
+          "description": "The concepts include souped-up Mars helicopters and inexpensive orbiters and landers\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/mars-on-the-cheap-scientists-are-working-to-revolutionize-access-to-the-red-planet/",
+          "publishedOn": "2021-09-28T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Mars on the Cheap: Scientists Are Working to Revolutionize Access to the Red Planet",
+          "itunes": {}
+        },
+        {
+          "id": "2A32D320-BDCD-4006-83FD861B92AA4850",
+          "author": "Thomas Frank, E&E News",
+          "description": "The severe dry conditions have left critical reservoirs depleted and helped fuel intense wildfires\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/historical-western-drought-is-likely-to-persist/",
+          "publishedOn": "2021-09-28T18:00:00.000Z",
+          "wordCount": null,
+          "title": "'Historical' Western Drought Is Likely to Persist",
+          "itunes": {}
+        },
+        {
+          "id": "D89C03E7-3C30-454B-843E44D5A4D6DC32",
+          "author": "Matthew Schneider-Mayerson",
+          "description": "We also need to talk about emotions and discuss pathways to action\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/to-teach-students-about-climate-change-lsquo-just-the-facts-rsquo-isn-rsquo-t-enough/",
+          "publishedOn": "2021-09-28T17:00:00.000Z",
+          "wordCount": null,
+          "title": "To Teach Students about Climate Change, 'Just the Facts' Isn't Enough",
+          "itunes": {}
+        },
+        {
+          "id": "A9B20752-2287-45EA-ABF7506FC39D88B4",
+          "author": "Chad Frischmann, Mamta Mehra",
+          "description": "It would also greatly cut greenhouse gas emissions\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/massively-reducing-food-waste-could-feed-the-world/",
+          "publishedOn": "2021-09-28T16:30:00.000Z",
+          "wordCount": null,
+          "title": "Massively Reducing Food Waste Could Feed the World",
+          "itunes": {}
+        },
+        {
+          "id": "2658B290-6E7D-442C-92D424E0C2AFD104",
+          "author": "Pakinam Amer",
+          "description": "It is a tale of sound: the song of a solitary whale that vocalizes at a unique frequency of 52 hertz, which no other whale—as the story goes—can seemingly understand.\r\n\r\n\r\nIt is also a tale...\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/podcast/episode/inside-the-nail-biting-quest-to-find-the-loneliest-whale/",
+          "publishedOn": "2021-09-28T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Inside the Nail-Biting Quest to Find the 'Loneliest Whale'",
+          "itunes": {
+            "duration": "18:34"
+          },
+          "enclosure": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=A127C7AE-3EDC-46E5-9D12518319A3D8FC",
+            "length": "13390510",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "513FAD30-1F2C-4886-9DAAA2C5C74CC878",
+          "author": "Smriti Mallapaty, Nature magazine",
+          "description": "Studies of bats in China and Laos show southeast Asia is a hotspot for potentially dangerous viruses similar to SARS-CoV-2\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/closest-known-relatives-of-virus-behind-covid-19-found-in-laos/",
+          "publishedOn": "2021-09-28T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Closest Known Relatives of Virus Behind COVID-19 Found in Laos",
+          "itunes": {}
+        },
+        {
+          "id": "760BB005-B0CE-4440-8C35040BCA53354A",
+          "author": "Christopher Lyon, Alex Dunhill, Andrew P. Beckerman, Ariane Burke, Bethany Allen, Chris Smith, Daniel J. Hill, Erin Saupe, James McKay, Julien Riel-Salvatore, Lindsay C. Stringer, Rob Marchant, Tracy Aze, The Conversation US",
+          "description": "Unless greenhouse gas emissions drop significantly, warming by 2500 will make the Amazon barren, Iowa tropical and India too hot to live in\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/earth-could-be-alien-to-humans-by-2500/",
+          "publishedOn": "2021-09-28T14:30:00.000Z",
+          "wordCount": null,
+          "title": "Earth Could Be Alien to Humans by 2500",
+          "itunes": {}
+        }
+      ]
+    },
+    {
+      "title": "DevOps.com",
+      "feedUrl": "https://devops.com/feed/",
+      "siteUrl": "https://devops.com",
+      "articles": [
+        {
+          "id": "https://devops.com/?p=145829",
+          "author": "Mike Vizard",
+          "description": "Perforce Software has added a universal package manager, dubbed Helix Artifacts, to its portfolio that enables users of its Helix Core version control platform to store and track source code. Gerhard Krüger, product manager for Helix Core digital asset management at Perforce Software, said the goal is to enable DevOps teams that employ Helix Core […]\nThe post Perforce Melds Artifact Package Manager with Version Control Platform appeared first on DevOps.com.",
+          "link": "https://devops.com/perforce-melds-artifact-package-manager-with-version-control-platform/",
+          "publishedOn": "2021-10-01T11:54:16.000Z",
+          "wordCount": 1040,
+          "title": "Perforce Melds Artifact Package Manager with Version Control Platform"
+        },
+        {
+          "id": "https://devops.com/?p=145813",
+          "author": "Glen Rabie",
+          "description": "Contextual analytics, or embedding analytics directly into a business application’s transactional environment and core workflows, is the most sophisticated stage of business intelligence (BI) currently available to organizations today. It is one level ahead of the traditional integration of analytics, which is a standalone capability presented as a separate dashboard or reporting module. Today, there […]\nThe post Why an Embedded Analytics Maturity Framework is Essential appeared first on DevOps.com.",
+          "link": "https://devops.com/why-an-embedded-analytics-maturity-framework-is-essential/",
+          "publishedOn": "2021-10-01T06:30:04.000Z",
+          "wordCount": 1424,
+          "title": "Why an Embedded Analytics Maturity Framework is Essential"
+        },
+        {
+          "id": "https://devops.com/?p=145826",
+          "author": "Amanda Razani",
+          "description": "Click to read A New Era of Observability, Monitoring and Analytics for DevOps\nThe post A New Era of Observability, Monitoring and Analytics for DevOps appeared first on DevOps.com.",
+          "link": "https://devops.com/a-new-era-of-observability-monitoring-and-analytics-for-devops/",
+          "publishedOn": "2021-10-01T02:25:19.000Z",
+          "wordCount": 509,
+          "title": "A New Era of Observability, Monitoring and Analytics for DevOps"
+        },
+        {
+          "id": "https://devops.com/?p=145657",
+          "author": "Bill Doerrfeld",
+          "description": "Technical talent is few and far between. The programming world faces a developer shortage, and with this shortage comes a lack of cloud know-how. By now, most organizations have become multi-cloud, yet 86% of IT professionals believe a lack of these skills will slow down cloud projects. As more teams transition from older architectures to […]\nThe post 4 Tips To Plug The Cloud IT Skills Gap appeared first on DevOps.com.",
+          "link": "https://devops.com/4-tips-to-plug-the-cloud-it-skills-gap/",
+          "publishedOn": "2021-09-30T06:30:20.000Z",
+          "wordCount": 1487,
+          "title": "4 Tips To Plug The Cloud IT Skills Gap"
+        },
+        {
+          "id": "https://devops.com/?p=145805",
+          "author": "ROELBOB",
+          "description": "The post Value Stream 2021 appeared first on DevOps.com.",
+          "link": "https://devops.com/value-stream-2021/",
+          "publishedOn": "2021-09-30T06:00:58.000Z",
+          "wordCount": 473,
+          "title": "Value Stream 2021"
+        },
+        {
+          "id": "https://devops.com/?p=145696",
+          "author": "Mike Vizard",
+          "description": "During the online Illuminate user conference, Sumo Logic revealed how it is integrating capabilities it gained with the June 2021 acquisition of Sensu, a provider of open source monitoring tools, with its continuous intelligence platform in addition to adding support for data collected via open source OpenTelemetry software. Sensu Go, a set of tools for […]\nThe post Sumo Logic Extends Observability Scope and Reach appeared first on DevOps.com.",
+          "link": "https://devops.com/sumo-logic-extends-observability-scope-and-reach/",
+          "publishedOn": "2021-09-29T16:00:20.000Z",
+          "wordCount": 1072,
+          "title": "Sumo Logic Extends Observability Scope and Reach"
+        },
+        {
+          "id": "https://devops.com/?p=145733",
+          "author": "Mike Vizard",
+          "description": "At the online DevOps World 2021 conference today, CloudBees revealed it has acquired Neuralprints to provide the core technology for CloudBees Compliance, a real-time compliance and risk analysis platform that it will roll out in the first quarter of 2022. At the same time, CloudBees has enhanced the feature management capabilities of its namesake continuous […]\nThe post CloudBees Acquires Neuralprints to Shift Compliance Left appeared first on DevOps.com.",
+          "link": "https://devops.com/cloudbees-acquires-neuralprints-to-shift-compliance-left/",
+          "publishedOn": "2021-09-29T14:37:06.000Z",
+          "wordCount": 933,
+          "title": "CloudBees Acquires Neuralprints to Shift Compliance Left"
+        },
+        {
+          "id": "https://devops.com/?p=145728",
+          "author": "Mike Vizard",
+          "description": "During the online Ansiblefest, Red Hat announced the availability of a preview edition of Red Hat Ansible Automation Platform 2 that is intended to make it easier to automate IT processes at scale. Richard Henshall, senior manager for Ansible product management at Red Hat, said previously most IT teams have been automating individual processes, but […]\nThe post Red Hat Extends Scope of Ansible Automation Ambitions appeared first on DevOps.com.",
+          "link": "https://devops.com/red-hat-extends-scope-of-ansible-automation-ambitions/",
+          "publishedOn": "2021-09-29T13:00:44.000Z",
+          "wordCount": 1074,
+          "title": "Red Hat Extends Scope of Ansible Automation Ambitions"
+        },
+        {
+          "id": "https://devops.com/?p=145677",
+          "author": "Don Macvittie",
+          "description": "The API economy and microservices architectures, led by Agile and DevOps, have introduced a massive amount of hidden complexity. I call it hidden complexity because we have a tendency in IT to focus on the problems in front of us, resolve them, then focus on the new problem in front of us. This leaves technical […]\nThe post The New(ish) Complexity appeared first on DevOps.com.",
+          "link": "https://devops.com/the-newish-complexity/",
+          "publishedOn": "2021-09-29T06:30:04.000Z",
+          "wordCount": 1090,
+          "title": "The New(ish) Complexity"
+        },
+        {
+          "id": "https://devops.com/?p=145711",
+          "author": "Eveline Oehrlich",
+          "description": "IT SKILLS IN FOCUS By Eveline Oehrlich, DevOps Institute According to McKinsey, nine out of 10 global executives and leaders are saying that their organizations are facing a skill gap or expect to develop additional skill gaps in the next three to five years. During the past few years, IT organizations, in particular, have already […]\nThe post THE UPSKILLING IT 2022 SURVEY IS NOW OPEN appeared first on DevOps.com.",
+          "link": "https://devops.com/the-upskilling-it-2022-survey-is-now-open/",
+          "publishedOn": "2021-09-28T19:45:00.000Z",
+          "wordCount": 1159,
+          "title": "THE UPSKILLING IT 2022 SURVEY IS NOW OPEN"
+        }
+      ]
+    },
+    {
+      "title": "Quanta Magazine",
+      "feedUrl": "https://api.quantamagazine.org/feed/",
+      "siteUrl": "https://www.quantamagazine.org",
+      "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=109006",
+          "author": "Dan Falk",
+          "description": "How does consciousness arise in mere flesh and blood? To the neuroscientist Anil Seth, our organic bodies are the key to the experience.            \nThe post Anil Seth Finds Consciousness in Life’s Push Against Entropy first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/anil-seth-finds-consciousness-in-lifes-push-against-entropy-20210930/",
+          "publishedOn": "2021-09-30T15:52:44.000Z",
+          "wordCount": null,
+          "title": "Anil Seth Finds Consciousness in Life’s Push Against Entropy",
+          "itunes": {}
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=109003",
+          "author": "Philip Ball",
+          "description": "So-called topological quantum computing would avoid many of the problems that stand in the way of full-scale quantum computers. But high-profile missteps have led some experts to question whether the field is fooling itself.            \nThe post Major Quantum Computing Strategy Suffers Serious Setbacks first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/major-quantum-computing-strategy-suffers-serious-setbacks-20210929/",
+          "publishedOn": "2021-09-29T16:52:52.000Z",
+          "wordCount": null,
+          "title": "Major Quantum Computing Strategy Suffers Serious Setbacks",
+          "itunes": {}
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=109000",
+          "author": "Kevin Hartnett",
+          "description": "As topologists seek to classify shapes, the effort hinges on how to define a manifold and what it means for two of them to be equivalent.            \nThe post In Topology, When Are Two Shapes the Same? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/in-topology-when-are-two-shapes-the-same-20210928/",
+          "publishedOn": "2021-09-28T14:15:04.000Z",
+          "wordCount": null,
+          "title": "In Topology, When Are Two Shapes the Same?",
+          "itunes": {}
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=108997",
+          "author": "Charlie Wood",
+          "description": "The unexpected discovery of the double-charm tetraquark has given physicists a new tool with which to hone their understanding of the strongest of nature’s fundamental forces.            \nThe post ‘Impossible’ Particle Discovery Adds Key Piece to the Strong Force Puzzle first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/impossible-particle-discovery-adds-key-piece-to-the-strong-force-puzzle-20210927/",
+          "publishedOn": "2021-09-27T14:36:02.000Z",
+          "wordCount": null,
+          "title": "‘Impossible’ Particle Discovery Adds Key Piece to the Strong Force Puzzle",
+          "itunes": {}
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=108871",
+          "author": "Patrick Honner",
+          "description": "Solutions to the simplest polynomial equations — called “roots of unity” — have an elegant structure that mathematicians still use to study some of math’s greatest open questions.            \nThe post The Simple Math Behind the Mighty Roots of Unity first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-simple-math-behind-the-mighty-roots-of-unity-20210923/",
+          "publishedOn": "2021-09-23T14:02:27.000Z",
+          "wordCount": null,
+          "title": "The Simple Math Behind the Mighty Roots of Unity",
+          "itunes": {}
         }
       ]
     }
