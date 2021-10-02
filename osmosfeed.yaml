@@ -1,6 +1,15 @@
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+cacheUrl: https://vredchenko.github.io/osmoscraft_feed/cache.json
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
   - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
   - href: https://www.freecodecamp.org/news/rss/
+  - href: https://www.makeuseof.com/feed/
+  - href: https://hackernoon.com/feed
+  - href: https://davidwalsh.name/feed
+  - href: https://alistapart.com/main/feed/
+  - href: http://feeds.feedburner.com/helloacm?format=xml
+  - href: http://lambda-the-ultimate.org/rss.xml
+  - href: https://hackaday.com/blog/feed/
+  - href: http://rss.sciam.com/scientificamerican-global
+  - href: https://devops.com/feed/
+  - href: https://api.quantamagazine.org/feed/
