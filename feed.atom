@@ -2,10 +2,761 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2021-10-04T00:45:09.114Z</updated>
+    <updated>2021-10-05T00:40:33.149Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Traceroute and Ping Commands to Troubleshoot Network Connectivity Issues]]></title>
+        <id>5fff3ec998be260817e495ee</id>
+        <link href="https://www.freecodecamp.org/news/traceroute-and-ping/"/>
+        <updated>2021-10-04T23:46:48.000Z</updated>
+        <summary type="html"><![CDATA[Ping and traceroute are common commands you can use to troubleshoot network problems.  Ping is a simple command that can test the reachability of a device on the network.  Traceroute is a command you use to 'trace' the route that a packet takes when traveling to its destination. It's useful]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Removing Threadlocked Screws with a Soldering Iron]]></title>
+        <id>https://hackaday.com/?p=498566</id>
+        <link href="https://hackaday.com/2021/10/04/removing-threadlocked-screws-with-a-soldering-iron/"/>
+        <updated>2021-10-04T23:00:25.000Z</updated>
+        <summary type="html"><![CDATA[We’ve all been there – that last stubborn screw, the one thing between you and some real progress on a repair or restoration. It’s stuck tight with thread-locking fluid, and …read more]]></summary>
+        <author>
+            <name>Chris Wilkinson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ReleaseIQ Adds Orchestration Tool for Multiple Instances of Jenkins]]></title>
+        <id>https://devops.com/?p=145865</id>
+        <link href="https://devops.com/releaseiq-adds-orchestration-tool-for-multiple-instances-of-jenkins/"/>
+        <updated>2021-10-04T21:37:09.000Z</updated>
+        <summary type="html"><![CDATA[ReleaseIQ has launched an orchestration framework for the open source continuous integration/continuous delivery (CI/CD) environment that makes it possible for DevOps teams to orchestrate pipelines across multiple instances of Jenkins. Seetharam Param, ReleaseIQ CEO, said ReleaseIQ Essentials for Jenkins is an implementation of an existing orchestration platform that enables DevOps teams to orchestrate pipelines across […]
+The post ReleaseIQ Adds Orchestration Tool for Multiple Instances of Jenkins appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Mike Vizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Survival Of Urban Areas]]></title>
+        <id>https://hackernoon.com/the-survival-of-urban-areas?source=rss</id>
+        <link href="https://hackernoon.com/the-survival-of-urban-areas?source=rss"/>
+        <updated>2021-10-04T21:17:47.000Z</updated>
+        <summary type="html"><![CDATA[Through millennia of plagues, wars, and natural disasters, cities have borne witness to and magnified human suffering and death.]]></summary>
+        <author>
+            <name>Li Jin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – Design a Hash Table]]></title>
+        <id>https://helloacm.com/?p=147002</id>
+        <link href="https://helloacm.com/teaching-kids-programming-design-a-hash-table/"/>
+        <updated>2021-10-04T21:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Design a HashMap without using any built-in hash table libraries. Implement the MyHashMap class: MyHashMap() initializes the object with an empty map. void put(int key, int value) inserts a (key,...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your Own Developer Portfolio Website with HTML, CSS, and JavaScript]]></title>
+        <id>6154775964aefe07d3fa0b7d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-developer-portfolio-website/"/>
+        <updated>2021-10-04T20:59:10.000Z</updated>
+        <summary type="html"><![CDATA[Everyone needs websites and web applications these days. So there are many opportunities for you if you work as a web developer.  But if you want to get a web developer job, you'll need a good portfolio website to showcase your skills and experience.  In this tutorial, I'll discuss some]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 10 Best Tools for Transcribing Video Meetings to Shareable Documents]]></title>
+        <id>https://www.makeuseof.com/best-tools-transcribe-video-meetings-shareable-documents/</id>
+        <link href="https://www.makeuseof.com/best-tools-transcribe-video-meetings-shareable-documents/"/>
+        <updated>2021-10-04T20:30:21.000Z</updated>
+        <summary type="html"><![CDATA[Transcribing apps let you convert audio and video files into text that you can share. Here are some of the best tools you can use for that.]]></summary>
+        <author>
+            <name>Tamal Das</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who Is the Facebook Whistleblower and What Did They Say on 60 Minutes?]]></title>
+        <id>https://www.makeuseof.com/who-is-facebook-whistleblower-60-minutes-interview-claims/</id>
+        <link href="https://www.makeuseof.com/who-is-facebook-whistleblower-60-minutes-interview-claims/"/>
+        <updated>2021-10-04T20:26:21.000Z</updated>
+        <summary type="html"><![CDATA[A former Facebook employee-turned-whistleblower has made a series of bold claims on 60 Minutes. Here's what you need to know...]]></summary>
+        <author>
+            <name>Aya Masango</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is the Kindle App Free or Does It Cost Money?]]></title>
+        <id>https://www.makeuseof.com/is-the-kindle-app-free/</id>
+        <link href="https://www.makeuseof.com/is-the-kindle-app-free/"/>
+        <updated>2021-10-04T20:01:27.000Z</updated>
+        <summary type="html"><![CDATA[You can download the Kindle app directly from Amazon without paying a cent, but some Kindle features do cost money.]]></summary>
+        <author>
+            <name>Electra Nanou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bicycles Are Bad At Towing, Even With Crawler Gears]]></title>
+        <id>https://hackaday.com/?p=499123</id>
+        <link href="https://hackaday.com/2021/10/04/bicycles-are-bad-at-towing-even-with-crawler-gears/"/>
+        <updated>2021-10-04T20:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Gearing can make a huge difference to a cyclist, enabling even the least fit rider to climb a steep hill, albeit slowly. [Berm Peak Express] took that to the next …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Chili Peppers Can Teach Us about Pain]]></title>
+        <id>1E144CFC-E4A5-4291-BB9D30A073ECC4B5</id>
+        <link href="https://www.scientificamerican.com/article/what-chili-peppers-can-teach-us-about-pain/"/>
+        <updated>2021-10-04T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[U.C. San Francisco researcher and Breakthrough Prize–winner David Julius talks about capsaicin, opioids and snake vision
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Tanya Lewis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quickly Testing CSS Fallbacks]]></title>
+        <id>https://css-tricks.com/?p=353179</id>
+        <link href="https://css-tricks.com/quickly-testing-css-fallbacks/"/>
+        <updated>2021-10-04T19:15:22.000Z</updated>
+        <summary type="html"><![CDATA[Dumb trick alert! 
+Not all browsers support all features. Say you want to write a fallback for browsers that doesn’t support CSS Grid. Not very common these days, but it’s just to illustrate a point.
+You could write the supporting …
+The post Quickly Testing CSS Fallbacks appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MidnightBSD: A BSD-Based Alternative to the Linux Desktop]]></title>
+        <id>https://www.makeuseof.com/midnightbsd-linux-desktop-alternative/</id>
+        <link href="https://www.makeuseof.com/midnightbsd-linux-desktop-alternative/"/>
+        <updated>2021-10-04T19:00:12.000Z</updated>
+        <summary type="html"><![CDATA[The BSD community is making notable progress by bringing new OSes to the table. Check out MidnightBSD, a suitable alternative to the Linux desktop.]]></summary>
+        <author>
+            <name>David Delony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enraged Rabbit Project is a Filament Cocktail Special]]></title>
+        <id>https://hackaday.com/?p=499675</id>
+        <link href="https://hackaday.com/2021/10/04/enraged-rabbit-project-is-a-filament-cocktail-special/"/>
+        <updated>2021-10-04T18:30:48.000Z</updated>
+        <summary type="html"><![CDATA[As long as 3D printers have been around, it seems as though many of us have dreamed about nozzle-sharing solutions for multicolor 3D prints. Just because Prusa’s MMU has had …read more]]></summary>
+        <author>
+            <name>Joshua Vasquez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Watch Series 7 Release Date and Pre-Orders, Revealed]]></title>
+        <id>https://www.makeuseof.com/apple-watch-series-7-release-date-preorders/</id>
+        <link href="https://www.makeuseof.com/apple-watch-series-7-release-date-preorders/"/>
+        <updated>2021-10-04T18:30:22.000Z</updated>
+        <summary type="html"><![CDATA[The new model features a 20 percent larger screen the Series 6 watch.]]></summary>
+        <author>
+            <name>Brent Dirks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is the Kindle App and How Does It Work?]]></title>
+        <id>https://www.makeuseof.com/what-is-the-kindle-app/</id>
+        <link href="https://www.makeuseof.com/what-is-the-kindle-app/"/>
+        <updated>2021-10-04T18:30:21.000Z</updated>
+        <summary type="html"><![CDATA[The Kindle app is free and lets you read Amazon ebooks on any device. Here's how it works and how to get it.]]></summary>
+        <author>
+            <name>Electra Nanou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mercury Dazzles in New Close-up from BepiColombo Mission]]></title>
+        <id>5F93C71E-3ABF-423B-982898F6CEE95BBD</id>
+        <link href="https://www.scientificamerican.com/article/mercury-dazzles-in-new-close-up-from-bepicolombo-mission/"/>
+        <updated>2021-10-04T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The European and Japanese spacecraft performed the first of six slingshot maneuvers around the planet. It will ultimately insert two probes into orbit in 2025
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Davide Castelvecchi, Nature magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Need to Use Two Displays? Here’s How to Set Up Dual Monitors]]></title>
+        <id>https://www.makeuseof.com/how-to-set-up-dual-monitors/</id>
+        <link href="https://www.makeuseof.com/how-to-set-up-dual-monitors/"/>
+        <updated>2021-10-04T18:17:31.000Z</updated>
+        <summary type="html"><![CDATA[Dual monitor setups are becoming increasingly popular. We show you how to go about creating yours.]]></summary>
+        <author>
+            <name>Samuel L. Garbett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Introduction to Iterators and Generators in JavaScript]]></title>
+        <id>https://www.makeuseof.com/javascript-iterators-generators/</id>
+        <link href="https://www.makeuseof.com/javascript-iterators-generators/"/>
+        <updated>2021-10-04T18:17:31.000Z</updated>
+        <summary type="html"><![CDATA[Get the hang of iterator and generator methods in JS.]]></summary>
+        <author>
+            <name>Unnati Bamania</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8 Ways to Get More Views on Instagram Stories]]></title>
+        <id>https://www.makeuseof.com/get-more-views-instagram-stories/</id>
+        <link href="https://www.makeuseof.com/get-more-views-instagram-stories/"/>
+        <updated>2021-10-04T18:17:30.000Z</updated>
+        <summary type="html"><![CDATA[Want to get more eyeballs on your Instagram Story posts? Here are a few tips...]]></summary>
+        <author>
+            <name>Tamal Das</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experimental Brain Implant Could Personalize Depression Therapy]]></title>
+        <id>5CDE32BB-BD9B-4B88-BA8E4F182A118F80</id>
+        <link href="https://www.scientificamerican.com/article/experimental-brain-implant-could-personalize-depression-therapy/"/>
+        <updated>2021-10-04T17:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Symptoms subsided for one woman after a carefully targeted neural circuit was stimulated
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Gary Stix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Comedy and Game Design Combine: Meet the Writer PhilFTW, Uncomfortable Interviewee]]></title>
+        <id>https://hackernoon.com/when-comedy-and-game-design-combine-meet-the-writer-philftw-uncomfortable-interviewee?source=rss</id>
+        <link href="https://hackernoon.com/when-comedy-and-game-design-combine-meet-the-writer-philftw-uncomfortable-interviewee?source=rss"/>
+        <updated>2021-10-04T17:35:08.000Z</updated>
+        <summary type="html"><![CDATA[PhilFTW is a freelance writer, illustrator, and game designer. He is an adult living with ADHD which means procrastination and panic are key inputs in his writ]]></summary>
+        <author>
+            <name>PhilFTW</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Quit Social Media Permanently]]></title>
+        <id>https://hackernoon.com/why-you-should-quit-social-media-permanently?source=rss</id>
+        <link href="https://hackernoon.com/why-you-should-quit-social-media-permanently?source=rss"/>
+        <updated>2021-10-04T17:27:51.000Z</updated>
+        <summary type="html"><![CDATA[Quitting social media permanently will improve your friends relationship, sense of identity, fear of politics, and maximize your attention span.]]></summary>
+        <author>
+            <name>gabriel.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snails, Sensors, and Smart Dust: The Michigan Micro Mote]]></title>
+        <id>https://hackaday.com/?p=498450</id>
+        <link href="https://hackaday.com/2021/10/04/snails-sensors-and-smart-dust-the-michigan-micro-mote/"/>
+        <updated>2021-10-04T17:00:14.000Z</updated>
+        <summary type="html"><![CDATA[If you want to track a snail, you need a tiny instrumentation package. How do you create an entire data acquisition system, including sensors, memory, data processing and a power …read more]]></summary>
+        <author>
+            <name>Robin Kearey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Change Your Origin Account’s Automatic Update Settings]]></title>
+        <id>https://www.makeuseof.com/how-to-change-origin-account-automatic-update-settings/</id>
+        <link href="https://www.makeuseof.com/how-to-change-origin-account-automatic-update-settings/"/>
+        <updated>2021-10-04T17:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Want to prevent automatic updates from interrupting your gaming session? You can change the setting easily, like this.]]></summary>
+        <author>
+            <name>Electra Nanou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21 Tips and Tricks to Master the Art of Googling as a Developer]]></title>
+        <id>https://www.makeuseof.com/21-tips-and-tricks-to-master-the-art-of-googling-as-a-developer/</id>
+        <link href="https://www.makeuseof.com/21-tips-and-tricks-to-master-the-art-of-googling-as-a-developer/"/>
+        <updated>2021-10-04T16:45:21.000Z</updated>
+        <summary type="html"><![CDATA[Become a Google search pro with the help of these tips and tricks.]]></summary>
+        <author>
+            <name>Yuvraj Chandra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Rate iPhone and iPad Apps on the App Store]]></title>
+        <id>https://www.makeuseof.com/how-to-rate-iphone-ipad-apps-app-store/</id>
+        <link href="https://www.makeuseof.com/how-to-rate-iphone-ipad-apps-app-store/"/>
+        <updated>2021-10-04T16:32:34.000Z</updated>
+        <summary type="html"><![CDATA[Taking a moment to leave a review for apps helps provide a better experience for everyone. Here's how to easily review iPhone and iPad apps you use.]]></summary>
+        <author>
+            <name>Ben Stegner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Amazon's Alexa Together Subscription Service?]]></title>
+        <id>https://www.makeuseof.com/what-is-amazon-alexa-together/</id>
+        <link href="https://www.makeuseof.com/what-is-amazon-alexa-together/"/>
+        <updated>2021-10-04T16:32:33.000Z</updated>
+        <summary type="html"><![CDATA[We’re taking a look at Amazon’s upgraded service to help check up on family members in need.]]></summary>
+        <author>
+            <name>Electra Nanou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 10 Best Tools and Tips for Delegating Tasks Efficiently]]></title>
+        <id>https://www.makeuseof.com/best-tools-tips-delegating-tasks/</id>
+        <link href="https://www.makeuseof.com/best-tools-tips-delegating-tasks/"/>
+        <updated>2021-10-04T16:32:33.000Z</updated>
+        <summary type="html"><![CDATA[Delegating tasks effectively means sharing workloads and maximizing resources. Here are some tips and tools for effective task delegation.]]></summary>
+        <author>
+            <name>Tamal Das</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can't Leave a Group Chat on Your iPhone? Here's What You Can Do Instead]]></title>
+        <id>https://www.makeuseof.com/cant-leave-a-group-chat-on-in-apple-messages-what-to-do-instead/</id>
+        <link href="https://www.makeuseof.com/cant-leave-a-group-chat-on-in-apple-messages-what-to-do-instead/"/>
+        <updated>2021-10-04T16:32:32.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes your iPhone won't let you leave group chats in the Messages app. We'll explain why that is and show you what to do instead.]]></summary>
+        <author>
+            <name>Rachel Melegrito</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the OSI Model? Computer Networking for Beginners]]></title>
+        <id>613b97f1852f4307d372b637</id>
+        <link href="https://www.freecodecamp.org/news/osi-model-computer-networking-for-beginners/"/>
+        <updated>2021-10-04T16:27:49.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn about the core concepts of the Open Systems Interconnections (OSI) model in a simple and easy way. As a developer, it's a good idea to learn how things work "under the hood". That way you understand what your code and the tools you use]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's Not Just You: Facebook, WhatsApp, and Instagram Are Down Right Now [UPDATED]]]></title>
+        <id>https://www.makeuseof.com/facebook-whatsapp-instagram-down-right-now/</id>
+        <link href="https://www.makeuseof.com/facebook-whatsapp-instagram-down-right-now/"/>
+        <updated>2021-10-04T16:25:54.000Z</updated>
+        <summary type="html"><![CDATA[Facebook's social media network is offline, taking major services with it.]]></summary>
+        <author>
+            <name>Gavin Phillips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is UX Design? User Experience Design Explained in Plain English]]></title>
+        <id>61063c1d3306a507d1bfbfca</id>
+        <link href="https://www.freecodecamp.org/news/user-experience-design-what-does-a-ux-designer-do/"/>
+        <updated>2021-10-04T16:21:30.000Z</updated>
+        <summary type="html"><![CDATA[You might have heard of the term User Experience or UX design. But what does it mean exactly? In this article, I will explain what UX design is and talk about how to become a UX designer.  What is UX design?The term User Experience refers to how users interact]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackaday Remoticon: Tickets and T-Shirts!]]></title>
+        <id>https://hackaday.com/?p=499486</id>
+        <link href="https://hackaday.com/2021/10/04/hackaday-remoticon-tickets-and-t-shirts/"/>
+        <updated>2021-10-04T16:01:46.000Z</updated>
+        <summary type="html"><![CDATA[Tickets for the Hackaday Remoticon are now available and there’s one big addition this year:  Shirts! As you have doubtless heard, the Supercon is on hold for one more year, …read more]]></summary>
+        <author>
+            <name>Mike Szczys</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Transfer Games From Your PS5 Console's Storage to an M.2 SSD]]></title>
+        <id>https://www.makeuseof.com/how-to-transfer-games-from-ps5-console-storage-to-m2-ssd/</id>
+        <link href="https://www.makeuseof.com/how-to-transfer-games-from-ps5-console-storage-to-m2-ssd/"/>
+        <updated>2021-10-04T15:00:55.000Z</updated>
+        <summary type="html"><![CDATA[So you've nabbed an M.2 SSD to expand your PS5 storage? Here's how you transfer your games across to it.]]></summary>
+        <author>
+            <name>Ste Knight</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Arduinos To Drive Undocumented Displays]]></title>
+        <id>https://hackaday.com/?p=499752</id>
+        <link href="https://hackaday.com/2021/10/04/using-arduinos-to-drive-undocumented-displays/"/>
+        <updated>2021-10-04T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For those of us old enough to remember the VCR (and the difficulty of programming one), the ubiquitous vacuum fluorescent display, or VFD, is burned into our memories, mostly because …read more]]></summary>
+        <author>
+            <name>Bryan Cockfield</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Wall Street Veterans Decided to Fight Back Against Traditional Finance]]></title>
+        <id>https://hackernoon.com/how-wall-street-veterans-decided-to-fight-back-against-traditional-finance?source=rss</id>
+        <link href="https://hackernoon.com/how-wall-street-veterans-decided-to-fight-back-against-traditional-finance?source=rss"/>
+        <updated>2021-10-04T14:54:27.000Z</updated>
+        <summary type="html"><![CDATA[Despite its popularity, traditional finance has some inefficiencies that need to be addressed. We spoke to Jack Tao of Phemex to get his thoughts on this.]]></summary>
+        <author>
+            <name>Christopher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Darksiders III Review (Switch)]]></title>
+        <id>https://hackernoon.com/darksiders-iii-review-switch?source=rss</id>
+        <link href="https://hackernoon.com/darksiders-iii-review-switch?source=rss"/>
+        <updated>2021-10-04T14:50:09.000Z</updated>
+        <summary type="html"><![CDATA[Darksiders III for Nintendo Switch came out this past week. Did it make an apocalyptic entrance onto the Switch? Or did it fall to Sin? Let's find out!]]></summary>
+        <author>
+            <name>Bryan Applegate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airthings View Plus Review: Real-Time Updates on the Air That's Killing You]]></title>
+        <id>https://www.makeuseof.com/airthings-view-plus-review/</id>
+        <link href="https://www.makeuseof.com/airthings-view-plus-review/"/>
+        <updated>2021-10-04T14:48:35.000Z</updated>
+        <summary type="html"><![CDATA[The Airthings View Plus is an indoor air quality monitor with Wi-Fi connectivity to sync data to the cloud.]]></summary>
+        <author>
+            <name>James Frew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Host Twitch Watch Parties on Your Stream]]></title>
+        <id>https://www.makeuseof.com/how-to-host-twitch-watch-parties/</id>
+        <link href="https://www.makeuseof.com/how-to-host-twitch-watch-parties/"/>
+        <updated>2021-10-04T14:48:35.000Z</updated>
+        <summary type="html"><![CDATA[Invite your viewers to watch movies and TV shows with you on Twitch by hosting a watch party. Here's what you need to know.]]></summary>
+        <author>
+            <name>Hamlin Rozario</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Desk Stand vs. Floor Stand: What's Best for Your Speakers?]]></title>
+        <id>https://www.makeuseof.com/desk-stand-vs-floor-stand-whats-best/</id>
+        <link href="https://www.makeuseof.com/desk-stand-vs-floor-stand-whats-best/"/>
+        <updated>2021-10-04T14:48:34.000Z</updated>
+        <summary type="html"><![CDATA[Investing in new speakers? Take a moment to consider which stand will deliver the best audio experience in your setup.]]></summary>
+        <author>
+            <name>Elliott Gooding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Animation Techniques for Adding and Removing Items From a Stack]]></title>
+        <id>https://css-tricks.com/?p=352819</id>
+        <link href="https://css-tricks.com/animation-techniques-for-adding-and-removing-items-from-a-stack/"/>
+        <updated>2021-10-04T14:05:36.000Z</updated>
+        <summary type="html"><![CDATA[Animating elements with CSS can either be quite easy or quite difficult depending on what you are trying to do. Changing the background color of a button when you hover over it? Easy. Animating the position and size of an …
+The post Animation Techniques for Adding and Removing Items From a Stack appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Luke Courtney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ShopTalk Goes Video]]></title>
+        <id>https://css-tricks.com/?p=352857</id>
+        <link href="https://css-tricks.com/shoptalk-goes-video/"/>
+        <updated>2021-10-04T14:04:32.000Z</updated>
+        <summary type="html"><![CDATA[Dave and I slapped up a little videos section of the ShopTalk website. Twelve so far! They are short-ish, between 10-20 minutes, each focused on one fairly specific thing. We’re kinda just dipping our toes here — we don’t …
+The post ShopTalk Goes Video appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Counting Down to the Final Atlas Rocket]]></title>
+        <id>https://hackaday.com/?p=497862</id>
+        <link href="https://hackaday.com/2021/10/04/counting-down-to-the-final-atlas-rocket/"/>
+        <updated>2021-10-04T14:01:58.000Z</updated>
+        <summary type="html"><![CDATA[The Atlas family of rockets have been a mainstay of America’s space program since the dawn of the Space Age, when unused SM-65 Atlas intercontinental ballistic missiles (ICBMs) were refurbished …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Staring into the Black Mirror with The Most Connected Man on Earth]]></title>
+        <id>https://hackernoon.com/staring-into-the-black-mirror-with-the-most-connected-man-on-earth?source=rss</id>
+        <link href="https://hackernoon.com/staring-into-the-black-mirror-with-the-most-connected-man-on-earth?source=rss"/>
+        <updated>2021-10-04T13:58:52.000Z</updated>
+        <summary type="html"><![CDATA[All throughout his day, Chris is connected to numerous sensors that collect the data that make up his life.]]></summary>
+        <author>
+            <name>Limarc Ambalina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comparing Piracy Cycles: Movie Pirates are Ready to Wait For HD Quality Releases]]></title>
+        <id>https://hackernoon.com/comparing-piracy-cycles-movie-pirates-are-ready-to-wait-for-hd-quality-releases?source=rss</id>
+        <link href="https://hackernoon.com/comparing-piracy-cycles-movie-pirates-are-ready-to-wait-for-hd-quality-releases?source=rss"/>
+        <updated>2021-10-04T13:52:18.000Z</updated>
+        <summary type="html"><![CDATA[New data shared by piracy tracking company MUSO shows that most torrenting movie pirates prefer HD quality releases, even if they have to wait for months.]]></summary>
+        <author>
+            <name>TorrentFreak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Key Qualities That Every Mobile App Should Have]]></title>
+        <id>https://www.makeuseof.com/5-key-qualities-that-every-mobile-app-should-have/</id>
+        <link href="https://www.makeuseof.com/5-key-qualities-that-every-mobile-app-should-have/"/>
+        <updated>2021-10-04T13:46:45.000Z</updated>
+        <summary type="html"><![CDATA[Before you develop your mobile app, make sure you have these important factors figured out.]]></summary>
+        <author>
+            <name>Ayush Jalan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Bookmarks Feature in Microsoft Word]]></title>
+        <id>https://www.makeuseof.com/use-bookmarks-feature-microsoft-word/</id>
+        <link href="https://www.makeuseof.com/use-bookmarks-feature-microsoft-word/"/>
+        <updated>2021-10-04T13:30:21.000Z</updated>
+        <summary type="html"><![CDATA[You can use bookmarks in Microsoft Word to identify parts of a large document. This enables you to navigate and link to these sections. Here's how!]]></summary>
+        <author>
+            <name>Joy Okumoko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clubhouse Replays Finally Let You Record Your Conversations]]></title>
+        <id>https://www.makeuseof.com/clubhouse-replays-record-conversations/</id>
+        <link href="https://www.makeuseof.com/clubhouse-replays-record-conversations/"/>
+        <updated>2021-10-04T13:16:29.000Z</updated>
+        <summary type="html"><![CDATA[Clubhouse has announced Replays -- which will finally let users record their conversations on the app. Here's how the feature will work.]]></summary>
+        <author>
+            <name>Aya Masango</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 7 Best Android Smartwatches]]></title>
+        <id>https://www.makeuseof.com/best-android-smartwatches/</id>
+        <link href="https://www.makeuseof.com/best-android-smartwatches/"/>
+        <updated>2021-10-04T13:07:54.000Z</updated>
+        <summary type="html"><![CDATA[Explore the versatility of Android smartwatches, ideal for health and fitness, making calls, and tracking your location.]]></summary>
+        <author>
+            <name>Alan Blake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prepaid vs. Postpaid Phone Plans: What's the Best for You?]]></title>
+        <id>https://www.makeuseof.com/prepaid-vs-postpaid/</id>
+        <link href="https://www.makeuseof.com/prepaid-vs-postpaid/"/>
+        <updated>2021-10-04T13:03:57.000Z</updated>
+        <summary type="html"><![CDATA[Not sure what the differences between prepaid and postpaid mobile plans are, or which one you should choose? Here's what you should know.]]></summary>
+        <author>
+            <name>Megan Ellis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple's iCloud Private Relay Leaks Users' IP Addresses: Should You Be Worried?]]></title>
+        <id>https://www.makeuseof.com/apples-icloud-leaks-user-ip-address/</id>
+        <link href="https://www.makeuseof.com/apples-icloud-leaks-user-ip-address/"/>
+        <updated>2021-10-04T13:03:56.000Z</updated>
+        <summary type="html"><![CDATA[Is Apple's Private Relay even ready for public use?]]></summary>
+        <author>
+            <name>Ankush Das</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Simple Introduction to the Stellar Blockchain (XLM)]]></title>
+        <id>https://www.makeuseof.com/simple-introduction-stellar-blockchain-xlm/</id>
+        <link href="https://www.makeuseof.com/simple-introduction-stellar-blockchain-xlm/"/>
+        <updated>2021-10-04T13:03:56.000Z</updated>
+        <summary type="html"><![CDATA[Stellar is fast, cheap, and ready to use.]]></summary>
+        <author>
+            <name>Jerome Davidson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 7 Best Motorcycle Bluetooth Headsets]]></title>
+        <id>https://www.makeuseof.com/best-motorcycle-bluetooth-headsets/</id>
+        <link href="https://www.makeuseof.com/best-motorcycle-bluetooth-headsets/"/>
+        <updated>2021-10-04T13:03:55.000Z</updated>
+        <summary type="html"><![CDATA[Talk to other riders or listen to music on-the-go with a motorcycle headset with Bluetooth technology.]]></summary>
+        <author>
+            <name>Katie Rees</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Arts and Crafts Subscription Boxes to Get Your Creativity Flowing]]></title>
+        <id>https://www.makeuseof.com/arts-and-crafts-subscription-boxes/</id>
+        <link href="https://www.makeuseof.com/arts-and-crafts-subscription-boxes/"/>
+        <updated>2021-10-04T13:03:55.000Z</updated>
+        <summary type="html"><![CDATA[If you're looking for a new hobby, it might be worth checking out these seven arts and crafts subscription boxes to bring out your creative juices.]]></summary>
+        <author>
+            <name>Simona Tolcheva</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Wearable Technology Trends to Watch in 2021-2022!]]></title>
+        <id>https://hackernoon.com/top-wearable-technology-trends-to-watch-in-2021-2022?source=rss</id>
+        <link href="https://hackernoon.com/top-wearable-technology-trends-to-watch-in-2021-2022?source=rss"/>
+        <updated>2021-10-04T13:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Wearable technology is spanning a large range of industries with specialised requirements and client bases, from healthcare to travel, transportation & fitness]]></summary>
+        <author>
+            <name>Gautam Raturi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Most Evolving Big Data Technologies to Catch Up on in 2022]]></title>
+        <id>https://hackernoon.com/10-most-evolving-big-data-technologies-to-catch-up-on-in-2022?source=rss</id>
+        <link href="https://hackernoon.com/10-most-evolving-big-data-technologies-to-catch-up-on-in-2022?source=rss"/>
+        <updated>2021-10-04T12:54:08.000Z</updated>
+        <summary type="html"><![CDATA[At the heart of it all, big data also has a dark side. Several tech giants are facing heat from the public and government regarding the issue of data privacy.]]></summary>
+        <author>
+            <name>Aliha Tanveer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biosphere 2: The Once Infamous Live-In Terrarium Is Transforming Climate Research]]></title>
+        <id>6596F377-A7F4-43E1-9C062E9C52FE7EAD</id>
+        <link href="https://www.scientificamerican.com/article/biosphere-2-the-once-infamous-live-in-terrarium-is-transforming-climate-research/"/>
+        <updated>2021-10-04T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Despite its controversial past, the quirky desert facility is becoming increasingly relevant as it turns 30
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Keridwen Cornelius</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Office Chair For You- The One That Fits Your Needs And Budget]]></title>
+        <id>https://hackernoon.com/the-best-office-chair-for-you-the-one-that-fits-your-needs-and-budget?source=rss</id>
+        <link href="https://hackernoon.com/the-best-office-chair-for-you-the-one-that-fits-your-needs-and-budget?source=rss"/>
+        <updated>2021-10-04T11:56:58.000Z</updated>
+        <summary type="html"><![CDATA[Some important features must include in an office chair. You should consider health-friendly, fits to pocket, more like a partner that helps you to work for..]]></summary>
+        <author>
+            <name>Daman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telegram Bots: How They Are Used]]></title>
+        <id>https://hackernoon.com/telegram-bots-how-they-are-used?source=rss</id>
+        <link href="https://hackernoon.com/telegram-bots-how-they-are-used?source=rss"/>
+        <updated>2021-10-04T11:10:23.000Z</updated>
+        <summary type="html"><![CDATA[Telegram bots have a variety of functions; they range from setting notifications to website monitoring. Find out more about how these bots are being used here.]]></summary>
+        <author>
+            <name>Juxtathinka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 Nobel Prize in Physiology or Medicine Awarded for Discoveries in Sensing Temperature and Touch]]></title>
+        <id>C33A4523-9F32-4D5B-8DA1BD137C47078B</id>
+        <link href="https://www.scientificamerican.com/article/2021-nobel-prize-in-physiology-or-medicine-awarded-for-discoveries-in-sensing-temperature-and-touch1/"/>
+        <updated>2021-10-04T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[David Julius’s and Ardem Patapoutian’s research revealed the molecular basis of these basic senses
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Tanya Lewis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High-Flying Sensor Detects Living Things from Far Above]]></title>
+        <id>2BB82541-6009-4979-802A363C4AFED9EE</id>
+        <link href="https://www.scientificamerican.com/article/high-flying-sensor-detects-living-things-from-far-above/"/>
+        <updated>2021-10-04T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[A new detector could keep tabs on life on Earth—and maybe beyond
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Connie Chang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 7 Best Bluetooth Headsets With Good Battery Life]]></title>
+        <id>https://www.makeuseof.com/tag/bluetooth-headsets-battery-life/</id>
+        <link href="https://www.makeuseof.com/tag/bluetooth-headsets-battery-life/"/>
+        <updated>2021-10-04T10:09:08.000Z</updated>
+        <summary type="html"><![CDATA[Looking for a Bluetooth headset with good battery life? Here are some of the longest lasting Bluetooth headsets on the market.]]></summary>
+        <author>
+            <name>Jowi Morales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 7 Best Chromebook 2-in-1 Convertible Laptops]]></title>
+        <id>https://www.makeuseof.com/tag/best-chromebook-convertible-laptops/</id>
+        <link href="https://www.makeuseof.com/tag/best-chromebook-convertible-laptops/"/>
+        <updated>2021-10-04T09:43:18.000Z</updated>
+        <summary type="html"><![CDATA[Looking for the best convertible Chromebook 2-in-1 laptop? We've got a list of the best models which can run Android apps!]]></summary>
+        <author>
+            <name>Elvis Shida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Medicine Nobel Prize Goes to Temperature and Touch Discoveries]]></title>
+        <id>https://www.quantamagazine.org/?p=109116</id>
+        <link href="https://www.quantamagazine.org/medicine-nobel-prize-goes-for-temperature-and-touch-discoveries-20211004/"/>
+        <updated>2021-10-04T09:42:09.000Z</updated>
+        <summary type="html"><![CDATA[David Julius and Ardem Patapoutian receive the 2021 Nobel Prize in Physiology or Medicine for their discoveries of how we detect heat and touch.            
+The post Medicine Nobel Prize Goes to Temperature and Touch Discoveries first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Jordana Cepelewicz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS accent-color]]></title>
+        <id>https://davidwalsh.name/?p=27475</id>
+        <link href="https://davidwalsh.name/css-accent-color"/>
+        <updated>2021-10-04T08:08:36.000Z</updated>
+        <summary type="html"><![CDATA[For better or worse, form fields have been somewhat difficult to style with CSS. Form control display is dependent upon device, operating system, and browser, so you can imagine the difficulty in making styling easy. We have slowly been given some controls over form control display, as evidenced by accent-color! The accent-color CSS property allows […]
+The post CSS accent-color appeared first on David Walsh Blog.]]></summary>
+        <author>
+            <name>David Walsh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Cryptocurrency Exchanges in India to Spoil Rotten With Your Hard Earned Paper]]></title>
+        <id>https://hackernoon.com/top-cryptocurrency-exchanges-in-india-to-spoil-rotten-with-your-hard-earned-paper?source=rss</id>
+        <link href="https://hackernoon.com/top-cryptocurrency-exchanges-in-india-to-spoil-rotten-with-your-hard-earned-paper?source=rss"/>
+        <updated>2021-10-04T07:02:32.000Z</updated>
+        <summary type="html"><![CDATA[To invest or not to invest was never the question.]]></summary>
+        <author>
+            <name>Rituraj Sengar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tips for a Successful DevSecOps Life Cycle]]></title>
+        <id>https://devops.com/?p=145838</id>
+        <link href="https://devops.com/tips-for-a-successful-devsecops-life-cycle/"/>
+        <updated>2021-10-04T07:00:21.000Z</updated>
+        <summary type="html"><![CDATA[A DevOps implementation, if done correctly, can do wonders for any organization that’s on the hunt for efficiency, productivity and speed. As per the 2020 survey conducted by Atlassian, 99% of survey respondents said that DevOps has had a positive impact on their organization. However, it won’t do any good if security isn’t prioritized while […]
+The post Tips for a Successful DevSecOps Life Cycle appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Deepak Gupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Role of APIs in Mainframe Modernization]]></title>
+        <id>https://devops.com/?p=145705</id>
+        <link href="https://devops.com/the-role-of-apis-in-mainframe-modernization/"/>
+        <updated>2021-10-04T06:30:11.000Z</updated>
+        <summary type="html"><![CDATA[Mainframes are historically clunky systems. They are incredibly secure and can process impressive calculations, yet they are complex to manage and challenging to extract data from. This reality is at odds with modern cloud-native infrastructure, which emphasizes distributed computing and portable microservices. So, how can existing mainframes adapt to this connected, data-driven economy? I recently […]
+The post The Role of APIs in Mainframe Modernization appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Bill Doerrfeld</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automation Engineering]]></title>
+        <id>https://devops.com/?p=145851</id>
+        <link href="https://devops.com/automation-engineering/"/>
+        <updated>2021-10-04T06:00:37.000Z</updated>
+        <summary type="html"><![CDATA[The post Automation Engineering appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>ROELBOB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Made My First AI YouTuber]]></title>
+        <id>https://hackernoon.com/how-i-made-my-first-ai-youtuber?source=rss</id>
+        <link href="https://hackernoon.com/how-i-made-my-first-ai-youtuber?source=rss"/>
+        <updated>2021-10-04T03:39:18.000Z</updated>
+        <summary type="html"><![CDATA[This article explores the idea of utilizing AI to create videos on different subjects prompted by the author.]]></summary>
+        <author>
+            <name>Branislav Đalić</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Your dev Blog Noticed in 2021]]></title>
+        <id>https://hackernoon.com/how-to-get-your-dev-blog-noticed-in-2021?source=rss</id>
+        <link href="https://hackernoon.com/how-to-get-your-dev-blog-noticed-in-2021?source=rss"/>
+        <updated>2021-10-04T02:52:10.000Z</updated>
+        <summary type="html"><![CDATA[How to write and share technical software development articles in 2021.]]></summary>
+        <author>
+            <name>Brian Caffey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hackaday Links: October 3, 2021]]></title>
         <id>https://hackaday.com/?p=499070&amp;preview=true&amp;preview_id=499070</id>
@@ -757,6 +1508,16 @@
         <summary type="html"><![CDATA[If you're an avid gardener or looking to get a garden going, here are the six best plant subscription boxes for you to check out.]]></summary>
         <author>
             <name>Simona Tolcheva</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Trace and Find Your Phone's Location]]></title>
+        <id>https://www.makeuseof.com/tag/how-to-trace-a-mobile-phone-location-with-google-latitude/</id>
+        <link href="https://www.makeuseof.com/tag/how-to-trace-a-mobile-phone-location-with-google-latitude/"/>
+        <updated>2021-10-02T16:47:08.000Z</updated>
+        <summary type="html"><![CDATA[We show you how to trace a phone and find its location from your Android phone. Note that you can't find a phone location by its number.]]></summary>
+        <author>
+            <name>Emma Garofalo</name>
         </author>
     </entry>
     <entry>
@@ -3130,6 +3891,16 @@ The post Web Unleashed is Back! (Use Coupon Code “CSS-Tricks” for 50% Off) a
 The post In Topology, When Are Two Shapes the Same? first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Kevin Hartnett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HackerNoon Contributor Davis David Builds Datasets for African Languages]]></title>
+        <id>https://hackernoon.com/hackernoon-contributor-davis-david-builds-datasets-for-african-languages?source=rss</id>
+        <link href="https://hackernoon.com/hackernoon-contributor-davis-david-builds-datasets-for-african-languages?source=rss"/>
+        <updated>2021-09-28T13:28:57.000Z</updated>
+        <summary type="html"><![CDATA[Davis' latest HackerNoon top story is the development of the Swahili news dataset for topic classification tasks in machine learning.]]></summary>
+        <author>
+            <name>Davis David</name>
         </author>
     </entry>
     <entry>

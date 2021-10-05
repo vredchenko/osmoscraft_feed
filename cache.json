@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=353179",
+          "author": "Chris Coyier",
+          "description": "Dumb trick alert! \nNot all browsers support all features. Say you want to write a fallback for browsers that doesn’t support CSS Grid. Not very common these days, but it’s just to illustrate a point.\nYou could write the supporting …\nThe post Quickly Testing CSS Fallbacks appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/quickly-testing-css-fallbacks/",
+          "publishedOn": "2021-10-04T19:15:22.000Z",
+          "wordCount": 530,
+          "title": "Quickly Testing CSS Fallbacks"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352819",
+          "author": "Luke Courtney",
+          "description": "Animating elements with CSS can either be quite easy or quite difficult depending on what you are trying to do. Changing the background color of a button when you hover over it? Easy. Animating the position and size of an …\nThe post Animation Techniques for Adding and Removing Items From a Stack appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/animation-techniques-for-adding-and-removing-items-from-a-stack/",
+          "publishedOn": "2021-10-04T14:05:36.000Z",
+          "wordCount": 4663,
+          "title": "Animation Techniques for Adding and Removing Items From a Stack"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352857",
+          "author": "Chris Coyier",
+          "description": "Dave and I slapped up a little videos section of the ShopTalk website. Twelve so far! They are short-ish, between 10-20 minutes, each focused on one fairly specific thing. We’re kinda just dipping our toes here — we don’t …\nThe post ShopTalk Goes Video appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/shoptalk-goes-video/",
+          "publishedOn": "2021-10-04T14:04:32.000Z",
+          "wordCount": 512,
+          "title": "ShopTalk Goes Video"
+        },
+        {
           "id": "https://css-tricks.com/?p=352717",
           "author": "Chris Coyier",
           "description": "How To Use The Vite Build Tool with React — Vite is hot, in part, because it’s based on esbuild and wickedly fast. It’s from Evan You of Vue fame, but it’s not a Vue-specific tool. Here, NARUHODO covers how \n…\nThe post Links on React and JavaScript II appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -148,6 +175,42 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "5fff3ec998be260817e495ee",
+          "author": null,
+          "description": "Ping and traceroute are common commands you can use to troubleshoot network problems.  Ping is a simple command that can test the reachability of a device on the network.  Traceroute is a command you use to 'trace' the route that a packet takes when traveling to its destination. It's useful",
+          "link": "https://www.freecodecamp.org/news/traceroute-and-ping/",
+          "publishedOn": "2021-10-04T23:46:48.000Z",
+          "wordCount": 1157,
+          "title": "How to Use the Traceroute and Ping Commands to Troubleshoot Network Connectivity Issues"
+        },
+        {
+          "id": "6154775964aefe07d3fa0b7d",
+          "author": null,
+          "description": "Everyone needs websites and web applications these days. So there are many opportunities for you if you work as a web developer.  But if you want to get a web developer job, you'll need a good portfolio website to showcase your skills and experience.  In this tutorial, I'll discuss some",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-developer-portfolio-website/",
+          "publishedOn": "2021-10-04T20:59:10.000Z",
+          "wordCount": 6519,
+          "title": "How to Build Your Own Developer Portfolio Website with HTML, CSS, and JavaScript"
+        },
+        {
+          "id": "613b97f1852f4307d372b637",
+          "author": null,
+          "description": "In this article, you will learn about the core concepts of the Open Systems Interconnections (OSI) model in a simple and easy way. As a developer, it's a good idea to learn how things work \"under the hood\". That way you understand what your code and the tools you use",
+          "link": "https://www.freecodecamp.org/news/osi-model-computer-networking-for-beginners/",
+          "publishedOn": "2021-10-04T16:27:49.000Z",
+          "wordCount": 1915,
+          "title": "What is the OSI Model? Computer Networking for Beginners"
+        },
+        {
+          "id": "61063c1d3306a507d1bfbfca",
+          "author": null,
+          "description": "You might have heard of the term User Experience or UX design. But what does it mean exactly? In this article, I will explain what UX design is and talk about how to become a UX designer.  What is UX design?The term User Experience refers to how users interact",
+          "link": "https://www.freecodecamp.org/news/user-experience-design-what-does-a-ux-designer-do/",
+          "publishedOn": "2021-10-04T16:21:30.000Z",
+          "wordCount": 1195,
+          "title": "What is UX Design? User Experience Design Explained in Plain English"
+        },
+        {
           "id": "5f9c98a3740569d1a4ca1b33",
           "author": null,
           "description": "Every year Class Central releases a list of the Best Free Online Courses Of All Time, based on tens of thousands of user reviews. This year, thanks to a growing number of reviews, I've expanded the list from 200 to 250 courses. For close to ten years, well-known and well-respected",
@@ -253,6 +316,285 @@
       "feedUrl": "https://www.makeuseof.com/feed/",
       "siteUrl": "https://www.makeuseof.com",
       "articles": [
+        {
+          "id": "https://www.makeuseof.com/best-tools-transcribe-video-meetings-shareable-documents/",
+          "author": "Tamal Das",
+          "description": "Transcribing apps let you convert audio and video files into text that you can share. Here are some of the best tools you can use for that.",
+          "link": "https://www.makeuseof.com/best-tools-transcribe-video-meetings-shareable-documents/",
+          "publishedOn": "2021-10-04T20:30:21.000Z",
+          "wordCount": 1565,
+          "title": "The 10 Best Tools for Transcribing Video Meetings to Shareable Documents"
+        },
+        {
+          "id": "https://www.makeuseof.com/who-is-facebook-whistleblower-60-minutes-interview-claims/",
+          "author": "Aya Masango",
+          "description": "A former Facebook employee-turned-whistleblower has made a series of bold claims on 60 Minutes. Here's what you need to know...",
+          "link": "https://www.makeuseof.com/who-is-facebook-whistleblower-60-minutes-interview-claims/",
+          "publishedOn": "2021-10-04T20:26:21.000Z",
+          "wordCount": 1130,
+          "title": "Who Is the Facebook Whistleblower and What Did They Say on 60 Minutes?"
+        },
+        {
+          "id": "https://www.makeuseof.com/is-the-kindle-app-free/",
+          "author": "Electra Nanou",
+          "description": "You can download the Kindle app directly from Amazon without paying a cent, but some Kindle features do cost money.",
+          "link": "https://www.makeuseof.com/is-the-kindle-app-free/",
+          "publishedOn": "2021-10-04T20:01:27.000Z",
+          "wordCount": 862,
+          "title": "Is the Kindle App Free or Does It Cost Money?"
+        },
+        {
+          "id": "https://www.makeuseof.com/midnightbsd-linux-desktop-alternative/",
+          "author": "David Delony",
+          "description": "The BSD community is making notable progress by bringing new OSes to the table. Check out MidnightBSD, a suitable alternative to the Linux desktop.",
+          "link": "https://www.makeuseof.com/midnightbsd-linux-desktop-alternative/",
+          "publishedOn": "2021-10-04T19:00:12.000Z",
+          "wordCount": 1483,
+          "title": "MidnightBSD: A BSD-Based Alternative to the Linux Desktop"
+        },
+        {
+          "id": "https://www.makeuseof.com/apple-watch-series-7-release-date-preorders/",
+          "author": "Brent Dirks",
+          "description": "The new model features a 20 percent larger screen the Series 6 watch.",
+          "link": "https://www.makeuseof.com/apple-watch-series-7-release-date-preorders/",
+          "publishedOn": "2021-10-04T18:30:22.000Z",
+          "wordCount": 748,
+          "title": "Apple Watch Series 7 Release Date and Pre-Orders, Revealed"
+        },
+        {
+          "id": "https://www.makeuseof.com/what-is-the-kindle-app/",
+          "author": "Electra Nanou",
+          "description": "The Kindle app is free and lets you read Amazon ebooks on any device. Here's how it works and how to get it.",
+          "link": "https://www.makeuseof.com/what-is-the-kindle-app/",
+          "publishedOn": "2021-10-04T18:30:21.000Z",
+          "wordCount": 1069,
+          "title": "What Is the Kindle App and How Does It Work?"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-set-up-dual-monitors/",
+          "author": "Samuel L. Garbett",
+          "description": "Dual monitor setups are becoming increasingly popular. We show you how to go about creating yours.",
+          "link": "https://www.makeuseof.com/how-to-set-up-dual-monitors/",
+          "publishedOn": "2021-10-04T18:17:31.000Z",
+          "wordCount": 1941,
+          "title": "Need to Use Two Displays? Here’s How to Set Up Dual Monitors"
+        },
+        {
+          "id": "https://www.makeuseof.com/javascript-iterators-generators/",
+          "author": "Unnati Bamania",
+          "description": "Get the hang of iterator and generator methods in JS.",
+          "link": "https://www.makeuseof.com/javascript-iterators-generators/",
+          "publishedOn": "2021-10-04T18:17:31.000Z",
+          "wordCount": 831,
+          "title": "An Introduction to Iterators and Generators in JavaScript"
+        },
+        {
+          "id": "https://www.makeuseof.com/get-more-views-instagram-stories/",
+          "author": "Tamal Das",
+          "description": "Want to get more eyeballs on your Instagram Story posts? Here are a few tips...",
+          "link": "https://www.makeuseof.com/get-more-views-instagram-stories/",
+          "publishedOn": "2021-10-04T18:17:30.000Z",
+          "wordCount": 1548,
+          "title": "8 Ways to Get More Views on Instagram Stories"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-change-origin-account-automatic-update-settings/",
+          "author": "Electra Nanou",
+          "description": "Want to prevent automatic updates from interrupting your gaming session? You can change the setting easily, like this.",
+          "link": "https://www.makeuseof.com/how-to-change-origin-account-automatic-update-settings/",
+          "publishedOn": "2021-10-04T17:00:11.000Z",
+          "wordCount": 852,
+          "title": "How to Change Your Origin Account’s Automatic Update Settings"
+        },
+        {
+          "id": "https://www.makeuseof.com/21-tips-and-tricks-to-master-the-art-of-googling-as-a-developer/",
+          "author": "Yuvraj Chandra",
+          "description": "Become a Google search pro with the help of these tips and tricks.",
+          "link": "https://www.makeuseof.com/21-tips-and-tricks-to-master-the-art-of-googling-as-a-developer/",
+          "publishedOn": "2021-10-04T16:45:21.000Z",
+          "wordCount": 1669,
+          "title": "21 Tips and Tricks to Master the Art of Googling as a Developer"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-rate-iphone-ipad-apps-app-store/",
+          "author": "Ben Stegner",
+          "description": "Taking a moment to leave a review for apps helps provide a better experience for everyone. Here's how to easily review iPhone and iPad apps you use.",
+          "link": "https://www.makeuseof.com/how-to-rate-iphone-ipad-apps-app-store/",
+          "publishedOn": "2021-10-04T16:32:34.000Z",
+          "wordCount": 883,
+          "title": "How to Rate iPhone and iPad Apps on the App Store"
+        },
+        {
+          "id": "https://www.makeuseof.com/what-is-amazon-alexa-together/",
+          "author": "Electra Nanou",
+          "description": "We’re taking a look at Amazon’s upgraded service to help check up on family members in need.",
+          "link": "https://www.makeuseof.com/what-is-amazon-alexa-together/",
+          "publishedOn": "2021-10-04T16:32:33.000Z",
+          "wordCount": 832,
+          "title": "What Is Amazon's Alexa Together Subscription Service?"
+        },
+        {
+          "id": "https://www.makeuseof.com/best-tools-tips-delegating-tasks/",
+          "author": "Tamal Das",
+          "description": "Delegating tasks effectively means sharing workloads and maximizing resources. Here are some tips and tools for effective task delegation.",
+          "link": "https://www.makeuseof.com/best-tools-tips-delegating-tasks/",
+          "publishedOn": "2021-10-04T16:32:33.000Z",
+          "wordCount": 1553,
+          "title": "The 10 Best Tools and Tips for Delegating Tasks Efficiently"
+        },
+        {
+          "id": "https://www.makeuseof.com/cant-leave-a-group-chat-on-in-apple-messages-what-to-do-instead/",
+          "author": "Rachel Melegrito",
+          "description": "Sometimes your iPhone won't let you leave group chats in the Messages app. We'll explain why that is and show you what to do instead.",
+          "link": "https://www.makeuseof.com/cant-leave-a-group-chat-on-in-apple-messages-what-to-do-instead/",
+          "publishedOn": "2021-10-04T16:32:32.000Z",
+          "wordCount": 912,
+          "title": "Can't Leave a Group Chat on Your iPhone? Here's What You Can Do Instead"
+        },
+        {
+          "id": "https://www.makeuseof.com/facebook-whatsapp-instagram-down-right-now/",
+          "author": "Gavin Phillips",
+          "description": "Facebook's social media network is offline, taking major services with it.",
+          "link": "https://www.makeuseof.com/facebook-whatsapp-instagram-down-right-now/",
+          "publishedOn": "2021-10-04T16:25:54.000Z",
+          "wordCount": 1306,
+          "title": "It's Not Just You: Facebook, WhatsApp, and Instagram Are Down Right Now [UPDATED]"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-transfer-games-from-ps5-console-storage-to-m2-ssd/",
+          "author": "Ste Knight",
+          "description": "So you've nabbed an M.2 SSD to expand your PS5 storage? Here's how you transfer your games across to it.",
+          "link": "https://www.makeuseof.com/how-to-transfer-games-from-ps5-console-storage-to-m2-ssd/",
+          "publishedOn": "2021-10-04T15:00:55.000Z",
+          "wordCount": 1051,
+          "title": "How to Transfer Games From Your PS5 Console's Storage to an M.2 SSD"
+        },
+        {
+          "id": "https://www.makeuseof.com/airthings-view-plus-review/",
+          "author": "James Frew",
+          "description": "The Airthings View Plus is an indoor air quality monitor with Wi-Fi connectivity to sync data to the cloud.",
+          "link": "https://www.makeuseof.com/airthings-view-plus-review/",
+          "publishedOn": "2021-10-04T14:48:35.000Z",
+          "wordCount": 2609,
+          "title": "Airthings View Plus Review: Real-Time Updates on the Air That's Killing You"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-host-twitch-watch-parties/",
+          "author": "Hamlin Rozario",
+          "description": "Invite your viewers to watch movies and TV shows with you on Twitch by hosting a watch party. Here's what you need to know.",
+          "link": "https://www.makeuseof.com/how-to-host-twitch-watch-parties/",
+          "publishedOn": "2021-10-04T14:48:35.000Z",
+          "wordCount": 1614,
+          "title": "How to Host Twitch Watch Parties on Your Stream"
+        },
+        {
+          "id": "https://www.makeuseof.com/desk-stand-vs-floor-stand-whats-best/",
+          "author": "Elliott Gooding",
+          "description": "Investing in new speakers? Take a moment to consider which stand will deliver the best audio experience in your setup.",
+          "link": "https://www.makeuseof.com/desk-stand-vs-floor-stand-whats-best/",
+          "publishedOn": "2021-10-04T14:48:34.000Z",
+          "wordCount": 1346,
+          "title": "Desk Stand vs. Floor Stand: What's Best for Your Speakers?"
+        },
+        {
+          "id": "https://www.makeuseof.com/5-key-qualities-that-every-mobile-app-should-have/",
+          "author": "Ayush Jalan",
+          "description": "Before you develop your mobile app, make sure you have these important factors figured out.",
+          "link": "https://www.makeuseof.com/5-key-qualities-that-every-mobile-app-should-have/",
+          "publishedOn": "2021-10-04T13:46:45.000Z",
+          "wordCount": 1449,
+          "title": "5 Key Qualities That Every Mobile App Should Have"
+        },
+        {
+          "id": "https://www.makeuseof.com/use-bookmarks-feature-microsoft-word/",
+          "author": "Joy Okumoko",
+          "description": "You can use bookmarks in Microsoft Word to identify parts of a large document. This enables you to navigate and link to these sections. Here's how!",
+          "link": "https://www.makeuseof.com/use-bookmarks-feature-microsoft-word/",
+          "publishedOn": "2021-10-04T13:30:21.000Z",
+          "wordCount": 1717,
+          "title": "How to Use the Bookmarks Feature in Microsoft Word"
+        },
+        {
+          "id": "https://www.makeuseof.com/clubhouse-replays-record-conversations/",
+          "author": "Aya Masango",
+          "description": "Clubhouse has announced Replays -- which will finally let users record their conversations on the app. Here's how the feature will work.",
+          "link": "https://www.makeuseof.com/clubhouse-replays-record-conversations/",
+          "publishedOn": "2021-10-04T13:16:29.000Z",
+          "wordCount": 932,
+          "title": "Clubhouse Replays Finally Let You Record Your Conversations"
+        },
+        {
+          "id": "https://www.makeuseof.com/best-android-smartwatches/",
+          "author": "Alan Blake",
+          "description": "Explore the versatility of Android smartwatches, ideal for health and fitness, making calls, and tracking your location.",
+          "link": "https://www.makeuseof.com/best-android-smartwatches/",
+          "publishedOn": "2021-10-04T13:07:54.000Z",
+          "wordCount": 4146,
+          "title": "The 7 Best Android Smartwatches"
+        },
+        {
+          "id": "https://www.makeuseof.com/prepaid-vs-postpaid/",
+          "author": "Megan Ellis",
+          "description": "Not sure what the differences between prepaid and postpaid mobile plans are, or which one you should choose? Here's what you should know.",
+          "link": "https://www.makeuseof.com/prepaid-vs-postpaid/",
+          "publishedOn": "2021-10-04T13:03:57.000Z",
+          "wordCount": 1524,
+          "title": "Prepaid vs. Postpaid Phone Plans: What's the Best for You?"
+        },
+        {
+          "id": "https://www.makeuseof.com/apples-icloud-leaks-user-ip-address/",
+          "author": "Ankush Das",
+          "description": "Is Apple's Private Relay even ready for public use?",
+          "link": "https://www.makeuseof.com/apples-icloud-leaks-user-ip-address/",
+          "publishedOn": "2021-10-04T13:03:56.000Z",
+          "wordCount": 740,
+          "title": "Apple's iCloud Private Relay Leaks Users' IP Addresses: Should You Be Worried?"
+        },
+        {
+          "id": "https://www.makeuseof.com/simple-introduction-stellar-blockchain-xlm/",
+          "author": "Jerome Davidson",
+          "description": "Stellar is fast, cheap, and ready to use.",
+          "link": "https://www.makeuseof.com/simple-introduction-stellar-blockchain-xlm/",
+          "publishedOn": "2021-10-04T13:03:56.000Z",
+          "wordCount": 809,
+          "title": "A Simple Introduction to the Stellar Blockchain (XLM)"
+        },
+        {
+          "id": "https://www.makeuseof.com/best-motorcycle-bluetooth-headsets/",
+          "author": "Katie Rees",
+          "description": "Talk to other riders or listen to music on-the-go with a motorcycle headset with Bluetooth technology.",
+          "link": "https://www.makeuseof.com/best-motorcycle-bluetooth-headsets/",
+          "publishedOn": "2021-10-04T13:03:55.000Z",
+          "wordCount": 2271,
+          "title": "The 7 Best Motorcycle Bluetooth Headsets"
+        },
+        {
+          "id": "https://www.makeuseof.com/arts-and-crafts-subscription-boxes/",
+          "author": "Simona Tolcheva",
+          "description": "If you're looking for a new hobby, it might be worth checking out these seven arts and crafts subscription boxes to bring out your creative juices.",
+          "link": "https://www.makeuseof.com/arts-and-crafts-subscription-boxes/",
+          "publishedOn": "2021-10-04T13:03:55.000Z",
+          "wordCount": 1524,
+          "title": "6 Arts and Crafts Subscription Boxes to Get Your Creativity Flowing"
+        },
+        {
+          "id": "https://www.makeuseof.com/tag/bluetooth-headsets-battery-life/",
+          "author": "Jowi Morales",
+          "description": "Looking for a Bluetooth headset with good battery life? Here are some of the longest lasting Bluetooth headsets on the market.",
+          "link": "https://www.makeuseof.com/tag/bluetooth-headsets-battery-life/",
+          "publishedOn": "2021-10-04T10:09:08.000Z",
+          "wordCount": 2810,
+          "title": "The 7 Best Bluetooth Headsets With Good Battery Life"
+        },
+        {
+          "id": "https://www.makeuseof.com/tag/best-chromebook-convertible-laptops/",
+          "author": "Elvis Shida",
+          "description": "Looking for the best convertible Chromebook 2-in-1 laptop? We've got a list of the best models which can run Android apps!",
+          "link": "https://www.makeuseof.com/tag/best-chromebook-convertible-laptops/",
+          "publishedOn": "2021-10-04T09:43:18.000Z",
+          "wordCount": 2895,
+          "title": "The 7 Best Chromebook 2-in-1 Convertible Laptops"
+        },
         {
           "id": "https://www.makeuseof.com/apps-every-driver-needs-iphone-android/",
           "author": "Tina Bailey",
@@ -585,6 +927,15 @@
           "publishedOn": "2021-10-02T17:00:11.000Z",
           "wordCount": 1446,
           "title": "The 6 Best Plant Subscription Boxes to Get Your Garden Going"
+        },
+        {
+          "id": "https://www.makeuseof.com/tag/how-to-trace-a-mobile-phone-location-with-google-latitude/",
+          "author": "Emma Garofalo",
+          "description": "We show you how to trace a phone and find its location from your Android phone. Note that you can't find a phone location by its number.",
+          "link": "https://www.makeuseof.com/tag/how-to-trace-a-mobile-phone-location-with-google-latitude/",
+          "publishedOn": "2021-10-02T16:47:08.000Z",
+          "wordCount": 1337,
+          "title": "How to Trace and Find Your Phone's Location"
         },
         {
           "id": "https://www.makeuseof.com/best-tips-manage-remote-team/",
@@ -1620,6 +1971,132 @@
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
         {
+          "id": "https://hackernoon.com/the-survival-of-urban-areas?source=rss",
+          "author": "Li Jin",
+          "description": "Through millennia of plagues, wars, and natural disasters, cities have borne witness to and magnified human suffering and death.",
+          "link": "https://hackernoon.com/the-survival-of-urban-areas?source=rss",
+          "publishedOn": "2021-10-04T21:17:47.000Z",
+          "wordCount": 799,
+          "title": "The Survival Of Urban Areas"
+        },
+        {
+          "id": "https://hackernoon.com/when-comedy-and-game-design-combine-meet-the-writer-philftw-uncomfortable-interviewee?source=rss",
+          "author": "PhilFTW",
+          "description": "PhilFTW is a freelance writer, illustrator, and game designer. He is an adult living with ADHD which means procrastination and panic are key inputs in his writ",
+          "link": "https://hackernoon.com/when-comedy-and-game-design-combine-meet-the-writer-philftw-uncomfortable-interviewee?source=rss",
+          "publishedOn": "2021-10-04T17:35:08.000Z",
+          "wordCount": 832,
+          "title": "When Comedy and Game Design Combine: Meet the Writer PhilFTW, Uncomfortable Interviewee"
+        },
+        {
+          "id": "https://hackernoon.com/why-you-should-quit-social-media-permanently?source=rss",
+          "author": "gabriel.org",
+          "description": "Quitting social media permanently will improve your friends relationship, sense of identity, fear of politics, and maximize your attention span.",
+          "link": "https://hackernoon.com/why-you-should-quit-social-media-permanently?source=rss",
+          "publishedOn": "2021-10-04T17:27:51.000Z",
+          "wordCount": 811,
+          "title": "Why You Should Quit Social Media Permanently"
+        },
+        {
+          "id": "https://hackernoon.com/how-wall-street-veterans-decided-to-fight-back-against-traditional-finance?source=rss",
+          "author": "Christopher",
+          "description": "Despite its popularity, traditional finance has some inefficiencies that need to be addressed. We spoke to Jack Tao of Phemex to get his thoughts on this.",
+          "link": "https://hackernoon.com/how-wall-street-veterans-decided-to-fight-back-against-traditional-finance?source=rss",
+          "publishedOn": "2021-10-04T14:54:27.000Z",
+          "wordCount": 2001,
+          "title": "How Wall Street Veterans Decided to Fight Back Against Traditional Finance"
+        },
+        {
+          "id": "https://hackernoon.com/darksiders-iii-review-switch?source=rss",
+          "author": "Bryan Applegate",
+          "description": "Darksiders III for Nintendo Switch came out this past week. Did it make an apocalyptic entrance onto the Switch? Or did it fall to Sin? Let's find out!",
+          "link": "https://hackernoon.com/darksiders-iii-review-switch?source=rss",
+          "publishedOn": "2021-10-04T14:50:09.000Z",
+          "wordCount": 811,
+          "title": "Darksiders III Review (Switch)"
+        },
+        {
+          "id": "https://hackernoon.com/staring-into-the-black-mirror-with-the-most-connected-man-on-earth?source=rss",
+          "author": "Limarc Ambalina",
+          "description": "All throughout his day, Chris is connected to numerous sensors that collect the data that make up his life.",
+          "link": "https://hackernoon.com/staring-into-the-black-mirror-with-the-most-connected-man-on-earth?source=rss",
+          "publishedOn": "2021-10-04T13:58:52.000Z",
+          "wordCount": 3441,
+          "title": "Staring into the Black Mirror with The Most Connected Man on Earth"
+        },
+        {
+          "id": "https://hackernoon.com/comparing-piracy-cycles-movie-pirates-are-ready-to-wait-for-hd-quality-releases?source=rss",
+          "author": "TorrentFreak",
+          "description": "New data shared by piracy tracking company MUSO shows that most torrenting movie pirates prefer HD quality releases, even if they have to wait for months.",
+          "link": "https://hackernoon.com/comparing-piracy-cycles-movie-pirates-are-ready-to-wait-for-hd-quality-releases?source=rss",
+          "publishedOn": "2021-10-04T13:52:18.000Z",
+          "wordCount": 813,
+          "title": "Comparing Piracy Cycles: Movie Pirates are Ready to Wait For HD Quality Releases"
+        },
+        {
+          "id": "https://hackernoon.com/top-wearable-technology-trends-to-watch-in-2021-2022?source=rss",
+          "author": "Gautam Raturi",
+          "description": "Wearable technology is spanning a large range of industries with specialised requirements and client bases, from healthcare to travel, transportation & fitness",
+          "link": "https://hackernoon.com/top-wearable-technology-trends-to-watch-in-2021-2022?source=rss",
+          "publishedOn": "2021-10-04T13:00:22.000Z",
+          "wordCount": 1521,
+          "title": "Top Wearable Technology Trends to Watch in 2021-2022!"
+        },
+        {
+          "id": "https://hackernoon.com/10-most-evolving-big-data-technologies-to-catch-up-on-in-2022?source=rss",
+          "author": "Aliha Tanveer",
+          "description": "At the heart of it all, big data also has a dark side. Several tech giants are facing heat from the public and government regarding the issue of data privacy.",
+          "link": "https://hackernoon.com/10-most-evolving-big-data-technologies-to-catch-up-on-in-2022?source=rss",
+          "publishedOn": "2021-10-04T12:54:08.000Z",
+          "wordCount": 2099,
+          "title": "10 Most Evolving Big Data Technologies to Catch Up on in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/the-best-office-chair-for-you-the-one-that-fits-your-needs-and-budget?source=rss",
+          "author": "Daman",
+          "description": "Some important features must include in an office chair. You should consider health-friendly, fits to pocket, more like a partner that helps you to work for..",
+          "link": "https://hackernoon.com/the-best-office-chair-for-you-the-one-that-fits-your-needs-and-budget?source=rss",
+          "publishedOn": "2021-10-04T11:56:58.000Z",
+          "wordCount": 823,
+          "title": "The Best Office Chair For You- The One That Fits Your Needs And Budget"
+        },
+        {
+          "id": "https://hackernoon.com/telegram-bots-how-they-are-used?source=rss",
+          "author": "Juxtathinka",
+          "description": "Telegram bots have a variety of functions; they range from setting notifications to website monitoring. Find out more about how these bots are being used here.",
+          "link": "https://hackernoon.com/telegram-bots-how-they-are-used?source=rss",
+          "publishedOn": "2021-10-04T11:10:23.000Z",
+          "wordCount": 1738,
+          "title": "Telegram Bots: How They Are Used"
+        },
+        {
+          "id": "https://hackernoon.com/top-cryptocurrency-exchanges-in-india-to-spoil-rotten-with-your-hard-earned-paper?source=rss",
+          "author": "Rituraj Sengar",
+          "description": "To invest or not to invest was never the question.",
+          "link": "https://hackernoon.com/top-cryptocurrency-exchanges-in-india-to-spoil-rotten-with-your-hard-earned-paper?source=rss",
+          "publishedOn": "2021-10-04T07:02:32.000Z",
+          "wordCount": 1881,
+          "title": "Top Cryptocurrency Exchanges in India to Spoil Rotten With Your Hard Earned Paper"
+        },
+        {
+          "id": "https://hackernoon.com/how-i-made-my-first-ai-youtuber?source=rss",
+          "author": "Branislav Đalić",
+          "description": "This article explores the idea of utilizing AI to create videos on different subjects prompted by the author.",
+          "link": "https://hackernoon.com/how-i-made-my-first-ai-youtuber?source=rss",
+          "publishedOn": "2021-10-04T03:39:18.000Z",
+          "wordCount": 734,
+          "title": "How I Made My First AI YouTuber"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-get-your-dev-blog-noticed-in-2021?source=rss",
+          "author": "Brian Caffey",
+          "description": "How to write and share technical software development articles in 2021.",
+          "link": "https://hackernoon.com/how-to-get-your-dev-blog-noticed-in-2021?source=rss",
+          "publishedOn": "2021-10-04T02:52:10.000Z",
+          "wordCount": 761,
+          "title": "How to Get Your dev Blog Noticed in 2021"
+        },
+        {
           "id": "https://hackernoon.com/ukrainians-among-the-top-adopters-of-cryptocurrency-in-the-world?source=rss",
           "author": "David Kirichenko",
           "description": "Bitcoin among other Cryptocurrencies may soon be used legally in Ukraine, once President Volodymyr Zelensky signs legislation passed by Ukraine’s Parliament.",
@@ -2151,6 +2628,15 @@
           "title": "How to Participate in Hacktoberfest 2021: Ultimate Beginner's Guide"
         },
         {
+          "id": "https://hackernoon.com/hackernoon-contributor-davis-david-builds-datasets-for-african-languages?source=rss",
+          "author": "Davis David",
+          "description": "Davis' latest HackerNoon top story is the development of the Swahili news dataset for topic classification tasks in machine learning.",
+          "link": "https://hackernoon.com/hackernoon-contributor-davis-david-builds-datasets-for-african-languages?source=rss",
+          "publishedOn": "2021-09-28T13:28:57.000Z",
+          "wordCount": 807,
+          "title": "HackerNoon Contributor Davis David Builds Datasets for African Languages"
+        },
+        {
           "id": "https://hackernoon.com/the-ultimate-guide-to-web-30-the-history-and-future-of-the-web?source=rss",
           "author": "Suhail Kakar",
           "description": "Web3 is the next stage of the internet, building on the past two iterations and addressing its current flaws and adding new features for users to make use of.",
@@ -2166,6 +2652,15 @@
       "feedUrl": "https://davidwalsh.name/feed",
       "siteUrl": "https://davidwalsh.name",
       "articles": [
+        {
+          "id": "https://davidwalsh.name/?p=27475",
+          "author": "David Walsh",
+          "description": "For better or worse, form fields have been somewhat difficult to style with CSS. Form control display is dependent upon device, operating system, and browser, so you can imagine the difficulty in making styling easy. We have slowly been given some controls over form control display, as evidenced by accent-color! The accent-color CSS property allows […]\nThe post CSS accent-color appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/css-accent-color",
+          "publishedOn": "2021-10-04T08:08:36.000Z",
+          "wordCount": 550,
+          "title": "CSS accent-color"
+        },
         {
           "id": "https://davidwalsh.name/?p=27474",
           "author": "David Walsh",
@@ -2297,6 +2792,16 @@
       "feedUrl": "http://feeds.feedburner.com/helloacm?format=xml",
       "siteUrl": "https://helloacm.com",
       "articles": [
+        {
+          "id": "https://helloacm.com/?p=147002",
+          "author": "ACMer",
+          "description": "Design a HashMap without using any built-in hash table libraries. Implement the MyHashMap class: MyHashMap() initializes the object with an empty map. void put(int key, int value) inserts a (key,...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-design-a-hash-table/",
+          "publishedOn": "2021-10-04T21:01:03.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Design a Hash Table",
+          "itunes": {}
+        },
         {
           "id": "https://helloacm.com/?p=146982",
           "author": "ACMer",
@@ -2831,6 +3336,69 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
+          "id": "https://hackaday.com/?p=498566",
+          "author": "Chris Wilkinson",
+          "description": "We’ve all been there – that last stubborn screw, the one thing between you and some real progress on a repair or restoration. It’s stuck tight with thread-locking fluid, and …read more",
+          "link": "https://hackaday.com/2021/10/04/removing-threadlocked-screws-with-a-soldering-iron/",
+          "publishedOn": "2021-10-04T23:00:25.000Z",
+          "wordCount": 1556,
+          "title": "Removing Threadlocked Screws with a Soldering Iron"
+        },
+        {
+          "id": "https://hackaday.com/?p=499123",
+          "author": "Lewin Day",
+          "description": "Gearing can make a huge difference to a cyclist, enabling even the least fit rider to climb a steep hill, albeit slowly. [Berm Peak Express] took that to the next …read more",
+          "link": "https://hackaday.com/2021/10/04/bicycles-are-bad-at-towing-even-with-crawler-gears/",
+          "publishedOn": "2021-10-04T20:00:17.000Z",
+          "wordCount": 2182,
+          "title": "Bicycles Are Bad At Towing, Even With Crawler Gears"
+        },
+        {
+          "id": "https://hackaday.com/?p=499675",
+          "author": "Joshua Vasquez",
+          "description": "As long as 3D printers have been around, it seems as though many of us have dreamed about nozzle-sharing solutions for multicolor 3D prints. Just because Prusa’s MMU has had …read more",
+          "link": "https://hackaday.com/2021/10/04/enraged-rabbit-project-is-a-filament-cocktail-special/",
+          "publishedOn": "2021-10-04T18:30:48.000Z",
+          "wordCount": 1579,
+          "title": "Enraged Rabbit Project is a Filament Cocktail Special"
+        },
+        {
+          "id": "https://hackaday.com/?p=498450",
+          "author": "Robin Kearey",
+          "description": "If you want to track a snail, you need a tiny instrumentation package. How do you create an entire data acquisition system, including sensors, memory, data processing and a power …read more",
+          "link": "https://hackaday.com/2021/10/04/snails-sensors-and-smart-dust-the-michigan-micro-mote/",
+          "publishedOn": "2021-10-04T17:00:14.000Z",
+          "wordCount": 3255,
+          "title": "Snails, Sensors, and Smart Dust: The Michigan Micro Mote"
+        },
+        {
+          "id": "https://hackaday.com/?p=499486",
+          "author": "Mike Szczys",
+          "description": "Tickets for the Hackaday Remoticon are now available and there’s one big addition this year:  Shirts! As you have doubtless heard, the Supercon is on hold for one more year, …read more",
+          "link": "https://hackaday.com/2021/10/04/hackaday-remoticon-tickets-and-t-shirts/",
+          "publishedOn": "2021-10-04T16:01:46.000Z",
+          "wordCount": 1163,
+          "title": "Hackaday Remoticon: Tickets and T-Shirts!"
+        },
+        {
+          "id": "https://hackaday.com/?p=499752",
+          "author": "Bryan Cockfield",
+          "description": "For those of us old enough to remember the VCR (and the difficulty of programming one), the ubiquitous vacuum fluorescent display, or VFD, is burned into our memories, mostly because …read more",
+          "link": "https://hackaday.com/2021/10/04/using-arduinos-to-drive-undocumented-displays/",
+          "publishedOn": "2021-10-04T15:00:00.000Z",
+          "wordCount": 1647,
+          "title": "Using Arduinos To Drive Undocumented Displays"
+        },
+        {
+          "id": "https://hackaday.com/?p=497862",
+          "author": "Tom Nardi",
+          "description": "The Atlas family of rockets have been a mainstay of America’s space program since the dawn of the Space Age, when unused SM-65 Atlas intercontinental ballistic missiles (ICBMs) were refurbished …read more",
+          "link": "https://hackaday.com/2021/10/04/counting-down-to-the-final-atlas-rocket/",
+          "publishedOn": "2021-10-04T14:01:58.000Z",
+          "wordCount": 2875,
+          "title": "Counting Down to the Final Atlas Rocket"
+        },
+        {
           "id": "https://hackaday.com/?p=499070&preview=true&preview_id=499070",
           "author": "Dan Maloney",
           "description": "It’s one thing to speculate about what’s happening with the Mars helicopter Ingenuity, but it’s another to get an insider’s view on recent flight problems. As we previously reported, Ingenuity …read more",
@@ -3017,6 +3585,66 @@
       "feedUrl": "http://rss.sciam.com/scientificamerican-global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "1E144CFC-E4A5-4291-BB9D30A073ECC4B5",
+          "author": "Tanya Lewis",
+          "description": "U.C. San Francisco researcher and Breakthrough Prize–winner David Julius talks about capsaicin, opioids and snake vision\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/what-chili-peppers-can-teach-us-about-pain/",
+          "publishedOn": "2021-10-04T20:00:00.000Z",
+          "wordCount": null,
+          "title": "What Chili Peppers Can Teach Us about Pain",
+          "itunes": {}
+        },
+        {
+          "id": "5F93C71E-3ABF-423B-982898F6CEE95BBD",
+          "author": "Davide Castelvecchi, Nature magazine",
+          "description": "The European and Japanese spacecraft performed the first of six slingshot maneuvers around the planet. It will ultimately insert two probes into orbit in 2025\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/mercury-dazzles-in-new-close-up-from-bepicolombo-mission/",
+          "publishedOn": "2021-10-04T18:30:00.000Z",
+          "wordCount": null,
+          "title": "Mercury Dazzles in New Close-up from BepiColombo Mission",
+          "itunes": {}
+        },
+        {
+          "id": "5CDE32BB-BD9B-4B88-BA8E4F182A118F80",
+          "author": "Gary Stix",
+          "description": "Symptoms subsided for one woman after a carefully targeted neural circuit was stimulated\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/experimental-brain-implant-could-personalize-depression-therapy/",
+          "publishedOn": "2021-10-04T17:45:00.000Z",
+          "wordCount": null,
+          "title": "Experimental Brain Implant Could Personalize Depression Therapy",
+          "itunes": {}
+        },
+        {
+          "id": "6596F377-A7F4-43E1-9C062E9C52FE7EAD",
+          "author": "Keridwen Cornelius",
+          "description": "Despite its controversial past, the quirky desert facility is becoming increasingly relevant as it turns 30\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/biosphere-2-the-once-infamous-live-in-terrarium-is-transforming-climate-research/",
+          "publishedOn": "2021-10-04T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Biosphere 2: The Once Infamous Live-In Terrarium Is Transforming Climate Research",
+          "itunes": {}
+        },
+        {
+          "id": "C33A4523-9F32-4D5B-8DA1BD137C47078B",
+          "author": "Tanya Lewis",
+          "description": "David Julius’s and Ardem Patapoutian’s research revealed the molecular basis of these basic senses\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/2021-nobel-prize-in-physiology-or-medicine-awarded-for-discoveries-in-sensing-temperature-and-touch1/",
+          "publishedOn": "2021-10-04T11:00:00.000Z",
+          "wordCount": null,
+          "title": "2021 Nobel Prize in Physiology or Medicine Awarded for Discoveries in Sensing Temperature and Touch",
+          "itunes": {}
+        },
+        {
+          "id": "2BB82541-6009-4979-802A363C4AFED9EE",
+          "author": "Connie Chang",
+          "description": "A new detector could keep tabs on life on Earth—and maybe beyond\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/high-flying-sensor-detects-living-things-from-far-above/",
+          "publishedOn": "2021-10-04T10:45:00.000Z",
+          "wordCount": null,
+          "title": "High-Flying Sensor Detects Living Things from Far Above",
+          "itunes": {}
+        },
         {
           "id": "5790893B-2E42-4C85-9C509BFB6D8E5B38",
           "author": null,
@@ -3329,6 +3957,42 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=145865",
+          "author": "Mike Vizard",
+          "description": "ReleaseIQ has launched an orchestration framework for the open source continuous integration/continuous delivery (CI/CD) environment that makes it possible for DevOps teams to orchestrate pipelines across multiple instances of Jenkins. Seetharam Param, ReleaseIQ CEO, said ReleaseIQ Essentials for Jenkins is an implementation of an existing orchestration platform that enables DevOps teams to orchestrate pipelines across […]\nThe post ReleaseIQ Adds Orchestration Tool for Multiple Instances of Jenkins appeared first on DevOps.com.",
+          "link": "https://devops.com/releaseiq-adds-orchestration-tool-for-multiple-instances-of-jenkins/",
+          "publishedOn": "2021-10-04T21:37:09.000Z",
+          "wordCount": 1041,
+          "title": "ReleaseIQ Adds Orchestration Tool for Multiple Instances of Jenkins"
+        },
+        {
+          "id": "https://devops.com/?p=145838",
+          "author": "Deepak Gupta",
+          "description": "A DevOps implementation, if done correctly, can do wonders for any organization that’s on the hunt for efficiency, productivity and speed. As per the 2020 survey conducted by Atlassian, 99% of survey respondents said that DevOps has had a positive impact on their organization. However, it won’t do any good if security isn’t prioritized while […]\nThe post Tips for a Successful DevSecOps Life Cycle appeared first on DevOps.com.",
+          "link": "https://devops.com/tips-for-a-successful-devsecops-life-cycle/",
+          "publishedOn": "2021-10-04T07:00:21.000Z",
+          "wordCount": 1297,
+          "title": "Tips for a Successful DevSecOps Life Cycle"
+        },
+        {
+          "id": "https://devops.com/?p=145705",
+          "author": "Bill Doerrfeld",
+          "description": "Mainframes are historically clunky systems. They are incredibly secure and can process impressive calculations, yet they are complex to manage and challenging to extract data from. This reality is at odds with modern cloud-native infrastructure, which emphasizes distributed computing and portable microservices. So, how can existing mainframes adapt to this connected, data-driven economy? I recently […]\nThe post The Role of APIs in Mainframe Modernization appeared first on DevOps.com.",
+          "link": "https://devops.com/the-role-of-apis-in-mainframe-modernization/",
+          "publishedOn": "2021-10-04T06:30:11.000Z",
+          "wordCount": 1685,
+          "title": "The Role of APIs in Mainframe Modernization"
+        },
+        {
+          "id": "https://devops.com/?p=145851",
+          "author": "ROELBOB",
+          "description": "The post Automation Engineering appeared first on DevOps.com.",
+          "link": "https://devops.com/automation-engineering/",
+          "publishedOn": "2021-10-04T06:00:37.000Z",
+          "wordCount": 480,
+          "title": "Automation Engineering"
+        },
+        {
           "id": "https://devops.com/?p=145829",
           "author": "Mike Vizard",
           "description": "Perforce Software has added a universal package manager, dubbed Helix Artifacts, to its portfolio that enables users of its Helix Core version control platform to store and track source code. Gerhard Krüger, product manager for Helix Core digital asset management at Perforce Software, said the goal is to enable DevOps teams that employ Helix Core […]\nThe post Perforce Melds Artifact Package Manager with Version Control Platform appeared first on DevOps.com.",
@@ -3425,6 +4089,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=109116",
+          "author": "Jordana Cepelewicz",
+          "description": "David Julius and Ardem Patapoutian receive the 2021 Nobel Prize in Physiology or Medicine for their discoveries of how we detect heat and touch.            \nThe post Medicine Nobel Prize Goes to Temperature and Touch Discoveries first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/medicine-nobel-prize-goes-for-temperature-and-touch-discoveries-20211004/",
+          "publishedOn": "2021-10-04T09:42:09.000Z",
+          "wordCount": null,
+          "title": "Medicine Nobel Prize Goes to Temperature and Touch Discoveries",
+          "itunes": {}
+        },
         {
           "id": "https://www.quantamagazine.org/?p=109006",
           "author": "Dan Falk",
