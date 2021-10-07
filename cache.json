@@ -6,6 +6,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=353219",
+          "author": "Robin Rendle",
+          "description": "Here’s a beautiful website: it’s a type specimen for Mass-Driver’s ever-so-lovely type family MD Nichrome. There’s a ton of nifty animations and graphics explaining all the features inside…\nIf you’re wondering how those animations work, they’re actually styled <video>…\nThe post Websites We Like: MD Nichrome appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/websites-we-like-md-nichrome/",
+          "publishedOn": "2021-10-06T22:24:18.000Z",
+          "wordCount": 1043,
+          "title": "Websites We Like: MD Nichrome"
+        },
+        {
+          "id": "https://css-tricks.com/?p=353320",
+          "author": "Chris Coyier",
+          "description": "Baldur Bjarnason brings some baby bear porridge to the discussion of  Single Page App (SPA) vs. Multi Page App (MPA).\nSingle-Page-Apps can be fantastic. Most teams will mess them up because most teams operate in dysfunctional \n…\nThe post The Single Page App Morality Play appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.baldurbjarnason.com/2021/single-page-app-morality-play/",
+          "publishedOn": "2021-10-06T22:20:57.000Z",
+          "wordCount": 7050,
+          "title": "The Single Page App Morality Play"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352959",
+          "author": "Leon Barnard",
+          "description": "If you run or have recently switched to a static site generator, you might find yourself writing a lot of Markdown. And the more you write it, the more you want the tooling experience to disappear so that …\nThe post Considerations for Using Markdown Writing Apps on Static Sites appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/considerations-for-using-markdown-writing-apps-on-static-sites/",
+          "publishedOn": "2021-10-06T14:22:18.000Z",
+          "wordCount": 2241,
+          "title": "Considerations for Using Markdown Writing Apps on Static Sites"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352676",
+          "author": "Chris Coyier",
+          "description": "In HTML, there is a very clear input type for dealing with passwords:\n<input type=\"password\"\nIf you use that, you get the obfuscated bullet-points when you type into it, like:\n••••••••\nThat’s the web trying to help with security. If …\nThe post The Options for Password Revealing Inputs appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/the-options-for-password-revealing-inputs/",
+          "publishedOn": "2021-10-06T14:22:11.000Z",
+          "wordCount": 805,
+          "title": "The Options for Password Revealing Inputs"
+        },
+        {
           "id": "https://css-tricks.com/?p=352754",
           "author": "Chris Coyier",
           "description": "Scroll shadows are when you can see a little inset shadow on elements if (and only if) you can scroll in that direction. It’s just good UX. You can actually pull it off in CSS, which I think is …\nThe post Scroll Shadows With JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -211,6 +247,78 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "615beb720d91c9077974c716",
+          "author": null,
+          "description": "Computers store and process all kinds of data.  Strings are just one of the many forms in which information is presented and gets processed by computers.  Strings in the C programming language work differently than in other modern programming languages.  In this article, you'll learn how to declare strings in",
+          "link": "https://www.freecodecamp.org/news/c-string-how-to-declare-strings-in-the-c-programming-language/",
+          "publishedOn": "2021-10-06T17:51:39.000Z",
+          "wordCount": 2390,
+          "title": "C String – How to Declare Strings in the C Programming Language"
+        },
+        {
+          "id": "612f4388d6679a07b7d3fee4",
+          "author": null,
+          "description": "In Python, can use use the range() function to get a sequence of indices to loop through an iterable. You'll often use range() in conjunction with a for loop.  In this tutorial, you'll learn about the different ways in which you can use the range() function – with explicit start and",
+          "link": "https://www.freecodecamp.org/news/python-range-function-explained-with-code-examples/",
+          "publishedOn": "2021-10-06T17:21:45.000Z",
+          "wordCount": 1529,
+          "title": "Python range() Function – Explained with Code Examples"
+        },
+        {
+          "id": "614870b9852f4307d3731030",
+          "author": null,
+          "description": "File compression is an essential utility across all platforms. It helps you reduce file size and share files efficiently. And compressed files are also easier to copy to remote servers.  You can also compress older and rarely used files and save them for future use which helps you conserve disk",
+          "link": "https://www.freecodecamp.org/news/how-to-compress-files-in-linux-with-tar-command/",
+          "publishedOn": "2021-10-06T16:19:13.000Z",
+          "wordCount": 899,
+          "title": "Linux tar Command – How to Compress Files in Linux"
+        },
+        {
+          "id": "615d55b40d91c9077974d3f8",
+          "author": null,
+          "description": "If you want to add data to your SQL table, then you can use the INSERT statement.  In this article, I will show you how to use the INSERT statement to add a single row, multiple rows, and to copy rows from one SQL table to another. Basic INSERT syntaxHere",
+          "link": "https://www.freecodecamp.org/news/insert-into-sql-how-to-insert-into-a-table-query-example-statement/",
+          "publishedOn": "2021-10-06T16:10:50.000Z",
+          "wordCount": 955,
+          "title": "Insert Into SQL – How to Insert Into a Table Query [Example Statement]"
+        },
+        {
+          "id": "6155429464aefe07d3fa1019",
+          "author": null,
+          "description": "I have observed a fascinating phenomenon amongst folks applying for their first developer jobs.  The behavior seems consistent across college graduates, Bootcampers, and self-taught folks. When asking for a résumé review, they almost always get the answer \"build more projects\".  This is great advice, but you can do more to",
+          "link": "https://www.freecodecamp.org/news/build-your-developer-resume-without-job-experience/",
+          "publishedOn": "2021-10-06T15:29:13.000Z",
+          "wordCount": 2042,
+          "title": "How to Build Your Developer Résumé Without Job Experience"
+        },
+        {
+          "id": "6070ea34d5756f080ba98017",
+          "author": null,
+          "description": "Just the thought of learning to code can be very intimidating. The word code is mysterious by definition. It implies a technical form of communication that computers, and not humans, are meant to understand. One way many people start learning to code is by picking a popular programming language and",
+          "link": "https://www.freecodecamp.org/news/how-to-learn-programming/",
+          "publishedOn": "2021-10-06T15:17:39.000Z",
+          "wordCount": 10466,
+          "title": "How to Learn Programming – The Guide I Wish I Had When I Started Learning to Code"
+        },
+        {
+          "id": "613cbc6b852f4307d372bc5a",
+          "author": null,
+          "description": "Hacktoberfest is an event hosted by DigitalOcean that partners with many organizations. The goal is to give back and contribute to open-source projects. The organizers offer little incentives for a job well done, like a shirt and stickers. Other organizations also get involved by offering their own rewards. You can",
+          "link": "https://www.freecodecamp.org/news/how-anyone-can-participate-in-hacktoberfest/",
+          "publishedOn": "2021-10-06T15:14:48.000Z",
+          "wordCount": 1955,
+          "title": "How to Participate in Hacktoberfest – Even if You Don&#x27;t Write Code"
+        },
+        {
+          "id": "615db6910d91c9077974deb1",
+          "author": null,
+          "description": "Computers can be intimidating, especially if you didn't grow up with them. Some tasks that seem simple to experienced users can seem impossible to new users. We just released a computer and technology basics course on the freeCodeCamp.org YouTube channel. This course teaches the basics of computer use and",
+          "link": "https://www.freecodecamp.org/news/computer-basics-for-absolute-beginners/",
+          "publishedOn": "2021-10-06T14:54:13.000Z",
+          "wordCount": 426,
+          "title": "Computer Basics for Absolute Beginners"
+        },
+        {
           "id": "61533caa64aefe07d3fa041a",
           "author": null,
           "description": "Every JavaScript beginner will face this question at least once: \"What is a callback function?\"  Well, we can find the answer in the word callback itself. It's all about notifying the caller after the successful completion or failure of a task.  In this article, I'll focus less on the technical",
@@ -379,6 +487,384 @@
       "feedUrl": "https://www.makeuseof.com/feed/",
       "siteUrl": "https://www.makeuseof.com",
       "articles": [
+        {
+          "id": "https://www.makeuseof.com/pixel-6-launch-details/",
+          "author": "Dan Price",
+          "description": "Google will officially unveil the new Pixel 6 and Pixel 6 Pro on October 19.",
+          "link": "https://www.makeuseof.com/pixel-6-launch-details/",
+          "publishedOn": "2021-10-06T22:51:36.000Z",
+          "wordCount": 1114,
+          "title": "The Pixel 6 Launch Details: What We Know So Far"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-change-trusted-phone-number-apple-id/",
+          "author": "Hamlin Rozario",
+          "description": "Apple uses a trusted phone number to verify your identity when signing in to your Apple ID. Here's how to change it on from an iPhone, iPad, or Mac.",
+          "link": "https://www.makeuseof.com/how-to-change-trusted-phone-number-apple-id/",
+          "publishedOn": "2021-10-06T22:00:56.000Z",
+          "wordCount": 1172,
+          "title": "How to Change the Trusted Phone Number for Your Apple ID"
+        },
+        {
+          "id": "https://www.makeuseof.com/use-slack-clips-communicate-easily-with-coworkers/",
+          "author": "Brenna Miles",
+          "description": "Using Slack Clips, you can record a video or audio message and send it in a Direct Message or channel to reduce meetings. Here's how to use it!",
+          "link": "https://www.makeuseof.com/use-slack-clips-communicate-easily-with-coworkers/",
+          "publishedOn": "2021-10-06T21:45:11.000Z",
+          "wordCount": 1477,
+          "title": "How to Use Slack Clips to Communicate Quickly and Easily With Co-Workers"
+        },
+        {
+          "id": "https://www.makeuseof.com/online-stores-left-handed-products/",
+          "author": "Syed Hammad Mahmood",
+          "description": "It can be tricky to find left-handed products for any lefties out there. So, here are seven online stores that will help you out!",
+          "link": "https://www.makeuseof.com/online-stores-left-handed-products/",
+          "publishedOn": "2021-10-06T21:30:54.000Z",
+          "wordCount": 1450,
+          "title": "7 Online Stores for Left-Handed Products"
+        },
+        {
+          "id": "https://www.makeuseof.com/find-smallest-and-largest-ndigit-perfect-cubes-squares/",
+          "author": "Yuvraj Chandra",
+          "description": "Find perfect cubes and squares using algorithms in multiple languages.",
+          "link": "https://www.makeuseof.com/find-smallest-and-largest-ndigit-perfect-cubes-squares/",
+          "publishedOn": "2021-10-06T21:15:11.000Z",
+          "wordCount": 1806,
+          "title": "How to Find N-Digit Perfect Cubes and Squares Using Python, C++, and JavaScript"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-start-website-with-wordpress-com/",
+          "author": "Deepesh Sharma",
+          "description": "Don't know the first thing about web development? Don't worry. You can build your own site for free using WordPress.com.",
+          "link": "https://www.makeuseof.com/how-to-start-website-with-wordpress-com/",
+          "publishedOn": "2021-10-06T21:01:00.000Z",
+          "wordCount": 1739,
+          "title": "How to Start a Website With WordPress.com"
+        },
+        {
+          "id": "https://www.makeuseof.com/git-list-branch/",
+          "author": "Bobby Jack",
+          "description": "Is the git branch command important? How should you use it? Learn more here.",
+          "link": "https://www.makeuseof.com/git-list-branch/",
+          "publishedOn": "2021-10-06T20:16:11.000Z",
+          "wordCount": 1118,
+          "title": "How to List Branches in Git"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-delete-facebook-group/",
+          "author": "John Awa-abuon",
+          "description": "No longer want to keep your Facebook group? Here's what to know about deleting it.",
+          "link": "https://www.makeuseof.com/how-to-delete-facebook-group/",
+          "publishedOn": "2021-10-06T20:00:39.000Z",
+          "wordCount": 1306,
+          "title": "How to Delete a Facebook Group"
+        },
+        {
+          "id": "https://www.makeuseof.com/gift-ideas-for-retro-tech-gadget-lovers/",
+          "author": "Patrick Kariuki",
+          "description": "Looking for the perfect gift for a friend or loved one? Here are the best retro tech gadgets that are sure to delight.",
+          "link": "https://www.makeuseof.com/gift-ideas-for-retro-tech-gadget-lovers/",
+          "publishedOn": "2021-10-06T19:30:50.000Z",
+          "wordCount": 1685,
+          "title": "8 Perfect Gift Ideas for People Who Love Retro Tech & Gadgets"
+        },
+        {
+          "id": "https://www.makeuseof.com/facebook-offline-how-why-telegram-benefited/",
+          "author": "Dan Price",
+          "description": "Telegram added 70 million users following Facebook's dramatic downtime on October 4th.",
+          "link": "https://www.makeuseof.com/facebook-offline-how-why-telegram-benefited/",
+          "publishedOn": "2021-10-06T19:26:11.000Z",
+          "wordCount": 1127,
+          "title": "How and Why Telegram Benefited When Facebook Went Offline for Six Hours"
+        },
+        {
+          "id": "https://www.makeuseof.com/why-3d-printing-enthusiasts-should-take-note-of-the-new-e3d-revo-hot-end/",
+          "author": "Nachiket Mhatre",
+          "description": "The E3D Revo hot end is touted as the best thing since sliced bread. Find out how it aims to improve the way we 3D print plastics.",
+          "link": "https://www.makeuseof.com/why-3d-printing-enthusiasts-should-take-note-of-the-new-e3d-revo-hot-end/",
+          "publishedOn": "2021-10-06T19:20:06.000Z",
+          "wordCount": 2001,
+          "title": "Why 3D Printing Enthusiasts Should Take Note of the New E3D Revo Hot End"
+        },
+        {
+          "id": "https://www.makeuseof.com/ps5-more-games-than-other-playstation-consoles/",
+          "author": "Soham De",
+          "description": "The PS5 is shaping to be the best games console that Sony has produced, offering more titles into the bargain...",
+          "link": "https://www.makeuseof.com/ps5-more-games-than-other-playstation-consoles/",
+          "publishedOn": "2021-10-06T19:00:58.000Z",
+          "wordCount": 1474,
+          "title": "Why the PS5 Will Offer More Games Than Any Other PlayStation Console"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-get-youtube-verification-badge/",
+          "author": "Joy Okumoko",
+          "description": "If you have a popular YouTube channel, you might be wondering how to get a verification badge. Here's everything you need to know.",
+          "link": "https://www.makeuseof.com/how-to-get-youtube-verification-badge/",
+          "publishedOn": "2021-10-06T18:31:09.000Z",
+          "wordCount": 1482,
+          "title": "How to Get a YouTube Verification Badge for Your Channel"
+        },
+        {
+          "id": "https://www.makeuseof.com/linux-change-user/",
+          "author": "Deepesh Sharma",
+          "description": "In a multi-user operating system like Linux, switching between users can feel like a complicated task to beginners.",
+          "link": "https://www.makeuseof.com/linux-change-user/",
+          "publishedOn": "2021-10-06T18:00:49.000Z",
+          "wordCount": 1204,
+          "title": "How to Change Between Users on Linux"
+        },
+        {
+          "id": "https://www.makeuseof.com/unfortunately-gboard-has-stopped-error-fix/",
+          "author": "Maxwell Holland",
+          "description": "Having problems with the Google Keyboard on your Android device? Here are some things you can try to get it working smoothly again.",
+          "link": "https://www.makeuseof.com/unfortunately-gboard-has-stopped-error-fix/",
+          "publishedOn": "2021-10-06T17:31:12.000Z",
+          "wordCount": 1153,
+          "title": "How to Fix the &quot;Unfortunately Gboard Has Stopped&quot; Error on Android"
+        },
+        {
+          "id": "https://www.makeuseof.com/historic-data-breaches/",
+          "author": "Idowu Omisola",
+          "description": "Some data breaches have left a significant mark on the planet. But what were the most significant ones?",
+          "link": "https://www.makeuseof.com/historic-data-breaches/",
+          "publishedOn": "2021-10-06T17:15:21.000Z",
+          "wordCount": 1852,
+          "title": "8 Historic Data Breaches That Shook the World"
+        },
+        {
+          "id": "https://www.makeuseof.com/smart-home-systems-automate-life/",
+          "author": "Dan Price",
+          "description": "These smart home systems are the best available if you want to automate your house and live a simple life.",
+          "link": "https://www.makeuseof.com/smart-home-systems-automate-life/",
+          "publishedOn": "2021-10-06T17:01:12.000Z",
+          "wordCount": 1547,
+          "title": "5 Smart Home Systems You Can Use to Automate Your Life"
+        },
+        {
+          "id": "https://www.makeuseof.com/Ways-to-Stop-Google-Chrome-Opening-on-Startup-Windows/",
+          "author": "Shan Abdul",
+          "description": "If your copy of Chrome is a little too eager to get started, here are some tricks to stop Chrome from opening on startup.",
+          "link": "https://www.makeuseof.com/Ways-to-Stop-Google-Chrome-Opening-on-Startup-Windows/",
+          "publishedOn": "2021-10-06T16:45:21.000Z",
+          "wordCount": 1570,
+          "title": "7 Ways to Stop Google Chrome From Opening on Startup in Windows"
+        },
+        {
+          "id": "https://www.makeuseof.com/capitalize-text-automatically-popular-word-processing-apps/",
+          "author": "Tamal Das",
+          "description": "Here is a guide on how to automate the capitalization of text in four commonly used word processors.",
+          "link": "https://www.makeuseof.com/capitalize-text-automatically-popular-word-processing-apps/",
+          "publishedOn": "2021-10-06T16:31:21.000Z",
+          "wordCount": 1562,
+          "title": "How to Capitalize Text Automatically in 4 Popular Word Processing Apps"
+        },
+        {
+          "id": "https://www.makeuseof.com/windows-how-to-open-folder-or-app-using-keyboard-shortcut/",
+          "author": "Matthew Wallaker",
+          "description": "Setting up a keyboard shortcut to open an app or folder is really easy in Windows 10. Here's how.",
+          "link": "https://www.makeuseof.com/windows-how-to-open-folder-or-app-using-keyboard-shortcut/",
+          "publishedOn": "2021-10-06T16:15:12.000Z",
+          "wordCount": 921,
+          "title": "How to Open a Folder or an App With a Keyboard Shortcut in Windows"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-use-heart-rate-app-apple-watch/",
+          "author": "Kaylyn McKenna",
+          "description": "Learn how to use the Heart Rate app on your Apple Watch to keep track of your resting, walking, and active heart rate.",
+          "link": "https://www.makeuseof.com/how-to-use-heart-rate-app-apple-watch/",
+          "publishedOn": "2021-10-06T16:01:20.000Z",
+          "wordCount": 1057,
+          "title": "How to Use the Built-in Heart Rate App on Your Apple Watch"
+        },
+        {
+          "id": "https://www.makeuseof.com/wastedlocker-ransomware/",
+          "author": "Damir Mujezinovic",
+          "description": "This strain of ransomware (and its Hades variant) has targeted countless high-profile companies, including Garmin. Here's what you need to know.",
+          "link": "https://www.makeuseof.com/wastedlocker-ransomware/",
+          "publishedOn": "2021-10-06T15:32:29.000Z",
+          "wordCount": 1455,
+          "title": "WastedLocker: A Complex Ransomware Variant That Targets Large Corporations"
+        },
+        {
+          "id": "https://www.makeuseof.com/tag/best-indoor-outdoor-security-system/",
+          "author": "Georgie Peru",
+          "description": "The rise of the smart home led to more affordable security systems. Now it's simple and cheap to transform a &quot;dumb&quot; home into a secured smart home.",
+          "link": "https://www.makeuseof.com/tag/best-indoor-outdoor-security-system/",
+          "publishedOn": "2021-10-06T15:29:56.000Z",
+          "wordCount": 2949,
+          "title": "The 8 Best Smart Home Security Systems"
+        },
+        {
+          "id": "https://www.makeuseof.com/what-is-bottlenecking-my-pc-how-do-i-fix-it/",
+          "author": "Elliott Gooding",
+          "description": "You might not be getting the most out of your PC hardware, especially if one component is vastly more powerful than the rest.",
+          "link": "https://www.makeuseof.com/what-is-bottlenecking-my-pc-how-do-i-fix-it/",
+          "publishedOn": "2021-10-06T15:00:57.000Z",
+          "wordCount": 1197,
+          "title": "What Is Bottlenecking My PC & How Do I Fix It?"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-set-up-and-use-nearby-share-android/",
+          "author": "Rajesh Pandey",
+          "description": "It's easy to share large files between two Android devices using the built-in Nearby Share feature. Here's how to get started.",
+          "link": "https://www.makeuseof.com/how-to-set-up-and-use-nearby-share-android/",
+          "publishedOn": "2021-10-06T14:30:44.000Z",
+          "wordCount": 1119,
+          "title": "How to Set Up and Use Nearby Share on Android"
+        },
+        {
+          "id": "https://www.makeuseof.com/whats-new-firefox-93/",
+          "author": "Rajesh Pandey",
+          "description": "Firefox 93 is out with plenty of new features, enhancements, and privacy improvements. Here's everything new with the latest release of the browser.",
+          "link": "https://www.makeuseof.com/whats-new-firefox-93/",
+          "publishedOn": "2021-10-06T14:15:12.000Z",
+          "wordCount": 1106,
+          "title": "Firefox 93 Is Now Available: Here's What's New"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-does-my-phone-track-my-steps/",
+          "author": "Emma Garofalo",
+          "description": "It counts as you run, walk, and even jump. But how does your smartphone count your steps accurately?",
+          "link": "https://www.makeuseof.com/how-does-my-phone-track-my-steps/",
+          "publishedOn": "2021-10-06T14:15:12.000Z",
+          "wordCount": 766,
+          "title": "How Does My Phone Track My Steps?"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-delete-PS5-games-m2-ssd-playstation-app/",
+          "author": "Ste Knight",
+          "description": "You don't actually need to be in front of your console to delete games from your PS5 M.2 SSD. You can use the app...",
+          "link": "https://www.makeuseof.com/how-to-delete-PS5-games-m2-ssd-playstation-app/",
+          "publishedOn": "2021-10-06T14:00:44.000Z",
+          "wordCount": 1180,
+          "title": "How to Delete Games From Your PS5 M.2 SSD Using the PlayStation App"
+        },
+        {
+          "id": "https://www.makeuseof.com/install-dashcam/",
+          "author": "Christian Cawley",
+          "description": "Thinking about getting a dashcam but worried it's too much effort? Don't be! Here's everything you need to know about how to install a dashcam.",
+          "link": "https://www.makeuseof.com/install-dashcam/",
+          "publishedOn": "2021-10-06T13:46:21.000Z",
+          "wordCount": 1666,
+          "title": "How to Install a Dashcam in Your Car"
+        },
+        {
+          "id": "https://www.makeuseof.com/google-workspace-vs-workplace-by-facebook/",
+          "author": "Tamal Das",
+          "description": "Here's how to decide which is better for remote or hybrid teams: Google Workspace or Facebook Workplace.",
+          "link": "https://www.makeuseof.com/google-workspace-vs-workplace-by-facebook/",
+          "publishedOn": "2021-10-06T13:31:21.000Z",
+          "wordCount": 1536,
+          "title": "Google Workspace vs. Workplace From Facebook: Which Is Better?"
+        },
+        {
+          "id": "https://www.makeuseof.com/improve-landing-page-conversion/",
+          "author": "Tamal Das",
+          "description": "Creating an engaging landing page is crucial for maximizing your conversion rates. But how exactly do you do this?",
+          "link": "https://www.makeuseof.com/improve-landing-page-conversion/",
+          "publishedOn": "2021-10-06T13:15:22.000Z",
+          "wordCount": 1542,
+          "title": "13 Tips for Creating the Perfect Website Landing Page"
+        },
+        {
+          "id": "https://www.makeuseof.com/rca-vs-coaxial-vs-optical-best-audio-quality/",
+          "author": "Elliott Gooding",
+          "description": "All cables are the same, right? Not quite. Choosing the right cable can make films and music sound better!",
+          "link": "https://www.makeuseof.com/rca-vs-coaxial-vs-optical-best-audio-quality/",
+          "publishedOn": "2021-10-06T13:00:59.000Z",
+          "wordCount": 1281,
+          "title": "RCA vs. Coaxial vs. Optical: How to Get the Best Audio Quality"
+        },
+        {
+          "id": "https://www.makeuseof.com/crello-templates-for-impressive-instagram-posts/",
+          "author": "Tamal Das",
+          "description": "You can use Crello templates for your Instagram posts. Here are a few to try.",
+          "link": "https://www.makeuseof.com/crello-templates-for-impressive-instagram-posts/",
+          "publishedOn": "2021-10-06T12:46:21.000Z",
+          "wordCount": 1526,
+          "title": "9 Crello Templates for Impressive Instagram Posts"
+        },
+        {
+          "id": "https://www.makeuseof.com/brilliant-annual-subscription-deal/",
+          "author": "Ste Knight",
+          "description": "Get a discount on Brilliant's annual subscription and make your learning easy and fun instead of difficult and boring!",
+          "link": "https://www.makeuseof.com/brilliant-annual-subscription-deal/",
+          "publishedOn": "2021-10-06T12:35:21.000Z",
+          "wordCount": 963,
+          "title": "Become a Brilliant Learner With This Online Learning Platform"
+        },
+        {
+          "id": "https://www.makeuseof.com/amazon-smart-fridge-that-orders-more-food/",
+          "author": "Brent Dirks",
+          "description": "Amazon is reportedly planning to create a unique smart refrigerator. We’ll take a look at how it might work.",
+          "link": "https://www.makeuseof.com/amazon-smart-fridge-that-orders-more-food/",
+          "publishedOn": "2021-10-06T12:31:22.000Z",
+          "wordCount": 768,
+          "title": "Amazon Is Working on a Smart Fridge That Orders More Food for You"
+        },
+        {
+          "id": "https://www.makeuseof.com/tag/10-puppy-finding-services-to-find-your-next-best-friend/",
+          "author": "Sandy Writtenhouse",
+          "description": "These top pet websites will come in handy and help you find a lovable puppy to adopt and be your new best friend.",
+          "link": "https://www.makeuseof.com/tag/10-puppy-finding-services-to-find-your-next-best-friend/",
+          "publishedOn": "2021-10-06T12:31:22.000Z",
+          "wordCount": 2048,
+          "title": "Where to Find Dogs & Puppies for Sale Near You: 10 Ethical Sites"
+        },
+        {
+          "id": "https://www.makeuseof.com/best-nail-art-subscription-boxes/",
+          "author": "Simona Tolcheva",
+          "description": "Anyone who's a fan of nail art will appreciate these seven best subscription boxes. They'll help you jazz up your nails from home.",
+          "link": "https://www.makeuseof.com/best-nail-art-subscription-boxes/",
+          "publishedOn": "2021-10-06T12:31:21.000Z",
+          "wordCount": 1465,
+          "title": "The 7 Best Nail Art Subscription Boxes To Try"
+        },
+        {
+          "id": "https://www.makeuseof.com/what-is-capture-one/",
+          "author": "Gargi Ghosal",
+          "description": "If you're looking for an Adobe Lightroom alternative for photo editing, Capture One might be the answer.",
+          "link": "https://www.makeuseof.com/what-is-capture-one/",
+          "publishedOn": "2021-10-06T12:00:58.000Z",
+          "wordCount": 1557,
+          "title": "What Is Capture One and How Can It Improve the Look of Your Photos?"
+        },
+        {
+          "id": "https://www.makeuseof.com/twitch-hacked-change-password-turn-on-2fa-now/",
+          "author": "Gavin Phillips",
+          "description": "The streaming platform has been thoroughly pwned, with everything leaked online, including its source code.",
+          "link": "https://www.makeuseof.com/twitch-hacked-change-password-turn-on-2fa-now/",
+          "publishedOn": "2021-10-06T11:31:11.000Z",
+          "wordCount": 1084,
+          "title": "Twitch Has Been Hacked: Change Your Password and Turn on 2FA Now"
+        },
+        {
+          "id": "https://www.makeuseof.com/how-to-fix-error-14-iphone/",
+          "author": "Dilum Senevirathne",
+          "description": "Do you keep seeing an &quot;Error 14&quot; popup while updating or restoring your iPhone? Follow these tips to fix it.",
+          "link": "https://www.makeuseof.com/how-to-fix-error-14-iphone/",
+          "publishedOn": "2021-10-06T11:00:55.000Z",
+          "wordCount": 1171,
+          "title": "How to Fix Error 14 on Your iPhone"
+        },
+        {
+          "id": "https://www.makeuseof.com/best-iphone-wallet-cases/",
+          "author": "Brent Dirks",
+          "description": "Protect your iPhone and keep your essentials with you on the go with an iPhone wallet case.",
+          "link": "https://www.makeuseof.com/best-iphone-wallet-cases/",
+          "publishedOn": "2021-10-06T10:00:57.000Z",
+          "wordCount": 2644,
+          "title": "The 7 Best iPhone Wallet Cases"
+        },
+        {
+          "id": "https://www.makeuseof.com/google-contacts-tips-and-tricks/",
+          "author": "Satyarth Shukla",
+          "description": "Master your contact list and send email faster, and more conveniently, using these tips for Google Contacts.",
+          "link": "https://www.makeuseof.com/google-contacts-tips-and-tricks/",
+          "publishedOn": "2021-10-06T10:00:56.000Z",
+          "wordCount": 1728,
+          "title": "6 Tips and Tricks to Make Better Use of Google Contacts"
+        },
         {
           "id": "https://www.makeuseof.com/microsoft-launches-windows-11-heres-how-to-get-it/",
           "author": "Gavin Phillips",
@@ -2421,6 +2907,186 @@
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
         {
+          "id": "https://hackernoon.com/how-startups-can-get-results-with-two-underappreciated-mrr-growth-levers?source=rss",
+          "author": "ChartMogul",
+          "description": "MRR (or close derivatives like MRR Growth Rates) is the primary metric most B2B SaaS companies, their CEOs, and their investor partners measure themselves by.",
+          "link": "https://hackernoon.com/how-startups-can-get-results-with-two-underappreciated-mrr-growth-levers?source=rss",
+          "publishedOn": "2021-10-06T20:18:05.000Z",
+          "wordCount": 2363,
+          "title": "How Startups Can Get Results with Two Underappreciated MRR Growth Levers"
+        },
+        {
+          "id": "https://hackernoon.com/what-has-been-happening-with-the-two-biggest-iranian-espionage-operations?source=rss",
+          "author": "Check Point Software",
+          "description": "Cyber-warfare and espionage have long been common weapons in the arsenal of governments, armies, and intelligence agencies around the world.",
+          "link": "https://hackernoon.com/what-has-been-happening-with-the-two-biggest-iranian-espionage-operations?source=rss",
+          "publishedOn": "2021-10-06T19:57:18.000Z",
+          "wordCount": 820,
+          "title": "What has Been Happening with the Two Biggest Iranian Espionage Operations"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-get-a-job-in-tech-time-to-bust-some-myths?source=rss",
+          "author": "Katarina Andrejević",
+          "description": "I initially wanted to be a literary translator. A career choice far away from tech industry. However, a side gig during my studies brought me to freelance writing, one thing lead to another, and here I am.",
+          "link": "https://hackernoon.com/how-to-get-a-job-in-tech-time-to-bust-some-myths?source=rss",
+          "publishedOn": "2021-10-06T14:48:55.000Z",
+          "wordCount": 1405,
+          "title": "How to Get a Job in Tech: Time to Bust Some Myths"
+        },
+        {
+          "id": "https://hackernoon.com/isaac-asimovs-fantastic-voyage-in-real-life-iobnt-for-targeted-drug-delivery?source=rss",
+          "author": "Sidra Zafar",
+          "description": "IoBNT based TDD is the process of carrying the drug directly to the diseased organ and releasing it at that site (Tumor tissue) only locally via Internet.",
+          "link": "https://hackernoon.com/isaac-asimovs-fantastic-voyage-in-real-life-iobnt-for-targeted-drug-delivery?source=rss",
+          "publishedOn": "2021-10-06T14:25:29.000Z",
+          "wordCount": 2146,
+          "title": "Isaac Asimov's 'Fantastic Voyage' in Real Life: IoBNT for Targeted Drug Delivery"
+        },
+        {
+          "id": "https://hackernoon.com/bluetooth-5-differences-and-advantages-over-older-specifications?source=rss",
+          "author": "anderson",
+          "description": "Bluetooth is a radio technology that is used for the Internet or transmission from smartphone to smartphone or even to speakers. It's latest version, 5 is here.",
+          "link": "https://hackernoon.com/bluetooth-5-differences-and-advantages-over-older-specifications?source=rss",
+          "publishedOn": "2021-10-06T14:03:00.000Z",
+          "wordCount": 1568,
+          "title": "Bluetooth 5: Differences and Advantages in Bluetooth Glasses"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-build-a-plagiarism-checker-using-machine-learning?source=rss",
+          "author": "Tyler Hawkins",
+          "description": "Using machine learning, we can build our own plagiarism checker that searches a vast database for stolen content. In this article, we’ll do exactly that.",
+          "link": "https://hackernoon.com/how-to-build-a-plagiarism-checker-using-machine-learning?source=rss",
+          "publishedOn": "2021-10-06T09:22:50.000Z",
+          "wordCount": 768,
+          "title": "How to Build a Plagiarism Checker Using Machine Learning"
+        },
+        {
+          "id": "https://hackernoon.com/all-the-pokemon-games-in-chronological-order?source=rss",
+          "author": "Hacker Noon Gaming",
+          "description": "This article has outlined the Pokémon games in Chronological order. The main series of games can be chronologically ordered, starting with Red and Green",
+          "link": "https://hackernoon.com/all-the-pokemon-games-in-chronological-order?source=rss",
+          "publishedOn": "2021-10-06T09:20:50.000Z",
+          "wordCount": 2241,
+          "title": "All The Pokémon Games in Chronological Order"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-master-aws-identity-and-access-management?source=rss",
+          "author": "Taavi Rehemägi",
+          "description": "From the basic to advanced concepts of AWS own service for identity and access management: users, groups, permissions for resources and much more.",
+          "link": "https://hackernoon.com/how-to-master-aws-identity-and-access-management?source=rss",
+          "publishedOn": "2021-10-06T09:12:20.000Z",
+          "wordCount": 817,
+          "title": "How to Master AWS Identity and Access Management"
+        },
+        {
+          "id": "https://hackernoon.com/are-crypto-payments-going-mainstream-with-amc-news?source=rss",
+          "author": "Anndy Lian",
+          "description": "A sign of the growing mainstream acceptance of cryptocurrency came recently with the announcement that US-based cinema chain AMC will soon be accepting crypto.",
+          "link": "https://hackernoon.com/are-crypto-payments-going-mainstream-with-amc-news?source=rss",
+          "publishedOn": "2021-10-06T09:06:42.000Z",
+          "wordCount": 805,
+          "title": "Are Crypto Payments Going Mainstream With AMC News?"
+        },
+        {
+          "id": "https://hackernoon.com/explaining-blockchain-in-550-words?source=rss",
+          "author": "Jalel Tounsi",
+          "description": "What's the technology behind cryptocurrencies and blockchain? It's a magic book that's based on magic.",
+          "link": "https://hackernoon.com/explaining-blockchain-in-550-words?source=rss",
+          "publishedOn": "2021-10-06T08:51:37.000Z",
+          "wordCount": 794,
+          "title": "Explaining Blockchain in 550 Words"
+        },
+        {
+          "id": "https://hackernoon.com/5-cybersecurity-mistakes-you-probably-make-every-day-and-how-to-fix-them?source=rss",
+          "author": "Brian Wallace",
+          "description": "A look at common cybersecurity mistakes that you are likely doing every day, and what you can to prevent them.",
+          "link": "https://hackernoon.com/5-cybersecurity-mistakes-you-probably-make-every-day-and-how-to-fix-them?source=rss",
+          "publishedOn": "2021-10-06T08:44:40.000Z",
+          "wordCount": 2013,
+          "title": "5 Cybersecurity Mistakes You Probably Make Every Day (and How to Fix Them)"
+        },
+        {
+          "id": "https://hackernoon.com/model-training-how-much-data-do-you-require?source=rss",
+          "author": "Gaurav Sharma",
+          "description": "The complexity of your model, machine learning algorithms, nature of data, and validation procedure - all influence how much training data is necessary.",
+          "link": "https://hackernoon.com/model-training-how-much-data-do-you-require?source=rss",
+          "publishedOn": "2021-10-06T08:18:46.000Z",
+          "wordCount": 1973,
+          "title": "Model Training: How Much Data Do You Require?"
+        },
+        {
+          "id": "https://hackernoon.com/6-best-webgl-libraries-for-perfect-3d-web-graphics?source=rss",
+          "author": "Slava Podmurnyi",
+          "description": "Modern frontend, game, and web development are the things that WebGL can transform into 3D web masterpieces. It leads to an interactive user experience.",
+          "link": "https://hackernoon.com/6-best-webgl-libraries-for-perfect-3d-web-graphics?source=rss",
+          "publishedOn": "2021-10-06T08:06:19.000Z",
+          "wordCount": 1794,
+          "title": "6 Best WebGL Libraries for Perfect 3D Web Graphics"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-surf-and-monitor-dark-web-traffic?source=rss",
+          "author": "Mr.Vic",
+          "description": "The Onion Routing (Tor) is an open-source tool to act as a global gateway by enabling anonymity communication on the internet through various hidden channels an",
+          "link": "https://hackernoon.com/how-to-surf-and-monitor-dark-web-traffic?source=rss",
+          "publishedOn": "2021-10-06T07:56:46.000Z",
+          "wordCount": 3469,
+          "title": "How to Surf the Dark Web and Monitor Traffic"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-an-igo-initial-game-offering-and-how-do-you-participate-in-it?source=rss",
+          "author": "Sergey Baloyan",
+          "description": "IGOs are Initial Game Offerings - a new way of fundraising for blockchain gaming projects. It's suitable for Play2Earn (Play to Earn) and crypto projects.",
+          "link": "https://hackernoon.com/what-is-an-igo-initial-game-offering-and-how-do-you-participate-in-it?source=rss",
+          "publishedOn": "2021-10-06T07:34:14.000Z",
+          "wordCount": 788,
+          "title": "What is an IGO (Initial Game Offering) and How Do You Participate in It?"
+        },
+        {
+          "id": "https://hackernoon.com/what-you-really-need-to-know-about-enterprise-defi?source=rss",
+          "author": "Amanda Whitcroft",
+          "description": "It seems that you can’t open Twitter or switch on the news without being subjected to something DeFi-related. The movement has the momentum of a freight train and has the potential to disrupt the way we do everything, from finances, healthcare, even the way we get our news. The core message of the DeFi movement, which is decentralization of power from historically centralized entities,  is finally moving into the mainstream.",
+          "link": "https://hackernoon.com/what-you-really-need-to-know-about-enterprise-defi?source=rss",
+          "publishedOn": "2021-10-06T07:32:47.000Z",
+          "wordCount": 1467,
+          "title": "What You Really Need to Know About Enterprise DeFi"
+        },
+        {
+          "id": "https://hackernoon.com/educating-the-lawmakers-the-gba-blockchain-and-infrastructure-hybrid-event?source=rss",
+          "author": "Benjamin Bateman",
+          "description": "America prides itself on being at the forefront of innovation, yet concerns with the attitude toward crypto are growing. GBA's new event may help combat this.",
+          "link": "https://hackernoon.com/educating-the-lawmakers-the-gba-blockchain-and-infrastructure-hybrid-event?source=rss",
+          "publishedOn": "2021-10-06T07:25:57.000Z",
+          "wordCount": 1207,
+          "title": "Educating the Lawmakers: The GBA Blockchain & Infrastructure Hybrid Event"
+        },
+        {
+          "id": "https://hackernoon.com/stop-wasting-time-and-do-what-youre-passionate-about-no-matter-how-hard-it-is?source=rss",
+          "author": "Gavriel Cohen",
+          "description": "We spoke to CEO and Co-founder of the User Management development firm Frontegg about the origins of his company, his background and thoughts on the future.",
+          "link": "https://hackernoon.com/stop-wasting-time-and-do-what-youre-passionate-about-no-matter-how-hard-it-is?source=rss",
+          "publishedOn": "2021-10-06T07:19:26.000Z",
+          "wordCount": 795,
+          "title": "\"Stop wasting time and do what you’re passionate about, no matter how hard it is.\""
+        },
+        {
+          "id": "https://hackernoon.com/video-games-nfts-and-hamburgers-from-the-metaverse?source=rss",
+          "author": "CryptoBlastoff",
+          "description": "Discover the main reasons why you would choose the RFOX VALT retail and entertainment metaverse over The Sandbox gaming metaverse.",
+          "link": "https://hackernoon.com/video-games-nfts-and-hamburgers-from-the-metaverse?source=rss",
+          "publishedOn": "2021-10-06T07:15:37.000Z",
+          "wordCount": 2538,
+          "title": "Video Games, NFTs, and Hamburgers from The Metaverse"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-cook-workmanager-with-dagger-2?source=rss",
+          "author": "Ilia Kuznetcov",
+          "description": "How to properly work with android's work manager library in the presence of dependency injection, with the example of integrating the Dagger 2 library.",
+          "link": "https://hackernoon.com/how-to-cook-workmanager-with-dagger-2?source=rss",
+          "publishedOn": "2021-10-06T06:28:58.000Z",
+          "wordCount": 728,
+          "title": "How to Cook WorkManager with Dagger 2"
+        },
+        {
           "id": "https://hackernoon.com/4-amazing-black-friday-marketing-strategies-to-follow-in-2021?source=rss",
           "author": "Syed Balkhi",
           "description": "Try out these four eCommerce markeing strategies this Black Friday to boost your online and offline sales while building a loyal consumer base for your business",
@@ -3353,15 +4019,6 @@
           "publishedOn": "2021-07-19T12:41:40.000Z",
           "wordCount": 669,
           "title": "Dark Mode in One Line of Code!"
-        },
-        {
-          "id": "https://davidwalsh.name/?p=27444",
-          "author": "David Walsh",
-          "description": "The early days of the web felt like the wild west when it came to coding practices — just make it work. Then we became enlightened to better practices, separating HTML from CSS and JavaScript. Then came React and JSX, where we combine JavaScript, HTML, and even CSS with Styled Components — what an elegant […]\nThe post Fix Seeing “0” in Your JSX Code appeared first on David Walsh Blog.",
-          "link": "https://davidwalsh.name/fix-your-jsx",
-          "publishedOn": "2021-07-09T02:18:28.000Z",
-          "wordCount": 726,
-          "title": "Fix Seeing “0” in Your JSX Code"
         }
       ]
     },
@@ -3422,6 +4079,16 @@
       "feedUrl": "http://feeds.feedburner.com/helloacm?format=xml",
       "siteUrl": "https://helloacm.com",
       "articles": [
+        {
+          "id": "https://helloacm.com/?p=147037",
+          "author": "ACMer",
+          "description": "The MOV video files are generally huge compare to MPEG. When taking a video using smart phones such as iphone 12 Pro Max, you get the MOV videos. Then it starts to fill up your iphone storage as well...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/batch-script-to-convert-mov-videos-to-mpg-using-ffmpeg/",
+          "publishedOn": "2021-10-06T21:11:24.000Z",
+          "wordCount": null,
+          "title": "Batch Script to Convert MOV Videos to MPG using ffmpeg",
+          "itunes": {}
+        },
         {
           "id": "https://helloacm.com/?p=147017",
           "author": "ACMer",
@@ -3976,6 +4643,69 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
+          "id": "https://hackaday.com/?p=498940",
+          "author": "Jim Heaney",
+          "description": "It’s not too hard to make your electronics project get warm. Design your traces too small, accidentally short the battery inputs together, maybe reverse the voltage going to your MCU. …read more",
+          "link": "https://hackaday.com/2021/10/06/using-a-pcb-to-reflow-pcbs-take-2/",
+          "publishedOn": "2021-10-06T23:00:14.000Z",
+          "wordCount": 1304,
+          "title": "Using a PCB to Reflow PCBs – Take 2!"
+        },
+        {
+          "id": "https://hackaday.com/?p=497187",
+          "author": "Kristina Panos",
+          "description": "[Hey Jude] is tired of the machismo dripping from most modern electronic toys, especially stuff like monster trucks and police/military sets. He grew up on weird stuff, not aggression, and …read more",
+          "link": "https://hackaday.com/2021/10/06/dave-the-drive-able-duck-does-donuts/",
+          "publishedOn": "2021-10-06T20:00:20.000Z",
+          "wordCount": 1200,
+          "title": "Dave the Drive-able Duck Does Donuts"
+        },
+        {
+          "id": "https://hackaday.com/?p=498658",
+          "author": "Dan Maloney",
+          "description": "To the extent that we think of 3D printers as production machines, we tend to imagine huge banks of FDM machines slowly but surely cranking out parts. These printer farms …read more",
+          "link": "https://hackaday.com/2021/10/06/making-the-most-of-your-resin-printer-investment/",
+          "publishedOn": "2021-10-06T18:30:00.000Z",
+          "wordCount": 1777,
+          "title": "Making the Most of Your Resin Printer Investment"
+        },
+        {
+          "id": "https://hackaday.com/?p=498076",
+          "author": "Chris Lott",
+          "description": "You’ve probably encountered this before — you have a circuit board that is poorly documented, and want to know the part number of a tiny SMD chip. Retro computer enthusiast …read more",
+          "link": "https://hackaday.com/2021/10/06/decoding-smd-part-markings/",
+          "publishedOn": "2021-10-06T17:00:06.000Z",
+          "wordCount": 1999,
+          "title": "Decoding SMD Part Markings"
+        },
+        {
+          "id": "https://hackaday.com/?p=500024",
+          "author": "Tom Nardi",
+          "description": "We don’t have to tell the average Hackaday reader that the last two years have represented a serious dry spell for the type of in-person events that our community has …read more",
+          "link": "https://hackaday.com/2021/10/06/vintage-computer-festival-east-reboots-this-weekend/",
+          "publishedOn": "2021-10-06T16:00:31.000Z",
+          "wordCount": 1672,
+          "title": "Vintage Computer Festival East Reboots This Weekend"
+        },
+        {
+          "id": "https://hackaday.com/?p=499127",
+          "author": "Lewin Day",
+          "description": "Sometimes you’re hungry for two sausages, and not a sausage more. [Wesley] designed his Furter Burner to handle precisely these situations, and it looks to cook up a pair of …read more",
+          "link": "https://hackaday.com/2021/10/06/furter-burner-cooks-the-wieners-just-so/",
+          "publishedOn": "2021-10-06T15:00:00.000Z",
+          "wordCount": 1942,
+          "title": "Furter Burner Cooks The Wieners Just So"
+        },
+        {
+          "id": "https://hackaday.com/?p=488539",
+          "author": "Donald Papp",
+          "description": "Clear acrylic panels have long been a mainstay of 3D printer enclosure designs, but they can also add significant cost in terms of money, shipping, weight, and hassle. An alternative …read more",
+          "link": "https://hackaday.com/2021/10/06/3d-printering-corrugated-plastic-for-cheaper-easier-enclosures/",
+          "publishedOn": "2021-10-06T14:00:44.000Z",
+          "wordCount": 3484,
+          "title": "3D Printering: Corrugated Plastic for Cheaper & Easier Enclosures"
+        },
+        {
           "id": "https://hackaday.com/?p=498913",
           "author": "Danie Conradie",
           "description": "If you’ve ever tried to document a project on your workbench with photos or videos, you know the challenge of constantly moving tripods to get the right shot. [Mechanistic] is …read more",
@@ -4288,6 +5018,86 @@
       "feedUrl": "http://rss.sciam.com/scientificamerican-global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "FBC2982E-769D-4D84-9066432D117EDECD",
+          "author": "Thomas Frank, E&E News",
+          "description": "The New York City homes where 11 people drowned were in areas marked as low risk for inundation\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/deaths-from-hurricane-ida-expose-flaws-in-fema-flood-maps/",
+          "publishedOn": "2021-10-06T20:30:00.000Z",
+          "wordCount": null,
+          "title": "Deaths from Hurricane Ida Expose Flaws in FEMA Flood Maps",
+          "itunes": {}
+        },
+        {
+          "id": "FB48F1F7-0A5E-49C9-98A3D260854F6CBA",
+          "author": "Simon Makin",
+          "description": "A project to map the motor cortex used the widest range of tools for probing brain cells ever deployed in a single, coordinated effort\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/an-inventory-of-all-the-brain-cells-that-let-you-run-jump-and-roll/",
+          "publishedOn": "2021-10-06T19:15:00.000Z",
+          "wordCount": null,
+          "title": "An Inventory of All the Brain Cells That Let You Run, Jump and Roll",
+          "itunes": {}
+        },
+        {
+          "id": "D000C349-832A-48B7-B2D22C143961EA9D",
+          "author": "Nidhi Subbaraman, Nature magazine",
+          "description": "After 12 years at the helm of the top biomedical research agency, the geneticist will return to running his lab by year’s end\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/francis-collins-head-of-nih-who-led-human-genome-project-to-step-down/",
+          "publishedOn": "2021-10-06T18:15:00.000Z",
+          "wordCount": null,
+          "title": "Francis Collins, Head of NIH Who Led Human Genome Project, to Step Down",
+          "itunes": {}
+        },
+        {
+          "id": "ED221DBD-E510-477B-AF6E1C29D9DC69AB",
+          "author": "Christof Koch, Ed S. Lein, Hongkui Zeng",
+          "description": "The NIH’s Cell Census delivers on its promise by mapping the cells in the motor cortex\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/a-cell-atlas-reveals-the-biodiversity-inside-our-head/",
+          "publishedOn": "2021-10-06T17:45:00.000Z",
+          "wordCount": null,
+          "title": "A Cell Atlas Reveals the Biodiversity inside Our Head",
+          "itunes": {}
+        },
+        {
+          "id": "8491D494-8197-4EB1-82D1DAAEE2108179",
+          "author": "Claudia Wallis",
+          "description": "They could be reduced with targeted exercise and some technological innovations\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/deadly-falls-among-the-elderly-are-on-the-rise/",
+          "publishedOn": "2021-10-06T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Deadly Falls among the Elderly Are on the Rise",
+          "itunes": {}
+        },
+        {
+          "id": "44B20AE9-724D-457C-A7B172194A31CF03",
+          "author": "John Horgan",
+          "description": "Bills totaling $287,365.08 provide insights into the dysfunctional economics of American medicine\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/an-elbow-injury-exposes-the-exorbitant-costs-of-health-care/",
+          "publishedOn": "2021-10-06T12:00:00.000Z",
+          "wordCount": null,
+          "title": "An Elbow Injury Exposes the Exorbitant Costs of Health Care",
+          "itunes": {}
+        },
+        {
+          "id": "D8E66FB0-7D30-4C1F-8E0ACFDD94AF236C",
+          "author": "Sophie Bushwick",
+          "description": "The technique is the latest method to glean a surprising amount of surveillance from a meager source\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/a-blank-wall-can-show-how-many-people-are-in-a-room-and-what-theyre-doing/",
+          "publishedOn": "2021-10-06T10:45:00.000Z",
+          "wordCount": null,
+          "title": "A Blank Wall Can Show How Many People Are in a Room and What They're Doing",
+          "itunes": {}
+        },
+        {
+          "id": "DB5B075E-05FF-47DB-9BAFDEA5DFE98AD9",
+          "author": "Josh Fischman",
+          "description": "Two chemists devised a faster, cleaner and more precise way to construct drug molecules and other modern materials\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/new-molecular-tool-kit-wins-2021-nobel-prize-in-chemistry/",
+          "publishedOn": "2021-10-06T09:00:00.000Z",
+          "wordCount": null,
+          "title": "New Molecular Tool Kit Wins Chemistry Nobel",
+          "itunes": {}
+        },
         {
           "id": "2F421F21-A2D9-4C46-B9C9228092BF376B",
           "author": "Tereza Pultarova, SPACE.com",
@@ -4757,6 +5567,33 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=145878",
+          "author": "Alan Shimel",
+          "description": "Today is a big day in the neighborhood. What neighborhood, you ask? If you are involved in DevOps, cloud-native, cybersecurity or digital transformation, you are in that neighborhood. Today we launch Techstrong Group. Techstrong Group is a combination of all the companies I have been involved in within this neighborhood. It represents the greatest breadth […]\nThe post Welcome to Techstrong Group appeared first on DevOps.com.",
+          "link": "https://devops.com/welcome-to-techstrong-group/",
+          "publishedOn": "2021-10-06T14:00:38.000Z",
+          "wordCount": 1322,
+          "title": "Welcome to Techstrong Group"
+        },
+        {
+          "id": "https://devops.com/?p=145889",
+          "author": "Vaidya Aiyer",
+          "description": "Many large enterprise companies are rife with departments that depend on customized ERP software applications. These systems accommodate vital business tasks ranging from inventory management to ordering capabilities to accounting programs to CRM platforms—all of which were custom-built to fit the enterprise’s specific needs and meet the KPIs of each unique organization. These applications tend […]\nThe post Are ERP-Centric Enterprises Being Left Behind? appeared first on DevOps.com.",
+          "link": "https://devops.com/are-erp-centric-enterprises-being-left-behind/",
+          "publishedOn": "2021-10-06T07:00:34.000Z",
+          "wordCount": 1195,
+          "title": "Are ERP-Centric Enterprises Being Left Behind?"
+        },
+        {
+          "id": "https://devops.com/?p=145857",
+          "author": "Don Macvittie",
+          "description": "One thing Agile and DevOps definitely brought IT was a more accepting view of the whole “mistakes happen” mantra. Crashing systems is no longer a guarantee of a free ticket out the door. Indeed, off the top of my head, I can think of at least two cases where a CIO themselves checked in sloppy […]\nThe post But What About When You Fail? appeared first on DevOps.com.",
+          "link": "https://devops.com/but-what-about-when-you-fail/",
+          "publishedOn": "2021-10-06T06:30:46.000Z",
+          "wordCount": 1035,
+          "title": "But What About When You Fail?"
+        },
+        {
           "id": "https://devops.com/?p=145881",
           "author": "DevOps.com",
           "description": "GNGSEC sounds the clarion call for software engineering change! The pandemic made 2020 the year where we see some of this decade’s most exciting digital technologies become commercially viable, and others finally go mainstream. Software is the core of digital transformation. In the digital era, the methods by which we produce software also need to […]\nThe post Global Next-Generation Software Engineering Conference appeared first on DevOps.com.",
@@ -4908,6 +5745,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=109124",
+          "author": "Jordana Cepelewicz",
+          "description": "Benjamin List and David MacMillan received the 2021 Nobel Prize in Chemistry for their development of asymmetrical organocatalysis.            \nThe post Chemistry Nobel Prize Honors Technique for Building Molecules first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/chemistry-nobel-prize-honors-technique-for-building-molecules-20211006/",
+          "publishedOn": "2021-10-06T10:03:16.000Z",
+          "wordCount": null,
+          "title": "Chemistry Nobel Prize Honors Technique for Building Molecules",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=109120",
           "author": "Natalie Wolchover",
           "description": "Syukuro Manabe and Klaus Hasselmann have been honored for their work that led to reliable predictions of the effects of climate change. They will share the Nobel with Giorgio Parisi, who has made pioneering studies of chaotic physical systems.            \nThe post Work on Earth’s Climate and Other Complex Systems Earns Nobel Prize in Physics first appeared on Quanta Magazine",
@@ -4984,6 +5831,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=65726",
+          "author": "Nathan Yau",
+          "description": "Zan Armstrong, Ian Johnson, and Mike Freeman for Observable wrote a guide on…\nTags: Observable, questions, time",
+          "link": "https://flowingdata.com/2021/10/06/visualizing-time-based-data/",
+          "publishedOn": "2021-10-06T16:42:28.000Z",
+          "wordCount": 338,
+          "title": "Visualizing time-based data"
+        },
         {
           "id": "https://flowingdata.com/?p=65706",
           "author": "Nathan Yau",
