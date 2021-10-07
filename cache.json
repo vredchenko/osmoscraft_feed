@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=353024",
+          "author": "Hugh Haworth",
+          "description": "vanilla-extract is a new framework-agnostic CSS-in-TypeScript library. It’s a lightweight, robust, and intuitive way to write your styles. vanilla-extract isn’t a prescriptive CSS framework, but a flexible piece of developer tooling. CSS tooling has been a relatively stable space over …\nThe post CSS in TypeScript with vanilla-extract appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/css-in-typescript-with-vanilla-extract/",
+          "publishedOn": "2021-10-07T14:36:35.000Z",
+          "wordCount": 2633,
+          "title": "CSS in TypeScript with vanilla-extract"
+        },
+        {
+          "id": "https://css-tricks.com/?p=353242",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nKendoReact can save you boatloads of time because it offers pre-built componentry you can use in your app right away. They look nice, but more importantly, they are easily themeable, so they look however …\nThe post A Themeable React Data Grid With Great UX-Focused Features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/a-themeable-react-data-grid-with-great-ux-focused-features/",
+          "publishedOn": "2021-10-07T14:35:28.000Z",
+          "wordCount": 1219,
+          "title": "A Themeable React Data Grid With Great UX-Focused Features"
+        },
+        {
           "id": "https://css-tricks.com/?p=353219",
           "author": "Robin Rendle",
           "description": "Here’s a beautiful website: it’s a type specimen for Mass-Driver’s ever-so-lovely type family MD Nichrome. There’s a ton of nifty animations and graphics explaining all the features inside…\nIf you’re wondering how those animations work, they’re actually styled <video>…\nThe post Websites We Like: MD Nichrome appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -247,6 +265,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "615de4da0d91c9077974e23f",
+          "author": null,
+          "description": "Go, also known as Golang, is an open-source, compiled, and statically typed programming language designed by Google. It is built to be simple, high-performing, readable, and efficient.  In this article, you'll learn:  Where Go came from and where it is now, Why I think you should learn it, How to",
+          "link": "https://www.freecodecamp.org/news/what-is-go-programming-language/",
+          "publishedOn": "2021-10-07T15:26:18.000Z",
+          "wordCount": 1602,
+          "title": "What is Go? Golang Programming Language Meaning Explained"
+        },
+        {
           "id": "615beb720d91c9077974c716",
           "author": null,
           "description": "Computers store and process all kinds of data.  Strings are just one of the many forms in which information is presented and gets processed by computers.  Strings in the C programming language work differently than in other modern programming languages.  In this article, you'll learn how to declare strings in",
@@ -483,2429 +510,172 @@
       ]
     },
     {
-      "title": "MUO - Feed",
-      "feedUrl": "https://www.makeuseof.com/feed/",
-      "siteUrl": "https://www.makeuseof.com",
-      "articles": [
-        {
-          "id": "https://www.makeuseof.com/pixel-6-launch-details/",
-          "author": "Dan Price",
-          "description": "Google will officially unveil the new Pixel 6 and Pixel 6 Pro on October 19.",
-          "link": "https://www.makeuseof.com/pixel-6-launch-details/",
-          "publishedOn": "2021-10-06T22:51:36.000Z",
-          "wordCount": 1114,
-          "title": "The Pixel 6 Launch Details: What We Know So Far"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-change-trusted-phone-number-apple-id/",
-          "author": "Hamlin Rozario",
-          "description": "Apple uses a trusted phone number to verify your identity when signing in to your Apple ID. Here's how to change it on from an iPhone, iPad, or Mac.",
-          "link": "https://www.makeuseof.com/how-to-change-trusted-phone-number-apple-id/",
-          "publishedOn": "2021-10-06T22:00:56.000Z",
-          "wordCount": 1172,
-          "title": "How to Change the Trusted Phone Number for Your Apple ID"
-        },
-        {
-          "id": "https://www.makeuseof.com/use-slack-clips-communicate-easily-with-coworkers/",
-          "author": "Brenna Miles",
-          "description": "Using Slack Clips, you can record a video or audio message and send it in a Direct Message or channel to reduce meetings. Here's how to use it!",
-          "link": "https://www.makeuseof.com/use-slack-clips-communicate-easily-with-coworkers/",
-          "publishedOn": "2021-10-06T21:45:11.000Z",
-          "wordCount": 1477,
-          "title": "How to Use Slack Clips to Communicate Quickly and Easily With Co-Workers"
-        },
-        {
-          "id": "https://www.makeuseof.com/online-stores-left-handed-products/",
-          "author": "Syed Hammad Mahmood",
-          "description": "It can be tricky to find left-handed products for any lefties out there. So, here are seven online stores that will help you out!",
-          "link": "https://www.makeuseof.com/online-stores-left-handed-products/",
-          "publishedOn": "2021-10-06T21:30:54.000Z",
-          "wordCount": 1450,
-          "title": "7 Online Stores for Left-Handed Products"
-        },
-        {
-          "id": "https://www.makeuseof.com/find-smallest-and-largest-ndigit-perfect-cubes-squares/",
-          "author": "Yuvraj Chandra",
-          "description": "Find perfect cubes and squares using algorithms in multiple languages.",
-          "link": "https://www.makeuseof.com/find-smallest-and-largest-ndigit-perfect-cubes-squares/",
-          "publishedOn": "2021-10-06T21:15:11.000Z",
-          "wordCount": 1806,
-          "title": "How to Find N-Digit Perfect Cubes and Squares Using Python, C++, and JavaScript"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-start-website-with-wordpress-com/",
-          "author": "Deepesh Sharma",
-          "description": "Don't know the first thing about web development? Don't worry. You can build your own site for free using WordPress.com.",
-          "link": "https://www.makeuseof.com/how-to-start-website-with-wordpress-com/",
-          "publishedOn": "2021-10-06T21:01:00.000Z",
-          "wordCount": 1739,
-          "title": "How to Start a Website With WordPress.com"
-        },
-        {
-          "id": "https://www.makeuseof.com/git-list-branch/",
-          "author": "Bobby Jack",
-          "description": "Is the git branch command important? How should you use it? Learn more here.",
-          "link": "https://www.makeuseof.com/git-list-branch/",
-          "publishedOn": "2021-10-06T20:16:11.000Z",
-          "wordCount": 1118,
-          "title": "How to List Branches in Git"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-delete-facebook-group/",
-          "author": "John Awa-abuon",
-          "description": "No longer want to keep your Facebook group? Here's what to know about deleting it.",
-          "link": "https://www.makeuseof.com/how-to-delete-facebook-group/",
-          "publishedOn": "2021-10-06T20:00:39.000Z",
-          "wordCount": 1306,
-          "title": "How to Delete a Facebook Group"
-        },
-        {
-          "id": "https://www.makeuseof.com/gift-ideas-for-retro-tech-gadget-lovers/",
-          "author": "Patrick Kariuki",
-          "description": "Looking for the perfect gift for a friend or loved one? Here are the best retro tech gadgets that are sure to delight.",
-          "link": "https://www.makeuseof.com/gift-ideas-for-retro-tech-gadget-lovers/",
-          "publishedOn": "2021-10-06T19:30:50.000Z",
-          "wordCount": 1685,
-          "title": "8 Perfect Gift Ideas for People Who Love Retro Tech & Gadgets"
-        },
-        {
-          "id": "https://www.makeuseof.com/facebook-offline-how-why-telegram-benefited/",
-          "author": "Dan Price",
-          "description": "Telegram added 70 million users following Facebook's dramatic downtime on October 4th.",
-          "link": "https://www.makeuseof.com/facebook-offline-how-why-telegram-benefited/",
-          "publishedOn": "2021-10-06T19:26:11.000Z",
-          "wordCount": 1127,
-          "title": "How and Why Telegram Benefited When Facebook Went Offline for Six Hours"
-        },
-        {
-          "id": "https://www.makeuseof.com/why-3d-printing-enthusiasts-should-take-note-of-the-new-e3d-revo-hot-end/",
-          "author": "Nachiket Mhatre",
-          "description": "The E3D Revo hot end is touted as the best thing since sliced bread. Find out how it aims to improve the way we 3D print plastics.",
-          "link": "https://www.makeuseof.com/why-3d-printing-enthusiasts-should-take-note-of-the-new-e3d-revo-hot-end/",
-          "publishedOn": "2021-10-06T19:20:06.000Z",
-          "wordCount": 2001,
-          "title": "Why 3D Printing Enthusiasts Should Take Note of the New E3D Revo Hot End"
-        },
-        {
-          "id": "https://www.makeuseof.com/ps5-more-games-than-other-playstation-consoles/",
-          "author": "Soham De",
-          "description": "The PS5 is shaping to be the best games console that Sony has produced, offering more titles into the bargain...",
-          "link": "https://www.makeuseof.com/ps5-more-games-than-other-playstation-consoles/",
-          "publishedOn": "2021-10-06T19:00:58.000Z",
-          "wordCount": 1474,
-          "title": "Why the PS5 Will Offer More Games Than Any Other PlayStation Console"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-get-youtube-verification-badge/",
-          "author": "Joy Okumoko",
-          "description": "If you have a popular YouTube channel, you might be wondering how to get a verification badge. Here's everything you need to know.",
-          "link": "https://www.makeuseof.com/how-to-get-youtube-verification-badge/",
-          "publishedOn": "2021-10-06T18:31:09.000Z",
-          "wordCount": 1482,
-          "title": "How to Get a YouTube Verification Badge for Your Channel"
-        },
-        {
-          "id": "https://www.makeuseof.com/linux-change-user/",
-          "author": "Deepesh Sharma",
-          "description": "In a multi-user operating system like Linux, switching between users can feel like a complicated task to beginners.",
-          "link": "https://www.makeuseof.com/linux-change-user/",
-          "publishedOn": "2021-10-06T18:00:49.000Z",
-          "wordCount": 1204,
-          "title": "How to Change Between Users on Linux"
-        },
-        {
-          "id": "https://www.makeuseof.com/unfortunately-gboard-has-stopped-error-fix/",
-          "author": "Maxwell Holland",
-          "description": "Having problems with the Google Keyboard on your Android device? Here are some things you can try to get it working smoothly again.",
-          "link": "https://www.makeuseof.com/unfortunately-gboard-has-stopped-error-fix/",
-          "publishedOn": "2021-10-06T17:31:12.000Z",
-          "wordCount": 1153,
-          "title": "How to Fix the &quot;Unfortunately Gboard Has Stopped&quot; Error on Android"
-        },
-        {
-          "id": "https://www.makeuseof.com/historic-data-breaches/",
-          "author": "Idowu Omisola",
-          "description": "Some data breaches have left a significant mark on the planet. But what were the most significant ones?",
-          "link": "https://www.makeuseof.com/historic-data-breaches/",
-          "publishedOn": "2021-10-06T17:15:21.000Z",
-          "wordCount": 1852,
-          "title": "8 Historic Data Breaches That Shook the World"
-        },
-        {
-          "id": "https://www.makeuseof.com/smart-home-systems-automate-life/",
-          "author": "Dan Price",
-          "description": "These smart home systems are the best available if you want to automate your house and live a simple life.",
-          "link": "https://www.makeuseof.com/smart-home-systems-automate-life/",
-          "publishedOn": "2021-10-06T17:01:12.000Z",
-          "wordCount": 1547,
-          "title": "5 Smart Home Systems You Can Use to Automate Your Life"
-        },
-        {
-          "id": "https://www.makeuseof.com/Ways-to-Stop-Google-Chrome-Opening-on-Startup-Windows/",
-          "author": "Shan Abdul",
-          "description": "If your copy of Chrome is a little too eager to get started, here are some tricks to stop Chrome from opening on startup.",
-          "link": "https://www.makeuseof.com/Ways-to-Stop-Google-Chrome-Opening-on-Startup-Windows/",
-          "publishedOn": "2021-10-06T16:45:21.000Z",
-          "wordCount": 1570,
-          "title": "7 Ways to Stop Google Chrome From Opening on Startup in Windows"
-        },
-        {
-          "id": "https://www.makeuseof.com/capitalize-text-automatically-popular-word-processing-apps/",
-          "author": "Tamal Das",
-          "description": "Here is a guide on how to automate the capitalization of text in four commonly used word processors.",
-          "link": "https://www.makeuseof.com/capitalize-text-automatically-popular-word-processing-apps/",
-          "publishedOn": "2021-10-06T16:31:21.000Z",
-          "wordCount": 1562,
-          "title": "How to Capitalize Text Automatically in 4 Popular Word Processing Apps"
-        },
-        {
-          "id": "https://www.makeuseof.com/windows-how-to-open-folder-or-app-using-keyboard-shortcut/",
-          "author": "Matthew Wallaker",
-          "description": "Setting up a keyboard shortcut to open an app or folder is really easy in Windows 10. Here's how.",
-          "link": "https://www.makeuseof.com/windows-how-to-open-folder-or-app-using-keyboard-shortcut/",
-          "publishedOn": "2021-10-06T16:15:12.000Z",
-          "wordCount": 921,
-          "title": "How to Open a Folder or an App With a Keyboard Shortcut in Windows"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-use-heart-rate-app-apple-watch/",
-          "author": "Kaylyn McKenna",
-          "description": "Learn how to use the Heart Rate app on your Apple Watch to keep track of your resting, walking, and active heart rate.",
-          "link": "https://www.makeuseof.com/how-to-use-heart-rate-app-apple-watch/",
-          "publishedOn": "2021-10-06T16:01:20.000Z",
-          "wordCount": 1057,
-          "title": "How to Use the Built-in Heart Rate App on Your Apple Watch"
-        },
-        {
-          "id": "https://www.makeuseof.com/wastedlocker-ransomware/",
-          "author": "Damir Mujezinovic",
-          "description": "This strain of ransomware (and its Hades variant) has targeted countless high-profile companies, including Garmin. Here's what you need to know.",
-          "link": "https://www.makeuseof.com/wastedlocker-ransomware/",
-          "publishedOn": "2021-10-06T15:32:29.000Z",
-          "wordCount": 1455,
-          "title": "WastedLocker: A Complex Ransomware Variant That Targets Large Corporations"
-        },
-        {
-          "id": "https://www.makeuseof.com/tag/best-indoor-outdoor-security-system/",
-          "author": "Georgie Peru",
-          "description": "The rise of the smart home led to more affordable security systems. Now it's simple and cheap to transform a &quot;dumb&quot; home into a secured smart home.",
-          "link": "https://www.makeuseof.com/tag/best-indoor-outdoor-security-system/",
-          "publishedOn": "2021-10-06T15:29:56.000Z",
-          "wordCount": 2949,
-          "title": "The 8 Best Smart Home Security Systems"
-        },
-        {
-          "id": "https://www.makeuseof.com/what-is-bottlenecking-my-pc-how-do-i-fix-it/",
-          "author": "Elliott Gooding",
-          "description": "You might not be getting the most out of your PC hardware, especially if one component is vastly more powerful than the rest.",
-          "link": "https://www.makeuseof.com/what-is-bottlenecking-my-pc-how-do-i-fix-it/",
-          "publishedOn": "2021-10-06T15:00:57.000Z",
-          "wordCount": 1197,
-          "title": "What Is Bottlenecking My PC & How Do I Fix It?"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-set-up-and-use-nearby-share-android/",
-          "author": "Rajesh Pandey",
-          "description": "It's easy to share large files between two Android devices using the built-in Nearby Share feature. Here's how to get started.",
-          "link": "https://www.makeuseof.com/how-to-set-up-and-use-nearby-share-android/",
-          "publishedOn": "2021-10-06T14:30:44.000Z",
-          "wordCount": 1119,
-          "title": "How to Set Up and Use Nearby Share on Android"
-        },
-        {
-          "id": "https://www.makeuseof.com/whats-new-firefox-93/",
-          "author": "Rajesh Pandey",
-          "description": "Firefox 93 is out with plenty of new features, enhancements, and privacy improvements. Here's everything new with the latest release of the browser.",
-          "link": "https://www.makeuseof.com/whats-new-firefox-93/",
-          "publishedOn": "2021-10-06T14:15:12.000Z",
-          "wordCount": 1106,
-          "title": "Firefox 93 Is Now Available: Here's What's New"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-does-my-phone-track-my-steps/",
-          "author": "Emma Garofalo",
-          "description": "It counts as you run, walk, and even jump. But how does your smartphone count your steps accurately?",
-          "link": "https://www.makeuseof.com/how-does-my-phone-track-my-steps/",
-          "publishedOn": "2021-10-06T14:15:12.000Z",
-          "wordCount": 766,
-          "title": "How Does My Phone Track My Steps?"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-delete-PS5-games-m2-ssd-playstation-app/",
-          "author": "Ste Knight",
-          "description": "You don't actually need to be in front of your console to delete games from your PS5 M.2 SSD. You can use the app...",
-          "link": "https://www.makeuseof.com/how-to-delete-PS5-games-m2-ssd-playstation-app/",
-          "publishedOn": "2021-10-06T14:00:44.000Z",
-          "wordCount": 1180,
-          "title": "How to Delete Games From Your PS5 M.2 SSD Using the PlayStation App"
-        },
-        {
-          "id": "https://www.makeuseof.com/install-dashcam/",
-          "author": "Christian Cawley",
-          "description": "Thinking about getting a dashcam but worried it's too much effort? Don't be! Here's everything you need to know about how to install a dashcam.",
-          "link": "https://www.makeuseof.com/install-dashcam/",
-          "publishedOn": "2021-10-06T13:46:21.000Z",
-          "wordCount": 1666,
-          "title": "How to Install a Dashcam in Your Car"
-        },
-        {
-          "id": "https://www.makeuseof.com/google-workspace-vs-workplace-by-facebook/",
-          "author": "Tamal Das",
-          "description": "Here's how to decide which is better for remote or hybrid teams: Google Workspace or Facebook Workplace.",
-          "link": "https://www.makeuseof.com/google-workspace-vs-workplace-by-facebook/",
-          "publishedOn": "2021-10-06T13:31:21.000Z",
-          "wordCount": 1536,
-          "title": "Google Workspace vs. Workplace From Facebook: Which Is Better?"
-        },
-        {
-          "id": "https://www.makeuseof.com/improve-landing-page-conversion/",
-          "author": "Tamal Das",
-          "description": "Creating an engaging landing page is crucial for maximizing your conversion rates. But how exactly do you do this?",
-          "link": "https://www.makeuseof.com/improve-landing-page-conversion/",
-          "publishedOn": "2021-10-06T13:15:22.000Z",
-          "wordCount": 1542,
-          "title": "13 Tips for Creating the Perfect Website Landing Page"
-        },
-        {
-          "id": "https://www.makeuseof.com/rca-vs-coaxial-vs-optical-best-audio-quality/",
-          "author": "Elliott Gooding",
-          "description": "All cables are the same, right? Not quite. Choosing the right cable can make films and music sound better!",
-          "link": "https://www.makeuseof.com/rca-vs-coaxial-vs-optical-best-audio-quality/",
-          "publishedOn": "2021-10-06T13:00:59.000Z",
-          "wordCount": 1281,
-          "title": "RCA vs. Coaxial vs. Optical: How to Get the Best Audio Quality"
-        },
-        {
-          "id": "https://www.makeuseof.com/crello-templates-for-impressive-instagram-posts/",
-          "author": "Tamal Das",
-          "description": "You can use Crello templates for your Instagram posts. Here are a few to try.",
-          "link": "https://www.makeuseof.com/crello-templates-for-impressive-instagram-posts/",
-          "publishedOn": "2021-10-06T12:46:21.000Z",
-          "wordCount": 1526,
-          "title": "9 Crello Templates for Impressive Instagram Posts"
-        },
-        {
-          "id": "https://www.makeuseof.com/brilliant-annual-subscription-deal/",
-          "author": "Ste Knight",
-          "description": "Get a discount on Brilliant's annual subscription and make your learning easy and fun instead of difficult and boring!",
-          "link": "https://www.makeuseof.com/brilliant-annual-subscription-deal/",
-          "publishedOn": "2021-10-06T12:35:21.000Z",
-          "wordCount": 963,
-          "title": "Become a Brilliant Learner With This Online Learning Platform"
-        },
-        {
-          "id": "https://www.makeuseof.com/amazon-smart-fridge-that-orders-more-food/",
-          "author": "Brent Dirks",
-          "description": "Amazon is reportedly planning to create a unique smart refrigerator. We’ll take a look at how it might work.",
-          "link": "https://www.makeuseof.com/amazon-smart-fridge-that-orders-more-food/",
-          "publishedOn": "2021-10-06T12:31:22.000Z",
-          "wordCount": 768,
-          "title": "Amazon Is Working on a Smart Fridge That Orders More Food for You"
-        },
-        {
-          "id": "https://www.makeuseof.com/tag/10-puppy-finding-services-to-find-your-next-best-friend/",
-          "author": "Sandy Writtenhouse",
-          "description": "These top pet websites will come in handy and help you find a lovable puppy to adopt and be your new best friend.",
-          "link": "https://www.makeuseof.com/tag/10-puppy-finding-services-to-find-your-next-best-friend/",
-          "publishedOn": "2021-10-06T12:31:22.000Z",
-          "wordCount": 2048,
-          "title": "Where to Find Dogs & Puppies for Sale Near You: 10 Ethical Sites"
-        },
-        {
-          "id": "https://www.makeuseof.com/best-nail-art-subscription-boxes/",
-          "author": "Simona Tolcheva",
-          "description": "Anyone who's a fan of nail art will appreciate these seven best subscription boxes. They'll help you jazz up your nails from home.",
-          "link": "https://www.makeuseof.com/best-nail-art-subscription-boxes/",
-          "publishedOn": "2021-10-06T12:31:21.000Z",
-          "wordCount": 1465,
-          "title": "The 7 Best Nail Art Subscription Boxes To Try"
-        },
-        {
-          "id": "https://www.makeuseof.com/what-is-capture-one/",
-          "author": "Gargi Ghosal",
-          "description": "If you're looking for an Adobe Lightroom alternative for photo editing, Capture One might be the answer.",
-          "link": "https://www.makeuseof.com/what-is-capture-one/",
-          "publishedOn": "2021-10-06T12:00:58.000Z",
-          "wordCount": 1557,
-          "title": "What Is Capture One and How Can It Improve the Look of Your Photos?"
-        },
-        {
-          "id": "https://www.makeuseof.com/twitch-hacked-change-password-turn-on-2fa-now/",
-          "author": "Gavin Phillips",
-          "description": "The streaming platform has been thoroughly pwned, with everything leaked online, including its source code.",
-          "link": "https://www.makeuseof.com/twitch-hacked-change-password-turn-on-2fa-now/",
-          "publishedOn": "2021-10-06T11:31:11.000Z",
-          "wordCount": 1084,
-          "title": "Twitch Has Been Hacked: Change Your Password and Turn on 2FA Now"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-fix-error-14-iphone/",
-          "author": "Dilum Senevirathne",
-          "description": "Do you keep seeing an &quot;Error 14&quot; popup while updating or restoring your iPhone? Follow these tips to fix it.",
-          "link": "https://www.makeuseof.com/how-to-fix-error-14-iphone/",
-          "publishedOn": "2021-10-06T11:00:55.000Z",
-          "wordCount": 1171,
-          "title": "How to Fix Error 14 on Your iPhone"
-        },
-        {
-          "id": "https://www.makeuseof.com/best-iphone-wallet-cases/",
-          "author": "Brent Dirks",
-          "description": "Protect your iPhone and keep your essentials with you on the go with an iPhone wallet case.",
-          "link": "https://www.makeuseof.com/best-iphone-wallet-cases/",
-          "publishedOn": "2021-10-06T10:00:57.000Z",
-          "wordCount": 2644,
-          "title": "The 7 Best iPhone Wallet Cases"
-        },
-        {
-          "id": "https://www.makeuseof.com/google-contacts-tips-and-tricks/",
-          "author": "Satyarth Shukla",
-          "description": "Master your contact list and send email faster, and more conveniently, using these tips for Google Contacts.",
-          "link": "https://www.makeuseof.com/google-contacts-tips-and-tricks/",
-          "publishedOn": "2021-10-06T10:00:56.000Z",
-          "wordCount": 1728,
-          "title": "6 Tips and Tricks to Make Better Use of Google Contacts"
-        },
-        {
-          "id": "https://www.makeuseof.com/microsoft-launches-windows-11-heres-how-to-get-it/",
-          "author": "Gavin Phillips",
-          "description": "Windows 11 goes live, and you can get it now!",
-          "link": "https://www.makeuseof.com/microsoft-launches-windows-11-heres-how-to-get-it/",
-          "publishedOn": "2021-10-05T23:35:21.000Z",
-          "wordCount": 1121,
-          "title": "Microsoft Launches Windows 11: Here's How to Get It"
-        },
-        {
-          "id": "https://www.makeuseof.com/manage-iphone-location-settings/",
-          "author": "Kaylyn McKenna",
-          "description": "If you don't want all of your iPhone's apps knowing exactly where you are, you can tweak these. Here's how.",
-          "link": "https://www.makeuseof.com/manage-iphone-location-settings/",
-          "publishedOn": "2021-10-05T22:00:11.000Z",
-          "wordCount": 883,
-          "title": "How to Manage Which iPhone Apps Have Your Precise Location"
-        },
-        {
-          "id": "https://www.makeuseof.com/ways-save-money-when-buying-iphone/",
-          "author": "Ben Stegner",
-          "description": "A new iPhone is never cheap, but you can bring the cost down using several tricks. Try these ways to save money when you buy your next iPhone.",
-          "link": "https://www.makeuseof.com/ways-save-money-when-buying-iphone/",
-          "publishedOn": "2021-10-05T21:30:21.000Z",
-          "wordCount": 1776,
-          "title": "6 Ways to Save Money When Buying an iPhone"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-not-scammed-hiring-online/",
-          "author": "Brittni Devlin",
-          "description": "When you're looking to hire people online, it can be hard to weed out the scams. So, here's a look at how not to get scammed when hiring online.",
-          "link": "https://www.makeuseof.com/how-not-scammed-hiring-online/",
-          "publishedOn": "2021-10-05T21:15:21.000Z",
-          "wordCount": 1503,
-          "title": "How Not to Get Scammed When Hiring Online"
-        },
-        {
-          "id": "https://www.makeuseof.com/apple-iphone-chips/",
-          "author": "M. Fahad Khawaja",
-          "description": "Producing its own chips has helped Apple move ahead of its smartphone competition. But why are they so special?",
-          "link": "https://www.makeuseof.com/apple-iphone-chips/",
-          "publishedOn": "2021-10-05T21:00:21.000Z",
-          "wordCount": 1112,
-          "title": "What Makes Apple's iPhone Chips So Special?"
-        },
-        {
-          "id": "https://www.makeuseof.com/improve-your-teams-engagement-motivation/",
-          "author": "Shay Burns",
-          "description": "Struggling to get your team to contribute? Let's look at how to maximize their motivation and engagement.",
-          "link": "https://www.makeuseof.com/improve-your-teams-engagement-motivation/",
-          "publishedOn": "2021-10-05T20:30:21.000Z",
-          "wordCount": 1466,
-          "title": "How to Improve Your Team's Motivation and Engagement"
-        },
-        {
-          "id": "https://www.makeuseof.com/is-groupon-legit/",
-          "author": "Anina Ot",
-          "description": "Groupon has been around forever. Are its deals still legit and good value for money?",
-          "link": "https://www.makeuseof.com/is-groupon-legit/",
-          "publishedOn": "2021-10-05T20:00:21.000Z",
-          "wordCount": 1411,
-          "title": "How Does Groupon Work and Is It Legit?"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-run-apps-in-floating-window-samsung-galaxy-phone/",
-          "author": "Rajesh Pandey",
-          "description": "Run apps in their own pop-up windows on your Samsung Galaxy phone or tablet to multitask like a pro. Read this guide to learn how.",
-          "link": "https://www.makeuseof.com/how-to-run-apps-in-floating-window-samsung-galaxy-phone/",
-          "publishedOn": "2021-10-05T19:30:21.000Z",
-          "wordCount": 991,
-          "title": "How to Run Apps in Windowed Mode on Samsung Galaxy Devices"
-        },
-        {
-          "id": "https://www.makeuseof.com/painttool-sai-tips-for-beginners/",
-          "author": "Logan Tooker",
-          "description": "If you're new to PaintTool SAI, these tips will help get you started.",
-          "link": "https://www.makeuseof.com/painttool-sai-tips-for-beginners/",
-          "publishedOn": "2021-10-05T19:00:21.000Z",
-          "wordCount": 1481,
-          "title": "9 PaintTool SAI Tips for Beginners"
-        },
-        {
-          "id": "https://www.makeuseof.com/spotify-latest-quiz-helps-find-perfect-podcast/",
-          "author": "Ben Stegner",
-          "description": "Looking to get into podcasts but don't know where to start? Try Spotify's new Find the One site to get a podcast recommendation just for you.",
-          "link": "https://www.makeuseof.com/spotify-latest-quiz-helps-find-perfect-podcast/",
-          "publishedOn": "2021-10-05T18:45:21.000Z",
-          "wordCount": 1061,
-          "title": "Spotify's Latest Quiz Helps You Find the Perfect Podcast"
-        },
-        {
-          "id": "https://www.makeuseof.com/create-a-kill-switch-windows/",
-          "author": "Shaant Minhas",
-          "description": "Creating a kill switch in Windows is a great way to keep your IP safe if your defenses go down.",
-          "link": "https://www.makeuseof.com/create-a-kill-switch-windows/",
-          "publishedOn": "2021-10-05T18:30:21.000Z",
-          "wordCount": 1256,
-          "title": "How to Create a Kill Switch in Windows"
-        },
-        {
-          "id": "https://www.makeuseof.com/fix-control-panel-wont-open/",
-          "author": "Matthew Wallaker",
-          "description": "If you are having a hard time opening the Control Panel on your computer, try these fixes to get it working once more,",
-          "link": "https://www.makeuseof.com/fix-control-panel-wont-open/",
-          "publishedOn": "2021-10-05T18:15:21.000Z",
-          "wordCount": 1242,
-          "title": "7 Ways to Fix a Control Panel That Won't Open"
-        },
-        {
-          "id": "https://www.makeuseof.com/focus-mode-ideas-to-set-up-in-ios/",
-          "author": "Quina Baterna",
-          "description": "Have you spotted the new Focus feature in iOS 15? Wondering how to take advantage of it? Here are all the best Focus modes to set up on your iPhone.",
-          "link": "https://www.makeuseof.com/focus-mode-ideas-to-set-up-in-ios/",
-          "publishedOn": "2021-10-05T18:14:50.000Z",
-          "wordCount": 1703,
-          "title": "Set Up These 6 Focus Modes to Make the Most of iOS 15"
-        },
-        {
-          "id": "https://www.makeuseof.com/twitch-launches-verified-chats/",
-          "author": "Aya Masango",
-          "description": "In a bid to prevent bot raids, Twitch now lets streamers demand phone authentication from their viewers.",
-          "link": "https://www.makeuseof.com/twitch-launches-verified-chats/",
-          "publishedOn": "2021-10-05T18:00:31.000Z",
-          "wordCount": 798,
-          "title": "Twitch Launches Verified Chats to Prevent Hate Raids: Here's How They Work"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-manage-origin-account-notifications/",
-          "author": "Electra Nanou",
-          "description": "Are your Origin account notifications getting on your nerves? Well, you could always switch them off...",
-          "link": "https://www.makeuseof.com/how-to-manage-origin-account-notifications/",
-          "publishedOn": "2021-10-05T18:00:30.000Z",
-          "wordCount": 846,
-          "title": "How to Manage Origin Account Notifications"
-        },
-        {
-          "id": "https://www.makeuseof.com/finsta-the-instagram-trend-explained/",
-          "author": "Soham De",
-          "description": "Insta, finsta, rinsta. You've probably heard of the first of these terms, but the other two might be more mysterious. Here's what you need to know.",
-          "link": "https://www.makeuseof.com/finsta-the-instagram-trend-explained/",
-          "publishedOn": "2021-10-05T17:58:34.000Z",
-          "wordCount": 1042,
-          "title": "What Is a Finsta? The Instagram Trend Explained"
-        },
-        {
-          "id": "https://www.makeuseof.com/diy-dice-tower/",
-          "author": "Samuel L. Garbett",
-          "description": "Build your own dice tower to make game nights more fun. 24+ hours 3D printing, ~1 hour build time, endless gaming fun.",
-          "link": "https://www.makeuseof.com/diy-dice-tower/",
-          "publishedOn": "2021-10-05T17:30:11.000Z",
-          "wordCount": 1518,
-          "title": "How to Build a DIY Dice Tower for Tabletop Gaming"
-        },
-        {
-          "id": "https://www.makeuseof.com/fix-mac-high-cpu-usage/",
-          "author": "Matt Moore",
-          "description": "If you've found that your central processing unit (CPU) usage is too high for your liking, give these tips a try.",
-          "link": "https://www.makeuseof.com/fix-mac-high-cpu-usage/",
-          "publishedOn": "2021-10-05T17:00:11.000Z",
-          "wordCount": 1550,
-          "title": "5 Ways to Fix High CPU Usage on macOS"
-        },
-        {
-          "id": "https://www.makeuseof.com/can-blue-light-affect-productivity-what-to-do-about-it/",
-          "author": "Katie Rees",
-          "description": "Your digital devices expose you to blue light, which can cause damage to your eyes. Here's what you can do about it!",
-          "link": "https://www.makeuseof.com/can-blue-light-affect-productivity-what-to-do-about-it/",
-          "publishedOn": "2021-10-05T16:33:04.000Z",
-          "wordCount": 1275,
-          "title": "Can Blue Light Affect Your Productivity? Yes, but Here’s What You Can Do About It"
-        },
-        {
-          "id": "https://www.makeuseof.com/upgrading-ps4-internal-hard-drive/",
-          "author": "Soham De",
-          "description": "As well as the obvious extra space, a new internal drive for your PS4 can work wonders, but is it always the answer?",
-          "link": "https://www.makeuseof.com/upgrading-ps4-internal-hard-drive/",
-          "publishedOn": "2021-10-05T16:00:30.000Z",
-          "wordCount": 1457,
-          "title": "Is It Worth Upgrading Your PS4's Internal Hard Drive?"
-        },
-        {
-          "id": "https://www.makeuseof.com/jmgo-o1-review-ultra-short-throw-projector/",
-          "author": "Kannon Yamada",
-          "description": "UST projectors project big screens at point-blank range. Why? If you're living that #VanLife, you need the space.",
-          "link": "https://www.makeuseof.com/jmgo-o1-review-ultra-short-throw-projector/",
-          "publishedOn": "2021-10-05T16:00:29.000Z",
-          "wordCount": 3407,
-          "title": "JMGO O1 Ultra-Short Throw HD Projector Review: Best Budget UST Projector, With Big Problems"
-        },
-        {
-          "id": "https://www.makeuseof.com/men-grooming-subscription-boxes/",
-          "author": "Simona Tolcheva",
-          "description": "For any men out there looking to up their grooming game, then these six subscription boxes can help you out.",
-          "link": "https://www.makeuseof.com/men-grooming-subscription-boxes/",
-          "publishedOn": "2021-10-05T15:30:21.000Z",
-          "wordCount": 1544,
-          "title": "6 Subscription Boxes for Men's Grooming"
-        },
-        {
-          "id": "https://www.makeuseof.com/netflix-and-chill-definition/",
-          "author": "Soham De",
-          "description": "To &quot;Netflix and chill&quot; isn't a new concept, but what does it really mean? Did it begin with the same connotations it has now?",
-          "link": "https://www.makeuseof.com/netflix-and-chill-definition/",
-          "publishedOn": "2021-10-05T15:03:34.000Z",
-          "wordCount": 949,
-          "title": "What &quot;Netflix and Chill&quot; Really Means"
-        },
-        {
-          "id": "https://www.makeuseof.com/clubhouse-adds-universal-search-how-to-use-it/",
-          "author": "Aya Masango",
-          "description": "Clubhouse now has a Universal Search feature to make it easier to find what you're looking for. Here's how to use it.",
-          "link": "https://www.makeuseof.com/clubhouse-adds-universal-search-how-to-use-it/",
-          "publishedOn": "2021-10-05T15:03:34.000Z",
-          "wordCount": 1037,
-          "title": "Clubhouse Finally Adds Universal Search: How to Use It"
-        },
-        {
-          "id": "https://www.makeuseof.com/top-command-linux/",
-          "author": "Rubaiat Hossain",
-          "description": "Take control of the processes running on your Linux system using the top command.",
-          "link": "https://www.makeuseof.com/top-command-linux/",
-          "publishedOn": "2021-10-05T15:03:33.000Z",
-          "wordCount": 1054,
-          "title": "10 Ways to Use the top Command in Linux"
-        },
-        {
-          "id": "https://www.makeuseof.com/starlink-vs-viasat-vs-hughsnet-satellite-internet-compared/",
-          "author": "Rahul Nambiampurath",
-          "description": "Starlink is the new satellite internet kid on the block, but how does it stack up against the OGs?",
-          "link": "https://www.makeuseof.com/starlink-vs-viasat-vs-hughsnet-satellite-internet-compared/",
-          "publishedOn": "2021-10-05T15:03:33.000Z",
-          "wordCount": 1375,
-          "title": "Starlink vs. Viasat vs. HughsNet: Satellite Internet Compared"
-        },
-        {
-          "id": "https://www.makeuseof.com/what-is-yubo/",
-          "author": "Varun Kesari",
-          "description": "Yubo is an all-in-one social media app where you can livestream, chat, have fun, and make new friends. Join the community to meet new people.",
-          "link": "https://www.makeuseof.com/what-is-yubo/",
-          "publishedOn": "2021-10-05T14:44:59.000Z",
-          "wordCount": 1686,
-          "title": "What Exactly Is Yubo, the Best App for GenZ?"
-        },
-        {
-          "id": "https://www.makeuseof.com/best-mice-for-drag-clicking/",
-          "author": "Tamal Das",
-          "description": "Reach the top of the leaderboard with a sturdy and durable gaming mouse suitable for drag clicking.",
-          "link": "https://www.makeuseof.com/best-mice-for-drag-clicking/",
-          "publishedOn": "2021-10-05T14:00:58.000Z",
-          "wordCount": 2714,
-          "title": "The 7 Best Mice for Drag Clicking"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-fix-iphone-not-receiving-alerts/",
-          "author": "Ankur Thakur",
-          "description": "If your iPhone isn't receiving text message alerts or playing sound, consider these solutions.",
-          "link": "https://www.makeuseof.com/how-to-fix-iphone-not-receiving-alerts/",
-          "publishedOn": "2021-10-05T14:00:58.000Z",
-          "wordCount": 1703,
-          "title": "How to Fix No Sound or Text Message Alerts on iPhone: 15+ Solutions"
-        },
-        {
-          "id": "https://www.makeuseof.com/lumen-metabolism-tracker-review/",
-          "author": "James Bruce",
-          "description": "Lumen offers an easy way to see if you're currently burning fat or carbs, with a diet and metabolic gamification system. But is it worth $19/month?",
-          "link": "https://www.makeuseof.com/lumen-metabolism-tracker-review/",
-          "publishedOn": "2021-10-05T13:56:21.000Z",
-          "wordCount": 2972,
-          "title": "Lumen Review: Now You Can Track Your Metabolism, Too"
-        },
-        {
-          "id": "https://www.makeuseof.com/organizing-your-tech-while-traveling/",
-          "author": "MUO Staff",
-          "description": "Taking your tech on vacation or traveling for work? Here's everything you need to know about traveling light with tech as securely as possible.",
-          "link": "https://www.makeuseof.com/organizing-your-tech-while-traveling/",
-          "publishedOn": "2021-10-05T13:45:11.000Z",
-          "wordCount": 1662,
-          "title": "5 DIY Solutions for Organizing Your Tech While Traveling"
-        },
-        {
-          "id": "https://www.makeuseof.com/best-8k-tvs/",
-          "author": "Rachel Scherer",
-          "description": "Futureproof your viewing experience by investing in a stunning 8K TV.",
-          "link": "https://www.makeuseof.com/best-8k-tvs/",
-          "publishedOn": "2021-10-05T13:35:21.000Z",
-          "wordCount": 2749,
-          "title": "The 7 Best 8K TVs"
-        },
-        {
-          "id": "https://www.makeuseof.com/use-gather-town-bring-remote-teams-together/",
-          "author": "Quina Baterna",
-          "description": "Gather Town is a web-based virtual space where people can communicate and interact more effectively online. Here's how to use it.",
-          "link": "https://www.makeuseof.com/use-gather-town-bring-remote-teams-together/",
-          "publishedOn": "2021-10-05T13:30:38.000Z",
-          "wordCount": 1616,
-          "title": "How to Use Gather Town to Bring Remote Teams Together"
-        },
-        {
-          "id": "https://www.makeuseof.com/why-facebook-whatsapp-instagram-offline-six-hours/",
-          "author": "Aya Masango",
-          "description": "On October 4th, 2021, Facebook went down, taking WhatsApp and Instagram with it. Here's what happened, and why Facebook was offline for so long.",
-          "link": "https://www.makeuseof.com/why-facebook-whatsapp-instagram-offline-six-hours/",
-          "publishedOn": "2021-10-05T13:21:58.000Z",
-          "wordCount": 1017,
-          "title": "Why Facebook, WhatsApp, and Instagram Went Offline for Six Hours"
-        },
-        {
-          "id": "https://www.makeuseof.com/check-suspicious-file-malware/",
-          "author": "Damir Mujezinovic",
-          "description": "Accidentally downloaded a file you suspect might be a virus? Or what if you think a link goes to a malicious site? Here's what to do.",
-          "link": "https://www.makeuseof.com/check-suspicious-file-malware/",
-          "publishedOn": "2021-10-05T13:21:57.000Z",
-          "wordCount": 832,
-          "title": "Downloaded a Suspicious File? Here’s How to Check if It Contains Malware"
-        },
-        {
-          "id": "https://www.makeuseof.com/tips-promote-craigslist-post/",
-          "author": "Emma Garofalo",
-          "description": "If you're currently trying to (or looking to) sell something on Craigslist, here are six tips to help promote your post on the platform.",
-          "link": "https://www.makeuseof.com/tips-promote-craigslist-post/",
-          "publishedOn": "2021-10-05T13:21:57.000Z",
-          "wordCount": 1470,
-          "title": "6 Tips to Promote Your Post on Craigslist"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-fix-icloud-photos-not-syncing-mac/",
-          "author": "Dilum Senevirathne",
-          "description": "Have iCloud Photos stopped syncing on your Mac? Here are all the best troubleshooting tips you can use to fix it.",
-          "link": "https://www.makeuseof.com/how-to-fix-icloud-photos-not-syncing-mac/",
-          "publishedOn": "2021-10-05T12:00:21.000Z",
-          "wordCount": 1487,
-          "title": "11 Ways to Fix iCloud Photos Not Syncing on Your Mac"
-        },
-        {
-          "id": "https://www.makeuseof.com/best-places-to-stake-cardano-ada/",
-          "author": "Rahul Nambiampurath",
-          "description": "Holding ADA? It's time to stake some Cardano and earn some sweet passive income.",
-          "link": "https://www.makeuseof.com/best-places-to-stake-cardano-ada/",
-          "publishedOn": "2021-10-05T11:39:44.000Z",
-          "wordCount": 1539,
-          "title": "The 3 Best Places to Stake Cardano (ADA)"
-        },
-        {
-          "id": "https://www.makeuseof.com/tag/best-fastest-microsd-cards/",
-          "author": "Georgie Peru",
-          "description": "Running out of storage space? You'll want a microSD card! But which is the best microSD card for you?",
-          "link": "https://www.makeuseof.com/tag/best-fastest-microsd-cards/",
-          "publishedOn": "2021-10-05T11:26:00.000Z",
-          "wordCount": 2240,
-          "title": "The 7 Fastest microSD Cards"
-        },
-        {
-          "id": "https://www.makeuseof.com/seinfeld-on-netflix-wrong-aspect-ratio/",
-          "author": "Joe Keeley",
-          "description": "Seinfeld is finally available on Netflix, but the widescreen aspect ratio is ruining some jokes.",
-          "link": "https://www.makeuseof.com/seinfeld-on-netflix-wrong-aspect-ratio/",
-          "publishedOn": "2021-10-05T10:44:02.000Z",
-          "wordCount": 728,
-          "title": "Seinfeld Is Now on Netflix, But the Aspect Ratio Is All Wrong"
-        },
-        {
-          "id": "https://www.makeuseof.com/android-12-now-available/",
-          "author": "Rajesh Pandey",
-          "description": "Google has finally released Android 12, but you'll have to wait a few weeks to get it—even if you own a Pixel phone.",
-          "link": "https://www.makeuseof.com/android-12-now-available/",
-          "publishedOn": "2021-10-05T10:15:11.000Z",
-          "wordCount": 779,
-          "title": "Android 12 Is Now Available, With Pixel Devices First in the Queue"
-        },
-        {
-          "id": "https://www.makeuseof.com/css-box-model-explained/",
-          "author": "Naincy Mourya",
-          "description": "Can't work out why elements are lining up as they are? Can't decide between padding and margin? Learn about the CSS Box Model to master HTML layout.",
-          "link": "https://www.makeuseof.com/css-box-model-explained/",
-          "publishedOn": "2021-10-05T10:00:32.000Z",
-          "wordCount": 1538,
-          "title": "The CSS Box Model Explained With Examples"
-        },
-        {
-          "id": "https://www.makeuseof.com/day-planner-tools-focus-on-critical-daily-goals/",
-          "author": "Mihir Patkar",
-          "description": "These apps and tools are the best free day planners, online or offline, to create a daily action plan to stay organized and get things done.",
-          "link": "https://www.makeuseof.com/day-planner-tools-focus-on-critical-daily-goals/",
-          "publishedOn": "2021-10-05T08:30:54.000Z",
-          "wordCount": 1749,
-          "title": "5 Day Planner Tools to Focus On Your Most Critical Daily Goals"
-        },
-        {
-          "id": "https://www.makeuseof.com/best-tools-transcribe-video-meetings-shareable-documents/",
-          "author": "Tamal Das",
-          "description": "Transcribing apps let you convert audio and video files into text that you can share. Here are some of the best tools you can use for that.",
-          "link": "https://www.makeuseof.com/best-tools-transcribe-video-meetings-shareable-documents/",
-          "publishedOn": "2021-10-04T20:30:21.000Z",
-          "wordCount": 1565,
-          "title": "The 10 Best Tools for Transcribing Video Meetings to Shareable Documents"
-        },
-        {
-          "id": "https://www.makeuseof.com/who-is-facebook-whistleblower-60-minutes-interview-claims/",
-          "author": "Aya Masango",
-          "description": "A former Facebook employee-turned-whistleblower has made a series of bold claims on 60 Minutes. Here's what you need to know...",
-          "link": "https://www.makeuseof.com/who-is-facebook-whistleblower-60-minutes-interview-claims/",
-          "publishedOn": "2021-10-04T20:26:21.000Z",
-          "wordCount": 1130,
-          "title": "Who Is the Facebook Whistleblower and What Did They Say on 60 Minutes?"
-        },
-        {
-          "id": "https://www.makeuseof.com/is-the-kindle-app-free/",
-          "author": "Electra Nanou",
-          "description": "You can download the Kindle app directly from Amazon without paying a cent, but some Kindle features do cost money.",
-          "link": "https://www.makeuseof.com/is-the-kindle-app-free/",
-          "publishedOn": "2021-10-04T20:01:27.000Z",
-          "wordCount": 862,
-          "title": "Is the Kindle App Free or Does It Cost Money?"
-        },
-        {
-          "id": "https://www.makeuseof.com/midnightbsd-linux-desktop-alternative/",
-          "author": "David Delony",
-          "description": "The BSD community is making notable progress by bringing new OSes to the table. Check out MidnightBSD, a suitable alternative to the Linux desktop.",
-          "link": "https://www.makeuseof.com/midnightbsd-linux-desktop-alternative/",
-          "publishedOn": "2021-10-04T19:00:12.000Z",
-          "wordCount": 1483,
-          "title": "MidnightBSD: A BSD-Based Alternative to the Linux Desktop"
-        },
-        {
-          "id": "https://www.makeuseof.com/apple-watch-series-7-release-date-preorders/",
-          "author": "Brent Dirks",
-          "description": "The new model features a 20 percent larger screen the Series 6 watch.",
-          "link": "https://www.makeuseof.com/apple-watch-series-7-release-date-preorders/",
-          "publishedOn": "2021-10-04T18:30:22.000Z",
-          "wordCount": 748,
-          "title": "Apple Watch Series 7 Release Date and Pre-Orders, Revealed"
-        },
-        {
-          "id": "https://www.makeuseof.com/what-is-the-kindle-app/",
-          "author": "Electra Nanou",
-          "description": "The Kindle app is free and lets you read Amazon ebooks on any device. Here's how it works and how to get it.",
-          "link": "https://www.makeuseof.com/what-is-the-kindle-app/",
-          "publishedOn": "2021-10-04T18:30:21.000Z",
-          "wordCount": 1069,
-          "title": "What Is the Kindle App and How Does It Work?"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-set-up-dual-monitors/",
-          "author": "Samuel L. Garbett",
-          "description": "Dual monitor setups are becoming increasingly popular. We show you how to go about creating yours.",
-          "link": "https://www.makeuseof.com/how-to-set-up-dual-monitors/",
-          "publishedOn": "2021-10-04T18:17:31.000Z",
-          "wordCount": 1941,
-          "title": "Need to Use Two Displays? Here’s How to Set Up Dual Monitors"
-        },
-        {
-          "id": "https://www.makeuseof.com/javascript-iterators-generators/",
-          "author": "Unnati Bamania",
-          "description": "Get the hang of iterator and generator methods in JS.",
-          "link": "https://www.makeuseof.com/javascript-iterators-generators/",
-          "publishedOn": "2021-10-04T18:17:31.000Z",
-          "wordCount": 831,
-          "title": "An Introduction to Iterators and Generators in JavaScript"
-        },
-        {
-          "id": "https://www.makeuseof.com/get-more-views-instagram-stories/",
-          "author": "Tamal Das",
-          "description": "Want to get more eyeballs on your Instagram Story posts? Here are a few tips...",
-          "link": "https://www.makeuseof.com/get-more-views-instagram-stories/",
-          "publishedOn": "2021-10-04T18:17:30.000Z",
-          "wordCount": 1548,
-          "title": "8 Ways to Get More Views on Instagram Stories"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-change-origin-account-automatic-update-settings/",
-          "author": "Electra Nanou",
-          "description": "Want to prevent automatic updates from interrupting your gaming session? You can change the setting easily, like this.",
-          "link": "https://www.makeuseof.com/how-to-change-origin-account-automatic-update-settings/",
-          "publishedOn": "2021-10-04T17:00:11.000Z",
-          "wordCount": 852,
-          "title": "How to Change Your Origin Account’s Automatic Update Settings"
-        },
-        {
-          "id": "https://www.makeuseof.com/21-tips-and-tricks-to-master-the-art-of-googling-as-a-developer/",
-          "author": "Yuvraj Chandra",
-          "description": "Become a Google search pro with the help of these tips and tricks.",
-          "link": "https://www.makeuseof.com/21-tips-and-tricks-to-master-the-art-of-googling-as-a-developer/",
-          "publishedOn": "2021-10-04T16:45:21.000Z",
-          "wordCount": 1669,
-          "title": "21 Tips and Tricks to Master the Art of Googling as a Developer"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-rate-iphone-ipad-apps-app-store/",
-          "author": "Ben Stegner",
-          "description": "Taking a moment to leave a review for apps helps provide a better experience for everyone. Here's how to easily review iPhone and iPad apps you use.",
-          "link": "https://www.makeuseof.com/how-to-rate-iphone-ipad-apps-app-store/",
-          "publishedOn": "2021-10-04T16:32:34.000Z",
-          "wordCount": 883,
-          "title": "How to Rate iPhone and iPad Apps on the App Store"
-        },
-        {
-          "id": "https://www.makeuseof.com/what-is-amazon-alexa-together/",
-          "author": "Electra Nanou",
-          "description": "We’re taking a look at Amazon’s upgraded service to help check up on family members in need.",
-          "link": "https://www.makeuseof.com/what-is-amazon-alexa-together/",
-          "publishedOn": "2021-10-04T16:32:33.000Z",
-          "wordCount": 832,
-          "title": "What Is Amazon's Alexa Together Subscription Service?"
-        },
-        {
-          "id": "https://www.makeuseof.com/best-tools-tips-delegating-tasks/",
-          "author": "Tamal Das",
-          "description": "Delegating tasks effectively means sharing workloads and maximizing resources. Here are some tips and tools for effective task delegation.",
-          "link": "https://www.makeuseof.com/best-tools-tips-delegating-tasks/",
-          "publishedOn": "2021-10-04T16:32:33.000Z",
-          "wordCount": 1553,
-          "title": "The 10 Best Tools and Tips for Delegating Tasks Efficiently"
-        },
-        {
-          "id": "https://www.makeuseof.com/cant-leave-a-group-chat-on-in-apple-messages-what-to-do-instead/",
-          "author": "Rachel Melegrito",
-          "description": "Sometimes your iPhone won't let you leave group chats in the Messages app. We'll explain why that is and show you what to do instead.",
-          "link": "https://www.makeuseof.com/cant-leave-a-group-chat-on-in-apple-messages-what-to-do-instead/",
-          "publishedOn": "2021-10-04T16:32:32.000Z",
-          "wordCount": 912,
-          "title": "Can't Leave a Group Chat on Your iPhone? Here's What You Can Do Instead"
-        },
-        {
-          "id": "https://www.makeuseof.com/facebook-whatsapp-instagram-down-right-now/",
-          "author": "Gavin Phillips",
-          "description": "Facebook's social media network is offline, taking major services with it.",
-          "link": "https://www.makeuseof.com/facebook-whatsapp-instagram-down-right-now/",
-          "publishedOn": "2021-10-04T16:25:54.000Z",
-          "wordCount": 1306,
-          "title": "It's Not Just You: Facebook, WhatsApp, and Instagram Are Down Right Now [UPDATED]"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-transfer-games-from-ps5-console-storage-to-m2-ssd/",
-          "author": "Ste Knight",
-          "description": "So you've nabbed an M.2 SSD to expand your PS5 storage? Here's how you transfer your games across to it.",
-          "link": "https://www.makeuseof.com/how-to-transfer-games-from-ps5-console-storage-to-m2-ssd/",
-          "publishedOn": "2021-10-04T15:00:55.000Z",
-          "wordCount": 1051,
-          "title": "How to Transfer Games From Your PS5 Console's Storage to an M.2 SSD"
-        },
-        {
-          "id": "https://www.makeuseof.com/airthings-view-plus-review/",
-          "author": "James Frew",
-          "description": "The Airthings View Plus is an indoor air quality monitor with Wi-Fi connectivity to sync data to the cloud.",
-          "link": "https://www.makeuseof.com/airthings-view-plus-review/",
-          "publishedOn": "2021-10-04T14:48:35.000Z",
-          "wordCount": 2609,
-          "title": "Airthings View Plus Review: Real-Time Updates on the Air That's Killing You"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-host-twitch-watch-parties/",
-          "author": "Hamlin Rozario",
-          "description": "Invite your viewers to watch movies and TV shows with you on Twitch by hosting a watch party. Here's what you need to know.",
-          "link": "https://www.makeuseof.com/how-to-host-twitch-watch-parties/",
-          "publishedOn": "2021-10-04T14:48:35.000Z",
-          "wordCount": 1614,
-          "title": "How to Host Twitch Watch Parties on Your Stream"
-        },
-        {
-          "id": "https://www.makeuseof.com/desk-stand-vs-floor-stand-whats-best/",
-          "author": "Elliott Gooding",
-          "description": "Investing in new speakers? Take a moment to consider which stand will deliver the best audio experience in your setup.",
-          "link": "https://www.makeuseof.com/desk-stand-vs-floor-stand-whats-best/",
-          "publishedOn": "2021-10-04T14:48:34.000Z",
-          "wordCount": 1346,
-          "title": "Desk Stand vs. Floor Stand: What's Best for Your Speakers?"
-        },
-        {
-          "id": "https://www.makeuseof.com/5-key-qualities-that-every-mobile-app-should-have/",
-          "author": "Ayush Jalan",
-          "description": "Before you develop your mobile app, make sure you have these important factors figured out.",
-          "link": "https://www.makeuseof.com/5-key-qualities-that-every-mobile-app-should-have/",
-          "publishedOn": "2021-10-04T13:46:45.000Z",
-          "wordCount": 1449,
-          "title": "5 Key Qualities That Every Mobile App Should Have"
-        },
-        {
-          "id": "https://www.makeuseof.com/use-bookmarks-feature-microsoft-word/",
-          "author": "Joy Okumoko",
-          "description": "You can use bookmarks in Microsoft Word to identify parts of a large document. This enables you to navigate and link to these sections. Here's how!",
-          "link": "https://www.makeuseof.com/use-bookmarks-feature-microsoft-word/",
-          "publishedOn": "2021-10-04T13:30:21.000Z",
-          "wordCount": 1717,
-          "title": "How to Use the Bookmarks Feature in Microsoft Word"
-        },
-        {
-          "id": "https://www.makeuseof.com/clubhouse-replays-record-conversations/",
-          "author": "Aya Masango",
-          "description": "Clubhouse has announced Replays -- which will finally let users record their conversations on the app. Here's how the feature will work.",
-          "link": "https://www.makeuseof.com/clubhouse-replays-record-conversations/",
-          "publishedOn": "2021-10-04T13:16:29.000Z",
-          "wordCount": 932,
-          "title": "Clubhouse Replays Finally Let You Record Your Conversations"
-        },
-        {
-          "id": "https://www.makeuseof.com/best-android-smartwatches/",
-          "author": "Alan Blake",
-          "description": "Explore the versatility of Android smartwatches, ideal for health and fitness, making calls, and tracking your location.",
-          "link": "https://www.makeuseof.com/best-android-smartwatches/",
-          "publishedOn": "2021-10-04T13:07:54.000Z",
-          "wordCount": 4146,
-          "title": "The 7 Best Android Smartwatches"
-        },
-        {
-          "id": "https://www.makeuseof.com/prepaid-vs-postpaid/",
-          "author": "Megan Ellis",
-          "description": "Not sure what the differences between prepaid and postpaid mobile plans are, or which one you should choose? Here's what you should know.",
-          "link": "https://www.makeuseof.com/prepaid-vs-postpaid/",
-          "publishedOn": "2021-10-04T13:03:57.000Z",
-          "wordCount": 1524,
-          "title": "Prepaid vs. Postpaid Phone Plans: What's the Best for You?"
-        },
-        {
-          "id": "https://www.makeuseof.com/apples-icloud-leaks-user-ip-address/",
-          "author": "Ankush Das",
-          "description": "Is Apple's Private Relay even ready for public use?",
-          "link": "https://www.makeuseof.com/apples-icloud-leaks-user-ip-address/",
-          "publishedOn": "2021-10-04T13:03:56.000Z",
-          "wordCount": 740,
-          "title": "Apple's iCloud Private Relay Leaks Users' IP Addresses: Should You Be Worried?"
-        },
-        {
-          "id": "https://www.makeuseof.com/simple-introduction-stellar-blockchain-xlm/",
-          "author": "Jerome Davidson",
-          "description": "Stellar is fast, cheap, and ready to use.",
-          "link": "https://www.makeuseof.com/simple-introduction-stellar-blockchain-xlm/",
-          "publishedOn": "2021-10-04T13:03:56.000Z",
-          "wordCount": 809,
-          "title": "A Simple Introduction to the Stellar Blockchain (XLM)"
-        },
-        {
-          "id": "https://www.makeuseof.com/best-motorcycle-bluetooth-headsets/",
-          "author": "Katie Rees",
-          "description": "Talk to other riders or listen to music on-the-go with a motorcycle headset with Bluetooth technology.",
-          "link": "https://www.makeuseof.com/best-motorcycle-bluetooth-headsets/",
-          "publishedOn": "2021-10-04T13:03:55.000Z",
-          "wordCount": 2271,
-          "title": "The 7 Best Motorcycle Bluetooth Headsets"
-        },
-        {
-          "id": "https://www.makeuseof.com/arts-and-crafts-subscription-boxes/",
-          "author": "Simona Tolcheva",
-          "description": "If you're looking for a new hobby, it might be worth checking out these seven arts and crafts subscription boxes to bring out your creative juices.",
-          "link": "https://www.makeuseof.com/arts-and-crafts-subscription-boxes/",
-          "publishedOn": "2021-10-04T13:03:55.000Z",
-          "wordCount": 1524,
-          "title": "6 Arts and Crafts Subscription Boxes to Get Your Creativity Flowing"
-        },
-        {
-          "id": "https://www.makeuseof.com/tag/bluetooth-headsets-battery-life/",
-          "author": "Jowi Morales",
-          "description": "Looking for a Bluetooth headset with good battery life? Here are some of the longest lasting Bluetooth headsets on the market.",
-          "link": "https://www.makeuseof.com/tag/bluetooth-headsets-battery-life/",
-          "publishedOn": "2021-10-04T10:09:08.000Z",
-          "wordCount": 2810,
-          "title": "The 7 Best Bluetooth Headsets With Good Battery Life"
-        },
-        {
-          "id": "https://www.makeuseof.com/tag/best-chromebook-convertible-laptops/",
-          "author": "Elvis Shida",
-          "description": "Looking for the best convertible Chromebook 2-in-1 laptop? We've got a list of the best models which can run Android apps!",
-          "link": "https://www.makeuseof.com/tag/best-chromebook-convertible-laptops/",
-          "publishedOn": "2021-10-04T09:43:18.000Z",
-          "wordCount": 2895,
-          "title": "The 7 Best Chromebook 2-in-1 Convertible Laptops"
-        },
-        {
-          "id": "https://www.makeuseof.com/apps-every-driver-needs-iphone-android/",
-          "author": "Tina Bailey",
-          "description": "These iPhone and Android apps are must-haves for everyone who spends a lot of time on the road.",
-          "link": "https://www.makeuseof.com/apps-every-driver-needs-iphone-android/",
-          "publishedOn": "2021-10-03T22:00:22.000Z",
-          "wordCount": 1670,
-          "title": "6 iPhone and Android Apps Every Driver Needs"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-use-google-maps-google-calendar-event-location/",
-          "author": "Keyede Erinfolami",
-          "description": "Google Calendar has a feature that lets you preview an event's location with Google Maps. Here's how to use the feature.",
-          "link": "https://www.makeuseof.com/how-to-use-google-maps-google-calendar-event-location/",
-          "publishedOn": "2021-10-03T21:31:01.000Z",
-          "wordCount": 855,
-          "title": "How to Use Google Maps With Google Calendar to Preview an Event Location"
-        },
-        {
-          "id": "https://www.makeuseof.com/fix-discord-microphone-not-working/",
-          "author": "Shan Abdul",
-          "description": "If you are having issues using your microphone on Discord, there are a few ways you can try resolve this...",
-          "link": "https://www.makeuseof.com/fix-discord-microphone-not-working/",
-          "publishedOn": "2021-10-03T21:31:00.000Z",
-          "wordCount": 1673,
-          "title": "9 Fixes to Try When Your Microphone Isn't Working on Discord"
-        },
-        {
-          "id": "https://www.makeuseof.com/use-onedrive-for-school-assignments/",
-          "author": "Natalie Stewart",
-          "description": "Microsoft OneDrive allows you to organize your files, access them 24/7 from any device, and back them up. Learn how to use OneDrive for school assignments.",
-          "link": "https://www.makeuseof.com/use-onedrive-for-school-assignments/",
-          "publishedOn": "2021-10-03T20:30:45.000Z",
-          "wordCount": 1615,
-          "title": "How to Use OneDrive for School Assignments"
-        },
-        {
-          "id": "https://www.makeuseof.com/which-amazon-echo-show-should-you-buy/",
-          "author": "Dan Price",
-          "description": "Amazon makes five different versions of the Echo Show. Which one should you buy?",
-          "link": "https://www.makeuseof.com/which-amazon-echo-show-should-you-buy/",
-          "publishedOn": "2021-10-03T20:00:55.000Z",
-          "wordCount": 1601,
-          "title": "Which Amazon Echo Show Should You Buy?"
-        },
-        {
-          "id": "https://www.makeuseof.com/online-dating-tips/",
-          "author": "Maham Asad",
-          "description": "Onlne dating can be tricky. That's why we've put together this cheat sheet packed full of tips on how to build your profile, chat to others, and more.",
-          "link": "https://www.makeuseof.com/online-dating-tips/",
-          "publishedOn": "2021-10-03T19:47:45.000Z",
-          "wordCount": 1819,
-          "title": "50+ Tips to Get the Most Out of Online Dating"
-        },
-        {
-          "id": "https://www.makeuseof.com/what-is-hacking/",
-          "author": "Anina Ot",
-          "description": "You've heard of computer hackers, but what do they actually do? How can you define &quot;hacking&quot;? Here's what you need to know.",
-          "link": "https://www.makeuseof.com/what-is-hacking/",
-          "publishedOn": "2021-10-03T18:30:21.000Z",
-          "wordCount": 1108,
-          "title": "What Is Hacking and How Did It Start?"
-        },
-        {
-          "id": "https://www.makeuseof.com/12-c-string-methods-you-should-master-today/",
-          "author": "Unnati Bamania",
-          "description": "Handle strings like a pro with these C++ methods.",
-          "link": "https://www.makeuseof.com/12-c-string-methods-you-should-master-today/",
-          "publishedOn": "2021-10-03T18:16:44.000Z",
-          "wordCount": 1367,
-          "title": "12 C++ String Methods You Should Master Today"
-        },
-        {
-          "id": "https://www.makeuseof.com/monitoring-software-leaks-screenshots/",
-          "author": "Damir Mujezinovic",
-          "description": "Stalkerware can be used to keep track of employees, family members, or anyone else. And this data can be accessed by cybercriminals too...",
-          "link": "https://www.makeuseof.com/monitoring-software-leaks-screenshots/",
-          "publishedOn": "2021-10-03T18:08:39.000Z",
-          "wordCount": 1088,
-          "title": "Monitoring Software pcTattleTale Accidentally Leaks Phone Screenshots"
-        },
-        {
-          "id": "https://www.makeuseof.com/stop-nintendo-switch-turning-off-with-tv/",
-          "author": "Ben Stegner",
-          "description": "If your Nintendo Switch turns off with your TV or causes your TV to jump between inputs, here's how to disable this behavior.",
-          "link": "https://www.makeuseof.com/stop-nintendo-switch-turning-off-with-tv/",
-          "publishedOn": "2021-10-03T18:08:38.000Z",
-          "wordCount": 905,
-          "title": "How to Stop Your Nintendo Switch From Turning Off With Your TV"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-remove-device-google-home/",
-          "author": "Samuel L. Garbett",
-          "description": "Removing a smart home device from the Google Home app takes just a few steps. We’ll walk you through the process.",
-          "link": "https://www.makeuseof.com/how-to-remove-device-google-home/",
-          "publishedOn": "2021-10-03T17:00:21.000Z",
-          "wordCount": 1221,
-          "title": "How to Remove a Device From Google Home"
-        },
-        {
-          "id": "https://www.makeuseof.com/reasons-chrome-fails-load-extensions/",
-          "author": "Shan Abdul",
-          "description": "If you've been experiencing some problems with Chrome extensions, here are seven reasons why Chrome might not be loading them properly.",
-          "link": "https://www.makeuseof.com/reasons-chrome-fails-load-extensions/",
-          "publishedOn": "2021-10-03T16:30:21.000Z",
-          "wordCount": 1580,
-          "title": "7 Reasons Why Chrome Fails to Load Extensions and How to Fix Them"
-        },
-        {
-          "id": "https://www.makeuseof.com/tips-catching-up-school-when-fallen-behind/",
-          "author": "Natalie Stewart",
-          "description": "If you've fallen behind in your schoolwork and want to catch up, here are 5 study tips that will help you catch up in online classes.",
-          "link": "https://www.makeuseof.com/tips-catching-up-school-when-fallen-behind/",
-          "publishedOn": "2021-10-03T16:25:23.000Z",
-          "wordCount": 1475,
-          "title": "5 Tips for Catching Up in School When You’ve Fallen Behind"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-turn-on-camera-flash-iphone/",
-          "author": "Ankur Thakur",
-          "description": "Want to force your iPhone to use the flash while you're taking a photo? All you need to do is hit the right toggle in the Camera app.",
-          "link": "https://www.makeuseof.com/how-to-turn-on-camera-flash-iphone/",
-          "publishedOn": "2021-10-03T16:25:22.000Z",
-          "wordCount": 1014,
-          "title": "How to Turn On the Flash for Your iPhone Camera"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-unblur-an-image/",
-          "author": "Logan Tooker",
-          "description": "Have you ever taken a picture, only to realize that it's blurry after the fact? These tools can help fix that.",
-          "link": "https://www.makeuseof.com/how-to-unblur-an-image/",
-          "publishedOn": "2021-10-03T16:25:22.000Z",
-          "wordCount": 1468,
-          "title": "How to Unblur an Image: 3 Easy Methods to Try"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-lock-apps-android/",
-          "author": "Rajesh Pandey",
-          "description": "Looking to secure an app on your Android device to stop anyone from opening it? Here's how you can lock apps for additional security.",
-          "link": "https://www.makeuseof.com/how-to-lock-apps-android/",
-          "publishedOn": "2021-10-03T15:00:53.000Z",
-          "wordCount": 1096,
-          "title": "How to Lock Apps on Android"
-        },
-        {
-          "id": "https://www.makeuseof.com/ps4-controller-drift/",
-          "author": "Nachiket Mhatre",
-          "description": "Down with the dreaded controller drift? Our beginner-friendly guide will walk you through the process of desoldering and replacing PS4 analog sticks.",
-          "link": "https://www.makeuseof.com/ps4-controller-drift/",
-          "publishedOn": "2021-10-03T14:37:20.000Z",
-          "wordCount": 2599,
-          "title": "PS4 Controller Drifting? Here's How to Fix It"
-        },
-        {
-          "id": "https://www.makeuseof.com/backdrop-ideas-for-vloggers/",
-          "author": "Nolen Jonker",
-          "description": "Try these cost-effective backdrop methods for your vlogs.",
-          "link": "https://www.makeuseof.com/backdrop-ideas-for-vloggers/",
-          "publishedOn": "2021-10-03T14:37:19.000Z",
-          "wordCount": 1497,
-          "title": "6 Backdrop Ideas to Try for Your Next Vlog"
-        },
-        {
-          "id": "https://www.makeuseof.com/best-apps-boost-mental-fitness-productivity/",
-          "author": "Lando Loic",
-          "description": "Your productivity is heavily dependent on your mental fitness, so improving it will also increase your output. Here are some apps that can help!",
-          "link": "https://www.makeuseof.com/best-apps-boost-mental-fitness-productivity/",
-          "publishedOn": "2021-10-03T13:30:21.000Z",
-          "wordCount": 1495,
-          "title": "The 6 Best Apps for Boosting Mental Fitness and Productivity"
-        },
-        {
-          "id": "https://www.makeuseof.com/claim-inactive-instagram-account/",
-          "author": "Quina Baterna",
-          "description": "Has an inactive Instagram account taken your favorite username? You might still be able to get that username. Here's how.",
-          "link": "https://www.makeuseof.com/claim-inactive-instagram-account/",
-          "publishedOn": "2021-10-03T13:15:43.000Z",
-          "wordCount": 1666,
-          "title": "How to Claim an Inactive Instagram Account (and What to Do When You Can't)"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-use-microsoft-edge-xbox-console/",
-          "author": "Amir M. Bohlooli",
-          "description": "Microsoft Edge has finally made it to the Xbox. Here's how you get it up and running.",
-          "link": "https://www.makeuseof.com/how-to-use-microsoft-edge-xbox-console/",
-          "publishedOn": "2021-10-03T13:00:12.000Z",
-          "wordCount": 1108,
-          "title": "How to Use Microsoft Edge on Your Xbox Console"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-disable-120hz-promotion-iphone/",
-          "author": "Hamlin Rozario",
-          "description": "The 120Hz ProMotion display looks amazing on the iPhone 13 Pro lineup, but it also drains the battery faster. Here's how to drop back down to 60Hz.",
-          "link": "https://www.makeuseof.com/how-to-disable-120hz-promotion-iphone/",
-          "publishedOn": "2021-10-03T12:57:06.000Z",
-          "wordCount": 933,
-          "title": "How to Turn Off 120Hz on the iPhone 13 Pro and iPhone 13 Pro Max"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-set-up-a-new-gmail-account/",
-          "author": "Megan Ellis",
-          "description": "If you want to make a Gmail account for yourself or another person, here's everything you need to know.",
-          "link": "https://www.makeuseof.com/how-to-set-up-a-new-gmail-account/",
-          "publishedOn": "2021-10-03T12:57:05.000Z",
-          "wordCount": 1098,
-          "title": "How to Set Up a New Gmail Account for Yourself or Others"
-        },
-        {
-          "id": "https://www.makeuseof.com/best-subscription-boxes-for-kids-toddlers/",
-          "author": "Simona Tolcheva",
-          "description": "If you've got toddlers or little kids, it can be hard to keep them entertained all the time. So, here are the seven best subscription boxes to help.",
-          "link": "https://www.makeuseof.com/best-subscription-boxes-for-kids-toddlers/",
-          "publishedOn": "2021-10-03T12:57:05.000Z",
-          "wordCount": 1514,
-          "title": "The 7 Best Subscription Boxes for Kids and Toddlers"
-        },
-        {
-          "id": "https://www.makeuseof.com/voice-recognition-improve/",
-          "author": "Arthur Brown",
-          "description": "You use voice recognition apps every day, but do you ever wonder what came before?",
-          "link": "https://www.makeuseof.com/voice-recognition-improve/",
-          "publishedOn": "2021-10-02T22:00:11.000Z",
-          "wordCount": 1660,
-          "title": "Voice Recognition Is Awesome, But How Did It Get So Good?"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-use-etsy-buying-selling/",
-          "author": "David Perry",
-          "description": "Etsy is a popular online platform where creative people can sell their own products. Here's everything you need to know about using Etsy.",
-          "link": "https://www.makeuseof.com/how-to-use-etsy-buying-selling/",
-          "publishedOn": "2021-10-02T21:30:21.000Z",
-          "wordCount": 1629,
-          "title": "How to Use Etsy to Buy and Sell Products"
-        },
-        {
-          "id": "https://www.makeuseof.com/best-google-slides-alternatives/",
-          "author": "Tamal Das",
-          "description": "Want to make catchy presentation slides but don't want to use Google Slides? Check out these alternatives.",
-          "link": "https://www.makeuseof.com/best-google-slides-alternatives/",
-          "publishedOn": "2021-10-02T21:25:54.000Z",
-          "wordCount": 1521,
-          "title": "The 9 Best Google Slides Alternatives for Your Presentation Needs"
-        },
-        {
-          "id": "https://www.makeuseof.com/why-your-iphone-stops-charging-at-80-percent/",
-          "author": "Keyede Erinfolami",
-          "description": "Does your iPhone stop charging at 80%? We'll explain why it does that and how to fix it.",
-          "link": "https://www.makeuseof.com/why-your-iphone-stops-charging-at-80-percent/",
-          "publishedOn": "2021-10-02T21:25:54.000Z",
-          "wordCount": 845,
-          "title": "Here's Why Your iPhone Stops Charging at 80%"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-add-icon-to-desktop-windows/",
-          "author": "M. Fahad Khawaja",
-          "description": "Windows 11 takes a little getting used to, so here's how to add icons to your desktop in Microsoft's new operating system.",
-          "link": "https://www.makeuseof.com/how-to-add-icon-to-desktop-windows/",
-          "publishedOn": "2021-10-02T19:39:42.000Z",
-          "wordCount": 1115,
-          "title": "How to Add Icons to the Desktop in Windows 11"
-        },
-        {
-          "id": "https://www.makeuseof.com/best-window-managers-for-linux/",
-          "author": "Yash Wate",
-          "description": "Make the most out of your screen's real estate on Linux by installing one of these five window managers.",
-          "link": "https://www.makeuseof.com/best-window-managers-for-linux/",
-          "publishedOn": "2021-10-02T19:39:41.000Z",
-          "wordCount": 1669,
-          "title": "The 5 Best Window Managers for Linux"
-        },
-        {
-          "id": "https://www.makeuseof.com/child-online-safety-tips/",
-          "author": "Kinza Yasar",
-          "description": "Children are prime targets for online predators and cyberbullies. These handy tips can teach parents how to keep them safe online.",
-          "link": "https://www.makeuseof.com/child-online-safety-tips/",
-          "publishedOn": "2021-10-02T19:39:41.000Z",
-          "wordCount": 1941,
-          "title": "Internet Safety: 50+ Tips to Keep Your Kids Safe Online"
-        },
-        {
-          "id": "https://www.makeuseof.com/basic-design-elements-how-to-use-them/",
-          "author": "Tamal Das",
-          "description": "New to graphic design? These elements are key to creating an appealing design.",
-          "link": "https://www.makeuseof.com/basic-design-elements-how-to-use-them/",
-          "publishedOn": "2021-10-02T18:30:21.000Z",
-          "wordCount": 1402,
-          "title": "11 Basic Design Elements and How to Use Them"
-        },
-        {
-          "id": "https://www.makeuseof.com/fixes-unable-to-open-windows-settings/",
-          "author": "Arjun Ruparelia",
-          "description": "Is your Windows settings page refusing to open? Here's how to get it back.",
-          "link": "https://www.makeuseof.com/fixes-unable-to-open-windows-settings/",
-          "publishedOn": "2021-10-02T18:17:54.000Z",
-          "wordCount": 1480,
-          "title": "5 Fixes to Try if You Can't Open Windows Settings"
-        },
-        {
-          "id": "https://www.makeuseof.com/facebook-portal-guide/",
-          "author": "Brent Dirks",
-          "description": "Let's take a closer look at the Facebook Portal lineup to help you decide which option is best for you.",
-          "link": "https://www.makeuseof.com/facebook-portal-guide/",
-          "publishedOn": "2021-10-02T18:00:30.000Z",
-          "wordCount": 1475,
-          "title": "Which Facebook Portal Device Should You Buy?"
-        },
-        {
-          "id": "https://www.makeuseof.com/what-are-adventure-games/",
-          "author": "Joe Keeley",
-          "description": "Adventure games offer deep narratives and complex puzzles and have been around for decades. Here's everything you need to know about adventure games.",
-          "link": "https://www.makeuseof.com/what-are-adventure-games/",
-          "publishedOn": "2021-10-02T17:55:47.000Z",
-          "wordCount": 1713,
-          "title": "What Are Adventure Games and How Have They Evolved?"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-stop-data-brokers-collecting-your-info/",
-          "author": "Quina Baterna",
-          "description": "Data brokers want to sell your data to the highest bidder. Here's how to stop them.",
-          "link": "https://www.makeuseof.com/how-to-stop-data-brokers-collecting-your-info/",
-          "publishedOn": "2021-10-02T17:55:46.000Z",
-          "wordCount": 1472,
-          "title": "How to Stop Data Brokers From Collecting Your Data"
-        },
-        {
-          "id": "https://www.makeuseof.com/best-plant-subscription-boxes/",
-          "author": "Simona Tolcheva",
-          "description": "If you're an avid gardener or looking to get a garden going, here are the six best plant subscription boxes for you to check out.",
-          "link": "https://www.makeuseof.com/best-plant-subscription-boxes/",
-          "publishedOn": "2021-10-02T17:00:11.000Z",
-          "wordCount": 1446,
-          "title": "The 6 Best Plant Subscription Boxes to Get Your Garden Going"
-        },
-        {
-          "id": "https://www.makeuseof.com/tag/how-to-trace-a-mobile-phone-location-with-google-latitude/",
-          "author": "Emma Garofalo",
-          "description": "We show you how to trace a phone and find its location from your Android phone. Note that you can't find a phone location by its number.",
-          "link": "https://www.makeuseof.com/tag/how-to-trace-a-mobile-phone-location-with-google-latitude/",
-          "publishedOn": "2021-10-02T16:47:08.000Z",
-          "wordCount": 1337,
-          "title": "How to Trace and Find Your Phone's Location"
-        },
-        {
-          "id": "https://www.makeuseof.com/best-tips-manage-remote-team/",
-          "author": "Tamal Das",
-          "description": "Do you find it hard to manage a team working remotely? Try these best tips for an organized remote team management.",
-          "link": "https://www.makeuseof.com/best-tips-manage-remote-team/",
-          "publishedOn": "2021-10-02T16:30:21.000Z",
-          "wordCount": 1499,
-          "title": "The 10 Best Tips to Efficiently Manage a Remote Team"
-        },
-        {
-          "id": "https://www.makeuseof.com/microsoft-office-2021-release-date-pricing/",
-          "author": "Gavin Phillips",
-          "description": "Are you going to upgrade to Office 2021?",
-          "link": "https://www.makeuseof.com/microsoft-office-2021-release-date-pricing/",
-          "publishedOn": "2021-10-02T16:19:02.000Z",
-          "wordCount": 813,
-          "title": "Microsoft Office 2021: Release Date and Pricing, Revealed"
-        },
-        {
-          "id": "https://www.makeuseof.com/contact-microsoft-support/",
-          "author": "Matthew Wallaker",
-          "description": "Stuck in a never-ending troubleshooting process? Microsoft is here to help.",
-          "link": "https://www.makeuseof.com/contact-microsoft-support/",
-          "publishedOn": "2021-10-02T16:19:02.000Z",
-          "wordCount": 1096,
-          "title": "How to Contact Microsoft Tech Support"
-        },
-        {
-          "id": "https://www.makeuseof.com/should-you-get-apple-iphone-leather-wallet/",
-          "author": "Quina Baterna",
-          "description": "Eyeing up Apple's iPhone Leather Wallet? Here's a rundown of the good and bad aspects to help you decide whether to get one.",
-          "link": "https://www.makeuseof.com/should-you-get-apple-iphone-leather-wallet/",
-          "publishedOn": "2021-10-02T16:19:02.000Z",
-          "wordCount": 1087,
-          "title": "Should You Get Apple's iPhone Leather Wallet?"
-        },
-        {
-          "id": "https://www.makeuseof.com/stop-ps5-turning-on-off-with-tv/",
-          "author": "Ben Stegner",
-          "description": "If your PS5 turns on or off based on your TV, you can disable this option to stop the annoying behavior. Here's how.",
-          "link": "https://www.makeuseof.com/stop-ps5-turning-on-off-with-tv/",
-          "publishedOn": "2021-10-02T15:00:22.000Z",
-          "wordCount": 896,
-          "title": "How to Stop Your PS5 From Turning On and Off With Your TV"
-        },
-        {
-          "id": "https://www.makeuseof.com/rate-apples-own-apps-app-store/",
-          "author": "Ben Stegner",
-          "description": "If you've ever wanted to rate Apple's apps like Maps, Podcasts, and Mail, you're in luck. Here's how to rate default iOS apps on the App Store.",
-          "link": "https://www.makeuseof.com/rate-apples-own-apps-app-store/",
-          "publishedOn": "2021-10-02T14:30:45.000Z",
-          "wordCount": 1093,
-          "title": "You Can Now Rate Apple's Own Apps on the App Store: Here's How"
-        },
-        {
-          "id": "https://www.makeuseof.com/samsung-galaxy-watch-tips/",
-          "author": "Ayush Jalan",
-          "description": "The Samsung Galaxy Watch range is great for health and fitness use, but that's not all. Here are some other features that you might not know about.",
-          "link": "https://www.makeuseof.com/samsung-galaxy-watch-tips/",
-          "publishedOn": "2021-10-02T14:30:44.000Z",
-          "wordCount": 1639,
-          "title": "10 Lesser-Known Features to Use on Your Samsung Galaxy Watch"
-        },
-        {
-          "id": "https://www.makeuseof.com/tips-tools-communicate-with-clients-teams-real-time/",
-          "author": "Tamal Das",
-          "description": "Whether you're a full-timer or freelancer, knowing how to communicate work-related matters helps you maintain a work-life balance. Find out more!",
-          "link": "https://www.makeuseof.com/tips-tools-communicate-with-clients-teams-real-time/",
-          "publishedOn": "2021-10-02T13:30:21.000Z",
-          "wordCount": 1552,
-          "title": "7 Tips and Tools to Communicate With Clients and Teams in Real-Time"
-        },
-        {
-          "id": "https://www.makeuseof.com/google-scholar-alternatives/",
-          "author": "Omega Fumba",
-          "description": "If you're trying to find educational material but can't stand Google Scholar, here are four alternative platforms you can use.",
-          "link": "https://www.makeuseof.com/google-scholar-alternatives/",
-          "publishedOn": "2021-10-02T13:00:11.000Z",
-          "wordCount": 1035,
-          "title": "4 Google Scholar Alternatives to Find Educational Material"
-        },
-        {
-          "id": "https://www.makeuseof.com/audio-bit-depth-vs-sample-rate/",
-          "author": "Arthur Brown",
-          "description": "Is bit depth important? Should you have a higher sample rate? Find out in this audio quality explainer.",
-          "link": "https://www.makeuseof.com/audio-bit-depth-vs-sample-rate/",
-          "publishedOn": "2021-10-02T12:50:50.000Z",
-          "wordCount": 1424,
-          "title": "Audio Quality Explained: Bit Depth vs. Sample Rate"
-        },
-        {
-          "id": "https://www.makeuseof.com/tiktok-starts-selling-nfts-and-heres-how-to-buy-one/",
-          "author": "Gavin Phillips",
-          "description": "TikTok is getting into NFTs, and it's bringing some of its biggest creators to the table.",
-          "link": "https://www.makeuseof.com/tiktok-starts-selling-nfts-and-heres-how-to-buy-one/",
-          "publishedOn": "2021-10-02T11:50:11.000Z",
-          "wordCount": 1084,
-          "title": "TikTok Starts Selling NFTs, and Here's How to Buy One"
-        },
-        {
-          "id": "https://www.makeuseof.com/what-are-brainmachine-interfaces/",
-          "author": "Jake Harfield",
-          "description": "They sound sci-fi, but brain-machine interfaces are already here, helping regular people.",
-          "link": "https://www.makeuseof.com/what-are-brainmachine-interfaces/",
-          "publishedOn": "2021-10-02T11:04:42.000Z",
-          "wordCount": 1429,
-          "title": "Brain-Machine Interfaces: What Are They and How Do They Work?"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-remove-background-noise-facetime-iphone/",
-          "author": "Ankur Thakur",
-          "description": "Trying to make a FaceTime call in a noisy environment? Whether it's a loud cafe or busy traffic, you can filter background noise in iOS 15.",
-          "link": "https://www.makeuseof.com/how-to-remove-background-noise-facetime-iphone/",
-          "publishedOn": "2021-10-02T10:00:21.000Z",
-          "wordCount": 909,
-          "title": "How to Remove Background Noise During a FaceTime Call in iOS 15"
-        },
-        {
-          "id": "https://www.makeuseof.com/tools-to-discover-best-twitter-threads-reddit-comments-discussions/",
-          "author": "Mihir Patkar",
-          "description": "Twitter threads and Reddit posts have some of the best stories and insights. These free tools help you discover those worth reading.",
-          "link": "https://www.makeuseof.com/tools-to-discover-best-twitter-threads-reddit-comments-discussions/",
-          "publishedOn": "2021-10-02T09:21:23.000Z",
-          "wordCount": 1476,
-          "title": "5 Tools to Discover the Best Twitter Threads, Reddit Comments, and Discussions"
-        },
-        {
-          "id": "https://www.makeuseof.com/download-ios-1501-apple-watch-unlock-bug/",
-          "author": "Brent Dirks",
-          "description": "The update fixes a nagging bug for iPhone 13 users with an Apple Watch.",
-          "link": "https://www.makeuseof.com/download-ios-1501-apple-watch-unlock-bug/",
-          "publishedOn": "2021-10-02T00:31:39.000Z",
-          "wordCount": 730,
-          "title": "Download iOS 15.0.1 Now to Fix the Apple Watch Unlock Bug"
-        },
-        {
-          "id": "https://www.makeuseof.com/ipad-mini-6-best-features/",
-          "author": "Hamlin Rozario",
-          "description": "Have you seen the new iPad mini yet? Here are all the reasons why we love it.",
-          "link": "https://www.makeuseof.com/ipad-mini-6-best-features/",
-          "publishedOn": "2021-10-01T22:00:12.000Z",
-          "wordCount": 1169,
-          "title": "5 Reasons Why We Love the iPad mini 6"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-use-pinned-tabs-in-safari-mac/",
-          "author": "Rachel Melegrito",
-          "description": "Learn how to pin tabs in Safari to make sure your favorite sites are always accessible, without cluttering the tab bar.",
-          "link": "https://www.makeuseof.com/how-to-use-pinned-tabs-in-safari-mac/",
-          "publishedOn": "2021-10-01T21:30:21.000Z",
-          "wordCount": 1047,
-          "title": "How to Quickly Access Sites in Safari on a Mac Using Pinned Tabs"
-        },
-        {
-          "id": "https://www.makeuseof.com/-best-sites-for-home-inspiration/",
-          "author": "Katie Rees",
-          "description": "Home decoration can be tricky, so here are six of the best websites to give you home inspiration and help you out.",
-          "link": "https://www.makeuseof.com/-best-sites-for-home-inspiration/",
-          "publishedOn": "2021-10-01T21:00:12.000Z",
-          "wordCount": 1513,
-          "title": "The 6 Best Sites for Home Inspiration"
-        },
-        {
-          "id": "https://www.makeuseof.com/grifthorse-new-trojan-steals-millions-from-android-users/",
-          "author": "Damir Mujezinovic",
-          "description": "Have you received an unusual notification saying you've won a gift? It might be GriftHorse, a new Trojan.",
-          "link": "https://www.makeuseof.com/grifthorse-new-trojan-steals-millions-from-android-users/",
-          "publishedOn": "2021-10-01T20:57:55.000Z",
-          "wordCount": 796,
-          "title": "GriftHorse: A New Trojan Stealing Millions of Dollars From Millions of Android Users"
-        },
-        {
-          "id": "https://www.makeuseof.com/easily-create-slide-decks-using-paste/",
-          "author": "Nikita Dhulekar",
-          "description": "Using Paste by WeTransfer, you can create presentation slides with auto-formatting and seamless collaboration. Here's how!",
-          "link": "https://www.makeuseof.com/easily-create-slide-decks-using-paste/",
-          "publishedOn": "2021-10-01T20:31:21.000Z",
-          "wordCount": 1528,
-          "title": "How to Easily Create Slide Decks Using Paste by WeTransfer"
-        },
-        {
-          "id": "https://www.makeuseof.com/youtube-tv-nbcuniversal-arguing/",
-          "author": "Dan Price",
-          "description": "YouTube TV and NBCUniversal are failing to consider the desires of customers in their ongoing dispute.",
-          "link": "https://www.makeuseof.com/youtube-tv-nbcuniversal-arguing/",
-          "publishedOn": "2021-10-01T20:21:12.000Z",
-          "wordCount": 1095,
-          "title": "What Are YouTube TV and NBCUniversal Arguing About?"
-        },
-        {
-          "id": "https://www.makeuseof.com/can-linux-run-windows-exe-files/",
-          "author": "Deepesh Sharma",
-          "description": "Linux is no doubt the best open-source alternative to Microsoft Windows, but is it possible to run Windows programs on a Linux-based OS?",
-          "link": "https://www.makeuseof.com/can-linux-run-windows-exe-files/",
-          "publishedOn": "2021-10-01T20:00:11.000Z",
-          "wordCount": 1098,
-          "title": "Can Linux Run Windows EXE Files?"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-add-m2-ssd-ps5-guide/",
-          "author": "Ben Stegner",
-          "description": "Here's a complete guide to adding more storage to your PS5 by installing an M.2 SSD in your console's expansion slot.",
-          "link": "https://www.makeuseof.com/how-to-add-m2-ssd-ps5-guide/",
-          "publishedOn": "2021-10-01T19:30:11.000Z",
-          "wordCount": 2171,
-          "title": "How to Add an M.2 SSD to Your PS5: A Step-by-Step Guide"
-        },
-        {
-          "id": "https://www.makeuseof.com/keep-track-footage-premiere-pro/",
-          "author": "Emma Garofalo",
-          "description": "",
-          "link": "https://www.makeuseof.com/keep-track-footage-premiere-pro/",
-          "publishedOn": "2021-10-01T19:00:12.000Z",
-          "wordCount": 1597,
-          "title": "5 Ways to Keep Track of Your Footage in Premiere Pro"
-        },
-        {
-          "id": "https://www.makeuseof.com/what-is-a-sim-card-things-to-know/",
-          "author": "Simon Batt",
-          "description": "SIM cards are an important part of your phone, but what do they do and how do you use them?",
-          "link": "https://www.makeuseof.com/what-is-a-sim-card-things-to-know/",
-          "publishedOn": "2021-10-01T18:46:56.000Z",
-          "wordCount": 1710,
-          "title": "What Is a SIM Card? 8 Things You Need to Know"
-        },
-        {
-          "id": "https://www.makeuseof.com/movie-directors-who-criticized-streaming-services/",
-          "author": "Simona Tolcheva",
-          "description": "Some movie directors see streaming services as eroding the purity of cinema. Let's take a look at some of the directors who hate streaming.",
-          "link": "https://www.makeuseof.com/movie-directors-who-criticized-streaming-services/",
-          "publishedOn": "2021-10-01T18:46:56.000Z",
-          "wordCount": 1438,
-          "title": "4 Movie Directors Who Have Criticized Streaming Services"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-use-apple-podcasts-personalized-recommendations/",
-          "author": "Aya Masango",
-          "description": "With iOS 15, Apple Podcasts has more features to recommend you new podcasts. Here's how to use them.",
-          "link": "https://www.makeuseof.com/how-to-use-apple-podcasts-personalized-recommendations/",
-          "publishedOn": "2021-10-01T18:30:21.000Z",
-          "wordCount": 1444,
-          "title": "How to Use Apple Podcasts' Personalized Recommendations to Find Podcasts You'll Like"
-        },
-        {
-          "id": "https://www.makeuseof.com/apple-podcasts-ios-15-features/",
-          "author": "Aya Masango",
-          "description": "iOS 15 is here and it brings a whole host of new features to Apple Podcasts. Here's how to use them all.",
-          "link": "https://www.makeuseof.com/apple-podcasts-ios-15-features/",
-          "publishedOn": "2021-10-01T18:16:44.000Z",
-          "wordCount": 1466,
-          "title": "What's New in iOS 15's Apple Podcasts Update?"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-create-and-use-smart-albums-on-mac/",
-          "author": "Dilum Senevirathne",
-          "description": "Keep your photo library organized by learning how to create Smart Albums in the Photos app on your Mac.",
-          "link": "https://www.makeuseof.com/how-to-create-and-use-smart-albums-on-mac/",
-          "publishedOn": "2021-10-01T17:30:21.000Z",
-          "wordCount": 1142,
-          "title": "How to Create and Use Smart Albums in Photos on a Mac"
-        },
-        {
-          "id": "https://www.makeuseof.com/facebook-smartwatch-what-we-know-so-far/",
-          "author": "Syed Hammad Mahmood",
-          "description": "Facebook is reportedly planning to introduce another hardware product. Here’s what we know so far about its rumored smartwatch.",
-          "link": "https://www.makeuseof.com/facebook-smartwatch-what-we-know-so-far/",
-          "publishedOn": "2021-10-01T17:00:11.000Z",
-          "wordCount": 1109,
-          "title": "Facebook Is Secretly Developing a Smartwatch: What We Know So Far"
-        },
-        {
-          "id": "https://www.makeuseof.com/what-is-apple-glass/",
-          "author": "Jake Harfield",
-          "description": "In this article, we’ll cover everything that’s been leaked about Apple’s new smart glasses, including their rumored design, capabilities, and cost.",
-          "link": "https://www.makeuseof.com/what-is-apple-glass/",
-          "publishedOn": "2021-10-01T16:45:45.000Z",
-          "wordCount": 1478,
-          "title": "What Is Apple Glass? What We Know About It So Far"
-        },
-        {
-          "id": "https://www.makeuseof.com/improve-productivity-using-asynchronous-communication/",
-          "author": "Lando Loic",
-          "description": "Synchronous (real-time) is the standard of workplace collaboration, but it can be a bit unproductive. Here's why asynchronous communication is better.",
-          "link": "https://www.makeuseof.com/improve-productivity-using-asynchronous-communication/",
-          "publishedOn": "2021-10-01T16:30:22.000Z",
-          "wordCount": 1493,
-          "title": "How to Improve Your Productivity Using Asynchronous Communication"
-        },
-        {
-          "id": "https://www.makeuseof.com/speed-up-microsoft-onenote/",
-          "author": "Natalie Stewart",
-          "description": "Is OneNote taking its sweet time to get anything done? Here are some tweaks you can make to speed up Microsoft OneNote.",
-          "link": "https://www.makeuseof.com/speed-up-microsoft-onenote/",
-          "publishedOn": "2021-10-01T16:15:51.000Z",
-          "wordCount": 1462,
-          "title": "6 Ways to Speed Up Microsoft OneNote"
-        },
-        {
-          "id": "https://www.makeuseof.com/what-does-faang-stand-for/",
-          "author": "Carly Chatfield",
-          "description": "The acronym FAANG is often mentioned alongside discussions about stocks and tech. Here, we'll take a look at what the acronym actually means.",
-          "link": "https://www.makeuseof.com/what-does-faang-stand-for/",
-          "publishedOn": "2021-10-01T16:01:02.000Z",
-          "wordCount": 767,
-          "title": "What Does FAANG Stand For?"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-find-out-what-country-your-iphone-was-manufactured-in/",
-          "author": "Quina Baterna",
-          "description": "Need to know where your iPhone was made? We'll show you how.",
-          "link": "https://www.makeuseof.com/how-to-find-out-what-country-your-iphone-was-manufactured-in/",
-          "publishedOn": "2021-10-01T15:00:16.000Z",
-          "wordCount": 1028,
-          "title": "How to Find Out What Country Your iPhone Was Manufactured In?"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-get-starz-free-trial/",
-          "author": "Dan Price",
-          "description": "Want to watch the latest Starz shows for free? Grab a trial today and cancel it before you pay a dime.",
-          "link": "https://www.makeuseof.com/how-to-get-starz-free-trial/",
-          "publishedOn": "2021-10-01T14:30:21.000Z",
-          "wordCount": 1581,
-          "title": "How to Get a Starz Free Trial (and Cancel Before You're Charged)"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-install-and-set-up-pm2-on-linux-servers/",
-          "author": "Nitin Ranganath",
-          "description": "Keep your Node.js applications up and running forever by installing PM2 on the production server.",
-          "link": "https://www.makeuseof.com/how-to-install-and-set-up-pm2-on-linux-servers/",
-          "publishedOn": "2021-10-01T14:01:05.000Z",
-          "wordCount": 1055,
-          "title": "How to Install and Set Up PM2 on Linux Servers"
-        },
-        {
-          "id": "https://www.makeuseof.com/populele-2-review/",
-          "author": "Christian Cawley",
-          "description": "It's light, easy to play, and LEDs in the neck sync with an instructive mobile app telling you exactly what to play.",
-          "link": "https://www.makeuseof.com/populele-2-review/",
-          "publishedOn": "2021-10-01T13:55:21.000Z",
-          "wordCount": 2059,
-          "title": "Want to Learn Ukulele? The Populele 2 Makes It Easier Than You Think"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-use-wave-accounting-for-small-businesses/",
-          "author": "David Perry",
-          "description": "Waves Accounting is a bookkeeping software that saves you time and money. Here's how to use it.",
-          "link": "https://www.makeuseof.com/how-to-use-wave-accounting-for-small-businesses/",
-          "publishedOn": "2021-10-01T13:30:21.000Z",
-          "wordCount": 1916,
-          "title": "How to Use Wave Accounting for Small Businesses"
-        },
-        {
-          "id": "https://www.makeuseof.com/sony-acquires-bluepoint-games/",
-          "author": "Soham De",
-          "description": "Sony has yet another software studio under its wing; Bluepoint Games. So what does this mean for the PlayStation game library?",
-          "link": "https://www.makeuseof.com/sony-acquires-bluepoint-games/",
-          "publishedOn": "2021-10-01T13:10:21.000Z",
-          "wordCount": 911,
-          "title": "Sony Acquires Bluepoint Games to Make Its Remasters and Remakes Even Better"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-add-passcode-nintendo-switch/",
-          "author": "Quina Baterna",
-          "description": "Did you know you can create a passcode for your Nintendo Switch? Well you can, and here's how to do it.",
-          "link": "https://www.makeuseof.com/how-to-add-passcode-nintendo-switch/",
-          "publishedOn": "2021-10-01T13:00:01.000Z",
-          "wordCount": 1093,
-          "title": "How to Add a Passcode to Your Nintendo Switch"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-much-does-the-average-computer-science-graduate-earn/",
-          "author": "Marcus Mears III",
-          "description": "Computer Science is a field of high demand in today's world. How much does the average graduate earn, and which jobs pay well?",
-          "link": "https://www.makeuseof.com/how-much-does-the-average-computer-science-graduate-earn/",
-          "publishedOn": "2021-10-01T12:31:54.000Z",
-          "wordCount": 1486,
-          "title": "How Much Does The Average Computer Science Graduate Earn?"
-        },
-        {
-          "id": "https://www.makeuseof.com/is-nextdoor-safe-or-a-security-risk/",
-          "author": "Elliot Nesbo",
-          "description": "Nextdoor touts itself as the social network for neighborhoods, but should you be concerned about the platform's security?",
-          "link": "https://www.makeuseof.com/is-nextdoor-safe-or-a-security-risk/",
-          "publishedOn": "2021-10-01T12:15:11.000Z",
-          "wordCount": 1394,
-          "title": "Is Nextdoor Safe or a Security Risk?"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-use-the-ask-alexa-widget-on-your-iphone/",
-          "author": "Tina Bailey",
-          "description": "Get even more use out of Alexa by adding the Ask Alexa widget to your iPhone Home Screen.",
-          "link": "https://www.makeuseof.com/how-to-use-the-ask-alexa-widget-on-your-iphone/",
-          "publishedOn": "2021-10-01T12:01:46.000Z",
-          "wordCount": 890,
-          "title": "How to Use the &quot;Ask Alexa&quot; Widget on Your iPhone"
-        },
-        {
-          "id": "https://www.makeuseof.com/what-are-atomic-swaps-in-crypto/",
-          "author": "Jerome Davidson",
-          "description": "Want to swap your Bitcoin for Ethereum? You can't. Not without an atomic swap, at least.",
-          "link": "https://www.makeuseof.com/what-are-atomic-swaps-in-crypto/",
-          "publishedOn": "2021-10-01T11:30:42.000Z",
-          "wordCount": 1142,
-          "title": "What Are Atomic Swaps in Crypto?"
-        },
-        {
-          "id": "https://www.makeuseof.com/finder-file-management-tips-mac/",
-          "author": "Matt Moore",
-          "description": "Take your file management to the next level on a Mac with these useful Finder tips.",
-          "link": "https://www.makeuseof.com/finder-file-management-tips-mac/",
-          "publishedOn": "2021-10-01T11:00:54.000Z",
-          "wordCount": 1766,
-          "title": "10 Tips for Managing Files or Folders in Finder on Your Mac"
-        },
-        {
-          "id": "https://www.makeuseof.com/tag/terminal-commands-chromebook/",
-          "author": "Dan Price",
-          "description": "Your Chromebook has its own terminal, the Crosh. We show you the essential Chromebook terminal commands you should know.",
-          "link": "https://www.makeuseof.com/tag/terminal-commands-chromebook/",
-          "publishedOn": "2021-10-01T09:30:15.000Z",
-          "wordCount": 1754,
-          "title": "18 Crosh Terminal Commands All Chromebook Users Should Know"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-manually-or-automatically-update-apps-iphone/",
-          "author": "Dilum Senevirathne",
-          "description": "It's important to keep the apps on your iPhone up to date to make sure they work as well as possible. Luckily, that's easy to do!",
-          "link": "https://www.makeuseof.com/how-to-manually-or-automatically-update-apps-iphone/",
-          "publishedOn": "2021-09-30T22:00:12.000Z",
-          "wordCount": 909,
-          "title": "How to Automatically or Manually Update the Apps on Your iPhone"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-buy-amazon-astro/",
-          "author": "Brent Dirks",
-          "description": "We’ll show you the steps you need to take to request an invitation to purchase Amazon’s home robot when it is available for sale later this year.",
-          "link": "https://www.makeuseof.com/how-to-buy-amazon-astro/",
-          "publishedOn": "2021-09-30T21:30:22.000Z",
-          "wordCount": 812,
-          "title": "How to Request an Invite to Buy the New Amazon Astro Home Robot"
-        },
-        {
-          "id": "https://www.makeuseof.com/when-will-flying-cars-be-ready/",
-          "author": "Ayush Jalan",
-          "description": "Flying cars sound incredible, but would you trust your fellow motorists with one?",
-          "link": "https://www.makeuseof.com/when-will-flying-cars-be-ready/",
-          "publishedOn": "2021-09-30T21:30:21.000Z",
-          "wordCount": 1729,
-          "title": "When Will Flying Cars Finally Be Ready for Public Society?"
-        },
-        {
-          "id": "https://www.makeuseof.com/invaluable-benefits-switching-to-linux/",
-          "author": "Bertel King",
-          "description": "Linux continues to provide a new experience to its users. But are there any advantages of choosing Linux over other operating systems?",
-          "link": "https://www.makeuseof.com/invaluable-benefits-switching-to-linux/",
-          "publishedOn": "2021-09-30T21:00:12.000Z",
-          "wordCount": 1689,
-          "title": "The 4 Invaluable Benefits of Switching to Linux"
-        },
-        {
-          "id": "https://www.makeuseof.com/nsfw-ads-us-government-websites/",
-          "author": "Damir Mujezinovic",
-          "description": "Stumbled across unsuitable adverts on US government websites? You're not alone, but why are spammy adult ads appearing on govt sites?",
-          "link": "https://www.makeuseof.com/nsfw-ads-us-government-websites/",
-          "publishedOn": "2021-09-30T20:45:38.000Z",
-          "wordCount": 832,
-          "title": "Seeing NSFW Ads on Government Sites? Here's Why"
-        },
-        {
-          "id": "https://www.makeuseof.com/spell-grammar-check-excel/",
-          "author": "David Perry",
-          "description": "Enabling the spell and grammar checker in Excel will ensure your work is perfect without mistakes. Here's how to do it.",
-          "link": "https://www.makeuseof.com/spell-grammar-check-excel/",
-          "publishedOn": "2021-09-30T20:30:21.000Z",
-          "wordCount": 1909,
-          "title": "How to Spell and Grammar Check in Excel"
-        },
-        {
-          "id": "https://www.makeuseof.com/ios-15-apple-music-features/",
-          "author": "Aya Masango",
-          "description": "Thanks to iOS 15, Apple Music comes with some great new features to help discover and share tunes. Here's what they are and how to use them.",
-          "link": "https://www.makeuseof.com/ios-15-apple-music-features/",
-          "publishedOn": "2021-09-30T20:00:22.000Z",
-          "wordCount": 1557,
-          "title": "4 New iOS 15 Features to Try in Apple Music"
-        },
-        {
-          "id": "https://www.makeuseof.com/java-date-and-time-api-features/",
-          "author": "Kadeisha Kean",
-          "description": "Dealing with dates and times can be tricky since there are many edge cases and complexities. Fortunately the Java 8 date and time API is here to help.",
-          "link": "https://www.makeuseof.com/java-date-and-time-api-features/",
-          "publishedOn": "2021-09-30T20:00:22.000Z",
-          "wordCount": 1900,
-          "title": "5 Useful Features of the Java 8 Date and Time API"
-        },
-        {
-          "id": "https://www.makeuseof.com/javascript-map-set-data-structures/",
-          "author": "Unnati Bamania",
-          "description": "The set and map data structures are fundamental to computer programming. Learn how to use JavaScript's native implementations and simplify your code.",
-          "link": "https://www.makeuseof.com/javascript-map-set-data-structures/",
-          "publishedOn": "2021-09-30T19:32:57.000Z",
-          "wordCount": 1189,
-          "title": "Understanding Maps and Sets in JavaScript"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-clean-your-desktop-pc/",
-          "author": "Ben Stegner",
-          "description": "Over time, dust builds up inside of your desktop computer. Here's how to clean it out and keep your PC running optimally.",
-          "link": "https://www.makeuseof.com/how-to-clean-your-desktop-pc/",
-          "publishedOn": "2021-09-30T19:15:11.000Z",
-          "wordCount": 1907,
-          "title": "How to Clean Your Desktop PC"
-        },
-        {
-          "id": "https://www.makeuseof.com/book-summary-apps-android-iphone/",
-          "author": "Shreeya Deshpande",
-          "description": "It can be hard to find the time to read. Fortunately, these book summary apps will give you all the knowledge you need in just 15 minutes.",
-          "link": "https://www.makeuseof.com/book-summary-apps-android-iphone/",
-          "publishedOn": "2021-09-30T19:00:12.000Z",
-          "wordCount": 1890,
-          "title": "The 7 Best Book Summary Apps for Android and iPhone"
-        },
-        {
-          "id": "https://www.makeuseof.com/brightness-slider-missing/",
-          "author": "Matthew Wallaker",
-          "description": "Is Windows hiding the brightness slider from you? Here’s how to fix it.",
-          "link": "https://www.makeuseof.com/brightness-slider-missing/",
-          "publishedOn": "2021-09-30T18:30:21.000Z",
-          "wordCount": 927,
-          "title": "Is the Brightness Slider Missing From Your Taskbar? Here's How to Fix It"
-        },
-        {
-          "id": "https://www.makeuseof.com/old-phones-lose-whatsapp-support-affected-devices/",
-          "author": "Ayush Jalan",
-          "description": "If you're still using an iPhone 4S or an old Android phone, you'll soon no longer be able to access WhatsApp. Here's what you need to know.",
-          "link": "https://www.makeuseof.com/old-phones-lose-whatsapp-support-affected-devices/",
-          "publishedOn": "2021-09-30T18:15:12.000Z",
-          "wordCount": 820,
-          "title": "WhatsApp Will Stop Working on Many Phones From November 1st: Is Your Device Affected?"
-        },
-        {
-          "id": "https://www.makeuseof.com/key-tips-get-more-from-apple-reminders-iphone/",
-          "author": "Muslima Akbar",
-          "description": "Everyone who uses Apple Reminders on iOS needs to know about these cool features and tricks that make the app much more useful.",
-          "link": "https://www.makeuseof.com/key-tips-get-more-from-apple-reminders-iphone/",
-          "publishedOn": "2021-09-30T18:02:06.000Z",
-          "wordCount": 1583,
-          "title": "10 Key Tips to Get More From Apple Reminders on iPhone"
-        },
-        {
-          "id": "https://www.makeuseof.com/windows-10-full-ownership-registry/",
-          "author": "Arjun Ruparelia",
-          "description": "If you're trying to edit important registry files, Windows 10 may stop you. Here's how to get the right permissions to edit the Windows 10 registry.",
-          "link": "https://www.makeuseof.com/windows-10-full-ownership-registry/",
-          "publishedOn": "2021-09-30T17:45:21.000Z",
-          "wordCount": 1099,
-          "title": "How to Take Full Ownership of Registry Keys in Windows 10"
-        },
-        {
-          "id": "https://www.makeuseof.com/essential-graphic-design-terms/",
-          "author": "Tamal Das",
-          "description": "If you're just starting out in the world of graphic design, make sure you're familiar with these terms.",
-          "link": "https://www.makeuseof.com/essential-graphic-design-terms/",
-          "publishedOn": "2021-09-30T17:30:28.000Z",
-          "wordCount": 1559,
-          "title": "18 Essential Graphic Design Terms You Need to Know"
-        },
-        {
-          "id": "https://www.makeuseof.com/windows-10-lesser-known-apps/",
-          "author": "Neeraj Paruthi",
-          "description": "There are plenty of handy Windows apps out there, but not all of them have their fair share of time in the limelight.",
-          "link": "https://www.makeuseof.com/windows-10-lesser-known-apps/",
-          "publishedOn": "2021-09-30T17:16:11.000Z",
-          "wordCount": 1808,
-          "title": "6 Lesser-Known Apps to Enhance Your Windows 10 Experience"
-        },
-        {
-          "id": "https://www.makeuseof.com/tag/buy-kindle-just-use-free-app/",
-          "author": "Brittni Devlin",
-          "description": "Do you really need a Kindle device when you can just use the free Kindle app? Ereaders have their use, but perhaps you don't need one. Let's compare.",
-          "link": "https://www.makeuseof.com/tag/buy-kindle-just-use-free-app/",
-          "publishedOn": "2021-09-30T17:05:23.000Z",
-          "wordCount": 1505,
-          "title": "Kindle Device vs. Free Kindle App: Which One Should You Use?"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-use-pokemon-tv-app-nintendo-switch/",
-          "author": "Sergio Velasquez",
-          "description": "Want to watch the latest adventures of Pikachu and pals? You can, right on your Switch with Pokemon TV!",
-          "link": "https://www.makeuseof.com/how-to-use-pokemon-tv-app-nintendo-switch/",
-          "publishedOn": "2021-09-30T17:00:44.000Z",
-          "wordCount": 820,
-          "title": "How to Use the Pokemon TV App on Your Nintendo Switch"
-        },
-        {
-          "id": "https://www.makeuseof.com/google-my-activity-android/",
-          "author": "Ayush Jalan",
-          "description": "You can manage your recent Google search history and more through the My Activity section on your Android phone. Here's how to find it.",
-          "link": "https://www.makeuseof.com/google-my-activity-android/",
-          "publishedOn": "2021-09-30T16:45:21.000Z",
-          "wordCount": 768,
-          "title": "How to Access Google &quot;My Activity&quot; on Android"
-        },
-        {
-          "id": "https://www.makeuseof.com/reasons-why-microsoft-teams-better-than-slack/",
-          "author": "David Perry",
-          "description": "Microsoft Teams and Slack are two giants of the collaboration tool space, but Teams could be better suited to your needs. Find out why!",
-          "link": "https://www.makeuseof.com/reasons-why-microsoft-teams-better-than-slack/",
-          "publishedOn": "2021-09-30T16:31:21.000Z",
-          "wordCount": 1575,
-          "title": "5 Reasons Why Microsoft Teams Is Better Than Slack"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-cancel-youtube-premium/",
-          "author": "Sergio Velasquez",
-          "description": "Had enough of YouTube Premium? Here's how to cancel your subscription quickly and simply across a range of devices.",
-          "link": "https://www.makeuseof.com/how-to-cancel-youtube-premium/",
-          "publishedOn": "2021-09-30T16:16:11.000Z",
-          "wordCount": 878,
-          "title": "How to Cancel YouTube Premium"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-set-up-back-up-authenticator-codes-google-account/",
-          "author": "Alvin Wanjala",
-          "description": "If you've got a Google account, here's how you can add an extra layer of security to your account by setting up back-up authenticator codes.",
-          "link": "https://www.makeuseof.com/how-to-set-up-back-up-authenticator-codes-google-account/",
-          "publishedOn": "2021-09-30T16:00:32.000Z",
-          "wordCount": 969,
-          "title": "How to Set Up Back-Up Authenticator Codes for Your Google Account"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-fix-troubleshoot-widgets-iphone-ipad/",
-          "author": "Dilum Senevirathne",
-          "description": "Widgets not working on your iPhone or iPad? Just follow these quick troubleshooting steps to fix them.",
-          "link": "https://www.makeuseof.com/how-to-fix-troubleshoot-widgets-iphone-ipad/",
-          "publishedOn": "2021-09-30T15:45:21.000Z",
-          "wordCount": 1598,
-          "title": "10 Quick Fixes for When Widgets Aren't Working on Your iPhone or iPad"
-        },
-        {
-          "id": "https://www.makeuseof.com/best-handheld-vacuums/",
-          "author": "Brent Dirks",
-          "description": "Cleaning up crumbs and pet hair is no longer a chore when you've got a handheld vacuum to hand.",
-          "link": "https://www.makeuseof.com/best-handheld-vacuums/",
-          "publishedOn": "2021-09-30T15:35:21.000Z",
-          "wordCount": 2406,
-          "title": "The 7 Best Handheld Vacuums"
-        },
-        {
-          "id": "https://www.makeuseof.com/ps4-controller-battery-replacement-guide-save-your-dualshock-4-from-the-landfill/",
-          "author": "Nachiket Mhatre",
-          "description": "Don’t discard your unresponsive DualShock 4 controller just yet. Here's how to replace a dead battery and give the old device a new lease of life.",
-          "link": "https://www.makeuseof.com/ps4-controller-battery-replacement-guide-save-your-dualshock-4-from-the-landfill/",
-          "publishedOn": "2021-09-30T15:30:21.000Z",
-          "wordCount": 1804,
-          "title": "PS4 Controller Battery Replacement Guide: Save Your DualShock 4 From the Landfill"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-edit-passwords-in-keychain-access-mac/",
-          "author": "Shujaa Imran",
-          "description": "Do you need to find or update a saved password on your Mac? Here's how to use Keychain Access to do it.",
-          "link": "https://www.makeuseof.com/how-to-edit-passwords-in-keychain-access-mac/",
-          "publishedOn": "2021-09-30T15:15:11.000Z",
-          "wordCount": 928,
-          "title": "How to Find and Edit Passwords in Keychain Access on a Mac"
-        },
-        {
-          "id": "https://www.makeuseof.com/learn-more-about-love-language-love-nudge-app/",
-          "author": "Sarah Chaney",
-          "description": "The Love Nudge app is the perfect way to learn more about love languages and to create stronger relationships.",
-          "link": "https://www.makeuseof.com/learn-more-about-love-language-love-nudge-app/",
-          "publishedOn": "2021-09-30T15:00:12.000Z",
-          "wordCount": 1302,
-          "title": "What's Your Love Language? Find Out in the Love Nudge App"
-        },
-        {
-          "id": "https://www.makeuseof.com/ways-to-set-up-a-test-site-for-wordpress-staging/",
-          "author": "Christian Cawley",
-          "description": "Making changes to your WordPress blog? Don't make them on the live site - here are six ways to make a staging site for testing changes on WordPress.",
-          "link": "https://www.makeuseof.com/ways-to-set-up-a-test-site-for-wordpress-staging/",
-          "publishedOn": "2021-09-30T14:46:21.000Z",
-          "wordCount": 1483,
-          "title": "6 Ways to Set Up a Test Site for WordPress Staging"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-split-excel-cells-using-a-delimiter/",
-          "author": "Hirangi Pandya",
-          "description": "The first step in working with data in Excel is organizing it. Learn the basics of delimiters and how they help to declutter a spreadsheet.",
-          "link": "https://www.makeuseof.com/how-to-split-excel-cells-using-a-delimiter/",
-          "publishedOn": "2021-09-30T14:30:22.000Z",
-          "wordCount": 1651,
-          "title": "How to Split Excel Cells Using a Delimiter"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-change-clubhouse-username/",
-          "author": "John Awa-abuon",
-          "description": "Your first Clubhouse username isn't permanent -- you can change it if you want to. Here's how.",
-          "link": "https://www.makeuseof.com/how-to-change-clubhouse-username/",
-          "publishedOn": "2021-09-30T14:16:21.000Z",
-          "wordCount": 866,
-          "title": "How to Change Your Clubhouse Username"
-        },
-        {
-          "id": "https://www.makeuseof.com/tag/netflix-amazon-video-plex-raspberry-pi/",
-          "author": "Christian Cawley",
-          "description": "Here's how to watch Disney Plus, Netflix, Amazon Video, and Plex on your Raspberry Pi to turn it into a legal streaming media center!",
-          "link": "https://www.makeuseof.com/tag/netflix-amazon-video-plex-raspberry-pi/",
-          "publishedOn": "2021-09-30T14:05:12.000Z",
-          "wordCount": 2338,
-          "title": "How to Watch Disney+, Netflix, Prime Video, and Plex With Raspberry Pi"
-        },
-        {
-          "id": "https://www.makeuseof.com/what-shovelware-gaming/",
-          "author": "Ste Knight",
-          "description": "Ever bought a game only to discover you've wasted your money? You may have bought shovelware; here's how to spot it.",
-          "link": "https://www.makeuseof.com/what-shovelware-gaming/",
-          "publishedOn": "2021-09-30T14:00:12.000Z",
-          "wordCount": 1554,
-          "title": "What Is Shovelware in Gaming?"
-        },
-        {
-          "id": "https://www.makeuseof.com/elevoc-clear-earbuds-review/",
-          "author": "Gavin Phillips",
-          "description": "Elevoc's Clear earbuds are an excellent entry-level ANC option that won't destroy your bank balance.",
-          "link": "https://www.makeuseof.com/elevoc-clear-earbuds-review/",
-          "publishedOn": "2021-09-30T13:55:21.000Z",
-          "wordCount": 2091,
-          "title": "Elevoc Clear Earbuds Review: Excellent ANC at Budget-Busting Price"
-        },
-        {
-          "id": "https://www.makeuseof.com/tips-for-cleaning-instagram-inbox/",
-          "author": "Quina Baterna",
-          "description": "Make cleaning your cluttered Instagram inbox easier with these tips.",
-          "link": "https://www.makeuseof.com/tips-for-cleaning-instagram-inbox/",
-          "publishedOn": "2021-09-30T13:47:48.000Z",
-          "wordCount": 1803,
-          "title": "6 Tips for Cleaning Your Instagram Inbox"
-        },
-        {
-          "id": "https://www.makeuseof.com/best-features-harvest-time-tracking-reporting-billing-projects/",
-          "author": "Tamal Das",
-          "description": "Harvest is an app that allows you to manage your time and expenses, from signing in to tracking them. Here are its best features to use!",
-          "link": "https://www.makeuseof.com/best-features-harvest-time-tracking-reporting-billing-projects/",
-          "publishedOn": "2021-09-30T13:30:11.000Z",
-          "wordCount": 1619,
-          "title": "The 5 Best Features of Harvest for Time Tracking, Reporting, and Billing of Projects"
-        },
-        {
-          "id": "https://www.makeuseof.com/best-group-chat-app-android/",
-          "author": "Manuviraj Godara",
-          "description": "Text chat, voice chat, video chat---no matter what you're looking for, you have a group chat app available for it.",
-          "link": "https://www.makeuseof.com/best-group-chat-app-android/",
-          "publishedOn": "2021-09-30T13:16:28.000Z",
-          "wordCount": 1571,
-          "title": "The 5 Best Group Chat Apps for Android"
-        },
-        {
-          "id": "https://www.makeuseof.com/are-your-posts-really-permanent/",
-          "author": "Shannon Flynn",
-          "description": "If you delete online content, does it disappear? It's not that simple. Here's what you need to know about content deletion on social media and beyond.",
-          "link": "https://www.makeuseof.com/are-your-posts-really-permanent/",
-          "publishedOn": "2021-09-30T13:00:22.000Z",
-          "wordCount": 1807,
-          "title": "Are Your Online Posts Really Permanent?"
-        },
-        {
-          "id": "https://www.makeuseof.com/old-android-phones-will-lose-google-apps-support/",
-          "author": "Ayush Jalan",
-          "description": "Google is ending support for older versions of Android. Here's how to see if your device is affected, and what to do if it is.",
-          "link": "https://www.makeuseof.com/old-android-phones-will-lose-google-apps-support/",
-          "publishedOn": "2021-09-30T12:46:45.000Z",
-          "wordCount": 1054,
-          "title": "Google Apps Will No Longer Work on Old Android Phones: Is Yours Affected?"
-        },
-        {
-          "id": "https://www.makeuseof.com/criteria-when-choosing-online-course/",
-          "author": "Syed Hammad Mahmood",
-          "description": "If you're trying to choose an online course, here are eight criteria you can use to make sure you're making the right choice,",
-          "link": "https://www.makeuseof.com/criteria-when-choosing-online-course/",
-          "publishedOn": "2021-09-30T12:30:21.000Z",
-          "wordCount": 1487,
-          "title": "8 Criteria to Consider When Choosing an Online Course"
-        },
-        {
-          "id": "https://www.makeuseof.com/creepy-chan-meme-girl-became-a-model/",
-          "author": "Amy Cottreau-Moore",
-          "description": "Here's the story of Creepy Chan, who turned her virality as a meme into a modeling career.",
-          "link": "https://www.makeuseof.com/creepy-chan-meme-girl-became-a-model/",
-          "publishedOn": "2021-09-30T12:15:44.000Z",
-          "wordCount": 1083,
-          "title": "Who Is Creepy Chan? How a 4chan Meme Girl Became a Model"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-use-portrait-mode-video-calls-facetime-iphone/",
-          "author": "Ankur Thakur",
-          "description": "Take your video calling to the next level by blurring the background with Portrait mode in FaceTime and other video conference apps in iOS 15.",
-          "link": "https://www.makeuseof.com/how-to-use-portrait-mode-video-calls-facetime-iphone/",
-          "publishedOn": "2021-09-30T12:00:11.000Z",
-          "wordCount": 939,
-          "title": "How to Blur the Background for Video Calls With Portrait Mode in iOS 15"
-        },
-        {
-          "id": "https://www.makeuseof.com/key-ai-facts/",
-          "author": "Katie Rees",
-          "description": "The idea of AI has been around for much longer than you might think!",
-          "link": "https://www.makeuseof.com/key-ai-facts/",
-          "publishedOn": "2021-09-30T11:30:21.000Z",
-          "wordCount": 1660,
-          "title": "5 Key Facts About AI: How Long Has It Been Around?"
-        },
-        {
-          "id": "https://www.makeuseof.com/what-is-keychain-password-mac/",
-          "author": "Jessica Lanman",
-          "description": "Does your Mac keep telling you to enter the keychain password? We'll explain what your keychain password is and how to reset it.",
-          "link": "https://www.makeuseof.com/what-is-keychain-password-mac/",
-          "publishedOn": "2021-09-30T11:00:24.000Z",
-          "wordCount": 1631,
-          "title": "What Is the Keychain Password on a Mac?"
-        },
-        {
-          "id": "https://www.makeuseof.com/best-ethernet-cables-gaming/",
-          "author": "Brady Klinger-Meyers",
-          "description": "Ensure you have a lag-free gaming experience by investing in a quality ethernet cable.",
-          "link": "https://www.makeuseof.com/best-ethernet-cables-gaming/",
-          "publishedOn": "2021-09-30T10:10:21.000Z",
-          "wordCount": 2614,
-          "title": "The 7 Best Ethernet Cables for Gaming"
-        },
-        {
-          "id": "https://www.makeuseof.com/best-digital-fertility-monitors/",
-          "author": "Jowi Morales",
-          "description": "Increase your chances when trying to conceive by tracking your ovulation cycle with a digital fertility monitor.",
-          "link": "https://www.makeuseof.com/best-digital-fertility-monitors/",
-          "publishedOn": "2021-09-30T09:40:21.000Z",
-          "wordCount": 2575,
-          "title": "The 7 Best Digital Fertility Monitors"
-        },
-        {
-          "id": "https://www.makeuseof.com/new-malware-strain-stealing-gaming-accounts/",
-          "author": "Simon Batt",
-          "description": "One bad download could cost you your entire library... but there is a way to stay safe.",
-          "link": "https://www.makeuseof.com/new-malware-strain-stealing-gaming-accounts/",
-          "publishedOn": "2021-09-29T22:46:21.000Z",
-          "wordCount": 1172,
-          "title": "A New Malware Strain Is Stealing Gaming Accounts: Here's How"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-use-voiceover-iphone/",
-          "author": "Hiba Fiaz",
-          "description": "The VoiceOver feature makes it possible to use your iPhone even if you can't see what's on the screen. Here's how to get started with it.",
-          "link": "https://www.makeuseof.com/how-to-use-voiceover-iphone/",
-          "publishedOn": "2021-09-29T22:00:56.000Z",
-          "wordCount": 1568,
-          "title": "How to Master the VoiceOver Feature to Use Your iPhone Without Looking at It"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-use-spoken-content-mac/",
-          "author": "Jessica Lanman",
-          "description": "Apple's Spoken Content feature lets your Mac read aloud from documents, PDFs, websites, and more. Here's how to make the most of it.",
-          "link": "https://www.makeuseof.com/how-to-use-spoken-content-mac/",
-          "publishedOn": "2021-09-29T21:45:21.000Z",
-          "wordCount": 1703,
-          "title": "How to Use Spoken Content to Make Your Mac Read Out Loud to You"
-        },
-        {
-          "id": "https://www.makeuseof.com/what-we-want-sony-a7-iv/",
-          "author": "Hamlin Rozario",
-          "description": "The A7 IV is Sony's latest addition to the A7 series, but will it be worth it? Here are the key features it needs to stand out.",
-          "link": "https://www.makeuseof.com/what-we-want-sony-a7-iv/",
-          "publishedOn": "2021-09-29T21:10:42.000Z",
-          "wordCount": 1180,
-          "title": "5 Things We Want to See in the Sony A7 IV"
-        },
-        {
-          "id": "https://www.makeuseof.com/best-beauty-subscription-boxes/",
-          "author": "Omega Fumba",
-          "description": "For those that are keen to keep up-to-date with the latest beauty products, here are the nine best beauty subscription boxes.",
-          "link": "https://www.makeuseof.com/best-beauty-subscription-boxes/",
-          "publishedOn": "2021-09-29T21:00:44.000Z",
-          "wordCount": 1455,
-          "title": "The 9 Best Beauty Subscription Boxes"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-optimize-todo-list-be-more-efficient/",
-          "author": "Shay Burns",
-          "description": "Want to know how to use your to-do list to it's full potential? Here are some tips on how to do it!",
-          "link": "https://www.makeuseof.com/how-to-optimize-todo-list-be-more-efficient/",
-          "publishedOn": "2021-09-29T20:30:31.000Z",
-          "wordCount": 1510,
-          "title": "How to Optimize Your To-Do List to Be More Efficient"
-        },
-        {
-          "id": "https://www.makeuseof.com/apps-to-keep-track-birthdays/",
-          "author": "Sarah Chaney",
-          "description": "This collection of Android apps will ensure you never forget a birthday or anniversary, and always send your card on time.",
-          "link": "https://www.makeuseof.com/apps-to-keep-track-birthdays/",
-          "publishedOn": "2021-09-29T20:00:28.000Z",
-          "wordCount": 1613,
-          "title": "6 Android Apps That Help You Remember Birthdays, Send a Card, and More"
-        },
-        {
-          "id": "https://www.makeuseof.com/face-id-bypass-ios-15/",
-          "author": "Aya Masango",
-          "description": "The iOS Face ID authentication has been the subject of various hack attempts. Does Apple's update in iOS 15 make Face ID tougher to bypass?",
-          "link": "https://www.makeuseof.com/face-id-bypass-ios-15/",
-          "publishedOn": "2021-09-29T19:45:21.000Z",
-          "wordCount": 1091,
-          "title": "Is Apple's Face ID Tougher to Bypass in iOS 15?"
-        },
-        {
-          "id": "https://www.makeuseof.com/xdo-pantera-picopc-tiny-pc-and-pico-projector-review/",
-          "author": "Kannon Yamada",
-          "description": "The XDO Pantera PicoPC packs a fair amount of punch relative to its tiny size. But should you buy one?",
-          "link": "https://www.makeuseof.com/xdo-pantera-picopc-tiny-pc-and-pico-projector-review/",
-          "publishedOn": "2021-09-29T19:30:44.000Z",
-          "wordCount": 2538,
-          "title": "XDO Pantera PicoPC Tiny PC and Pico Projector Review: A Good Kickstarter for Tiny PC Enthusiasts"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-quickly-record-audio-using-built-in-apps-mac/",
-          "author": "Shujaa Imran",
-          "description": "Need to record some audio on your Mac? Here are the easiest ways to do it without any third-party apps or external microphones.",
-          "link": "https://www.makeuseof.com/how-to-quickly-record-audio-using-built-in-apps-mac/",
-          "publishedOn": "2021-09-29T19:30:44.000Z",
-          "wordCount": 1128,
-          "title": "How to Quickly Record Audio Into Your Mac Using Built-in Apps"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-does-hulu-work/",
-          "author": "Anina Ot",
-          "description": "Hulu has become one of the most popular cable-cutting options available, but what's behind its success?",
-          "link": "https://www.makeuseof.com/how-does-hulu-work/",
-          "publishedOn": "2021-09-29T19:00:42.000Z",
-          "wordCount": 1467,
-          "title": "How Does Hulu Work and What Does It Offer for Subscribers?"
-        },
-        {
-          "id": "https://www.makeuseof.com/apple-music-identify-tracks-in-dj-mixes/",
-          "author": "Aya Masango",
-          "description": "Here's everything you need to know about the improvements Apple Music has made to its DJ mix feature, including the ability to identify tracks within.",
-          "link": "https://www.makeuseof.com/apple-music-identify-tracks-in-dj-mixes/",
-          "publishedOn": "2021-09-29T18:30:48.000Z",
-          "wordCount": 1475,
-          "title": "How Apple Music Has Improved Its DJ Mixes With Shazam"
-        },
-        {
-          "id": "https://www.makeuseof.com/tag/install-gimp-plugins/",
-          "author": "Emma Garofalo",
-          "description": "In this guide to using GIMP plugins, we'll walk you through where to get the best GIMP plugins and how to install them.",
-          "link": "https://www.makeuseof.com/tag/install-gimp-plugins/",
-          "publishedOn": "2021-09-29T18:15:12.000Z",
-          "wordCount": 1730,
-          "title": "The 8 Best GIMP Plugins and How to Install Them"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-use-facebook-avatar-on-whatsapp/",
-          "author": "Shan Abdul",
-          "description": "Facebook Avatars aren't only for the social media website, you can use them on WhatsApp too.",
-          "link": "https://www.makeuseof.com/how-to-use-facebook-avatar-on-whatsapp/",
-          "publishedOn": "2021-09-29T18:15:11.000Z",
-          "wordCount": 860,
-          "title": "How to Use a Facebook Avatar on WhatsApp"
-        },
-        {
-          "id": "https://www.makeuseof.com/side-hustle-apps-making-extra-cash/",
-          "author": "Joe Cason",
-          "description": "Looking to pick up a gig or temporary job for some extra money? Try these great apps that make it easy to find side hustles.",
-          "link": "https://www.makeuseof.com/side-hustle-apps-making-extra-cash/",
-          "publishedOn": "2021-09-29T18:00:47.000Z",
-          "wordCount": 1682,
-          "title": "The 6 Best Side Hustle Apps for Making Extra Cash"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-change-safari-background-on-iphone/",
-          "author": "Ankur Thakur",
-          "description": "Add a splash of color to your web browser by choosing a background design to use with Safari on your iPhone.",
-          "link": "https://www.makeuseof.com/how-to-change-safari-background-on-iphone/",
-          "publishedOn": "2021-09-29T17:30:45.000Z",
-          "wordCount": 869,
-          "title": "How to Add a Custom Background to Safari in iOS 15"
-        },
-        {
-          "id": "https://www.makeuseof.com/windows-10-critical-structure-corruption-BSOD/",
-          "author": "Shaant Minhas",
-          "description": "The Windows Critical Structure Corruption can stop your work in its tracks. Learn how to get rid of this error for good.",
-          "link": "https://www.makeuseof.com/windows-10-critical-structure-corruption-BSOD/",
-          "publishedOn": "2021-09-29T17:15:11.000Z",
-          "wordCount": 1995,
-          "title": "How to Fix the &quot;Critical Structure Corruption&quot; BSOD in Windows 10"
-        },
-        {
-          "id": "https://www.makeuseof.com/how-to-change-ps5-dns-settings/",
-          "author": "Amir M. Bohlooli",
-          "description": "Using the wrong DNS can get in the way of enjoying your games. Follow these steps to change your PS5 DNS.",
-          "link": "https://www.makeuseof.com/how-to-change-ps5-dns-settings/",
-          "publishedOn": "2021-09-29T17:00:56.000Z",
-          "wordCount": 1083,
-          "title": "How to Change DNS Settings on Your PS5"
-        },
-        {
-          "id": "https://www.makeuseof.com/windows-10-install-net-framework-version-35/",
-          "author": "Arjun Ruparelia",
-          "description": "Sometimes you need to go back a few versions of .NET to get something working. But how do you do that?",
-          "link": "https://www.makeuseof.com/windows-10-install-net-framework-version-35/",
-          "publishedOn": "2021-09-29T16:45:11.000Z",
-          "wordCount": 1512,
-          "title": "How to Install .NET Framework Version 3.5 on Windows 10"
-        },
-        {
-          "id": "https://www.makeuseof.com/tips-making-group-projects-easy/",
-          "author": "Natalie Stewart",
-          "description": "Group projects can be hard, especially when one of the members isn't doing their part. Here are some ways to make group projects less painful.",
-          "link": "https://www.makeuseof.com/tips-making-group-projects-easy/",
-          "publishedOn": "2021-09-29T16:30:48.000Z",
-          "wordCount": 1465,
-          "title": "5 Tips for Making Group Projects Easy"
-        },
-        {
-          "id": "https://www.makeuseof.com/windows-fix-there-was-a-problem-starting-logildadll-error/",
-          "author": "Shaant Minhas",
-          "description": "Is your Logitech device giving your issues with a logiLDA.dll error? Here's how to fix that.",
-          "link": "https://www.makeuseof.com/windows-fix-there-was-a-problem-starting-logildadll-error/",
-          "publishedOn": "2021-09-29T16:16:21.000Z",
-          "wordCount": 1519,
-          "title": "How to Fix the “There Was a Problem Starting logiLDA.dll” Error on Windows"
-        }
-      ]
-    },
-    {
       "title": "Hacker Noon",
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/an-introduction-to-skynets-homescreen-for-managing-defi-and-dweb-apps?source=rss",
+          "author": "Evelina Lavrova",
+          "description": "Interview David Vorick CEO of Skynet Labs about trends, pitfalls, why it’s important to own the data and how Homescreen's going to change the way we use the Web",
+          "link": "https://hackernoon.com/an-introduction-to-skynets-homescreen-for-managing-defi-and-dweb-apps?source=rss",
+          "publishedOn": "2021-10-07T12:54:48.000Z",
+          "wordCount": 821,
+          "title": "An Introduction to Skynet's Homescreen for Managing DeFi and DWeb Apps"
+        },
+        {
+          "id": "https://hackernoon.com/the-basics-of-nfts-infographic?source=rss",
+          "author": "Brian Wallace",
+          "description": "NFTs are certificates of ownership on digital collectibles, including but not limited to digital artwork.",
+          "link": "https://hackernoon.com/the-basics-of-nfts-infographic?source=rss",
+          "publishedOn": "2021-10-07T12:42:28.000Z",
+          "wordCount": 1165,
+          "title": "The Basics of NFTs [Infographic]"
+        },
+        {
+          "id": "https://hackernoon.com/the-greatest-film-and-video-game-soundtracks-of-all-time?source=rss",
+          "author": "Limarc Ambalina",
+          "description": "We chatted about the best movie and video game soundtracks that spoke to us and will forever be in our all-time favorites.",
+          "link": "https://hackernoon.com/the-greatest-film-and-video-game-soundtracks-of-all-time?source=rss",
+          "publishedOn": "2021-10-07T09:24:35.000Z",
+          "wordCount": 1415,
+          "title": "The Greatest Film and Video Game Soundtracks of All Time"
+        },
+        {
+          "id": "https://hackernoon.com/data-scientist-vs-software-engineer-key-differences-explained?source=rss",
+          "author": "Ankit Dixit",
+          "description": "The data scientist is emerging as a new career option. Software engineering is an older discipline that has already made its perfect place in the IT world.",
+          "link": "https://hackernoon.com/data-scientist-vs-software-engineer-key-differences-explained?source=rss",
+          "publishedOn": "2021-10-07T09:08:05.000Z",
+          "wordCount": 3376,
+          "title": "Data Scientist vs. Software Engineer - Key Differences Explained"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-add-training-data-to-build-a-more-generic-ml-model?source=rss",
+          "author": "Milecia",
+          "description": "You can easily make changes to your dataset using DVC to handle data versioning. This will let you extend your models to handle more generic data.",
+          "link": "https://hackernoon.com/how-to-add-training-data-to-build-a-more-generic-ml-model?source=rss",
+          "publishedOn": "2021-10-07T08:58:35.000Z",
+          "wordCount": 835,
+          "title": "How to Add Training Data to Build a More Generic ML Model"
+        },
+        {
+          "id": "https://hackernoon.com/5-trends-changing-retail-enterprise-resource-planning-in-2021?source=rss",
+          "author": "Andrey Koptelov",
+          "description": "What are the main ERP trends in retail? Feel free to explore this guide to keep up with the best updates to potentially implement them into your business.",
+          "link": "https://hackernoon.com/5-trends-changing-retail-enterprise-resource-planning-in-2021?source=rss",
+          "publishedOn": "2021-10-07T08:53:01.000Z",
+          "wordCount": 1568,
+          "title": "5 Trends Changing Retail Enterprise Resource Planning in 2021"
+        },
+        {
+          "id": "https://hackernoon.com/6-netsuite-implementation-mistakes-to-avoid?source=rss",
+          "author": "AlphaBOLD",
+          "description": "NetSuite developer suggests configuration over customization, initially. You can bring customization later once the project manages to mature over time.",
+          "link": "https://hackernoon.com/6-netsuite-implementation-mistakes-to-avoid?source=rss",
+          "publishedOn": "2021-10-07T08:09:11.000Z",
+          "wordCount": 1920,
+          "title": "6 NetSuite Implementation Mistakes to Avoid"
+        },
+        {
+          "id": "https://hackernoon.com/5-most-in-demand-tech-skills-to-learn-and-empower-your-tech-career?source=rss",
+          "author": "am_samie",
+          "description": "If you want to empower your tech career or if you want to switch into a tech career, here are the most in-demand tech skills you can learn.",
+          "link": "https://hackernoon.com/5-most-in-demand-tech-skills-to-learn-and-empower-your-tech-career?source=rss",
+          "publishedOn": "2021-10-07T06:05:07.000Z",
+          "wordCount": 1512,
+          "title": "5 Most In-Demand Tech Skills to Learn and Empower Your Tech Career"
+        },
+        {
+          "id": "https://hackernoon.com/how-technology-is-changing-retirement-planning?source=rss",
+          "author": "Michael",
+          "description": "Let's look at some emerging new options that can help you create passive income for retirement.",
+          "link": "https://hackernoon.com/how-technology-is-changing-retirement-planning?source=rss",
+          "publishedOn": "2021-10-07T05:57:09.000Z",
+          "wordCount": 801,
+          "title": "How Technology is Changing Retirement Planning"
+        },
+        {
+          "id": "https://hackernoon.com/the-main-differences-between-angular-react-and-vue?source=rss",
+          "author": "Tetiana Stoyko",
+          "description": "Gathered review of the major used frameworks: Angular, React, and Vue. We compared them by the most crucial criteria for deciding on one of them for a project.",
+          "link": "https://hackernoon.com/the-main-differences-between-angular-react-and-vue?source=rss",
+          "publishedOn": "2021-10-07T05:47:59.000Z",
+          "wordCount": 834,
+          "title": "The Main Differences Between Angular, React, and Vue"
+        },
+        {
+          "id": "https://hackernoon.com/building-your-first-app-using-c-builder-part-1?source=rss",
+          "author": "Embarcadero",
+          "description": "Building mobile applications can be tasking sometimes. In this article, we will share a few steps you can take to build your first app using a free IDE.",
+          "link": "https://hackernoon.com/building-your-first-app-using-c-builder-part-1?source=rss",
+          "publishedOn": "2021-10-07T05:39:05.000Z",
+          "wordCount": 1850,
+          "title": "Building Your First App Using C++ Builder (Part 1)"
+        },
+        {
+          "id": "https://hackernoon.com/how-the-pandemic-hacked-the-way-we-eat-breakfast-infographic?source=rss",
+          "author": "Brian Wallace",
+          "description": "A look at how the pandemic shifted American breakfast trends.",
+          "link": "https://hackernoon.com/how-the-pandemic-hacked-the-way-we-eat-breakfast-infographic?source=rss",
+          "publishedOn": "2021-10-07T05:21:00.000Z",
+          "wordCount": 1194,
+          "title": "How the Pandemic Hacked the Way We Eat Breakfast [Infographic]"
+        },
+        {
+          "id": "https://hackernoon.com/the-gaming-metaverse-will-decide-the-future-of-the-video-game-industry?source=rss",
+          "author": "Ishan Pandey",
+          "description": "This article talks about gaming metaverse and in-game items being used in game development as the next frontier for the gaming industry.",
+          "link": "https://hackernoon.com/the-gaming-metaverse-will-decide-the-future-of-the-video-game-industry?source=rss",
+          "publishedOn": "2021-10-07T05:03:55.000Z",
+          "wordCount": 2485,
+          "title": "The Gaming Metaverse will Decide the Future of the Video Game Industry"
+        },
+        {
+          "id": "https://hackernoon.com/the-effects-of-energy-drinks-on-the-body-cons-of-caffeine-consumption?source=rss",
+          "author": "Amy Shah",
+          "description": "While caffeine is largely accepted in today's society, high dose caffeine products like energy drinks and caffeine pills can be detrimental.",
+          "link": "https://hackernoon.com/the-effects-of-energy-drinks-on-the-body-cons-of-caffeine-consumption?source=rss",
+          "publishedOn": "2021-10-07T04:46:01.000Z",
+          "wordCount": 2174,
+          "title": "The Effects of Energy Drinks on The Body: Cons of Caffeine Consumption"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-purple-teaming-in-cybersecurity?source=rss",
+          "author": "Jessica Truong",
+          "description": "Purple teaming is maximizes the effectiveness of the Red and Blue team. It is a function that encourages the two teams to work together, exchange information.",
+          "link": "https://hackernoon.com/what-is-purple-teaming-in-cybersecurity?source=rss",
+          "publishedOn": "2021-10-07T03:34:37.000Z",
+          "wordCount": 1685,
+          "title": "What is Purple Teaming in Cybersecurity?"
+        },
+        {
+          "id": "https://hackernoon.com/networking-and-kubernetes-book-review-and-interview-with-author-james-strong?source=rss",
+          "author": "Amy Shah",
+          "description": "Co-author James Strong talks about his book Networking & Kubernetes, published by O'Reilly Media. Strong wrote the book with Vallery Lancey.",
+          "link": "https://hackernoon.com/networking-and-kubernetes-book-review-and-interview-with-author-james-strong?source=rss",
+          "publishedOn": "2021-10-07T03:22:43.000Z",
+          "wordCount": 1771,
+          "title": "Networking & Kubernetes: Book Review and Interview with Author James Strong"
+        },
+        {
+          "id": "https://hackernoon.com/will-pokemon-legends-arceus-live-up-to-the-hype?source=rss",
+          "author": "Blake Cram",
+          "description": "Pokémon Legends looks to be the open world makeover Pokémon fans have craved. However, mixed signals from recent trailers leave me more skeptical than hopeful.",
+          "link": "https://hackernoon.com/will-pokemon-legends-arceus-live-up-to-the-hype?source=rss",
+          "publishedOn": "2021-10-07T03:15:30.000Z",
+          "wordCount": 2762,
+          "title": "Will Pokémon Legends: Arceus Live Up to the Hype?"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-use-google-trends-api-with-python?source=rss",
+          "author": "Davis David",
+          "description": "Google Trends website provides analysis of different search results on Google Search based on various criteria such as regions, time and language. As a developer, you can use Google Trends API in python to get the same results as presented on the Google Trends website via Pytrends.",
+          "link": "https://hackernoon.com/how-to-use-google-trends-api-with-python?source=rss",
+          "publishedOn": "2021-10-07T03:08:31.000Z",
+          "wordCount": 1824,
+          "title": "How to Use Google Trends API with Python"
+        },
         {
           "id": "https://hackernoon.com/how-startups-can-get-results-with-two-underappreciated-mrr-growth-levers?source=rss",
           "author": "ChartMogul",
@@ -3004,6 +774,24 @@
           "publishedOn": "2021-10-06T08:44:40.000Z",
           "wordCount": 2013,
           "title": "5 Cybersecurity Mistakes You Probably Make Every Day (and How to Fix Them)"
+        },
+        {
+          "id": "https://hackernoon.com/solidity-tutorial-understanding-design-patterns-part-1?source=rss",
+          "author": "Tirtha Sarker",
+          "description": "Solidity design patterns are essential for creating secure, robust and scalable smart contracts. In this tutorial, we will learn proper implementations",
+          "link": "https://hackernoon.com/solidity-tutorial-understanding-design-patterns-part-1?source=rss",
+          "publishedOn": "2021-10-06T08:36:18.000Z",
+          "wordCount": 1942,
+          "title": "Solidity Tutorial: Understanding Design Patterns [Part 1]"
+        },
+        {
+          "id": "https://hackernoon.com/how-open-source-is-getting-faster-and-how-to-maintain-security?source=rss",
+          "author": "Sal Kimmich",
+          "description": "What affects developer decision making, how open source is getting faster, and why you should track Mean Time to Update as a way to build software that lasts.",
+          "link": "https://hackernoon.com/how-open-source-is-getting-faster-and-how-to-maintain-security?source=rss",
+          "publishedOn": "2021-10-06T08:31:58.000Z",
+          "wordCount": 855,
+          "title": "How Open Source is Getting Faster (and How to Maintain Security)"
         },
         {
           "id": "https://hackernoon.com/model-training-how-much-data-do-you-require?source=rss",
@@ -4643,6 +2431,69 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
+          "id": "https://hackaday.com/?p=499865",
+          "author": "Donald Papp",
+          "description": "[ThingaUser] made a tool to solve a specific problem of theirs, but the design also happens to be a pretty good way to turn a c-clamp into a poor man’s …read more",
+          "link": "https://hackaday.com/2021/10/07/c-clamp-becomes-light-duty-arbor-press/",
+          "publishedOn": "2021-10-07T20:00:53.000Z",
+          "wordCount": 1148,
+          "title": "C-Clamp Becomes Light-Duty Arbor Press"
+        },
+        {
+          "id": "https://hackaday.com/?p=500090",
+          "author": "Al Williams",
+          "description": "When we first saw [lonesoulsurfer’s] ray gun, we thought it looked oddly familiar. Sure, it looks like a vintage ray gun you might see in a dozen 1950-era movies or …read more",
+          "link": "https://hackaday.com/2021/10/07/halloween-build-exquisite-ray-gun-has-sound-effects/",
+          "publishedOn": "2021-10-07T18:00:00.000Z",
+          "wordCount": 1177,
+          "title": "Halloween Build: Exquisite Ray Gun has Sound Effects"
+        },
+        {
+          "id": "https://hackaday.com/?p=499038",
+          "author": "Al Williams",
+          "description": "I once asked a software developer at work how many times we called fork() in our code. I’ll admit, it was a very large project, but I expected the answer …read more",
+          "link": "https://hackaday.com/2021/10/07/linux-fu-globs-vs-regexp/",
+          "publishedOn": "2021-10-07T17:00:05.000Z",
+          "wordCount": 2184,
+          "title": "Linux Fu: Globs vs Regexp"
+        },
+        {
+          "id": "https://hackaday.com/?p=500120",
+          "author": "Elliot Williams",
+          "description": "The judges’ ballots are in and we’re proud to present the ten winners of the fourth round of the 2021 Hackaday Prize. We love robots, and it’s obvious that you …read more",
+          "link": "https://hackaday.com/2021/10/07/meet-the-winners-of-the-hackaday-prize-round-four-redefine-robots/",
+          "publishedOn": "2021-10-07T16:00:32.000Z",
+          "wordCount": 1367,
+          "title": "Meet the Winners of The Hackaday Prize Round Four: Redefine Robots"
+        },
+        {
+          "id": "https://hackaday.com/?p=500129",
+          "author": "Al Williams",
+          "description": "Don’t blame us for the title. [CCrome] admits it may well be the cheapest and worst IR camera available. The concept is surprisingly simple. Mount a cheap Harbor Freight non-contact …read more",
+          "link": "https://hackaday.com/2021/10/07/worlds-cheapest-and-possibly-worst-ir-camera/",
+          "publishedOn": "2021-10-07T15:00:00.000Z",
+          "wordCount": 1738,
+          "title": "World’s Cheapest and Possibly Worst IR Camera"
+        },
+        {
+          "id": "https://hackaday.com/?p=497755",
+          "author": "Maya Posch",
+          "description": "There’s something intrinsically simple about the concept of carbon (CO2) capture: you simply have the CO2 molecules absorbed or adsorbed by something, after which you separate the thus captured CO2 …read more",
+          "link": "https://hackaday.com/2021/10/07/creating-methane-from-captured-carbon-dioxide-and-the-future-of-carbon-capture/",
+          "publishedOn": "2021-10-07T14:00:43.000Z",
+          "wordCount": 4507,
+          "title": "Creating Methane From Captured Carbon Dioxide And The Future Of Carbon Capture"
+        },
+        {
+          "id": "https://hackaday.com/?p=499899",
+          "author": "Bryan Cockfield",
+          "description": "[Mark Havran] is on a mission to complete a solo trip around the world on his bicycle. For such a long and arduous trip, unsupported by anything other than what …read more",
+          "link": "https://hackaday.com/2021/10/07/diy-solar-ebike-goes-around-the-world-we-hope/",
+          "publishedOn": "2021-10-07T11:00:00.000Z",
+          "wordCount": 3701,
+          "title": "DIY Solar Ebike Goes Around the World, We Hope"
+        },
+        {
           "id": "https://hackaday.com/?p=498940",
           "author": "Jim Heaney",
           "description": "It’s not too hard to make your electronics project get warm. Design your traces too small, accidentally short the battery inputs together, maybe reverse the voltage going to your MCU. …read more",
@@ -5018,6 +2869,66 @@
       "feedUrl": "http://rss.sciam.com/scientificamerican-global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "DD0FB406-4E5C-4AA4-AD866CAABF654061",
+          "author": "Arianna Skibell, E&E News",
+          "description": "Just 30 percent of cars on the road will be electric by 2050 under current policies, the U.S. Energy Information Administration says\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/electric-vehicle-adoption-not-happening-fast-enough-to-meet-climate-goals/",
+          "publishedOn": "2021-10-07T19:45:00.000Z",
+          "wordCount": null,
+          "title": "Electric Vehicle Adoption Not Happening Fast Enough to Meet Climate Goals",
+          "itunes": {}
+        },
+        {
+          "id": "08480E95-FE29-4519-8D7950BDCE8F0112",
+          "author": "Daniel Garisto",
+          "description": "The prestigious award finally recognizes work that helped scientists understand climate change and, more broadly, find order in disorder\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/why-the-physics-nobel-honored-climate-science-and-complex-systems/",
+          "publishedOn": "2021-10-07T18:30:00.000Z",
+          "wordCount": null,
+          "title": "Why the Physics Nobel Honored Climate Science and Complex Systems",
+          "itunes": {}
+        },
+        {
+          "id": "12A0DBD7-8FE8-421F-9CAA298195D2FD1E",
+          "author": "Jonathan O'Callaghan",
+          "description": "New results from the mission reveal that its landing site of Jezero Crater has a surprisingly dynamic and complex hydrologic history\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/nasas-perseverance-rover-finds-signs-of-epic-ancient-floods-on-mars/",
+          "publishedOn": "2021-10-07T18:00:00.000Z",
+          "wordCount": null,
+          "title": "NASA's Perseverance Rover Finds Signs of Epic Ancient Floods on Mars",
+          "itunes": {}
+        },
+        {
+          "id": "7A6D7909-E11B-4307-AB0A4A6842BDF0BA",
+          "author": "Davide Castelvecchi, Nature magazine",
+          "description": "Physicists have imaged elusive ‘Wigner crystals’ for the first time\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/this-is-what-a-solid-made-of-electrons-looks-like/",
+          "publishedOn": "2021-10-07T14:30:00.000Z",
+          "wordCount": null,
+          "title": "This Is What a Solid Made of Electrons Looks Like",
+          "itunes": {}
+        },
+        {
+          "id": "B01B29C7-2EB4-4151-9A515FF8965AFC09",
+          "author": "Soleil Shah, Abdul El-Sayed",
+          "description": "Most do not require the agency’s approval, and those that do often don’t require clinical trials\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-fda-should-better-regulate-medical-algorithms/",
+          "publishedOn": "2021-10-07T12:00:00.000Z",
+          "wordCount": null,
+          "title": "The FDA Should Better Regulate Medical Algorithms",
+          "itunes": {}
+        },
+        {
+          "id": "A708A617-1921-4AE3-B6F5B2DFE6E38275",
+          "author": "Viviane Callier",
+          "description": "A new model could help model disease transmission and urban planning\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/simple-mathematical-law-predicts-movement-in-cities-around-the-world/",
+          "publishedOn": "2021-10-07T10:45:00.000Z",
+          "wordCount": null,
+          "title": "Simple Mathematical Law Predicts Movement in Cities around the World",
+          "itunes": {}
+        },
         {
           "id": "FBC2982E-769D-4D84-9066432D117EDECD",
           "author": "Thomas Frank, E&E News",
@@ -5567,6 +3478,51 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=146112",
+          "author": "Mike Vizard",
+          "description": "Verica, a provider of an incident management platform, announced this week it is making available a database to make incident reports publicly available via a single repository. Courtney Nash, senior research analyst at Verica, said the Verica Open Incident Database (VOID) initiative is part of an effort to enable organizations to learn from outages and […]\nThe post Verica Launches Database for Sharing IT Incident Reports appeared first on DevOps.com.",
+          "link": "https://devops.com/verica-launches-database-for-sharing-it-incident-reports/",
+          "publishedOn": "2021-10-07T19:29:41.000Z",
+          "wordCount": 985,
+          "title": "Verica Launches Database for Sharing IT Incident Reports"
+        },
+        {
+          "id": "https://devops.com/?p=146152",
+          "author": "Mike Vizard",
+          "description": "Perforce Software has acquired BlazeMeter from Broadcom as part of an effort to extend the scope of its testing tools beyond the Perfecto tools for testing mobile and web applications it acquired in 2018. Broadcom gained control over BlazeMeter after it acquired CA Technologies in 2018. CA Technologies acquired BlazeMeter in 2016. Terms of the […]\nThe post Perforce Charts Testing Course After BlazeMeter Acquisition appeared first on DevOps.com.",
+          "link": "https://devops.com/perforce-charts-testing-course-after-blazemeter-acquisition/",
+          "publishedOn": "2021-10-07T13:26:20.000Z",
+          "wordCount": 1040,
+          "title": "Perforce Charts Testing Course After BlazeMeter Acquisition"
+        },
+        {
+          "id": "https://devops.com/?p=145855",
+          "author": "Jeroen Lavens",
+          "description": "Merging multiple time-series in InfluxDB using Flux may seem like a daunting task. This in-depth Flux tutorial will explain how to pivot, time shift and join time series in InfluxDB. In this InfluxDB tutorial, we will show you how to create an accurate overview of multiple time series with industrial data captured in consecutive production […]\nThe post How to Pivot and Join Time-Series Data in Flux appeared first on DevOps.com.",
+          "link": "https://devops.com/how-to-pivot-and-join-time-series-data-in-flux/",
+          "publishedOn": "2021-10-07T07:00:58.000Z",
+          "wordCount": 3621,
+          "title": "How to Pivot and Join Time-Series Data in Flux"
+        },
+        {
+          "id": "https://devops.com/?p=146109",
+          "author": "Jayne Groll",
+          "description": "Container orchestration is a must-have technical skill, according to 51% of respondents to the 2021 Upskilling survey from DevOps Institute. So, it’s no surprise, then, that container technology is becoming increasingly popular. However, container environments are far more complex and dynamic than other infrastructure, making container security essential. Security ensures containers are running as intended, […]\nThe post 4 Container Orchestration Security Concerns appeared first on DevOps.com.",
+          "link": "https://devops.com/4-container-orchestration-security-concerns/",
+          "publishedOn": "2021-10-07T06:30:57.000Z",
+          "wordCount": 1305,
+          "title": "4 Container Orchestration Security Concerns"
+        },
+        {
+          "id": "https://devops.com/?p=146148",
+          "author": "ROELBOB",
+          "description": "The post The Manufacture of Madness appeared first on DevOps.com.",
+          "link": "https://devops.com/the-manufacture-of-madness/",
+          "publishedOn": "2021-10-07T06:00:10.000Z",
+          "wordCount": 413,
+          "title": "The Manufacture of Madness"
+        },
+        {
           "id": "https://devops.com/?p=145878",
           "author": "Alan Shimel",
           "description": "Today is a big day in the neighborhood. What neighborhood, you ask? If you are involved in DevOps, cloud-native, cybersecurity or digital transformation, you are in that neighborhood. Today we launch Techstrong Group. Techstrong Group is a combination of all the companies I have been involved in within this neighborhood. It represents the greatest breadth […]\nThe post Welcome to Techstrong Group appeared first on DevOps.com.",
@@ -5745,6 +3701,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=109369",
+          "author": "Mordechai Rorvig",
+          "description": "After decades of effort, mathematicians now have a complete understanding of the complicated equations that model the motion of free boundaries, like the one between ice and water.            \nThe post Mathematicians Prove Melting Ice Stays Smooth first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/mathematicians-prove-melting-ice-stays-smooth-20211006/",
+          "publishedOn": "2021-10-06T14:24:38.000Z",
+          "wordCount": null,
+          "title": "Mathematicians Prove Melting Ice Stays Smooth",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=109124",
           "author": "Jordana Cepelewicz",
           "description": "Benjamin List and David MacMillan received the 2021 Nobel Prize in Chemistry for their development of asymmetrical organocatalysis.            \nThe post Chemistry Nobel Prize Honors Technique for Building Molecules first appeared on Quanta Magazine",
@@ -5831,6 +3797,24 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=65731",
+          "author": "Nathan Yau",
+          "description": "This is the best freelance advice ever written.\nTags: freelancing",
+          "link": "https://flowingdata.com/2021/10/07/process-160-freelance/",
+          "publishedOn": "2021-10-07T18:30:20.000Z",
+          "wordCount": 303,
+          "title": "✚ Data Visualization Freelance Advice, from Someone Who Doesn’t Freelance and Has No Clue What He is Talking About – The Process 160"
+        },
+        {
+          "id": "https://flowingdata.com/?p=65738",
+          "author": "Nathan Yau",
+          "description": "The Washington Post, in an effort that I’m sure took more energy and…\nTags: abortion, Washington Post",
+          "link": "https://flowingdata.com/2021/10/07/comparing-abortion-limits-in-the-u-s-against-other-countries/",
+          "publishedOn": "2021-10-07T16:05:55.000Z",
+          "wordCount": 338,
+          "title": "Comparing abortion limits in the U.S. against other countries"
+        },
         {
           "id": "https://flowingdata.com/?p=65726",
           "author": "Nathan Yau",
