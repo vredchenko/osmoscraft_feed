@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=353112",
+          "author": "Chris Coyier",
+          "description": "There comes a time on a project when it’s worth investing in tooling to protect the codebase. I’m not sure how to articulate when, but it’s somewhere after the project has proven to be something long-term and rough edges …\nThe post Writing Your Own Code Rules appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/writing-your-own-code-rules/",
+          "publishedOn": "2021-10-07T23:35:53.000Z",
+          "wordCount": 805,
+          "title": "Writing Your Own Code Rules"
+        },
+        {
+          "id": "https://css-tricks.com/?p=353386",
+          "author": "Chris Coyier",
+          "description": "Blog posts that get into the whole “how to think like a front-end developer” vibe are my favorite. Michelle Barker nails that in this post, and does it without sharing a line of code!\nWe simply can no longer \n…\nThe post Developer Decisions For Building Flexible Components appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.smashingmagazine.com/2021/09/developer-decisions-building-flexible-components/",
+          "publishedOn": "2021-10-07T21:33:58.000Z",
+          "wordCount": 2860,
+          "title": "Developer Decisions For Building Flexible Components"
+        },
+        {
           "id": "https://css-tricks.com/?p=353024",
           "author": "Hugh Haworth",
           "description": "vanilla-extract is a new framework-agnostic CSS-in-TypeScript library. It’s a lightweight, robust, and intuitive way to write your styles. vanilla-extract isn’t a prescriptive CSS framework, but a flexible piece of developer tooling. CSS tooling has been a relatively stable space over …\nThe post CSS in TypeScript with vanilla-extract appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -514,6 +532,78 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/what-are-the-key-stages-of-data-protection-impact-assessment?source=rss",
+          "author": "Narendra Sahoo",
+          "description": "A Data Protection Impact Assessment which is also referred to as Privacy Impact Assessments is a mandatory requirement for organizations to comply with.",
+          "link": "https://hackernoon.com/what-are-the-key-stages-of-data-protection-impact-assessment?source=rss",
+          "publishedOn": "2021-10-07T19:43:07.000Z",
+          "wordCount": 817,
+          "title": "What are the Key Stages of Data Protection Impact Assessment?"
+        },
+        {
+          "id": "https://hackernoon.com/stoplights-open-source-october-hacktoberfest-involvement-and-pull-requests-for-trees?source=rss",
+          "author": "Stoplight",
+          "description": "Complete an open-source pull request from one of our open-source tools, & we will plan 400 trees in your honor to celebrate Open-Source October & Hacktoberfest.",
+          "link": "https://hackernoon.com/stoplights-open-source-october-hacktoberfest-involvement-and-pull-requests-for-trees?source=rss",
+          "publishedOn": "2021-10-07T19:32:22.000Z",
+          "wordCount": 1180,
+          "title": "Stoplight's Open-Source October: Hacktoberfest Involvement & Pull-Requests for Trees"
+        },
+        {
+          "id": "https://hackernoon.com/finally-i-m-not-coding-on-a-5-year-old-chromebook-anymore?source=rss",
+          "author": "Ian",
+          "description": "Recently I got a nice computer, but before I was using a very old Chromebook. I talk about my experiences trying to set up a coding environment.",
+          "link": "https://hackernoon.com/finally-i-m-not-coding-on-a-5-year-old-chromebook-anymore?source=rss",
+          "publishedOn": "2021-10-07T19:27:49.000Z",
+          "wordCount": 802,
+          "title": "Finally, I' m Not Coding on a 5-Year-Old Chromebook Anymore"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-make-your-rails-app-work-with-the-mac-m1-chip-solved?source=rss",
+          "author": "amisha-100",
+          "description": "Get your rails app running from terminal using the following steps on MacBook M1 Chip.",
+          "link": "https://hackernoon.com/how-to-make-your-rails-app-work-with-the-mac-m1-chip-solved?source=rss",
+          "publishedOn": "2021-10-07T19:18:28.000Z",
+          "wordCount": 777,
+          "title": "How to Make your Rails App Work with the Mac M1 Chip [SOLVED]"
+        },
+        {
+          "id": "https://hackernoon.com/trouble-brewing-in-the-nerdisphere-now-i-just-need-to-choose-a-framework?source=rss",
+          "author": "Elijah Ken",
+          "description": "A javascript developer desperately tries to make sense of the universe and the purpose of programming within it. He finds more questions than answer.",
+          "link": "https://hackernoon.com/trouble-brewing-in-the-nerdisphere-now-i-just-need-to-choose-a-framework?source=rss",
+          "publishedOn": "2021-10-07T19:07:54.000Z",
+          "wordCount": 819,
+          "title": "Trouble Brewing in the Nerdisphere: Now, I Just Need to Choose a Framework"
+        },
+        {
+          "id": "https://hackernoon.com/using-pwa-and-vue-js-together---how-it-benefits-businesses?source=rss",
+          "author": "AddWeb Solution",
+          "description": "Want to know how converting your Vue JS Web Apps into PWAs can benefit your business and how it can improve things like SEO, load times, and reduce costs?",
+          "link": "https://hackernoon.com/using-pwa-and-vue-js-together---how-it-benefits-businesses?source=rss",
+          "publishedOn": "2021-10-07T18:54:52.000Z",
+          "wordCount": 806,
+          "title": "Using PWA and Vue JS TOGETHER – How It Benefits Businesses?"
+        },
+        {
+          "id": "https://hackernoon.com/bitcoin-alliance-to-support-el-salvadors-recent-adoption-of-crypto-friendly-financial-services?source=rss",
+          "author": "API3",
+          "description": "API3 is pleased to announce the Bitcoin Alliance, an alliance with Banco Hipotecario, TESOBE (The company behind the Open Bank Project), Qredo and Sovryn to support El Salvador’s recent adoption of bitcoin and crypto-friendly financial services.",
+          "link": "https://hackernoon.com/bitcoin-alliance-to-support-el-salvadors-recent-adoption-of-crypto-friendly-financial-services?source=rss",
+          "publishedOn": "2021-10-07T17:24:21.000Z",
+          "wordCount": 1730,
+          "title": "Bitcoin Alliance to Support El Salvador’s Recent Adoption of Crypto-Friendly Financial Services"
+        },
+        {
+          "id": "https://hackernoon.com/the-concerning-results-of-investigation-into-googles-youtube-ad-placement-blocklist?source=rss",
+          "author": "The Markup",
+          "description": "An investigation by The Markup has shown that YouTube has been surpressing Black Lives Matter-related ads while doing nothing to prevent white supremacist ads.",
+          "link": "https://hackernoon.com/the-concerning-results-of-investigation-into-googles-youtube-ad-placement-blocklist?source=rss",
+          "publishedOn": "2021-10-07T16:33:34.000Z",
+          "wordCount": 818,
+          "title": "The Concerning Results of Investigation Into Google’s YouTube Ad Placement Blocklist"
+        },
         {
           "id": "https://hackernoon.com/an-introduction-to-skynets-homescreen-for-managing-defi-and-dweb-apps?source=rss",
           "author": "Evelina Lavrova",
@@ -2431,6 +2521,15 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
+          "id": "https://hackaday.com/?p=499125",
+          "author": "Lewin Day",
+          "description": "Files are a very useful important tool if you’re machining your own parts. They can do plenty of shaping themselves on smaller parts in particular. Powering such a tool just …read more",
+          "link": "https://hackaday.com/2021/10/07/building-your-own-filing-machine-from-a-kit/",
+          "publishedOn": "2021-10-07T23:00:03.000Z",
+          "wordCount": 1302,
+          "title": "Building Your Own Filing Machine From A Kit"
+        },
+        {
           "id": "https://hackaday.com/?p=499865",
           "author": "Donald Papp",
           "description": "[ThingaUser] made a tool to solve a specific problem of theirs, but the design also happens to be a pretty good way to turn a c-clamp into a poor man’s …read more",
@@ -2869,6 +2968,16 @@
       "feedUrl": "http://rss.sciam.com/scientificamerican-global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "B6EFF54C-FECE-4EC2-AD209536DE8EE262",
+          "author": "Filippo Menczer, The Conversation US",
+          "description": "Frances Haugen confirmed the negative effects caused by attempts to maximize engagement\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/facebook-whistleblower-testified-that-companys-algorithms-are-dangerous-heres-why/",
+          "publishedOn": "2021-10-07T20:15:00.000Z",
+          "wordCount": null,
+          "title": "Facebook Whistleblower Testified That Company's Algorithms Are Dangerous: Here's Why",
+          "itunes": {}
+        },
         {
           "id": "DD0FB406-4E5C-4AA4-AD866CAABF654061",
           "author": "Arianna Skibell, E&E News",
@@ -3477,6 +3586,15 @@
       "feedUrl": "https://devops.com/feed/",
       "siteUrl": "https://devops.com",
       "articles": [
+        {
+          "id": "https://devops.com/?p=146169",
+          "author": "Mike Vizard",
+          "description": "BMC has acquired StreamWeaver, a provider of a platform that makes it simpler to capture streaming data in real-time, as part of an effort to extend the BMC Helix IT operations platform infused with artificial intelligence (AIOps). Financial terms of the transaction were not disclosed. Margaret Lee, general manager and senior vice president for digital […]\nThe post BMC Acquires StreamWeaver to Advance AIOps Strategy appeared first on DevOps.com.",
+          "link": "https://devops.com/bmc-acquires-streamweaver-to-advance-aiops-strategy/",
+          "publishedOn": "2021-10-07T21:30:26.000Z",
+          "wordCount": 1004,
+          "title": "BMC Acquires StreamWeaver to Advance AIOps Strategy"
+        },
         {
           "id": "https://devops.com/?p=146112",
           "author": "Mike Vizard",

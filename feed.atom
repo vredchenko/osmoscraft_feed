@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2021-10-07T20:12:03.570Z</updated>
+    <updated>2021-10-08T00:43:47.526Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Writing Your Own Code Rules]]></title>
+        <id>https://css-tricks.com/?p=353112</id>
+        <link href="https://css-tricks.com/writing-your-own-code-rules/"/>
+        <updated>2021-10-07T23:35:53.000Z</updated>
+        <summary type="html"><![CDATA[There comes a time on a project when it’s worth investing in tooling to protect the codebase. I’m not sure how to articulate when, but it’s somewhere after the project has proven to be something long-term and rough edges …
+The post Writing Your Own Code Rules appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Your Own Filing Machine From A Kit]]></title>
+        <id>https://hackaday.com/?p=499125</id>
+        <link href="https://hackaday.com/2021/10/07/building-your-own-filing-machine-from-a-kit/"/>
+        <updated>2021-10-07T23:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Files are a very useful important tool if you’re machining your own parts. They can do plenty of shaping themselves on smaller parts in particular. Powering such a tool just …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developer Decisions For Building Flexible Components]]></title>
+        <id>https://css-tricks.com/?p=353386</id>
+        <link href="https://www.smashingmagazine.com/2021/09/developer-decisions-building-flexible-components/"/>
+        <updated>2021-10-07T21:33:58.000Z</updated>
+        <summary type="html"><![CDATA[Blog posts that get into the whole “how to think like a front-end developer” vibe are my favorite. Michelle Barker nails that in this post, and does it without sharing a line of code!
+We simply can no longer 
+…
+The post Developer Decisions For Building Flexible Components appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BMC Acquires StreamWeaver to Advance AIOps Strategy]]></title>
+        <id>https://devops.com/?p=146169</id>
+        <link href="https://devops.com/bmc-acquires-streamweaver-to-advance-aiops-strategy/"/>
+        <updated>2021-10-07T21:30:26.000Z</updated>
+        <summary type="html"><![CDATA[BMC has acquired StreamWeaver, a provider of a platform that makes it simpler to capture streaming data in real-time, as part of an effort to extend the BMC Helix IT operations platform infused with artificial intelligence (AIOps). Financial terms of the transaction were not disclosed. Margaret Lee, general manager and senior vice president for digital […]
+The post BMC Acquires StreamWeaver to Advance AIOps Strategy appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Mike Vizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook Whistleblower Testified That Company's Algorithms Are Dangerous: Here's Why]]></title>
+        <id>B6EFF54C-FECE-4EC2-AD209536DE8EE262</id>
+        <link href="https://www.scientificamerican.com/article/facebook-whistleblower-testified-that-companys-algorithms-are-dangerous-heres-why/"/>
+        <updated>2021-10-07T20:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Frances Haugen confirmed the negative effects caused by attempts to maximize engagement
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Filippo Menczer, The Conversation US</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[C-Clamp Becomes Light-Duty Arbor Press]]></title>
         <id>https://hackaday.com/?p=499865</id>
@@ -30,6 +88,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What are the Key Stages of Data Protection Impact Assessment?]]></title>
+        <id>https://hackernoon.com/what-are-the-key-stages-of-data-protection-impact-assessment?source=rss</id>
+        <link href="https://hackernoon.com/what-are-the-key-stages-of-data-protection-impact-assessment?source=rss"/>
+        <updated>2021-10-07T19:43:07.000Z</updated>
+        <summary type="html"><![CDATA[A Data Protection Impact Assessment which is also referred to as Privacy Impact Assessments is a mandatory requirement for organizations to comply with.]]></summary>
+        <author>
+            <name>Narendra Sahoo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stoplight's Open-Source October: Hacktoberfest Involvement & Pull-Requests for Trees]]></title>
+        <id>https://hackernoon.com/stoplights-open-source-october-hacktoberfest-involvement-and-pull-requests-for-trees?source=rss</id>
+        <link href="https://hackernoon.com/stoplights-open-source-october-hacktoberfest-involvement-and-pull-requests-for-trees?source=rss"/>
+        <updated>2021-10-07T19:32:22.000Z</updated>
+        <summary type="html"><![CDATA[Complete an open-source pull request from one of our open-source tools, & we will plan 400 trees in your honor to celebrate Open-Source October & Hacktoberfest.]]></summary>
+        <author>
+            <name>Stoplight</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Verica Launches Database for Sharing IT Incident Reports]]></title>
         <id>https://devops.com/?p=146112</id>
         <link href="https://devops.com/verica-launches-database-for-sharing-it-incident-reports/"/>
@@ -38,6 +116,46 @@
 The post Verica Launches Database for Sharing IT Incident Reports appeared first on DevOps.com.]]></summary>
         <author>
             <name>Mike Vizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finally, I' m Not Coding on a 5-Year-Old Chromebook Anymore]]></title>
+        <id>https://hackernoon.com/finally-i-m-not-coding-on-a-5-year-old-chromebook-anymore?source=rss</id>
+        <link href="https://hackernoon.com/finally-i-m-not-coding-on-a-5-year-old-chromebook-anymore?source=rss"/>
+        <updated>2021-10-07T19:27:49.000Z</updated>
+        <summary type="html"><![CDATA[Recently I got a nice computer, but before I was using a very old Chromebook. I talk about my experiences trying to set up a coding environment.]]></summary>
+        <author>
+            <name>Ian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make your Rails App Work with the Mac M1 Chip [SOLVED]]]></title>
+        <id>https://hackernoon.com/how-to-make-your-rails-app-work-with-the-mac-m1-chip-solved?source=rss</id>
+        <link href="https://hackernoon.com/how-to-make-your-rails-app-work-with-the-mac-m1-chip-solved?source=rss"/>
+        <updated>2021-10-07T19:18:28.000Z</updated>
+        <summary type="html"><![CDATA[Get your rails app running from terminal using the following steps on MacBook M1 Chip.]]></summary>
+        <author>
+            <name>amisha-100</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trouble Brewing in the Nerdisphere: Now, I Just Need to Choose a Framework]]></title>
+        <id>https://hackernoon.com/trouble-brewing-in-the-nerdisphere-now-i-just-need-to-choose-a-framework?source=rss</id>
+        <link href="https://hackernoon.com/trouble-brewing-in-the-nerdisphere-now-i-just-need-to-choose-a-framework?source=rss"/>
+        <updated>2021-10-07T19:07:54.000Z</updated>
+        <summary type="html"><![CDATA[A javascript developer desperately tries to make sense of the universe and the purpose of programming within it. He finds more questions than answer.]]></summary>
+        <author>
+            <name>Elijah Ken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using PWA and Vue JS TOGETHER – How It Benefits Businesses?]]></title>
+        <id>https://hackernoon.com/using-pwa-and-vue-js-together---how-it-benefits-businesses?source=rss</id>
+        <link href="https://hackernoon.com/using-pwa-and-vue-js-together---how-it-benefits-businesses?source=rss"/>
+        <updated>2021-10-07T18:54:52.000Z</updated>
+        <summary type="html"><![CDATA[Want to know how converting your Vue JS Web Apps into PWAs can benefit your business and how it can improve things like SEO, load times, and reduce costs?]]></summary>
+        <author>
+            <name>AddWeb Solution</name>
         </author>
     </entry>
     <entry>
@@ -88,6 +206,16 @@ Tags: freelancing]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bitcoin Alliance to Support El Salvador’s Recent Adoption of Crypto-Friendly Financial Services]]></title>
+        <id>https://hackernoon.com/bitcoin-alliance-to-support-el-salvadors-recent-adoption-of-crypto-friendly-financial-services?source=rss</id>
+        <link href="https://hackernoon.com/bitcoin-alliance-to-support-el-salvadors-recent-adoption-of-crypto-friendly-financial-services?source=rss"/>
+        <updated>2021-10-07T17:24:21.000Z</updated>
+        <summary type="html"><![CDATA[API3 is pleased to announce the Bitcoin Alliance, an alliance with Banco Hipotecario, TESOBE (The company behind the Open Bank Project), Qredo and Sovryn to support El Salvador’s recent adoption of bitcoin and crypto-friendly financial services.]]></summary>
+        <author>
+            <name>API3</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Linux Fu: Globs vs Regexp]]></title>
         <id>https://hackaday.com/?p=499038</id>
         <link href="https://hackaday.com/2021/10/07/linux-fu-globs-vs-regexp/"/>
@@ -95,6 +223,16 @@ Tags: freelancing]]></summary>
         <summary type="html"><![CDATA[I once asked a software developer at work how many times we called fork() in our code. I’ll admit, it was a very large project, but I expected the answer …read more]]></summary>
         <author>
             <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Concerning Results of Investigation Into Google’s YouTube Ad Placement Blocklist]]></title>
+        <id>https://hackernoon.com/the-concerning-results-of-investigation-into-googles-youtube-ad-placement-blocklist?source=rss</id>
+        <link href="https://hackernoon.com/the-concerning-results-of-investigation-into-googles-youtube-ad-placement-blocklist?source=rss"/>
+        <updated>2021-10-07T16:33:34.000Z</updated>
+        <summary type="html"><![CDATA[An investigation by The Markup has shown that YouTube has been surpressing Black Lives Matter-related ads while doing nothing to prevent white supremacist ads.]]></summary>
+        <author>
+            <name>The Markup</name>
         </author>
     </entry>
     <entry>
