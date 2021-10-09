@@ -6,6 +6,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=353429",
+          "author": "Chris Coyier",
+          "description": "A good essay from Jean Yang. \nWhat I mean by developer experience is the sum total of how developers interface with their tools, end-to-end, day-in and day-out. Sure, there’s more focus than ever on how developers use and adopt tools, and \n…\nThe post The Case for ‘Developer Experience’ appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://future.a16z.com/the-case-for-developer-experience/",
+          "publishedOn": "2021-10-08T20:23:42.000Z",
+          "wordCount": 4622,
+          "title": "The Case for ‘Developer Experience’"
+        },
+        {
+          "id": "https://css-tricks.com/?p=353374",
+          "author": "Chris Coyier",
+          "description": "I like the pushback from Katie Kodes here. I’ve said in the past that I don’t think server-side languages haven’t quite nailed “building in components” as well as JavaScript has, but hey, this is a good point:\n1. Any basic \n…\nThe post Jekyll doesn’t do components? Liar! appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://katiekodes.com/jekyll-components-wysiwyg/",
+          "publishedOn": "2021-10-08T17:14:05.000Z",
+          "wordCount": 2734,
+          "title": "Jekyll doesn’t do components? Liar!"
+        },
+        {
+          "id": "https://css-tricks.com/?p=353066",
+          "author": "Brenley Dueck",
+          "description": "Today we will be learning how to build a tennis trivia app using Next.js and Netlify. This technology stack has become my go-to on many projects. It allows for rapid development and easy deployment.\nWithout further ado let’s jump in!…\nThe post Building a Tennis Trivia App With Next.js and Netlify appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/building-a-tennis-trivia-app-with-next-js-and-netlify/",
+          "publishedOn": "2021-10-08T14:30:57.000Z",
+          "wordCount": 2789,
+          "title": "Building a Tennis Trivia App With Next.js and Netlify"
+        },
+        {
+          "id": "https://css-tricks.com/?p=353062",
+          "author": "Chris Coyier",
+          "description": "I saw this blog post the other day: 58% of Hacker News, Reddit and tech-savvy audiences block Google Analytics. That’s an enticing title to me. I’ve had Google Analytics on this site literally from the day I launched it. …\nThe post Comparing Google Analytics and Plausible Numbers appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/comparing-google-analytics-and-plausible-numbers/",
+          "publishedOn": "2021-10-08T14:30:40.000Z",
+          "wordCount": 1007,
+          "title": "Comparing Google Analytics and Plausible Numbers"
+        },
+        {
           "id": "https://css-tricks.com/?p=353112",
           "author": "Chris Coyier",
           "description": "There comes a time on a project when it’s worth investing in tooling to protect the codebase. I’m not sure how to articulate when, but it’s somewhere after the project has proven to be something long-term and rough edges …\nThe post Writing Your Own Code Rules appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -283,6 +319,42 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "615d55e60d91c9077974d408",
+          "author": null,
+          "description": "In today's world, we are all heavily reliant on various software products that were carefully programmed by developers. But what is computer programming? In this article, I will provide a definition of programming, as well as examples of different types of programmers. I will also suggest a list of courses",
+          "link": "https://www.freecodecamp.org/news/what-is-programming/",
+          "publishedOn": "2021-10-08T19:11:39.000Z",
+          "wordCount": 1421,
+          "title": "What is Computer Programming?"
+        },
+        {
+          "id": "6160836e804854468fda67bf",
+          "author": null,
+          "description": "These days, lots of developers like to use dark mode. And it's no surprise, as activating dark mode reduces eye strain and leads to better eye health. It also helps both machines and humans perform better overall.  In this article, I will show you how to turn on the dark",
+          "link": "https://www.freecodecamp.org/news/how-to-turn-on-dark-mode-on-google-chrome-black-theme-tutorial/",
+          "publishedOn": "2021-10-08T19:10:46.000Z",
+          "wordCount": 606,
+          "title": "How to Turn On Dark Mode on Google – Chrome Black Theme Tutorial"
+        },
+        {
+          "id": "613f3c5e852f4307d372c7c6",
+          "author": null,
+          "description": "If you want to save a new location you discovered on Google Maps, you need to drop a pin on that location.  In this article, I will show you how to drop a pin in Google Maps from your phone or computer. How to Drop a Pin on Google Maps",
+          "link": "https://www.freecodecamp.org/news/how-to-drop-a-pin-on-google-maps/",
+          "publishedOn": "2021-10-08T19:03:55.000Z",
+          "wordCount": 589,
+          "title": "How to Drop a Pin on Google Maps"
+        },
+        {
+          "id": "615dbaeb0d91c9077974defb",
+          "author": null,
+          "description": "“Hey, could you please send me our customers' emails? We’re about to launch a new marketing campaign and…we need them ASAP.” If you work in the Web department on a corporate level, you've probably heard this sentence hundreds of times. So, today I want to share how I",
+          "link": "https://www.freecodecamp.org/news/how-to-create-an-excel-file-with-customers-data-with-woocommerce-and-python/",
+          "publishedOn": "2021-10-08T15:15:28.000Z",
+          "wordCount": 1214,
+          "title": "How to Create an Excel File that Pulls Customer Data with WooCommerce and Python"
+        },
+        {
           "id": "615de4da0d91c9077974e23f",
           "author": null,
           "description": "Go, also known as Golang, is an open-source, compiled, and statically typed programming language designed by Google. It is built to be simple, high-performing, readable, and efficient.  In this article, you'll learn:  Where Go came from and where it is now, Why I think you should learn it, How to",
@@ -532,6 +604,186 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/ransoms-paid-are-at-a-300percent-increase-from-the-previous-year-cisa-launches-stopransomwaregov?source=rss",
+          "author": "Zen Chan",
+          "description": "StopRansomware.gov provides relevant information to support organizations with answers on cybersecurity threats.",
+          "link": "https://hackernoon.com/ransoms-paid-are-at-a-300percent-increase-from-the-previous-year-cisa-launches-stopransomwaregov?source=rss",
+          "publishedOn": "2021-10-08T20:40:31.000Z",
+          "wordCount": 1228,
+          "title": "Ransoms Paid are at a 300% Increase From the Previous Year; CISA Launches StopRansomware.gov"
+        },
+        {
+          "id": "https://hackernoon.com/critical-thinking-cryptocurrency-and-a-space-hotel?source=rss",
+          "author": "Podcast",
+          "description": "Nicolas Ng, Hang Ngo, and Ellen Stevens examine the details of how HackerNoon is controlling the social media empires.",
+          "link": "https://hackernoon.com/critical-thinking-cryptocurrency-and-a-space-hotel?source=rss",
+          "publishedOn": "2021-10-08T19:44:46.000Z",
+          "wordCount": 5402,
+          "title": "Critical Thinking, Cryptocurrency, and a Space Hotel"
+        },
+        {
+          "id": "https://hackernoon.com/the-best-developers-rarely-get-the-job-its-like-tinder-for-jobs?source=rss",
+          "author": "David Roberts",
+          "description": "Learn how recruiters review your profile and get more job interviews (for a Software Developer role).",
+          "link": "https://hackernoon.com/the-best-developers-rarely-get-the-job-its-like-tinder-for-jobs?source=rss",
+          "publishedOn": "2021-10-08T19:40:10.000Z",
+          "wordCount": 770,
+          "title": "The Best Developers Rarely get the job, \"It’s like Tinder for jobs\""
+        },
+        {
+          "id": "https://hackernoon.com/defi-glossary-2021-pretend-you-know-what-is-going-on?source=rss",
+          "author": "Hashbon",
+          "description": "This DeFi glossary aims to describe the major aspects of Bridge, CDEX, and DEX.",
+          "link": "https://hackernoon.com/defi-glossary-2021-pretend-you-know-what-is-going-on?source=rss",
+          "publishedOn": "2021-10-08T18:42:13.000Z",
+          "wordCount": 2031,
+          "title": "DeFi Glossary 2021: Pretend You Know What is Going on"
+        },
+        {
+          "id": "https://hackernoon.com/ios-ui-testing-how-to-troubleshoot-ci-machine-and-element-identifying-issues?source=rss",
+          "author": "Wirex R&D",
+          "description": "How troubleshooting CI Machines and identifying elements is helpful when testing your iOS UI mockup for your project as well as how to speed up the process.",
+          "link": "https://hackernoon.com/ios-ui-testing-how-to-troubleshoot-ci-machine-and-element-identifying-issues?source=rss",
+          "publishedOn": "2021-10-08T17:38:40.000Z",
+          "wordCount": 825,
+          "title": "iOS UI Testing: How to Troubleshoot CI Machine & Element Identifying Issues"
+        },
+        {
+          "id": "https://hackernoon.com/big-tech-vs-big-government-the-choice-is-pretty-bleak?source=rss",
+          "author": "The Markup",
+          "description": "A group of bipartisan lawmakers hopes to pass antitrust legislation that takes aim at tech giants buying out the competition and hoarding data.",
+          "link": "https://hackernoon.com/big-tech-vs-big-government-the-choice-is-pretty-bleak?source=rss",
+          "publishedOn": "2021-10-08T17:33:38.000Z",
+          "wordCount": 817,
+          "title": "Big Tech Vs. Big Government: The Choice is Pretty Bleak"
+        },
+        {
+          "id": "https://hackernoon.com/the-perks-of-piracy-how-sports-industry-earns-thanks-to-a-portion-of-pirates?source=rss",
+          "author": "TorrentFreak",
+          "description": "New research published by Synamedia shows that the sports industry can potentially earn billions in extra revenue with a tailored approach to piracy.",
+          "link": "https://hackernoon.com/the-perks-of-piracy-how-sports-industry-earns-thanks-to-a-portion-of-pirates?source=rss",
+          "publishedOn": "2021-10-08T16:58:10.000Z",
+          "wordCount": 842,
+          "title": "The Perks of Piracy: How Sports Industry Earns Thanks to a Portion of Pirates"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-ethermore-explained-by-the-community?source=rss",
+          "author": "Limarc Ambalina",
+          "description": "Ethermore is a TTRPG blockchain game and an emerging fantasy world built by the community on the Ethereum blockchain.",
+          "link": "https://hackernoon.com/what-is-ethermore-explained-by-the-community?source=rss",
+          "publishedOn": "2021-10-08T16:22:57.000Z",
+          "wordCount": 3623,
+          "title": "What is Ethermore? (Explained by the Community)"
+        },
+        {
+          "id": "https://hackernoon.com/is-apple-pay-secure-platform-security-and-privacy-overview?source=rss",
+          "author": "Jessica Truong",
+          "description": "Apple Pay is a secure feature that uses multiple layers of encryption to protect users credit card information. Read to learn how to make Apple Pay more secure!",
+          "link": "https://hackernoon.com/is-apple-pay-secure-platform-security-and-privacy-overview?source=rss",
+          "publishedOn": "2021-10-08T15:28:05.000Z",
+          "wordCount": 1743,
+          "title": "Is Apple Pay Secure? - Platform Security and Privacy Overview"
+        },
+        {
+          "id": "https://hackernoon.com/14-open-source-sql-parsers?source=rss",
+          "author": "Rajat Venkatesh",
+          "description": "Parsing SQL queries provides superpowers for monitoring data health. This post describes how to get started on parsing SQL for data observability.",
+          "link": "https://hackernoon.com/14-open-source-sql-parsers?source=rss",
+          "publishedOn": "2021-10-08T15:12:20.000Z",
+          "wordCount": 791,
+          "title": "14 Open Source SQL Parsers"
+        },
+        {
+          "id": "https://hackernoon.com/why-singapore-is-the-place-to-launch-tech-startups-hint-no-tax-on-capital-profits?source=rss",
+          "author": "AsiaTech",
+          "description": "Singapore is one of the best places to start a business in the world. Taxes, opportunities, and quality of life are some of the reasons why.",
+          "link": "https://hackernoon.com/why-singapore-is-the-place-to-launch-tech-startups-hint-no-tax-on-capital-profits?source=rss",
+          "publishedOn": "2021-10-08T15:05:28.000Z",
+          "wordCount": 809,
+          "title": "Why Singapore Is The Place to Launch Tech Startups (Hint: No Tax On Capital Profits)"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-build-your-personal-brand-with-writing?source=rss",
+          "author": "Podcast",
+          "description": "Meet Scott D. Clary! Scott is a long-time HackerNoon contributor with over 20 published stories about business strategy. Amy Tom chats with Scott about hosting",
+          "link": "https://hackernoon.com/how-to-build-your-personal-brand-with-writing?source=rss",
+          "publishedOn": "2021-10-08T15:01:14.000Z",
+          "wordCount": 8590,
+          "title": "How to Build Your Personal Brand with Writing"
+        },
+        {
+          "id": "https://hackernoon.com/the-female-faces-of-the-esports-industry?source=rss",
+          "author": "AFK ESPORTS BAR",
+          "description": "One of the features of cybersport disciplines that distinguishes them from standard sports is that there is no strict segregation of genders.",
+          "link": "https://hackernoon.com/the-female-faces-of-the-esports-industry?source=rss",
+          "publishedOn": "2021-10-08T14:48:32.000Z",
+          "wordCount": 1675,
+          "title": "The Female Faces of the Esports Industry"
+        },
+        {
+          "id": "https://hackernoon.com/metahistory-memoirs-of-a-umn-genesis-citizen?source=rss",
+          "author": "Boubbha Stories",
+          "description": "Due to dissatisfaction with many of the current nations on Earth, some pioneers succeeded in the building the biggest nation on Earth in the metaverse.",
+          "link": "https://hackernoon.com/metahistory-memoirs-of-a-umn-genesis-citizen?source=rss",
+          "publishedOn": "2021-10-08T13:47:06.000Z",
+          "wordCount": 779,
+          "title": "MetaHistory: Memoirs of a UMN Genesis Citizen"
+        },
+        {
+          "id": "https://hackernoon.com/how-polkadot-coin-came-to-be-and-what-is-behind-its-success?source=rss",
+          "author": "Bybit",
+          "description": "Polkadot is an open-source project that offers the transfer of data aross blockchains and supports multiple chains in one network, which is enabled by the Web3",
+          "link": "https://hackernoon.com/how-polkadot-coin-came-to-be-and-what-is-behind-its-success?source=rss",
+          "publishedOn": "2021-10-08T13:27:02.000Z",
+          "wordCount": 3504,
+          "title": "How Polkadot Coin Came to Be and What Is Behind Its Success"
+        },
+        {
+          "id": "https://hackernoon.com/how-nfts-are-being-used-at-events?source=rss",
+          "author": "Jon V",
+          "description": "How NFT Tickets work and why using NFT tickets is the future.",
+          "link": "https://hackernoon.com/how-nfts-are-being-used-at-events?source=rss",
+          "publishedOn": "2021-10-08T11:08:03.000Z",
+          "wordCount": 1412,
+          "title": "How NFTs are Being Used at Events"
+        },
+        {
+          "id": "https://hackernoon.com/a-quick-guide-to-eventsource-or-see?source=rss",
+          "author": "Michael Pautov",
+          "description": "The EventSource interface is web content's interface to server-sent events. An EventSource instance offers a persistent connection to an HTTP server for events.",
+          "link": "https://hackernoon.com/a-quick-guide-to-eventsource-or-see?source=rss",
+          "publishedOn": "2021-10-08T10:32:40.000Z",
+          "wordCount": 1343,
+          "title": "A Quick Guide to EventSource or SEE"
+        },
+        {
+          "id": "https://hackernoon.com/everyone-starts-out-dependent-david-roberts-on-building-a-career-in-tech?source=rss",
+          "author": "David Roberts",
+          "description": "I believe: Anyone can become a great programmer. The best developers rarely get the job. To build a great team, hire decent human begins first, tech second",
+          "link": "https://hackernoon.com/everyone-starts-out-dependent-david-roberts-on-building-a-career-in-tech?source=rss",
+          "publishedOn": "2021-10-08T10:22:50.000Z",
+          "wordCount": 781,
+          "title": "“Everyone Starts Out Dependent”: David Roberts on Building a Career in Tech"
+        },
+        {
+          "id": "https://hackernoon.com/5-tips-to-improve-your-websites-ux?source=rss",
+          "author": "Rebecca Barnatt-Smith",
+          "description": "UX design is the key to battling a growing number of competitors in a post-covid e-commerce environment. Here are 5 strategies for ultimate success.",
+          "link": "https://hackernoon.com/5-tips-to-improve-your-websites-ux?source=rss",
+          "publishedOn": "2021-10-08T08:56:08.000Z",
+          "wordCount": 2036,
+          "title": "5 Tips to Improve Your Website's UX"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-fix-an-ethernet-cable-plug-rj45-plug-and-other-ethernet-tips?source=rss",
+          "author": "Oliver Rieder",
+          "description": "Many of you have probably experienced problems with a broken RJ45 plug. The locking tab of RJ45 plugs breaks easily and this is one of the most common issues faced by the users of Ethernet cables. Now, I’ll tell you about a temporary solution that will help you make a connection with a broken plug more reliable.",
+          "link": "https://hackernoon.com/how-to-fix-an-ethernet-cable-plug-rj45-plug-and-other-ethernet-tips?source=rss",
+          "publishedOn": "2021-10-08T08:43:11.000Z",
+          "wordCount": 2939,
+          "title": "How to Fix an Ethernet Cable Plug (RJ45 Plug) and Other Ethernet Tips"
+        },
         {
           "id": "https://hackernoon.com/what-are-the-key-stages-of-data-protection-impact-assessment?source=rss",
           "author": "Narendra Sahoo",
@@ -1958,6 +2210,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=147057",
+          "author": "ACMer",
+          "description": "Given an array of numbers and a Target, we want to find out the first number that is equal or larger than the target. Linear Search O(N) time and O(1) space: class Solution: def...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-first-number-equal-or-larger-than-target-using-next-function/",
+          "publishedOn": "2021-10-08T20:52:24.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – First Number Equal or Larger Than Target using Next Function",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=147037",
           "author": "ACMer",
           "description": "The MOV video files are generally huge compare to MPEG. When taking a video using smart phones such as iphone 12 Pro Max, you get the MOV videos. Then it starts to fill up your iphone storage as well...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -2521,6 +2783,69 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
+          "id": "https://hackaday.com/?p=498741",
+          "author": "Ryan Flowers",
+          "description": "Prototyping new ideas can be a lot of fun, but putting new projects in a durable enclosure can be a difficulty. This is especially the case when the user of …read more",
+          "link": "https://hackaday.com/2021/10/08/3d-printed-preschooler-proof-mp3-player-takes-a-beat-ing/",
+          "publishedOn": "2021-10-08T23:00:29.000Z",
+          "wordCount": 1253,
+          "title": "3D Printed Preschooler Proof MP3 Player Takes A Beat-ing"
+        },
+        {
+          "id": "https://hackaday.com/?p=500118",
+          "author": "Kristina Panos",
+          "description": "In 1980, France took a step into the future when the telecom companies introduced the Minitel system — a precursor to the Web where users could shop, buy train tickets, …read more",
+          "link": "https://hackaday.com/2021/10/08/minitel-terminal-becomes-mini-laptop/",
+          "publishedOn": "2021-10-08T20:00:20.000Z",
+          "wordCount": 1352,
+          "title": "Minitel Terminal Becomes Mini Laptop"
+        },
+        {
+          "id": "https://hackaday.com/?p=498008",
+          "author": "Dan Maloney",
+          "description": "When it comes to getting signals from an analog world into our computers, most of us don’t give much thought to how the hardware that does the job works. But …read more",
+          "link": "https://hackaday.com/2021/10/08/homebrew-circuit-explores-the-mysteries-of-analog-to-digital-conversion/",
+          "publishedOn": "2021-10-08T18:30:00.000Z",
+          "wordCount": 1385,
+          "title": "Homebrew Circuit Explores the Mysteries of Analog-to-Digital Conversion"
+        },
+        {
+          "id": "https://hackaday.com/?p=499354",
+          "author": "Lewin Day",
+          "description": "Wind turbines are a fantastic, cheap, renewable source of energy. However, nothing lasts forever, and over time, the blades of wind turbines fatigue and must be replaced. This then raises …read more",
+          "link": "https://hackaday.com/2021/10/08/can-we-repurpose-old-wind-turbine-blades/",
+          "publishedOn": "2021-10-08T17:00:48.000Z",
+          "wordCount": 3857,
+          "title": "Can We Repurpose Old Wind Turbine Blades?"
+        },
+        {
+          "id": "https://hackaday.com/?p=499616&preview=true&preview_id=499616",
+          "author": "Tom Nardi",
+          "description": "Hackaday editors Tom Nardi and Elliot Williams bring you up to speed on the most interesting stories of the week. Hackaday’s Remoticon and Germany’s Chaos Communication Congress are virtual again …read more",
+          "link": "https://hackaday.com/2021/10/08/hackaday-podcast-139-furter-burner-glowing-potato-peeler-hacked-smartwatch-and-the-last-atlas/",
+          "publishedOn": "2021-10-08T16:00:35.000Z",
+          "wordCount": 1258,
+          "title": "Hackaday Podcast 139: Furter Burner, Glowing Potato Peeler, Hacked Smartwatch, and The Last Atlas"
+        },
+        {
+          "id": "https://hackaday.com/?p=499316",
+          "author": "Dan Maloney",
+          "description": "Most of the horror stories you hear about air travel seem to center around luggage. Airlines do an admirable job of getting people safely to their destinations, but checked baggage …read more",
+          "link": "https://hackaday.com/2021/10/08/hacked-set-of-instruments-saves-musicians-gigs/",
+          "publishedOn": "2021-10-08T15:30:00.000Z",
+          "wordCount": 1975,
+          "title": "Hacked Set of Instruments Saves Musician’s Gigs"
+        },
+        {
+          "id": "https://hackaday.com/?p=500198",
+          "author": "Jonathan Bennett",
+          "description": "The Apache HTTP Server version 2.4.49 has a blistering vulnerability, and it’s already being leveraged in attacks. CVE-2021-41773 is a simple path traversal flaw, where the %2e encoding is used …read more",
+          "link": "https://hackaday.com/2021/10/08/this-week-in-security-apache-nightmare-revil-arrests-and-the-ultimate-rickroll/",
+          "publishedOn": "2021-10-08T14:00:46.000Z",
+          "wordCount": 2632,
+          "title": "This Week in Security: Apache Nightmare, REvil Arrests?  And the Ultimate RickRoll"
+        },
+        {
           "id": "https://hackaday.com/?p=499125",
           "author": "Lewin Day",
           "description": "Files are a very useful important tool if you’re machining your own parts. They can do plenty of shaping themselves on smaller parts in particular. Powering such a tool just …read more",
@@ -2968,6 +3293,63 @@
       "feedUrl": "http://rss.sciam.com/scientificamerican-global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "10BABC2F-2284-4042-B3D9821A6DBF33B9",
+          "author": "Gary Stix",
+          "description": "2020 in hindsight witnessed a disproportionate mental health burden on women and young people\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/pandemic-year-1-saw-a-dramatic-global-rise-in-anxiety-and-depression/",
+          "publishedOn": "2021-10-08T22:30:00.000Z",
+          "wordCount": null,
+          "title": "Pandemic Year 1 Saw a Dramatic Global Rise in Anxiety and Depression",
+          "itunes": {}
+        },
+        {
+          "id": "3625B560-AE04-4D54-A4E15C5407B06B31",
+          "author": "Corbin Hiar, E&E News",
+          "description": "The new rules could put pressure on Facebook to take similar steps\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/google-bans-ads-that-spread-climate-misinformation/",
+          "publishedOn": "2021-10-08T17:00:00.000Z",
+          "wordCount": null,
+          "title": "Google Bans Ads That Spread Climate Misinformation",
+          "itunes": {}
+        },
+        {
+          "id": "5DE5B96F-82BE-4400-B43A99CD75407BA3",
+          "author": "Amy Maxmen, Nature magazine",
+          "description": "The WHO-approved RTS,S vaccine has a modest efficacy and requires a complex regimen of doses, so ample funding and clear communication are crucial to success\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/scientists-hail-historic-malaria-vaccine-approval-but-point-to-challenges-ahead/",
+          "publishedOn": "2021-10-08T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Scientists Hail Historic Malaria Vaccine Approval--But Point to Challenges Ahead",
+          "itunes": {}
+        },
+        {
+          "id": "B99EF39A-8105-4DFB-85ECC195D4A98539",
+          "author": "Josh Fischman, Tanya Lewis, Jeffery DelViscio",
+          "description": "Today we bring you a new episode in our podcast series COVID, Quickly. Every two weeks, Scientific American’s senior health editors Tanya Lewis and Josh Fischman catch you up on the...\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/podcast/episode/covid-quickly-episode-16-vaccines-protect-pregnancies-and-a-new-antiviral-pill/",
+          "publishedOn": "2021-10-08T15:00:00.000Z",
+          "wordCount": null,
+          "title": "COVID Quickly, Episode 16: Vaccines Protect Pregnancies, and a New Antiviral Pill",
+          "itunes": {
+            "duration": "05:00"
+          },
+          "enclosure": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=952075BD-AF1E-47B5-AFA3F3F61240B7E0",
+            "length": "4942678",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "F4DCA2C5-226B-4C57-91E29EECC2BA39C0",
+          "author": "Tanya Lewis",
+          "description": "Ardem Patapoutian shared the physiology or medicine prize for work on mechanisms crucial to everything from bladder control to knowing where our limbs are\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/2021-medicine-nobel-prize-winner-explains-the-importance-of-sensing-touch/",
+          "publishedOn": "2021-10-08T10:45:00.000Z",
+          "wordCount": null,
+          "title": "2021 Medicine Nobel Prize Winner Explains the Importance of Sensing Touch",
+          "itunes": {}
+        },
         {
           "id": "B6EFF54C-FECE-4EC2-AD209536DE8EE262",
           "author": "Filippo Menczer, The Conversation US",
@@ -3587,6 +3969,33 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=146210",
+          "author": "Mike Vizard",
+          "description": "During its online SnykCon 2021 conference this week, Snyk extended Snyk Code, a static application security testing (SAST) tool that already supports the Java, JavaScript and Python programming languages to include support for C#, Ruby, PHP and Go. At the same time, Snyk Open Source, a platform for remediating open source vulnerabilities, has been extended […]\nThe post Snyk Extends Tools Portfolio to Drive DevSecOps Adoption appeared first on DevOps.com.",
+          "link": "https://devops.com/snyk-extends-tools-portfolio-to-drive-devsecops-adoption/",
+          "publishedOn": "2021-10-08T19:06:14.000Z",
+          "wordCount": 1017,
+          "title": "Snyk Extends Tools Portfolio to Drive DevSecOps Adoption"
+        },
+        {
+          "id": "https://devops.com/?p=146172",
+          "author": "Terry Simpson",
+          "description": "A few weeks ago, one of my neighbors dug a ditch in his yard, hit a fiber internet line and knocked out my internet for eight hours. There I was, ready to start working, and I was cut off from my colleagues for an entire day. That experience highlighted the importance of a good digital […]\nThe post Your Tech is Only as Good as Your Infrastructure appeared first on DevOps.com.",
+          "link": "https://devops.com/your-tech-is-only-as-good-as-your-infrastructure/",
+          "publishedOn": "2021-10-08T07:00:30.000Z",
+          "wordCount": 1255,
+          "title": "Your Tech is Only as Good as Your Infrastructure"
+        },
+        {
+          "id": "https://devops.com/?p=146139",
+          "author": "Jonathan Schneider",
+          "description": "Software development is undergoing industrialization, with more and more software rapidly assembled out of components and an emphasis on building automation around software validation and release processes. Modern cloud-native software is no longer a monolithic application living in a single repo with the majority of its dependencies self-contained. It is integrated from third-party components provided […]\nThe post Microservices Adoption and the Software Supply Chain appeared first on DevOps.com.",
+          "link": "https://devops.com/microservices-adoption-and-the-software-supply-chain/",
+          "publishedOn": "2021-10-08T06:30:43.000Z",
+          "wordCount": 1604,
+          "title": "Microservices Adoption and the Software Supply Chain"
+        },
+        {
           "id": "https://devops.com/?p=146169",
           "author": "Mike Vizard",
           "description": "BMC has acquired StreamWeaver, a provider of a platform that makes it simpler to capture streaming data in real-time, as part of an effort to extend the BMC Helix IT operations platform infused with artificial intelligence (AIOps). Financial terms of the transaction were not disclosed. Margaret Lee, general manager and senior vice president for digital […]\nThe post BMC Acquires StreamWeaver to Advance AIOps Strategy appeared first on DevOps.com.",
@@ -3915,6 +4324,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=65742",
+          "author": "Nathan Yau",
+          "description": "Spike maps use the height of spikes to encode data geographically. The format…\nTags: package, R",
+          "link": "https://flowingdata.com/2021/10/08/spike-maps-in-r/",
+          "publishedOn": "2021-10-08T15:50:00.000Z",
+          "wordCount": 287,
+          "title": "Spike maps in R"
+        },
         {
           "id": "https://flowingdata.com/?p=65731",
           "author": "Nathan Yau",
