@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=352907",
+          "author": "Chris Coyier",
+          "description": "Why would a company promote a native app over their perfectly usable website?\nWe’d have to ask them, I suppose. But it’s hard not to see this push to native as a matter of priorities: that these companies consider native \n…\nThe post Those “Get The App” Banners appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/those-get-the-app-banners/",
+          "publishedOn": "2021-10-11T22:12:35.000Z",
+          "wordCount": 567,
+          "title": "Those “Get The App” Banners"
+        },
+        {
+          "id": "https://css-tricks.com/?p=353431",
+          "author": "Chris Coyier",
+          "description": "The README for Cash is straightforward:\nCash is an absurdly small jQuery alternative for modern browsers (IE11+) that provides jQuery-style syntax for manipulating the DOM. Utilizing modern browser features to minimize the codebase, developers can use the familiar chainable methods \n…\nThe post Cash (Tiny jQuery Alternative) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/cash-tiny-jquery-alternative/",
+          "publishedOn": "2021-10-11T20:28:24.000Z",
+          "wordCount": 576,
+          "title": "Cash (Tiny jQuery Alternative)"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352569",
+          "author": "Tobias Günther",
+          "description": "This article is part of our “Advanced Git” series. Be sure to follow us on Twitter or sign up for our newsletter to hear about the next articles!\nIn this third installment of our “Advanced Git” series, we’ll look at …\nThe post Better Collaboration With Pull Requests appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/better-collaboration-with-pull-requests/",
+          "publishedOn": "2021-10-11T14:29:44.000Z",
+          "wordCount": 1711,
+          "title": "Better Collaboration With Pull Requests"
+        },
+        {
           "id": "https://css-tricks.com/?p=353429",
           "author": "Chris Coyier",
           "description": "A good essay from Jean Yang. \nWhat I mean by developer experience is the sum total of how developers interface with their tools, end-to-end, day-in and day-out. Sure, there’s more focus than ever on how developers use and adopt tools, and \n…\nThe post The Case for ‘Developer Experience’ appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -319,6 +346,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "6159ab734aa03507d9412321",
+          "author": null,
+          "description": "What follows is a full-length book on how to create a successful blog. I am a software developer and I've written 1,500 posts on my blog over the past few years. Millions of people have read my writing. And my blog is now one of the top 20,000",
+          "link": "https://www.freecodecamp.org/news/how-to-start-a-blog-book/",
+          "publishedOn": "2021-10-11T17:21:00.000Z",
+          "wordCount": 14932,
+          "title": "How to Start a Blog [Free 70-Page Book]"
+        },
+        {
+          "id": "615408e064aefe07d3fa0743",
+          "author": null,
+          "description": "In mid-2021, a new Twitter design trend emerged: dynamically updated headers. Developers decided that static headers were boring, and dynamic Twitter headers were the way to go.  Ever since then, many developers (including me) have been creating dynamic banners on Twitter. But what does this actually mean? The idea is",
+          "link": "https://www.freecodecamp.org/news/create-a-dynamic-twitter-header/",
+          "publishedOn": "2021-10-11T14:50:00.000Z",
+          "wordCount": 2257,
+          "title": "How to Create a Dynamic Twitter Header"
+        },
+        {
           "id": "615d55e60d91c9077974d408",
           "author": null,
           "description": "In today's world, we are all heavily reliant on various software products that were carefully programmed by developers. But what is computer programming? In this article, I will provide a definition of programming, as well as examples of different types of programmers. I will also suggest a list of courses",
@@ -605,6 +650,87 @@
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
         {
+          "id": "https://hackernoon.com/how-a-beginner-created-and-deployed-a-webapp-in-4-days?source=rss",
+          "author": "Tarun Sharma",
+          "description": "How I created and deployed a WebApp in 4 days after learning to code.",
+          "link": "https://hackernoon.com/how-a-beginner-created-and-deployed-a-webapp-in-4-days?source=rss",
+          "publishedOn": "2021-10-11T21:59:49.000Z",
+          "wordCount": 1415,
+          "title": "How a Beginner Created and Deployed a WebApp in 4 Days"
+        },
+        {
+          "id": "https://hackernoon.com/6-best-chrome-and-vs-code-extensions-for-developers?source=rss",
+          "author": "Alex Omeyer",
+          "description": "Extensions can make our life as a developer a little easier. Here are 6 of the best Chrome and VSCode extensions for Developers.",
+          "link": "https://hackernoon.com/6-best-chrome-and-vs-code-extensions-for-developers?source=rss",
+          "publishedOn": "2021-10-11T21:32:52.000Z",
+          "wordCount": 709,
+          "title": "6 Best Chrome & VS Code Extensions For Developers"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-create-kubernetes-yaml-files?source=rss",
+          "author": "Piotr",
+          "description": "This article is intended as a guide for creating Kubernetes manifest files.",
+          "link": "https://hackernoon.com/how-to-create-kubernetes-yaml-files?source=rss",
+          "publishedOn": "2021-10-11T19:48:10.000Z",
+          "wordCount": 795,
+          "title": "How to create Kubernetes YAML files"
+        },
+        {
+          "id": "https://hackernoon.com/bayesian-brain-is-your-brain-a-data-scientist?source=rss",
+          "author": "Nikola O.",
+          "description": "Is your Brain a Data Scientist? Yes, according to the Bayesian Brain Hypothesis, your brain is a Bayesian statistician. Let me explain.",
+          "link": "https://hackernoon.com/bayesian-brain-is-your-brain-a-data-scientist?source=rss",
+          "publishedOn": "2021-10-11T17:07:13.000Z",
+          "wordCount": 1678,
+          "title": "Bayesian Brain: Is Your Brain a Data Scientist?"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-lead-your-teams-technical-debt-management?source=rss",
+          "author": "Csaba Okrona",
+          "description": "Delivery speed results in cost reduction; confidence enables speed; confidence requires quality.",
+          "link": "https://hackernoon.com/how-to-lead-your-teams-technical-debt-management?source=rss",
+          "publishedOn": "2021-10-11T15:32:30.000Z",
+          "wordCount": 799,
+          "title": "How to Lead Your Team's Technical Debt Management"
+        },
+        {
+          "id": "https://hackernoon.com/proving-unconditional-possession-of-a-private-key-a-short-story?source=rss",
+          "author": "Vitalik Buterin",
+          "description": "Cryptographic key management is an effective way of minimising ways that the security of a blockchain may be compromised when humans begin interacting with it.",
+          "link": "https://hackernoon.com/proving-unconditional-possession-of-a-private-key-a-short-story?source=rss",
+          "publishedOn": "2021-10-11T12:14:12.000Z",
+          "wordCount": 799,
+          "title": "Proving Unconditional Possession of a Private Key: A Short Story"
+        },
+        {
+          "id": "https://hackernoon.com/automation-ai-and-the-future-of-jobs?source=rss",
+          "author": "Roxana Murariu",
+          "description": "Billions of people will not have the luck, means,  or stamina to keep retraining and hold non-automatized jobs. Can our society future-proof itself?",
+          "link": "https://hackernoon.com/automation-ai-and-the-future-of-jobs?source=rss",
+          "publishedOn": "2021-10-11T03:51:58.000Z",
+          "wordCount": 3409,
+          "title": "Automation, AI, and the Future of Jobs"
+        },
+        {
+          "id": "https://hackernoon.com/racism-and-vigilantism-are-pervasive-on-safety-platforms?source=rss",
+          "author": "The Markup",
+          "description": "In one town, police say products like Nextdoor and Ring are helping fight crime. But racism and vigilantism are pervasive on safety platforms.",
+          "link": "https://hackernoon.com/racism-and-vigilantism-are-pervasive-on-safety-platforms?source=rss",
+          "publishedOn": "2021-10-11T03:43:54.000Z",
+          "wordCount": 770,
+          "title": "\"Racism and vigilantism are pervasive on safety platforms\""
+        },
+        {
+          "id": "https://hackernoon.com/uber-and-lyft-drivers-are-increasingly-victims-of-carjacking?source=rss",
+          "author": "The Markup",
+          "description": "The Markup confirmed 124 carjackings and attempted carjackings of ride-hail drivers across the country. Drivers say the companies are doing little to help.",
+          "link": "https://hackernoon.com/uber-and-lyft-drivers-are-increasingly-victims-of-carjacking?source=rss",
+          "publishedOn": "2021-10-11T03:19:13.000Z",
+          "wordCount": 862,
+          "title": "Uber and Lyft Drivers are Increasingly Victims of Carjacking"
+        },
+        {
           "id": "https://hackernoon.com/resources-and-tools-by-aws-that-can-help-you-get-started-for-free?source=rss",
           "author": "Dashbird",
           "description": "In this article, we'll cover some tricks and tips to get started and keep using AWS for free.",
@@ -630,6 +756,15 @@
           "publishedOn": "2021-10-10T20:32:22.000Z",
           "wordCount": 818,
           "title": "On Passion Economy and Knowledge Entrepreneurs, with Jeremy Saenz, CPO of Kajabi"
+        },
+        {
+          "id": "https://hackernoon.com/a-majority-of-aussies-not-motivated-to-pursue-content-further-after-facing-blocked-pirate-sites?source=rss",
+          "author": "TorrentFreak",
+          "description": "Research commissioned by the Australian government says 59% of people faced with a blocked pirate site are more likely to simply give up than try other means.",
+          "link": "https://hackernoon.com/a-majority-of-aussies-not-motivated-to-pursue-content-further-after-facing-blocked-pirate-sites?source=rss",
+          "publishedOn": "2021-10-10T20:12:34.000Z",
+          "wordCount": 842,
+          "title": "A Majority of Aussies Not Motivated to Pursue Content Further After Facing Blocked Pirate Sites"
         },
         {
           "id": "https://hackernoon.com/theres-fewer-pirates-in-the-uk-but-their-motives-stay-the-same?source=rss",
@@ -3082,6 +3217,69 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
+          "id": "https://hackaday.com/?p=500751",
+          "author": "Robin Kearey",
+          "description": "We’ve all learned in primary school art classes that blue and yellow make green, and that adding a little black to a color will make it darker. But what if …read more",
+          "link": "https://hackaday.com/2021/10/11/the-m5stack-color-maker-can-mix-paint-to-match-your-subject/",
+          "publishedOn": "2021-10-11T23:00:23.000Z",
+          "wordCount": 1377,
+          "title": "The M5Stack Color Maker Can Mix Paint to Match Your Subject"
+        },
+        {
+          "id": "https://hackaday.com/?p=500715",
+          "author": "Chris Wilkinson",
+          "description": "When [Fab] needed an anemometer for his latest project, he was stymied by the limited range and relatively high prices of commercial options. Undeterred, his solution was an impressive DIY …read more",
+          "link": "https://hackaday.com/2021/10/11/diy-anemometer-for-projects-big-and-small/",
+          "publishedOn": "2021-10-11T20:00:31.000Z",
+          "wordCount": 1135,
+          "title": "DIY Anemometer For Projects Big and Small"
+        },
+        {
+          "id": "https://hackaday.com/?p=500165&preview=true&preview_id=500165",
+          "author": "Dan Maloney",
+          "description": "Join us on Wednesday, October 13 at noon Pacific for the Resin Printing Hack Chat with Andrew Sink! At its heart, 3D printing is such a simple idea that it’s …read more",
+          "link": "https://hackaday.com/2021/10/11/resin-printing-hack-chat/",
+          "publishedOn": "2021-10-11T19:00:00.000Z",
+          "wordCount": 1196,
+          "title": "Resin Printing Hack Chat"
+        },
+        {
+          "id": "https://hackaday.com/?p=499765",
+          "author": "Kristina Panos",
+          "description": "No matter where you live in the world or what beverage you enjoy, it’s too easy to spill it on the keyboard. Obviously, the solution is to combine the two. …read more",
+          "link": "https://hackaday.com/2021/10/11/cant-spill-coffee-on-your-keyboard-if-its-already-inside/",
+          "publishedOn": "2021-10-11T18:00:00.000Z",
+          "wordCount": 1327,
+          "title": "Can’t Spill Coffee On Your Keyboard If It’s Already Inside"
+        },
+        {
+          "id": "https://hackaday.com/?p=496096",
+          "author": "Dan Maloney",
+          "description": "It is by no means an overstatement to say that life as we know it would grind to a halt without cargo ships. If any doubt remained about that fact, …read more",
+          "link": "https://hackaday.com/2021/10/11/automate-the-freight-autonomous-ships-look-for-their-niche/",
+          "publishedOn": "2021-10-11T17:00:06.000Z",
+          "wordCount": 3877,
+          "title": "Automate the Freight: Autonomous Ships Look for Their Niche"
+        },
+        {
+          "id": "https://hackaday.com/?p=499112",
+          "author": "Mike Szczys",
+          "description": "It is my pleasure to announce that Keith Thorne has graciously agreed to deliver a keynote take at Hackaday Remoticon 2. Get your ticket now! Keith is an astrophysicist and …read more",
+          "link": "https://hackaday.com/2021/10/11/keith-thorne-engineer-at-ligo-to-deliver-remoticon-keynote/",
+          "publishedOn": "2021-10-11T16:00:35.000Z",
+          "wordCount": 1565,
+          "title": "Keith Thorne, Engineer at LIGO, to Deliver Remoticon Keynote"
+        },
+        {
+          "id": "https://hackaday.com/?p=499990",
+          "author": "Al Williams",
+          "description": "You’ve probably heard the term magnetic gradient before, but have you ever seen one? Now you can in [supermagnetman’s] video, below. The key is to use very fine (2 micron) …read more",
+          "link": "https://hackaday.com/2021/10/11/magnetic-experiments-shows-gradients/",
+          "publishedOn": "2021-10-11T15:00:27.000Z",
+          "wordCount": 1137,
+          "title": "Magnetic Experiments Shows Gradients"
+        },
+        {
           "id": "https://hackaday.com/?p=499907&preview=true&preview_id=499907",
           "author": "Dan Maloney",
           "description": "We have to admit, it was hard not to be insufferably smug this week when Facebook temporarily went dark around the globe. Sick of being stalked by crazy aunts and …read more",
@@ -3718,6 +3916,46 @@
       "feedUrl": "http://rss.sciam.com/scientificamerican-global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "F28353F5-04CD-47B2-A3B4F36082A7CE25",
+          "author": "Rachel Nuwer",
+          "description": "A dig in the Nevada desert finds telltale seeds at the site of a late Paleolithic hearth \n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/mammoths-roamed-when-humans-started-using-tobacco-at-least-12-300-years-ago/",
+          "publishedOn": "2021-10-11T15:15:00.000Z",
+          "wordCount": null,
+          "title": "Mammoths Roamed when Humans Started Using Tobacco at Least 12,300 Years Ago",
+          "itunes": {}
+        },
+        {
+          "id": "21642250-804E-4CFA-A695A8DB4C79AC99",
+          "author": "Nola Taylor Tillman",
+          "description": "Four candidate worlds found via flashes of radio emission may be the first of many revealed by a new planet-hunting technique\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/auroral-exoplanets-could-help-boost-searches-for-alien-life/",
+          "publishedOn": "2021-10-11T15:00:00.000Z",
+          "wordCount": null,
+          "title": "'Auroral' Exoplanets Could Help Boost Searches for Alien Life",
+          "itunes": {}
+        },
+        {
+          "id": "D7D81469-6057-402D-AC16EB9567E60AB3",
+          "author": "Mason Marks",
+          "description": "There are three legal pathways to deregulating the drug under the Controlled Substances Act\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/a-strategy-for-rescheduling-psilocybin/",
+          "publishedOn": "2021-10-11T13:00:00.000Z",
+          "wordCount": null,
+          "title": "A Strategy for Rescheduling Psilocybin",
+          "itunes": {}
+        },
+        {
+          "id": "E4CFFFDD-2645-4C75-B3A2B3A4D165A9B5",
+          "author": "Sam Jones",
+          "description": "New noise-cutting tech could pinpoint North Atlantic right whales and other species\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/save-the-right-whales-by-cutting-through-the-wrong-noise/",
+          "publishedOn": "2021-10-11T10:45:00.000Z",
+          "wordCount": null,
+          "title": "Save the Right Whales by Cutting through the Wrong Noise",
+          "itunes": {}
+        },
         {
           "id": "000D9CD4-B413-146C-B2F983414B7F0000",
           "author": "Allan Irwin Basbaum, David Julius",
@@ -4434,6 +4672,42 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=146384",
+          "author": "Mike Vizard",
+          "description": "At the online Open Networking & Edge Summit + Kubernetes on Edge Day event LF Networking (LFN), an arm of the Linux Foundation focused on networking, today added several projects that promise to make it simpler to programmatically manage networking services based on open source software. Walmart is contributing a L3AF project for managing network […]\nThe post LF Networking (LFN) Adds to Open Source Portfolio appeared first on DevOps.com.",
+          "link": "https://devops.com/lf-networking-lfn-adds-to-open-source-portfolio/",
+          "publishedOn": "2021-10-11T16:00:39.000Z",
+          "wordCount": 1038,
+          "title": "LF Networking (LFN) Adds to Open Source Portfolio"
+        },
+        {
+          "id": "https://devops.com/?p=146202",
+          "author": "Steve Hegenderfer",
+          "description": "The most common thing I hear from developers who are building internet of things (IoT) solutions is: It isn’t easy. And it’s not. Not because of a lack of skill—the developers I interact with are incredibly talented. There’s also no shortage of technologies to choose from for deploying an IoT solution. The challenge often comes […]\nThe post Closing the Education Gap for IoT Developers appeared first on DevOps.com.",
+          "link": "https://devops.com/closing-the-education-gap-for-iot-developers/",
+          "publishedOn": "2021-10-11T07:00:25.000Z",
+          "wordCount": 1266,
+          "title": "Closing the Education Gap for IoT Developers"
+        },
+        {
+          "id": "https://devops.com/?p=146195",
+          "author": "JJ Tang",
+          "description": "If you’re a software engineer, you’ve likely heard all about shift left, a practice that can streamline certain aspects of software development. But shift left isn’t just for developers. It can be equally valuable for site reliability engineers (SREs). Although the main mission of SREs is ensuring the reliability of software after it has been […]\nThe post Does Shift Left Matter to SREs? appeared first on DevOps.com.",
+          "link": "https://devops.com/does-shift-left-matter-to-sres/",
+          "publishedOn": "2021-10-11T06:30:41.000Z",
+          "wordCount": 1553,
+          "title": "Does Shift Left Matter to SREs?"
+        },
+        {
+          "id": "https://devops.com/?p=146381",
+          "author": "ROELBOB",
+          "description": "The post The Torture Never Stops appeared first on DevOps.com.",
+          "link": "https://devops.com/the-torture-never-stops/",
+          "publishedOn": "2021-10-11T06:00:12.000Z",
+          "wordCount": 422,
+          "title": "The Torture Never Stops"
+        },
+        {
           "id": "https://devops.com/?p=146210",
           "author": "Mike Vizard",
           "description": "During its online SnykCon 2021 conference this week, Snyk extended Snyk Code, a static application security testing (SAST) tool that already supports the Java, JavaScript and Python programming languages to include support for C#, Ruby, PHP and Go. At the same time, Snyk Open Source, a platform for remediating open source vulnerabilities, has been extended […]\nThe post Snyk Extends Tools Portfolio to Drive DevSecOps Adoption appeared first on DevOps.com.",
@@ -4693,6 +4967,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=109421",
+          "author": "Anil Ananthaswamy",
+          "description": "To help them explain the shocking success of deep neural networks, researchers are turning to older but better-understood models of machine learning.            \nThe post A New Link to an Old Model Could Crack the Mystery of Deep Learning first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/a-new-link-to-an-old-model-could-crack-the-mystery-of-deep-learning-20211011/",
+          "publishedOn": "2021-10-11T15:33:28.000Z",
+          "wordCount": null,
+          "title": "A New Link to an Old Model Could Crack the Mystery of Deep Learning",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=109369",
           "author": "Mordechai Rorvig",
           "description": "After decades of effort, mathematicians now have a complete understanding of the complicated equations that model the motion of free boundaries, like the one between ice and water.            \nThe post Mathematicians Prove Melting Ice Stays Smooth first appeared on Quanta Magazine",
@@ -4789,6 +5073,24 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=65754",
+          "author": "Nathan Yau",
+          "description": "Tim Harford warns against bad data in science:\nSome frauds seem comical. In…\nTags: fake data, science, Tim Harford",
+          "link": "https://flowingdata.com/2021/10/11/scientists-with-bad-data/",
+          "publishedOn": "2021-10-11T18:46:53.000Z",
+          "wordCount": 312,
+          "title": "Scientists with bad data"
+        },
+        {
+          "id": "https://flowingdata.com/?p=65750",
+          "author": "Nathan Yau",
+          "description": "We often hear about increased CO2 in the context of global warming. Hayley…\nTags: Bloomberg, global warming, methane",
+          "link": "https://flowingdata.com/2021/10/11/reducing-methane-to-slow-climate-change/",
+          "publishedOn": "2021-10-11T10:16:21.000Z",
+          "wordCount": 301,
+          "title": "Reducing methane to slow climate change"
+        },
         {
           "id": "https://flowingdata.com/?p=65742",
           "author": "Nathan Yau",
