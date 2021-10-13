@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=353415",
+          "author": "Laurie Voss",
+          "description": "Which new framework should I learn this year? Is it time to ditch my CMS? What tools should I pick up if I want to scale my site to an audience of millions? The 2021 Jamstack Community Survey is here …\nThe post Jamstack Developers’ Favorite Frameworks of 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/jamstack-developers-favorite-frameworks-of-2021/",
+          "publishedOn": "2021-10-12T14:30:47.000Z",
+          "wordCount": 1002,
+          "title": "Jamstack Developers’ Favorite Frameworks of 2021"
+        },
+        {
+          "id": "https://css-tricks.com/?p=353317",
+          "author": "Chris Coyier",
+          "description": "Google Analytics is powerful analytics software. A common way to use it is to just slap the JavaScript snippet on every page template you have and let it collect basic data about unique visitors and pageviews and such. That’s  useful, …\nThe post WooCommerce + Google Analytics appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/woocommerce-google-analytics/",
+          "publishedOn": "2021-10-12T14:28:26.000Z",
+          "wordCount": 958,
+          "title": "WooCommerce + Google Analytics"
+        },
+        {
           "id": "https://css-tricks.com/?p=352907",
           "author": "Chris Coyier",
           "description": "Why would a company promote a native app over their perfectly usable website?\nWe’d have to ask them, I suppose. But it’s hard not to see this push to native as a matter of priorities: that these companies consider native \n…\nThe post Those “Get The App” Banners appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -346,6 +364,69 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "615e276e0d91c9077974e6ba",
+          "author": null,
+          "description": "IntroductionReact is one of the best libraries for creating stateful interfaces, and is an essential part of the internet as we know it.  Many web apps including Twitter, Facebook, Instagram, and Airbnb depend on this library to deliver stateful, cross-platform applications to billions of users. It continues to be one",
+          "link": "https://www.freecodecamp.org/news/add-a-database-hook-to-react-and-react-native/",
+          "publishedOn": "2021-10-12T21:17:09.000Z",
+          "wordCount": 2891,
+          "title": "How to Add a Flawless Database Hook to Your React Projects"
+        },
+        {
+          "id": "61642329804854468fda8506",
+          "author": null,
+          "description": "As more and more people are working remotely, online meeting services like Zoom are becoming more popular and widely-used.  And if you're in a Zoom meeting, you'll probably have to show your work to your co-workers from time to time.  Zoom offers many features that make sharing your screen fast",
+          "link": "https://www.freecodecamp.org/news/zoom-screen-sharing-how-to-share-my-screen-on-zoom-solved/",
+          "publishedOn": "2021-10-12T20:53:11.000Z",
+          "wordCount": 784,
+          "title": "Zoom Screen Sharing – How to Share My Screen on Zoom [Solved]"
+        },
+        {
+          "id": "61612118804854468fda6b2b",
+          "author": null,
+          "description": "Creating forms with proper validation can be tough and problematic. But in this blog post, I will show you how to do so in a simple and straightforward way.  We'll learn how to add validation in a form using React and React Hook Form. How to Create a Form in",
+          "link": "https://www.freecodecamp.org/news/add-form-validation-in-react-app-with-react-hook-form/",
+          "publishedOn": "2021-10-12T20:52:04.000Z",
+          "wordCount": 1320,
+          "title": "How to Add Form Validation in React Forms using React Hook Form"
+        },
+        {
+          "id": "616478dc804854468fda89eb",
+          "author": null,
+          "description": "When you're working on your computer, you want to do things as quickly as possible. And you probably don't want to repeat typing the same thing over and over again.  Knowing how to copy and paste text and other data will help you work efficiently without repeating yourself.  So in",
+          "link": "https://www.freecodecamp.org/news/how-to-copy-and-paste-on-a-computer-windows-pc-keyboard-shortcut-guide/",
+          "publishedOn": "2021-10-12T15:35:00.000Z",
+          "wordCount": 961,
+          "title": "How to Copy and Paste on a Computer [Windows PC Keyboard Shortcut Guide]"
+        },
+        {
+          "id": "61604b37804854468fda625c",
+          "author": null,
+          "description": "In this beginner-friendly guide, you'll learn the very basics of the awk command. You'll also see some of the ways you can use it when dealing with text.  Let's get started!  What is the awk command? awk is a scripting language, and it is helpful when working in the command",
+          "link": "https://www.freecodecamp.org/news/the-linux-awk-command-linux-and-unix-usage-syntax-examples/",
+          "publishedOn": "2021-10-12T15:34:47.000Z",
+          "wordCount": 1572,
+          "title": "The Linux AWK Command – Linux and Unix Usage Syntax Examples"
+        },
+        {
+          "id": "615d55dc0d91c9077974d404",
+          "author": null,
+          "description": "Game development is a popular field within the software industry. But what does it take to start building games from scratch? In this article, I will talk about the different game engines and tools that you can use to build your own games. I will also provide you with dozens",
+          "link": "https://www.freecodecamp.org/news/how-to-make-a-video-game-create-your-own-game-from-scratch-tutorial/",
+          "publishedOn": "2021-10-12T15:34:31.000Z",
+          "wordCount": 1597,
+          "title": "How to Make a Video Game – Create Your Own Game From Scratch Tutorial"
+        },
+        {
+          "id": "6162f83f804854468fda7c7a",
+          "author": null,
+          "description": "In Python, you'll probably use a tuple to initialize a sequence that shouldn't be modified elsewhere in the program. This is because tuples are immutable.  However, using a tuple may reduce the readability of your code as you cannot describe what each item in the tuple stands for. This is",
+          "link": "https://www.freecodecamp.org/news/python-namedtuple-examples-how-to-create-and-work-with-namedtuples/",
+          "publishedOn": "2021-10-12T15:34:19.000Z",
+          "wordCount": 1416,
+          "title": "Python NamedTuple Examples – How to Create and Work with NamedTuples"
+        },
+        {
           "id": "6159ab734aa03507d9412321",
           "author": null,
           "description": "What follows is a full-length book on how to create a successful blog. I am a software developer and I've written 1,500 posts on my blog over the past few years. Millions of people have read my writing. And my blog is now one of the top 20,000",
@@ -649,6 +730,177 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/the-konmari-method-for-your-digital-footprint-how-to-clean-up-your-digital-clutter-like-marie-kondo?source=rss",
+          "author": "Zen Chan",
+          "description": "It's impossible to leave ZERO digital footprints unless you are offline and live in a cave. Luckily, there're easy-to-do steps to clean up your digital clutter.",
+          "link": "https://hackernoon.com/the-konmari-method-for-your-digital-footprint-how-to-clean-up-your-digital-clutter-like-marie-kondo?source=rss",
+          "publishedOn": "2021-10-12T21:54:44.000Z",
+          "wordCount": 1982,
+          "title": "The KonMari Method for Your Digital Footprint: How to Clean up Your Digital Clutter Like Marie Kondo"
+        },
+        {
+          "id": "https://hackernoon.com/we-need-roslyn-for-sql?source=rss",
+          "author": "Timur Khadimullin",
+          "description": "Code review and other quality assurance methods are incredibly useful tools that can be facilitated by Roslyn which is not available for SQL, though it should.",
+          "link": "https://hackernoon.com/we-need-roslyn-for-sql?source=rss",
+          "publishedOn": "2021-10-12T21:52:01.000Z",
+          "wordCount": 741,
+          "title": "We need Roslyn for SQL!"
+        },
+        {
+          "id": "https://hackernoon.com/dont-take-your-freedom-for-granted-advised-backend-developer-julien-maury?source=rss",
+          "author": "jmau111",
+          "description": "My name is Julien Maury. I would define myself as a cybersecurity aware developer.",
+          "link": "https://hackernoon.com/dont-take-your-freedom-for-granted-advised-backend-developer-julien-maury?source=rss",
+          "publishedOn": "2021-10-12T21:39:00.000Z",
+          "wordCount": 774,
+          "title": "\"Don't take your freedom for granted\", advised Backend Developer Julien Maury"
+        },
+        {
+          "id": "https://hackernoon.com/hacking-hacker-noon-sit-back-relax-and-let-that-twitter-bot-do-its-job?source=rss",
+          "author": "Hacker Noon Help and Support",
+          "description": "You've been published. So now sit back, relax, and LET THE TWITTER BOT DO ITS JOB!!!!",
+          "link": "https://hackernoon.com/hacking-hacker-noon-sit-back-relax-and-let-that-twitter-bot-do-its-job?source=rss",
+          "publishedOn": "2021-10-12T17:50:13.000Z",
+          "wordCount": 1052,
+          "title": "Hacking Hacker Noon: Sit Back, Relax, and Let That Twitter Bot do its Job"
+        },
+        {
+          "id": "https://hackernoon.com/an-intro-to-stablecoins-you-can-forward-to-your-noob-friends?source=rss",
+          "author": "Bybit",
+          "description": "Stablecoins are cryptocurrencies that have their price pegged to or backed by a stable asset, or group of assets.",
+          "link": "https://hackernoon.com/an-intro-to-stablecoins-you-can-forward-to-your-noob-friends?source=rss",
+          "publishedOn": "2021-10-12T16:54:47.000Z",
+          "wordCount": 808,
+          "title": "An Intro to Stablecoins You Can Forward to Your Noob Friends"
+        },
+        {
+          "id": "https://hackernoon.com/tel-aviv-based-startup-fronteggs-founder-talks-about-the-companys-origin-and-passion?source=rss",
+          "author": "Frontegg",
+          "description": "We spoke to CEO and Co-founder of the User Management development platform Frontegg about the origins of his company, his background and thoughts on the future.",
+          "link": "https://hackernoon.com/tel-aviv-based-startup-fronteggs-founder-talks-about-the-companys-origin-and-passion?source=rss",
+          "publishedOn": "2021-10-12T15:38:20.000Z",
+          "wordCount": 776,
+          "title": "Tel Aviv-Based Startup Frontegg's Founder Talks About the Company's Origin and Passion"
+        },
+        {
+          "id": "https://hackernoon.com/top-stablecoins-in-2021-find-order-in-the-chaos?source=rss",
+          "author": "Matthew",
+          "description": "Cryptocurrencies are subjected to exchange rate fluctuations and variability. To set prices for them, stablecoins were created. What are the top stablecoins?",
+          "link": "https://hackernoon.com/top-stablecoins-in-2021-find-order-in-the-chaos?source=rss",
+          "publishedOn": "2021-10-12T15:17:39.000Z",
+          "wordCount": 2117,
+          "title": "Best Stablecoins in 2021: Find Order in the Chaos"
+        },
+        {
+          "id": "https://hackernoon.com/3-ways-in-which-launching-a-startup-is-easier-in-the-post-covid-era?source=rss",
+          "author": "LawDistrict",
+          "description": "The post-COVID world is full of global opportunities for early-stage companies to develop and grow. Learn how to build a startup with online tools.",
+          "link": "https://hackernoon.com/3-ways-in-which-launching-a-startup-is-easier-in-the-post-covid-era?source=rss",
+          "publishedOn": "2021-10-12T11:09:51.000Z",
+          "wordCount": 786,
+          "title": "3 Ways in Which Launching a Startup Is Easier in the Post-COVID Era"
+        },
+        {
+          "id": "https://hackernoon.com/advantages-of-ai-in-gaming-how-were-creating-smarter-competition?source=rss",
+          "author": "Aleksandr Pindyk",
+          "description": "Why artificial intelligence is being introduced into competitive and cooperative games today, and how the development teams of such games use AI.",
+          "link": "https://hackernoon.com/advantages-of-ai-in-gaming-how-were-creating-smarter-competition?source=rss",
+          "publishedOn": "2021-10-12T11:08:13.000Z",
+          "wordCount": 838,
+          "title": "Advantages of AI in Gaming: How We're Creating Smarter Competition"
+        },
+        {
+          "id": "https://hackernoon.com/the-growing-crypto-gaming-industry-7-platforms-you-should-know-about?source=rss",
+          "author": "Crypto Adventure",
+          "description": "NFTs and other gaming crypto are a way to provide an exciting gaming experience for users and players while offering them incentives within their ecosystems.",
+          "link": "https://hackernoon.com/the-growing-crypto-gaming-industry-7-platforms-you-should-know-about?source=rss",
+          "publishedOn": "2021-10-12T10:42:53.000Z",
+          "wordCount": 1934,
+          "title": "The Growing Crypto Gaming Industry: 7 Platforms You Should Know About"
+        },
+        {
+          "id": "https://hackernoon.com/duelist-king-is-a-new-nft-blockchain-card-game-with-promising-gameplay?source=rss",
+          "author": "Limarc Ambalina",
+          "description": "Duelist King is a blockchain-based card game where players own the NFTs of the cards they play with.",
+          "link": "https://hackernoon.com/duelist-king-is-a-new-nft-blockchain-card-game-with-promising-gameplay?source=rss",
+          "publishedOn": "2021-10-12T10:00:37.000Z",
+          "wordCount": 2858,
+          "title": "Duelist King is a New NFT Blockchain Card Game with Promising Gameplay"
+        },
+        {
+          "id": "https://hackernoon.com/the-economy-of-ethereum-a-simple-explanation-for-beginners?source=rss",
+          "author": "Dong Nguyen",
+          "description": "A simple view at Ethereum blocksize limit and its gas fee structure in regard to being a world decentralized computer that power the new internet application.",
+          "link": "https://hackernoon.com/the-economy-of-ethereum-a-simple-explanation-for-beginners?source=rss",
+          "publishedOn": "2021-10-12T09:16:08.000Z",
+          "wordCount": 762,
+          "title": "The Economy of Ethereum: A Simple Explanation for Beginners"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-the-thundercore-iris-hard-fork?source=rss",
+          "author": "ThunderCore",
+          "description": "The incoming ThunderCore hard fork will bring better cross-chain interoperability to the ThunderCore blockchain, creating a more developer-friendly platform.",
+          "link": "https://hackernoon.com/what-is-the-thundercore-iris-hard-fork?source=rss",
+          "publishedOn": "2021-10-12T08:57:06.000Z",
+          "wordCount": 1442,
+          "title": "What is the ThunderCore Iris Hard Fork?"
+        },
+        {
+          "id": "https://hackernoon.com/protecting-billion-dollar-crypto-assets-interview-with-aaron-lint-of-anchorage-digital-bank?source=rss",
+          "author": "Podcast",
+          "description": "Utsav Jaiswal sits down with Aaron Lint (CISO of Anchorage Digital Bank and Leslie Ankney (the Communications Lead at Anchorage Digital.",
+          "link": "https://hackernoon.com/protecting-billion-dollar-crypto-assets-interview-with-aaron-lint-of-anchorage-digital-bank?source=rss",
+          "publishedOn": "2021-10-12T08:48:25.000Z",
+          "wordCount": 4979,
+          "title": "Protecting Billion Dollar Crypto-Assets: Interview with Aaron Lint of Anchorage Digital Bank"
+        },
+        {
+          "id": "https://hackernoon.com/how-chintai-is-making-the-trade-life-cycle-more-efficient-read-thei?source=rss",
+          "author": "Limarc Ambalina",
+          "description": "The HackerNoon community talked to Ryan Bethem from Chintai about Chintai's position in the market and what sets them apart from their competitors.",
+          "link": "https://hackernoon.com/how-chintai-is-making-the-trade-life-cycle-more-efficient-read-thei?source=rss",
+          "publishedOn": "2021-10-12T08:39:38.000Z",
+          "wordCount": 3799,
+          "title": "How Chintai is Making the Trading Life Cycle More Efficient"
+        },
+        {
+          "id": "https://hackernoon.com/top-4-blockchain-virtual-machines-for-decentralized-applications?source=rss",
+          "author": "Daniel Jimenez",
+          "description": "From Polkadot to NEO, this article is a review of the most popular VMs in the dApp ecosystem other than Ethereum.",
+          "link": "https://hackernoon.com/top-4-blockchain-virtual-machines-for-decentralized-applications?source=rss",
+          "publishedOn": "2021-10-12T06:34:09.000Z",
+          "wordCount": 850,
+          "title": "Top 4 Blockchain Virtual Machines for Decentralized Applications"
+        },
+        {
+          "id": "https://hackernoon.com/every-time-you-browse-the-web-you-leave-fingerprints-behind?source=rss",
+          "author": "jmau111",
+          "description": "Privacy issues are everywhere these days, and it's not just Facebook's fault with its legendary data leaks. Learn about fingerprinting and how it impacts you.",
+          "link": "https://hackernoon.com/every-time-you-browse-the-web-you-leave-fingerprints-behind?source=rss",
+          "publishedOn": "2021-10-12T05:43:14.000Z",
+          "wordCount": 808,
+          "title": "\"Every time you browse the web, you leave fingerprints behind\""
+        },
+        {
+          "id": "https://hackernoon.com/microservices-and-the-golden-age-of-infrastructure-automation-tools?source=rss",
+          "author": "Michael",
+          "description": "The dramatic shift in infrastructure availability is one of the main catalysts for the advent of microservices.",
+          "link": "https://hackernoon.com/microservices-and-the-golden-age-of-infrastructure-automation-tools?source=rss",
+          "publishedOn": "2021-10-12T04:36:50.000Z",
+          "wordCount": 770,
+          "title": "Microservices and the Golden age of Infrastructure Automation Tools"
+        },
+        {
+          "id": "https://hackernoon.com/7-ways-to-make-your-python-project-structure-more-elegant?source=rss",
+          "author": "Thuwarakesh Murallie",
+          "description": "Best practices for a manageable, scalable, and easily understandable Python project structure",
+          "link": "https://hackernoon.com/7-ways-to-make-your-python-project-structure-more-elegant?source=rss",
+          "publishedOn": "2021-10-11T23:36:49.000Z",
+          "wordCount": 682,
+          "title": "7 Ways to Make Your Python Project Structure More Elegant"
+        },
         {
           "id": "https://hackernoon.com/how-a-beginner-created-and-deployed-a-webapp-in-4-days?source=rss",
           "author": "Tarun Sharma",
@@ -2624,6 +2876,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=147100",
+          "author": "ACMer",
+          "description": "Probability represents the likelyhood of an event that will occur. We can use Venn Graph to study the probability. Probability is a number between  or . Conditional Probability of A given B...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-introduction-to-probability-and-naives-bayes/",
+          "publishedOn": "2021-10-12T21:02:08.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Introduction to Probability and Naives Bayes",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=147081",
           "author": "ACMer",
           "description": "KNN Machine Learning Algorithm in Python KNN (K Nearnest Neighbours) is a simplest machine learning algorithm. The prediction is made by calculating the K nearest neighbours and then get the average...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -3216,6 +3478,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=501074",
+          "author": "Al Williams",
+          "description": "Hats off to [Paul Brooking] as he shows off his homemade mass spectrometer in two recent videos you can see below. The first video demonstrates that the device works. The …read more",
+          "link": "https://hackaday.com/2021/10/12/this-homemade-mass-spectrometer-works/",
+          "publishedOn": "2021-10-12T23:00:51.000Z",
+          "wordCount": 1198,
+          "title": "This Homemade Mass Spectrometer Works"
+        },
+        {
+          "id": "https://hackaday.com/?p=501085",
+          "author": "Tom Nardi",
+          "description": "If you’ve got old family photos on slides there’s an excellent chance you’ve considered digitizing them at one point or another, but perhaps didn’t know the best way of going …read more",
+          "link": "https://hackaday.com/2021/10/12/3d-printed-adapter-puts-slides-in-their-best-light/",
+          "publishedOn": "2021-10-12T20:00:18.000Z",
+          "wordCount": 1338,
+          "title": "3D Printed Adapter Puts Slides in their Best Light"
+        },
+        {
+          "id": "https://hackaday.com/?p=499902",
+          "author": "Kristina Panos",
+          "description": "It’s nothing short of amazing what trained dancers can do with their bodies, and a real shame that visually-impaired people can’t enjoy the experience of, say, ballet. For this year’s …read more",
+          "link": "https://hackaday.com/2021/10/12/the-beauty-of-dance-seen-through-the-power-of-touch/",
+          "publishedOn": "2021-10-12T18:30:00.000Z",
+          "wordCount": 1295,
+          "title": "The Beauty of Dance, Seen Through the Power of Touch"
+        },
+        {
+          "id": "https://hackaday.com/?p=499514",
+          "author": "Jenny List",
+          "description": "It seems that few features of a consumer electronic product will generate as much rancour as a mobile phone charger socket. For those of us with Android phones, the world …read more",
+          "link": "https://hackaday.com/2021/10/12/showdown-time-for-non-standard-chargers-in-europe/",
+          "publishedOn": "2021-10-12T17:00:27.000Z",
+          "wordCount": 9119,
+          "title": "Showdown Time For Non-Standard Chargers In Europe"
+        },
+        {
+          "id": "https://hackaday.com/?p=500642",
+          "author": "Dan Maloney",
+          "description": "The spooky season is upon us, and with it the race to come up with the geekiest way to scare the kids. Motion-activated jump-scare setups are always a crowd-pleaser, but …read more",
+          "link": "https://hackaday.com/2021/10/12/ultrasonic-array-powers-this-halloween-spirit-writer/",
+          "publishedOn": "2021-10-12T15:30:00.000Z",
+          "wordCount": 1570,
+          "title": "Ultrasonic Array Powers This Halloween Spirit Writer"
+        },
+        {
+          "id": "https://hackaday.com/?p=498774",
+          "author": "Maya Posch",
+          "description": "Despite being present in everything that contains water, tritium is not an isotope that many people were that familiar with outside of select (geeky) channels, such as DEF CON with …read more",
+          "link": "https://hackaday.com/2021/10/12/a-tritium-story-how-afraid-should-you-be-of-hydrogens-big-brother/",
+          "publishedOn": "2021-10-12T14:01:16.000Z",
+          "wordCount": 3242,
+          "title": "A Tritium Story: How Afraid Should You Be Of Hydrogen’s Big Brother?"
+        },
+        {
+          "id": "https://hackaday.com/?p=500570",
+          "author": "Roger Cheng",
+          "description": "We’ve featured a lot of car hacks on these pages, most would void the warranty and none of it with explicit factory support. Against that background, Ford’s upcoming Maverick is …read more",
+          "link": "https://hackaday.com/2021/10/12/ford-maverick-welcomes-diy-spirit/",
+          "publishedOn": "2021-10-12T11:00:00.000Z",
+          "wordCount": 3186,
+          "title": "Ford Maverick Welcomes DIY Spirit"
+        },
         {
           "id": "https://hackaday.com/?p=500751",
           "author": "Robin Kearey",
@@ -3917,6 +4242,96 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "C375D85C-2DAD-432A-9D588670B14FB15E",
+          "author": "Sara Schonhardt, E&E News",
+          "description": "Dozens of nations, representing 30 percent of the world’s emissions, have indicated support ahead of crucial climate talks\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/more-countries-join-global-pledge-to-cut-methane-emissions/",
+          "publishedOn": "2021-10-12T19:45:00.000Z",
+          "wordCount": null,
+          "title": "More Countries Join Global Pledge to Cut Methane Emissions",
+          "itunes": {}
+        },
+        {
+          "id": "484EEBF4-0B49-462E-A2C3F251C700CD41",
+          "author": "Cassandra Willyard, Nature magazine",
+          "description": "The Merck pill, which could become the first oral antiviral COVID treatment, forces the SARS-CoV-2 coronavirus to mutate itself to death\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-antiviral-pill-molnupiravir-shot-ahead-in-the-covid-drug-hunt/",
+          "publishedOn": "2021-10-12T19:30:00.000Z",
+          "wordCount": null,
+          "title": "How Antiviral Pill Molnupiravir Shot Ahead in the COVID Drug Hunt",
+          "itunes": {}
+        },
+        {
+          "id": "A109100B-DB30-475C-BC17EDC4FBEB7A60",
+          "author": "Tracie Canada, Chelsey R. Carter",
+          "description": "A statistical manipulation that underpaid Black players in concussion settlements exemplifies American football’s immersion in the legacy of slavery\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-nfls-racist-race-norming-is-an-afterlife-of-slavery/",
+          "publishedOn": "2021-10-12T19:30:00.000Z",
+          "wordCount": null,
+          "title": "The NFL's Racist 'Race Norming' Is an Afterlife of Slavery",
+          "itunes": {}
+        },
+        {
+          "id": "FC9674F7-3341-4743-86F458E9712446F6",
+          "author": "Gavin Schmidt",
+          "description": "Research in the field is more collaborative than the Nobel awards can acknowledge\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/beyond-the-winners-nobel-prize-for-climate-science-is-a-victory-for-many1/",
+          "publishedOn": "2021-10-12T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Beyond the Winners, Nobel Prize for Climate Science Is a Victory for Many",
+          "itunes": {}
+        },
+        {
+          "id": "F01D04FB-38E0-4D0F-A7380997AF636916",
+          "author": "Naomi Oreskes",
+          "description": "Jargon is appropriate when you’re speaking with colleagues, but it’s a turnoff for the rest of us\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/scientists-when-talking-to-the-public-please-speak-plainly/",
+          "publishedOn": "2021-10-12T14:30:00.000Z",
+          "wordCount": null,
+          "title": "Scientists: When Talking to the Public, Please Speak Plainly",
+          "itunes": {}
+        },
+        {
+          "id": "69D8BC3D-5613-45AB-8DD7C240507A3B5A",
+          "author": "Jordan Salama",
+          "description": "A young writer camps out on a tiny bit of land at the western end of the Long Island Sound\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/channeling-thoreau-24-hours-on-pea-island/",
+          "publishedOn": "2021-10-12T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Channeling Thoreau: 24 Hours on Pea Island",
+          "itunes": {}
+        },
+        {
+          "id": "71AC7A9D-D257-4DEF-92CF8BE938D69756",
+          "author": "Anil Ananthaswamy",
+          "description": "Originally built to speed up calculations, a machine-learning system is now making shocking progress at the frontiers of experimental quantum physics\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/ai-designs-quantum-physics-experiments-beyond-what-any-human-has-conceived/",
+          "publishedOn": "2021-10-12T13:00:00.000Z",
+          "wordCount": null,
+          "title": "AI Designs Quantum Physics Experiments beyond What Any Human Has Conceived",
+          "itunes": {}
+        },
+        {
+          "id": "9067797C-4BB8-4AB5-BFA05B7F3AE19A03",
+          "author": "Tara Santora",
+          "description": "The self-administered tests are sold over the counter, holding out the promise of safer gatherings. But interpreting results requires savvy\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-smartest-way-to-use-rapid-at-home-covid-tests1/",
+          "publishedOn": "2021-10-12T12:00:00.000Z",
+          "wordCount": null,
+          "title": "The Smartest Way to Use Rapid At-Home COVID Tests",
+          "itunes": {}
+        },
+        {
+          "id": "A433DD87-F947-4A6E-BB0E7B43E4F29CF0",
+          "author": "Karmela Padavic-Callaghan",
+          "description": "A recent experiment has placed the best-yet limits on the strength of a long-sought fifth fundamental force\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/new-universal-force-tested-by-blasting-neutrons-through-crystal/",
+          "publishedOn": "2021-10-12T10:45:00.000Z",
+          "wordCount": null,
+          "title": "New Universal Force Tested by Blasting Neutrons through Crystal",
+          "itunes": {}
+        },
+        {
           "id": "F28353F5-04CD-47B2-A3B4F36082A7CE25",
           "author": "Rachel Nuwer",
           "description": "A dig in the Nevada desert finds telltale seeds at the site of a late Paleolithic hearth \n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -4014,6 +4429,16 @@
           "publishedOn": "2021-10-08T17:00:00.000Z",
           "wordCount": null,
           "title": "Google Bans Ads That Spread Climate Misinformation",
+          "itunes": {}
+        },
+        {
+          "id": "5DE5B96F-82BE-4400-B43A99CD75407BA3",
+          "author": "Amy Maxmen, Nature magazine",
+          "description": "The WHO-approved RTS,S vaccine has a modest efficacy and requires a complex regimen of doses, so ample funding and clear communication are crucial to success\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/scientists-hail-historic-malaria-vaccine-approval-but-point-to-challenges-ahead1/",
+          "publishedOn": "2021-10-08T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Scientists Hail Historic Malaria Vaccine Approval--But Point to Challenges Ahead",
           "itunes": {}
         },
         {
@@ -4672,6 +5097,33 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=146409",
+          "author": "Somik Behera",
+          "description": "We all know the story: Enterprises moved to the cloud. They learned about data center virtualization and multi-tenancy and self-service developer provisioning. Along came Kubernetes, and they moved to cloud-native, where they learned about automation, DevOps and infrastructure-as-code (IaC). Now, even though most enterprises are still figuring out how to do cloud-native at scale, there’s […]\nThe post The Inevitability of Multi-Cloud-Native Apps appeared first on DevOps.com.",
+          "link": "https://devops.com/the-inevitability-of-multi-cloud-native-apps/",
+          "publishedOn": "2021-10-12T07:30:44.000Z",
+          "wordCount": 1353,
+          "title": "The Inevitability of Multi-Cloud-Native Apps"
+        },
+        {
+          "id": "https://devops.com/?p=146396",
+          "author": "JJ Tang",
+          "description": "By allowing teams to maintain two production-ready environments at the same time, the blue-green deployment technique can significantly boost reliability. But blue-green deployment can also be difficult to execute and manage. Let’s unpack how blue-green deployment works, why it’s important and which best practices to follow for blue-green deployment success. Blue-Green Deployment, Defined Blue-green deployment […]\nThe post 5 Steps to Succeed With Blue-Green Deployment appeared first on DevOps.com.",
+          "link": "https://devops.com/5-steps-to-succeed-with-blue-green-deployment/",
+          "publishedOn": "2021-10-12T07:00:16.000Z",
+          "wordCount": 1433,
+          "title": "5 Steps to Succeed With Blue-Green Deployment"
+        },
+        {
+          "id": "https://devops.com/?p=146391",
+          "author": "Gérald Croës",
+          "description": "As modern enterprises continue migrating to the cloud and the need for connected applications and devices dramatically increases, API-driven architectures are being widely adopted. In addition to the convenience of being able to efficiently connect and share resources, organizations benefit from the innovation and accelerated development speed that APIs bring in multi-cloud environments. APIs are […]\nThe post Mastering API Gateways for the Modern Cloud-Native Enterprise appeared first on DevOps.com.",
+          "link": "https://devops.com/mastering-api-gateways-for-the-modern-cloud-native-enterprise/",
+          "publishedOn": "2021-10-12T06:30:48.000Z",
+          "wordCount": 965,
+          "title": "Mastering API Gateways for the Modern Cloud-Native Enterprise"
+        },
+        {
           "id": "https://devops.com/?p=146384",
           "author": "Mike Vizard",
           "description": "At the online Open Networking & Edge Summit + Kubernetes on Edge Day event LF Networking (LFN), an arm of the Linux Foundation focused on networking, today added several projects that promise to make it simpler to programmatically manage networking services based on open source software. Walmart is contributing a L3AF project for managing network […]\nThe post LF Networking (LFN) Adds to Open Source Portfolio appeared first on DevOps.com.",
@@ -4967,6 +5419,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=109449",
+          "author": "Thomas Lewton",
+          "description": "After the ultra-powerful James Webb Space Telescope launches later this year, Laura Kreidberg will lead two efforts to check the weather on rocky planets orbiting other stars.            \nThe post The Astronomer Who’s About to See the Skies of Other Earths first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/with-a-new-space-telescope-laura-kreidberg-will-probe-exoplanet-skies-20211012/",
+          "publishedOn": "2021-10-12T15:11:50.000Z",
+          "wordCount": null,
+          "title": "The Astronomer Who’s About to See the Skies of Other Earths",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=109421",
           "author": "Anil Ananthaswamy",
           "description": "To help them explain the shocking success of deep neural networks, researchers are turning to older but better-understood models of machine learning.            \nThe post A New Link to an Old Model Could Crack the Mystery of Deep Learning first appeared on Quanta Magazine",
@@ -5073,6 +5535,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=65757",
+          "author": "Nathan Yau",
+          "description": "Nightingale is a publication from Data Visualization Society that offers more depth for…\nTags: magazine",
+          "link": "https://flowingdata.com/2021/10/12/a-data-visualization-magazine/",
+          "publishedOn": "2021-10-12T15:18:00.000Z",
+          "wordCount": 277,
+          "title": "A data visualization magazine"
+        },
         {
           "id": "https://flowingdata.com/?p=65754",
           "author": "Nathan Yau",

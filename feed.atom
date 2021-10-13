@@ -2,10 +2,547 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2021-10-12T00:43:50.467Z</updated>
+    <updated>2021-10-13T00:41:16.262Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[This Homemade Mass Spectrometer Works]]></title>
+        <id>https://hackaday.com/?p=501074</id>
+        <link href="https://hackaday.com/2021/10/12/this-homemade-mass-spectrometer-works/"/>
+        <updated>2021-10-12T23:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Hats off to [Paul Brooking] as he shows off his homemade mass spectrometer in two recent videos you can see below. The first video demonstrates that the device works. The …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The KonMari Method for Your Digital Footprint: How to Clean up Your Digital Clutter Like Marie Kondo]]></title>
+        <id>https://hackernoon.com/the-konmari-method-for-your-digital-footprint-how-to-clean-up-your-digital-clutter-like-marie-kondo?source=rss</id>
+        <link href="https://hackernoon.com/the-konmari-method-for-your-digital-footprint-how-to-clean-up-your-digital-clutter-like-marie-kondo?source=rss"/>
+        <updated>2021-10-12T21:54:44.000Z</updated>
+        <summary type="html"><![CDATA[It's impossible to leave ZERO digital footprints unless you are offline and live in a cave. Luckily, there're easy-to-do steps to clean up your digital clutter.]]></summary>
+        <author>
+            <name>Zen Chan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We need Roslyn for SQL!]]></title>
+        <id>https://hackernoon.com/we-need-roslyn-for-sql?source=rss</id>
+        <link href="https://hackernoon.com/we-need-roslyn-for-sql?source=rss"/>
+        <updated>2021-10-12T21:52:01.000Z</updated>
+        <summary type="html"><![CDATA[Code review and other quality assurance methods are incredibly useful tools that can be facilitated by Roslyn which is not available for SQL, though it should.]]></summary>
+        <author>
+            <name>Timur Khadimullin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Don't take your freedom for granted", advised Backend Developer Julien Maury]]></title>
+        <id>https://hackernoon.com/dont-take-your-freedom-for-granted-advised-backend-developer-julien-maury?source=rss</id>
+        <link href="https://hackernoon.com/dont-take-your-freedom-for-granted-advised-backend-developer-julien-maury?source=rss"/>
+        <updated>2021-10-12T21:39:00.000Z</updated>
+        <summary type="html"><![CDATA[My name is Julien Maury. I would define myself as a cybersecurity aware developer.]]></summary>
+        <author>
+            <name>jmau111</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add a Flawless Database Hook to Your React Projects]]></title>
+        <id>615e276e0d91c9077974e6ba</id>
+        <link href="https://www.freecodecamp.org/news/add-a-database-hook-to-react-and-react-native/"/>
+        <updated>2021-10-12T21:17:09.000Z</updated>
+        <summary type="html"><![CDATA[IntroductionReact is one of the best libraries for creating stateful interfaces, and is an essential part of the internet as we know it.  Many web apps including Twitter, Facebook, Instagram, and Airbnb depend on this library to deliver stateful, cross-platform applications to billions of users. It continues to be one]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – Introduction to Probability and Naives Bayes]]></title>
+        <id>https://helloacm.com/?p=147100</id>
+        <link href="https://helloacm.com/teaching-kids-programming-introduction-to-probability-and-naives-bayes/"/>
+        <updated>2021-10-12T21:02:08.000Z</updated>
+        <summary type="html"><![CDATA[Probability represents the likelyhood of an event that will occur. We can use Venn Graph to study the probability. Probability is a number between  or . Conditional Probability of A given B...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zoom Screen Sharing – How to Share My Screen on Zoom [Solved]]]></title>
+        <id>61642329804854468fda8506</id>
+        <link href="https://www.freecodecamp.org/news/zoom-screen-sharing-how-to-share-my-screen-on-zoom-solved/"/>
+        <updated>2021-10-12T20:53:11.000Z</updated>
+        <summary type="html"><![CDATA[As more and more people are working remotely, online meeting services like Zoom are becoming more popular and widely-used.  And if you're in a Zoom meeting, you'll probably have to show your work to your co-workers from time to time.  Zoom offers many features that make sharing your screen fast]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Form Validation in React Forms using React Hook Form]]></title>
+        <id>61612118804854468fda6b2b</id>
+        <link href="https://www.freecodecamp.org/news/add-form-validation-in-react-app-with-react-hook-form/"/>
+        <updated>2021-10-12T20:52:04.000Z</updated>
+        <summary type="html"><![CDATA[Creating forms with proper validation can be tough and problematic. But in this blog post, I will show you how to do so in a simple and straightforward way.  We'll learn how to add validation in a form using React and React Hook Form. How to Create a Form in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printed Adapter Puts Slides in their Best Light]]></title>
+        <id>https://hackaday.com/?p=501085</id>
+        <link href="https://hackaday.com/2021/10/12/3d-printed-adapter-puts-slides-in-their-best-light/"/>
+        <updated>2021-10-12T20:00:18.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve got old family photos on slides there’s an excellent chance you’ve considered digitizing them at one point or another, but perhaps didn’t know the best way of going …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More Countries Join Global Pledge to Cut Methane Emissions]]></title>
+        <id>C375D85C-2DAD-432A-9D588670B14FB15E</id>
+        <link href="https://www.scientificamerican.com/article/more-countries-join-global-pledge-to-cut-methane-emissions/"/>
+        <updated>2021-10-12T19:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Dozens of nations, representing 30 percent of the world’s emissions, have indicated support ahead of crucial climate talks
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Sara Schonhardt, E&amp;E News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Antiviral Pill Molnupiravir Shot Ahead in the COVID Drug Hunt]]></title>
+        <id>484EEBF4-0B49-462E-A2C3F251C700CD41</id>
+        <link href="https://www.scientificamerican.com/article/how-antiviral-pill-molnupiravir-shot-ahead-in-the-covid-drug-hunt/"/>
+        <updated>2021-10-12T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The Merck pill, which could become the first oral antiviral COVID treatment, forces the SARS-CoV-2 coronavirus to mutate itself to death
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Cassandra Willyard, Nature magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The NFL's Racist 'Race Norming' Is an Afterlife of Slavery]]></title>
+        <id>A109100B-DB30-475C-BC17EDC4FBEB7A60</id>
+        <link href="https://www.scientificamerican.com/article/the-nfls-racist-race-norming-is-an-afterlife-of-slavery/"/>
+        <updated>2021-10-12T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A statistical manipulation that underpaid Black players in concussion settlements exemplifies American football’s immersion in the legacy of slavery
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Tracie Canada, Chelsey R. Carter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Beauty of Dance, Seen Through the Power of Touch]]></title>
+        <id>https://hackaday.com/?p=499902</id>
+        <link href="https://hackaday.com/2021/10/12/the-beauty-of-dance-seen-through-the-power-of-touch/"/>
+        <updated>2021-10-12T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s nothing short of amazing what trained dancers can do with their bodies, and a real shame that visually-impaired people can’t enjoy the experience of, say, ballet. For this year’s …read more]]></summary>
+        <author>
+            <name>Kristina Panos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacking Hacker Noon: Sit Back, Relax, and Let That Twitter Bot do its Job]]></title>
+        <id>https://hackernoon.com/hacking-hacker-noon-sit-back-relax-and-let-that-twitter-bot-do-its-job?source=rss</id>
+        <link href="https://hackernoon.com/hacking-hacker-noon-sit-back-relax-and-let-that-twitter-bot-do-its-job?source=rss"/>
+        <updated>2021-10-12T17:50:13.000Z</updated>
+        <summary type="html"><![CDATA[You've been published. So now sit back, relax, and LET THE TWITTER BOT DO ITS JOB!!!!]]></summary>
+        <author>
+            <name>Hacker Noon Help and Support</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Showdown Time For Non-Standard Chargers In Europe]]></title>
+        <id>https://hackaday.com/?p=499514</id>
+        <link href="https://hackaday.com/2021/10/12/showdown-time-for-non-standard-chargers-in-europe/"/>
+        <updated>2021-10-12T17:00:27.000Z</updated>
+        <summary type="html"><![CDATA[It seems that few features of a consumer electronic product will generate as much rancour as a mobile phone charger socket. For those of us with Android phones, the world …read more]]></summary>
+        <author>
+            <name>Jenny List</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Intro to Stablecoins You Can Forward to Your Noob Friends]]></title>
+        <id>https://hackernoon.com/an-intro-to-stablecoins-you-can-forward-to-your-noob-friends?source=rss</id>
+        <link href="https://hackernoon.com/an-intro-to-stablecoins-you-can-forward-to-your-noob-friends?source=rss"/>
+        <updated>2021-10-12T16:54:47.000Z</updated>
+        <summary type="html"><![CDATA[Stablecoins are cryptocurrencies that have their price pegged to or backed by a stable asset, or group of assets.]]></summary>
+        <author>
+            <name>Bybit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tel Aviv-Based Startup Frontegg's Founder Talks About the Company's Origin and Passion]]></title>
+        <id>https://hackernoon.com/tel-aviv-based-startup-fronteggs-founder-talks-about-the-companys-origin-and-passion?source=rss</id>
+        <link href="https://hackernoon.com/tel-aviv-based-startup-fronteggs-founder-talks-about-the-companys-origin-and-passion?source=rss"/>
+        <updated>2021-10-12T15:38:20.000Z</updated>
+        <summary type="html"><![CDATA[We spoke to CEO and Co-founder of the User Management development platform Frontegg about the origins of his company, his background and thoughts on the future.]]></summary>
+        <author>
+            <name>Frontegg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Copy and Paste on a Computer [Windows PC Keyboard Shortcut Guide]]]></title>
+        <id>616478dc804854468fda89eb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-copy-and-paste-on-a-computer-windows-pc-keyboard-shortcut-guide/"/>
+        <updated>2021-10-12T15:35:00.000Z</updated>
+        <summary type="html"><![CDATA[When you're working on your computer, you want to do things as quickly as possible. And you probably don't want to repeat typing the same thing over and over again.  Knowing how to copy and paste text and other data will help you work efficiently without repeating yourself.  So in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Linux AWK Command – Linux and Unix Usage Syntax Examples]]></title>
+        <id>61604b37804854468fda625c</id>
+        <link href="https://www.freecodecamp.org/news/the-linux-awk-command-linux-and-unix-usage-syntax-examples/"/>
+        <updated>2021-10-12T15:34:47.000Z</updated>
+        <summary type="html"><![CDATA[In this beginner-friendly guide, you'll learn the very basics of the awk command. You'll also see some of the ways you can use it when dealing with text.  Let's get started!  What is the awk command? awk is a scripting language, and it is helpful when working in the command]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a Video Game – Create Your Own Game From Scratch Tutorial]]></title>
+        <id>615d55dc0d91c9077974d404</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-a-video-game-create-your-own-game-from-scratch-tutorial/"/>
+        <updated>2021-10-12T15:34:31.000Z</updated>
+        <summary type="html"><![CDATA[Game development is a popular field within the software industry. But what does it take to start building games from scratch? In this article, I will talk about the different game engines and tools that you can use to build your own games. I will also provide you with dozens]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python NamedTuple Examples – How to Create and Work with NamedTuples]]></title>
+        <id>6162f83f804854468fda7c7a</id>
+        <link href="https://www.freecodecamp.org/news/python-namedtuple-examples-how-to-create-and-work-with-namedtuples/"/>
+        <updated>2021-10-12T15:34:19.000Z</updated>
+        <summary type="html"><![CDATA[In Python, you'll probably use a tuple to initialize a sequence that shouldn't be modified elsewhere in the program. This is because tuples are immutable.  However, using a tuple may reduce the readability of your code as you cannot describe what each item in the tuple stands for. This is]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultrasonic Array Powers This Halloween Spirit Writer]]></title>
+        <id>https://hackaday.com/?p=500642</id>
+        <link href="https://hackaday.com/2021/10/12/ultrasonic-array-powers-this-halloween-spirit-writer/"/>
+        <updated>2021-10-12T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The spooky season is upon us, and with it the race to come up with the geekiest way to scare the kids. Motion-activated jump-scare setups are always a crowd-pleaser, but …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A data visualization magazine]]></title>
+        <id>https://flowingdata.com/?p=65757</id>
+        <link href="https://flowingdata.com/2021/10/12/a-data-visualization-magazine/"/>
+        <updated>2021-10-12T15:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Nightingale is a publication from Data Visualization Society that offers more depth for…
+Tags: magazine]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Stablecoins in 2021: Find Order in the Chaos]]></title>
+        <id>https://hackernoon.com/top-stablecoins-in-2021-find-order-in-the-chaos?source=rss</id>
+        <link href="https://hackernoon.com/top-stablecoins-in-2021-find-order-in-the-chaos?source=rss"/>
+        <updated>2021-10-12T15:17:39.000Z</updated>
+        <summary type="html"><![CDATA[Cryptocurrencies are subjected to exchange rate fluctuations and variability. To set prices for them, stablecoins were created. What are the top stablecoins?]]></summary>
+        <author>
+            <name>Matthew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Astronomer Who’s About to See the Skies of Other Earths]]></title>
+        <id>https://www.quantamagazine.org/?p=109449</id>
+        <link href="https://www.quantamagazine.org/with-a-new-space-telescope-laura-kreidberg-will-probe-exoplanet-skies-20211012/"/>
+        <updated>2021-10-12T15:11:50.000Z</updated>
+        <summary type="html"><![CDATA[After the ultra-powerful James Webb Space Telescope launches later this year, Laura Kreidberg will lead two efforts to check the weather on rocky planets orbiting other stars.            
+The post The Astronomer Who’s About to See the Skies of Other Earths first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Thomas Lewton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond the Winners, Nobel Prize for Climate Science Is a Victory for Many]]></title>
+        <id>FC9674F7-3341-4743-86F458E9712446F6</id>
+        <link href="https://www.scientificamerican.com/article/beyond-the-winners-nobel-prize-for-climate-science-is-a-victory-for-many1/"/>
+        <updated>2021-10-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Research in the field is more collaborative than the Nobel awards can acknowledge
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Gavin Schmidt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jamstack Developers’ Favorite Frameworks of 2021]]></title>
+        <id>https://css-tricks.com/?p=353415</id>
+        <link href="https://css-tricks.com/jamstack-developers-favorite-frameworks-of-2021/"/>
+        <updated>2021-10-12T14:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Which new framework should I learn this year? Is it time to ditch my CMS? What tools should I pick up if I want to scale my site to an audience of millions? The 2021 Jamstack Community Survey is here …
+The post Jamstack Developers’ Favorite Frameworks of 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Laurie Voss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists: When Talking to the Public, Please Speak Plainly]]></title>
+        <id>F01D04FB-38E0-4D0F-A7380997AF636916</id>
+        <link href="https://www.scientificamerican.com/article/scientists-when-talking-to-the-public-please-speak-plainly/"/>
+        <updated>2021-10-12T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Jargon is appropriate when you’re speaking with colleagues, but it’s a turnoff for the rest of us
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Naomi Oreskes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WooCommerce + Google Analytics]]></title>
+        <id>https://css-tricks.com/?p=353317</id>
+        <link href="https://css-tricks.com/woocommerce-google-analytics/"/>
+        <updated>2021-10-12T14:28:26.000Z</updated>
+        <summary type="html"><![CDATA[Google Analytics is powerful analytics software. A common way to use it is to just slap the JavaScript snippet on every page template you have and let it collect basic data about unique visitors and pageviews and such. That’s  useful, …
+The post WooCommerce + Google Analytics appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Tritium Story: How Afraid Should You Be Of Hydrogen’s Big Brother?]]></title>
+        <id>https://hackaday.com/?p=498774</id>
+        <link href="https://hackaday.com/2021/10/12/a-tritium-story-how-afraid-should-you-be-of-hydrogens-big-brother/"/>
+        <updated>2021-10-12T14:01:16.000Z</updated>
+        <summary type="html"><![CDATA[Despite being present in everything that contains water, tritium is not an isotope that many people were that familiar with outside of select (geeky) channels, such as DEF CON with …read more]]></summary>
+        <author>
+            <name>Maya Posch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Channeling Thoreau: 24 Hours on Pea Island]]></title>
+        <id>69D8BC3D-5613-45AB-8DD7C240507A3B5A</id>
+        <link href="https://www.scientificamerican.com/article/channeling-thoreau-24-hours-on-pea-island/"/>
+        <updated>2021-10-12T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A young writer camps out on a tiny bit of land at the western end of the Long Island Sound
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Jordan Salama</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Designs Quantum Physics Experiments beyond What Any Human Has Conceived]]></title>
+        <id>71AC7A9D-D257-4DEF-92CF8BE938D69756</id>
+        <link href="https://www.scientificamerican.com/article/ai-designs-quantum-physics-experiments-beyond-what-any-human-has-conceived/"/>
+        <updated>2021-10-12T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Originally built to speed up calculations, a machine-learning system is now making shocking progress at the frontiers of experimental quantum physics
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Anil Ananthaswamy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Smartest Way to Use Rapid At-Home COVID Tests]]></title>
+        <id>9067797C-4BB8-4AB5-BFA05B7F3AE19A03</id>
+        <link href="https://www.scientificamerican.com/article/the-smartest-way-to-use-rapid-at-home-covid-tests1/"/>
+        <updated>2021-10-12T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The self-administered tests are sold over the counter, holding out the promise of safer gatherings. But interpreting results requires savvy
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Tara Santora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Ways in Which Launching a Startup Is Easier in the Post-COVID Era]]></title>
+        <id>https://hackernoon.com/3-ways-in-which-launching-a-startup-is-easier-in-the-post-covid-era?source=rss</id>
+        <link href="https://hackernoon.com/3-ways-in-which-launching-a-startup-is-easier-in-the-post-covid-era?source=rss"/>
+        <updated>2021-10-12T11:09:51.000Z</updated>
+        <summary type="html"><![CDATA[The post-COVID world is full of global opportunities for early-stage companies to develop and grow. Learn how to build a startup with online tools.]]></summary>
+        <author>
+            <name>LawDistrict</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advantages of AI in Gaming: How We're Creating Smarter Competition]]></title>
+        <id>https://hackernoon.com/advantages-of-ai-in-gaming-how-were-creating-smarter-competition?source=rss</id>
+        <link href="https://hackernoon.com/advantages-of-ai-in-gaming-how-were-creating-smarter-competition?source=rss"/>
+        <updated>2021-10-12T11:08:13.000Z</updated>
+        <summary type="html"><![CDATA[Why artificial intelligence is being introduced into competitive and cooperative games today, and how the development teams of such games use AI.]]></summary>
+        <author>
+            <name>Aleksandr Pindyk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ford Maverick Welcomes DIY Spirit]]></title>
+        <id>https://hackaday.com/?p=500570</id>
+        <link href="https://hackaday.com/2021/10/12/ford-maverick-welcomes-diy-spirit/"/>
+        <updated>2021-10-12T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’ve featured a lot of car hacks on these pages, most would void the warranty and none of it with explicit factory support. Against that background, Ford’s upcoming Maverick is …read more]]></summary>
+        <author>
+            <name>Roger Cheng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Universal Force Tested by Blasting Neutrons through Crystal]]></title>
+        <id>A433DD87-F947-4A6E-BB0E7B43E4F29CF0</id>
+        <link href="https://www.scientificamerican.com/article/new-universal-force-tested-by-blasting-neutrons-through-crystal/"/>
+        <updated>2021-10-12T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[A recent experiment has placed the best-yet limits on the strength of a long-sought fifth fundamental force
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Karmela Padavic-Callaghan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Growing Crypto Gaming Industry: 7 Platforms You Should Know About]]></title>
+        <id>https://hackernoon.com/the-growing-crypto-gaming-industry-7-platforms-you-should-know-about?source=rss</id>
+        <link href="https://hackernoon.com/the-growing-crypto-gaming-industry-7-platforms-you-should-know-about?source=rss"/>
+        <updated>2021-10-12T10:42:53.000Z</updated>
+        <summary type="html"><![CDATA[NFTs and other gaming crypto are a way to provide an exciting gaming experience for users and players while offering them incentives within their ecosystems.]]></summary>
+        <author>
+            <name>Crypto Adventure</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Duelist King is a New NFT Blockchain Card Game with Promising Gameplay]]></title>
+        <id>https://hackernoon.com/duelist-king-is-a-new-nft-blockchain-card-game-with-promising-gameplay?source=rss</id>
+        <link href="https://hackernoon.com/duelist-king-is-a-new-nft-blockchain-card-game-with-promising-gameplay?source=rss"/>
+        <updated>2021-10-12T10:00:37.000Z</updated>
+        <summary type="html"><![CDATA[Duelist King is a blockchain-based card game where players own the NFTs of the cards they play with.]]></summary>
+        <author>
+            <name>Limarc Ambalina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Economy of Ethereum: A Simple Explanation for Beginners]]></title>
+        <id>https://hackernoon.com/the-economy-of-ethereum-a-simple-explanation-for-beginners?source=rss</id>
+        <link href="https://hackernoon.com/the-economy-of-ethereum-a-simple-explanation-for-beginners?source=rss"/>
+        <updated>2021-10-12T09:16:08.000Z</updated>
+        <summary type="html"><![CDATA[A simple view at Ethereum blocksize limit and its gas fee structure in regard to being a world decentralized computer that power the new internet application.]]></summary>
+        <author>
+            <name>Dong Nguyen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the ThunderCore Iris Hard Fork?]]></title>
+        <id>https://hackernoon.com/what-is-the-thundercore-iris-hard-fork?source=rss</id>
+        <link href="https://hackernoon.com/what-is-the-thundercore-iris-hard-fork?source=rss"/>
+        <updated>2021-10-12T08:57:06.000Z</updated>
+        <summary type="html"><![CDATA[The incoming ThunderCore hard fork will bring better cross-chain interoperability to the ThunderCore blockchain, creating a more developer-friendly platform.]]></summary>
+        <author>
+            <name>ThunderCore</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Protecting Billion Dollar Crypto-Assets: Interview with Aaron Lint of Anchorage Digital Bank]]></title>
+        <id>https://hackernoon.com/protecting-billion-dollar-crypto-assets-interview-with-aaron-lint-of-anchorage-digital-bank?source=rss</id>
+        <link href="https://hackernoon.com/protecting-billion-dollar-crypto-assets-interview-with-aaron-lint-of-anchorage-digital-bank?source=rss"/>
+        <updated>2021-10-12T08:48:25.000Z</updated>
+        <summary type="html"><![CDATA[Utsav Jaiswal sits down with Aaron Lint (CISO of Anchorage Digital Bank and Leslie Ankney (the Communications Lead at Anchorage Digital.]]></summary>
+        <author>
+            <name>Podcast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Chintai is Making the Trading Life Cycle More Efficient]]></title>
+        <id>https://hackernoon.com/how-chintai-is-making-the-trade-life-cycle-more-efficient-read-thei?source=rss</id>
+        <link href="https://hackernoon.com/how-chintai-is-making-the-trade-life-cycle-more-efficient-read-thei?source=rss"/>
+        <updated>2021-10-12T08:39:38.000Z</updated>
+        <summary type="html"><![CDATA[The HackerNoon community talked to Ryan Bethem from Chintai about Chintai's position in the market and what sets them apart from their competitors.]]></summary>
+        <author>
+            <name>Limarc Ambalina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Inevitability of Multi-Cloud-Native Apps]]></title>
+        <id>https://devops.com/?p=146409</id>
+        <link href="https://devops.com/the-inevitability-of-multi-cloud-native-apps/"/>
+        <updated>2021-10-12T07:30:44.000Z</updated>
+        <summary type="html"><![CDATA[We all know the story: Enterprises moved to the cloud. They learned about data center virtualization and multi-tenancy and self-service developer provisioning. Along came Kubernetes, and they moved to cloud-native, where they learned about automation, DevOps and infrastructure-as-code (IaC). Now, even though most enterprises are still figuring out how to do cloud-native at scale, there’s […]
+The post The Inevitability of Multi-Cloud-Native Apps appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Somik Behera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Steps to Succeed With Blue-Green Deployment]]></title>
+        <id>https://devops.com/?p=146396</id>
+        <link href="https://devops.com/5-steps-to-succeed-with-blue-green-deployment/"/>
+        <updated>2021-10-12T07:00:16.000Z</updated>
+        <summary type="html"><![CDATA[By allowing teams to maintain two production-ready environments at the same time, the blue-green deployment technique can significantly boost reliability. But blue-green deployment can also be difficult to execute and manage. Let’s unpack how blue-green deployment works, why it’s important and which best practices to follow for blue-green deployment success. Blue-Green Deployment, Defined Blue-green deployment […]
+The post 5 Steps to Succeed With Blue-Green Deployment appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>JJ Tang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 4 Blockchain Virtual Machines for Decentralized Applications]]></title>
+        <id>https://hackernoon.com/top-4-blockchain-virtual-machines-for-decentralized-applications?source=rss</id>
+        <link href="https://hackernoon.com/top-4-blockchain-virtual-machines-for-decentralized-applications?source=rss"/>
+        <updated>2021-10-12T06:34:09.000Z</updated>
+        <summary type="html"><![CDATA[From Polkadot to NEO, this article is a review of the most popular VMs in the dApp ecosystem other than Ethereum.]]></summary>
+        <author>
+            <name>Daniel Jimenez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering API Gateways for the Modern Cloud-Native Enterprise]]></title>
+        <id>https://devops.com/?p=146391</id>
+        <link href="https://devops.com/mastering-api-gateways-for-the-modern-cloud-native-enterprise/"/>
+        <updated>2021-10-12T06:30:48.000Z</updated>
+        <summary type="html"><![CDATA[As modern enterprises continue migrating to the cloud and the need for connected applications and devices dramatically increases, API-driven architectures are being widely adopted. In addition to the convenience of being able to efficiently connect and share resources, organizations benefit from the innovation and accelerated development speed that APIs bring in multi-cloud environments. APIs are […]
+The post Mastering API Gateways for the Modern Cloud-Native Enterprise appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Gérald Croës</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Every time you browse the web, you leave fingerprints behind"]]></title>
+        <id>https://hackernoon.com/every-time-you-browse-the-web-you-leave-fingerprints-behind?source=rss</id>
+        <link href="https://hackernoon.com/every-time-you-browse-the-web-you-leave-fingerprints-behind?source=rss"/>
+        <updated>2021-10-12T05:43:14.000Z</updated>
+        <summary type="html"><![CDATA[Privacy issues are everywhere these days, and it's not just Facebook's fault with its legendary data leaks. Learn about fingerprinting and how it impacts you.]]></summary>
+        <author>
+            <name>jmau111</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microservices and the Golden age of Infrastructure Automation Tools]]></title>
+        <id>https://hackernoon.com/microservices-and-the-golden-age-of-infrastructure-automation-tools?source=rss</id>
+        <link href="https://hackernoon.com/microservices-and-the-golden-age-of-infrastructure-automation-tools?source=rss"/>
+        <updated>2021-10-12T04:36:50.000Z</updated>
+        <summary type="html"><![CDATA[The dramatic shift in infrastructure availability is one of the main catalysts for the advent of microservices.]]></summary>
+        <author>
+            <name>Michael</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Ways to Make Your Python Project Structure More Elegant]]></title>
+        <id>https://hackernoon.com/7-ways-to-make-your-python-project-structure-more-elegant?source=rss</id>
+        <link href="https://hackernoon.com/7-ways-to-make-your-python-project-structure-more-elegant?source=rss"/>
+        <updated>2021-10-11T23:36:49.000Z</updated>
+        <summary type="html"><![CDATA[Best practices for a manageable, scalable, and easily understandable Python project structure]]></summary>
+        <author>
+            <name>Thuwarakesh Murallie</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The M5Stack Color Maker Can Mix Paint to Match Your Subject]]></title>
         <id>https://hackaday.com/?p=500751</id>
@@ -1076,6 +1613,19 @@ The post Jekyll doesn’t do components? Liar! appeared first on CSS-Tricks. You
         <summary type="html"><![CDATA[Hackaday editors Tom Nardi and Elliot Williams bring you up to speed on the most interesting stories of the week. Hackaday’s Remoticon and Germany’s Chaos Communication Congress are virtual again …read more]]></summary>
         <author>
             <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists Hail Historic Malaria Vaccine Approval--But Point to Challenges Ahead]]></title>
+        <id>5DE5B96F-82BE-4400-B43A99CD75407BA3</id>
+        <link href="https://www.scientificamerican.com/article/scientists-hail-historic-malaria-vaccine-approval-but-point-to-challenges-ahead1/"/>
+        <updated>2021-10-08T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The WHO-approved RTS,S vaccine has a modest efficacy and requires a complex regimen of doses, so ample funding and clear communication are crucial to success
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Amy Maxmen, Nature magazine</name>
         </author>
     </entry>
     <entry>
