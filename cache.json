@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=353719",
+          "author": "Chris Coyier",
+          "description": "Web-browser for research that helps programmers think clearly.\nWith Bonsai, rather than being like, I’m going to go use my web browser now, you hit Option + Space and it brings up a browser. It’s either full-screen or a …\nThe post Bonsai Browser appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://bonsaibrowser.com/",
+          "publishedOn": "2021-10-13T22:50:47.000Z",
+          "wordCount": 32,
+          "title": "Bonsai Browser"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352459",
+          "author": "Chris Coyier",
+          "description": "As someone just sittin’ back watching CSS evolve, it feels like we’re at one of the hottest moments of innovation in CSS history. It was really something when we got flexbox across all browsers, and not terribly long after, grid. …\nThe post CSS is Going Gosh-Darned Hog Wild, I Tell Ya What appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/css-is-going-gosh-darned-hog-wild-i-tell-ya-what/",
+          "publishedOn": "2021-10-13T15:36:43.000Z",
+          "wordCount": 1510,
+          "title": "CSS is Going Gosh-Darned Hog Wild, I Tell Ya What"
+        },
+        {
+          "id": "https://css-tricks.com/?p=353700",
+          "author": "Chris Coyier",
+          "description": "Ahmad Shadeed blogs the sentiment that we might not need to lean on position: absolute as much as we might have in the past. For one thing: stacking elements. For example, if you have a stack of elements that should …\nThe post Less Absolute Positioning With Modern CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://ishadeed.com/article/less-absolute-positioning-modern-css/",
+          "publishedOn": "2021-10-13T14:42:26.000Z",
+          "wordCount": 2122,
+          "title": "Less Absolute Positioning With Modern CSS"
+        },
+        {
           "id": "https://css-tricks.com/?p=353415",
           "author": "Laurie Voss",
           "description": "Which new framework should I learn this year? Is it time to ditch my CMS? What tools should I pick up if I want to scale my site to an audience of millions? The 2021 Jamstack Community Survey is here …\nThe post Jamstack Developers’ Favorite Frameworks of 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -363,6 +390,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "6167483480d82d07c45a445f",
+          "author": null,
+          "description": "Amazon Virtual Private Cloud is a service that lets you launch AWS resources in a logically isolated virtual network that you define. You get complete control over the networking environment including IP address ranges, subnets, routing, firewalls and more. We just released a full course about Amazon Virtual Private Cloud",
+          "link": "https://www.freecodecamp.org/news/amazon-virtual-private-cloud-course/",
+          "publishedOn": "2021-10-13T21:00:37.000Z",
+          "wordCount": 389,
+          "title": "Amazon Virtual Private Cloud Course"
+        },
+        {
+          "id": "616706d380d82d07c45a422b",
+          "author": null,
+          "description": "Most sites that display a list of data in a table typically have some kind of filter functionality implemented. This helps the user filter relevant items based on the text they type into the form input. In this quick tutorial, we are going to build a responsive filterable table which",
+          "link": "https://www.freecodecamp.org/news/build-a-responsive-filterable-form-with-css-and-javascript/",
+          "publishedOn": "2021-10-13T20:54:46.000Z",
+          "wordCount": 1314,
+          "title": "How to Build a Responsive Form with Filter Functionality Using HTML, CSS, and JavaScript"
+        },
+        {
+          "id": "6166934680d82d07c45a3e48",
+          "author": null,
+          "description": "Every computer has a graphics card that handles the rendering of every pixel you see on the monitor. This graphics card also plays a crucial role in displaying videos, running applications, and most especially, handling video game graphics.  Computers also have a graphics processing unit (GPU), which renders images and",
+          "link": "https://www.freecodecamp.org/news/what-graphics-card-do-i-have-how-to-check-your-gpu-in-windows-10-pc-guide/",
+          "publishedOn": "2021-10-13T17:01:26.000Z",
+          "wordCount": 622,
+          "title": "What Graphics Card Do I Have? How to Check Your GPU in Windows 10 [PC GUIDE]"
+        },
+        {
+          "id": "615855ad4aa03507d9411890",
+          "author": null,
+          "description": "In this article, we will be learning about one of Firebase's build products called Cloud Firestore. It lets you store, sync, and retrieve data in a document-based database.  We'll learn how to set up our project for the web. Since this isn't a design-focused tutorial, we'll just use an HTML",
+          "link": "https://www.freecodecamp.org/news/firebase-firestore-crash-course/",
+          "publishedOn": "2021-10-13T15:57:42.000Z",
+          "wordCount": 1790,
+          "title": "Firebase Cloud Firestore – Database Crash Course"
+        },
         {
           "id": "615e276e0d91c9077974e6ba",
           "author": null,
@@ -730,6 +793,186 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/leveraging-salesforce-using-mobile-applications-written-once-in-react-native?source=rss",
+          "author": "John Vester",
+          "description": "In the next part of his series, John Vester introduces Android and iOS mobile applications using React Native to read data from Salesforce.",
+          "link": "https://hackernoon.com/leveraging-salesforce-using-mobile-applications-written-once-in-react-native?source=rss",
+          "publishedOn": "2021-10-13T19:42:26.000Z",
+          "wordCount": 891,
+          "title": "Leveraging Salesforce Using Mobile Applications Written (Once) In React Native"
+        },
+        {
+          "id": "https://hackernoon.com/top-10-ways-to-grow-your-linkedin-network-and-gain-stronger-connections?source=rss",
+          "author": "Linvo",
+          "description": "Trying to figure out how to get more connections on LinkedIn? Here, we have shared 10 ways to make connections with others on LinkedIn & grow your network.",
+          "link": "https://hackernoon.com/top-10-ways-to-grow-your-linkedin-network-and-gain-stronger-connections?source=rss",
+          "publishedOn": "2021-10-13T19:37:07.000Z",
+          "wordCount": 1902,
+          "title": "Top 10 Ways to Grow Your LinkedIn Network and Gain Stronger Connections"
+        },
+        {
+          "id": "https://hackernoon.com/devops-vs-sre-which-career-direction-is-right-for-you?source=rss",
+          "author": "Michael Levan",
+          "description": "When it comes to computer engineering, there are plenty of titles and the wide variety makes it more confusing than it needs to be. DevOps and SRE are two roles",
+          "link": "https://hackernoon.com/devops-vs-sre-which-career-direction-is-right-for-you?source=rss",
+          "publishedOn": "2021-10-13T19:30:08.000Z",
+          "wordCount": 896,
+          "title": "DevOps vs. SRE: Which Career Direction is Right for You?"
+        },
+        {
+          "id": "https://hackernoon.com/postgresql-vs-mongodb-evaluating-database-structure-speed-and-more?source=rss",
+          "author": "Karl Hughes",
+          "description": "Choosing a database can be scary as it’s nearly impossible to change once you’ve built on one. So which will you choose? PostgreSQL or MongoDB?",
+          "link": "https://hackernoon.com/postgresql-vs-mongodb-evaluating-database-structure-speed-and-more?source=rss",
+          "publishedOn": "2021-10-13T19:25:17.000Z",
+          "wordCount": 861,
+          "title": "PostgreSQL vs. MongoDB: Evaluating Database Structure, Speed, and More"
+        },
+        {
+          "id": "https://hackernoon.com/microsoft-the-unit-of-deployment-and-winwin-kubernetes-with-co-founder-joe-beda?source=rss",
+          "author": "Elizabeth Lvova",
+          "description": "We recently had the opportunity to interview VMware’s principal engineer, Joe Beda, one of the creators of Kubernetes, as well as the Google Compute Engine. Joe",
+          "link": "https://hackernoon.com/microsoft-the-unit-of-deployment-and-winwin-kubernetes-with-co-founder-joe-beda?source=rss",
+          "publishedOn": "2021-10-13T19:18:05.000Z",
+          "wordCount": 5570,
+          "title": "Microsoft, The Unit of Deployment, and Win/Win Kubernetes with Co-Founder Joe Beda"
+        },
+        {
+          "id": "https://hackernoon.com/react-hooks-what-is-the-difference-between-usecallback-and-usememo?source=rss",
+          "author": "Sahil Sachdeva",
+          "description": "In this, we share the complete guide for React Hooks. Here you read about useCallback and useMemo with their syntax. If you are learning React then this for you",
+          "link": "https://hackernoon.com/react-hooks-what-is-the-difference-between-usecallback-and-usememo?source=rss",
+          "publishedOn": "2021-10-13T19:10:46.000Z",
+          "wordCount": 1680,
+          "title": "React-Hooks: What is The Difference Between useCallback And useMemo?"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-develop-a-successful-gaming-app-in-6-steps?source=rss",
+          "author": "Tatsiana Kerimova",
+          "description": "The secret to games' popularity is the variety. Games are an unlimited space for one’s fantasy, and there is an option for everyone on the mobile app market.",
+          "link": "https://hackernoon.com/how-to-develop-a-successful-gaming-app-in-6-steps?source=rss",
+          "publishedOn": "2021-10-13T19:04:45.000Z",
+          "wordCount": 906,
+          "title": "How to Develop a Successful Gaming App in 6 Steps"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-make-big-money-as-an-android-developer?source=rss",
+          "author": "Johnny",
+          "description": "I’m going to give you some useful hints on how to advance your skills and get hired for your dream job as an Android app developer.",
+          "link": "https://hackernoon.com/how-to-make-big-money-as-an-android-developer?source=rss",
+          "publishedOn": "2021-10-13T18:57:01.000Z",
+          "wordCount": 2491,
+          "title": "How to Make Big Money as an Android Developer"
+        },
+        {
+          "id": "https://hackernoon.com/why-learning-to-code-using-an-active-practicing-methodology-is-better?source=rss",
+          "author": "Johnny",
+          "description": "Are you willing to start a career in programming? Or, probably, you’re a dedicated hobbyist who wants to try coding just for fun? Then this article is for you!",
+          "link": "https://hackernoon.com/why-learning-to-code-using-an-active-practicing-methodology-is-better?source=rss",
+          "publishedOn": "2021-10-13T18:52:35.000Z",
+          "wordCount": 2165,
+          "title": "Why Learning to Code Using an Active Practicing Methodology is Better"
+        },
+        {
+          "id": "https://hackernoon.com/9-cheap-switch-games-on-sale-for-kids-and-adults?source=rss",
+          "author": "Marc Magrini",
+          "description": "The Switch is a cheap console with expensive games. This article lists some cheap games for kids and adults, and where to keep track of switch games on sale.",
+          "link": "https://hackernoon.com/9-cheap-switch-games-on-sale-for-kids-and-adults?source=rss",
+          "publishedOn": "2021-10-13T11:17:56.000Z",
+          "wordCount": 2439,
+          "title": "9 Cheap Switch Games on Sale for Kids and Adults"
+        },
+        {
+          "id": "https://hackernoon.com/why-proof-of-stake-might-not-be-the-answer-to-ethereums-gas-prices?source=rss",
+          "author": "DJCampbell",
+          "description": "Staking is another form of centralized control.",
+          "link": "https://hackernoon.com/why-proof-of-stake-might-not-be-the-answer-to-ethereums-gas-prices?source=rss",
+          "publishedOn": "2021-10-13T09:29:46.000Z",
+          "wordCount": 1860,
+          "title": "Everything Wrong with Proof of Stake"
+        },
+        {
+          "id": "https://hackernoon.com/sql-will-help-you-achieve-your-goals-jaroslaw-blad-vertabelo-ceo?source=rss",
+          "author": "LearnSQL.com",
+          "description": "We spoke to  Jarosław Błąd, CEO at Vertabelo about how he set up his website based around teaching people how to code using SQL and the motivations behind it.",
+          "link": "https://hackernoon.com/sql-will-help-you-achieve-your-goals-jaroslaw-blad-vertabelo-ceo?source=rss",
+          "publishedOn": "2021-10-13T07:00:20.000Z",
+          "wordCount": 859,
+          "title": "\"SQL Will Help You Achieve Your Goals\" - Jarosław Błąd, Vertabelo CEO"
+        },
+        {
+          "id": "https://hackernoon.com/serverless-and-blockchain-check-nft-supply-with-aws-lambda?source=rss",
+          "author": "Taavi Rehemägi",
+          "description": "How can serverless technology be used in tandem with blockchains? Find out how we built an AWS Lambda function to monitor NFT supplies.",
+          "link": "https://hackernoon.com/serverless-and-blockchain-check-nft-supply-with-aws-lambda?source=rss",
+          "publishedOn": "2021-10-13T06:57:51.000Z",
+          "wordCount": 896,
+          "title": "Serverless and Blockchain: Check NFT Supply With AWS Lambda"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-deploy-a-react-app-to-github-pages?source=rss",
+          "author": "Hamza Ellaouzi",
+          "description": "This article outlines how to smoothly deploy a React App through Github while avoiding common problems that such a process is likely to cause for you.",
+          "link": "https://hackernoon.com/how-to-deploy-a-react-app-to-github-pages?source=rss",
+          "publishedOn": "2021-10-13T06:52:23.000Z",
+          "wordCount": 841,
+          "title": "How to Deploy a React App to GitHub Pages"
+        },
+        {
+          "id": "https://hackernoon.com/how-blockchain-can-democratize-data-collection-and-why-you-should-care?source=rss",
+          "author": "Masha Prusso",
+          "description": "Blockchain technology democratizes data collection and gives individuals data sovereignty in the context of social media being able to collect so much of it.",
+          "link": "https://hackernoon.com/how-blockchain-can-democratize-data-collection-and-why-you-should-care?source=rss",
+          "publishedOn": "2021-10-13T06:42:21.000Z",
+          "wordCount": 886,
+          "title": "How Blockchain Can Democratize Data Collection And Why You Should Care"
+        },
+        {
+          "id": "https://hackernoon.com/telegram-and-the-collaborative-community?source=rss",
+          "author": "Kaio Duarte Costa",
+          "description": "Telegram strives to maintain an active and healthy community of volunteers. However, the big question is, why create these spaces for participation?",
+          "link": "https://hackernoon.com/telegram-and-the-collaborative-community?source=rss",
+          "publishedOn": "2021-10-13T06:37:04.000Z",
+          "wordCount": 851,
+          "title": "Telegram and The Collaborative Community"
+        },
+        {
+          "id": "https://hackernoon.com/mitre-attandck-and-d3fend-framework-are-redefining-counter-efforts-to-cyberattacks?source=rss",
+          "author": "Akash Nadar",
+          "description": "Implement best security controls with Mitre ATT&CK & D3FEND frameworks\nRedefine your organizational security posture to withstand emerging and advance threats",
+          "link": "https://hackernoon.com/mitre-attandck-and-d3fend-framework-are-redefining-counter-efforts-to-cyberattacks?source=rss",
+          "publishedOn": "2021-10-13T06:34:32.000Z",
+          "wordCount": 867,
+          "title": "MITRE ATT&CK & D3FEND Framework are Redefining Counter-efforts to Cyberattacks"
+        },
+        {
+          "id": "https://hackernoon.com/an-introduction-to-the-bounty-economy?source=rss",
+          "author": "Richard Patey",
+          "description": "Decentralized Autonomous Organizations (DAOs) are creating their own micro-economies, issuing bounties to members to complete tasks to achieve their mission.",
+          "link": "https://hackernoon.com/an-introduction-to-the-bounty-economy?source=rss",
+          "publishedOn": "2021-10-13T06:17:27.000Z",
+          "wordCount": 1886,
+          "title": "An Introduction to The Bounty Economy"
+        },
+        {
+          "id": "https://hackernoon.com/natural-capital-in-the-digital-economy-green-squared?source=rss",
+          "author": "Civic Ledger",
+          "description": "Is natural capital boring and obsolete, or an under-served and under-appreciated asset class that will explode in relevance in the future, just as NFTs have?",
+          "link": "https://hackernoon.com/natural-capital-in-the-digital-economy-green-squared?source=rss",
+          "publishedOn": "2021-10-13T00:05:50.000Z",
+          "wordCount": 880,
+          "title": "Natural Capital in the Digital Economy: Green Squared"
+        },
+        {
+          "id": "https://hackernoon.com/the-top-6-serial-over-network-utility?source=rss",
+          "author": "Oliver Rieder",
+          "description": "Attempting to connect a serial device to more than one computer would lead to a tangle of cables and is almost impossible without a serial over network solution",
+          "link": "https://hackernoon.com/the-top-6-serial-over-network-utility?source=rss",
+          "publishedOn": "2021-10-12T23:43:20.000Z",
+          "wordCount": 2056,
+          "title": "The Top 6 Serial over Network utility"
+        },
         {
           "id": "https://hackernoon.com/the-konmari-method-for-your-digital-footprint-how-to-clean-up-your-digital-clutter-like-marie-kondo?source=rss",
           "author": "Zen Chan",
@@ -2858,15 +3101,6 @@
           "publishedOn": "2021-07-29T13:00:00.000Z",
           "wordCount": 3851,
           "title": "Voice Content and Usability"
-        },
-        {
-          "id": "https://alistapart.com/article/designing-for-the-unexpected/",
-          "author": "by",
-          "description": "I’m not sure when I first heard this quote, but it’s something that has stayed with me over the years. How do you create services for situations you can’t imagine? Or design products that work on devices yet to be invented?\nFlash, Photoshop, and responsive design\nWhen I first started designing websites, my go-to software was Photoshop. I created a 960px canvas and set about creating a layout that I would later drop content in. The development phase was about attaining pixel-perfect accuracy using fixed widths, fixed heights, and absolute positioning.\nEthan Marcotte’s talk at An Event Apart and subsequent article “Responsive Web Design” in A List Apart in 2010 changed all this. I was sold on responsive design as soon as I heard about it, but I was also terrified. The pixel-perfect designs f…",
-          "link": "https://alistapart.com/article/designing-for-the-unexpected/",
-          "publishedOn": "2021-07-15T13:00:00.000Z",
-          "wordCount": 4518,
-          "title": "Designing for the Unexpected"
         }
       ]
     },
@@ -3478,6 +3712,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=499565",
+          "author": "Dave Rowntree",
+          "description": "Working with solder paste stencils can be a real faff, they rarely sit flat and move around when you so much as breath on them. [Unexpected Maker] airs his frustrations, …read more",
+          "link": "https://hackaday.com/2021/10/13/solder-paste-stencilling-that-doesnt-suck/",
+          "publishedOn": "2021-10-13T23:00:54.000Z",
+          "wordCount": 1246,
+          "title": "Solder Paste Stencilling That Doesn’t Suck"
+        },
+        {
+          "id": "https://hackaday.com/?p=501251",
+          "author": "Kristina Panos",
+          "description": "Once upon a time, we would run home from the bus stop to watch Gargoyles and Brady Bunch reruns on the family TV, a late-1970s console Magnavox number that sat …read more",
+          "link": "https://hackaday.com/2021/10/13/tiny-tv-tells-the-temperature-tale/",
+          "publishedOn": "2021-10-13T20:00:32.000Z",
+          "wordCount": 1192,
+          "title": "Tiny TV Tells the Temperature Tale"
+        },
+        {
+          "id": "https://hackaday.com/?p=497752",
+          "author": "Danie Conradie",
+          "description": "Print surfaces have been a major part of 3D printer development and experimentation since the beginning. [Makers Muse] has been experimenting with G10, a cheap high-pressure fiberglass laminate, and found …read more",
+          "link": "https://hackaday.com/2021/10/13/g10-is-the-3d-print-surface-you-crave/",
+          "publishedOn": "2021-10-13T18:30:00.000Z",
+          "wordCount": 1860,
+          "title": "G10 is the 3D Print Surface You Crave"
+        },
+        {
+          "id": "https://hackaday.com/?p=499138",
+          "author": "Ryan Flowers",
+          "description": "On a dark night in 2006 I was bicycle commuting to my office, oblivious to the countless man made objects orbiting in the sky above me at thousands of miles …read more",
+          "link": "https://hackaday.com/2021/10/13/space-age-road-rage-right-of-way-above-the-karman-line/",
+          "publishedOn": "2021-10-13T17:01:38.000Z",
+          "wordCount": 2773,
+          "title": "Space Age Road Rage: Right Of Way Above The Karman Line"
+        },
+        {
+          "id": "https://hackaday.com/?p=501026",
+          "author": "Bryan Cockfield",
+          "description": "Getting DOOM to run on hardware it was never intended to run on is a tradition as old as time. Old cell phones, embedded systems, and ancient televisions have all …read more",
+          "link": "https://hackaday.com/2021/10/13/doom-played-by-tweet/",
+          "publishedOn": "2021-10-13T15:30:00.000Z",
+          "wordCount": 1186,
+          "title": "DOOM Played By Tweet"
+        },
+        {
+          "id": "https://hackaday.com/?p=498196",
+          "author": "Kristina Panos",
+          "description": "Aerodox Flies on Wireless Wings [Simon Merrett] didn’t know anything about keyboards when he started this project, but he didn’t let that stop him. [Simon] did what any of us …read more",
+          "link": "https://hackaday.com/2021/10/13/keebin-with-kristina-the-one-with-the-curved-typewriter/",
+          "publishedOn": "2021-10-13T14:00:47.000Z",
+          "wordCount": 2079,
+          "title": "Keebin’ with Kristina: the One With the Curved Typewriter"
+        },
+        {
+          "id": "https://hackaday.com/?p=501303",
+          "author": "Tom Nardi",
+          "description": "The Nintendo Switch is a monstrously popular machine, and it’s had no difficulty raking in the bucks for the Japanese gaming giant, but there’s no denying that it’s technologically a …read more",
+          "link": "https://hackaday.com/2021/10/13/adding-wireless-charging-to-the-switch-lite/",
+          "publishedOn": "2021-10-13T11:00:00.000Z",
+          "wordCount": 1229,
+          "title": "Adding Wireless Charging to the Switch Lite"
+        },
         {
           "id": "https://hackaday.com/?p=501074",
           "author": "Al Williams",
@@ -4241,6 +4538,93 @@
       "feedUrl": "http://rss.sciam.com/scientificamerican-global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "9B2123D8-E0C0-4E4F-99F80F4504D959E6",
+          "author": "Emily Schwing",
+          "description": "Here’s what we can learn about climate change and infrastructure from Denali National Park’s only road.\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/podcast/episode/a-canary-in-an-ice-rich-slumping-rock-glacier-in-alaska/",
+          "publishedOn": "2021-10-13T21:00:00.000Z",
+          "wordCount": null,
+          "title": "A Canary in an Ice-Rich, Slumping Rock Glacier in Alaska",
+          "itunes": {
+            "duration": "07:54"
+          },
+          "enclosure": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=BEFA7064-A283-43A2-B98EF2715896A165",
+            "length": "9513421",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "24002F30-18C6-4042-8DBA2D4042EA4433",
+          "author": "Chelsea Harvey, E&E News",
+          "description": "Relatively little research into the consequences of climate change has been done for large parts of Earth’s population\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/climate-studies-have-focused-on-rich-countries/",
+          "publishedOn": "2021-10-13T20:45:00.000Z",
+          "wordCount": null,
+          "title": "Climate Studies Have Focused on Rich Countries",
+          "itunes": {}
+        },
+        {
+          "id": "BB97390B-05AF-42F3-BF338E4605254664",
+          "author": "Hanneke Weitering, SPACE.com",
+          "description": "The 90-year-old “Star Trek” actor is now the oldest person to fly in space\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/blue-origin-launches-william-shatner-and-crew-to-the-final-frontier/",
+          "publishedOn": "2021-10-13T17:45:00.000Z",
+          "wordCount": null,
+          "title": "Blue Origin Launches William Shatner and Crew to the Final Frontier",
+          "itunes": {}
+        },
+        {
+          "id": "541589C2-36A4-4DB1-8A725E97796706A0",
+          "author": "Philip Lubin, Alexander Cohen",
+          "description": "A new approach could mitigate the most damaging effects of an imminent asteroid or comet strike—or ensure many threatening objects never get close to striking Earth in the first place\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/planetary-defense-is-good-but-is-planetary-offense-better/",
+          "publishedOn": "2021-10-13T16:15:00.000Z",
+          "wordCount": null,
+          "title": "Planetary Defense Is Good--but Is Planetary Offense Better?",
+          "itunes": {}
+        },
+        {
+          "id": "124A4F43-2FE3-4E6F-A8E1A190D927DD33",
+          "author": "Ling Xin",
+          "description": "China’s Five-Hundred-Meter Aperture Spherical Radio Telescope has detected more than 1,600 fast radio bursts from a single enigmatic system\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/fast-the-worlds-largest-radio-telescope-zooms-in-on-a-furious-cosmic-source/",
+          "publishedOn": "2021-10-13T15:00:00.000Z",
+          "wordCount": null,
+          "title": "FAST, the World's Largest Radio Telescope, Zooms in on a Furious Cosmic Source",
+          "itunes": {}
+        },
+        {
+          "id": "FB8C8556-5577-486D-B62C1A868EEB8DEB",
+          "author": "Michael Tabb, Jeffery DelViscio, Andrea Gawrylewski",
+          "description": "You see it mentioned in countless phone commercials, and your phone might use it. But do you know how it works?\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/video/what-is-5g-here-is-short-video-primer/",
+          "publishedOn": "2021-10-13T14:00:00.000Z",
+          "wordCount": null,
+          "title": "What Is 5G? Here Is a Short Video Primer",
+          "itunes": {}
+        },
+        {
+          "id": "EFF7467A-1D60-40B2-96E1E44B579A27C2",
+          "author": "Keolu Fox",
+          "description": "A new study demonstrates “I ka wā mamua, ka wā ma hope,” or “the future is in the past”\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/genomes-show-the-history-and-travels-of-indigenous-peoples/",
+          "publishedOn": "2021-10-13T13:30:00.000Z",
+          "wordCount": null,
+          "title": "Genomes Show the History and Travels of Indigenous Peoples",
+          "itunes": {}
+        },
+        {
+          "id": "F16DBA3B-1B4C-4951-925162C04C812432",
+          "author": "Starre Vartan",
+          "description": "The consumer devices track pollutants as well as CO2—a proxy for potentially virus-laden human breath\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/assessing-covid-risk-and-more-with-air-quality-monitors/",
+          "publishedOn": "2021-10-13T10:45:00.000Z",
+          "wordCount": null,
+          "title": "Assessing COVID Risk and More with Air Quality Monitors",
+          "itunes": {}
+        },
         {
           "id": "C375D85C-2DAD-432A-9D588670B14FB15E",
           "author": "Sara Schonhardt, E&E News",
@@ -5097,6 +5481,60 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=146466",
+          "author": "Veronica Haggar",
+          "description": "Judith Hurwitz, Daniel Kirsch and company bring extensive experience in technology and market research, management and strategy consulting, business and go-to-market planning to Techstrong Group business unit Boca Raton, Fla. — October 13, 2021 — Techstrong Group, the power source for people and technology, announced today that Hurwitz & Associates will join Techstrong Research. The Hurwitz & Associates […]\nThe post Techstrong Research Bolsters Focus on Business Value and Outcomes of Disruptive Technologies with Addition of Hurwitz & Associates appeared first on DevOps.com.",
+          "link": "https://devops.com/techstrong-research-bolsters-focus-on-business-value-and-outcomes-of-disruptive-technologies-with-addition-of-hurwitz-associates/",
+          "publishedOn": "2021-10-13T14:00:53.000Z",
+          "wordCount": 1576,
+          "title": "Techstrong Research Bolsters Focus on Business Value and Outcomes of Disruptive Technologies with Addition of Hurwitz & Associates"
+        },
+        {
+          "id": "https://devops.com/?p=146450",
+          "author": "Mike Vizard",
+          "description": "New Relic today at the KubeCon + CloudNativeCon North America conference launched a New Relic Instant Observability (I/O) initiative through which it is making available open source tools to simplify application instrumentation. Marck Robinson, senior vice president for engineering at New Relic, said the catalog of tools will help DevOps teams instrument a much wider […]\nThe post New Relic I/O Aims to Simplify Instrumentation appeared first on DevOps.com.",
+          "link": "https://devops.com/new-relic-i-o-aims-to-simplify-instrumentation/",
+          "publishedOn": "2021-10-13T13:27:20.000Z",
+          "wordCount": 1040,
+          "title": "New Relic I/O Aims to Simplify Instrumentation"
+        },
+        {
+          "id": "https://devops.com/?p=146444",
+          "author": "Veronica Haggar",
+          "description": "Company doubles down on open source commitment with New Relic Instant Observability, an open catalog of 400+ quickstarts to help engineers instrument, dashboard and alert their entire stack Leading enterprise technologies such as Cribl, Fastly, Gigamon, Kentik, Lacework and Trend Micro contribute to accelerate adoption of observability by all engineers San Francisco, CA – October […]\nThe post New Relic Launches Industry’s Largest Open Source Ecosystem of Quickstarts and Partner Integrations to Help Every Engineer Embrace Observability in Minutes appeared first on DevOps.com.",
+          "link": "https://devops.com/new-relic-launches-industrys-largest-open-source-ecosystem-of-quickstarts-and-partner-integrations-to-help-every-engineer-embrace-observability-in-minutes/",
+          "publishedOn": "2021-10-13T13:00:52.000Z",
+          "wordCount": 2336,
+          "title": "New Relic Launches Industry’s Largest Open Source Ecosystem of Quickstarts and Partner Integrations to Help Every Engineer Embrace Observability in Minutes"
+        },
+        {
+          "id": "https://devops.com/?p=146422",
+          "author": "Eric Billingsley",
+          "description": "While the pandemic was significantly challenging for businesses, it exposed the need to quickly adapt and change. Software products for internal or client use continue to provide an opportunity for a competitive edge in nearly any industry. Businesses will immerse themselves and compete in the digital economy by consistently producing better software products at an […]\nThe post Why You Need a Value Stream Delivery Platform appeared first on DevOps.com.",
+          "link": "https://devops.com/why-you-need-a-value-stream-delivery-platform/",
+          "publishedOn": "2021-10-13T07:00:20.000Z",
+          "wordCount": 1314,
+          "title": "Why You Need a Value Stream Delivery Platform"
+        },
+        {
+          "id": "https://devops.com/?p=146425",
+          "author": "Don Macvittie",
+          "description": "Just a random thought of the day: We have the world’s best example of how many of our security woes are actually people problems, not technology problems. We all know that. We’ve all discussed it—but let’s consider this example and have a quick discussion about 2FA. Epic Games had a problem not unlike the rest […]\nThe post Security is About People, not Technology appeared first on DevOps.com.",
+          "link": "https://devops.com/security-is-about-people-not-technology/",
+          "publishedOn": "2021-10-13T06:30:59.000Z",
+          "wordCount": 1229,
+          "title": "Security is About People, not Technology"
+        },
+        {
+          "id": "https://devops.com/?p=146442",
+          "author": "ROELBOB",
+          "description": "The post Easy Alternatives appeared first on DevOps.com.",
+          "link": "https://devops.com/easy-alternatives/",
+          "publishedOn": "2021-10-13T06:00:34.000Z",
+          "wordCount": 420,
+          "title": "Easy Alternatives"
+        },
+        {
           "id": "https://devops.com/?p=146409",
           "author": "Somik Behera",
           "description": "We all know the story: Enterprises moved to the cloud. They learned about data center virtualization and multi-tenancy and self-service developer provisioning. Along came Kubernetes, and they moved to cloud-native, where they learned about automation, DevOps and infrastructure-as-code (IaC). Now, even though most enterprises are still figuring out how to do cloud-native at scale, there’s […]\nThe post The Inevitability of Multi-Cloud-Native Apps appeared first on DevOps.com.",
@@ -5419,6 +5857,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=109528",
+          "author": "Alexander Hellemans",
+          "description": "Built upon the ubiquitous Fourier transform, the mathematical tools known as wavelets allow unprecedented analysis and understanding of continuous signals.            \nThe post How Wavelets Allow Researchers to Transform, and Understand, Data first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-wavelets-allow-researchers-to-transform-and-understand-data-20211013/",
+          "publishedOn": "2021-10-13T16:55:24.000Z",
+          "wordCount": null,
+          "title": "How Wavelets Allow Researchers to Transform, and Understand, Data",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=109449",
           "author": "Thomas Lewton",
           "description": "After the ultra-powerful James Webb Space Telescope launches later this year, Laura Kreidberg will lead two efforts to check the weather on rocky planets orbiting other stars.            \nThe post The Astronomer Who’s About to See the Skies of Other Earths first appeared on Quanta Magazine",
@@ -5535,6 +5983,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=65762",
+          "author": "Nathan Yau",
+          "description": "When plotting Russian election results, a structured grid patterns appear. From The Economist:…\nTags: cheating, Economist, election",
+          "link": "https://flowingdata.com/2021/10/13/possible-cheating-seen-in-a-scatterplot/",
+          "publishedOn": "2021-10-13T10:36:27.000Z",
+          "wordCount": 351,
+          "title": "Possible cheating seen in a scatterplot"
+        },
         {
           "id": "https://flowingdata.com/?p=65757",
           "author": "Nathan Yau",
