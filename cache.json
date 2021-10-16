@@ -6,6 +6,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=353473",
+          "author": "Kev Bonett",
+          "description": "I love CSS Grid. I love how, with just a few lines of code, we can achieve fully responsive grid layouts, often without any media queries at all. I’m quite comfortable wrangling CSS Grid to produce interesting layouts, while keeping …\nThe post Expandable Sections Within a CSS Grid appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/expandable-sections-within-a-css-grid/",
+          "publishedOn": "2021-10-15T16:18:20.000Z",
+          "wordCount": 1649,
+          "title": "Expandable Sections Within a CSS Grid"
+        },
+        {
           "id": "https://css-tricks.com/?p=353057",
           "author": "Chris Coyier",
           "description": "One way to work with Custom Properties is to think of them as design tokens. Colors, spacings, fonts, and whatnot. You set them at the root of the page and use them throughout your CSS. Very useful, and the classic …\nThe post Different Degrees of Custom Property Usage appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -408,6 +417,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61063abe3306a507d1bfbfb0",
+          "author": null,
+          "description": "If you are new to tech, you might have just discovered UI/ UX design and want to pursue that career path. But what is the starting salary for entry level UX/UI designers? In this article, I will provide definitions for UI/ UX design as well as starting salary information",
+          "link": "https://www.freecodecamp.org/news/ux-designer-salary-how-much-do-ux-ui-designers-make-entry-level-range/",
+          "publishedOn": "2021-10-15T17:39:48.000Z",
+          "wordCount": 669,
+          "title": "UX Designer Salary – How much do UX/UI Designers Make? Entry Level Range"
+        },
+        {
+          "id": "61694be680d82d07c45a51bf",
+          "author": null,
+          "description": "If you're using Microsoft Word, you don't want blank pages appearing in the middle of your document, or extra pages at the end.  These extra pages could be caused by tables, hitting the ENTER key too many times, unnecessary section breaks, unintentional page breaks, extra paragraph markers, and more.  You",
+          "link": "https://www.freecodecamp.org/news/how-to-delete-a-page-in-word-remove-blank-or-extra-pages/",
+          "publishedOn": "2021-10-15T16:49:29.000Z",
+          "wordCount": 622,
+          "title": "How to Delete a Page in Word – Remove Blank or Extra Pages"
+        },
+        {
+          "id": "61680b4480d82d07c45a4661",
+          "author": null,
+          "description": "The Internet is one of our greatest inventions.  Millions of people use the Internet every second of the day, and it has changed many aspects of our lives – from creating new jobs and a new way of working to influencing how news is consumed and how decisions are made.  Although",
+          "link": "https://www.freecodecamp.org/news/ipv4-vs-ipv6-what-is-the-difference-between-ip-addressing-schemes/",
+          "publishedOn": "2021-10-15T16:30:13.000Z",
+          "wordCount": 1764,
+          "title": "IPV4 vs IPV6 – What is the Difference Between IP Addressing Schemes?"
+        },
         {
           "id": "61686f8b80d82d07c45a4e4a",
           "author": null,
@@ -3200,6 +3236,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=147141",
+          "author": "ACMer",
+          "description": "Introduction to Hanoi Tower Problem Hanoi Tower is a famous math puzzle. There are three rods and N disks. The smaller size of disks need to be always ontop of bigger ones. And one move you are only...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-tower-of-hanoi-via-recursion-math-induction-proof-of-minimal-number-of-moves/",
+          "publishedOn": "2021-10-15T21:37:06.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Tower of Hanoi via Recursion (Math Induction Proof of Minimal Number of Moves)",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=147120",
           "author": "ACMer",
           "description": "Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum. Example 1: Input: nums =  Output: 6 Explanation:  has the...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -3822,6 +3868,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=500031",
+          "author": "Donald Papp",
+          "description": "The OAK-D is an open-source, full-color depth sensing camera with embedded AI capabilities, and there is now a crowdfunding campaign for a newer, lighter version called the OAK-D Lite. The …read more",
+          "link": "https://hackaday.com/2021/10/15/oak-d-depth-sensing-ai-camera-gets-smaller-and-lighter/",
+          "publishedOn": "2021-10-15T23:01:56.000Z",
+          "wordCount": 1447,
+          "title": "OAK-D Depth Sensing AI Camera Gets Smaller and Lighter"
+        },
+        {
+          "id": "https://hackaday.com/?p=501483",
+          "author": "Lewin Day",
+          "description": "The MOS Technology 6502 CPU was a popular part in its day. In various modified versions, it powered everything from the Commodore 64 to the Nintendo Entertainment System, and showed …read more",
+          "link": "https://hackaday.com/2021/10/15/heres-a-100-mhz-pin-compatible-6502-replacement/",
+          "publishedOn": "2021-10-15T20:00:08.000Z",
+          "wordCount": 1985,
+          "title": "Here’s A 100 MHz Pin-Compatible 6502 Replacement"
+        },
+        {
+          "id": "https://hackaday.com/?p=501471",
+          "author": "Kristina Panos",
+          "description": "In just a few short weeks, we’ll all be meeting up online for the second Hackaday Remoticon on November 19th and 20th. This is the year of the Talk, and …read more",
+          "link": "https://hackaday.com/2021/10/15/hackaday-remoticon-call-for-proposals-extended-to-october-20th/",
+          "publishedOn": "2021-10-15T19:01:58.000Z",
+          "wordCount": 1227,
+          "title": "Hackaday Remoticon: Call for Proposals Extended to October 20th"
+        },
+        {
+          "id": "https://hackaday.com/?p=501485",
+          "author": "Lewin Day",
+          "description": "Typically, electroplating is used to put coatings of one metal upon another, often for reasons of corrosion protection or to reduce wear. However, other conductive materials can be electroplated, as …read more",
+          "link": "https://hackaday.com/2021/10/15/electroplating-carbon-fibers-can-have-interesting-results/",
+          "publishedOn": "2021-10-15T18:00:00.000Z",
+          "wordCount": 1514,
+          "title": "Electroplating Carbon Fibers Can Have Interesting Results"
+        },
+        {
+          "id": "https://hackaday.com/?p=404817",
+          "author": "Lewin Day",
+          "description": "Burning fossil fuels releases carbon dioxide into the atmosphere. While most attempts to reduce greenhouse-gas emissions focus on reducing the amount of CO2 output, there are other alternatives. Carbon capture …read more",
+          "link": "https://hackaday.com/2021/10/15/carbon-sequestration-as-a-service-doesnt-quite-add-up/",
+          "publishedOn": "2021-10-15T17:01:15.000Z",
+          "wordCount": 4508,
+          "title": "Carbon Sequestration As A Service Doesn’t Quite Add Up"
+        },
+        {
+          "id": "https://hackaday.com/?p=501677&preview=true&preview_id=501677",
+          "author": "Mike Szczys",
+          "description": "Hackaday editors Elliot Williams and Mike Szczys chew the fat over the coolest of hacks. It’s hard to beat two fascinating old-tech demonstraters; one is a mechanical IBM computer for …read more",
+          "link": "https://hackaday.com/2021/10/15/hackaday-podcast-140-aqua-battery-ibm-cheese-cutter-waiting-for-usb-c-and-digging-adcs/",
+          "publishedOn": "2021-10-15T16:01:04.000Z",
+          "wordCount": 1376,
+          "title": "Hackaday Podcast 140: Aqua Battery, IBM Cheese Cutter, Waiting for USB-C, and Digging ADCs"
+        },
+        {
+          "id": "https://hackaday.com/?p=501621",
+          "author": "Donald Papp",
+          "description": "Want to make a t-shirt with a custom design printed on it? It’s possible to use a 3D printer, and Prusa Research have a well-documented blog post and video detailing …read more",
+          "link": "https://hackaday.com/2021/10/15/3d-print-a-custom-t-shirt-design-step-by-step/",
+          "publishedOn": "2021-10-15T15:00:00.000Z",
+          "wordCount": 1841,
+          "title": "3D Print a Custom T-Shirt Design, Step-by-Step"
+        },
         {
           "id": "https://hackaday.com/?p=501038",
           "author": "Kristina Panos",
@@ -4711,6 +4820,83 @@
       "feedUrl": "http://rss.sciam.com/scientificamerican-global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "101A8599-765E-48C1-AA9480C300393987",
+          "author": "Mindy Weisberger, LiveScience",
+          "description": "The woman awoke to find the space rock laying next to her head\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/meteorite-crashes-into-womans-bed-in-canada/",
+          "publishedOn": "2021-10-15T18:15:00.000Z",
+          "wordCount": null,
+          "title": "Meteorite Crashes into Woman's Bed in Canada",
+          "itunes": {}
+        },
+        {
+          "id": "2C257EDF-408E-4C33-9A94AF9388E45D12",
+          "author": "Benjamin Storrow, E&E News",
+          "description": "These huge construction projects can feature turbines taller than some skyscrapers\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-to-build-an-offshore-wind-farm/",
+          "publishedOn": "2021-10-15T17:30:00.000Z",
+          "wordCount": null,
+          "title": "How to Build an Offshore Wind Farm",
+          "itunes": {}
+        },
+        {
+          "id": "D8397A32-E571-4397-A39A6221465F7F5B",
+          "author": "Teresa Carey",
+          "description": "Nearly 200 years after his death, the German composer’s musical scratch was pieced together by machine—with a lot of human help.\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/podcast/episode/beethovens-unfinished-10th-symphony-brought-to-life-by-artificial-intelligence/",
+          "publishedOn": "2021-10-15T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Beethoven's Unfinished 10th Symphony Brought to Life by Artificial Intelligence",
+          "itunes": {
+            "duration": "07:15"
+          },
+          "enclosure": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=63BDB60D-E4CD-4BA9-A063E69E99232414",
+            "length": "8752089",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "70AD69FC-1EB1-4917-BEB144E776AC3F24",
+          "author": "Carmen Sanchez, David Dunning",
+          "description": "Belief in conspiracy theories and overconfidence are two tendencies linked to hasty thinking\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/people-who-jump-to-conclusions-show-other-kinds-of-thinking-errors/",
+          "publishedOn": "2021-10-15T14:00:00.000Z",
+          "wordCount": null,
+          "title": "People Who Jump to Conclusions Show Other Kinds of Thinking Errors",
+          "itunes": {}
+        },
+        {
+          "id": "D6B396BF-83A5-4A3A-B5EE6DC61304E028",
+          "author": "Avi Loeb",
+          "description": "Developing quantum-gravity technologies may elevate us to a “class A” civilization, capable of creating a baby universe\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/was-our-universe-created-in-a-laboratory/",
+          "publishedOn": "2021-10-15T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Was Our Universe Created in a Laboratory?",
+          "itunes": {}
+        },
+        {
+          "id": "7F6DC0FB-66CC-496B-8BB38625A6DFC099",
+          "author": "Tanya Lewis",
+          "description": "Now that the FDA has authorized the shots for a broad range of Americans, many people want to know if they need a booster dose. Here’s what we have learned so far\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/who-needs-a-covid-booster-shot-experts-answer-common-questions/",
+          "publishedOn": "2021-10-15T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Who Needs a COVID Booster Shot? Experts Answer Common Questions",
+          "itunes": {}
+        },
+        {
+          "id": "5B9C638D-77E0-42CB-B9053F35547ACCC2",
+          "author": "Mark Peplow, Nature Biotechnology",
+          "description": "A wave of funding focuses on antiviral nanomaterials as COVID countermeasures\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/nanotechnology-offers-new-ways-to-fight-an-endless-pandemic/",
+          "publishedOn": "2021-10-15T10:45:00.000Z",
+          "wordCount": null,
+          "title": "Nanotechnology Offers New Ways to Fight an Endless Pandemic",
+          "itunes": {}
+        },
         {
           "id": "3CAE8086-E010-4C16-80557BDB6240E3C8",
           "author": "Sara Schonhardt, E&E News",
@@ -5751,6 +5937,24 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=146485",
+          "author": "Blair Lyon",
+          "description": "Earlier this summer, we worked with ClearPath Strategies to ask developers about the level of trust they have in their various cloud service providers. What we learned spoke volumes: While developers’ familiarity and comfort with Amazon, Microsoft and Google position these well-known cloud providers as market frontrunners, developers often do not agree with the companies’ […]\nThe post Trust in Cloud Providers is a Developer Issue appeared first on DevOps.com.",
+          "link": "https://devops.com/trust-in-cloud-providers-is-a-developer-issue/",
+          "publishedOn": "2021-10-15T07:00:09.000Z",
+          "wordCount": 915,
+          "title": "Trust in Cloud Providers is a Developer Issue"
+        },
+        {
+          "id": "https://devops.com/?p=146488",
+          "author": "Tony Craythorne",
+          "description": "The IT industry has historically been a leader in the ongoing race to reduce CO2 emissions. Reducing emissions is good for the environment and for the corporate bottom line. The data center is well-known as a voracious data consumer. But the data center consumption findings keep pace with the trend. Even in the face of […]\nThe post Energy Efficiency and the Data Center appeared first on DevOps.com.",
+          "link": "https://devops.com/energy-efficiency-and-the-data-center/",
+          "publishedOn": "2021-10-15T06:30:19.000Z",
+          "wordCount": 1323,
+          "title": "Energy Efficiency and the Data Center"
+        },
+        {
           "id": "https://devops.com/?p=146492",
           "author": "Mike Vizard",
           "description": "The Cloud Native Computing Foundation (CNCF) announced this week during the ServiceMeshCon/KubeCon + CloudNativeCon conference that Meshery, a service mesh management plane created by Layer5, has become a sandbox-level project. In addition, Layer5 has also donated Service Mesh Performance (SMP), a set of tools for measuring the efficiency of a service mesh, to the CNCF. […]\nThe post CNCF Adopts Meshery to Advance Service Mesh Management appeared first on DevOps.com.",
@@ -6300,6 +6504,15 @@
       "siteUrl": "https://flowingdata.com",
       "articles": [
         {
+          "id": "https://flowingdata.com/?p=65809",
+          "author": "Nathan Yau",
+          "description": "Most television shows don't get past the first season, but there are some that manage to stick around. These are the 175 longest running shows on IMDb that have ratings.\nTags: imdb, ratings, television",
+          "link": "https://flowingdata.com/2021/10/15/how-the-longest-running-shows-rated-over-episodes/",
+          "publishedOn": "2021-10-15T07:07:48.000Z",
+          "wordCount": 450,
+          "title": "How the Longest Running Shows Rated Over Episodes"
+        },
+        {
           "id": "https://flowingdata.com/?p=65800",
           "author": "Nathan Yau",
           "description": "Not everything has to be in the visualization at the same time.\nTags: separation, small",
@@ -6491,5 +6704,5 @@
       ]
     }
   ],
-  "cliVersion": "1.11.2"
+  "cliVersion": "1.11.3"
 }
