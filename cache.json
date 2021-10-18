@@ -3175,15 +3175,6 @@
           "publishedOn": "2021-08-03T02:03:11.000Z",
           "wordCount": 613,
           "title": "onInput Event"
-        },
-        {
-          "id": "https://davidwalsh.name/?p=27448",
-          "author": "David Walsh",
-          "description": "Dark mode has seemingly become the desired visual mode for websites and mobile apps alike. Dark mode is easier on the eyes, especially for those like me who like to burn the midnight oil by coding and reading tutorials. Unfortunately not all websites offer dark mode, so it’s up to me to remedy the situation. […]\nThe post Dark Mode in One Line of Code! appeared first on David Walsh Blog.",
-          "link": "https://davidwalsh.name/dark-mode-invert-filter",
-          "publishedOn": "2021-07-19T12:41:40.000Z",
-          "wordCount": 669,
-          "title": "Dark Mode in One Line of Code!"
         }
       ]
     },
@@ -3235,6 +3226,16 @@
       "feedUrl": "http://feeds.feedburner.com/helloacm?format=xml",
       "siteUrl": "https://helloacm.com",
       "articles": [
+        {
+          "id": "https://helloacm.com/?p=147184",
+          "author": "ACMer",
+          "description": "Given a list of rules in the form of “A-B”, find out the original word. The original word only has unique letters. For example, given , return the original word which is...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-restore-the-word-from-rules/",
+          "publishedOn": "2021-10-17T21:08:30.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Restore the Word from Rules",
+          "itunes": {}
+        },
         {
           "id": "https://helloacm.com/?p=147157",
           "author": "ACMer",
@@ -3878,6 +3879,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=501272&preview=true&preview_id=501272",
+          "author": "Dan Maloney",
+          "description": "We found a couple of headlines this week that seemed pretty alarming at first, mentioning as they did both “Chinese grannies” and “stun guns.” Digging a little deeper, it appears …read more",
+          "link": "https://hackaday.com/2021/10/17/hackaday-links-october-17-2021/",
+          "publishedOn": "2021-10-17T23:00:43.000Z",
+          "wordCount": 1658,
+          "title": "Hackaday Links: October 17, 2021"
+        },
+        {
+          "id": "https://hackaday.com/?p=501335",
+          "author": "Tom Nardi",
+          "description": "Despite the name, BASIC isn’t exactly a language recommended for beginners these days. Technology has moved on, and now most people would steer you towards Python if you wanted to …read more",
+          "link": "https://hackaday.com/2021/10/17/qb64-hits-version-2-0-gets-enhanced-debugging/",
+          "publishedOn": "2021-10-17T20:01:25.000Z",
+          "wordCount": 1387,
+          "title": "QB64 Hits Version 2.0, Gets Enhanced Debugging"
+        },
+        {
+          "id": "https://hackaday.com/?p=501486",
+          "author": "Lewin Day",
+          "description": "Vises are useful things for holding whatever you’re working on, but too often they’re stuck to a bench. [seamster] has experienced the glory of having a more portable solution, however, …read more",
+          "link": "https://hackaday.com/2021/10/17/vise-tripod-lets-you-put-the-tool-where-you-need-it/",
+          "publishedOn": "2021-10-17T17:01:50.000Z",
+          "wordCount": 1389,
+          "title": "Vise Tripod Lets You Put The Tool Where You Need It"
+        },
+        {
+          "id": "https://hackaday.com/?p=501049",
+          "author": "Dan Maloney",
+          "description": "It’s almost hard to remember a time when the obvious answer to most questions about manufacturing wasn’t “Throw it on the CNC.” CNC machines have become so entrenched that the …read more",
+          "link": "https://hackaday.com/2021/10/17/machining-wood-inlays-no-cnc-required/",
+          "publishedOn": "2021-10-17T14:01:04.000Z",
+          "wordCount": 1548,
+          "title": "Machining Wood Inlays, No CNC Required"
+        },
+        {
+          "id": "https://hackaday.com/?p=500993",
+          "author": "Jenny List",
+          "description": "Retrocomputer enthusiasts will quite often be found pondering the great what ifs of their hobby. What if Commodore had had a half-way decent marketing division is a popular one, but …read more",
+          "link": "https://hackaday.com/2021/10/17/a-redesigned-zx-spectrum-desktop-computer-that-works-surprisingly-well/",
+          "publishedOn": "2021-10-17T11:01:42.000Z",
+          "wordCount": 1442,
+          "title": "A Redesigned ZX Spectrum Desktop Computer That Works Surprisingly Well"
+        },
+        {
+          "id": "https://hackaday.com/?p=500877",
+          "author": "Al Williams",
+          "description": "The latest video from [TheSignalPath] is a result of his purchase of a home COVID-19 test. He found an electronic version that connects to your cell phone and displays the …read more",
+          "link": "https://hackaday.com/2021/10/17/electronic-covid-test-tear-down-shows-frustrating-example-of-1-time-use-waste/",
+          "publishedOn": "2021-10-17T08:01:08.000Z",
+          "wordCount": 3444,
+          "title": "Electronic Covid Test Tear Down Shows Frustrating Example of 1-Time-Use Waste"
+        },
+        {
+          "id": "https://hackaday.com/?p=501414",
+          "author": "Dan Maloney",
+          "description": "The PS/2-style port was once about as ubiquitous on PCs as USB connectors are today, and more than a few of us accumulated a fair collection of keyboards and mice …read more",
+          "link": "https://hackaday.com/2021/10/16/the-wireless-ps-2-keyboard-that-never-was/",
+          "publishedOn": "2021-10-17T05:00:00.000Z",
+          "wordCount": 1427,
+          "title": "The Wireless PS/2 Keyboard That Never Was"
+        },
         {
           "id": "https://hackaday.com/?p=499945",
           "author": "Jenny List",
