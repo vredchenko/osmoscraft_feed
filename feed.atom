@@ -2,10 +2,365 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2021-10-19T00:43:18.905Z</updated>
+    <updated>2021-10-20T00:42:07.263Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Calls Are Coming From Inside the House (or Workshop)]]></title>
+        <id>https://hackaday.com/?p=501591</id>
+        <link href="https://hackaday.com/2021/10/19/the-calls-are-coming-from-inside-the-house-or-workshop/"/>
+        <updated>2021-10-19T23:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Hot on the heels of their carbon microphone build a few years ago, [Simplifier] strung up a two-phone network between the house and the workshop. Both telephones are completely DIY …read more]]></summary>
+        <author>
+            <name>Kristina Panos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[@supports selector()]]></title>
+        <id>https://css-tricks.com/?p=354115</id>
+        <link href="https://css-tricks.com/supports-selector/"/>
+        <updated>2021-10-19T21:12:18.000Z</updated>
+        <summary type="html"><![CDATA[I didn’t realize the support for @supports determining selector support was so good! I usually think of @supports as a way to test for property: value pair support. But with the selector() function, we can test for selector support …
+The post @supports selector() appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – Kth Smallest Element in a BST via Iterative Inorder Traversal Algorithm]]></title>
+        <id>https://helloacm.com/?p=147213</id>
+        <link href="https://helloacm.com/teaching-kids-programming-kth-smallest-element-in-a-bst-via-iterative-inorder-traversal-algorithm/"/>
+        <updated>2021-10-19T21:04:57.000Z</updated>
+        <summary type="html"><![CDATA[Given a binary search tree, write a function kthSmallest to find the kth smallest element in it. You may assume k is always valid, 1 ≤ k ≤ BST’s total elements. Example 1: Input: root = , k = 1...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ESP32 Clock Pushes Outrun Graphics over Composite]]></title>
+        <id>https://hackaday.com/?p=502068</id>
+        <link href="https://hackaday.com/2021/10/19/esp32-clock-pushes-outrun-graphics-over-composite/"/>
+        <updated>2021-10-19T20:00:08.000Z</updated>
+        <summary type="html"><![CDATA[We’ve covered plenty of clocks powered by the ESP32, but this one from [Marcio Teixeira] is really something special. Rather than driving a traditional physical display, the microcontroller is instead …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lucy, the First Mission to Jupiter's Asteroids, Could Reveal Solar System Origins]]></title>
+        <id>92EECB52-29DD-41CC-AB3A75F6D42CC7D6</id>
+        <link href="https://www.scientificamerican.com/article/lucy-the-first-mission-to-jupiters-asteroids-could-reveal-solar-system-origins/"/>
+        <updated>2021-10-19T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The NASA spacecraft will loop past the never-before-explored ‘Trojan’ asteroids during a 12-year journey
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Alexandra Witze, Nature magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Definition of Gene Therapy Has Changed]]></title>
+        <id>6D62E4CB-86BF-4F71-A89EDA83F823A5FE</id>
+        <link href="https://www.scientificamerican.com/article/the-definition-of-gene-therapy-has-changed/"/>
+        <updated>2021-10-19T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Over the past few years, the discipline has evolved in significant ways
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Esther Landhuis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turning Old Masks into 3D Printer Filament]]></title>
+        <id>https://hackaday.com/?p=501830</id>
+        <link href="https://hackaday.com/2021/10/19/turning-old-masks-into-3d-printer-filament/"/>
+        <updated>2021-10-19T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Disposable masks have been a necessity during the COVID-19 pandemic, but for all the good they’ve done, their disposal represents a monumental ecological challenge that has largely been ignored in …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gene Therapy Is Coming of Age]]></title>
+        <id>60E5B75B-07E3-4F77-8C81718C0BE092B9</id>
+        <link href="https://www.scientificamerican.com/article/gene-therapy-is-coming-of-age/"/>
+        <updated>2021-10-19T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Various approaches are approved for treating blood cancers and a few rare disorders—they may soon become standard care
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Lauren Gravitz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heat Waves in Seville Will be Named and Ranked Like Hurricanes]]></title>
+        <id>6658EC80-B7BB-49F0-AEA60E97C291A2FC</id>
+        <link href="https://www.scientificamerican.com/article/heat-waves-in-seville-will-be-named-and-ranked-like-hurricanes/"/>
+        <updated>2021-10-19T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The city is the first to undertake such a scheme, in an effort to better warn residents of the health threats from heat
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Chelsea Harvey, E&amp;E News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GraphQL for Front End Developers]]></title>
+        <id>616bcb8580d82d07c45a5deb</id>
+        <link href="https://www.freecodecamp.org/news/graphql-for-front-end-developers/"/>
+        <updated>2021-10-19T17:19:00.000Z</updated>
+        <summary type="html"><![CDATA[If you are a front end developer who is new to the world of GraphQL and you're thinking about getting started with it, this article is for you.  In this article, we will explore GraphQL basics and kick start our journey with it by building a simple project.  What is]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement Binary Tree Algorithms in Technical Interviews]]></title>
+        <id>616ef9b5d48e1707b6d78265</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-binary-tree-algorithms-in-technical-interviews/"/>
+        <updated>2021-10-19T17:13:24.000Z</updated>
+        <summary type="html"><![CDATA[A binary tree is a common data structure used in software development. It is also a frequent topic in technical coding interviews. We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about binary tree algorithms and prepare you to use them in coding]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VCF East Roars Back to Life]]></title>
+        <id>https://hackaday.com/?p=501875</id>
+        <link href="https://hackaday.com/2021/10/19/vcf-east-roars-back-to-life/"/>
+        <updated>2021-10-19T17:01:16.000Z</updated>
+        <summary type="html"><![CDATA[It didn’t take long to realize that the 2021 Vintage Computer Festival East — returning to the InfoAge Science and History Museum in Wall, New Jersey after being held virtually …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn TensorFlow Lite for Edge Devices]]></title>
+        <id>616ef6efd48e1707b6d7822c</id>
+        <link href="https://www.freecodecamp.org/news/learn-tensorflow-lite-for-edge-devices/"/>
+        <updated>2021-10-19T16:58:53.000Z</updated>
+        <summary type="html"><![CDATA[TensorFlow Lite is an open source deep learning framework that can be used on small devices. We just published a TensorFlow Lite course on the freeCodeCamp.org YouTube channel. Bhavesh Bhatt created this course. Bhavesh has created many courses on his own channel and is a great teacher. TensorFlow Lite]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unexplained Results Intrigue Physicists at World's Largest Particle Collider]]></title>
+        <id>3E3912EF-283D-4A32-A5BD87974CB80984</id>
+        <link href="https://www.scientificamerican.com/article/unexplained-results-intrigue-physicists-at-worlds-largest-particle-collider/"/>
+        <updated>2021-10-19T16:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Muons and electrons might not experience the same fundamental interactions, contrary to Standard Model predictions
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Daniel Garisto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Event Viewer – How to Access the Windows 10 Activity Log]]></title>
+        <id>616eda9cd48e1707b6d7801b</id>
+        <link href="https://www.freecodecamp.org/news/event-viewer-how-to-access-the-windows-10-activity-log/"/>
+        <updated>2021-10-19T16:33:26.000Z</updated>
+        <summary type="html"><![CDATA[The Windows 10 Event Viewer is an app that shows a log detailing information about significant events on your computer. This information includes automatically downloaded updates, errors, and warnings.  In this article, you'll learn what the event viewer is, the different logs it has, and most importantly, how to access]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A view from the Moon’s south pole]]></title>
+        <id>https://flowingdata.com/?p=65830</id>
+        <link href="https://flowingdata.com/2021/10/19/a-view-from-the-moons-south-pole/"/>
+        <updated>2021-10-19T16:12:45.000Z</updated>
+        <summary type="html"><![CDATA[NASA Goddard visualized the point of view from the south pole of the…
+Tags: moon, NASA, space, time-lapse]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Pass Microsoft’s Azure Data Engineer Certification – DP-203 Exam Guide]]></title>
+        <id>616d9050d48e1707b6d77622</id>
+        <link href="https://www.freecodecamp.org/news/how-to-pass-microsoft-azure-data-engineer-certification-dp-203/"/>
+        <updated>2021-10-19T16:02:51.000Z</updated>
+        <summary type="html"><![CDATA[Data Engineering jobs are in high demand. And getting a certification in the subject is a good way to learn and to deepen and prove your skills.  Each cloud provider offers a certification specialized to their Data Engineering services. They carry weight but are not easy to pass. The Azure]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Solar System's Mysterious Magnetic Fields]]></title>
+        <id>6B427420-6358-47E0-AD4EEEC95997E6E9</id>
+        <link href="https://www.scientificamerican.com/article/the-solar-systems-mysterious-magnetic-fields/"/>
+        <updated>2021-10-19T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most of our neighboring planets have magnetic fields, but scientists do not fully understand how they arise
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Clara Moskowitz, Mark Belan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Quadrivium EnsembleBot Is A Labour Of Love]]></title>
+        <id>https://hackaday.com/?p=500719</id>
+        <link href="https://hackaday.com/2021/10/19/the-quadrivium-ensemblebot-is-a-labour-of-love/"/>
+        <updated>2021-10-19T15:30:59.000Z</updated>
+        <summary type="html"><![CDATA[The Quadrivium EnsembleBot project is a mashup between old school musical instruments and the modern MIDI controlled world. Built by a small team over several years, these hand crafted instruments …read more]]></summary>
+        <author>
+            <name>Dave Rowntree</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Listening to a Story Helps Hospitalized Kids Heal]]></title>
+        <id>8B563BAD-4A94-4BE8-8ACE8E8570BAD304</id>
+        <link href="https://www.scientificamerican.com/article/listening-to-a-story-helps-hospitalized-kids-heal/"/>
+        <updated>2021-10-19T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Story time reduced pain and stress
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Susan Cosier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Interview With Elad Shechter on “The New CSS Reset”]]></title>
+        <id>https://css-tricks.com/?p=353462</id>
+        <link href="https://css-tricks.com/an-interview-with-elad-shechter-on-the-new-css-reset/"/>
+        <updated>2021-10-19T14:48:40.000Z</updated>
+        <summary type="html"><![CDATA[Hey folks! Elad reached out to me to show me his new CSS reset project called the-new-css-reset. It’s quite interesting! I thought a neat way to share it with you is not only to point you toward it, but …
+The post An Interview With Elad Shechter on “The New CSS Reset” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Elad Shechter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Hint of Dark Matter Sends Physicists Looking to the Skies]]></title>
+        <id>https://www.quantamagazine.org/?p=109619</id>
+        <link href="https://www.quantamagazine.org/a-hint-of-dark-matter-sends-physicists-looking-to-the-skies-20211019/"/>
+        <updated>2021-10-19T14:44:10.000Z</updated>
+        <summary type="html"><![CDATA[After a search of neutron stars finds preliminary evidence for hypothetical dark matter particles called axions, astrophysicists are devising new ways to spot them.            
+The post A Hint of Dark Matter Sends Physicists Looking to the Skies first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Jonathan O'Callaghan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Low-Down on Long-Wave: Unlicensed Experimental Radio]]></title>
+        <id>https://hackaday.com/?p=500591</id>
+        <link href="https://hackaday.com/2021/10/19/the-low-down-on-long-wave-unlicensed-experimental-radio/"/>
+        <updated>2021-10-19T14:00:17.000Z</updated>
+        <summary type="html"><![CDATA[In the 125 years since Marconi made his first radio transmissions, the spectrum has been divvied up into ranges and bands, most of which are reserved for governments and large …read more]]></summary>
+        <author>
+            <name>Adam Zeloof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Social Capital in Black Communities Is Often Overlooked]]></title>
+        <id>0F507F93-3A57-49A6-8EADCC7A88A86DB6</id>
+        <link href="https://www.scientificamerican.com/article/social-capital-in-black-communities-is-often-overlooked/"/>
+        <updated>2021-10-19T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Altruism, spirituality and civic engagement are keys to resilience
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Nancy Averett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vapor Storms Are Threatening People and Property]]></title>
+        <id>C0BFD143-789F-4B88-BDB06779F92C59EF</id>
+        <link href="https://www.scientificamerican.com/article/vapor-storms-are-threatening-people-and-property/"/>
+        <updated>2021-10-19T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[More moisture in a warmer atmosphere is fueling intense hurricanes and flooding rains
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Jennifer A. Francis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ancient Egypt's Sacred Baboons, Vapor Storms and Fighting Hunger]]></title>
+        <id>A1120017-593E-4F9E-B42FD8D80245D673</id>
+        <link href="https://www.scientificamerican.com/article/ancient-egypts-sacred-baboons-vapor-storms-and-fighting-hunger/"/>
+        <updated>2021-10-19T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why Thoth is our favorite deity, preparing the James Webb Space Telescope and fixing genes in this month’s issue
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Laura Helmuth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Splunk Expands Scope of Observability While Lowering Costs]]></title>
+        <id>https://devops.com/?p=146563</id>
+        <link href="https://devops.com/splunk-expands-scope-of-observability-while-lowering-costs/"/>
+        <updated>2021-10-19T12:52:48.000Z</updated>
+        <summary type="html"><![CDATA[During its online .conf21 conference Splunk Inc. today revealed a bevy of updates that advance observability while at the same time reducing the total cost of deploying its platforms. As part of that effort, Splunk also announced it will now make workload-based pricing available to all customers. Previously, a select number of small customers had […]
+The post Splunk Expands Scope of Observability While Lowering Costs appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Mike Vizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Small Data' Is Also Crucial for Machine Learning]]></title>
+        <id>818EB304-24B4-42A5-83BD22D7A2CB5669</id>
+        <link href="https://www.scientificamerican.com/article/small-data-is-also-crucial-for-machine-learning/"/>
+        <updated>2021-10-19T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The most promising AI approach you’ve never heard of doesn’t need to go big
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Husanjot Chahal, Helen Toner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The PinePhone Pro Is Here. But it’s Still Probably Not The Year Of Open-Source Linux On The Smartphone]]></title>
+        <id>https://hackaday.com/?p=501861</id>
+        <link href="https://hackaday.com/2021/10/19/the-pinephone-pro-is-here-but-its-still-probably-not-the-year-of-open-source-linux-on-the-smartphone/"/>
+        <updated>2021-10-19T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A trope in open source commentary over the last decades has been the phrase “Is this the year of Linux on the desktop?”, as though the open source OS will …read more]]></summary>
+        <author>
+            <name>Jenny List</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Many Doctors are Switching to Concierge Medicine, Exacerbating Physician Shortages]]></title>
+        <id>4C3100FB-78FE-4211-88AA3168B9B07F22</id>
+        <link href="https://www.scientificamerican.com/article/many-doctors-are-switching-to-concierge-medicine-exacerbating-physician-shortages/"/>
+        <updated>2021-10-19T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Practices that charge sometimes hefty membership fees promise more personalized care. But the high costs and low patient volumes may limit access for everyone
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Michelle Konstantinovsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Blueprint for Securing Software Development]]></title>
+        <id>https://devops.com/?p=146530</id>
+        <link href="https://devops.com/a-blueprint-for-securing-software-development/"/>
+        <updated>2021-10-19T06:30:32.000Z</updated>
+        <summary type="html"><![CDATA[Software development has changed dramatically in recent years, as technologies like DevOps, application containers, and cloud-native transform how software is built and distributed. Unfortunately, attackers have been paying close attention to these changes, and have retooled their attack strategies to take advantage of relatively weak security controls in software development and build environments. Attackers recognize […]
+The post A Blueprint for Securing Software Development appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Kevin Bocek</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Laser Pointer and Arduino Make a Minimalistic Shooting Game]]></title>
         <id>https://hackaday.com/?p=501849</id>

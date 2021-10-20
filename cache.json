@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=354115",
+          "author": "Chris Coyier",
+          "description": "I didn’t realize the support for @supports determining selector support was so good! I usually think of @supports as a way to test for property: value pair support. But with the selector() function, we can test for selector support …\nThe post @supports selector() appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/supports-selector/",
+          "publishedOn": "2021-10-19T21:12:18.000Z",
+          "wordCount": 869,
+          "title": "@supports selector()"
+        },
+        {
+          "id": "https://css-tricks.com/?p=353462",
+          "author": "Elad Shechter",
+          "description": "Hey folks! Elad reached out to me to show me his new CSS reset project called the-new-css-reset. It’s quite interesting! I thought a neat way to share it with you is not only to point you toward it, but …\nThe post An Interview With Elad Shechter on “The New CSS Reset” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/an-interview-with-elad-shechter-on-the-new-css-reset/",
+          "publishedOn": "2021-10-19T14:48:40.000Z",
+          "wordCount": 2966,
+          "title": "An Interview With Elad Shechter on “The New CSS Reset”"
+        },
+        {
           "id": "https://css-tricks.com/?p=354269",
           "author": "Chris Coyier",
           "description": "This isn’t supposed to be any sort of decision-making based on browser User-Agent Strings. But, ya know, collectively, we do make those decisions.\nKarl Dubost notes that there is a significant change coming to them, notably moving the version …\nThe post Three-Digit Browser Versions in March 2022 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -435,6 +453,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "616bcb8580d82d07c45a5deb",
+          "author": null,
+          "description": "If you are a front end developer who is new to the world of GraphQL and you're thinking about getting started with it, this article is for you.  In this article, we will explore GraphQL basics and kick start our journey with it by building a simple project.  What is",
+          "link": "https://www.freecodecamp.org/news/graphql-for-front-end-developers/",
+          "publishedOn": "2021-10-19T17:19:00.000Z",
+          "wordCount": 1488,
+          "title": "GraphQL for Front End Developers"
+        },
+        {
+          "id": "616ef9b5d48e1707b6d78265",
+          "author": null,
+          "description": "A binary tree is a common data structure used in software development. It is also a frequent topic in technical coding interviews. We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about binary tree algorithms and prepare you to use them in coding",
+          "link": "https://www.freecodecamp.org/news/how-to-implement-binary-tree-algorithms-in-technical-interviews/",
+          "publishedOn": "2021-10-19T17:13:24.000Z",
+          "wordCount": 370,
+          "title": "How to Implement Binary Tree Algorithms in Technical Interviews"
+        },
+        {
+          "id": "616ef6efd48e1707b6d7822c",
+          "author": null,
+          "description": "TensorFlow Lite is an open source deep learning framework that can be used on small devices. We just published a TensorFlow Lite course on the freeCodeCamp.org YouTube channel. Bhavesh Bhatt created this course. Bhavesh has created many courses on his own channel and is a great teacher. TensorFlow Lite",
+          "link": "https://www.freecodecamp.org/news/learn-tensorflow-lite-for-edge-devices/",
+          "publishedOn": "2021-10-19T16:58:53.000Z",
+          "wordCount": 365,
+          "title": "Learn TensorFlow Lite for Edge Devices"
+        },
+        {
+          "id": "616eda9cd48e1707b6d7801b",
+          "author": null,
+          "description": "The Windows 10 Event Viewer is an app that shows a log detailing information about significant events on your computer. This information includes automatically downloaded updates, errors, and warnings.  In this article, you'll learn what the event viewer is, the different logs it has, and most importantly, how to access",
+          "link": "https://www.freecodecamp.org/news/event-viewer-how-to-access-the-windows-10-activity-log/",
+          "publishedOn": "2021-10-19T16:33:26.000Z",
+          "wordCount": 878,
+          "title": "Event Viewer – How to Access the Windows 10 Activity Log"
+        },
+        {
+          "id": "616d9050d48e1707b6d77622",
+          "author": null,
+          "description": "Data Engineering jobs are in high demand. And getting a certification in the subject is a good way to learn and to deepen and prove your skills.  Each cloud provider offers a certification specialized to their Data Engineering services. They carry weight but are not easy to pass. The Azure",
+          "link": "https://www.freecodecamp.org/news/how-to-pass-microsoft-azure-data-engineer-certification-dp-203/",
+          "publishedOn": "2021-10-19T16:02:51.000Z",
+          "wordCount": 2093,
+          "title": "How to Pass Microsoft’s Azure Data Engineer Certification – DP-203 Exam Guide"
+        },
         {
           "id": "6169435380d82d07c45a5119",
           "author": null,
@@ -3299,6 +3362,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=147213",
+          "author": "ACMer",
+          "description": "Given a binary search tree, write a function kthSmallest to find the kth smallest element in it. You may assume k is always valid, 1 ≤ k ≤ BST’s total elements. Example 1: Input: root = , k = 1...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-kth-smallest-element-in-a-bst-via-iterative-inorder-traversal-algorithm/",
+          "publishedOn": "2021-10-19T21:04:57.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Kth Smallest Element in a BST via Iterative Inorder Traversal Algorithm",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=147198",
           "author": "ACMer",
           "description": "In a binary tree, the root node is at depth 0, and children of each depth k node are at depth k+1. Two nodes of a binary tree are cousins if they have the same depth, but have different parents. We...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -3961,6 +4034,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=501591",
+          "author": "Kristina Panos",
+          "description": "Hot on the heels of their carbon microphone build a few years ago, [Simplifier] strung up a two-phone network between the house and the workshop. Both telephones are completely DIY …read more",
+          "link": "https://hackaday.com/2021/10/19/the-calls-are-coming-from-inside-the-house-or-workshop/",
+          "publishedOn": "2021-10-19T23:00:42.000Z",
+          "wordCount": 1318,
+          "title": "The Calls Are Coming From Inside the House (or Workshop)"
+        },
+        {
+          "id": "https://hackaday.com/?p=502068",
+          "author": "Tom Nardi",
+          "description": "We’ve covered plenty of clocks powered by the ESP32, but this one from [Marcio Teixeira] is really something special. Rather than driving a traditional physical display, the microcontroller is instead …read more",
+          "link": "https://hackaday.com/2021/10/19/esp32-clock-pushes-outrun-graphics-over-composite/",
+          "publishedOn": "2021-10-19T20:00:08.000Z",
+          "wordCount": 1293,
+          "title": "ESP32 Clock Pushes Outrun Graphics over Composite"
+        },
+        {
+          "id": "https://hackaday.com/?p=501830",
+          "author": "Tom Nardi",
+          "description": "Disposable masks have been a necessity during the COVID-19 pandemic, but for all the good they’ve done, their disposal represents a monumental ecological challenge that has largely been ignored in …read more",
+          "link": "https://hackaday.com/2021/10/19/turning-old-masks-into-3d-printer-filament/",
+          "publishedOn": "2021-10-19T18:30:00.000Z",
+          "wordCount": 1693,
+          "title": "Turning Old Masks into 3D Printer Filament"
+        },
+        {
+          "id": "https://hackaday.com/?p=501875",
+          "author": "Tom Nardi",
+          "description": "It didn’t take long to realize that the 2021 Vintage Computer Festival East — returning to the InfoAge Science and History Museum in Wall, New Jersey after being held virtually …read more",
+          "link": "https://hackaday.com/2021/10/19/vcf-east-roars-back-to-life/",
+          "publishedOn": "2021-10-19T17:01:16.000Z",
+          "wordCount": 2871,
+          "title": "VCF East Roars Back to Life"
+        },
+        {
+          "id": "https://hackaday.com/?p=500719",
+          "author": "Dave Rowntree",
+          "description": "The Quadrivium EnsembleBot project is a mashup between old school musical instruments and the modern MIDI controlled world. Built by a small team over several years, these hand crafted instruments …read more",
+          "link": "https://hackaday.com/2021/10/19/the-quadrivium-ensemblebot-is-a-labour-of-love/",
+          "publishedOn": "2021-10-19T15:30:59.000Z",
+          "wordCount": 1355,
+          "title": "The Quadrivium EnsembleBot Is A Labour Of Love"
+        },
+        {
+          "id": "https://hackaday.com/?p=500591",
+          "author": "Adam Zeloof",
+          "description": "In the 125 years since Marconi made his first radio transmissions, the spectrum has been divvied up into ranges and bands, most of which are reserved for governments and large …read more",
+          "link": "https://hackaday.com/2021/10/19/the-low-down-on-long-wave-unlicensed-experimental-radio/",
+          "publishedOn": "2021-10-19T14:00:17.000Z",
+          "wordCount": 3137,
+          "title": "The Low-Down on Long-Wave: Unlicensed Experimental Radio"
+        },
+        {
+          "id": "https://hackaday.com/?p=501861",
+          "author": "Jenny List",
+          "description": "A trope in open source commentary over the last decades has been the phrase “Is this the year of Linux on the desktop?”, as though the open source OS will …read more",
+          "link": "https://hackaday.com/2021/10/19/the-pinephone-pro-is-here-but-its-still-probably-not-the-year-of-open-source-linux-on-the-smartphone/",
+          "publishedOn": "2021-10-19T11:00:00.000Z",
+          "wordCount": 8537,
+          "title": "The PinePhone Pro Is Here. But it’s Still Probably Not The Year Of Open-Source Linux On The Smartphone"
+        },
         {
           "id": "https://hackaday.com/?p=501849",
           "author": "Robin Kearey",
@@ -5102,6 +5238,126 @@
       "feedUrl": "http://rss.sciam.com/scientificamerican-global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "92EECB52-29DD-41CC-AB3A75F6D42CC7D6",
+          "author": "Alexandra Witze, Nature magazine",
+          "description": "The NASA spacecraft will loop past the never-before-explored ‘Trojan’ asteroids during a 12-year journey\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/lucy-the-first-mission-to-jupiters-asteroids-could-reveal-solar-system-origins/",
+          "publishedOn": "2021-10-19T19:30:00.000Z",
+          "wordCount": null,
+          "title": "Lucy, the First Mission to Jupiter's Asteroids, Could Reveal Solar System Origins",
+          "itunes": {}
+        },
+        {
+          "id": "6D62E4CB-86BF-4F71-A89EDA83F823A5FE",
+          "author": "Esther Landhuis",
+          "description": "Over the past few years, the discipline has evolved in significant ways\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-definition-of-gene-therapy-has-changed/",
+          "publishedOn": "2021-10-19T19:00:00.000Z",
+          "wordCount": null,
+          "title": "The Definition of Gene Therapy Has Changed",
+          "itunes": {}
+        },
+        {
+          "id": "60E5B75B-07E3-4F77-8C81718C0BE092B9",
+          "author": "Lauren Gravitz",
+          "description": "Various approaches are approved for treating blood cancers and a few rare disorders—they may soon become standard care\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/gene-therapy-is-coming-of-age/",
+          "publishedOn": "2021-10-19T18:30:00.000Z",
+          "wordCount": null,
+          "title": "Gene Therapy Is Coming of Age",
+          "itunes": {}
+        },
+        {
+          "id": "6658EC80-B7BB-49F0-AEA60E97C291A2FC",
+          "author": "Chelsea Harvey, E&E News",
+          "description": "The city is the first to undertake such a scheme, in an effort to better warn residents of the health threats from heat\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/heat-waves-in-seville-will-be-named-and-ranked-like-hurricanes/",
+          "publishedOn": "2021-10-19T18:00:00.000Z",
+          "wordCount": null,
+          "title": "Heat Waves in Seville Will be Named and Ranked Like Hurricanes",
+          "itunes": {}
+        },
+        {
+          "id": "3E3912EF-283D-4A32-A5BD87974CB80984",
+          "author": "Daniel Garisto",
+          "description": "Muons and electrons might not experience the same fundamental interactions, contrary to Standard Model predictions\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/unexplained-results-intrigue-physicists-at-worlds-largest-particle-collider/",
+          "publishedOn": "2021-10-19T16:35:00.000Z",
+          "wordCount": null,
+          "title": "Unexplained Results Intrigue Physicists at World's Largest Particle Collider",
+          "itunes": {}
+        },
+        {
+          "id": "6B427420-6358-47E0-AD4EEEC95997E6E9",
+          "author": "Clara Moskowitz, Mark Belan",
+          "description": "Most of our neighboring planets have magnetic fields, but scientists do not fully understand how they arise\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-solar-systems-mysterious-magnetic-fields/",
+          "publishedOn": "2021-10-19T16:00:00.000Z",
+          "wordCount": null,
+          "title": "The Solar System's Mysterious Magnetic Fields",
+          "itunes": {}
+        },
+        {
+          "id": "8B563BAD-4A94-4BE8-8ACE8E8570BAD304",
+          "author": "Susan Cosier",
+          "description": "Story time reduced pain and stress\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/listening-to-a-story-helps-hospitalized-kids-heal/",
+          "publishedOn": "2021-10-19T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Listening to a Story Helps Hospitalized Kids Heal",
+          "itunes": {}
+        },
+        {
+          "id": "0F507F93-3A57-49A6-8EADCC7A88A86DB6",
+          "author": "Nancy Averett",
+          "description": "Altruism, spirituality and civic engagement are keys to resilience\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/social-capital-in-black-communities-is-often-overlooked/",
+          "publishedOn": "2021-10-19T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Social Capital in Black Communities Is Often Overlooked",
+          "itunes": {}
+        },
+        {
+          "id": "C0BFD143-789F-4B88-BDB06779F92C59EF",
+          "author": "Jennifer A. Francis",
+          "description": "More moisture in a warmer atmosphere is fueling intense hurricanes and flooding rains\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/vapor-storms-are-threatening-people-and-property/",
+          "publishedOn": "2021-10-19T13:30:00.000Z",
+          "wordCount": null,
+          "title": "Vapor Storms Are Threatening People and Property",
+          "itunes": {}
+        },
+        {
+          "id": "A1120017-593E-4F9E-B42FD8D80245D673",
+          "author": "Laura Helmuth",
+          "description": "Why Thoth is our favorite deity, preparing the James Webb Space Telescope and fixing genes in this month’s issue\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/ancient-egypts-sacred-baboons-vapor-storms-and-fighting-hunger/",
+          "publishedOn": "2021-10-19T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Ancient Egypt's Sacred Baboons, Vapor Storms and Fighting Hunger",
+          "itunes": {}
+        },
+        {
+          "id": "818EB304-24B4-42A5-83BD22D7A2CB5669",
+          "author": "Husanjot Chahal, Helen Toner",
+          "description": "The most promising AI approach you’ve never heard of doesn’t need to go big\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/small-data-is-also-crucial-for-machine-learning/",
+          "publishedOn": "2021-10-19T12:00:00.000Z",
+          "wordCount": null,
+          "title": "'Small Data' Is Also Crucial for Machine Learning",
+          "itunes": {}
+        },
+        {
+          "id": "4C3100FB-78FE-4211-88AA3168B9B07F22",
+          "author": "Michelle Konstantinovsky",
+          "description": "Practices that charge sometimes hefty membership fees promise more personalized care. But the high costs and low patient volumes may limit access for everyone\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/many-doctors-are-switching-to-concierge-medicine-exacerbating-physician-shortages/",
+          "publishedOn": "2021-10-19T10:45:00.000Z",
+          "wordCount": null,
+          "title": "Many Doctors are Switching to Concierge Medicine, Exacerbating Physician Shortages",
+          "itunes": {}
+        },
         {
           "id": "D9B076DF-CB9A-4206-84A62343DD6B3A15",
           "author": "Jean Chemnick, E&E News",
@@ -6269,6 +6525,24 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=146563",
+          "author": "Mike Vizard",
+          "description": "During its online .conf21 conference Splunk Inc. today revealed a bevy of updates that advance observability while at the same time reducing the total cost of deploying its platforms. As part of that effort, Splunk also announced it will now make workload-based pricing available to all customers. Previously, a select number of small customers had […]\nThe post Splunk Expands Scope of Observability While Lowering Costs appeared first on DevOps.com.",
+          "link": "https://devops.com/splunk-expands-scope-of-observability-while-lowering-costs/",
+          "publishedOn": "2021-10-19T12:52:48.000Z",
+          "wordCount": 1102,
+          "title": "Splunk Expands Scope of Observability While Lowering Costs"
+        },
+        {
+          "id": "https://devops.com/?p=146530",
+          "author": "Kevin Bocek",
+          "description": "Software development has changed dramatically in recent years, as technologies like DevOps, application containers, and cloud-native transform how software is built and distributed. Unfortunately, attackers have been paying close attention to these changes, and have retooled their attack strategies to take advantage of relatively weak security controls in software development and build environments. Attackers recognize […]\nThe post A Blueprint for Securing Software Development appeared first on DevOps.com.",
+          "link": "https://devops.com/a-blueprint-for-securing-software-development/",
+          "publishedOn": "2021-10-19T06:30:32.000Z",
+          "wordCount": 1405,
+          "title": "A Blueprint for Securing Software Development"
+        },
+        {
           "id": "https://devops.com/?p=146531",
           "author": "Mike Vizard",
           "description": "Splunk Inc. announced during the KubeCon + CloudNativeCon North America conference that it donated a data collector to the OpenTelemetry project run by the Cloud Native Computing Foundation (CNCF). Splunk’s data collector runs as a sandbox-level program at the kernel of a Linux operating system and takes advantage of extended Berkeley Packet Filter (eBPF) technology […]\nThe post Splunk Donates eBPF Telemetry Data Collector to CNCF appeared first on DevOps.com.",
@@ -6735,6 +7009,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=109619",
+          "author": "Jonathan O'Callaghan",
+          "description": "After a search of neutron stars finds preliminary evidence for hypothetical dark matter particles called axions, astrophysicists are devising new ways to spot them.            \nThe post A Hint of Dark Matter Sends Physicists Looking to the Skies first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/a-hint-of-dark-matter-sends-physicists-looking-to-the-skies-20211019/",
+          "publishedOn": "2021-10-19T14:44:10.000Z",
+          "wordCount": null,
+          "title": "A Hint of Dark Matter Sends Physicists Looking to the Skies",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=109616",
           "author": "Allison Whitten",
           "description": "A new model of learning centers on bursts of neural activity that act as teaching signals — approximating backpropagation, the algorithm behind learning in AI.            \nThe post Neuron Bursts Can Mimic Famous AI Learning Strategy first appeared on Quanta Magazine",
@@ -6881,6 +7165,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=65830",
+          "author": "Nathan Yau",
+          "description": "NASA Goddard visualized the point of view from the south pole of the…\nTags: moon, NASA, space, time-lapse",
+          "link": "https://flowingdata.com/2021/10/19/a-view-from-the-moons-south-pole/",
+          "publishedOn": "2021-10-19T16:12:45.000Z",
+          "wordCount": 295,
+          "title": "A view from the Moon’s south pole"
+        },
         {
           "id": "https://flowingdata.com/?p=65824",
           "author": "Nathan Yau",
