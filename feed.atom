@@ -2,10 +2,324 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2021-10-20T00:42:07.263Z</updated>
+    <updated>2021-10-21T00:47:01.141Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Adapter Design Pattern in React]]></title>
+        <id>617058f3d48e1707b6d7913d</id>
+        <link href="https://www.freecodecamp.org/news/adapter-design-in-react/"/>
+        <updated>2021-10-21T00:33:49.000Z</updated>
+        <summary type="html"><![CDATA[When you're coding in React or any other tool, you might want or need to use a third-party library. Let's talk about an approach which will ensure that the third-party libraries you use will blend well with your application. As application developers, there's no need to reinvent the wheel every]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some Typography Links VIII]]></title>
+        <id>https://css-tricks.com/?p=353866</id>
+        <link href="https://css-tricks.com/some-typography-links-viii/"/>
+        <updated>2021-10-20T23:25:22.000Z</updated>
+        <summary type="html"><![CDATA[Do you know what to use the @ sign for something other than email addresses and Twitter handles? I do! —  Pawel Grzybek notes how some old physical typewriters had an “Arroba” on them which was represented with the @ 
+…
+The post Some Typography Links VIII appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quit Hunching Over Your Screen With A Little Robotic Help]]></title>
+        <id>https://hackaday.com/?p=501552</id>
+        <link href="https://hackaday.com/2021/10/20/quit-hunching-over-your-screen-with-a-little-robotic-help/"/>
+        <updated>2021-10-20T23:00:48.000Z</updated>
+        <summary type="html"><![CDATA[[Norbert Zare] has identified a problem many of us suffer from – chronically bad posture. Its very common to see computer users hunched forwards over a screen, which eventually will …read more]]></summary>
+        <author>
+            <name>Dave Rowntree</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Angular - Crash Course]]></title>
+        <id>61708409d48e1707b6d79387</id>
+        <link href="https://www.freecodecamp.org/news/learn-angular-full-course/"/>
+        <updated>2021-10-20T21:07:05.000Z</updated>
+        <summary type="html"><![CDATA[Angular is a TypeScript-based free and open-source web application framework created by Google. We just published a 2-hour Angular crash course on the freeCodeCamp.org YouTube channel. Slobodan Gajic created this course. Slobodan has created a bunch of amazing courses on his own channel. In this course you will learn]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atlassian Survey Shows Lack of Collaboration in Software Development]]></title>
+        <id>https://devops.com/?p=146654</id>
+        <link href="https://devops.com/atlassian-survey-shows-lack-of-collaboration-in-software-development/"/>
+        <updated>2021-10-20T20:11:46.000Z</updated>
+        <summary type="html"><![CDATA[A survey of 750 IT and engineering leaders found that while a full 83% of respondents agree that interdepartmental communication is critical for successful software development, only 41% of respondents view cross-collaboration to be a priority. The survey gathered responses from within organizations that generated more than $50 million in annual revenue and was conducted […]
+The post Atlassian Survey Shows Lack of Collaboration in Software Development appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Mike Vizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building A Hammer Powered By Gunpowder]]></title>
+        <id>https://hackaday.com/?p=502136</id>
+        <link href="https://hackaday.com/2021/10/20/building-a-hammer-powered-by-gunpowder/"/>
+        <updated>2021-10-20T20:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Hammers are pretty straightforward tools. If you need more impact force, just get a bigger hammer. Alternatively, you can look at enhancing performance with chemical means, and we don’t mean …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Safe Area Context in React Native Apps to Avoid the Notch]]></title>
+        <id>616945f580d82d07c45a5160</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-safe-area-context-to-avoid-notches-in-react-native-apps/"/>
+        <updated>2021-10-20T19:37:59.000Z</updated>
+        <summary type="html"><![CDATA[Most devices nowadays come with a notch at the top of the screen. So when you're building a mobile application using React Native, you need to make sure that the content of the app's screen is rendered correctly across different types of devices. In this article, we'll look at two]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is my IP Address for my Router? How to Find your Wifi Address]]></title>
+        <id>616ffc6dd48e1707b6d78992</id>
+        <link href="https://www.freecodecamp.org/news/what-is-my-ip-address-for-my-router-how-to-find-your-wifi-address/"/>
+        <updated>2021-10-20T19:36:40.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes you might need to know your router’s IP address. This will give you access to the setup page so you can make configuration changes like changing passwords, kicking out unwanted users, limiting users, and so on.  In this article, I will show you how to find out what]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Labyrinthian Circuit Sculpture Evokes Moods With Sound and Light]]></title>
+        <id>https://hackaday.com/?p=502005</id>
+        <link href="https://hackaday.com/2021/10/20/labyrinthian-circuit-sculpture-evokes-moods-with-sound-and-light/"/>
+        <updated>2021-10-20T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In a famous letter penned by Victorian era author Oscar Wilde, he wrote: “Art is useless because its aim is simply to create a mood. It is not meant to …read more]]></summary>
+        <author>
+            <name>Ryan Flowers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fossil Fuel Development to Exceed Global Climate Targets]]></title>
+        <id>8F778404-3BA2-4D1D-93530153AC21EC1F</id>
+        <link href="https://www.scientificamerican.com/article/fossil-fuel-development-to-exceed-global-climate-targets/"/>
+        <updated>2021-10-20T18:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Planned oil, gas and coal production is not in line with countries’ pledges to reduce greenhouse gas emissions
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Sara Schonhardt, E&amp;E News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HashiCorp Previews Updates to Consul Service Mesh]]></title>
+        <id>https://devops.com/?p=146645</id>
+        <link href="https://devops.com/hashicorp-previews-updates-to-consul-service-mesh/"/>
+        <updated>2021-10-20T17:15:01.000Z</updated>
+        <summary type="html"><![CDATA[During an online HashiConf Global conference, HashiCorp today made available a beta of an update to its open source Consul service mesh for virtual machines and Kubernetes clusters that makes it possible for multiple administrators to share the same instance of a multitenant service mesh. Version 1.11 of Consul will also add support for a […]
+The post HashiCorp Previews Updates to Consul Service Mesh appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Mike Vizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tech in Plain Sight: Glucose Meters]]></title>
+        <id>https://hackaday.com/?p=497211</id>
+        <link href="https://hackaday.com/2021/10/20/tech-in-plain-sight-glucose-meters/"/>
+        <updated>2021-10-20T17:01:19.000Z</updated>
+        <summary type="html"><![CDATA[If you or someone you know is diabetic, it is a good bet that a glucose meter is a regular fixture in your life. They are cheap and plentiful, but …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electoral Engineering and the Freedom to Vote]]></title>
+        <id>2C64F68B-37A1-4175-907EDEB9EA1F0376</id>
+        <link href="https://www.scientificamerican.com/article/electoral-engineering-and-the-freedom-to-vote/"/>
+        <updated>2021-10-20T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Securing basic voting rights should take priority over more elaborate reforms
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Michael Latner, Charles Smith, Alex Keena, Anthony McGann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Search every USPS mail route]]></title>
+        <id>https://flowingdata.com/?p=65848</id>
+        <link href="https://flowingdata.com/2021/10/20/search-every-usps-mail-route/"/>
+        <updated>2021-10-20T16:00:45.000Z</updated>
+        <summary type="html"><![CDATA[I’m not sure how long this has been around, but the USPS has…
+Tags: mail, routes, USPS]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Airborne Microplastics Affect Climate Change]]></title>
+        <id>FDD2D806-FC57-43DB-A8C6039D57C2ADF8</id>
+        <link href="https://www.scientificamerican.com/article/how-airborne-microplastics-affect-climate-change1/"/>
+        <updated>2021-10-20T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Like other aerosols, these tiny particles scatter and absorb sunlight, influencing Earth’s temperature
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Andrea Thompson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Refining the Greatest Joystick of the 1980s]]></title>
+        <id>https://hackaday.com/?p=501802</id>
+        <link href="https://hackaday.com/2021/10/20/refining-the-greatest-joystick-of-the-1980s/"/>
+        <updated>2021-10-20T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The Competition Pro joystick is often considered to be the pinnacle of input devices, at least as far as the 1980s gaming goes. But the design isn’t perfect, and time …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Four Success Stories in Gene Therapy]]></title>
+        <id>430BEA7A-CD28-4E33-96127383FD559260</id>
+        <link href="https://www.scientificamerican.com/article/four-success-stories-in-gene-therapy/"/>
+        <updated>2021-10-20T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The field is beginning to fulfill its potential. These therapies offer a glimpse of what’s to come
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Jim Daley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Your Own Bragdoc With Eleventy]]></title>
+        <id>https://css-tricks.com/?p=353638</id>
+        <link href="https://css-tricks.com/creating-your-own-bragdoc-with-eleventy/"/>
+        <updated>2021-10-20T15:02:28.000Z</updated>
+        <summary type="html"><![CDATA[No matter what stage you’re at as a developer, the tasks we complete—whether big or small—make a huge impact in our personal and professional growth. Unfortunately, those tasks aren’t always recognized because they can easily get lost in the sea …
+The post Creating Your Own Bragdoc With Eleventy appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Emily Leung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Uselessness of Useful Knowledge]]></title>
+        <id>https://www.quantamagazine.org/?p=109622</id>
+        <link href="https://www.quantamagazine.org/science-has-entered-a-new-era-of-alchemy-good-20211020/"/>
+        <updated>2021-10-20T14:15:32.000Z</updated>
+        <summary type="html"><![CDATA[Today’s powerful but little-understood artificial intelligence breakthroughs echo past examples of unexpected scientific progress.             
+The post The Uselessness of Useful Knowledge first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Robbert Dijkgraaf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Know Audio: It All Depends On The DAC]]></title>
+        <id>https://hackaday.com/?p=499356</id>
+        <link href="https://hackaday.com/2021/10/20/know-audio-it-all-depends-on-the-dac/"/>
+        <updated>2021-10-20T14:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Our trip through the world of audio technology has taken us step-by step from your ears into a typical home Hi-Fi system. We’ve seen the speakers and the amplifier, now …read more]]></summary>
+        <author>
+            <name>Jenny List</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Can an Elephant Squeak Like a Mouse?]]></title>
+        <id>745B0E30-9D1E-45E9-8135A3B1EA09687B</id>
+        <link href="https://www.scientificamerican.com/podcast/episode/how-can-an-elephant-squeak-like-a-mouse/"/>
+        <updated>2021-10-20T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New research using a camera that can “see" sound” shows some elephants can produce high-pitched buzzing with their lips.
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Karen Hopkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pulumi Adds Registry to Share Secure IaC Code]]></title>
+        <id>https://devops.com/?p=146592</id>
+        <link href="https://devops.com/pulumi-adds-registry-to-share-secure-iac-code/"/>
+        <updated>2021-10-20T13:49:13.000Z</updated>
+        <summary type="html"><![CDATA[Pulumi this week added a public registry to its portfolio that makes it easier to discover packages that have been created using its tools to manage infrastructure-as-code (IaC). Joe Duffy, Pulumi CEO, said the Pulumi Registry will make it simpler for DevOps teams to share and reuse IaC tools that have been vetted versus always […]
+The post Pulumi Adds Registry to Share Secure IaC Code appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Mike Vizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KiCad Team Releases Warning Regarding Domain Name]]></title>
+        <id>https://hackaday.com/?p=502306</id>
+        <link href="https://hackaday.com/2021/10/20/kicad-team-releases-warning-regarding-domain-name/"/>
+        <updated>2021-10-20T13:02:50.000Z</updated>
+        <summary type="html"><![CDATA[On October 19th, [Seth_h] from the KiCad Project posted on the KiCad forums that the project’s original domain name kicad-pcb.org has been unexpectedly sold to a third party, and urged …read more]]></summary>
+        <author>
+            <name>Jim Heaney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Quest to Overcome Gene Therapy's Failures]]></title>
+        <id>31E1C518-5DF6-4056-931171365E84C4F8</id>
+        <link href="https://www.scientificamerican.com/article/the-quest-to-overcome-gene-therapys-failures/"/>
+        <updated>2021-10-20T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tragic side effects plagued the field’s early years, but researchers are finding ways to minimize the risks
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Tanya Lewis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will Giving COVID Booster Shots Make It Harder to Vaccinate the Rest of the World?]]></title>
+        <id>ED3DC04E-8559-425C-B983C7E34902FAFF</id>
+        <link href="https://www.scientificamerican.com/article/will-giving-covid-booster-shots-make-it-harder-to-vaccinate-the-rest-of-the-world/"/>
+        <updated>2021-10-20T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Wealthy countries have bought up most of the available vaccine doses for booster shots but still have far more than they need
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Sara Reardon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disabled Astronauts Blaze New Space Trails]]></title>
+        <id>0C782F3F-5E48-4896-A9A435999550F92A</id>
+        <link href="https://www.scientificamerican.com/article/disabled-astronauts-blaze-new-space-trails/"/>
+        <updated>2021-10-20T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Efforts are underway to make space missions more accessible
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Rachel Crowell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Say Goodbye to Late-Night SRE Wake-Up Calls]]></title>
+        <id>https://devops.com/?p=146574</id>
+        <link href="https://devops.com/say-goodbye-to-late-night-sre-wake-up-calls/"/>
+        <updated>2021-10-20T07:00:24.000Z</updated>
+        <summary type="html"><![CDATA[Thousands of SREs, on-call engineers and DevOps pros all over the world dread nothing more than the late-night incident alert. The pager buzzing at 2:00 a.m. can cause panic for SREs and leave IT and DevOps teams with quite a mess to contain. But incident response doesn’t have to cause panic if you have the […]
+The post Say Goodbye to Late-Night SRE Wake-Up Calls appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Pradeep Padala</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn a Bit About AI]]></title>
+        <id>https://devops.com/?p=146544</id>
+        <link href="https://devops.com/learn-a-bit-about-ai/"/>
+        <updated>2021-10-20T06:30:50.000Z</updated>
+        <summary type="html"><![CDATA[Every once in a while, a trend becomes broad enough that I feel the need to offer career advice. This year it will be simple: Know enough about AI/ML to be dangerous. We are past the point where not having at least a basic understanding is a good idea. Looking around the data center, AI […]
+The post Learn a Bit About AI appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Don Macvittie</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Calls Are Coming From Inside the House (or Workshop)]]></title>
         <id>https://hackaday.com/?p=501591</id>
@@ -312,6 +626,19 @@ The post A Hint of Dark Matter Sends Physicists Looking to the Skies first appea
 The post Splunk Expands Scope of Observability While Lowering Costs appeared first on DevOps.com.]]></summary>
         <author>
             <name>Mike Vizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Small Data' Are Also Crucial for Machine Learning]]></title>
+        <id>818EB304-24B4-42A5-83BD22D7A2CB5669</id>
+        <link href="https://www.scientificamerican.com/article/small-data-are-also-crucial-for-machine-learning/"/>
+        <updated>2021-10-19T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The most promising AI approach you’ve never heard of doesn’t need to go big
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Husanjot Chahal, Helen Toner</name>
         </author>
     </entry>
     <entry>
