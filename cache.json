@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=354537",
+          "author": "Geoff Graham",
+          "description": "It’s not uncommon for my front-end workflow to go something like this:\nWork on thing.\nSee that thing in an automatically refreshed browser.\nSee something wrong with that thing.\nInspect and correct the thing in DevTools.\nApply the correct code \n…\nThe post What if… you could use Visual Studio Code as the editor of in-browser Developer Tools? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://christianheilmann.com/2021/10/12/what-if-you-could-use-visual-studio-code-as-the-editor-of-in-browser-developer-tools/",
+          "publishedOn": "2021-10-21T22:14:21.000Z",
+          "wordCount": 575,
+          "title": "What if… you could use Visual Studio Code as the editor of in-browser Developer Tools?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=353318",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nI only half-jokingly refer to the CSS-in-JS world as CSS-in-React. Many of the libraries listed below theoretically work in non-React situations — they generally call that “framework-agnostic”) — but I’d guess the vast majority …\nThe post The CSS-in-React Landscape appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/the-css-in-react-landscape/",
+          "publishedOn": "2021-10-21T22:13:57.000Z",
+          "wordCount": 1637,
+          "title": "The CSS-in-React Landscape"
+        },
+        {
+          "id": "https://css-tricks.com/?p=353128",
+          "author": "Monica Powell",
+          "description": "We’re going to create a contact form with Next.js and Netlify that displays a confirmation screen and features enhanced spam detection.\nNext.js is a powerful React framework for developing performant React applications that scale. By integrating a Next.js site with …\nThe post How to Create a Contact Form With Next.js and Netlify appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-to-create-a-contact-form-with-next-js-and-netlify/",
+          "publishedOn": "2021-10-21T14:26:03.000Z",
+          "wordCount": 1711,
+          "title": "How to Create a Contact Form With Next.js and Netlify"
+        },
+        {
           "id": "https://css-tricks.com/?p=353866",
           "author": "Chris Coyier",
           "description": "Do you know what to use the @ sign for something other than email addresses and Twitter handles? I do! —  Pawel Grzybek notes how some old physical typewriters had an “Arroba” on them which was represented with the @ \n…\nThe post Some Typography Links VIII appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -471,6 +498,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "616fed81d48e1707b6d7898e",
+          "author": null,
+          "description": "Dotfiles are important files that will play an integral role in your career as a software developer.  First, they can help make you more productive. But not only that - you'll be able to have that productive setup you created for youself on any machine.  This article is an introduction",
+          "link": "https://www.freecodecamp.org/news/dotfiles-what-is-a-dot-file-and-how-to-create-it-in-mac-and-linux/",
+          "publishedOn": "2021-10-21T19:49:01.000Z",
+          "wordCount": 2135,
+          "title": "Dotfiles – What is a Dotfile and How to Create it in Mac and Linux"
+        },
+        {
+          "id": "6171b7b2d48e1707b6d79998",
+          "author": null,
+          "description": "Endless runner games can be fun and addicting. Also, an endless runner game is a great game development project for a beginner. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an endless runner game using Unreal Engine and C++. Fahir",
+          "link": "https://www.freecodecamp.org/news/code-an-endless-runner-game-using-unreal-engine-and-c/",
+          "publishedOn": "2021-10-21T19:02:44.000Z",
+          "wordCount": 17095,
+          "title": "Code an Endless Runner Game Using Unreal Engine and C++"
+        },
+        {
+          "id": "617144ced48e1707b6d79686",
+          "author": null,
+          "description": "msmpeng.exe is an important part of Windows Security, formerly known as Windows Defender. It scans your computer for various threats ranging from malware to spyware, then renders the appropriate solution(s).  In this article, I will take you through what mempeng.exe is, the reason why it eats up",
+          "link": "https://www.freecodecamp.org/news/what-is-msmpeng-exe-why-is-it-of-high-cpu-disk-usage/",
+          "publishedOn": "2021-10-21T15:01:54.000Z",
+          "wordCount": 914,
+          "title": "What is msmpeng.exe? Why is it High CPU Disk Usage?"
+        },
         {
           "id": "617058f3d48e1707b6d7913d",
           "author": null,
@@ -3373,6 +3427,15 @@
       "siteUrl": "https://alistapart.com",
       "articles": [
         {
+          "id": "https://alistapart.com/article/how-to-sell-ux-research/",
+          "author": "by",
+          "description": "Do you find yourself designing screens with only a vague idea of how the things on the screen relate to the things elsewhere in the system? Do you leave stakeholder meetings with unclear directives that often seem to contradict previous conversations? You know a better understanding of user needs would help the team get clear on what you are actually trying to accomplish, but time and budget for research is tight. When it comes to asking for more direct contact with your users, you might feel like poor Oliver Twist, timidly asking, “Please, sir, I want some more.” \nHere’s the trick. You need to get stakeholders themselves to identify high-risk assumptions and hidden complexity, so that they become just as motivated as you to get answers from users. Basically, you need to make them think it…",
+          "link": "https://alistapart.com/article/how-to-sell-ux-research/",
+          "publishedOn": "2021-10-21T14:00:00.000Z",
+          "wordCount": 4062,
+          "title": "How to Sell UX Research with Two Simple Questions"
+        },
+        {
           "id": "https://alistapart.com/article/a-content-model-is-not-a-design-system/",
           "author": "by",
           "description": "Do you remember when having a great website was enough? Now, people are getting answers from Siri, Google search snippets, and mobile apps, not just our websites. Forward-thinking organizations have adopted an omnichannel content strategy, whose mission is to reach audiences across multiple digital channels and platforms.\nBut how do you set up a content management system (CMS) to reach your audience now and in the future? I learned the hard way that creating a content model—a definition of content types, attributes, and relationships that let people and systems understand content—with my more familiar design-system thinking would capsize my customer’s omnichannel content strategy. You can avoid that outcome by creating content models that are semantic and that also connect related content.…",
@@ -3415,6 +3478,16 @@
       "feedUrl": "http://feeds.feedburner.com/helloacm?format=xml",
       "siteUrl": "https://helloacm.com",
       "articles": [
+        {
+          "id": "https://helloacm.com/?p=147233",
+          "author": "ACMer",
+          "description": "Remove a node (and nodes belong to that subtree) from a Tree is the same as The Process Killing Algorithms using Depth First Search or Breadth First Search (Kill a Process): Given n processes, each...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-remove-a-node-and-subtree-using-depth-first-search-or-breadth-first-search-algorithm/",
+          "publishedOn": "2021-10-21T21:18:28.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Remove a Node and Subtree using Depth First Search or Breadth First Search Algorithm",
+          "itunes": {}
+        },
         {
           "id": "https://helloacm.com/?p=147213",
           "author": "ACMer",
@@ -4088,6 +4161,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=502575",
+          "author": "Donald Papp",
+          "description": "The Oculus Go, Facebook’s first generation standalone VR headset, hit the market back in 2018 but it’s taken until now for owners to get an official unlocked OS build. The …read more",
+          "link": "https://hackaday.com/2021/10/21/oculus-go-vr-headset-gets-root-access-no-jailbreak-needed/",
+          "publishedOn": "2021-10-21T23:00:45.000Z",
+          "wordCount": 1213,
+          "title": "Oculus Go VR Headset Gets Root Access, No Jailbreak Needed"
+        },
+        {
+          "id": "https://hackaday.com/?p=502456",
+          "author": "Lewin Day",
+          "description": "When it comes to weird and wacky homebrew rocket experiments, [Integza] keeps himself fairly busy. He’s now attempted a design repurposing Devil’s Toothpaste for propulsion. Devil’s Toothpaste is really the …read more",
+          "link": "https://hackaday.com/2021/10/21/building-a-devils-toothpaste-rocket-motor/",
+          "publishedOn": "2021-10-21T20:00:45.000Z",
+          "wordCount": 1519,
+          "title": "Building A Devil’s Toothpaste Rocket Motor"
+        },
+        {
+          "id": "https://hackaday.com/?p=502114",
+          "author": "Lewin Day",
+          "description": "Old 55-gallon drums are often repurposed into fire barrels with the simple addition of a few holes cut into the walls. Generally, they’re fit enough for purpose but can have …read more",
+          "link": "https://hackaday.com/2021/10/21/smokeless-burn-barrel-makes-your-backyard-fire-much-cleaner/",
+          "publishedOn": "2021-10-21T18:30:00.000Z",
+          "wordCount": 2449,
+          "title": "Smokeless Burn Barrel Makes Your Backyard Fire Much Cleaner"
+        },
+        {
+          "id": "https://hackaday.com/?p=496061",
+          "author": "Jenny List",
+          "description": "It’s usual for a Hackaday scribe to read hundreds of web pages over a typical week as we traverse the world in search of the good stuff to bring you. …read more",
+          "link": "https://hackaday.com/2021/10/21/going-forward-to-the-land-technology-for-permaculture/",
+          "publishedOn": "2021-10-21T17:01:57.000Z",
+          "wordCount": 2313,
+          "title": "Going Forward To The Land: Technology For Permaculture"
+        },
+        {
+          "id": "https://hackaday.com/?p=501770",
+          "author": "Kristina Panos",
+          "description": "It’s coming up fast — Hackaday Remoticon 2021 is just a few weeks away, and we’re working around the clock to load up the weekend with awesome and inspiring talks …read more",
+          "link": "https://hackaday.com/2021/10/21/announcing-the-next-round-of-remoticon-talks/",
+          "publishedOn": "2021-10-21T16:00:00.000Z",
+          "wordCount": 1745,
+          "title": "Announcing the Next Round of Remoticon Talks"
+        },
+        {
+          "id": "https://hackaday.com/?p=502329",
+          "author": "Dave Rowntree",
+          "description": "If there’s one this we electronics engineers are precious about, it’s our test gear. The instruments themselves can be obscenely expensive, since all that R&D effort needs to be paid …read more",
+          "link": "https://hackaday.com/2021/10/21/3d-printable-scope-probe-adapts-to-your-needs/",
+          "publishedOn": "2021-10-21T15:00:00.000Z",
+          "wordCount": 1742,
+          "title": "3D Printable Scope Probe Adapts To Your Needs"
+        },
+        {
+          "id": "https://hackaday.com/?p=497258",
+          "author": "Kristina Panos",
+          "description": "I recently started using a 50-year-old vacuum-seal flask that belonged to my Grandpa so that I don’t have to leave the dungeon as often to procure more caffeine. Besides looking …read more",
+          "link": "https://hackaday.com/2021/10/21/the-incredible-tech-of-the-vacuum-seal-flask/",
+          "publishedOn": "2021-10-21T14:00:37.000Z",
+          "wordCount": 2599,
+          "title": "The Incredible Tech of the Vacuum-Seal Flask"
+        },
         {
           "id": "https://hackaday.com/?p=501552",
           "author": "Dave Rowntree",
@@ -5355,6 +5491,63 @@
       "feedUrl": "http://rss.sciam.com/scientificamerican-global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "DA8C4DC1-186F-45C5-8E57154EDB8D1016",
+          "author": "Rachel Nuwer",
+          "description": "When poaching abounds, a genetic trait for tusklessness is selected for\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/disturbing-answers-to-the-mystery-of-tuskless-female-elephants/",
+          "publishedOn": "2021-10-21T18:00:00.000Z",
+          "wordCount": null,
+          "title": "Disturbing Answers to the Mystery of Tuskless Female Elephants",
+          "itunes": {}
+        },
+        {
+          "id": "39135CCB-F4C5-48EE-8FB92F62C0E00C11",
+          "author": "Ariel Wittenberg, E&E News",
+          "description": "By continuing to subsidize fossil fuels, recovery plans could exacerbate threats from diseases like malaria, cholera and dengue fever\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/pandemic-economic-recovery-could-worsen-climate-change-health-impacts/",
+          "publishedOn": "2021-10-21T17:00:00.000Z",
+          "wordCount": null,
+          "title": "Pandemic Economic Recovery Could Worsen Climate Change Health Impacts",
+          "itunes": {}
+        },
+        {
+          "id": "DAE20F2D-B70E-40B6-93DAB92BE820AF35",
+          "author": "Pakinam Amer",
+          "description": "In her new book, Beloved Beasts: Fighting for Life in an Age of Extinction, journalist and author Michelle Nijhuis looks into the past of the wildlife conservation field, warts...\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/podcast/episode/an-unblinking-history-of-the-conservation-movement/",
+          "publishedOn": "2021-10-21T14:00:00.000Z",
+          "wordCount": null,
+          "title": "An Unblinking History of the Conservation Movement",
+          "itunes": {
+            "duration": "19:58"
+          },
+          "enclosure": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=5A10D271-D661-4F78-96CC1BDD8118FE26",
+            "length": "16778080",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "FBBFAD88-F2F0-4F9D-B9E9D9BE545CCA00",
+          "author": "Celina Osuna, Ed Finn, Osvaldo E. Sala",
+          "description": "There are deep-rooted connections between sustainable deserts and a sustainable future\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/what-dune-should-teach-us-about-the-beauty-of-wastelands/",
+          "publishedOn": "2021-10-21T11:30:00.000Z",
+          "wordCount": null,
+          "title": "What Dune Should Teach Us about the Beauty of 'Wastelands'",
+          "itunes": {}
+        },
+        {
+          "id": "D9235DFF-2DEE-4D9B-869576134897993B",
+          "author": "Anil Ananthaswamy",
+          "description": "Measuring the time it takes particles to travel between two points may offer the best-yet test for Bohmian mechanics\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/this-simple-experiment-could-challenge-standard-quantum-theory/",
+          "publishedOn": "2021-10-21T10:45:00.000Z",
+          "wordCount": null,
+          "title": "This Simple Experiment Could Challenge Standard Quantum Theory",
+          "itunes": {}
+        },
         {
           "id": "8F778404-3BA2-4D1D-93530153AC21EC1F",
           "author": "Sara Schonhardt, E&E News",
@@ -6739,6 +6932,42 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=146683",
+          "author": "Mike Vizard",
+          "description": "New Relic today revealed it has acquired CodeStream as part of an effort to make observability data more accessible to developers. Buddy Brewer, group vice president (GVP) and GM at New Relic said New Relic CodeStream makes application telemetry data collected via the New Relic One platform directly available within an integrated development environment (IDE), […]\nThe post New Relic Acquires CodeStream to Close Observability Gap appeared first on DevOps.com.",
+          "link": "https://devops.com/new-relic-acquires-codestream-to-close-observability-gap/",
+          "publishedOn": "2021-10-21T18:14:55.000Z",
+          "wordCount": 1075,
+          "title": "New Relic Acquires CodeStream to Close Observability Gap"
+        },
+        {
+          "id": "https://devops.com/?p=146585",
+          "author": "Arseny Kostenko",
+          "description": "Much like many other business sectors, the banking industry has had to accelerate their digital transformation efforts as a result of the COVID-19 pandemic. Today’s retail banking industry is a far cry from where it was even just five years ago. Consumers no longer have to physically appear in their bank to process payments or […]\nThe post Developer Challenges in Commercial Banking appeared first on DevOps.com.",
+          "link": "https://devops.com/the-state-of-devops-in-banking-and-finance/",
+          "publishedOn": "2021-10-21T07:00:56.000Z",
+          "wordCount": 1156,
+          "title": "Developer Challenges in Commercial Banking"
+        },
+        {
+          "id": "https://devops.com/?p=146552",
+          "author": "Bill Doerrfeld",
+          "description": "Blockchain-based applications are growing in popularity and underscore the decentralized Web3 movement. Simultaneously, web APIs are helping port data and reusable functionality across application types and are driving microservices development practices. So, how do we bring these two paradigms together? There are many cases where a blockchain-based smart contract may require data updates that only […]\nThe post How do we Bring APIs Into Decentralized Web3? appeared first on DevOps.com.",
+          "link": "https://devops.com/how-do-we-bring-apis-into-decentralized-web3/",
+          "publishedOn": "2021-10-21T06:30:41.000Z",
+          "wordCount": 1610,
+          "title": "How do we Bring APIs Into Decentralized Web3?"
+        },
+        {
+          "id": "https://devops.com/?p=146673",
+          "author": "ROELBOB",
+          "description": "The post How to Promote Your Career appeared first on DevOps.com.",
+          "link": "https://devops.com/how-to-promote-your-career/",
+          "publishedOn": "2021-10-21T06:00:25.000Z",
+          "wordCount": 426,
+          "title": "How to Promote Your Career"
+        },
+        {
           "id": "https://devops.com/?p=146654",
           "author": "Mike Vizard",
           "description": "A survey of 750 IT and engineering leaders found that while a full 83% of respondents agree that interdepartmental communication is critical for successful software development, only 41% of respondents view cross-collaboration to be a priority. The survey gathered responses from within organizations that generated more than $50 million in annual revenue and was conducted […]\nThe post Atlassian Survey Shows Lack of Collaboration in Software Development appeared first on DevOps.com.",
@@ -7268,6 +7497,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=109625",
+          "author": "Jordana Cepelewicz",
+          "description": "Scientists thought that the brain’s hearing centers might just process speech along with other sounds. But new work suggests that speech gets some special treatment very early on.            \nThe post The Brain Processes Speech in Parallel With Other Sounds first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-brain-processes-speech-in-parallel-with-other-sounds-20211021/",
+          "publishedOn": "2021-10-21T16:06:08.000Z",
+          "wordCount": null,
+          "title": "The Brain Processes Speech in Parallel With Other Sounds",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=109622",
           "author": "Robbert Dijkgraaf",
           "description": "Today’s powerful but little-understood artificial intelligence breakthroughs echo past examples of unexpected scientific progress.             \nThe post The Uselessness of Useful Knowledge first appeared on Quanta Magazine",
@@ -7434,6 +7673,24 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=65857",
+          "author": "Nathan Yau",
+          "description": "When you visualize aspects of the data instead of just the data itself, what you show grows more obvious.\nTags: audience, purpose, questions",
+          "link": "https://flowingdata.com/2021/10/21/process-162-aspects/",
+          "publishedOn": "2021-10-21T18:00:22.000Z",
+          "wordCount": 308,
+          "title": "✚ I Want to Visualize Aspects of the Data – The Process 162"
+        },
+        {
+          "id": "https://flowingdata.com/?p=65852",
+          "author": "Nathan Yau",
+          "description": "The New York Times used radar data to create a 3-D model of…\nTags: Dixie Fire, New York Times, radar, smoke",
+          "link": "https://flowingdata.com/2021/10/21/3-d-rendering-of-dixie-fire-smoke-clouds/",
+          "publishedOn": "2021-10-21T07:20:58.000Z",
+          "wordCount": 391,
+          "title": "3-D rendering of Dixie fire smoke clouds"
+        },
         {
           "id": "https://flowingdata.com/?p=65848",
           "author": "Nathan Yau",
