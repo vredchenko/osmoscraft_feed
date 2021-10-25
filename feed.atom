@@ -2,10 +2,237 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2021-10-24T00:41:27.467Z</updated>
+    <updated>2021-10-25T00:43:10.600Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hackaday Links: October 24, 2021]]></title>
+        <id>https://hackaday.com/?p=501282</id>
+        <link href="https://hackaday.com/2021/10/24/hackaday-links-october-24-2021/"/>
+        <updated>2021-10-24T23:00:41.000Z</updated>
+        <summary type="html"><![CDATA[It seems that the engineers of NASA’s Lucy spacecraft have some ‘splaining to do. The $981M asteroid-seeking mission launched without a hitch, but when the two solar panels unfolded, one …read more]]></summary>
+        <author>
+            <name>Kristina Panos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Command Line trash]]></title>
+        <id>https://davidwalsh.name/?p=27480</id>
+        <link href="https://davidwalsh.name/command-line-trash"/>
+        <updated>2021-10-24T21:25:45.000Z</updated>
+        <summary type="html"><![CDATA[One of the first commands you learn when experimenting with command line is rm, the utility for deleting files and directories. Deletion is a core computer UI operation but operating systems use a “Trash” paradigm, where files are stored before truly deleted. With the rm utility, however, files are immediately, permanently deleted. If you’re like […]
+The post Command Line trash appeared first on David Walsh Blog.]]></summary>
+        <author>
+            <name>David Walsh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is a Diode a Switch?]]></title>
+        <id>https://hackaday.com/?p=501793</id>
+        <link href="https://hackaday.com/2021/10/24/is-a-diode-a-switch/"/>
+        <updated>2021-10-24T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Many hardware people around these parts will be familiar with devices used as switches, using at least three-terminals to effect this, an input, an output and a gate. Typical devices …read more]]></summary>
+        <author>
+            <name>Dave Rowntree</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – Estimating the Performance Speedup (Gain) using Amdahls Law]]></title>
+        <id>https://helloacm.com/?p=147306</id>
+        <link href="https://helloacm.com/teaching-kids-programming-estimating-the-performance-speedup-gain-using-amdahls-law/"/>
+        <updated>2021-10-24T19:05:43.000Z</updated>
+        <summary type="html"><![CDATA[Nowadays, CPU has multicore technologies (e.g. multithreading/hyper-threading) – which we can employ to speed up the computation tasks. Let’s define the speed up S(N) as the ratio of time...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tricky Screw Heads Have Disappearing Slots]]></title>
+        <id>https://hackaday.com/?p=502999</id>
+        <link href="https://hackaday.com/2021/10/24/tricky-screw-heads-have-disappearing-slots/"/>
+        <updated>2021-10-24T17:01:01.000Z</updated>
+        <summary type="html"><![CDATA[Perhaps you’ve seen them, demonstrations of a machined piece of metal that upon further inspection is actually two pieces machined so perfectly that they appear as one. With extremely tight …read more]]></summary>
+        <author>
+            <name>Ryan Flowers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dactyl Chimera Leaves the Learning out of the Curve]]></title>
+        <id>https://hackaday.com/?p=501683</id>
+        <link href="https://hackaday.com/2021/10/24/dactyl-chimera-leaves-the-learning-out-of-the-curve/"/>
+        <updated>2021-10-24T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Have you been wanting to build your own keyboard, ergonomic or otherwise, but are hesitant to spend all that time and filament on something that may not be a good …read more]]></summary>
+        <author>
+            <name>Kristina Panos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COVID Vaccine Makers Prepare for a Variant Worse than Delta]]></title>
+        <id>02ADE118-38B4-4E6F-825249B38A66579E</id>
+        <link href="https://www.scientificamerican.com/article/covid-vaccine-makers-prepare-for-a-variant-worse-than-delta/"/>
+        <updated>2021-10-24T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Companies are updating vaccines and testing them on people to prepare for whatever comes next in the pandemic
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Emily Waltz, Nature magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pandas Refresher: Using Join on Tables]]></title>
+        <id>https://hackernoon.com/pandas-refresher-using-join-on-tables?source=rss</id>
+        <link href="https://hackernoon.com/pandas-refresher-using-join-on-tables?source=rss"/>
+        <updated>2021-10-24T12:23:03.000Z</updated>
+        <summary type="html"><![CDATA[Working with tables by join in Pandas: how to load tables in Pandas, merging data in tables, left join, right join, outer join, inner join.]]></summary>
+        <author>
+            <name>Svitla Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diving into Crypto-PR: A Beginner's Guide]]></title>
+        <id>https://hackernoon.com/diving-into-crypto-pr-a-beginners-guide?source=rss</id>
+        <link href="https://hackernoon.com/diving-into-crypto-pr-a-beginners-guide?source=rss"/>
+        <updated>2021-10-24T12:14:03.000Z</updated>
+        <summary type="html"><![CDATA[Whether you’re completely new to blockchain PR or have years of industry experience, this guide will walk you through everything you need to know]]></summary>
+        <author>
+            <name>GuerrillaBuzz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Visualize Bias and Variance]]></title>
+        <id>https://hackernoon.com/how-to-visualize-bias-and-variance?source=rss</id>
+        <link href="https://hackernoon.com/how-to-visualize-bias-and-variance?source=rss"/>
+        <updated>2021-10-24T11:24:56.000Z</updated>
+        <summary type="html"><![CDATA[In the process of building a Machine Learning model, there is a trade-off between bias and variance.]]></summary>
+        <author>
+            <name>Vaisakh Babu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Metaverse Can Make You Less Anxious About Social Rejection]]></title>
+        <id>https://hackernoon.com/the-metaverse-can-make-you-less-anxious-about-social-rejection?source=rss</id>
+        <link href="https://hackernoon.com/the-metaverse-can-make-you-less-anxious-about-social-rejection?source=rss"/>
+        <updated>2021-10-24T11:10:25.000Z</updated>
+        <summary type="html"><![CDATA[In this interview, we spoke to Daniel Jimenez about all things Metaverse and Blockchain.]]></summary>
+        <author>
+            <name>Daniel Jimenez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Vs. Copywriters: Exploring Artificial Intelligence in Digital Marketing]]></title>
+        <id>https://hackernoon.com/ai-vs-copywriters-exploring-artificial-intelligence-in-digital-marketing?source=rss</id>
+        <link href="https://hackernoon.com/ai-vs-copywriters-exploring-artificial-intelligence-in-digital-marketing?source=rss"/>
+        <updated>2021-10-24T11:03:52.000Z</updated>
+        <summary type="html"><![CDATA[How does artificial intelligence affect future content creation, and why do you need to be a part of the process?]]></summary>
+        <author>
+            <name>Jussi Hyvarinen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Capacitive Touch Controller for FPGAs]]></title>
+        <id>https://hackaday.com/?p=502315</id>
+        <link href="https://hackaday.com/2021/10/24/capacitive-touch-controller-for-fpgas/"/>
+        <updated>2021-10-24T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most projects that interface with the real world need some sort of input device. Obviously this article is being written from a standardized “human interface device” but when the computers …read more]]></summary>
+        <author>
+            <name>Bryan Cockfield</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Makes a Cloud Enterprise Technology Stand Out]]></title>
+        <id>https://hackernoon.com/what-makes-a-cloud-enterprise-technology-stand-out?source=rss</id>
+        <link href="https://hackernoon.com/what-makes-a-cloud-enterprise-technology-stand-out?source=rss"/>
+        <updated>2021-10-24T10:34:43.000Z</updated>
+        <summary type="html"><![CDATA[This article covers the top eight factors you should consider when choosing a cloud enterprise technology.]]></summary>
+        <author>
+            <name>Henry Bell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Insurers' Dilemma: Balancing Consumer Demands and Legacy Conventions]]></title>
+        <id>https://hackernoon.com/the-insurers-dilemma-balancing-consumer-demands-and-legacy-conventions?source=rss</id>
+        <link href="https://hackernoon.com/the-insurers-dilemma-balancing-consumer-demands-and-legacy-conventions?source=rss"/>
+        <updated>2021-10-24T10:22:46.000Z</updated>
+        <summary type="html"><![CDATA[In an era of rapidly changing technology, the greatest challenge facing the insurance industry is its ability to keep up with consumer demand.]]></summary>
+        <author>
+            <name>Ignatica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freshworks' Journey to India’s First SaaS IPO: A Deep-Dive]]></title>
+        <id>https://hackernoon.com/freshworks-journey-to-indias-first-saas-ipo-a-deep-dive?source=rss</id>
+        <link href="https://hackernoon.com/freshworks-journey-to-indias-first-saas-ipo-a-deep-dive?source=rss"/>
+        <updated>2021-10-24T10:18:27.000Z</updated>
+        <summary type="html"><![CDATA[Freshworks' Journey to India’s First SaaS IPO]]></summary>
+        <author>
+            <name>Scott D. Clary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Opinion: Duke Leto of Dune Sucks as a Business Leader]]></title>
+        <id>https://hackernoon.com/opinion-duke-leto-of-dune-sucks-as-a-business-leader?source=rss</id>
+        <link href="https://hackernoon.com/opinion-duke-leto-of-dune-sucks-as-a-business-leader?source=rss"/>
+        <updated>2021-10-24T10:11:56.000Z</updated>
+        <summary type="html"><![CDATA[Duke Leto might have been your favorite fictional character, but I'm not sure that you would like and support him as your business leader.]]></summary>
+        <author>
+            <name>Michael Brooks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Authentic Brands with NFTs - The Inside Scoop]]></title>
+        <id>https://hackernoon.com/building-authentic-brands-with-nfts-the-inside-scoop?source=rss</id>
+        <link href="https://hackernoon.com/building-authentic-brands-with-nfts-the-inside-scoop?source=rss"/>
+        <updated>2021-10-24T10:02:35.000Z</updated>
+        <summary type="html"><![CDATA[how media and fintech have become unexpected partners in a wave of innovation that will redefine how brands and communities are built.]]></summary>
+        <author>
+            <name>Chris Sirise</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instagram Marketing: 3 Common Mistakes to Avoid]]></title>
+        <id>https://hackernoon.com/instagram-marketing-3-common-mistakes-to-avoid?source=rss</id>
+        <link href="https://hackernoon.com/instagram-marketing-3-common-mistakes-to-avoid?source=rss"/>
+        <updated>2021-10-24T09:26:08.000Z</updated>
+        <summary type="html"><![CDATA[Learn some of the mistakes that you can avoid in Instagram marketing.]]></summary>
+        <author>
+            <name>Khamisi Hamisi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bring That Old Hi-Fi Into The 2020s]]></title>
+        <id>https://hackaday.com/?p=501563</id>
+        <link href="https://hackaday.com/2021/10/24/bring-that-old-hi-fi-into-the-2020s/"/>
+        <updated>2021-10-24T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s a distressing moment for some of us, when a formerly prized piece of electronic equipment reaches a point of obsolescence that we consider jettisoning it. [Jon Robinson] ran into …read more]]></summary>
+        <author>
+            <name>Jenny List</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dutch Forensic Team Hacked Tesla's Driving Data to Investigate a Crash]]></title>
+        <id>https://hackernoon.com/dutch-forensic-team-hacked-teslas-driving-data-to-investigate-a-crash?source=rss</id>
+        <link href="https://hackernoon.com/dutch-forensic-team-hacked-teslas-driving-data-to-investigate-a-crash?source=rss"/>
+        <updated>2021-10-24T07:42:29.000Z</updated>
+        <summary type="html"><![CDATA[Tesla’s data storage system was hacked by a team of Dutch forensic researchers this week to investigate a car crash.]]></summary>
+        <author>
+            <name>Sidra Zafar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Arduino Terminal Does All The Characters]]></title>
+        <id>https://hackaday.com/?p=500617</id>
+        <link href="https://hackaday.com/2021/10/23/this-arduino-terminal-does-all-the-characters/"/>
+        <updated>2021-10-24T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The job of a dumb terminal was originally to be a continuation of that performed by a paper teletype, to send text from its keyboard and display any it receives …read more]]></summary>
+        <author>
+            <name>Jenny List</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Automating Pool Monitoring And Chemical Dosing]]></title>
         <id>https://hackaday.com/?p=502453</id>
@@ -43,6 +270,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How To Get The Most Productivity Out Of Low-Code Modernization]]></title>
+        <id>https://hackernoon.com/how-to-get-the-most-productivity-out-of-low-code-modernization?source=rss</id>
+        <link href="https://hackernoon.com/how-to-get-the-most-productivity-out-of-low-code-modernization?source=rss"/>
+        <updated>2021-10-23T21:13:03.000Z</updated>
+        <summary type="html"><![CDATA[Rapidly changing market conditions and the need for continuous innovation is the new reality for businesses in today’s economy.]]></summary>
+        <author>
+            <name>Lansa</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ESP32-Cam Makes a Dandy Motion Detector]]></title>
         <id>https://hackaday.com/?p=502662</id>
         <link href="https://hackaday.com/2021/10/23/esp32-cam-makes-a-dandy-motion-detector/"/>
@@ -73,6 +310,36 @@
 -- Read more on ScientificAmerican.com]]></summary>
         <author>
             <name>Meghan Bartels, SPACE.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Trending Stocks in Google Sheets With App Script: A DIY Guide]]></title>
+        <id>https://hackernoon.com/get-trending-stocks-in-google-sheets-with-app-script-a-diy-guide?source=rss</id>
+        <link href="https://hackernoon.com/get-trending-stocks-in-google-sheets-with-app-script-a-diy-guide?source=rss"/>
+        <updated>2021-10-23T15:39:21.000Z</updated>
+        <summary type="html"><![CDATA[Building an automatic trending stocks spreadsheet using Google Sheets App Script and Using Hotstoks SQL • Finance • API.]]></summary>
+        <author>
+            <name>Eduardo Sasso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Common Reasons Why Hedge Funds Still Refrain from Investing in bitcoin]]></title>
+        <id>https://hackernoon.com/3-common-reasons-why-hedge-funds-still-refrain-from-investing-in-bitcoin?source=rss</id>
+        <link href="https://hackernoon.com/3-common-reasons-why-hedge-funds-still-refrain-from-investing-in-bitcoin?source=rss"/>
+        <updated>2021-10-23T15:35:15.000Z</updated>
+        <summary type="html"><![CDATA[For people familiar with the cryptocurrency sector, it’s common knowledge that institutional investors such as hedge funds largely shy away from the area.]]></summary>
+        <author>
+            <name>Mikhail Kirilin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Real Cost of Working with a Freelance Developer: Revising Basic Assumptions]]></title>
+        <id>https://hackernoon.com/the-real-cost-of-working-with-a-freelance-developer-revising-basic-assumptions?source=rss</id>
+        <link href="https://hackernoon.com/the-real-cost-of-working-with-a-freelance-developer-revising-basic-assumptions?source=rss"/>
+        <updated>2021-10-23T15:08:17.000Z</updated>
+        <summary type="html"><![CDATA[Are offshore contractors a more lucrative alternative or not is the key question.]]></summary>
+        <author>
+            <name>Ksenia</name>
         </author>
     </entry>
     <entry>
@@ -230,6 +497,16 @@ The post Can Include (a Certain HTML element within another Certain HTML Element
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Shovelware and Asset Flipping: What Happened to Quality Control at Nintendo?]]></title>
+        <id>https://hackernoon.com/shovelware-and-asset-flipping-what-happened-to-quality-control-at-nintendo?source=rss</id>
+        <link href="https://hackernoon.com/shovelware-and-asset-flipping-what-happened-to-quality-control-at-nintendo?source=rss"/>
+        <updated>2021-10-22T16:14:05.000Z</updated>
+        <summary type="html"><![CDATA[Once the titans of quality control, how did Nintendo let it slide? Here, you'll find out how shovelware and asset flipping made it's way to the industry giant.]]></summary>
+        <author>
+            <name>Connor C</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hackaday Podcast 141: LowFER Badges, Outrun Clocks, Dichroic Lamps, and Piano Action]]></title>
         <id>https://hackaday.com/?p=502674&amp;preview=true&amp;preview_id=502674</id>
         <link href="https://hackaday.com/2021/10/22/hackaday-podcast-141-lowfer-badges-outrun-clocks-dichroic-lamps-and-piano-action/"/>
@@ -343,6 +620,16 @@ The post FinOps Cloud Cost Optimization via Governance-as-Code  appeared first 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Get Paid in the Metaverse Creator Economy Today]]></title>
+        <id>https://hackernoon.com/how-to-get-paid-in-the-metaverse-creator-economy-today?source=rss</id>
+        <link href="https://hackernoon.com/how-to-get-paid-in-the-metaverse-creator-economy-today?source=rss"/>
+        <updated>2021-10-22T01:55:21.000Z</updated>
+        <summary type="html"><![CDATA[Master the Metaverse creator economy. Design NFTs or use the picks and shovels strategy creating tools or services for NFT builders & virtual world inhabitants.]]></summary>
+        <author>
+            <name>VerseTech Metaverse</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Oculus Go VR Headset Gets Root Access, No Jailbreak Needed]]></title>
         <id>https://hackaday.com/?p=502575</id>
         <link href="https://hackaday.com/2021/10/21/oculus-go-vr-headset-gets-root-access-no-jailbreak-needed/"/>
@@ -392,6 +679,16 @@ The post The CSS-in-React Landscape appeared first on CSS-Tricks. You can suppor
 [[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
         <author>
             <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why We Should All Pay Attention To Recent Food Tech Innovations]]></title>
+        <id>https://hackernoon.com/why-we-should-all-pay-attention-to-recent-food-tech-innovations?source=rss</id>
+        <link href="https://hackernoon.com/why-we-should-all-pay-attention-to-recent-food-tech-innovations?source=rss"/>
+        <updated>2021-10-21T20:20:29.000Z</updated>
+        <summary type="html"><![CDATA[There is a lot of food tech innovations out there that have been popping up over the past few years. And food tech has become a fairly popular industry to be in]]></summary>
+        <author>
+            <name>Omri Hurwitz</name>
         </author>
     </entry>
     <entry>
@@ -603,6 +900,16 @@ Here’s the trick. You need to get stakeholders themselves to identify high-ris
 -- Read more on ScientificAmerican.com]]></summary>
         <author>
             <name>Anil Ananthaswamy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Essential Tips to Solve Data Science Projects]]></title>
+        <id>https://hackernoon.com/6-essential-tips-to-solve-data-science-projects?source=rss</id>
+        <link href="https://hackernoon.com/6-essential-tips-to-solve-data-science-projects?source=rss"/>
+        <updated>2021-10-21T08:55:42.000Z</updated>
+        <summary type="html"><![CDATA[Data science projects are focusing on solving social or business problems by using data. Solving data science projects can be a very challenging task for beginners in this field. You will need to have a different skills set depending on the type of data problem you want to solve.]]></summary>
+        <author>
+            <name>Davis David</name>
         </author>
     </entry>
     <entry>
