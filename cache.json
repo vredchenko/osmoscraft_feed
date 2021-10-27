@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=354365",
+          "author": "Chris Coyier",
+          "description": "We’ve covered URL schemes: \nA URL Scheme is like “http://…” or “ftp://…”. Those seem like a very low-level concept that you don’t have much control over, but actually, you do!\nI’d call it non-trivial, but developers can register new …\nThe post On Browser-Specific URL Schemes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/on-browser-specific-url-schemes/",
+          "publishedOn": "2021-10-26T20:06:29.000Z",
+          "wordCount": 999,
+          "title": "On Browser-Specific URL Schemes"
+        },
+        {
+          "id": "https://css-tricks.com/?p=353747",
+          "author": "Hilman Ramadhan",
+          "description": "If you have a page that includes a lot of information, it’s a good idea to let users search for what they might be looking for. I’m not talking about searching a database or even searching JSON data — I’m …\nThe post In-Page Filtered Search With Vanilla JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/in-page-filtered-search-with-vanilla-javascript/",
+          "publishedOn": "2021-10-26T14:11:59.000Z",
+          "wordCount": 1579,
+          "title": "In-Page Filtered Search With Vanilla JavaScript"
+        },
+        {
+          "id": "https://css-tricks.com/?p=353621",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nBuilding products for users is a balance between your vision of what your product can do for them, and refining that vision based on their feedback. If you’re really a customer-focused company, you’re listening. …\nThe post Userwell is for Managing Customer Feedback appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/userwell-is-for-managing-customer-feedback/",
+          "publishedOn": "2021-10-26T14:10:05.000Z",
+          "wordCount": 621,
+          "title": "Userwell is for Managing Customer Feedback"
+        },
+        {
           "id": "https://css-tricks.com/?p=353728",
           "author": "Chris Coyier",
           "description": "When I wrote the “book” The Greatest CSS Tricks Vol. I, I put “book” in quotes because there wasn’t anything terribly book-like about it. The only way you could read it was online, logged into this website, with an …\nThe post The Greatest CSS Tricks Vol. I eBook (PDF and EPUB) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -534,6 +561,60 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "613711a5d6679a07b7d43dce",
+          "author": null,
+          "description": "When you're programming, there are times when you'll want the values of certain variables to remain unchanged. In the C language, you'll likely define them as constants. You can define constants in C in a few different ways. In this tutorial, you'll learn how to use #define and the const",
+          "link": "https://www.freecodecamp.org/news/constants-in-c-explained-how-to-use-define-and-const-keyword/",
+          "publishedOn": "2021-10-26T21:13:20.000Z",
+          "wordCount": 1087,
+          "title": "Constants in C Explained – How to Use #define and the const Qualifier to Define Constants"
+        },
+        {
+          "id": "616fcad6d48e1707b6d78874",
+          "author": null,
+          "description": "Security is an extremely important aspect of software development, server management, and application development these days.  And if you use Linux, you're in luck – it comes with an excellent feature called SE Linux that helps you add an additional layer of security. What is SE Linux?SE Linux was developed",
+          "link": "https://www.freecodecamp.org/news/securing-linux-servers-with-se-linux/",
+          "publishedOn": "2021-10-26T17:33:34.000Z",
+          "wordCount": 867,
+          "title": "How to Secure Linux Servers with SE Linux"
+        },
+        {
+          "id": "6122045f3bccf807612a5762",
+          "author": null,
+          "description": "If you are interested in the tech industry, then you might consider a career as a software engineer. But what is a software engineer and how do you become one?  In this article, I will explain what software engineers do and the steps you can take to become one. What",
+          "link": "https://www.freecodecamp.org/news/what-is-software-engineering-how-to-become-a-software-engineer/",
+          "publishedOn": "2021-10-26T17:16:01.000Z",
+          "wordCount": 1620,
+          "title": "What is Software Engineering? How to Become a Software Engineer"
+        },
+        {
+          "id": "617834f033422e07df364b90",
+          "author": null,
+          "description": "Django is a popular web development framework that uses Python.  We just published a course on the freeCodeCamp.org YouTube channel that will help you improve your Django skills by teaching you how to create a digital resume using Python and Django. Bobby Stearman developed this course. Bobby has created",
+          "link": "https://www.freecodecamp.org/news/django-project-create-a-digital-resume-using-django-and-python/",
+          "publishedOn": "2021-10-26T17:15:47.000Z",
+          "wordCount": 353,
+          "title": "Django Project: Create a Digital Resume Using Django and Python"
+        },
+        {
+          "id": "61746f69d48e1707b6d7a229",
+          "author": null,
+          "description": "Lots of people still use static websites, from family-run businesses who don't need to update information that often, to large teams who need to release something quickly without spending too much time and effort on it.  You might also want a static website for these reasons: Speed: pages load quicklyMinimal",
+          "link": "https://www.freecodecamp.org/news/how-to-integrate-a-static-website-with-wordpress/",
+          "publishedOn": "2021-10-26T17:09:22.000Z",
+          "wordCount": 1217,
+          "title": "How to Integrate a Static Website with WordPress"
+        },
+        {
+          "id": "61782fe233422e07df364b4f",
+          "author": null,
+          "description": "Seventy-five percent of all phones are Android phones and seventy-five percent of all Internet users only access the Internet using their phone. So there is a big market for Android apps. We just published crash course on Android app development on the freeCodeCamp.org YouTube channel. This course is perfect",
+          "link": "https://www.freecodecamp.org/news/android-app-development-for-beginners/",
+          "publishedOn": "2021-10-26T12:01:00.000Z",
+          "wordCount": 400,
+          "title": "Android App Development for Beginners"
+        },
         {
           "id": "612cbff5b5177808226d4a51",
           "author": null,
@@ -4491,6 +4572,69 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
+          "id": "https://hackaday.com/?p=501752",
+          "author": "Kristina Panos",
+          "description": "For [ke4mcl], this whole cassette craze of late is not a new discovery so much as it is a personal nostalgia machine. Since [ke4mcl] sees a lot of basic questions …read more",
+          "link": "https://hackaday.com/2021/10/26/theres-not-a-cassingle-thing-missing-from-this-cassette-deck-masterclass/",
+          "publishedOn": "2021-10-26T23:01:16.000Z",
+          "wordCount": 1765,
+          "title": "There’s Not a Cassingle Thing Missing From This Cassette Deck Masterclass"
+        },
+        {
+          "id": "https://hackaday.com/?p=502932",
+          "author": "Al Williams",
+          "description": "Inspired by his CNC’s leveling system, [Chuck] built a small PCB to help level his 3D printer and he shares the details in the video you can see below. The …read more",
+          "link": "https://hackaday.com/2021/10/26/3d-printer-bed-probing-using-a-tact-switch-and-coin-cell/",
+          "publishedOn": "2021-10-26T20:01:00.000Z",
+          "wordCount": 2361,
+          "title": "3D Printer Bed Probing Using a Tact Switch and Coin Cell"
+        },
+        {
+          "id": "https://hackaday.com/?p=503001",
+          "author": "Al Williams",
+          "description": "When you think of slicers for FDM 3D printing — especially free slicers — you probably think of Cura, Slic3r, or PrusaSlicer. There are fans of MatterControl and many people …read more",
+          "link": "https://hackaday.com/2021/10/26/superslicer-reviewed-another-3dp-slicer/",
+          "publishedOn": "2021-10-26T18:30:00.000Z",
+          "wordCount": 2034,
+          "title": "SuperSlicer Reviewed: Another 3DP Slicer?"
+        },
+        {
+          "id": "https://hackaday.com/?p=486811",
+          "author": "Kristina Panos",
+          "description": "Summer is fading into a memory now, but as surely as the earth orbits the sun, those hot and sweaty days will return soon enough. And what can you do …read more",
+          "link": "https://hackaday.com/2021/10/26/how-much-is-that-shirt-in-the-atmospheric-window/",
+          "publishedOn": "2021-10-26T17:00:36.000Z",
+          "wordCount": 2387,
+          "title": "How Much is That Shirt in the (Atmospheric) Window?"
+        },
+        {
+          "id": "https://hackaday.com/?p=502176",
+          "author": "Kristina Panos",
+          "description": "For some reason, it seems like most of the plant monitoring setups we see separate the plant and the monitoring system. This makes sense in a don’t-own-a-waterbed-and-a-cat kind of way, …read more",
+          "link": "https://hackaday.com/2021/10/26/smart-flower-pot-build-is-all-about-that-base/",
+          "publishedOn": "2021-10-26T15:30:00.000Z",
+          "wordCount": 1279,
+          "title": "Smart Flower Pot Build Is All About That Base"
+        },
+        {
+          "id": "https://hackaday.com/?p=499232",
+          "author": "Jenny List",
+          "description": "It’s an old saying with an apocryphal origin: “May you live in interesting times“. We Brits are certainly living in interesting times at the moment, as a perfect storm of …read more",
+          "link": "https://hackaday.com/2021/10/26/being-green-its-a-rich-mans-game/",
+          "publishedOn": "2021-10-26T14:01:40.000Z",
+          "wordCount": 13595,
+          "title": "Being Green, It’s A Rich Man’s Game"
+        },
+        {
+          "id": "https://hackaday.com/?p=503147&preview=true&preview_id=503147",
+          "author": "Mike Szczys",
+          "description": "Oh, walnuts! How can we already be at the end of the last round? 2021 has been a time warp and now we are staring down the final day to …read more",
+          "link": "https://hackaday.com/2021/10/26/this-really-really-is-your-last-chance-to-enter-the-2021-hackaday-prize-really/",
+          "publishedOn": "2021-10-26T12:31:08.000Z",
+          "wordCount": 1246,
+          "title": "This Really Really is Your Last Chance to Enter the 2021 Hackaday Prize (Really!)"
+        },
+        {
           "id": "https://hackaday.com/?p=502900",
           "author": "Robin Kearey",
           "description": "Although the market for hand-drawn portraits largely collapsed following the invention of photography, there’s something magical about watching an artist create a lifelike image using nothing but a pencil, some …read more",
@@ -6073,6 +6217,76 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "6744A201-EC9A-46DE-A0C204722E2D830E",
+          "author": "Josh Fischman",
+          "description": "A new book reveals how quiet scientists, big drug companies and the Trump administration raced to meet the COVID threat—and why kids are just now being considered for shots\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/surprising-conflicts-and-collaborations-built-the-coronavirus-vaccines/",
+          "publishedOn": "2021-10-26T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Surprising Conflicts and Collaborations Built the Coronavirus Vaccines",
+          "itunes": {}
+        },
+        {
+          "id": "D0ACAD1E-6B6D-4D1E-B3C9288B0AFD4533",
+          "author": "Benjamin Storrow, E&E News",
+          "description": "Incentives cover established sectors such as wind and solar as well as emerging technology, such as green hydrogen\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/congress-eyes-235-billion-in-clean-energy-subsidies/",
+          "publishedOn": "2021-10-26T18:30:00.000Z",
+          "wordCount": null,
+          "title": "Congress Eyes $235 Billion in Clean Energy Subsidies",
+          "itunes": {}
+        },
+        {
+          "id": "734B3892-7F89-4603-881D32930AADF14A",
+          "author": "Anna Blaustein",
+          "description": "Like some AI systems, the organ of thought appears to predict what word follows another to coax meaning from language\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-brain-guesses-what-word-comes-ne/",
+          "publishedOn": "2021-10-26T16:30:00.000Z",
+          "wordCount": null,
+          "title": "The Brain Guesses What Word Comes Ne-",
+          "itunes": {}
+        },
+        {
+          "id": "2C22E663-20FF-4EEF-B59F22C0EE3C8066",
+          "author": "Andrea Gawrylewski",
+          "description": "-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/a-wandering-mind/",
+          "publishedOn": "2021-10-26T13:30:00.000Z",
+          "wordCount": null,
+          "title": "A Wandering Mind",
+          "itunes": {}
+        },
+        {
+          "id": "601FFCA2-C5A6-4B4F-A21F3367A3BF884E",
+          "author": "Jessica Pierce, Marc Bekoff",
+          "description": "Our canine companions have become accustomed to having their humans around 24/7\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/home-alone-the-fate-of-post-pandemic-dogs/",
+          "publishedOn": "2021-10-26T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Home Alone: The Fate of Post-Pandemic Dogs",
+          "itunes": {}
+        },
+        {
+          "id": "F7186877-8F19-4380-BC315AD99F759663",
+          "author": "Alexandra Witze, Nature magazine",
+          "description": "Radio signal seemed to originate from the star Proxima Centauri, and provided a helpful drill for future searches\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/a-mysterious-alien-beacon-was-actually-a-false-alarm/",
+          "publishedOn": "2021-10-26T12:00:00.000Z",
+          "wordCount": null,
+          "title": "A Mysterious 'Alien Beacon' Was Actually a False Alarm",
+          "itunes": {}
+        },
+        {
+          "id": "A816887E-112E-41F7-8439D8AF92EF66CF",
+          "author": "Diana Kwon",
+          "description": "New studies show a possible connection. But debate over such an association will continue\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/can-intense-exercise-lead-to-als/",
+          "publishedOn": "2021-10-26T10:45:00.000Z",
+          "wordCount": null,
+          "title": "Can Intense Exercise Lead to ALS?",
+          "itunes": {}
+        },
+        {
           "id": "C3B9AFA7-BD65-41F6-ADB333C619EA504E",
           "author": "Daniel Cusick, E&E News",
           "description": "Heat waves, late-spring frosts and more unpredictable climate swings have taken a toll on the crop\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -7647,6 +7861,60 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=146766",
+          "author": "Mike Vizard",
+          "description": "Codenotary today unfurled a free notarization and verification service for open source artifacts and containers to enable IT organizations to track the provenance of the components that make up their applications. Dennis Zimmer, Codenotary CTO, said the Community Attestation Service is based on an immutable open source immudb database that cryptographically attaches an identity to […]\nThe post Codenotary Uses Immutable Database to Verify Software Artifacts appeared first on DevOps.com.",
+          "link": "https://devops.com/codenotary-uses-immutable-database-to-verify-software-artifacts/",
+          "publishedOn": "2021-10-26T22:06:54.000Z",
+          "wordCount": 1011,
+          "title": "Codenotary Uses Immutable Database to Verify Software Artifacts"
+        },
+        {
+          "id": "https://devops.com/?p=146761",
+          "author": "Mike Vizard",
+          "description": "CircleCI today announced it has added a Test Insights capability to its continuous integration/continuous delivery (CI/CD) platform to make it easier to identify tests that are either taking too long to run or simply exhibiting some form of anomalous behavior. Dawit Gebregziabher, project manager for data insights at CircleCI, said Test Insights is designed to […]\nThe post CircleCI Adds Test Insights Module to CI/CD Platform appeared first on DevOps.com.",
+          "link": "https://devops.com/circleci-adds-test-insights-module-to-ci-cd-platform/",
+          "publishedOn": "2021-10-26T21:06:17.000Z",
+          "wordCount": 982,
+          "title": "CircleCI Adds Test Insights Module to CI/CD Platform"
+        },
+        {
+          "id": "https://devops.com/?p=146754",
+          "author": "Mike Vizard",
+          "description": "During an online InfluxDays North America 2021 Virtual Experience conference, InfluxData today expanded the capabilities of its application development tools using its Flux query language on top of its time-series database. The company has enhanced its InfluxDB Notebooks tool to enable developers to quickly set up an alert, build a task or write a Flux […]\nThe post InfluxData Simplifies AppDev for Time-Series Databases appeared first on DevOps.com.",
+          "link": "https://devops.com/influxdata-simplifies-appdev-for-time-series-databases/",
+          "publishedOn": "2021-10-26T18:07:54.000Z",
+          "wordCount": 978,
+          "title": "InfluxData Simplifies AppDev for Time-Series Databases"
+        },
+        {
+          "id": "https://devops.com/?p=146744",
+          "author": "Mike Vizard",
+          "description": "The Eclipse Foundation in collaboration with the OpenAtom Foundation today launched the Oniro project and working group to create an independent implementation of OpenHarmony, an open source operating system. Created by the OpenAtom Foundation, the OpenHarmony operating system is based on a HarmonyOS originally created by Huawei. It is designed to support multiple kernels but […]\nThe post Eclipse Foundation Launches Open Source Edge Computing Initiative appeared first on DevOps.com.",
+          "link": "https://devops.com/eclipse-foundation-launches-open-source-edge-computing-initiative/",
+          "publishedOn": "2021-10-26T12:45:50.000Z",
+          "wordCount": 1005,
+          "title": "Eclipse Foundation Launches Open Source Edge Computing Initiative"
+        },
+        {
+          "id": "https://devops.com/?p=146727",
+          "author": "Barbaño González",
+          "description": "History has been marked by opaque and totalitarian power systems. Aided by prisons and walls that keep out the light. The concentration of power in the hands of a few individuals has marked human evolution. From feudalism to fascism, the annulment of the rights of individuals has been based on obscurantism and ignorance. Information has […]\nThe post AsyncAPI: Transparency as a Value appeared first on DevOps.com.",
+          "link": "https://devops.com/asyncapi-transparency-as-a-value/",
+          "publishedOn": "2021-10-26T07:00:56.000Z",
+          "wordCount": 1053,
+          "title": "AsyncAPI: Transparency as a Value"
+        },
+        {
+          "id": "https://devops.com/?p=146716",
+          "author": "Charles Caldwell",
+          "description": "Technical debt is a nightmare for product managers. It can slow down teams and inhibit response time for delivering quality products to market. Yet, there are times when technical debt can be beneficial; but turning it from a headache to a positive is a balancing act.  Nimble project managers and developers should strive to develop […]\nThe post Managing Technical Debt is a Balancing Act appeared first on DevOps.com.",
+          "link": "https://devops.com/managing-technical-debt-is-a-balancing-act/",
+          "publishedOn": "2021-10-26T06:30:50.000Z",
+          "wordCount": 1222,
+          "title": "Managing Technical Debt is a Balancing Act"
+        },
+        {
           "id": "https://devops.com/?p=146723",
           "author": "Mike Vizard",
           "description": "New Relic and Mona, a provider of a platform for monitoring the models used to provide artificial intelligence (AI), announced today they have formed an alliance to help bridge the divide between DevOps teams and data scientists. Most data science teams today build models based on machine learning algorithms using operations platforms that enable them […]\nThe post Mona Allies with New Relic to Converge MLOps and DevOps appeared first on DevOps.com.",
@@ -8266,6 +8534,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=109783",
+          "author": "Kevin Hartnett",
+          "description": "Watanabe invented a new way of distinguishing shapes on his way to solving the last open case of the Smale conjecture, a central question in topology about symmetries of the sphere.            \nThe post How Tadayuki Watanabe Disproved a Major Conjecture About Spheres first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-tadayuki-watanabe-solved-a-topological-mystery-about-spheres-20211026/",
+          "publishedOn": "2021-10-26T15:05:45.000Z",
+          "wordCount": null,
+          "title": "How Tadayuki Watanabe Disproved a Major Conjecture About Spheres",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=109780",
           "author": "Katie McCormick",
           "description": "Time was found to flow differently between the top and bottom of a single cloud of atoms. Physicists hope that such a system will one day help them combine quantum mechanics and Einstein’s theory of gravity.            \nThe post An Ultra-Precise Clock Shows How to Link the Quantum World With Gravity first appeared on Quanta Magazine",
@@ -8452,6 +8730,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=65873",
+          "author": "Nathan Yau",
+          "description": "Here's how the distribution of genres has changed since 1945 up to present.\nTags: genre, imdb, television",
+          "link": "https://flowingdata.com/2021/10/26/television-genres-over-time/",
+          "publishedOn": "2021-10-26T07:44:03.000Z",
+          "wordCount": 381,
+          "title": "Television Genres Over Time"
+        },
         {
           "id": "https://flowingdata.com/?p=65867",
           "author": "Nathan Yau",
