@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=354777",
+          "author": "Chris Coyier",
+          "description": "I ran across this 30 seconds of code website the other day, and they have a CSS section which is really good! The first example snippet I looked at was this “floating section headers” example, reminding me yet again how …\nThe post Sticky Definition Lists appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/sticky-definition-lists/",
+          "publishedOn": "2021-10-27T23:17:18.000Z",
+          "wordCount": 545,
+          "title": "Sticky Definition Lists"
+        },
+        {
+          "id": "https://css-tricks.com/?p=354857",
+          "author": "Chris Coyier",
+          "description": "A look from Christian Kozalla on the <dialog> HTML element and using it to create a nice-looking and accessible modal. \nCodePen Embed Fallback\nI’m attracted to the <dialog> element as it’s one of those “you get a lot for free” …\nThe post How to Implement and Style the Dialog Element appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-to-implement-and-style-the-dialog-element/",
+          "publishedOn": "2021-10-27T20:17:48.000Z",
+          "wordCount": 532,
+          "title": "How to Implement and Style the Dialog Element"
+        },
+        {
+          "id": "https://css-tricks.com/?p=353842",
+          "author": "Mark Noonan",
+          "description": "Cypress is an automated test runner for browser-based applications and pages. I’ve used it for years to write end-to-end tests for web projects, and was happy to see recently that individual component testing had come to Cypress. I work on …\nThe post Testing Vue Components With Cypress appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/testing-vue-components-with-cypress/",
+          "publishedOn": "2021-10-27T14:25:04.000Z",
+          "wordCount": 4750,
+          "title": "Testing Vue Components With Cypress"
+        },
+        {
           "id": "https://css-tricks.com/?p=354365",
           "author": "Chris Coyier",
           "description": "We’ve covered URL schemes: \nA URL Scheme is like “http://…” or “ftp://…”. Those seem like a very low-level concept that you don’t have much control over, but actually, you do!\nI’d call it non-trivial, but developers can register new …\nThe post On Browser-Specific URL Schemes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -561,6 +588,78 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61772e2833422e07df36437b",
+          "author": null,
+          "description": "Recently at work, I came across an interesting method to handle encryption at scale called envelope encryption.  First of all, it increases security and helps you ease out the management of encryption keys. But it's also a highly recommended pattern by PCI-DSS (Security Standard for Credit Card Processing) and results",
+          "link": "https://www.freecodecamp.org/news/envelope-encryption/",
+          "publishedOn": "2021-10-27T22:52:59.000Z",
+          "wordCount": 1497,
+          "title": "How to Manage Encryption at Scale with Envelope Encryption &amp; Key Management Systems"
+        },
+        {
+          "id": "61798c3d33422e07df365d30",
+          "author": null,
+          "description": "Configuration is an essential part of every application. It helps enhance an application's flexibility and maintainability.  With this in mind, it's very important that developers are able to correctly identify what items should be in configuration. In this article, I'll walk you through 8 items that should be configurable in",
+          "link": "https://www.freecodecamp.org/news/what-should-be-configurable-in-apps/",
+          "publishedOn": "2021-10-27T20:30:15.000Z",
+          "wordCount": 709,
+          "title": "What Items Should Be Configurable in an Application?"
+        },
+        {
+          "id": "617440c7d48e1707b6d7a054",
+          "author": null,
+          "description": "Whether you decide to take Andrew Ng’s Machine Learning and Deep Learning course on YouTube or any Data Science bootcamp, you will need a certain degree of mathematical and statistical knowledge.  This will not only help you understand basic ML/DS concepts, but it will also help you make",
+          "link": "https://www.freecodecamp.org/news/how-to-prepare-for-googles-machine-learning-data-science-course/",
+          "publishedOn": "2021-10-27T20:03:29.000Z",
+          "wordCount": 1631,
+          "title": "What to Know Before Taking Google&#x27;s Machine Learning or Data Science Course"
+        },
+        {
+          "id": "615d55910d91c9077974d3e8",
+          "author": null,
+          "description": "There are a few ways to record your phone calls on your iPhone. But it is really important that you ask for the other caller's permission first before making a recording. Is there a built in recording option? There is no built in option on iPhone to record your phone",
+          "link": "https://www.freecodecamp.org/news/how-to-record-a-phone-call-on-iphone/",
+          "publishedOn": "2021-10-27T18:35:31.000Z",
+          "wordCount": 639,
+          "title": "How to Record a Phone Call on iPhone"
+        },
+        {
+          "id": "6179723c33422e07df365a14",
+          "author": null,
+          "description": "React is one of the most popular front-end frameworks for JavaScript. We just published another React course on the freeCodeCamp.org YouTube channel that will teach you how to use React by building an e-Commerce application with class components. The course covers topics such as component basics, rendering various items",
+          "link": "https://www.freecodecamp.org/news/learn-react-by-building-an-ecommerce-site/",
+          "publishedOn": "2021-10-27T15:43:42.000Z",
+          "wordCount": 352,
+          "title": "Learn React by Building an eCommerce Site"
+        },
+        {
+          "id": "617836d333422e07df364bdd",
+          "author": null,
+          "description": "You may have heard the terms descending and ascending order before, but what do they actually mean?  This article explains in plain English the basic differences between those two terms and gives an analogy that may help you distinguish one from the other.  What is descending order? When a series",
+          "link": "https://www.freecodecamp.org/news/descending-order-vs-ascending-order-what-does-it-mean/",
+          "publishedOn": "2021-10-27T15:21:30.000Z",
+          "wordCount": 724,
+          "title": "Descending Order VS Ascending Order – What Does it Mean?"
+        },
+        {
+          "id": "615d55d10d91c9077974d400",
+          "author": null,
+          "description": "When FaceTime came out in 2010, it became a popular way for friends and family to connect over live video. But when FaceTime is not working, it can be a frustrating experience.  In this article, I will provide some reasons why FaceTime might not be working and tips on how",
+          "link": "https://www.freecodecamp.org/news/why-is-my-facetime-not-working/",
+          "publishedOn": "2021-10-27T15:10:30.000Z",
+          "wordCount": 882,
+          "title": "Why is my FaceTime Not Working?"
+        },
+        {
+          "id": "61769fd2d48e1707b6d7afc5",
+          "author": null,
+          "description": "Flowbite is an open-source library of web components built with the utility-first classes from Tailwind CSS. It also includes interactive elements such as dropdowns, modals, datepickers. Tailwind CSS is a framework that I've been using a lot lately in my web-related projects because of how fast it is to build",
+          "link": "https://www.freecodecamp.org/news/tailwind-css-components-flowbite/",
+          "publishedOn": "2021-10-27T00:53:05.000Z",
+          "wordCount": 1368,
+          "title": "Tailwind CSS Components Tutorial – How to get started with Flowbite"
+        },
         {
           "id": "613711a5d6679a07b7d43dce",
           "author": null,
@@ -1333,6 +1432,186 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/nft-music-introduces-the-beginning-of-a-new-music-industry?source=rss",
+          "author": "Burr Media",
+          "description": "The potential for NFTs to tap into the music industry is unparalleled. Digital art has all the benefits the old world of art does not. NFTs can counter scarcity",
+          "link": "https://hackernoon.com/nft-music-introduces-the-beginning-of-a-new-music-industry?source=rss",
+          "publishedOn": "2021-10-27T06:52:45.000Z",
+          "wordCount": 900,
+          "title": "NFT Music Introduces the Beginning of a New Music Industry"
+        },
+        {
+          "id": "https://hackernoon.com/edtech-7-ways-to-be-better-at-stock-photography-in-online-education?source=rss",
+          "author": "Katerina Malyavkina",
+          "description": "Stop using bad stock photos in edtech with these 7 tips on how to get the most out of your imagery choices.",
+          "link": "https://hackernoon.com/edtech-7-ways-to-be-better-at-stock-photography-in-online-education?source=rss",
+          "publishedOn": "2021-10-27T05:54:31.000Z",
+          "wordCount": 1984,
+          "title": "EdTech: 7 Ways to Be Better at Stock Photography in Online Education"
+        },
+        {
+          "id": "https://hackernoon.com/hackernoon-adds-synthetic-voice-transcription-to-improve-reader-accessibility?source=rss",
+          "author": "Limarc Ambalina",
+          "description": "We've added full synthetic audio transcriptions to our stories. Our stories can now be read to you by one of our synthetic voices.",
+          "link": "https://hackernoon.com/hackernoon-adds-synthetic-voice-transcription-to-improve-reader-accessibility?source=rss",
+          "publishedOn": "2021-10-27T05:02:30.000Z",
+          "wordCount": 2558,
+          "title": "HackerNoon Adds Synthetic Voice Transcription to Improve Reader Accessibility"
+        },
+        {
+          "id": "https://hackernoon.com/the-metaverse-is-coming-and-there-will-be-millions-of-them?source=rss",
+          "author": "Daniel Marcinkowski",
+          "description": "The metaverse will change the Internet as we know it today. It will let us socialize, play, and work online in new, more immersive ways than ever before.",
+          "link": "https://hackernoon.com/the-metaverse-is-coming-and-there-will-be-millions-of-them?source=rss",
+          "publishedOn": "2021-10-27T04:45:12.000Z",
+          "wordCount": 855,
+          "title": "The Metaverse is Coming and There Will be Millions of Them"
+        },
+        {
+          "id": "https://hackernoon.com/making-games-more-accessible-with-accessibility-specialist-ian-hamilton?source=rss",
+          "author": "Jack Boreham",
+          "description": "In this AMA, Ian talks about his role in the gaming industry, what games he has worked on and how he sees the future of accessibility in gaming.",
+          "link": "https://hackernoon.com/making-games-more-accessible-with-accessibility-specialist-ian-hamilton?source=rss",
+          "publishedOn": "2021-10-27T04:32:16.000Z",
+          "wordCount": 3098,
+          "title": "Making Games More Accessible With Accessibility Specialist Ian Hamilton"
+        },
+        {
+          "id": "https://hackernoon.com/behind-the-scenes-of-an-ocr-receipt-and-invoice-api-engine?source=rss",
+          "author": "TAGGUN",
+          "description": "Find out how an accurate, adaptive and multi-lingual receipt OCR API engine works!",
+          "link": "https://hackernoon.com/behind-the-scenes-of-an-ocr-receipt-and-invoice-api-engine?source=rss",
+          "publishedOn": "2021-10-27T00:05:05.000Z",
+          "wordCount": 881,
+          "title": "Behind the Scenes of an OCR Receipt and Invoice API Engine"
+        },
+        {
+          "id": "https://hackernoon.com/why-data-is-pivotal-to-email-marketing?source=rss",
+          "author": "Efrat Vulfsons",
+          "description": "Email marketing today thrives on personalization. With Data, you have all it takes to “hit the bull’s eye\".",
+          "link": "https://hackernoon.com/why-data-is-pivotal-to-email-marketing?source=rss",
+          "publishedOn": "2021-10-26T23:24:45.000Z",
+          "wordCount": 1810,
+          "title": "Why Data is Pivotal to Email Marketing"
+        },
+        {
+          "id": "https://hackernoon.com/an-introduction-to-javascript-functions-for-beginners?source=rss",
+          "author": "Aravind Sanjeev",
+          "description": "A function is a set of statements that perform a specific task. It is one of the fundamental building blocks of JavaScript.",
+          "link": "https://hackernoon.com/an-introduction-to-javascript-functions-for-beginners?source=rss",
+          "publishedOn": "2021-10-26T23:07:52.000Z",
+          "wordCount": 857,
+          "title": "An Introduction to JavaScript Functions For Beginners"
+        },
+        {
+          "id": "https://hackernoon.com/bad-codebases-shoo-developers-away?source=rss",
+          "author": "Alex Omeyer",
+          "description": "In this software engineering survey, we learn about the state of technical debt and technical hiring.",
+          "link": "https://hackernoon.com/bad-codebases-shoo-developers-away?source=rss",
+          "publishedOn": "2021-10-26T22:45:15.000Z",
+          "wordCount": 903,
+          "title": "Bad Codebases Shoo Developers Away"
+        },
+        {
+          "id": "https://hackernoon.com/documenting-graphql-apis?source=rss",
+          "author": "Roy Derks",
+          "description": "The main reason for writing API documentation is to make your API understandable. For GraphQL there are many options. Both interactive and static documentation.",
+          "link": "https://hackernoon.com/documenting-graphql-apis?source=rss",
+          "publishedOn": "2021-10-26T22:33:41.000Z",
+          "wordCount": 869,
+          "title": "Documenting GraphQL APIs"
+        },
+        {
+          "id": "https://hackernoon.com/building-notification-systems-with-the-users-in-mind?source=rss",
+          "author": "Courier",
+          "description": "Before building a notification system, you should know the requirements for your users who will be creating the notifications for your end users.",
+          "link": "https://hackernoon.com/building-notification-systems-with-the-users-in-mind?source=rss",
+          "publishedOn": "2021-10-26T22:33:16.000Z",
+          "wordCount": 892,
+          "title": "Building Notification Systems with the End Users In Mind"
+        },
+        {
+          "id": "https://hackernoon.com/rem-and-em-in-css-explained?source=rss",
+          "author": "Mahesh Patidar",
+          "description": "em and rem both are known as relative units in CSS. You've probably been using em and rem units now for a while already but might not know what they actually do",
+          "link": "https://hackernoon.com/rem-and-em-in-css-explained?source=rss",
+          "publishedOn": "2021-10-26T22:08:08.000Z",
+          "wordCount": 868,
+          "title": "REM and EM in CSS Explained"
+        },
+        {
+          "id": "https://hackernoon.com/the-past-present-and-future-of-virtual-reality-gaming?source=rss",
+          "author": "Jack Boreham",
+          "description": "This Slogging thread by Jack Boreham, Adrian Morales, Limarc Ambalina, Ellen Stevens, Mónica Freitas, Zaeem Shoaib and Nicolas Ng occurred in slogging's official #gaming channel, and has been edited for readability.",
+          "link": "https://hackernoon.com/the-past-present-and-future-of-virtual-reality-gaming?source=rss",
+          "publishedOn": "2021-10-26T21:32:01.000Z",
+          "wordCount": 2745,
+          "title": "The Past, Present and Future of Virtual Reality Gaming"
+        },
+        {
+          "id": "https://hackernoon.com/9-of-the-most-popular-headless-cms-in-2021?source=rss",
+          "author": "kat",
+          "description": "Check the list of the best headless cms on the market and learn more about how Headless CMS Can Help You Build Fast",
+          "link": "https://hackernoon.com/9-of-the-most-popular-headless-cms-in-2021?source=rss",
+          "publishedOn": "2021-10-26T21:15:39.000Z",
+          "wordCount": 3652,
+          "title": "9 Of The Most Popular Headless CMS' In 2021"
+        },
+        {
+          "id": "https://hackernoon.com/the-evolution-of-crypto-fundraising-ido-as-an-alternative?source=rss",
+          "author": "Golubev_Od_UA",
+          "description": "it's time to tell how IDO works, how it differs from both ICO and IEO. It is also worth pointing out the pros and cons of IDO",
+          "link": "https://hackernoon.com/the-evolution-of-crypto-fundraising-ido-as-an-alternative?source=rss",
+          "publishedOn": "2021-10-26T20:58:23.000Z",
+          "wordCount": 3843,
+          "title": "The Evolution of Crypto Fundraising: IDO as an Alternative?"
+        },
+        {
+          "id": "https://hackernoon.com/introducing-the-triple-layer-business-model-canvas?source=rss",
+          "author": "Adrien Book",
+          "description": "The Business Model Canvas is a great tool for entrepreneurs, yet one that is not without flaws.",
+          "link": "https://hackernoon.com/introducing-the-triple-layer-business-model-canvas?source=rss",
+          "publishedOn": "2021-10-26T19:18:02.000Z",
+          "wordCount": 3133,
+          "title": "Introducing The Triple Layer Business Model Canvas"
+        },
+        {
+          "id": "https://hackernoon.com/introduction-to-double-spending-what-it-is-how-it-works-and-how-to-prevent-it?source=rss",
+          "author": "Bybit",
+          "description": "A blockchain is a decentralized ledger that stores transactions. It guarantees mutual trust and a collective consensus among all partners involved.",
+          "link": "https://hackernoon.com/introduction-to-double-spending-what-it-is-how-it-works-and-how-to-prevent-it?source=rss",
+          "publishedOn": "2021-10-26T16:03:15.000Z",
+          "wordCount": 957,
+          "title": "Introduction to Double-Spending: What It Is, How It Works, and How to Prevent It"
+        },
+        {
+          "id": "https://hackernoon.com/react-vs-javascript-why-react-web-apps-are-better-than-plain-websites?source=rss",
+          "author": "Ashutosh Mishra",
+          "description": "With single-page apps taking over the world, this is the perfect time to know how React won the battle of React vs JavaScript and why you should care.",
+          "link": "https://hackernoon.com/react-vs-javascript-why-react-web-apps-are-better-than-plain-websites?source=rss",
+          "publishedOn": "2021-10-26T15:27:44.000Z",
+          "wordCount": 835,
+          "title": "React vs. JavaScript: Why React Web Apps Are Better than Plain Websites"
+        },
+        {
+          "id": "https://hackernoon.com/documenting-react-components-5-open-source-tools-you-should-know?source=rss",
+          "author": "Sankalp Swami",
+          "description": "5 Open Source tools for documenting your React component.",
+          "link": "https://hackernoon.com/documenting-react-components-5-open-source-tools-you-should-know?source=rss",
+          "publishedOn": "2021-10-26T14:30:48.000Z",
+          "wordCount": 815,
+          "title": "Documenting React Components: 5 Open Source Tools You Should Know"
+        },
+        {
+          "id": "https://hackernoon.com/enter-the-metaverse-v2021?source=rss",
+          "author": "Abhijoy Sarkar",
+          "description": "A metaverse is an extended reality which may or may not resemble the physical world. A shared realm where we spend a lot of our time, energy and resources.",
+          "link": "https://hackernoon.com/enter-the-metaverse-v2021?source=rss",
+          "publishedOn": "2021-10-26T14:01:31.000Z",
+          "wordCount": 897,
+          "title": "Enter the Metaverse v2021"
+        },
         {
           "id": "https://hackernoon.com/pandas-refresher-using-join-on-tables?source=rss",
           "author": "Svitla Systems",
@@ -3821,15 +4100,6 @@
           "publishedOn": "2021-08-05T14:00:00.000Z",
           "wordCount": 3523,
           "title": "Sustainable Web Design, An Excerpt"
-        },
-        {
-          "id": "https://alistapart.com/article/voice-content-and-usability/",
-          "author": "by",
-          "description": "We’ve been having conversations for thousands of years. Whether to convey information, conduct transactions, or simply to check in on one another, people have yammered away, chattering and gesticulating, through spoken conversation for countless generations. Only in the last few millennia have we begun to commit our conversations to writing, and only in the last few decades have we begun to outsource them to the computer, a machine that shows much more affinity for written correspondence than for the slangy vagaries of spoken language.\nComputers have trouble because between spoken and written language, speech is more primordial. To have successful conversations with us, machines must grapple with the messiness of human speech: the disfluencies and pauses, the gestures and body language, an…",
-          "link": "https://alistapart.com/article/voice-content-and-usability/",
-          "publishedOn": "2021-07-29T13:00:00.000Z",
-          "wordCount": 3851,
-          "title": "Voice Content and Usability"
         }
       ]
     },
@@ -3838,6 +4108,16 @@
       "feedUrl": "http://feeds.feedburner.com/helloacm?format=xml",
       "siteUrl": "https://helloacm.com",
       "articles": [
+        {
+          "id": "https://helloacm.com/?p=147348",
+          "author": "ACMer",
+          "description": "Given N items, we know there are total permutation – so if we do a shuffling, each permutation needs to be in theory probability. If we swap two elements N times, then each element need to be...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-the-fisher-yates-random-shuffle-algorithm-in-python/",
+          "publishedOn": "2021-10-27T20:45:27.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – The Fisher–Yates Random Shuffle Algorithm in Python",
+          "itunes": {}
+        },
         {
           "id": "https://helloacm.com/?p=147324",
           "author": "ACMer",
@@ -4571,6 +4851,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=503437",
+          "author": "Lewin Day",
+          "description": "Something a lot of people don’t realise about modern smartphones is that many of them have fully-featured USB interfaces. Perhaps the best of all is the Pinephone, which is a …read more",
+          "link": "https://hackaday.com/2021/10/27/a-tidy-clamshell-keyboard-for-the-pinephone/",
+          "publishedOn": "2021-10-27T23:01:29.000Z",
+          "wordCount": 1086,
+          "title": "A Tidy Clamshell Keyboard for the Pinephone"
+        },
+        {
+          "id": "https://hackaday.com/?p=503290",
+          "author": "Dan Maloney",
+          "description": "Good news, everyone! Security researcher [Mordechai Guri] has given us yet another reason to look askance at our computers and wonder who might be sniffing in our private doings. This …read more",
+          "link": "https://hackaday.com/2021/10/27/ethernet-cable-turned-into-antenna-to-exploit-air-gapped-computers/",
+          "publishedOn": "2021-10-27T20:01:20.000Z",
+          "wordCount": 2043,
+          "title": "Ethernet Cable Turned into Antenna to Exploit Air-Gapped Computers"
+        },
+        {
+          "id": "https://hackaday.com/?p=502209",
+          "author": "Dan Maloney",
+          "description": "It’s common wisdom that the lathe is the essential machine tool, and the only one that can make copies of itself. While we won’t argue the primacy of the lathe …read more",
+          "link": "https://hackaday.com/2021/10/27/heavy-metal-lathe-build-doesnt-spare-the-steel/",
+          "publishedOn": "2021-10-27T18:31:05.000Z",
+          "wordCount": 2002,
+          "title": "Heavy Metal Lathe Build Doesn’t Spare the Steel"
+        },
+        {
+          "id": "https://hackaday.com/?p=502836",
+          "author": "Tom Nardi",
+          "description": "To say the Heathkit name is well known among Hackaday readers would be something of an understatement. Their legendary kits launched an untold number of electronics hobbies, and ultimately, plenty …read more",
+          "link": "https://hackaday.com/2021/10/27/vcf-east-2021-preserving-heathkits-8-bit-computers/",
+          "publishedOn": "2021-10-27T17:01:01.000Z",
+          "wordCount": 2801,
+          "title": "VCF East 2021: Preserving Heathkit’s 8-Bit Computers"
+        },
+        {
+          "id": "https://hackaday.com/?p=502583",
+          "author": "Dave Rowntree",
+          "description": "It’s widely accepted that the invention of the printing press by Gutenberg in the 15th Century was the event that essentially enabled the development of the modern world, allowing access …read more",
+          "link": "https://hackaday.com/2021/10/27/3d-printed-printing-plates-made-using-modern-tools/",
+          "publishedOn": "2021-10-27T15:31:19.000Z",
+          "wordCount": 1778,
+          "title": "3D Printed Printing Plates Made Using Modern Tools"
+        },
+        {
+          "id": "https://hackaday.com/?p=501293",
+          "author": "Al Williams",
+          "description": "I’m always amazed that technology can totally wipe out industries. Sure, some people make a living making horseshoes, for example, but the demand for them is way down compared to …read more",
+          "link": "https://hackaday.com/2021/10/27/tech-in-plain-sight-air-conditioning/",
+          "publishedOn": "2021-10-27T14:00:57.000Z",
+          "wordCount": 3807,
+          "title": "Tech in Plain Sight: Air Conditioning"
+        },
+        {
+          "id": "https://hackaday.com/?p=502824",
+          "author": "Kristina Panos",
+          "description": "It’s fall in the northern hemisphere, so [Mike Rankin]’s kids are back in school and have returned to consulting him every morning about the weather and what they should wear. …read more",
+          "link": "https://hackaday.com/2021/10/27/esp32-clock-takes-time-to-give-weather-info-too/",
+          "publishedOn": "2021-10-27T11:01:43.000Z",
+          "wordCount": 1424,
+          "title": "ESP32 Clock Takes Time to Give Weather Info, Too"
+        },
         {
           "id": "https://hackaday.com/?p=501752",
           "author": "Kristina Panos",
@@ -6217,6 +6560,76 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "0F2306BB-5E8F-4B44-9731436A7EE34C11",
+          "author": "Anne C. Mulkern, E&E News",
+          "description": "The atmospheric river that soaked parts of the state is an example of increasing weather volatility\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/climate-change-magnified-recent-california-deluge/",
+          "publishedOn": "2021-10-27T18:00:00.000Z",
+          "wordCount": null,
+          "title": "Climate Change Magnified Recent California Deluge",
+          "itunes": {}
+        },
+        {
+          "id": "4B8392C5-209D-4539-8FC907E87ABCE29D",
+          "author": "John Horgan",
+          "description": "Tech companies seek to create far more immersive digital environments, possibly mediated by brain implants\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/should-big-techs-plan-for-a-metaverse-scare-us/",
+          "publishedOn": "2021-10-27T16:30:00.000Z",
+          "wordCount": null,
+          "title": "Should Big Tech's Plan for a Metaverse Scare Us?",
+          "itunes": {}
+        },
+        {
+          "id": "613B78E9-ACB8-4FE8-BC366D78C317C86C",
+          "author": "Claudia Wallis",
+          "description": "Over-the-counter analgesics can be quite effective, but high doses have downsides\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/advil-tylenol-and-similar-painkillers-used-to-replace-opioids-carry-risks/",
+          "publishedOn": "2021-10-27T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Advil, Tylenol and Similar Painkillers Used to Replace Opioids Carry Risks",
+          "itunes": {}
+        },
+        {
+          "id": "08EDBF2F-B626-4A5B-A91D55ABE66BABBE",
+          "author": "Gary Stix",
+          "description": "Our physical safety perimeters have widened, a study suggests\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/covid-expanded-the-boundaries-of-personal-space-maybe-for-good1/",
+          "publishedOn": "2021-10-27T14:00:00.000Z",
+          "wordCount": null,
+          "title": "COVID Expanded the Boundaries of Personal Space--Maybe for Good",
+          "itunes": {}
+        },
+        {
+          "id": "26F43F2D-E999-410E-B69B9573E667B819",
+          "author": "Ryan Reid",
+          "description": "Scientific American has curated a flesh-ripping, bone-crunching two hours of metal tracks inspired by science\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/heavy-metal-science-songs-a-spotify-playlist-for-halloween/",
+          "publishedOn": "2021-10-27T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Heavy Metal Science Songs: A Spotify Playlist for Halloween",
+          "itunes": {}
+        },
+        {
+          "id": "74775792-281C-4FD1-9B33AAB3EF872496",
+          "author": "The Editors",
+          "description": "A crop of bad bills hobbles health agencies and makes it harder to stop disease\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/new-state-laws-harm-public-health-by-putting-politicians-in-charge-of-medicine/",
+          "publishedOn": "2021-10-27T12:30:00.000Z",
+          "wordCount": null,
+          "title": "New State Laws Harm Public Health by Putting Politicians in Charge of Medicine",
+          "itunes": {}
+        },
+        {
+          "id": "97C6CFBB-EC08-4A66-945B9F093C7E60BE",
+          "author": "Mark Fischetti",
+          "description": "Aggressive policies, now, can extend the deadline and prevent the worst catastrophes\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/theres-still-time-to-fix-climate-about-11-years/",
+          "publishedOn": "2021-10-27T10:45:00.000Z",
+          "wordCount": null,
+          "title": "There's Still Time to Fix Climate--About 11 Years",
+          "itunes": {}
+        },
+        {
           "id": "6744A201-EC9A-46DE-A0C204722E2D830E",
           "author": "Josh Fischman",
           "description": "A new book reveals how quiet scientists, big drug companies and the Trump administration raced to meet the COVID threat—and why kids are just now being considered for shots\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -7861,6 +8274,60 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=146804",
+          "author": "Mike Vizard",
+          "description": "During the online Intel Innovation 2021 event, Intel announced today a unified Developer Zone for accessing application programming interfaces (APIs) that it makes available via a oneAPI toolkit to IT teams that want to more easily invoke a wide range of processor types and classes. At the same time, the company also revealed it is […]\nThe post Intel Woos DevOps Teams with API and Processor Advances appeared first on DevOps.com.",
+          "link": "https://devops.com/intel-woos-devops-teams-with-api-and-processor-advances/",
+          "publishedOn": "2021-10-27T16:46:34.000Z",
+          "wordCount": 1044,
+          "title": "Intel Woos DevOps Teams with API and Processor Advances"
+        },
+        {
+          "id": "https://devops.com/?p=146795",
+          "author": "Mike Vizard",
+          "description": "During the online GitHub Universe 2021 conference, GitHub today unveiled a bevy of updates intended to boost developer productivity by making it easier for developers to write code faster and collaborate more easily. The GitHub Copilot tool that GitHub developed in collaboration with OpenAI, a research and development lab, to help developers write better code […]\nThe post GitHub Expands Developer Productivity Tools Portfolio appeared first on DevOps.com.",
+          "link": "https://devops.com/github-expands-developer-productivity-tools-portfolio/",
+          "publishedOn": "2021-10-27T15:38:35.000Z",
+          "wordCount": 1001,
+          "title": "GitHub Expands Developer Productivity Tools Portfolio"
+        },
+        {
+          "id": "https://devops.com/?p=146776",
+          "author": "Mike Vizard",
+          "description": "During an online BMC Exchange event, BMC announced it expanded its portfolio of IT management offerings as part of an ongoing effort to unify traditional IT service management and DevOps processes under an integrated ServiceOps framework. The latest additions to the BMC portfolio includes an update to its Control-M workload automation platform that adds observability […]\nThe post BMC Looks to Advance ServiceOps Approach to Managing IT appeared first on DevOps.com.",
+          "link": "https://devops.com/bmc-looks-to-advance-serviceops-approach-to-managing-it/",
+          "publishedOn": "2021-10-27T14:47:07.000Z",
+          "wordCount": 995,
+          "title": "BMC Looks to Advance ServiceOps Approach to Managing IT"
+        },
+        {
+          "id": "https://devops.com/?p=146778",
+          "author": "Mike Vizard",
+          "description": "Sysdig announced today that it is adding a Cloud Infrastructure Entitlements Management (CIEM) capability to its Secure DevOps platform as part of an effort to better enforce least-privilege access within the context of a larger zero-trust approach to cybersecurity. Nick Fisher, vice president of product marketing for Sysdig, said this addition to the company’s core […]\nThe post Sysdig Adds Cloud Access Controls to DevSecOps Platform appeared first on DevOps.com.",
+          "link": "https://devops.com/sysdig-adds-cloud-access-controls-to-devsecops-platform/",
+          "publishedOn": "2021-10-27T13:47:34.000Z",
+          "wordCount": 1018,
+          "title": "Sysdig Adds Cloud Access Controls to DevSecOps Platform"
+        },
+        {
+          "id": "https://devops.com/?p=146764",
+          "author": "JJ Tang",
+          "description": "As more and more IT organizations pivot from strategies rooted in monitoring to ones that aim to achieve observability, one of the first questions that teams need to answer is, “What is the difference between the two?” That’s a somewhat loaded question because there are some differences of opinion out there regarding what, exactly, distinguishes […]\nThe post Observability Vs. Monitoring: What’s the Difference? appeared first on DevOps.com.",
+          "link": "https://devops.com/observability-vs-monitoring-whats-the-difference/",
+          "publishedOn": "2021-10-27T07:00:32.000Z",
+          "wordCount": 970,
+          "title": "Observability Vs. Monitoring: What’s the Difference?"
+        },
+        {
+          "id": "https://devops.com/?p=146734",
+          "author": "Don Macvittie",
+          "description": "Most of us are not FAANG, and we shouldn’t act like we are. Instead of using that, I’m going to use the term we used to use to refer to them: “Web Monsters”, which isn’t 100% accurate, but includes more than just the five FAANG members (Facebook, Amazon, Apple, Netflix and Google) for this article. […]\nThe post Hiring When You’re Not FAANG appeared first on DevOps.com.",
+          "link": "https://devops.com/hiring-when-youre-not-faang/",
+          "publishedOn": "2021-10-27T06:30:14.000Z",
+          "wordCount": 1373,
+          "title": "Hiring When You’re Not FAANG"
+        },
+        {
           "id": "https://devops.com/?p=146766",
           "author": "Mike Vizard",
           "description": "Codenotary today unfurled a free notarization and verification service for open source artifacts and containers to enable IT organizations to track the provenance of the components that make up their applications. Dennis Zimmer, Codenotary CTO, said the Community Attestation Service is based on an immutable open source immudb database that cryptographically attaches an identity to […]\nThe post Codenotary Uses Immutable Database to Verify Software Artifacts appeared first on DevOps.com.",
@@ -8534,6 +9001,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=109786",
+          "author": "Pradeep Mutalik",
+          "description": "The transcendental number π is as familiar as it is ubiquitous, but how does Euler’s number e transcend the ordinary?             \nThe post Where Transcendental Numbers Hide in Everyday Math first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/where-transcendental-numbers-hide-in-everyday-math-20211027/",
+          "publishedOn": "2021-10-27T13:37:40.000Z",
+          "wordCount": null,
+          "title": "Where Transcendental Numbers Hide in Everyday Math",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=109783",
           "author": "Kevin Hartnett",
           "description": "Watanabe invented a new way of distinguishing shapes on his way to solving the last open case of the Smale conjecture, a central question in topology about symmetries of the sphere.            \nThe post How Tadayuki Watanabe Disproved a Major Conjecture About Spheres first appeared on Quanta Magazine",
@@ -8730,6 +9207,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=65887",
+          "author": "Nathan Yau",
+          "description": "For Scientific American, Cédric Scherer and Georgios Karamanis charted drought extent by region…\nTags: drought, Scientific American",
+          "link": "https://flowingdata.com/2021/10/27/drought-extent-by-region/",
+          "publishedOn": "2021-10-27T16:21:05.000Z",
+          "wordCount": 308,
+          "title": "Drought extent by region"
+        },
         {
           "id": "https://flowingdata.com/?p=65873",
           "author": "Nathan Yau",

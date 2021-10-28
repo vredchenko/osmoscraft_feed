@@ -2,10 +2,467 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2021-10-27T00:39:19.320Z</updated>
+    <updated>2021-10-28T00:39:45.836Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sticky Definition Lists]]></title>
+        <id>https://css-tricks.com/?p=354777</id>
+        <link href="https://css-tricks.com/sticky-definition-lists/"/>
+        <updated>2021-10-27T23:17:18.000Z</updated>
+        <summary type="html"><![CDATA[I ran across this 30 seconds of code website the other day, and they have a CSS section which is really good! The first example snippet I looked at was this “floating section headers” example, reminding me yet again how …
+The post Sticky Definition Lists appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Tidy Clamshell Keyboard for the Pinephone]]></title>
+        <id>https://hackaday.com/?p=503437</id>
+        <link href="https://hackaday.com/2021/10/27/a-tidy-clamshell-keyboard-for-the-pinephone/"/>
+        <updated>2021-10-27T23:01:29.000Z</updated>
+        <summary type="html"><![CDATA[Something a lot of people don’t realise about modern smartphones is that many of them have fully-featured USB interfaces. Perhaps the best of all is the Pinephone, which is a …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Manage Encryption at Scale with Envelope Encryption &amp; Key Management Systems]]></title>
+        <id>61772e2833422e07df36437b</id>
+        <link href="https://www.freecodecamp.org/news/envelope-encryption/"/>
+        <updated>2021-10-27T22:52:59.000Z</updated>
+        <summary type="html"><![CDATA[Recently at work, I came across an interesting method to handle encryption at scale called envelope encryption.  First of all, it increases security and helps you ease out the management of encryption keys. But it's also a highly recommended pattern by PCI-DSS (Security Standard for Credit Card Processing) and results]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – The Fisher–Yates Random Shuffle Algorithm in Python]]></title>
+        <id>https://helloacm.com/?p=147348</id>
+        <link href="https://helloacm.com/teaching-kids-programming-the-fisher-yates-random-shuffle-algorithm-in-python/"/>
+        <updated>2021-10-27T20:45:27.000Z</updated>
+        <summary type="html"><![CDATA[Given N items, we know there are total permutation – so if we do a shuffling, each permutation needs to be in theory probability. If we swap two elements N times, then each element need to be...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Items Should Be Configurable in an Application?]]></title>
+        <id>61798c3d33422e07df365d30</id>
+        <link href="https://www.freecodecamp.org/news/what-should-be-configurable-in-apps/"/>
+        <updated>2021-10-27T20:30:15.000Z</updated>
+        <summary type="html"><![CDATA[Configuration is an essential part of every application. It helps enhance an application's flexibility and maintainability.  With this in mind, it's very important that developers are able to correctly identify what items should be in configuration. In this article, I'll walk you through 8 items that should be configurable in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement and Style the Dialog Element]]></title>
+        <id>https://css-tricks.com/?p=354857</id>
+        <link href="https://css-tricks.com/how-to-implement-and-style-the-dialog-element/"/>
+        <updated>2021-10-27T20:17:48.000Z</updated>
+        <summary type="html"><![CDATA[A look from Christian Kozalla on the <dialog> HTML element and using it to create a nice-looking and accessible modal. 
+CodePen Embed Fallback
+I’m attracted to the <dialog> element as it’s one of those “you get a lot for free” …
+The post How to Implement and Style the Dialog Element appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What to Know Before Taking Google&#x27;s Machine Learning or Data Science Course]]></title>
+        <id>617440c7d48e1707b6d7a054</id>
+        <link href="https://www.freecodecamp.org/news/how-to-prepare-for-googles-machine-learning-data-science-course/"/>
+        <updated>2021-10-27T20:03:29.000Z</updated>
+        <summary type="html"><![CDATA[Whether you decide to take Andrew Ng’s Machine Learning and Deep Learning course on YouTube or any Data Science bootcamp, you will need a certain degree of mathematical and statistical knowledge.  This will not only help you understand basic ML/DS concepts, but it will also help you make]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethernet Cable Turned into Antenna to Exploit Air-Gapped Computers]]></title>
+        <id>https://hackaday.com/?p=503290</id>
+        <link href="https://hackaday.com/2021/10/27/ethernet-cable-turned-into-antenna-to-exploit-air-gapped-computers/"/>
+        <updated>2021-10-27T20:01:20.000Z</updated>
+        <summary type="html"><![CDATA[Good news, everyone! Security researcher [Mordechai Guri] has given us yet another reason to look askance at our computers and wonder who might be sniffing in our private doings. This …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Record a Phone Call on iPhone]]></title>
+        <id>615d55910d91c9077974d3e8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-record-a-phone-call-on-iphone/"/>
+        <updated>2021-10-27T18:35:31.000Z</updated>
+        <summary type="html"><![CDATA[There are a few ways to record your phone calls on your iPhone. But it is really important that you ask for the other caller's permission first before making a recording. Is there a built in recording option? There is no built in option on iPhone to record your phone]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heavy Metal Lathe Build Doesn’t Spare the Steel]]></title>
+        <id>https://hackaday.com/?p=502209</id>
+        <link href="https://hackaday.com/2021/10/27/heavy-metal-lathe-build-doesnt-spare-the-steel/"/>
+        <updated>2021-10-27T18:31:05.000Z</updated>
+        <summary type="html"><![CDATA[It’s common wisdom that the lathe is the essential machine tool, and the only one that can make copies of itself. While we won’t argue the primacy of the lathe …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Climate Change Magnified Recent California Deluge]]></title>
+        <id>0F2306BB-5E8F-4B44-9731436A7EE34C11</id>
+        <link href="https://www.scientificamerican.com/article/climate-change-magnified-recent-california-deluge/"/>
+        <updated>2021-10-27T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The atmospheric river that soaked parts of the state is an example of increasing weather volatility
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Anne C. Mulkern, E&amp;E News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VCF East 2021: Preserving Heathkit’s 8-Bit Computers]]></title>
+        <id>https://hackaday.com/?p=502836</id>
+        <link href="https://hackaday.com/2021/10/27/vcf-east-2021-preserving-heathkits-8-bit-computers/"/>
+        <updated>2021-10-27T17:01:01.000Z</updated>
+        <summary type="html"><![CDATA[To say the Heathkit name is well known among Hackaday readers would be something of an understatement. Their legendary kits launched an untold number of electronics hobbies, and ultimately, plenty …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Woos DevOps Teams with API and Processor Advances]]></title>
+        <id>https://devops.com/?p=146804</id>
+        <link href="https://devops.com/intel-woos-devops-teams-with-api-and-processor-advances/"/>
+        <updated>2021-10-27T16:46:34.000Z</updated>
+        <summary type="html"><![CDATA[During the online Intel Innovation 2021 event, Intel announced today a unified Developer Zone for accessing application programming interfaces (APIs) that it makes available via a oneAPI toolkit to IT teams that want to more easily invoke a wide range of processor types and classes. At the same time, the company also revealed it is […]
+The post Intel Woos DevOps Teams with API and Processor Advances appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Mike Vizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should Big Tech's Plan for a Metaverse Scare Us?]]></title>
+        <id>4B8392C5-209D-4539-8FC907E87ABCE29D</id>
+        <link href="https://www.scientificamerican.com/article/should-big-techs-plan-for-a-metaverse-scare-us/"/>
+        <updated>2021-10-27T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Tech companies seek to create far more immersive digital environments, possibly mediated by brain implants
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>John Horgan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drought extent by region]]></title>
+        <id>https://flowingdata.com/?p=65887</id>
+        <link href="https://flowingdata.com/2021/10/27/drought-extent-by-region/"/>
+        <updated>2021-10-27T16:21:05.000Z</updated>
+        <summary type="html"><![CDATA[For Scientific American, Cédric Scherer and Georgios Karamanis charted drought extent by region…
+Tags: drought, Scientific American]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn React by Building an eCommerce Site]]></title>
+        <id>6179723c33422e07df365a14</id>
+        <link href="https://www.freecodecamp.org/news/learn-react-by-building-an-ecommerce-site/"/>
+        <updated>2021-10-27T15:43:42.000Z</updated>
+        <summary type="html"><![CDATA[React is one of the most popular front-end frameworks for JavaScript. We just published another React course on the freeCodeCamp.org YouTube channel that will teach you how to use React by building an e-Commerce application with class components. The course covers topics such as component basics, rendering various items]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Expands Developer Productivity Tools Portfolio]]></title>
+        <id>https://devops.com/?p=146795</id>
+        <link href="https://devops.com/github-expands-developer-productivity-tools-portfolio/"/>
+        <updated>2021-10-27T15:38:35.000Z</updated>
+        <summary type="html"><![CDATA[During the online GitHub Universe 2021 conference, GitHub today unveiled a bevy of updates intended to boost developer productivity by making it easier for developers to write code faster and collaborate more easily. The GitHub Copilot tool that GitHub developed in collaboration with OpenAI, a research and development lab, to help developers write better code […]
+The post GitHub Expands Developer Productivity Tools Portfolio appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Mike Vizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printed Printing Plates Made Using Modern Tools]]></title>
+        <id>https://hackaday.com/?p=502583</id>
+        <link href="https://hackaday.com/2021/10/27/3d-printed-printing-plates-made-using-modern-tools/"/>
+        <updated>2021-10-27T15:31:19.000Z</updated>
+        <summary type="html"><![CDATA[It’s widely accepted that the invention of the printing press by Gutenberg in the 15th Century was the event that essentially enabled the development of the modern world, allowing access …read more]]></summary>
+        <author>
+            <name>Dave Rowntree</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Descending Order VS Ascending Order – What Does it Mean?]]></title>
+        <id>617836d333422e07df364bdd</id>
+        <link href="https://www.freecodecamp.org/news/descending-order-vs-ascending-order-what-does-it-mean/"/>
+        <updated>2021-10-27T15:21:30.000Z</updated>
+        <summary type="html"><![CDATA[You may have heard the terms descending and ascending order before, but what do they actually mean?  This article explains in plain English the basic differences between those two terms and gives an analogy that may help you distinguish one from the other.  What is descending order? When a series]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why is my FaceTime Not Working?]]></title>
+        <id>615d55d10d91c9077974d400</id>
+        <link href="https://www.freecodecamp.org/news/why-is-my-facetime-not-working/"/>
+        <updated>2021-10-27T15:10:30.000Z</updated>
+        <summary type="html"><![CDATA[When FaceTime came out in 2010, it became a popular way for friends and family to connect over live video. But when FaceTime is not working, it can be a frustrating experience.  In this article, I will provide some reasons why FaceTime might not be working and tips on how]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advil, Tylenol and Similar Painkillers Used to Replace Opioids Carry Risks]]></title>
+        <id>613B78E9-ACB8-4FE8-BC366D78C317C86C</id>
+        <link href="https://www.scientificamerican.com/article/advil-tylenol-and-similar-painkillers-used-to-replace-opioids-carry-risks/"/>
+        <updated>2021-10-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Over-the-counter analgesics can be quite effective, but high doses have downsides
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Claudia Wallis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BMC Looks to Advance ServiceOps Approach to Managing IT]]></title>
+        <id>https://devops.com/?p=146776</id>
+        <link href="https://devops.com/bmc-looks-to-advance-serviceops-approach-to-managing-it/"/>
+        <updated>2021-10-27T14:47:07.000Z</updated>
+        <summary type="html"><![CDATA[During an online BMC Exchange event, BMC announced it expanded its portfolio of IT management offerings as part of an ongoing effort to unify traditional IT service management and DevOps processes under an integrated ServiceOps framework. The latest additions to the BMC portfolio includes an update to its Control-M workload automation platform that adds observability […]
+The post BMC Looks to Advance ServiceOps Approach to Managing IT appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Mike Vizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing Vue Components With Cypress]]></title>
+        <id>https://css-tricks.com/?p=353842</id>
+        <link href="https://css-tricks.com/testing-vue-components-with-cypress/"/>
+        <updated>2021-10-27T14:25:04.000Z</updated>
+        <summary type="html"><![CDATA[Cypress is an automated test runner for browser-based applications and pages. I’ve used it for years to write end-to-end tests for web projects, and was happy to see recently that individual component testing had come to Cypress. I work on …
+The post Testing Vue Components With Cypress appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Mark Noonan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tech in Plain Sight: Air Conditioning]]></title>
+        <id>https://hackaday.com/?p=501293</id>
+        <link href="https://hackaday.com/2021/10/27/tech-in-plain-sight-air-conditioning/"/>
+        <updated>2021-10-27T14:00:57.000Z</updated>
+        <summary type="html"><![CDATA[I’m always amazed that technology can totally wipe out industries. Sure, some people make a living making horseshoes, for example, but the demand for them is way down compared to …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COVID Expanded the Boundaries of Personal Space--Maybe for Good]]></title>
+        <id>08EDBF2F-B626-4A5B-A91D55ABE66BABBE</id>
+        <link href="https://www.scientificamerican.com/article/covid-expanded-the-boundaries-of-personal-space-maybe-for-good1/"/>
+        <updated>2021-10-27T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Our physical safety perimeters have widened, a study suggests
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Gary Stix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sysdig Adds Cloud Access Controls to DevSecOps Platform]]></title>
+        <id>https://devops.com/?p=146778</id>
+        <link href="https://devops.com/sysdig-adds-cloud-access-controls-to-devsecops-platform/"/>
+        <updated>2021-10-27T13:47:34.000Z</updated>
+        <summary type="html"><![CDATA[Sysdig announced today that it is adding a Cloud Infrastructure Entitlements Management (CIEM) capability to its Secure DevOps platform as part of an effort to better enforce least-privilege access within the context of a larger zero-trust approach to cybersecurity. Nick Fisher, vice president of product marketing for Sysdig, said this addition to the company’s core […]
+The post Sysdig Adds Cloud Access Controls to DevSecOps Platform appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Mike Vizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where Transcendental Numbers Hide in Everyday Math]]></title>
+        <id>https://www.quantamagazine.org/?p=109786</id>
+        <link href="https://www.quantamagazine.org/where-transcendental-numbers-hide-in-everyday-math-20211027/"/>
+        <updated>2021-10-27T13:37:40.000Z</updated>
+        <summary type="html"><![CDATA[The transcendental number π is as familiar as it is ubiquitous, but how does Euler’s number e transcend the ordinary?             
+The post Where Transcendental Numbers Hide in Everyday Math first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Pradeep Mutalik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heavy Metal Science Songs: A Spotify Playlist for Halloween]]></title>
+        <id>26F43F2D-E999-410E-B69B9573E667B819</id>
+        <link href="https://www.scientificamerican.com/article/heavy-metal-science-songs-a-spotify-playlist-for-halloween/"/>
+        <updated>2021-10-27T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientific American has curated a flesh-ripping, bone-crunching two hours of metal tracks inspired by science
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Ryan Reid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New State Laws Harm Public Health by Putting Politicians in Charge of Medicine]]></title>
+        <id>74775792-281C-4FD1-9B33AAB3EF872496</id>
+        <link href="https://www.scientificamerican.com/article/new-state-laws-harm-public-health-by-putting-politicians-in-charge-of-medicine/"/>
+        <updated>2021-10-27T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A crop of bad bills hobbles health agencies and makes it harder to stop disease
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>The Editors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ESP32 Clock Takes Time to Give Weather Info, Too]]></title>
+        <id>https://hackaday.com/?p=502824</id>
+        <link href="https://hackaday.com/2021/10/27/esp32-clock-takes-time-to-give-weather-info-too/"/>
+        <updated>2021-10-27T11:01:43.000Z</updated>
+        <summary type="html"><![CDATA[It’s fall in the northern hemisphere, so [Mike Rankin]’s kids are back in school and have returned to consulting him every morning about the weather and what they should wear. …read more]]></summary>
+        <author>
+            <name>Kristina Panos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There's Still Time to Fix Climate--About 11 Years]]></title>
+        <id>97C6CFBB-EC08-4A66-945B9F093C7E60BE</id>
+        <link href="https://www.scientificamerican.com/article/theres-still-time-to-fix-climate-about-11-years/"/>
+        <updated>2021-10-27T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Aggressive policies, now, can extend the deadline and prevent the worst catastrophes
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Mark Fischetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Observability Vs. Monitoring: What’s the Difference?]]></title>
+        <id>https://devops.com/?p=146764</id>
+        <link href="https://devops.com/observability-vs-monitoring-whats-the-difference/"/>
+        <updated>2021-10-27T07:00:32.000Z</updated>
+        <summary type="html"><![CDATA[As more and more IT organizations pivot from strategies rooted in monitoring to ones that aim to achieve observability, one of the first questions that teams need to answer is, “What is the difference between the two?” That’s a somewhat loaded question because there are some differences of opinion out there regarding what, exactly, distinguishes […]
+The post Observability Vs. Monitoring: What’s the Difference? appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>JJ Tang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT Music Introduces the Beginning of a New Music Industry]]></title>
+        <id>https://hackernoon.com/nft-music-introduces-the-beginning-of-a-new-music-industry?source=rss</id>
+        <link href="https://hackernoon.com/nft-music-introduces-the-beginning-of-a-new-music-industry?source=rss"/>
+        <updated>2021-10-27T06:52:45.000Z</updated>
+        <summary type="html"><![CDATA[The potential for NFTs to tap into the music industry is unparalleled. Digital art has all the benefits the old world of art does not. NFTs can counter scarcity]]></summary>
+        <author>
+            <name>Burr Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hiring When You’re Not FAANG]]></title>
+        <id>https://devops.com/?p=146734</id>
+        <link href="https://devops.com/hiring-when-youre-not-faang/"/>
+        <updated>2021-10-27T06:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Most of us are not FAANG, and we shouldn’t act like we are. Instead of using that, I’m going to use the term we used to use to refer to them: “Web Monsters”, which isn’t 100% accurate, but includes more than just the five FAANG members (Facebook, Amazon, Apple, Netflix and Google) for this article. […]
+The post Hiring When You’re Not FAANG appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Don Macvittie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EdTech: 7 Ways to Be Better at Stock Photography in Online Education]]></title>
+        <id>https://hackernoon.com/edtech-7-ways-to-be-better-at-stock-photography-in-online-education?source=rss</id>
+        <link href="https://hackernoon.com/edtech-7-ways-to-be-better-at-stock-photography-in-online-education?source=rss"/>
+        <updated>2021-10-27T05:54:31.000Z</updated>
+        <summary type="html"><![CDATA[Stop using bad stock photos in edtech with these 7 tips on how to get the most out of your imagery choices.]]></summary>
+        <author>
+            <name>Katerina Malyavkina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HackerNoon Adds Synthetic Voice Transcription to Improve Reader Accessibility]]></title>
+        <id>https://hackernoon.com/hackernoon-adds-synthetic-voice-transcription-to-improve-reader-accessibility?source=rss</id>
+        <link href="https://hackernoon.com/hackernoon-adds-synthetic-voice-transcription-to-improve-reader-accessibility?source=rss"/>
+        <updated>2021-10-27T05:02:30.000Z</updated>
+        <summary type="html"><![CDATA[We've added full synthetic audio transcriptions to our stories. Our stories can now be read to you by one of our synthetic voices.]]></summary>
+        <author>
+            <name>Limarc Ambalina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Metaverse is Coming and There Will be Millions of Them]]></title>
+        <id>https://hackernoon.com/the-metaverse-is-coming-and-there-will-be-millions-of-them?source=rss</id>
+        <link href="https://hackernoon.com/the-metaverse-is-coming-and-there-will-be-millions-of-them?source=rss"/>
+        <updated>2021-10-27T04:45:12.000Z</updated>
+        <summary type="html"><![CDATA[The metaverse will change the Internet as we know it today. It will let us socialize, play, and work online in new, more immersive ways than ever before.]]></summary>
+        <author>
+            <name>Daniel Marcinkowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Games More Accessible With Accessibility Specialist Ian Hamilton]]></title>
+        <id>https://hackernoon.com/making-games-more-accessible-with-accessibility-specialist-ian-hamilton?source=rss</id>
+        <link href="https://hackernoon.com/making-games-more-accessible-with-accessibility-specialist-ian-hamilton?source=rss"/>
+        <updated>2021-10-27T04:32:16.000Z</updated>
+        <summary type="html"><![CDATA[In this AMA, Ian talks about his role in the gaming industry, what games he has worked on and how he sees the future of accessibility in gaming.]]></summary>
+        <author>
+            <name>Jack Boreham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tailwind CSS Components Tutorial – How to get started with Flowbite]]></title>
+        <id>61769fd2d48e1707b6d7afc5</id>
+        <link href="https://www.freecodecamp.org/news/tailwind-css-components-flowbite/"/>
+        <updated>2021-10-27T00:53:05.000Z</updated>
+        <summary type="html"><![CDATA[Flowbite is an open-source library of web components built with the utility-first classes from Tailwind CSS. It also includes interactive elements such as dropdowns, modals, datepickers. Tailwind CSS is a framework that I've been using a lot lately in my web-related projects because of how fast it is to build]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Behind the Scenes of an OCR Receipt and Invoice API Engine]]></title>
+        <id>https://hackernoon.com/behind-the-scenes-of-an-ocr-receipt-and-invoice-api-engine?source=rss</id>
+        <link href="https://hackernoon.com/behind-the-scenes-of-an-ocr-receipt-and-invoice-api-engine?source=rss"/>
+        <updated>2021-10-27T00:05:05.000Z</updated>
+        <summary type="html"><![CDATA[Find out how an accurate, adaptive and multi-lingual receipt OCR API engine works!]]></summary>
+        <author>
+            <name>TAGGUN</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Data is Pivotal to Email Marketing]]></title>
+        <id>https://hackernoon.com/why-data-is-pivotal-to-email-marketing?source=rss</id>
+        <link href="https://hackernoon.com/why-data-is-pivotal-to-email-marketing?source=rss"/>
+        <updated>2021-10-26T23:24:45.000Z</updated>
+        <summary type="html"><![CDATA[Email marketing today thrives on personalization. With Data, you have all it takes to “hit the bull’s eye".]]></summary>
+        <author>
+            <name>Efrat Vulfsons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Introduction to JavaScript Functions For Beginners]]></title>
+        <id>https://hackernoon.com/an-introduction-to-javascript-functions-for-beginners?source=rss</id>
+        <link href="https://hackernoon.com/an-introduction-to-javascript-functions-for-beginners?source=rss"/>
+        <updated>2021-10-26T23:07:52.000Z</updated>
+        <summary type="html"><![CDATA[A function is a set of statements that perform a specific task. It is one of the fundamental building blocks of JavaScript.]]></summary>
+        <author>
+            <name>Aravind Sanjeev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[There’s Not a Cassingle Thing Missing From This Cassette Deck Masterclass]]></title>
         <id>https://hackaday.com/?p=501752</id>
@@ -17,6 +474,46 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bad Codebases Shoo Developers Away]]></title>
+        <id>https://hackernoon.com/bad-codebases-shoo-developers-away?source=rss</id>
+        <link href="https://hackernoon.com/bad-codebases-shoo-developers-away?source=rss"/>
+        <updated>2021-10-26T22:45:15.000Z</updated>
+        <summary type="html"><![CDATA[In this software engineering survey, we learn about the state of technical debt and technical hiring.]]></summary>
+        <author>
+            <name>Alex Omeyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Documenting GraphQL APIs]]></title>
+        <id>https://hackernoon.com/documenting-graphql-apis?source=rss</id>
+        <link href="https://hackernoon.com/documenting-graphql-apis?source=rss"/>
+        <updated>2021-10-26T22:33:41.000Z</updated>
+        <summary type="html"><![CDATA[The main reason for writing API documentation is to make your API understandable. For GraphQL there are many options. Both interactive and static documentation.]]></summary>
+        <author>
+            <name>Roy Derks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Notification Systems with the End Users In Mind]]></title>
+        <id>https://hackernoon.com/building-notification-systems-with-the-users-in-mind?source=rss</id>
+        <link href="https://hackernoon.com/building-notification-systems-with-the-users-in-mind?source=rss"/>
+        <updated>2021-10-26T22:33:16.000Z</updated>
+        <summary type="html"><![CDATA[Before building a notification system, you should know the requirements for your users who will be creating the notifications for your end users.]]></summary>
+        <author>
+            <name>Courier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[REM and EM in CSS Explained]]></title>
+        <id>https://hackernoon.com/rem-and-em-in-css-explained?source=rss</id>
+        <link href="https://hackernoon.com/rem-and-em-in-css-explained?source=rss"/>
+        <updated>2021-10-26T22:08:08.000Z</updated>
+        <summary type="html"><![CDATA[em and rem both are known as relative units in CSS. You've probably been using em and rem units now for a while already but might not know what they actually do]]></summary>
+        <author>
+            <name>Mahesh Patidar</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Codenotary Uses Immutable Database to Verify Software Artifacts]]></title>
         <id>https://devops.com/?p=146766</id>
         <link href="https://devops.com/codenotary-uses-immutable-database-to-verify-software-artifacts/"/>
@@ -25,6 +522,26 @@
 The post Codenotary Uses Immutable Database to Verify Software Artifacts appeared first on DevOps.com.]]></summary>
         <author>
             <name>Mike Vizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Past, Present and Future of Virtual Reality Gaming]]></title>
+        <id>https://hackernoon.com/the-past-present-and-future-of-virtual-reality-gaming?source=rss</id>
+        <link href="https://hackernoon.com/the-past-present-and-future-of-virtual-reality-gaming?source=rss"/>
+        <updated>2021-10-26T21:32:01.000Z</updated>
+        <summary type="html"><![CDATA[This Slogging thread by Jack Boreham, Adrian Morales, Limarc Ambalina, Ellen Stevens, Mónica Freitas, Zaeem Shoaib and Nicolas Ng occurred in slogging's official #gaming channel, and has been edited for readability.]]></summary>
+        <author>
+            <name>Jack Boreham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9 Of The Most Popular Headless CMS' In 2021]]></title>
+        <id>https://hackernoon.com/9-of-the-most-popular-headless-cms-in-2021?source=rss</id>
+        <link href="https://hackernoon.com/9-of-the-most-popular-headless-cms-in-2021?source=rss"/>
+        <updated>2021-10-26T21:15:39.000Z</updated>
+        <summary type="html"><![CDATA[Check the list of the best headless cms on the market and learn more about how Headless CMS Can Help You Build Fast]]></summary>
+        <author>
+            <name>kat</name>
         </author>
     </entry>
     <entry>
@@ -49,6 +566,16 @@ The post CircleCI Adds Test Insights Module to CI/CD Platform appeared first on 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Evolution of Crypto Fundraising: IDO as an Alternative?]]></title>
+        <id>https://hackernoon.com/the-evolution-of-crypto-fundraising-ido-as-an-alternative?source=rss</id>
+        <link href="https://hackernoon.com/the-evolution-of-crypto-fundraising-ido-as-an-alternative?source=rss"/>
+        <updated>2021-10-26T20:58:23.000Z</updated>
+        <summary type="html"><![CDATA[it's time to tell how IDO works, how it differs from both ICO and IEO. It is also worth pointing out the pros and cons of IDO]]></summary>
+        <author>
+            <name>Golubev_Od_UA</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[On Browser-Specific URL Schemes]]></title>
         <id>https://css-tricks.com/?p=354365</id>
         <link href="https://css-tricks.com/on-browser-specific-url-schemes/"/>
@@ -69,6 +596,16 @@ The post On Browser-Specific URL Schemes appeared first on CSS-Tricks. You can s
         <summary type="html"><![CDATA[Inspired by his CNC’s leveling system, [Chuck] built a small PCB to help level his 3D printer and he shares the details in the video you can see below. The …read more]]></summary>
         <author>
             <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing The Triple Layer Business Model Canvas]]></title>
+        <id>https://hackernoon.com/introducing-the-triple-layer-business-model-canvas?source=rss</id>
+        <link href="https://hackernoon.com/introducing-the-triple-layer-business-model-canvas?source=rss"/>
+        <updated>2021-10-26T19:18:02.000Z</updated>
+        <summary type="html"><![CDATA[The Business Model Canvas is a great tool for entrepreneurs, yet one that is not without flaws.]]></summary>
+        <author>
+            <name>Adrien Book</name>
         </author>
     </entry>
     <entry>
@@ -182,6 +719,16 @@ The post InfluxData Simplifies AppDev for Time-Series Databases appeared first o
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Introduction to Double-Spending: What It Is, How It Works, and How to Prevent It]]></title>
+        <id>https://hackernoon.com/introduction-to-double-spending-what-it-is-how-it-works-and-how-to-prevent-it?source=rss</id>
+        <link href="https://hackernoon.com/introduction-to-double-spending-what-it-is-how-it-works-and-how-to-prevent-it?source=rss"/>
+        <updated>2021-10-26T16:03:15.000Z</updated>
+        <summary type="html"><![CDATA[A blockchain is a decentralized ledger that stores transactions. It guarantees mutual trust and a collective consensus among all partners involved.]]></summary>
+        <author>
+            <name>Bybit</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Smart Flower Pot Build Is All About That Base]]></title>
         <id>https://hackaday.com/?p=502176</id>
         <link href="https://hackaday.com/2021/10/26/smart-flower-pot-build-is-all-about-that-base/"/>
@@ -189,6 +736,16 @@ The post InfluxData Simplifies AppDev for Time-Series Databases appeared first o
         <summary type="html"><![CDATA[For some reason, it seems like most of the plant monitoring setups we see separate the plant and the monitoring system. This makes sense in a don’t-own-a-waterbed-and-a-cat kind of way, …read more]]></summary>
         <author>
             <name>Kristina Panos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React vs. JavaScript: Why React Web Apps Are Better than Plain Websites]]></title>
+        <id>https://hackernoon.com/react-vs-javascript-why-react-web-apps-are-better-than-plain-websites?source=rss</id>
+        <link href="https://hackernoon.com/react-vs-javascript-why-react-web-apps-are-better-than-plain-websites?source=rss"/>
+        <updated>2021-10-26T15:27:44.000Z</updated>
+        <summary type="html"><![CDATA[With single-page apps taking over the world, this is the perfect time to know how React won the battle of React vs JavaScript and why you should care.]]></summary>
+        <author>
+            <name>Ashutosh Mishra</name>
         </author>
     </entry>
     <entry>
@@ -200,6 +757,16 @@ The post InfluxData Simplifies AppDev for Time-Series Databases appeared first o
 The post How Tadayuki Watanabe Disproved a Major Conjecture About Spheres first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Kevin Hartnett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Documenting React Components: 5 Open Source Tools You Should Know]]></title>
+        <id>https://hackernoon.com/documenting-react-components-5-open-source-tools-you-should-know?source=rss</id>
+        <link href="https://hackernoon.com/documenting-react-components-5-open-source-tools-you-should-know?source=rss"/>
+        <updated>2021-10-26T14:30:48.000Z</updated>
+        <summary type="html"><![CDATA[5 Open Source tools for documenting your React component.]]></summary>
+        <author>
+            <name>Sankalp Swami</name>
         </author>
     </entry>
     <entry>
@@ -233,6 +800,16 @@ The post Userwell is for Managing Customer Feedback appeared first on CSS-Tricks
         <summary type="html"><![CDATA[It’s an old saying with an apocryphal origin: “May you live in interesting times“. We Brits are certainly living in interesting times at the moment, as a perfect storm of …read more]]></summary>
         <author>
             <name>Jenny List</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enter the Metaverse v2021]]></title>
+        <id>https://hackernoon.com/enter-the-metaverse-v2021?source=rss</id>
+        <link href="https://hackernoon.com/enter-the-metaverse-v2021?source=rss"/>
+        <updated>2021-10-26T14:01:31.000Z</updated>
+        <summary type="html"><![CDATA[A metaverse is an extended reality which may or may not resemble the physical world. A shared realm where we spend a lot of our time, energy and resources.]]></summary>
+        <author>
+            <name>Abhijoy Sarkar</name>
         </author>
     </entry>
     <entry>
@@ -10475,17 +11052,6 @@ This shift in the benchmark had profound effects; the world now knew that the fo
 The post onInput Event appeared first on David Walsh Blog.]]></summary>
         <author>
             <name>David Walsh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Voice Content and Usability]]></title>
-        <id>https://alistapart.com/article/voice-content-and-usability/</id>
-        <link href="https://alistapart.com/article/voice-content-and-usability/"/>
-        <updated>2021-07-29T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’ve been having conversations for thousands of years. Whether to convey information, conduct transactions, or simply to check in on one another, people have yammered away, chattering and gesticulating, through spoken conversation for countless generations. Only in the last few millennia have we begun to commit our conversations to writing, and only in the last few decades have we begun to outsource them to the computer, a machine that shows much more affinity for written correspondence than for the slangy vagaries of spoken language.
-Computers have trouble because between spoken and written language, speech is more primordial. To have successful conversations with us, machines must grapple with the messiness of human speech: the disfluencies and pauses, the gestures and body language, an…]]></summary>
-        <author>
-            <name>by</name>
         </author>
     </entry>
 </feed>
