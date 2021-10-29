@@ -6,6 +6,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=354922",
+          "author": "Chris Coyier",
+          "description": "There is an old Russian fable where Okhsv and Okhsl are on a rowboat and Okhsv says to Okhsl, “What are the known shortcomings of HSL and HSV color pickers in design applications?” I kid, I kid. But really, what …\nThe post Okhsv and Okhsl appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://bottosson.github.io/posts/colorpicker/",
+          "publishedOn": "2021-10-28T20:20:07.000Z",
+          "wordCount": 5616,
+          "title": "Okhsv and Okhsl"
+        },
+        {
+          "id": "https://css-tricks.com/?p=355166",
+          "author": "Chris Coyier",
+          "description": "Vite, “Next Generation Frontend Tooling” from Evan You, has been capturing a lot of attention. I’ve heard rave reviews from developers, even in private chats (you gotta try this!). Being from Evan, Vite works great with Vue, …\nThe post Vite + _____ appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/vite-plus-blank/",
+          "publishedOn": "2021-10-28T18:07:21.000Z",
+          "wordCount": 553,
+          "title": "Vite + _____"
+        },
+        {
+          "id": "https://css-tricks.com/?p=354389",
+          "author": "Tobias Günther",
+          "description": "Merge conflicts... Nobody likes them. Some of us even fear them. But they are a fact of life when you're working with Git, especially when you're teaming up with other developers. In most cases, merge conflicts aren't as scary as you might think. In this fourth part of our “Advanced Git” series we'll talk about when they can happen, what they actually are, and how to solve them.\nThe post Merge Conflicts: What They Are and How to Deal with Them​ appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/merge-conflicts-what-they-are-and-how-to-deal-with-them/",
+          "publishedOn": "2021-10-28T14:07:12.000Z",
+          "wordCount": 1996,
+          "title": "Merge Conflicts: What They Are and How to Deal with Them​"
+        },
+        {
+          "id": "https://css-tricks.com/?p=354782",
+          "author": "Geoff Graham",
+          "description": "(This is a sponsored post.)\nKendo UI makes it possible to go from a basic idea to a full-fledged app, thanks to a massive component library. We’re talking well over 100 components that are ready for you to drop …\nThe post Building an Angular Data Grid With Filtering appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/building-an-angular-data-grid-with-filtering/",
+          "publishedOn": "2021-10-28T14:03:11.000Z",
+          "wordCount": 1277,
+          "title": "Building an Angular Data Grid With Filtering"
+        },
+        {
           "id": "https://css-tricks.com/?p=354777",
           "author": "Chris Coyier",
           "description": "I ran across this 30 seconds of code website the other day, and they have a CSS section which is really good! The first example snippet I looked at was this “floating section headers” example, reminding me yet again how …\nThe post Sticky Definition Lists appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -588,6 +624,78 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "617a55f533422e07df366544",
+          "author": null,
+          "description": "React.js is a scalable open-source JavaScript library and is one of the most commonly used front-end frameworks out there today.  It's dynamic and is easy to get started with if you want to create interactive web applications with reusable components. There are lots of reasons to use React.js",
+          "link": "https://www.freecodecamp.org/news/best-practices-for-security-of-your-react-js-application/",
+          "publishedOn": "2021-10-28T23:44:02.000Z",
+          "wordCount": 2235,
+          "title": "How to Secure Your React.js Application"
+        },
+        {
+          "id": "615c49eb0d91c9077974ca38",
+          "author": null,
+          "description": "Diagnosing and resolving issues in Kubernetes can be quite challenging. Kubernetes, after all, is a complex system.  Resolving problems even in small K8s clusters, nodes, and containers can be tricky, and it's often hard to identify and address issues. And an issue isn't even always easy to trace – it might",
+          "link": "https://www.freecodecamp.org/news/how-to-simplify-kubernetes-troubleshooting/",
+          "publishedOn": "2021-10-28T22:43:01.000Z",
+          "wordCount": 1398,
+          "title": "How to Simplify Kubernetes Troubleshooting"
+        },
+        {
+          "id": "617a63cf33422e07df366730",
+          "author": null,
+          "description": "What is a decimal place value? What is the difference between whole and decimal numbers?  In this quick guide, you'll learn the basics of the decimal place value and how it works.  Let's get started!  How number systems work Numbers are used for performing mathematical operations and for representing data",
+          "link": "https://www.freecodecamp.org/news/decimal-place-value-hundreds-thousandths-and-beyond/",
+          "publishedOn": "2021-10-28T18:58:52.000Z",
+          "wordCount": 956,
+          "title": "Decimal Place Value – Hundreds, Thousandths, and Beyond"
+        },
+        {
+          "id": "61795dda33422e07df365779",
+          "author": null,
+          "description": "If you're a beginner to Python, chances are you've come across lists. But have you heard about sets in Python? In this tutorial, we'll explore what sets are, how to create them, and the different operations you can use on them. What are sets in Python?In Python, sets are",
+          "link": "https://www.freecodecamp.org/news/python-set-operations-explained-with-examples/",
+          "publishedOn": "2021-10-28T18:17:35.000Z",
+          "wordCount": 1547,
+          "title": "Python Sets – Explained with Examples"
+        },
+        {
+          "id": "6178541d33422e07df364eba",
+          "author": null,
+          "description": "In this article, I will show you how I quickly set up and ran a Docker container for free on Oracle Cloud Infrastructure.  In short, I used a VM in the Always Free Tier of OCI, and for a side project I set up a dockerised Postgres database. Let's get",
+          "link": "https://www.freecodecamp.org/news/run-a-postgres-docker-container-on-oracle-cloud-infrastructure/",
+          "publishedOn": "2021-10-28T15:33:00.000Z",
+          "wordCount": 1065,
+          "title": "How to Run a Postgres Docker Container on Oracle Cloud Infrastructure"
+        },
+        {
+          "id": "61784ef033422e07df364e34",
+          "author": null,
+          "description": "Hi! If you speak Spanish and you want you learn HTML and CSS, you're in the right place. In this article, you will find a brief introduction to the basics of HTML and CSS. Then you will find a free 5-hour course on HTML and CSS on our Spanish YouTube",
+          "link": "https://www.freecodecamp.org/news/learn-html-and-css-in-spanish-course-for-beginners/",
+          "publishedOn": "2021-10-28T15:32:02.000Z",
+          "wordCount": 2399,
+          "title": "Learn HTML and CSS in Spanish – Course for Beginners"
+        },
+        {
+          "id": "61728f9ed48e1707b6d79b46",
+          "author": null,
+          "description": "Many JavaScript frameworks use ES6 features. So to help you learn these handy features, I'll introduce you to them and then show you how to apply them in React.js.  Here are the ES6 features we'll cover in this guide: ModulesDestructuringSpread OperatorArrow functionsTemplate LiteralsAll the examples we'll see here are",
+          "link": "https://www.freecodecamp.org/news/how-to-use-es6-javascript-features-in-react/",
+          "publishedOn": "2021-10-28T15:23:00.000Z",
+          "wordCount": 1695,
+          "title": "How to Use ES6 Features in React"
+        },
+        {
+          "id": "61797e0833422e07df365c36",
+          "author": null,
+          "description": "Creating a game is a great way to improve your JavaScript skills. We just published a JavaScript tutorial on the freeCodeCamp.org YouTube channel that will teach you how to create a puzzle game that gets an image for the puzzle from your computer's camera. Radu Mariescu-Istodor developed this course.",
+          "link": "https://www.freecodecamp.org/news/javascript-project-create-a-puzzlecam-game/",
+          "publishedOn": "2021-10-28T13:40:10.000Z",
+          "wordCount": 12249,
+          "title": "JavaScript Project: Create a PuzzleCam Game"
+        },
         {
           "id": "61772e2833422e07df36437b",
           "author": null,
@@ -4109,6 +4217,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=147366",
+          "author": "ACMer",
+          "description": "Given a string s, consisting of digits and lowercase alphabet characters, that’s a run-length encoded string, return its decoded version. Note: The original string is guaranteed not to have...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-run-length-decoding-decompression-algorithm/",
+          "publishedOn": "2021-10-28T19:15:02.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Run-Length Decoding/Decompression Algorithm",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=147348",
           "author": "ACMer",
           "description": "Given N items, we know there are total permutation – so if we do a shuffling, each permutation needs to be in theory probability. If we swap two elements N times, then each element need to be...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -4851,6 +4969,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=502868",
+          "author": "Donald Papp",
+          "description": "Soil sensors are handy things, but while sensing moisture is what they do, how they handle that data is what makes them useful. Ensuring usefulness is what led [Maakbaas] to …read more",
+          "link": "https://hackaday.com/2021/10/28/soil-sensor-shows-flip-dots-arent-just-for-signs/",
+          "publishedOn": "2021-10-28T23:01:44.000Z",
+          "wordCount": 1500,
+          "title": "Soil Sensor Shows Flip-Dots Aren’t Just for Signs"
+        },
+        {
+          "id": "https://hackaday.com/?p=503124",
+          "author": "Adam Zeloof",
+          "description": "Ordinarily, when we hear the words “clock” and “oscilloscope” in the same sentence we conjure images of measuring a stable, repeating square wave that acts as the heartbeat of a …read more",
+          "link": "https://hackaday.com/2021/10/28/oscilloscope-clocks-now-in-color/",
+          "publishedOn": "2021-10-28T20:01:31.000Z",
+          "wordCount": 1126,
+          "title": "Oscilloscope Clocks: Now In Color!"
+        },
+        {
+          "id": "https://hackaday.com/?p=503410",
+          "author": "Donald Papp",
+          "description": "The eyes are windows into the mind, and this research into what jumping spiders look at and why required a clever device that performs eye tracking, but for jumping spiders. …read more",
+          "link": "https://hackaday.com/2021/10/28/eye-tracking-device-is-a-tiny-movie-theatre-for-jumping-spiders/",
+          "publishedOn": "2021-10-28T18:30:00.000Z",
+          "wordCount": 2173,
+          "title": "Eye-Tracking Device is a Tiny Movie Theatre for Jumping Spiders"
+        },
+        {
+          "id": "https://hackaday.com/?p=503244",
+          "author": "Tom Nardi",
+          "description": "We’ve already unveiled multiple keynote speakers and a slate of fascinating presenters that will be showing off everything from reverse engineering vintage calculators to taking those first tentative steps on …read more",
+          "link": "https://hackaday.com/2021/10/28/four-more-talks-added-to-the-2021-remoticon-lineup/",
+          "publishedOn": "2021-10-28T17:01:58.000Z",
+          "wordCount": 1976,
+          "title": "Four More Talks Added to the 2021 Remoticon Lineup"
+        },
+        {
+          "id": "https://hackaday.com/?p=503362",
+          "author": "Ryan Flowers",
+          "description": "If reading Hackaday teaches us anything, it’s that there is a subset of hackers who take things like emulator builds a step farther than most. [GamecubePC] is very clearly one …read more",
+          "link": "https://hackaday.com/2021/10/28/gamecubepc-packs-plenty-of-punch-into-gamecube-plastics/",
+          "publishedOn": "2021-10-28T15:30:00.000Z",
+          "wordCount": 1145,
+          "title": "GamecubePC Packs Plenty of Punch Into GameCube Plastics"
+        },
+        {
+          "id": "https://hackaday.com/?p=502272",
+          "author": "Lewin Day",
+          "description": "One of the more popular social activities in China is group dancing in public squares. Often the pastime of many middle-aged and older women, participants are colloquially referred to as …read more",
+          "link": "https://hackaday.com/2021/10/28/speaker-stun-gun-aims-to-combat-chinas-dancing-grannies/",
+          "publishedOn": "2021-10-28T14:00:30.000Z",
+          "wordCount": 3638,
+          "title": "Speaker ‘Stun Gun’ Aims To Combat China’s Dancing Grannies"
+        },
+        {
+          "id": "https://hackaday.com/?p=503308",
+          "author": "Kristina Panos",
+          "description": "Still don’t have anything to wear to that Halloween party this weekend? Or worse, your kid hasn’t decided on a costume that you both can agree on? Well, look no …read more",
+          "link": "https://hackaday.com/2021/10/28/really-robotic-robot-costume-will-probably-win-the-contest/",
+          "publishedOn": "2021-10-28T11:00:00.000Z",
+          "wordCount": 1271,
+          "title": "Really Robotic Robot Costume Will Probably Win the Contest"
+        },
         {
           "id": "https://hackaday.com/?p=503437",
           "author": "Lewin Day",
@@ -6559,6 +6740,103 @@
       "feedUrl": "http://rss.sciam.com/scientificamerican-global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "77697C20-0193-4834-BC44C94C67B949AB",
+          "author": "Sweta Chakraborty",
+          "description": "The eyes of the world will be upon the U.S. at the Glasgow climate summit\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/will-america-act-to-address-the-climate-crisis/",
+          "publishedOn": "2021-10-28T20:00:00.000Z",
+          "wordCount": null,
+          "title": "Will America Act to Address the Climate Crisis?",
+          "itunes": {}
+        },
+        {
+          "id": "01CC3007-C3FB-4AE1-922410AAB9CAA3FE",
+          "author": "Nikk Ogasa",
+          "description": "Climate change is flushing more sediment into the rivers that pour out of Asia’s high mountains\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/muddier-rivers-are-jeopardizing-dams-and-water-quality-for-millions/",
+          "publishedOn": "2021-10-28T18:30:00.000Z",
+          "wordCount": null,
+          "title": "Muddier Rivers Are Jeopardizing Dams and Water Quality for Millions",
+          "itunes": {}
+        },
+        {
+          "id": "21E37C26-FBF4-42AF-BFB6C1456367FD7D",
+          "author": "Katrina Miller",
+          "description": "NASA’s Juno spacecraft peered underneath the gas giant’s dense clouds to determine the structure of its iconic spinning storm\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/jupiters-great-red-spot-is-surprisingly-deep/",
+          "publishedOn": "2021-10-28T18:00:00.000Z",
+          "wordCount": null,
+          "title": "Jupiter's Great Red Spot Is Surprisingly Deep",
+          "itunes": {}
+        },
+        {
+          "id": "63DEE9F2-EE30-47BE-B59405C98AD6D64B",
+          "author": "Sophie Bushwick",
+          "description": "One of the experts who grades U.S. utilities every four years explains what needs to be fixed\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-infrastructure-bill-is-desperately-needed-engineers-say/",
+          "publishedOn": "2021-10-28T17:15:00.000Z",
+          "wordCount": null,
+          "title": "The Infrastructure Bill Is Desperately Needed, Engineers Say",
+          "itunes": {}
+        },
+        {
+          "id": "8FAAA2AF-275C-4A76-91E451E04FA6E134",
+          "author": "Emily Schwing",
+          "description": "In beetles—we are talking beetles—some of whom have learned, over millions of years of evolution, to dampen the stench of decay in order to help their young thrive.\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/podcast/episode/for-some-parents-hiding-a-dead-body-shows-how-much-you-care/",
+          "publishedOn": "2021-10-28T15:00:00.000Z",
+          "wordCount": null,
+          "title": "For Some Parents, Hiding a Dead Body Shows How Much You Care",
+          "itunes": {
+            "duration": "06:44"
+          },
+          "enclosure": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=D939EE24-C00A-4BEF-92C456A186B41922",
+            "length": "9736579",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "CBB6A5C8-5573-4D94-B412A77DDF6A984F",
+          "author": "Naomi Oreskes",
+          "description": "It’s time to redirect your major focus to how we deal with the problem\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/ipcc-youve-made-your-point-humans-are-a-primary-cause-of-climate-change/",
+          "publishedOn": "2021-10-28T14:00:00.000Z",
+          "wordCount": null,
+          "title": "IPCC, You've Made Your Point: Humans Are a Primary Cause of Climate Change",
+          "itunes": {}
+        },
+        {
+          "id": "32D7ADA9-0D83-45ED-937BFD521C2BF388",
+          "author": "Conor Purcell",
+          "description": "A potentially transformative theoretical study links a new model of quantum gravity with the universe’s bizarrely accelerating rate of expansion\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/could-gravitys-quantum-origins-explain-dark-energy/",
+          "publishedOn": "2021-10-28T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Could Gravity's Quantum Origins Explain Dark Energy?",
+          "itunes": {}
+        },
+        {
+          "id": "8CFBFD92-6157-417C-BFEC264B018F2D4B",
+          "author": "Amy Maxmen, Nature magazine",
+          "description": "Studies suggest that a reversal of the landmark Roe v. Wade decision would be detrimental for many\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/hundreds-of-scientists-weigh-in-on-a-high-stakes-u-s-abortion-case/",
+          "publishedOn": "2021-10-28T12:30:00.000Z",
+          "wordCount": null,
+          "title": "Hundreds of Scientists Weigh in on a High-Stakes U.S. Abortion Case",
+          "itunes": {}
+        },
+        {
+          "id": "69DC62B7-E80E-43F6-8F358CBE1C8D95B9",
+          "author": "Robin Blades",
+          "description": "Machine-learning algorithms can guide humans toward new experiments and theories\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/ai-generates-hypotheses-human-scientists-have-not-thought-of/",
+          "publishedOn": "2021-10-28T10:45:00.000Z",
+          "wordCount": null,
+          "title": "AI Generates Hypotheses Human Scientists Have Not Thought Of",
+          "itunes": {}
+        },
         {
           "id": "0F2306BB-5E8F-4B44-9731436A7EE34C11",
           "author": "Anne C. Mulkern, E&E News",
@@ -8274,6 +8552,60 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=146882",
+          "author": "Mike Vizard",
+          "description": "Salt Security has extended its platform for securing application programming interfaces (APIs) to include support for APIs built using GraphQL. GraphQL is an open source data query and manipulation language for APIs that was originally developed by Facebook. It provides a more efficient approach to querying data than the REST APIs that are widely used […]\nThe post Salt Security Adds Support for GraphQL APIs appeared first on DevOps.com.",
+          "link": "https://devops.com/salt-security-adds-support-for-graphql-apis/",
+          "publishedOn": "2021-10-28T20:55:48.000Z",
+          "wordCount": 1002,
+          "title": "Salt Security Adds Support for GraphQL APIs"
+        },
+        {
+          "id": "https://devops.com/?p=146861",
+          "author": "Mike Vizard",
+          "description": "A global survey of 1,300 application development and DevOps leaders conducted by the research firm Coleman Parkes on behalf of Dynatrace finds, on average, organizations expect to increase the frequency of their software releases by 58% over the next two years. Andreas Grabner, director of strategic partnerships at Dynatrace, an observability platform provider, said that […]\nThe post Dynatrace Survey Sees Continuous Delivery Challenges Ahead appeared first on DevOps.com.",
+          "link": "https://devops.com/dynatrace-survey-sees-continuous-delivery-challenges-ahead/",
+          "publishedOn": "2021-10-28T16:20:02.000Z",
+          "wordCount": 1020,
+          "title": "Dynatrace Survey Sees Continuous Delivery Challenges Ahead"
+        },
+        {
+          "id": "https://devops.com/?p=146840",
+          "author": "Mike Vizard",
+          "description": "A survey of more than 28,000 developers and application programming interface (API) professionals published today by Postman found nearly half of respondents (49%) are now spending the majority of their time developing APIs. More than a quarter (28%) now spend 20 or more hours per week working with APIs. Kin Lane, chief evangelist for Postman, […]\nThe post Postman Survey Shows Focus on Building and Deploying APIs appeared first on DevOps.com.",
+          "link": "https://devops.com/postman-survey-shows-focus-on-building-and-deploying-apis/",
+          "publishedOn": "2021-10-28T14:15:11.000Z",
+          "wordCount": 1178,
+          "title": "Postman Survey Shows Focus on Building and Deploying APIs"
+        },
+        {
+          "id": "https://devops.com/?p=146822",
+          "author": "Arno Witvliet",
+          "description": "Throughout the last year and a half, most organizations were forced to either create or develop their online service offerings at a rapid pace. Companies had to find alternate solutions to continue day-to-day operations in the transition to remote-first. Low development costs and the wide range of use cases have been primary factors in the […]\nThe post How to Avoid the Most Common Online Service Costs  appeared first on DevOps.com.",
+          "link": "https://devops.com/how-to-avoid-the-most-common-online-service-costs/",
+          "publishedOn": "2021-10-28T07:00:56.000Z",
+          "wordCount": 1081,
+          "title": "How to Avoid the Most Common Online Service Costs"
+        },
+        {
+          "id": "https://devops.com/?p=146789",
+          "author": "Thomas Segura",
+          "description": "Linux has become the largest collaborative development project in the history of computing over the last 30 years. Reflecting on what made this possible and how its open source philosophy finally imposed itself in the industry can offer software vendors valuable lessons from this amazing success story. The web may not have reached full adulthood […]\nThe post What 30 Years of Linux Taught the Software Industry appeared first on DevOps.com.",
+          "link": "https://devops.com/what-30-years-of-linux-taught-the-software-industry/",
+          "publishedOn": "2021-10-28T07:00:22.000Z",
+          "wordCount": 3114,
+          "title": "What 30 Years of Linux Taught the Software Industry"
+        },
+        {
+          "id": "https://devops.com/?p=146835",
+          "author": "ROELBOB",
+          "description": "The post Signals appeared first on DevOps.com.",
+          "link": "https://devops.com/signals/",
+          "publishedOn": "2021-10-28T06:00:15.000Z",
+          "wordCount": 427,
+          "title": "Signals"
+        },
+        {
           "id": "https://devops.com/?p=146804",
           "author": "Mike Vizard",
           "description": "During the online Intel Innovation 2021 event, Intel announced today a unified Developer Zone for accessing application programming interfaces (APIs) that it makes available via a oneAPI toolkit to IT teams that want to more easily invoke a wide range of processor types and classes. At the same time, the company also revealed it is […]\nThe post Intel Woos DevOps Teams with API and Processor Advances appeared first on DevOps.com.",
@@ -9001,6 +9333,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=109789",
+          "author": "Thomas Lewton",
+          "description": "Years of conflicting neutrino measurements have led physicists to propose a “dark sector” of invisible particles — one that could simultaneously explain dark matter, the puzzling expansion of the universe, and other mysteries.            \nThe post Is the Great Neutrino Puzzle Pointing to Multiple Missing Particles? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/neutrino-puzzles-point-to-the-possibility-of-multiple-missing-particles-20211028/",
+          "publishedOn": "2021-10-28T14:39:10.000Z",
+          "wordCount": null,
+          "title": "Is the Great Neutrino Puzzle Pointing to Multiple Missing Particles?",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=109786",
           "author": "Pradeep Mutalik",
           "description": "The transcendental number π is as familiar as it is ubiquitous, but how does Euler’s number e transcend the ordinary?             \nThe post Where Transcendental Numbers Hide in Everyday Math first appeared on Quanta Magazine",
@@ -9207,6 +9549,42 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=65928",
+          "author": "Nathan Yau",
+          "description": "Here's the good stuff for October.\nTags: roundup",
+          "link": "https://flowingdata.com/2021/10/28/process-163-roundup/",
+          "publishedOn": "2021-10-28T19:15:20.000Z",
+          "wordCount": 298,
+          "title": "✚ Visualization Tools and Resources, October 2021 Roundup"
+        },
+        {
+          "id": "https://flowingdata.com/?p=65924",
+          "author": "Nathan Yau",
+          "description": "There has been progress since the Paris climate agreement in 2014, but there’s…\nTags: climate change, emissions, New York Times",
+          "link": "https://flowingdata.com/2021/10/28/bend-the-emissions-curve/",
+          "publishedOn": "2021-10-28T17:07:52.000Z",
+          "wordCount": 313,
+          "title": "Bend the emissions curve"
+        },
+        {
+          "id": "https://flowingdata.com/?p=65892",
+          "author": "Nathan Yau",
+          "description": "You could use a package, but then you couldn't customize every single element, and where's the fun in that?\nTags: R",
+          "link": "https://flowingdata.com/2021/10/28/how-to-make-a-custom-stacked-area-chart-in-r/",
+          "publishedOn": "2021-10-28T16:47:11.000Z",
+          "wordCount": 442,
+          "title": "✚ How to Make a Custom Stacked Area Chart in R"
+        },
+        {
+          "id": "https://flowingdata.com/?p=65912",
+          "author": "Nathan Yau",
+          "description": "Earth is getting warmer, and the previously abstract concept seems to grow more…\nTags: climate, global warming, Probable Futures, temperature",
+          "link": "https://flowingdata.com/2021/10/28/mapping-the-probable-heat-around-the-world/",
+          "publishedOn": "2021-10-28T15:52:04.000Z",
+          "wordCount": 349,
+          "title": "Mapping the probable heat around the world"
+        },
         {
           "id": "https://flowingdata.com/?p=65887",
           "author": "Nathan Yau",
