@@ -2,10 +2,376 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2021-11-01T00:41:53.715Z</updated>
+    <updated>2021-11-02T00:43:15.579Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Waterjet-Powered Speedboat For Fun And Research]]></title>
+        <id>https://hackaday.com/?p=503163</id>
+        <link href="https://hackaday.com/2021/11/01/waterjet-powered-speedboat-for-fun-and-research/"/>
+        <updated>2021-11-01T23:00:16.000Z</updated>
+        <summary type="html"><![CDATA[There are a lot of cliches about the perils of boat ownership. “The best two days of a boat owner’s life are the day they buy their boat, and the …read more]]></summary>
+        <author>
+            <name>Bryan Cockfield</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buttons vs. Links]]></title>
+        <id>https://css-tricks.com/?p=354978</id>
+        <link href="https://css-tricks.com/buttons-vs-links/"/>
+        <updated>2021-11-01T22:58:12.000Z</updated>
+        <summary type="html"><![CDATA[There are thousands of articles out there about buttons and links on the web; the differences and how to use them properly. Hey, I don’t mind. I wrote my own as well¹.
+It’s such a common mistake on …
+The post Buttons vs. Links appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Have Single-Page Apps Ruined the Web? (“Transitional Apps”)]]></title>
+        <id>https://css-tricks.com/?p=355034</id>
+        <link href="https://css-tricks.com/have-single-page-apps-ruined-the-web-transitional-apps/"/>
+        <updated>2021-11-01T21:43:10.000Z</updated>
+        <summary type="html"><![CDATA[A big heaping 19-minute bowl of not-too-hot, not-too-cold baby bear porridge website building from Rich Harris. 
+I’ve certainly overheard more than my fair share of arguments about Single Page Apps (SPAs) vs Multi-Page Apps (MPAs). Although it’s only recently that …
+The post Have Single-Page Apps Ruined the Web? (“Transitional Apps”) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps Unbound: DevOps for Low-Code – Friend or Foe?]]></title>
+        <id>https://devops.com/?p=146929</id>
+        <link href="https://devops.com/devops-unbound-devops-for-low-code-friend-or-foe/"/>
+        <updated>2021-11-01T21:42:35.000Z</updated>
+        <summary type="html"><![CDATA[Low-code development has become increasingly popular since the onset of the COVID-19 pandemic in 2020. Low-code technologies allow organizations to build and customize fully responsive, easy-to-deploy applications with little to no coding. It accelerates digital transformation and empowers citizens developers. In this episode of DevOps Unbound, hosts Alan Shimel and Mitch Ashley are joined by […]
+The post DevOps Unbound: DevOps for Low-Code – Friend or Foe? appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Alan Shimel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a gif – Create Animated gifs Without Downloading Software]]></title>
+        <id>613f3cba852f4307d372c7e0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-a-gif-create-animated-gifs-without-downloading-software/"/>
+        <updated>2021-11-01T21:31:16.000Z</updated>
+        <summary type="html"><![CDATA[A GIF (Graphics Interchange Format) is a small animated image that you can share with your friends and family. And there are many ways to create them without downloading any software. In this article, I will show you how to use the Make a Gif  site, where you can create]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C++ Vector – STD Pattern Vector in CPP with Example Code]]></title>
+        <id>617e651033422e07df36827a</id>
+        <link href="https://www.freecodecamp.org/news/c-vector-std-pattern-vector-in-cpp-with-example-code/"/>
+        <updated>2021-11-01T21:27:30.000Z</updated>
+        <summary type="html"><![CDATA[Vectors in C++ are a helpful way to store dynamic data. They also help you avoid having to deal with the not so flexible arrays that are inherited from the C programming language.  This article is a beginner friendly introduction to vectors. It will show you some of their basic]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating APIs with Python - Free 19-Hour Course]]></title>
+        <id>61804dde8bcfae07ca4dfbfd</id>
+        <link href="https://www.freecodecamp.org/news/creating-apis-with-python-free-19-hour-course/"/>
+        <updated>2021-11-01T21:00:54.000Z</updated>
+        <summary type="html"><![CDATA[A lot of API tutorials just teach the absolute minimum. But a production-ready API is much more complicated than what most tutorials teach. We just published a massive 19-hour course on the freeCodeCamp.org YouTube channel that will teach you how to build a full-fledged API using Python and the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Authenticate Users in Flask with Flask-Login]]></title>
+        <id>617a7da433422e07df3668f0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-authenticate-users-in-flask/"/>
+        <updated>2021-11-01T20:00:24.000Z</updated>
+        <summary type="html"><![CDATA[When you're developing applications for the general public, it's important to protect your users' credentials and information. This means you need to know about code structure and how to implement various security measures. In this article, we'll walk through the steps to create a user authentication web app with Flask,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Bicycle Dash Cam With Advanced Capabilites]]></title>
+        <id>https://hackaday.com/?p=503862</id>
+        <link href="https://hackaday.com/2021/11/01/building-a-bicycle-dash-cam-with-advanced-capabilites/"/>
+        <updated>2021-11-01T20:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Riding a bicycle is a wonderful and healthy way to get around. However, just like with any other vehicle on the road, it can be useful to have a camera …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smoothing Out Foam Parts with Lots of Gesso]]></title>
+        <id>https://hackaday.com/?p=503787</id>
+        <link href="https://hackaday.com/2021/11/01/smoothing-out-foam-parts-with-lots-of-gesso/"/>
+        <updated>2021-11-01T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Whether you’re building a product mock-up or a lightweight enclosure, carving your parts out of hard foam is a fast way to get the job done. Unfortunately, the end result …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Built-in Looping Functions in Python]]></title>
+        <id>6114cfae72231b077cdae432</id>
+        <link href="https://www.freecodecamp.org/news/python-looping-functions/"/>
+        <updated>2021-11-01T18:34:42.000Z</updated>
+        <summary type="html"><![CDATA[When you're looping through a sequence in Python like a list, tuple, string, or dictionary, do you ever feel like your code is messy or you want to remove some variables from it?  Fortunately, Python has some useful inbuilt functions which make your code more concise and more readable. In]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shall We Play a Game?]]></title>
+        <id>https://hackaday.com/?p=503992</id>
+        <link href="https://hackaday.com/2021/11/01/shall-we-play-a-game/"/>
+        <updated>2021-11-01T18:01:56.000Z</updated>
+        <summary type="html"><![CDATA[A game show just for hackers like you is coming to the Hackaday Remoticon for the first time this year. Everyone is invited to take part in Hacker Trivia on …read more]]></summary>
+        <author>
+            <name>Mike Szczys</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As Biden Heads to Climate Talks, Supreme Court Move Could Stymie EPA Regulation]]></title>
+        <id>DC553987-15D3-4015-9AB9C3CC80FFC09D</id>
+        <link href="https://www.scientificamerican.com/article/as-biden-heads-to-climate-talks-supreme-court-move-could-stymie-epa-regulation/"/>
+        <updated>2021-11-01T17:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The court made a stunning decision to hear a challenge to the agency’s authority to restrict greenhouse gas emissions
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Lesley Clark, Niina H. Farah, Pamela King, E&amp;E News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magnesium: Where It Comes From And Why We’re Running Out]]></title>
+        <id>https://hackaday.com/?p=502750</id>
+        <link href="https://hackaday.com/2021/11/01/magnesium-where-it-comes-from-and-why-were-running-out/"/>
+        <updated>2021-11-01T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Okay, we’re not running out. We actually have tons of the stuff. But there is a global supply chain crisis. Most of the world’s magnesium is processed in China and …read more]]></summary>
+        <author>
+            <name>Adam Zeloof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dog and Cat 'Moms' and 'Dads' Really Are Parenting Their Pets]]></title>
+        <id>2B96BC2C-9692-467B-A9A3F766C10A69A5</id>
+        <link href="https://www.scientificamerican.com/article/dog-and-cat-moms-and-dads-really-are-parenting-their-pets/"/>
+        <updated>2021-11-01T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Evolutionary science suggests that humans nurture their pets like they do human children
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Shelly Volsche, The Conversation US</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Check the frequency of salmonella in your chicken]]></title>
+        <id>https://flowingdata.com/?p=65944</id>
+        <link href="https://flowingdata.com/2021/11/01/check-the-frequency-of-salmonella-in-your-chicken/"/>
+        <updated>2021-11-01T16:01:50.000Z</updated>
+        <summary type="html"><![CDATA[The USDA recommends that you cook your chicken to at least 165°F to…
+Tags: chicken, food, ProPublica, salmonella]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Retro Memory Hack Chat]]></title>
+        <id>https://hackaday.com/?p=503193&amp;preview=true&amp;preview_id=503193</id>
+        <link href="https://hackaday.com/2021/11/01/retro-memory-hack-chat/"/>
+        <updated>2021-11-01T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Join us on Wednesday, November 3 at noon Pacific for the Retro Memory Hack Chat with Andy Geppert! With how cheap and easy-to-integrate modern memory chips have become, it’s easy …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – Find Insertion Point in Sorted List via bisect_left or bisect_right]]></title>
+        <id>https://helloacm.com/?p=147412</id>
+        <link href="https://helloacm.com/teaching-kids-programming-find-insertion-point-in-sorted-list-via-bisect_left-or-bisect_right/"/>
+        <updated>2021-11-01T15:55:16.000Z</updated>
+        <summary type="html"><![CDATA[If a list/array sorted, we can find the insertion point/index of given value x via Binary Search Algorithm – which takes O(LogN) time. In Python, we have bisect_left and bisect_right from the...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use CodePen – A Beginner&#x27;s Guide]]></title>
+        <id>6048a6f0a7946308b7685a2c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-codepen/"/>
+        <updated>2021-11-01T15:47:46.000Z</updated>
+        <summary type="html"><![CDATA[CodePen is a popular online code editor used by many developers around the world. It is also one of the recommended editors you can use for the freeCodeCamp curriculum. CodePen is only for frontend projects and supports HTML, CSS, and JavaScript. If you need to build a project with a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Improve and Automate Your Web Development Workflow]]></title>
+        <id>6176aeb3d48e1707b6d7b0ab</id>
+        <link href="https://www.freecodecamp.org/news/how-to-improve-your-web-development-workflow/"/>
+        <updated>2021-11-01T15:47:31.000Z</updated>
+        <summary type="html"><![CDATA[The modern age of Web Development is incredible. We have a plethora of frameworks and libraries to help us work more efficiently, tons of quality resources to learn from, and numerous projects to inspire us. My decade-long journey as a web developer may not be very different from many of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Change to the Sound of the Voice Can Change Your Very Self-Identity]]></title>
+        <id>1F7AD405-15C4-47A0-B56F199D1DFC5638</id>
+        <link href="https://www.scientificamerican.com/article/a-change-to-the-sound-of-the-voice-can-change-your-very-self-identity/"/>
+        <updated>2021-11-01T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A French physician explains what happened to some of his patients
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Guillaume Jacquemont</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond IaaS: The Benefits of Using EaaS]]></title>
+        <id>https://devops.com/?p=146905</id>
+        <link href="https://devops.com/beyond-iaas-the-benefits-of-using-eaas/"/>
+        <updated>2021-11-01T15:24:40.000Z</updated>
+        <summary type="html"><![CDATA[Beyond IaaS: The Benefits of Using EaaS The market for cloud infrastructure is growing at a rapid clip. Driving factors include IT’s need to cut costs, provide more services, respond faster to business needs, and enable innovation and digital transformation. For many years, Infrastructure-as-a-Service (IaaS) offerings have been both the first and most used cloud […]
+The post Beyond IaaS: The Benefits of Using EaaS appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Louis Vistola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Emulator for OBP, the Spaceflight Computer From the 1960s]]></title>
+        <id>https://hackaday.com/?p=503430</id>
+        <link href="https://hackaday.com/2021/11/01/an-emulator-for-obp-the-spaceflight-computer-from-the-1960s/"/>
+        <updated>2021-11-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[David Given] frequently dives into retrocomputing, and we don’t just mean he refurbishes old computers. We mean things like creating a simulator and assembler for the OBP spaceflight computer, which …read more]]></summary>
+        <author>
+            <name>Donald Papp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Other People Don't Think You're a Mess]]></title>
+        <id>38D79916-D122-4A88-B6262DCC94E3264F</id>
+        <link href="https://www.scientificamerican.com/article/other-people-dont-think-youre-a-mess/"/>
+        <updated>2021-11-01T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Individuals often overestimate how harshly others judge them. But self-compassion can help build a more balanced, healthy perspective
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Anna Bruk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So, You Want to Build an @mention Autocomplete Feature?]]></title>
+        <id>https://css-tricks.com/?p=354588</id>
+        <link href="https://css-tricks.com/so-you-want-to-build-an-mention-autocomplete-feature/"/>
+        <updated>2021-11-01T14:27:26.000Z</updated>
+        <summary type="html"><![CDATA[We’re all familiar with the concept of autocompletion, right? You type something into a search box and it tries to guess what you’re looking for as you type, displaying suggestions, often below the cursor. While we’re used to autocomplete on …
+The post So, You Want to Build an @mention Autocomplete Feature? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Sarah Dayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surprising Limits Discovered in Quest for Optimal Solutions]]></title>
+        <id>https://www.quantamagazine.org/?p=109983</id>
+        <link href="https://www.quantamagazine.org/surprising-limits-discovered-in-quest-for-optimal-solutions-20211101/"/>
+        <updated>2021-11-01T14:19:14.000Z</updated>
+        <summary type="html"><![CDATA[Algorithms that zero in on solutions to optimization problems are the beating heart of machine reasoning. New results reveal surprising limits.            
+The post Surprising Limits Discovered in Quest for Optimal Solutions first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Max G. Levy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[See through the Glasswing Butterfly's Fascinating Wings]]></title>
+        <id>0AD4299A-2A56-4EAE-8217A173A72BA2A7</id>
+        <link href="https://www.scientificamerican.com/article/see-through-the-glasswing-butterflys-fascinating-wings/"/>
+        <updated>2021-11-01T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New research shows how these transparent wings develop
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Harini Barath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Early Earth's Slowing Rotation Helped Oxygen Build Up]]></title>
+        <id>E215CEE7-59CC-4C95-94A42E4BC73E6B28</id>
+        <link href="https://www.scientificamerican.com/article/early-earths-slowing-rotation-helped-oxygen-build-up/"/>
+        <updated>2021-11-01T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The planet’s spin may have mediated critical atmospheric oxygen
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Julia Rosen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FinOps 101: Demystifying Cloud Financial Operations for DevOps]]></title>
+        <id>https://devops.com/?p=146874</id>
+        <link href="https://devops.com/finops-101-demystifying-cloud-financial-operations-for-devops/"/>
+        <updated>2021-11-01T07:00:01.000Z</updated>
+        <summary type="html"><![CDATA[In an ideal world, all organizations would have a dedicated FinOps team—or at least a single specialist who could work to ensure that the cloud was operating in a financially savvy way. Of course, in reality, most organizations are strapped for skills and are operating lean teams where responsibilities are spread thickly across employees. In […]
+The post FinOps 101: Demystifying Cloud Financial Operations for DevOps appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Maxim Melamedov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choosing the Right Software Testing Metrics]]></title>
+        <id>https://devops.com/?p=146843</id>
+        <link href="https://devops.com/choosing-the-right-software-testing-metrics/"/>
+        <updated>2021-11-01T06:30:27.000Z</updated>
+        <summary type="html"><![CDATA[A software testing metric is a criterion to track the effectiveness of quality assurance efforts. First, you establish success indicators throughout the planning stage. Then, compare them with the received metric after the completion of the process. However, many software QA and test experts tend to focus on how the tests will be executed rather […]
+The post Choosing the Right Software Testing Metrics appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Alex Husar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Env Vars]]></title>
+        <id>https://devops.com/?p=146902</id>
+        <link href="https://devops.com/env-vars/"/>
+        <updated>2021-11-01T06:00:38.000Z</updated>
+        <summary type="html"><![CDATA[The post Env Vars appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>ROELBOB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Existence and Other Questions: Selected Works of John Horgan]]></title>
+        <id>683A1EFD-8808-447F-AECCB501D8C8D1E8</id>
+        <link href="https://www.scientificamerican.com/store/ebooks/existence-and-other-questions-selected-works-of-john-horgan/"/>
+        <updated>2021-11-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Does free will exist? Is the Schrödinger Equation True? How does matter make a mind? In his Scientific American column, John Horgan takes a scientific approach to exploring mysteries such as...
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Scientific American Content: Global</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS-ing Candy Ghost Buttons]]></title>
+        <id>https://css-tricks.com/?p=354804</id>
+        <link href="https://css-tricks.com/css-ing-candy-ghost-buttons/"/>
+        <updated>2021-11-01T01:04:53.000Z</updated>
+        <summary type="html"><![CDATA[Recently, while looking for some ideas on what to code as I have zero artistic sense so the only thing I can do is find pretty things that other people have come up with and remake them with clean and …
+The post CSS-ing Candy Ghost Buttons appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ana Tudor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hackaday Links: October 31, 2021]]></title>
         <id>https://hackaday.com/?p=503166&amp;preview=true&amp;preview_id=503166</id>
@@ -311,6 +677,19 @@
         <summary type="html"><![CDATA[Student and hacker [prusteen] recently fell in love with the Pomodoro method of time management. That’s where you concentrate on your task for 25 minutes, then take a five-minute break, …read more]]></summary>
         <author>
             <name>Kristina Panos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COVID Vaccine Authorized for Kids Age 5 to 11]]></title>
+        <id>C0162303-E5AD-41CE-ABAD691C48EEC73E</id>
+        <link href="https://www.scientificamerican.com/article/covid-vaccine-authorized-for-kids-age-5-to-111/"/>
+        <updated>2021-10-29T21:20:00.000Z</updated>
+        <summary type="html"><![CDATA[The FDA’s decision to expand eligibility for the Pfizer vaccine to young kids could mean less illness, safer school and more freedom
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Tara Haelle</name>
         </author>
     </entry>
     <entry>
