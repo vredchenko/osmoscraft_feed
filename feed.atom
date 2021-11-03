@@ -2,10 +2,319 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2021-11-02T00:43:15.579Z</updated>
+    <updated>2021-11-03T00:40:34.871Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tiny Open Hardware Linux SBC Hides In Plain Sight]]></title>
+        <id>https://hackaday.com/?p=503596</id>
+        <link href="https://hackaday.com/2021/11/02/tiny-open-hardware-linux-sbc-hides-in-plain-sight/"/>
+        <updated>2021-11-02T23:01:59.000Z</updated>
+        <summary type="html"><![CDATA[There was a time, not quite so long ago, when a computer was a beige box that sat on your desk. Before that, computers were big enough to double as …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxying Third-Party JavaScript as First-Party JavaScript (and the Potential Effect on Analytics)]]></title>
+        <id>https://css-tricks.com/?p=354619</id>
+        <link href="https://css-tricks.com/proxying-third-party-javascript-as-first-party-javascript-and-the-potential-effect-on-analytics/"/>
+        <updated>2021-11-02T22:50:37.000Z</updated>
+        <summary type="html"><![CDATA[First, check out how incredibly easy it is to write a Cloudflare Worker to proxy another URL:
+addEventListener("fetch", (event) ={
+  event.respondWith(
+     fetch("https://css-tricks.com")
+  );
+});
+It doesn’t have any error handling or anything, but hey, it works:
+Now imagine how …
+The post Proxying Third-Party JavaScript as First-Party JavaScript (and the Potential Effect on Analytics) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GUI Challenges]]></title>
+        <id>https://css-tricks.com/?p=355016</id>
+        <link href="https://web.dev/shows/gui-challenges/"/>
+        <updated>2021-11-02T21:28:22.000Z</updated>
+        <summary type="html"><![CDATA[I keep bookmarking Adam’s GUI Challenges posts/videos and, before I even have a chance to review and link them up, another one is already published! Fortunately, the homepage for them on web.dev is a nice roundup. 
+For example, a recent …
+The post GUI Challenges appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer Vision Lets You Skip Songs with a Glance]]></title>
+        <id>https://hackaday.com/?p=503806</id>
+        <link href="https://hackaday.com/2021/11/02/computer-vision-lets-you-skip-songs-with-a-glance/"/>
+        <updated>2021-11-02T20:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wished you could control your home automation devices with nothing more than a withering stare? Well then you’re in luck, as [Norbert Zare] has come up with …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Things We Must Do to Tackle Climate Change]]></title>
+        <id>8C60C71F-77C0-4A89-9EBFC878435F3DFE</id>
+        <link href="https://www.scientificamerican.com/article/three-things-we-must-do-to-tackle-climate-change/"/>
+        <updated>2021-11-02T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s time to act rapidly and decisively
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Susan Joy Hassol, Jerry Melillo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – Greedy Algorithm to Find Longest Increasing Subsequence in O(NLogN) via Binary Search]]></title>
+        <id>https://helloacm.com/?p=147428</id>
+        <link href="https://helloacm.com/teaching-kids-programming-greedy-algorithm-to-find-longest-increasing-subsequence-in-onlogn-via-binary-search/"/>
+        <updated>2021-11-02T19:28:46.000Z</updated>
+        <summary type="html"><![CDATA[Given an integer array nums, return the length of the longest strictly increasing subsequence. A subsequence is a sequence that can be derived from an array by deleting some or no elements without...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flying Blind: Taking Flight Simulation To A New Level In Accessibility]]></title>
+        <id>https://hackaday.com/?p=504382</id>
+        <link href="https://hackaday.com/2021/11/02/flying-blind-taking-flight-simulation-to-a-new-level-in-accessibility/"/>
+        <updated>2021-11-02T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Software developers [Andy Borka] and [Jason Fayre] have a love for aviation. They are also both totally blind. They’ve developed software called Talking Flight Monitor, and it has made flight …read more]]></summary>
+        <author>
+            <name>Ryan Flowers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Bonjour on my Computer? Windows 10 Bonjour Program PC Guide]]></title>
+        <id>617fffad8bcfae07ca4df6d2</id>
+        <link href="https://www.freecodecamp.org/news/what-is-bonjour-on-my-computer/"/>
+        <updated>2021-11-02T18:23:02.000Z</updated>
+        <summary type="html"><![CDATA[Apple devices work well and connect readily with other Apple devices. But they have a hard time communicating with devices running other operating systems like Windows and Linux.  If you have both Apple and Windows devices, you might want to share files between them over a local network. And this]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Change Mouse DPI Settings in Windows 10]]></title>
+        <id>61810f888bcfae07ca4e007b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-change-mouse-dpi-settings-in-windows-10/"/>
+        <updated>2021-11-02T17:05:06.000Z</updated>
+        <summary type="html"><![CDATA[If your work requires a lot of precision, like graphic design and gaming, then you might want to adjust how fast or slow your external mouse or keyboard is.  In this guide, I will show you how you can make your mouse more sensitive or less sensitive by changing its]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Get Into Cars: Endurance Racing Builds]]></title>
+        <id>https://hackaday.com/?p=503665</id>
+        <link href="https://hackaday.com/2021/11/02/how-to-get-into-cars-endurance-racing-builds/"/>
+        <updated>2021-11-02T17:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Many an automotive enthusiast finds themselves at a track day eventually. Typically, this involves competing against the clock to better one’s laptimes in short sessions throughout the day. Such events are …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Different Ways to Charge for a Website Project – Freelance Developer Guide]]></title>
+        <id>61653c74804854468fda9148</id>
+        <link href="https://www.freecodecamp.org/news/different-ways-to-charge-for-a-website/"/>
+        <updated>2021-11-02T16:37:58.000Z</updated>
+        <summary type="html"><![CDATA[As someone who offers a service as a freelancer, you have a major say in how you price a website project. But how do you go about charging for a website project? Sure, you can bill by the hour, but is there a better way? In this article, we are]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Her Machine Learning Tools Pull Insights From Cell Images]]></title>
+        <id>https://www.quantamagazine.org/?p=109986</id>
+        <link href="https://www.quantamagazine.org/anne-carpenters-ai-tools-pull-insights-from-cell-images-20211102/"/>
+        <updated>2021-11-02T15:59:54.000Z</updated>
+        <summary type="html"><![CDATA[The computational biologist Anne Carpenter creates software that brings the power of machine learning to researchers seeking answers in mountains of cell images.            
+The post Her Machine Learning Tools Pull Insights From Cell Images first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Esther Landhuis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Your Own Browser Extension [Example Project Included]]]></title>
+        <id>617ce33033422e07df3678a3</id>
+        <link href="https://www.freecodecamp.org/news/write-your-own-browser-extensions/"/>
+        <updated>2021-11-02T15:57:40.000Z</updated>
+        <summary type="html"><![CDATA[In this article we will talk about Browser extensions – what they are, how they work, and how you can build your own. We will finish by actually writing our own extension (Super Fun!) which allows us to copy any code snippet to our clipboard with a click of a single]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hardware Project Becomes Successful Product for Solo Developer]]></title>
+        <id>https://hackaday.com/?p=504021</id>
+        <link href="https://hackaday.com/2021/11/02/hardware-project-becomes-successful-product-for-solo-developer/"/>
+        <updated>2021-11-02T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[[Michael Lynch] has been a solo developer for over three years now, and has been carefully cataloguing his attempts at generating revenue for himself ever since making the jump to …read more]]></summary>
+        <author>
+            <name>Donald Papp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. Announces New Rules to Curtail Methane at Climate Summit]]></title>
+        <id>0EFF54AB-7023-4096-A59C983B27EBB79C</id>
+        <link href="https://www.scientificamerican.com/article/u-s-announces-new-rules-to-curtail-methane-at-climate-summit/"/>
+        <updated>2021-11-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The proposed EPA rules will cover the full fossil fuel supply chain
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Jean Chemnick, E&amp;E News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Common Antidepressant Slashes Risk of COVID Death]]></title>
+        <id>6AD60EB4-79AC-43C0-AEE94A70E4163314</id>
+        <link href="https://www.scientificamerican.com/article/common-antidepressant-slashes-risk-of-covid-death/"/>
+        <updated>2021-11-02T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Fluvoxamine is both inexpensive and highly effective at preventing mild COVID-19 from turning severe
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Saima May Sidik, Nature magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rebase vs. Merge: Integrating Changes in Git]]></title>
+        <id>https://css-tricks.com/?p=354734</id>
+        <link href="https://css-tricks.com/rebase-vs-merge-integrating-changes-in-git/"/>
+        <updated>2021-11-02T14:19:12.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of our “Advanced Git” series. Be sure to follow us on Twitter or sign up for our newsletter to hear about the next articles!
+Most developers understand that it’s important to use branches in Git. In …
+The post Rebase vs. Merge: Integrating Changes in Git appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Tobias Günther</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Responsible JavaScript]]></title>
+        <id>https://css-tricks.com/?p=355395</id>
+        <link href="https://css-tricks.com/responsible-javascript-2/"/>
+        <updated>2021-11-02T14:17:55.000Z</updated>
+        <summary type="html"><![CDATA[High five to Jeremy on the big release of Responsible JavaScript on A Book Apart. There is a lot of talk about how the proliferation of JavaScript has had a negative impact on the web, but now we have …
+The post Responsible JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30 Days of Terror: the Logistics of Launching the James Webb Space Telescope]]></title>
+        <id>https://hackaday.com/?p=504225</id>
+        <link href="https://hackaday.com/2021/11/02/30-days-of-terror-the-logistics-of-launching-the-james-webb-space-telescope/"/>
+        <updated>2021-11-02T14:01:16.000Z</updated>
+        <summary type="html"><![CDATA[Back during the 2019 Superconference in Pasadena, I had the chance to go to Northrop Grumman’s Redondo Beach campus to get a look at the James Webb Space Telescope. There …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newly Independent VMware to Focus on Multi-Cloud]]></title>
+        <id>https://devops.com/?p=146941</id>
+        <link href="https://devops.com/newly-independent-vmware-to-focus-on-multi-cloud/"/>
+        <updated>2021-11-02T13:29:53.000Z</updated>
+        <summary type="html"><![CDATA[As an independent company once again, VMware will focus its efforts on providing management planes that span multiple cloud computing environments after officially spinning out of Dell Technologies. Ray O’Farrell, executive vice president for the cloud-native apps business unit at VMware, said the company now has a unique opportunity to work closely with providers of […]
+The post Newly Independent VMware to Focus on Multi-Cloud appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Mike Vizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should Booster Shots Be Required?]]></title>
+        <id>A93C6970-2537-42E6-9445B8C9AB4711E6</id>
+        <link href="https://www.scientificamerican.com/article/should-booster-shots-be-required/"/>
+        <updated>2021-11-02T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This Covid question played out long ago, in the fight against smallpox in 1872
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Mark Fischetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Access to Electric Vehicles Is an Environmental Justice Issue]]></title>
+        <id>42CFB995-7155-47FD-BE75E666551CCE64</id>
+        <link href="https://www.scientificamerican.com/article/access-to-electric-vehicles-is-an-environmental-justice-issue/"/>
+        <updated>2021-11-02T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[We must build tomorrow’s transportation infrastructure with equity at its core
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Neha Palmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hedgehog Gesture Sensor Built With Cheap Time-of-Flight Modules]]></title>
+        <id>https://hackaday.com/?p=504347</id>
+        <link href="https://hackaday.com/2021/11/02/hedgehog-gesture-sensor-built-with-cheap-time-of-flight-modules/"/>
+        <updated>2021-11-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Time-of-flight sensors used to be expensive obscurities, capable of measuring the travel time of photons themselves and often used for tracking purposes. However, the technology is cheaper now, such that …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2-D Room-Temperature Magnets Could Unlock Quantum Computing]]></title>
+        <id>FFD1D52A-0CB3-4221-B0542A799D3E2851</id>
+        <link href="https://www.scientificamerican.com/article/2-d-room-temperature-magnets-could-unlock-quantum-computing/"/>
+        <updated>2021-11-02T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[A new magnetic material, just one atom thick, can manipulate electrons’ spin for next-generation data storage
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Joanna Thompson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tracking the Lenna image]]></title>
+        <id>https://flowingdata.com/?p=65948</id>
+        <link href="https://flowingdata.com/2021/11/02/tracking-the-lenna-image/"/>
+        <updated>2021-11-02T07:02:17.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve taken classes that cover image processing, you’ve likely come across the…
+Tags: Jennifer Ding, Lenna, Pudding]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI is Changing DevOps for the Better]]></title>
+        <id>https://devops.com/?p=146922</id>
+        <link href="https://devops.com/how-ai-is-changing-devops-for-the-better/"/>
+        <updated>2021-11-02T07:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Managing a DevOps environment involves a high degree of complexity. The rapid proliferation of data has made it difficult for DevOps teams to effectively onboard, ingest and unlock data and implement information to make good business decisions and deliver delightful experiences. Imagine a team poring over troves of information to identify critical factors that triggered […]
+The post How AI is Changing DevOps for the Better appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Chandra Shekhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GraphQL’s Greatest Strength is Also its Greatest Weakness]]></title>
+        <id>https://devops.com/?p=146820</id>
+        <link href="https://devops.com/graphqls-greatest-strength-is-also-its-greatest-weakness/"/>
+        <updated>2021-11-02T06:30:33.000Z</updated>
+        <summary type="html"><![CDATA[Michael Scott: Why don’t I tell you what my greatest weaknesses are? I work too hard, I care too much and sometimes I can be too invested in my job. David Wallace: Okay. And your strengths? Michael Scott: Well, my weaknesses are actually strengths. David Wallace: Oh. Yes. Very good. GraphQL is a new query […]
+The post GraphQL’s Greatest Strength is Also its Greatest Weakness appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Bill Doerrfeld</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Waterjet-Powered Speedboat For Fun And Research]]></title>
         <id>https://hackaday.com/?p=503163</id>

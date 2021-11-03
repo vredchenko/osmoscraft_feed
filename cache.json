@@ -6,6 +6,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=354619",
+          "author": "Chris Coyier",
+          "description": "First, check out how incredibly easy it is to write a Cloudflare Worker to proxy another URL:\naddEventListener(\"fetch\", (event) ={\n  event.respondWith(\n     fetch(\"https://css-tricks.com\")\n  );\n});\nIt doesn’t have any error handling or anything, but hey, it works:\nNow imagine how …\nThe post Proxying Third-Party JavaScript as First-Party JavaScript (and the Potential Effect on Analytics) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/proxying-third-party-javascript-as-first-party-javascript-and-the-potential-effect-on-analytics/",
+          "publishedOn": "2021-11-02T22:50:37.000Z",
+          "wordCount": 1137,
+          "title": "Proxying Third-Party JavaScript as First-Party JavaScript (and the Potential Effect on Analytics)"
+        },
+        {
+          "id": "https://css-tricks.com/?p=355016",
+          "author": "Chris Coyier",
+          "description": "I keep bookmarking Adam’s GUI Challenges posts/videos and, before I even have a chance to review and link them up, another one is already published! Fortunately, the homepage for them on web.dev is a nice roundup. \nFor example, a recent …\nThe post GUI Challenges appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://web.dev/shows/gui-challenges/",
+          "publishedOn": "2021-11-02T21:28:22.000Z",
+          "wordCount": 547,
+          "title": "GUI Challenges"
+        },
+        {
+          "id": "https://css-tricks.com/?p=354734",
+          "author": "Tobias Günther",
+          "description": "This article is part of our “Advanced Git” series. Be sure to follow us on Twitter or sign up for our newsletter to hear about the next articles!\nMost developers understand that it’s important to use branches in Git. In …\nThe post Rebase vs. Merge: Integrating Changes in Git appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/rebase-vs-merge-integrating-changes-in-git/",
+          "publishedOn": "2021-11-02T14:19:12.000Z",
+          "wordCount": 2057,
+          "title": "Rebase vs. Merge: Integrating Changes in Git"
+        },
+        {
+          "id": "https://css-tricks.com/?p=355395",
+          "author": "Chris Coyier",
+          "description": "High five to Jeremy on the big release of Responsible JavaScript on A Book Apart. There is a lot of talk about how the proliferation of JavaScript has had a negative impact on the web, but now we have …\nThe post Responsible JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/responsible-javascript-2/",
+          "publishedOn": "2021-11-02T14:17:55.000Z",
+          "wordCount": 692,
+          "title": "Responsible JavaScript"
+        },
+        {
           "id": "https://css-tricks.com/?p=354978",
           "author": "Chris Coyier",
           "description": "There are thousands of articles out there about buttons and links on the web; the differences and how to use them properly. Hey, I don’t mind. I wrote my own as well¹.\nIt’s such a common mistake on …\nThe post Buttons vs. Links appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -678,6 +714,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "617fffad8bcfae07ca4df6d2",
+          "author": null,
+          "description": "Apple devices work well and connect readily with other Apple devices. But they have a hard time communicating with devices running other operating systems like Windows and Linux.  If you have both Apple and Windows devices, you might want to share files between them over a local network. And this",
+          "link": "https://www.freecodecamp.org/news/what-is-bonjour-on-my-computer/",
+          "publishedOn": "2021-11-02T18:23:02.000Z",
+          "wordCount": 1000,
+          "title": "What is Bonjour on my Computer? Windows 10 Bonjour Program PC Guide"
+        },
+        {
+          "id": "61810f888bcfae07ca4e007b",
+          "author": null,
+          "description": "If your work requires a lot of precision, like graphic design and gaming, then you might want to adjust how fast or slow your external mouse or keyboard is.  In this guide, I will show you how you can make your mouse more sensitive or less sensitive by changing its",
+          "link": "https://www.freecodecamp.org/news/how-to-change-mouse-dpi-settings-in-windows-10/",
+          "publishedOn": "2021-11-02T17:05:06.000Z",
+          "wordCount": 553,
+          "title": "How to Change Mouse DPI Settings in Windows 10"
+        },
+        {
+          "id": "61653c74804854468fda9148",
+          "author": null,
+          "description": "As someone who offers a service as a freelancer, you have a major say in how you price a website project. But how do you go about charging for a website project? Sure, you can bill by the hour, but is there a better way? In this article, we are",
+          "link": "https://www.freecodecamp.org/news/different-ways-to-charge-for-a-website/",
+          "publishedOn": "2021-11-02T16:37:58.000Z",
+          "wordCount": 2312,
+          "title": "The Different Ways to Charge for a Website Project – Freelance Developer Guide"
+        },
+        {
+          "id": "617ce33033422e07df3678a3",
+          "author": null,
+          "description": "In this article we will talk about Browser extensions – what they are, how they work, and how you can build your own. We will finish by actually writing our own extension (Super Fun!) which allows us to copy any code snippet to our clipboard with a click of a single",
+          "link": "https://www.freecodecamp.org/news/write-your-own-browser-extensions/",
+          "publishedOn": "2021-11-02T15:57:40.000Z",
+          "wordCount": 1529,
+          "title": "How to Write Your Own Browser Extension [Example Project Included]"
+        },
         {
           "id": "613f3cba852f4307d372c7e0",
           "author": null,
@@ -4784,6 +4856,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=147428",
+          "author": "ACMer",
+          "description": "Given an integer array nums, return the length of the longest strictly increasing subsequence. A subsequence is a sequence that can be derived from an array by deleting some or no elements without...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-greedy-algorithm-to-find-longest-increasing-subsequence-in-onlogn-via-binary-search/",
+          "publishedOn": "2021-11-02T19:28:46.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Greedy Algorithm to Find Longest Increasing Subsequence in O(NLogN) via Binary Search",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=147412",
           "author": "ACMer",
           "description": "If a list/array sorted, we can find the insertion point/index of given value x via Binary Search Algorithm – which takes O(LogN) time. In Python, we have bisect_left and bisect_right from the...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -5566,6 +5648,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=503596",
+          "author": "Tom Nardi",
+          "description": "There was a time, not quite so long ago, when a computer was a beige box that sat on your desk. Before that, computers were big enough to double as …read more",
+          "link": "https://hackaday.com/2021/11/02/tiny-open-hardware-linux-sbc-hides-in-plain-sight/",
+          "publishedOn": "2021-11-02T23:01:59.000Z",
+          "wordCount": 1387,
+          "title": "Tiny Open Hardware Linux SBC Hides In Plain Sight"
+        },
+        {
+          "id": "https://hackaday.com/?p=503806",
+          "author": "Tom Nardi",
+          "description": "Have you ever wished you could control your home automation devices with nothing more than a withering stare? Well then you’re in luck, as [Norbert Zare] has come up with …read more",
+          "link": "https://hackaday.com/2021/11/02/computer-vision-lets-you-skip-songs-with-a-glance/",
+          "publishedOn": "2021-11-02T20:00:38.000Z",
+          "wordCount": 1354,
+          "title": "Computer Vision Lets You Skip Songs with a Glance"
+        },
+        {
+          "id": "https://hackaday.com/?p=504382",
+          "author": "Ryan Flowers",
+          "description": "Software developers [Andy Borka] and [Jason Fayre] have a love for aviation. They are also both totally blind. They’ve developed software called Talking Flight Monitor, and it has made flight …read more",
+          "link": "https://hackaday.com/2021/11/02/flying-blind-taking-flight-simulation-to-a-new-level-in-accessibility/",
+          "publishedOn": "2021-11-02T18:30:00.000Z",
+          "wordCount": 1403,
+          "title": "Flying Blind: Taking Flight Simulation To A New Level In Accessibility"
+        },
+        {
+          "id": "https://hackaday.com/?p=503665",
+          "author": "Lewin Day",
+          "description": "Many an automotive enthusiast finds themselves at a track day eventually. Typically, this involves competing against the clock to better one’s laptimes in short sessions throughout the day. Such events are …read more",
+          "link": "https://hackaday.com/2021/11/02/how-to-get-into-cars-endurance-racing-builds/",
+          "publishedOn": "2021-11-02T17:00:51.000Z",
+          "wordCount": 3171,
+          "title": "How To Get Into Cars: Endurance Racing Builds"
+        },
+        {
+          "id": "https://hackaday.com/?p=504021",
+          "author": "Donald Papp",
+          "description": "[Michael Lynch] has been a solo developer for over three years now, and has been carefully cataloguing his attempts at generating revenue for himself ever since making the jump to …read more",
+          "link": "https://hackaday.com/2021/11/02/hardware-project-becomes-successful-product-for-solo-developer/",
+          "publishedOn": "2021-11-02T15:30:00.000Z",
+          "wordCount": 1829,
+          "title": "Hardware Project Becomes Successful Product for Solo Developer"
+        },
+        {
+          "id": "https://hackaday.com/?p=504225",
+          "author": "Dan Maloney",
+          "description": "Back during the 2019 Superconference in Pasadena, I had the chance to go to Northrop Grumman’s Redondo Beach campus to get a look at the James Webb Space Telescope. There …read more",
+          "link": "https://hackaday.com/2021/11/02/30-days-of-terror-the-logistics-of-launching-the-james-webb-space-telescope/",
+          "publishedOn": "2021-11-02T14:01:16.000Z",
+          "wordCount": 2755,
+          "title": "30 Days of Terror: the Logistics of Launching the James Webb Space Telescope"
+        },
+        {
+          "id": "https://hackaday.com/?p=504347",
+          "author": "Lewin Day",
+          "description": "Time-of-flight sensors used to be expensive obscurities, capable of measuring the travel time of photons themselves and often used for tracking purposes. However, the technology is cheaper now, such that …read more",
+          "link": "https://hackaday.com/2021/11/02/hedgehog-gesture-sensor-built-with-cheap-time-of-flight-modules/",
+          "publishedOn": "2021-11-02T11:00:00.000Z",
+          "wordCount": 1244,
+          "title": "Hedgehog Gesture Sensor Built With Cheap Time-of-Flight Modules"
+        },
         {
           "id": "https://hackaday.com/?p=503163",
           "author": "Bryan Cockfield",
@@ -7589,6 +7734,66 @@
       "feedUrl": "http://rss.sciam.com/scientificamerican-global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "8C60C71F-77C0-4A89-9EBFC878435F3DFE",
+          "author": "Susan Joy Hassol, Jerry Melillo",
+          "description": "It’s time to act rapidly and decisively\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/three-things-we-must-do-to-tackle-climate-change/",
+          "publishedOn": "2021-11-02T19:30:00.000Z",
+          "wordCount": null,
+          "title": "Three Things We Must Do to Tackle Climate Change",
+          "itunes": {}
+        },
+        {
+          "id": "0EFF54AB-7023-4096-A59C983B27EBB79C",
+          "author": "Jean Chemnick, E&E News",
+          "description": "The proposed EPA rules will cover the full fossil fuel supply chain\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/u-s-announces-new-rules-to-curtail-methane-at-climate-summit/",
+          "publishedOn": "2021-11-02T15:00:00.000Z",
+          "wordCount": null,
+          "title": "U.S. Announces New Rules to Curtail Methane at Climate Summit",
+          "itunes": {}
+        },
+        {
+          "id": "6AD60EB4-79AC-43C0-AEE94A70E4163314",
+          "author": "Saima May Sidik, Nature magazine",
+          "description": "Fluvoxamine is both inexpensive and highly effective at preventing mild COVID-19 from turning severe\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/common-antidepressant-slashes-risk-of-covid-death/",
+          "publishedOn": "2021-11-02T14:30:00.000Z",
+          "wordCount": null,
+          "title": "Common Antidepressant Slashes Risk of COVID Death",
+          "itunes": {}
+        },
+        {
+          "id": "A93C6970-2537-42E6-9445B8C9AB4711E6",
+          "author": "Mark Fischetti",
+          "description": "This Covid question played out long ago, in the fight against smallpox in 1872\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/should-booster-shots-be-required/",
+          "publishedOn": "2021-11-02T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Should Booster Shots Be Required?",
+          "itunes": {}
+        },
+        {
+          "id": "42CFB995-7155-47FD-BE75E666551CCE64",
+          "author": "Neha Palmer",
+          "description": "We must build tomorrow’s transportation infrastructure with equity at its core\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/access-to-electric-vehicles-is-an-environmental-justice-issue/",
+          "publishedOn": "2021-11-02T11:30:00.000Z",
+          "wordCount": null,
+          "title": "Access to Electric Vehicles Is an Environmental Justice Issue",
+          "itunes": {}
+        },
+        {
+          "id": "FFD1D52A-0CB3-4221-B0542A799D3E2851",
+          "author": "Joanna Thompson",
+          "description": "A new magnetic material, just one atom thick, can manipulate electrons’ spin for next-generation data storage\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/2-d-room-temperature-magnets-could-unlock-quantum-computing/",
+          "publishedOn": "2021-11-02T10:45:00.000Z",
+          "wordCount": null,
+          "title": "2-D Room-Temperature Magnets Could Unlock Quantum Computing",
+          "itunes": {}
+        },
         {
           "id": "DC553987-15D3-4015-9AB9C3CC80FFC09D",
           "author": "Lesley Clark, Niina H. Farah, Pamela King, E&E News",
@@ -9618,6 +9823,33 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=146941",
+          "author": "Mike Vizard",
+          "description": "As an independent company once again, VMware will focus its efforts on providing management planes that span multiple cloud computing environments after officially spinning out of Dell Technologies. Ray O’Farrell, executive vice president for the cloud-native apps business unit at VMware, said the company now has a unique opportunity to work closely with providers of […]\nThe post Newly Independent VMware to Focus on Multi-Cloud appeared first on DevOps.com.",
+          "link": "https://devops.com/newly-independent-vmware-to-focus-on-multi-cloud/",
+          "publishedOn": "2021-11-02T13:29:53.000Z",
+          "wordCount": 1043,
+          "title": "Newly Independent VMware to Focus on Multi-Cloud"
+        },
+        {
+          "id": "https://devops.com/?p=146922",
+          "author": "Chandra Shekhar",
+          "description": "Managing a DevOps environment involves a high degree of complexity. The rapid proliferation of data has made it difficult for DevOps teams to effectively onboard, ingest and unlock data and implement information to make good business decisions and deliver delightful experiences. Imagine a team poring over troves of information to identify critical factors that triggered […]\nThe post How AI is Changing DevOps for the Better appeared first on DevOps.com.",
+          "link": "https://devops.com/how-ai-is-changing-devops-for-the-better/",
+          "publishedOn": "2021-11-02T07:00:34.000Z",
+          "wordCount": 1202,
+          "title": "How AI is Changing DevOps for the Better"
+        },
+        {
+          "id": "https://devops.com/?p=146820",
+          "author": "Bill Doerrfeld",
+          "description": "Michael Scott: Why don’t I tell you what my greatest weaknesses are? I work too hard, I care too much and sometimes I can be too invested in my job. David Wallace: Okay. And your strengths? Michael Scott: Well, my weaknesses are actually strengths. David Wallace: Oh. Yes. Very good. GraphQL is a new query […]\nThe post GraphQL’s Greatest Strength is Also its Greatest Weakness appeared first on DevOps.com.",
+          "link": "https://devops.com/graphqls-greatest-strength-is-also-its-greatest-weakness/",
+          "publishedOn": "2021-11-02T06:30:33.000Z",
+          "wordCount": 1681,
+          "title": "GraphQL’s Greatest Strength is Also its Greatest Weakness"
+        },
+        {
           "id": "https://devops.com/?p=146929",
           "author": "Alan Shimel",
           "description": "Low-code development has become increasingly popular since the onset of the COVID-19 pandemic in 2020. Low-code technologies allow organizations to build and customize fully responsive, easy-to-deploy applications with little to no coding. It accelerates digital transformation and empowers citizens developers. In this episode of DevOps Unbound, hosts Alan Shimel and Mitch Ashley are joined by […]\nThe post DevOps Unbound: DevOps for Low-Code – Friend or Foe? appeared first on DevOps.com.",
@@ -10471,6 +10703,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=109986",
+          "author": "Esther Landhuis",
+          "description": "The computational biologist Anne Carpenter creates software that brings the power of machine learning to researchers seeking answers in mountains of cell images.            \nThe post Her Machine Learning Tools Pull Insights From Cell Images first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/anne-carpenters-ai-tools-pull-insights-from-cell-images-20211102/",
+          "publishedOn": "2021-11-02T15:59:54.000Z",
+          "wordCount": null,
+          "title": "Her Machine Learning Tools Pull Insights From Cell Images",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=109983",
           "author": "Max G. Levy",
           "description": "Algorithms that zero in on solutions to optimization problems are the beating heart of machine reasoning. New results reveal surprising limits.            \nThe post Surprising Limits Discovered in Quest for Optimal Solutions first appeared on Quanta Magazine",
@@ -10697,6 +10939,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=65948",
+          "author": "Nathan Yau",
+          "description": "If you’ve taken classes that cover image processing, you’ve likely come across the…\nTags: Jennifer Ding, Lenna, Pudding",
+          "link": "https://flowingdata.com/2021/11/02/tracking-the-lenna-image/",
+          "publishedOn": "2021-11-02T07:02:17.000Z",
+          "wordCount": 323,
+          "title": "Tracking the Lenna image"
+        },
         {
           "id": "https://flowingdata.com/?p=65944",
           "author": "Nathan Yau",
