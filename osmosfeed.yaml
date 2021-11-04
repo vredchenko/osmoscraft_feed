@@ -1,9 +1,9 @@
 cacheUrl: https://vredchenko.github.io/osmoscraft_feed/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
+  # Get new feature announcement via this feed:
+  - href: https://github.com/osmoscraft/osmosfeed/releases.atom
   - href: https://css-tricks.com/feed/
   - href: https://www.freecodecamp.org/news/rss/
-  # - href: https://www.makeuseof.com/feed/
   - href: https://hackernoon.com/feed
   - href: https://davidwalsh.name/feed
   - href: https://alistapart.com/main/feed/
@@ -14,7 +14,7 @@ sources:
   - href: https://devops.com/feed/
   - href: https://api.quantamagazine.org/feed/
   - href: https://flowingdata.com/feed
-  - https://github.com/readme.rss
+  - href: https://github.com/readme.rss
 
 # `siteTitle`: Title to use in the browser tab and the machine readable feed output. (optional)
 siteTitle: "vredchenko's RSS feed - using osmos::feed"
