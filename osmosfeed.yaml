@@ -8,7 +8,8 @@ sources:
   - href: https://davidwalsh.name/feed
   - href: https://alistapart.com/main/feed/
   - href: http://feeds.feedburner.com/helloacm?format=xml
-  - href: http://lambda-the-ultimate.org/rss.xml
+  # 502 Bad Gateway, disabled:
+  # - href: http://lambda-the-ultimate.org/rss.xml
   - href: https://hackaday.com/blog/feed/
   - href: http://rss.sciam.com/scientificamerican-global
   - href: https://devops.com/feed/
