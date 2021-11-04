@@ -1,10 +1,53 @@
 {
   "sources": [
     {
+      "title": "Release notes from osmosfeed",
+      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "articles": [
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3",
+          "author": null,
+          "description": "Fixed: broken links in documentation\nChore: Dependency updates\nThank you: @hirdot",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3",
+          "publishedOn": "2021-10-16T00:01:47.000Z",
+          "wordCount": 292,
+          "title": "v1.11.3"
+        },
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2",
+          "author": null,
+          "description": "Fixed: unicode characters in URL caused download error\nFixed: project root npm install error\nAdded: unit test library\nChore: Dependency updates\nThank you: @CaptNo1",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2",
+          "publishedOn": "2021-09-26T18:45:39.000Z",
+          "wordCount": 323,
+          "title": "v1.11.2"
+        },
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1",
+          "author": null,
+          "description": "Fixed: Unexpected nested element in author field crashes the parser\nThank you @ad-m",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1",
+          "publishedOn": "2021-09-16T06:39:32.000Z",
+          "wordCount": 317,
+          "title": "v1.11.1"
+        }
+      ]
+    },
+    {
       "title": "CSS-Tricks",
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=354925",
+          "author": "Jay Hoffmann",
+          "description": "In June of 1995, representatives from Microsoft arrived at the Netscape offices. The stated goal was to find ways to work together—Netscape as the single dominant force in the browser market and Microsoft as a tech giant just beginning to …\nThe post Chapter 10: Browser Wars appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/chapter-10-browser-wars/",
+          "publishedOn": "2021-11-03T15:09:50.000Z",
+          "wordCount": 6546,
+          "title": "Chapter 10: Browser Wars"
+        },
         {
           "id": "https://css-tricks.com/?p=354619",
           "author": "Chris Coyier",
@@ -13,6 +56,15 @@
           "publishedOn": "2021-11-02T22:50:37.000Z",
           "wordCount": 1137,
           "title": "Proxying Third-Party JavaScript as First-Party JavaScript (and the Potential Effect on Analytics)"
+        },
+        {
+          "id": "https://css-tricks.com/?p=355016",
+          "author": "Chris Coyier",
+          "description": "I keep bookmarking Adam’s GUI Challenges posts/videos and, before I even have a chance to review and link them up, another one is already published! Fortunately, the homepage for them on web.dev is a nice roundup. \nFor example, a recent …\nThe post GUI Challenges appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/gui-challenges/",
+          "publishedOn": "2021-11-02T21:28:22.000Z",
+          "wordCount": 698,
+          "title": "GUI Challenges"
         },
         {
           "id": "https://css-tricks.com/?p=355016",
@@ -94,6 +146,15 @@
           "publishedOn": "2021-10-29T14:14:55.000Z",
           "wordCount": 3495,
           "title": "Create Your Own Automated Social Images With Resoc"
+        },
+        {
+          "id": "https://css-tricks.com/?p=354922",
+          "author": "Chris Coyier",
+          "description": "There is an old Russian fable where Okhsv and Okhsl are on a rowboat and Okhsv says to Okhsl, “What are the known shortcomings of HSL and HSV color pickers in design applications?” I kid, I kid. But really, what …\nThe post Okhsv and Okhsl appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/okhsv-and-okhsl/",
+          "publishedOn": "2021-10-28T20:20:07.000Z",
+          "wordCount": 523,
+          "title": "Okhsv and Okhsl"
         },
         {
           "id": "https://css-tricks.com/?p=354922",
@@ -714,6 +775,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "6181896c8bcfae07ca4e0407",
+          "author": null,
+          "description": "Ever since the outbreak of COVID-19 in December 2019, researchers in the field of artificial intelligence and machine learning have been trying to find better ways to diagnose the disease. They've worked on developing algorithms that would detect the disease within a matter of seconds – and only by looking at",
+          "link": "https://www.freecodecamp.org/news/deep-learning-with-pytorch/",
+          "publishedOn": "2021-11-03T19:49:35.000Z",
+          "wordCount": 4229,
+          "title": "Deep Learning Tutorial – How to Use PyTorch and Transfer Learning to Diagnose COVID-19 Patients"
+        },
+        {
+          "id": "6130917fd6679a07b7d40727",
+          "author": null,
+          "description": "In programming, you'll use loops when you need to repeat a block of code multiple times.  These repetitions of the same block of code a certain number of times are called iterations. And there's a looping condition that decides the number of iterations.  The for and the while loops are",
+          "link": "https://www.freecodecamp.org/news/for-loops-in-c/",
+          "publishedOn": "2021-11-03T15:56:21.000Z",
+          "wordCount": 1034,
+          "title": "For Loops in C – Explained with Code Examples"
+        },
+        {
+          "id": "61825f588bcfae07ca4e091e",
+          "author": null,
+          "description": "Zip files often contain multiple large files, so you might want to encrypt them or protect them with a password. That way, only certain people will have access to it.  In this guide, I will show you a great way to password protect a zip file, so you can be",
+          "link": "https://www.freecodecamp.org/news/password-protect-zip-file-windows10/",
+          "publishedOn": "2021-11-03T15:49:56.000Z",
+          "wordCount": 790,
+          "title": "How to Password Protect a Zip File [Windows 10 PC Guide]"
+        },
+        {
+          "id": "618216228bcfae07ca4e0733",
+          "author": null,
+          "description": "As you are building out a project, there might be times where you need to rename a local branch. But how do you do that in Git? In this article, I will provide you with two methods for renaming  local branches in Git.  How to Rename a Branch in Git",
+          "link": "https://www.freecodecamp.org/news/git-rename-branch-how-to-change-a-local-branch-name/",
+          "publishedOn": "2021-11-03T15:42:12.000Z",
+          "wordCount": 549,
+          "title": "Git Rename Branch – How to Change a Local Branch Name"
+        },
+        {
+          "id": "61828b8a8bcfae07ca4e0a1f",
+          "author": null,
+          "description": "Touch cat tail. Find man head. Who? The previous seven words are common Linux commands. If you are a programmer, you are likely going to need to use Linux and terminal commands at some point.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you",
+          "link": "https://www.freecodecamp.org/news/learn-the-50-most-used-linux-terminal-commands/",
+          "publishedOn": "2021-11-03T13:33:59.000Z",
+          "wordCount": 368,
+          "title": "Learn the 50 Most Used Linux &amp; Terminal Commands"
+        },
         {
           "id": "617fffad8bcfae07ca4df6d2",
           "author": null,
@@ -4734,6 +4840,15 @@
       "siteUrl": "https://davidwalsh.name",
       "articles": [
         {
+          "id": "https://davidwalsh.name/?p=27483",
+          "author": "David Walsh",
+          "description": "In the world of marketing and content targeting, having accurate geolocation data can be the difference between a thriving enterprise and a floundering business. Accurate data is everything, especially in the targeted marketing. When you need trustworthy geolocation data, IPWHOIS.io is a great source: fast, reliable, and accurate! Quick Hits Start for free, very competitive […]\nThe post Fast, Accurate Geolocation Data with IPWHOIS.io (Sponsored) appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/fast-accurate-geolocation-data-with-ipwhois-io",
+          "publishedOn": "2021-11-03T15:01:14.000Z",
+          "wordCount": 523,
+          "title": "Fast, Accurate Geolocation Data with IPWHOIS.io (Sponsored)"
+        },
+        {
           "id": "https://davidwalsh.name/?p=27480",
           "author": "David Walsh",
           "description": "One of the first commands you learn when experimenting with command line is rm, the utility for deleting files and directories. Deletion is a core computer UI operation but operating systems use a “Trash” paradigm, where files are stored before truly deleted. With the rm utility, however, files are immediately, permanently deleted. If you’re like […]\nThe post Command Line trash appeared first on David Walsh Blog.",
@@ -4838,15 +4953,6 @@
           "publishedOn": "2021-08-26T15:01:43.000Z",
           "wordCount": 4004,
           "title": "Design for Safety, An Excerpt"
-        },
-        {
-          "id": "https://alistapart.com/article/sustainable-web-design-excerpt/",
-          "author": "by",
-          "description": "In the 1950s, many in the elite running community had begun to believe it wasn’t possible to run a mile in less than four minutes. Runners had been attempting it since the late 19th century and were beginning to draw the conclusion that the human body simply wasn’t built for the task. \nBut on May 6, 1956, Roger Bannister took everyone by surprise. It was a cold, wet day in Oxford, England—conditions no one expected to lend themselves to record-setting—and yet Bannister did just that, running a mile in 3:59.4 and becoming the first person in the record books to run a mile in under four minutes. \nThis shift in the benchmark had profound effects; the world now knew that the four-minute mile was possible. Bannister’s record lasted only forty-six days, when it was snatched away by Australian ru…",
-          "link": "https://alistapart.com/article/sustainable-web-design-excerpt/",
-          "publishedOn": "2021-08-05T14:00:00.000Z",
-          "wordCount": 3523,
-          "title": "Sustainable Web Design, An Excerpt"
         }
       ]
     },
@@ -4855,6 +4961,16 @@
       "feedUrl": "http://feeds.feedburner.com/helloacm?format=xml",
       "siteUrl": "https://helloacm.com",
       "articles": [
+        {
+          "id": "https://helloacm.com/?p=147444",
+          "author": "ACMer",
+          "description": "There is a special keyboard with all keys in a single row. Given a string keyboard of length 26 indicating the layout of the keyboard (indexed from 0 to 25). Initially, your finger is at index 0. To...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-single-row-keyboard-via-hash-table/",
+          "publishedOn": "2021-11-03T20:55:50.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Single-Row Keyboard via Hash Table",
+          "itunes": {}
+        },
         {
           "id": "https://helloacm.com/?p=147428",
           "author": "ACMer",
@@ -5628,26 +5744,73 @@
       ]
     },
     {
-      "title": "Lambda the Ultimate - Programming Languages Weblog",
-      "feedUrl": "http://lambda-the-ultimate.org/rss.xml",
-      "siteUrl": "http://lambda-the-ultimate.org",
-      "articles": [
-        {
-          "id": "http://lambda-the-ultimate.org/node/5640",
-          "author": null,
-          "description": "Latent Effects for Reusable Language Components, by Birthe van den Berg, Tom Schrijvers, Casper Bach Poulsen, Nicolas Wu:\nThe development of programming languages can be quite complicated and costly. Hence, much effort has been devoted to the modular definition of language features that can be reused in various combinations to define new languages and experiment with their semantics. A notable outcome of these efforts is the algebra-based “datatypes \"a la carte\" (DTC) approach. When combined with algebraic effects, DTC can model a wide range of common language features. Unfortunately, the\n\nLooks like a nice generalization of the basic approach taken by algebraic effects to more subtle contexts. Algebraic effects have been discussed here on LtU many times. I think this description from section 2.3 is a pretty good overview of their approach:\nLE&H is based on a different, more sophisticated structure than AE&H’s free monad. This structure supports non-atomic operations (e.g., function abstraction, thunking, quoting) that contain or delimit computations whose execution may be deferred. Also, the layered handling is different. The idea is still the same, to replace bit by bit the structure of the tree by its meaning. Yet, while AE&H grows the meaning around the shrinking tree, LE&H grows little “pockets of meaning” around the individual nodes remaining in the tree, and not just around the root. The latter supports deferred effects because later handlers can still re-arrange the semantic pockets created by earlier handlers.",
-          "link": "http://lambda-the-ultimate.org/node/5640",
-          "publishedOn": "2021-10-14T14:02:48.000Z",
-          "wordCount": 644,
-          "title": "Latent Effects for Reusable Language Components"
-        }
-      ]
-    },
-    {
       "title": "Blog – Hackaday",
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=504083",
+          "author": "Bryan Cockfield",
+          "description": "DragonOS, a Debian-based Linux distribution specifically packaged for software-defined radio functionality, roared onto the wavelengths during the beginnings of the various pandemic lockdowns last year. Since then [Aaron], the creator …read more",
+          "link": "https://hackaday.com/2021/11/03/more-software-defined-radio-projects-using-dragonos/",
+          "publishedOn": "2021-11-04T02:00:37.000Z",
+          "wordCount": 1156,
+          "title": "More Software-Defined Radio Projects Using DragonOS"
+        },
+        {
+          "id": "https://hackaday.com/?p=503864",
+          "author": "Lewin Day",
+          "description": "The Mekamon from Reach Robotics is a neat thing, a robot controlled by a phone app that walks on four legs. [Wes Freeman] decided to hack the platform, giving it …read more",
+          "link": "https://hackaday.com/2021/11/03/hacking-the-mekamon-robot-to-add-new-capabilities/",
+          "publishedOn": "2021-11-03T23:00:01.000Z",
+          "wordCount": 1157,
+          "title": "Hacking the Mekamon Robot To Add New Capabilities"
+        },
+        {
+          "id": "https://hackaday.com/?p=504015",
+          "author": "Tom Nardi",
+          "description": "With temperatures dropping in the Northern Hemisphere, this is the time of year when many people start processing firewood for the coming winter months. For the city folks, that means …read more",
+          "link": "https://hackaday.com/2021/11/03/building-a-heavy-duty-log-splitter-one-piece-at-a-time/",
+          "publishedOn": "2021-11-03T20:00:55.000Z",
+          "wordCount": 1392,
+          "title": "Building a Heavy-Duty Log Splitter, One Piece at a Time"
+        },
+        {
+          "id": "https://hackaday.com/?p=504512",
+          "author": "Adam Zeloof",
+          "description": "Powder coating is a wonderful way to apply a smooth, colored surface to a part, whether for aesthetic reasons or corrosion protection. Traditionally, powder is applied via a air gun …read more",
+          "link": "https://hackaday.com/2021/11/03/pringles-can-fluidized-bed-powder-coater-paints-parts-inside-and-out/",
+          "publishedOn": "2021-11-03T18:30:00.000Z",
+          "wordCount": 1635,
+          "title": "Pringles Can Fluidized Bed Powder Coater Paints Parts Inside And Out"
+        },
+        {
+          "id": "https://hackaday.com/?p=503056",
+          "author": "Michael Shaub",
+          "description": "So much smart-tech is really kind of dumb. Gadgets intended to simplify our lives turn out to complicate them. It often takes too many “clicks” to accomplish simple tasks, and …read more",
+          "link": "https://hackaday.com/2021/11/03/keep-calm-and-hack-on-the-philosophy-of-calm-technology/",
+          "publishedOn": "2021-11-03T17:01:23.000Z",
+          "wordCount": 4482,
+          "title": "Keep Calm and Hack On: The Philosophy of Calm Technology"
+        },
+        {
+          "id": "https://hackaday.com/?p=504500",
+          "author": "Tom Nardi",
+          "description": "Each phase of the 2021 Hackaday Prize challenged designers to reimagine traditional solutions within various fields, from robotics to assistive devices. But for the Reactivate Wildcard, the fifth and final …read more",
+          "link": "https://hackaday.com/2021/11/03/here-are-the-ten-finalists-for-the-hackaday-prize-wildcard-challenge/",
+          "publishedOn": "2021-11-03T16:01:24.000Z",
+          "wordCount": 1402,
+          "title": "Here Are the Ten Finalists For the Hackaday Prize Wildcard Challenge"
+        },
+        {
+          "id": "https://hackaday.com/?p=504455",
+          "author": "Dave Rowntree",
+          "description": "[mark] had an interesting idea when looking at all the wiring of a typical 3D printer; Use CAN Bus. There are a lot of wires going to the extruder assembly, …read more",
+          "link": "https://hackaday.com/2021/11/03/simplify-3d-printer-wiring-with-can-bus/",
+          "publishedOn": "2021-11-03T15:30:00.000Z",
+          "wordCount": 4022,
+          "title": "Simplify 3D Printer Wiring With CAN Bus"
+        },
         {
           "id": "https://hackaday.com/?p=503596",
           "author": "Tom Nardi",
@@ -7734,6 +7897,106 @@
       "feedUrl": "http://rss.sciam.com/scientificamerican-global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "1B84AD1D-099A-48F6-AC9F64091D9E1FF6",
+          "author": "Kim Cobb",
+          "description": "A unanimous vote by Georgia’s Board of Regents could stifle academic freedom\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/weakened-tenure-protections-will-harm-students-as-well-as-faculty/",
+          "publishedOn": "2021-11-03T19:30:00.000Z",
+          "wordCount": null,
+          "title": "Weakened Tenure Protections Will Harm Students as Well as Faculty",
+          "itunes": {}
+        },
+        {
+          "id": "03488E21-C9DB-4E26-9CB963AE3370D8BE",
+          "author": "Brian Peppers, The Conversation US",
+          "description": "An immunologist explains how the immune system changes as people mature\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/why-vaccine-doses-differ-for-kids-and-adults1/",
+          "publishedOn": "2021-11-03T18:30:00.000Z",
+          "wordCount": null,
+          "title": "Why Vaccine Doses Differ for Kids and Adults",
+          "itunes": {}
+        },
+        {
+          "id": "C0162303-E5AD-41CE-ABAD691C48EEC73E",
+          "author": "Tara Haelle",
+          "description": "The FDA’s decision to expand eligibility for the Pfizer vaccine to young kids could mean less illness, safer school and more freedom\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/covid-vaccine-authorized-for-kids-aged-5-to-111/",
+          "publishedOn": "2021-11-03T18:15:00.000Z",
+          "wordCount": null,
+          "title": "COVID Vaccine Authorized for Kids Aged 5 to 11",
+          "itunes": {}
+        },
+        {
+          "id": "15E7ABE4-6234-4F72-ADAA6BAE8A1F0B2E",
+          "author": "Jean Chemnick, E&E News",
+          "description": "At the COP26 climate summit, the administration aims to show the U.S. will reduce emissions 50 percent in the next nine years\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/doing-the-math-on-bidens-climate-pledge/",
+          "publishedOn": "2021-11-03T18:00:00.000Z",
+          "wordCount": null,
+          "title": "Doing the Math on Biden's Climate Pledge",
+          "itunes": {}
+        },
+        {
+          "id": "0AB36A8D-FA08-444A-874ECD87A63F15A6",
+          "author": "Meghan Bartels, SPACE.com",
+          "description": "The space agency is working to bring the observatory’s science instruments back online\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/nasas-hubble-space-telescope-goes-dark-due-to-glitch/",
+          "publishedOn": "2021-11-03T17:00:00.000Z",
+          "wordCount": null,
+          "title": "NASA's Hubble Space Telescope Goes Dark Due to Glitch",
+          "itunes": {}
+        },
+        {
+          "id": "B57EFE5B-8805-4DDF-A93A96E6B091F499",
+          "author": "Joanna Thompson, LiveScience",
+          "description": "These stunning patterns have an unlikely designer\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/thousands-of-tiny-ice-needles-may-explain-mysterious-stone-patterns-on-earth-and-mars/",
+          "publishedOn": "2021-11-03T16:15:00.000Z",
+          "wordCount": null,
+          "title": "Thousands of Tiny 'Ice Needles' May Explain Mysterious Stone Patterns on Earth ... and Mars",
+          "itunes": {}
+        },
+        {
+          "id": "2CC0402F-899E-4CBC-847B404DD109666B",
+          "author": "Beth Wathen, Amanda Bettencourt",
+          "description": "The pandemic has brought the nursing profession into crisis; the solution is in the public’s hands\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/trust-us-nurses-are-at-the-breaking-point/",
+          "publishedOn": "2021-11-03T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Trust Us: Nurses Are at the Breaking Point",
+          "itunes": {}
+        },
+        {
+          "id": "9AA76BAA-50C7-4AA7-AB4A2BC5B732A1B5",
+          "author": "Jeff Tollefson, Nature magazine",
+          "description": "A Nature survey reveals that many authors of the latest IPCC climate science report are anxious about the future and expect to see catastrophic changes in their lifetime\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/top-climate-scientists-are-skeptical-that-nations-will-rein-in-global-warming/",
+          "publishedOn": "2021-11-03T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Top Climate Scientists Are Skeptical That Nations Will Rein in Global Warming",
+          "itunes": {}
+        },
+        {
+          "id": "C1CF43D4-7612-4197-8D558FDD96D7E611",
+          "author": "Josef Taalbi, Hana Nielsen",
+          "description": "Lack of energy infrastructure explains the rise of the gasoline car\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-new-deal-came-too-late-for-electric-vehicles/",
+          "publishedOn": "2021-11-03T11:30:00.000Z",
+          "wordCount": null,
+          "title": "The New Deal Came Too Late for Electric Vehicles",
+          "itunes": {}
+        },
+        {
+          "id": "960BEBAE-7D45-4FC2-93E2CE604D0BA24F",
+          "author": "Jim Daley",
+          "description": "More oversight of dealers and investment in impoverished communities are key to reducing violence, say experts\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/where-gun-stores-open-gun-homicides-increase/",
+          "publishedOn": "2021-11-03T10:45:00.000Z",
+          "wordCount": null,
+          "title": "Where Gun Stores Open, Gun Homicides Increase",
+          "itunes": {}
+        },
         {
           "id": "8C60C71F-77C0-4A89-9EBFC878435F3DFE",
           "author": "Susan Joy Hassol, Jerry Melillo",
@@ -9823,6 +10086,60 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=147027",
+          "author": "jenn@mediaops.com",
+          "description": "DOWNLOAD the White Paper >>    \nThe post Quali Infrastructure Auto Maturity Model appeared first on DevOps.com.",
+          "link": "https://devops.com/quali-infrastructure-auto-maturity-model/",
+          "publishedOn": "2021-11-03T19:21:50.000Z",
+          "wordCount": 242,
+          "title": "Quali Infrastructure Auto Maturity Model"
+        },
+        {
+          "id": "https://devops.com/?p=146997",
+          "author": "Mike Vizard",
+          "description": "Apollo GraphQL today previewed an update to its Federation platform for tracking and managing application programming interfaces (APIs) based on the GraphQL query language to give organizations more control over how APIs are reviewed and ultimately approved. Matt DeBergalis, founder and CTO, Apollo, said the alpha edition of the Federation 2 platform provides a unified […]\nThe post Apollo GraphQL to Provide More Control Over APIs appeared first on DevOps.com.",
+          "link": "https://devops.com/apollo-graphql-to-provide-more-control-over-apis/",
+          "publishedOn": "2021-11-03T14:29:30.000Z",
+          "wordCount": 1002,
+          "title": "Apollo GraphQL to Provide More Control Over APIs"
+        },
+        {
+          "id": "https://devops.com/?p=147002",
+          "author": "Amanda Razani",
+          "description": "DOWNLOAD the EBook >>    \nThe post Calculating Infrastructure Automation ROI appeared first on DevOps.com.",
+          "link": "https://devops.com/calculating-infrastructure-automation-roi/",
+          "publishedOn": "2021-11-03T13:41:37.000Z",
+          "wordCount": 249,
+          "title": "Calculating Infrastructure Automation ROI"
+        },
+        {
+          "id": "https://devops.com/?p=146992",
+          "author": "Mike Vizard",
+          "description": "Oracle today unfurled Oracle Cloud Infrastructure (OCI) AI services, a collection of services that make it easier for developers to use application programming interfaces (APIs) to invoke a wide range of services based on algorithms trained by Oracle on their behalf. Elad Ziklik, vice president of product management for AI services and data science at […]\nThe post Oracle Adds AI Services to Cloud Portfolio appeared first on DevOps.com.",
+          "link": "https://devops.com/oracle-adds-ai-services-to-cloud-portfolio/",
+          "publishedOn": "2021-11-03T12:00:28.000Z",
+          "wordCount": 1059,
+          "title": "Oracle Adds AI Services to Cloud Portfolio"
+        },
+        {
+          "id": "https://devops.com/?p=146934",
+          "author": "Sama Bali",
+          "description": "Software bugs are irksome, time-consuming and can be one of the most expensive software development costs for any company on an ongoing basis. Software Testing News cited a study that found the cost of poor software quality in the United States alone was estimated to be $2.8 trillion dollars. Let that sink in. $2.8 trillion […]\nThe post AWS BugBust Challenges Developers to Set World Record for Bug Busting at re:Invent 2021 appeared first on DevOps.com.",
+          "link": "https://devops.com/aws-bugbust-challenges-developers-to-set-world-record-for-bug-busting-at-reinvent-2021/",
+          "publishedOn": "2021-11-03T07:00:33.000Z",
+          "wordCount": 926,
+          "title": "AWS BugBust Challenges Developers to Set World Record for Bug Busting at re:Invent 2021"
+        },
+        {
+          "id": "https://devops.com/?p=146916",
+          "author": "Don Macvittie",
+          "description": "I’ve mentioned IT pendulums plenty of times before, but today I’m going to use them to explore a different angle on IT: The age of containers and microservices. It’s time to ask yourself if the current architectural design of the overall product offering of IT is the best one you can afford to offer. Agile […]\nThe post Organized Architecture appeared first on DevOps.com.",
+          "link": "https://devops.com/organized-architecture/",
+          "publishedOn": "2021-11-03T06:30:58.000Z",
+          "wordCount": 1225,
+          "title": "Organized Architecture"
+        },
+        {
           "id": "https://devops.com/?p=146941",
           "author": "Mike Vizard",
           "description": "As an independent company once again, VMware will focus its efforts on providing management planes that span multiple cloud computing environments after officially spinning out of Dell Technologies. Ray O’Farrell, executive vice president for the cloud-native apps business unit at VMware, said the company now has a unique opportunity to work closely with providers of […]\nThe post Newly Independent VMware to Focus on Multi-Cloud appeared first on DevOps.com.",
@@ -10703,6 +11020,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=109989",
+          "author": "Jonathan O'Callaghan",
+          "description": "Over the past decade, researchers have completely rewritten the story of how gas giants such as Jupiter and Saturn form. They’re now debating whether the same process might hold for Earth.            \nThe post Researchers Revise Recipe for Building a Rocky Planet Like Earth first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/scientists-debate-if-cosmic-pebbles-create-rocky-planets-like-earth-20211103/",
+          "publishedOn": "2021-11-03T05:02:31.000Z",
+          "wordCount": null,
+          "title": "Researchers Revise Recipe for Building a Rocky Planet Like Earth",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=109986",
           "author": "Esther Landhuis",
           "description": "The computational biologist Anne Carpenter creates software that brings the power of machine learning to researchers seeking answers in mountains of cell images.            \nThe post Her Machine Learning Tools Pull Insights From Cell Images first appeared on Quanta Magazine",
@@ -10939,6 +11266,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=65966",
+          "author": "Nathan Yau",
+          "description": "Based on five years of data from EPA models, ProPublica mapped areas in…\nTags: cancer, pollution, ProPublica",
+          "link": "https://flowingdata.com/2021/11/03/where-cancer-risk-is-greater-due-to-air-pollution/",
+          "publishedOn": "2021-11-03T07:11:50.000Z",
+          "wordCount": 384,
+          "title": "Where cancer risk is greater due to air pollution"
+        },
         {
           "id": "https://flowingdata.com/?p=65948",
           "author": "Nathan Yau",
@@ -11280,6 +11616,148 @@
           "publishedOn": "2021-09-27T15:34:45.000Z",
           "wordCount": 386,
           "title": "Assessment of the Covid-19 dashboards"
+        }
+      ]
+    },
+    {
+      "title": "The ReadME Project",
+      "feedUrl": "https://github.com/readme.rss",
+      "siteUrl": "https://github.com/readme",
+      "articles": [
+        {
+          "id": "https://github.com/readme/guides/developer-onboarding",
+          "author": null,
+          "description": "Local development environment issues can easily cost engineers hours, even days—but @kartar has the solutions:",
+          "link": "https://github.com/readme/guides/developer-onboarding",
+          "publishedOn": "2021-10-28T12:10:00.000Z",
+          "wordCount": 2840,
+          "title": "Optimize local dev environments for better onboarding"
+        },
+        {
+          "id": "https://github.com/readme/guides/user-acquisition",
+          "author": null,
+          "description": "Do you know what Pirate metrics are? Does AARRR! sound familiar? If you’ve got an open source project, it should, and @TashaDrew explains why:",
+          "link": "https://github.com/readme/guides/user-acquisition",
+          "publishedOn": "2021-10-28T11:25:00.000Z",
+          "wordCount": 2065,
+          "title": "Charming Pirates: Reframing user acquisition and referral for OSS"
+        },
+        {
+          "id": "https://github.com/readme/guides/code-as-documentation",
+          "author": null,
+          "description": "Your new superpower: teaching. And it’s not as scary as it sounds. Let @indigitalcolor explain:",
+          "link": "https://github.com/readme/guides/code-as-documentation",
+          "publishedOn": "2021-10-27T13:25:00.000Z",
+          "wordCount": 2330,
+          "title": "Using code as documentation to save time and share context"
+        },
+        {
+          "id": "https://github.com/readme/guides/code-review",
+          "author": null,
+          "description": "What’s better than a computer telling you there’s a problem? A computer automatically fixing the problem. @codewithanthony shares exactly how to do that, and more:",
+          "link": "https://github.com/readme/guides/code-review",
+          "publishedOn": "2021-10-27T11:55:00.000Z",
+          "wordCount": 1863,
+          "title": "Code review is too late for code quality"
+        },
+        {
+          "id": "https://github.com/readme/guides/effective-communication",
+          "author": null,
+          "description": "An ambiguous “hey” or “we need to talk” can cause colleagues the same anxiety as being chased through a dark alley at night. Yikes. @iMeluny explains how to avoid that:",
+          "link": "https://github.com/readme/guides/effective-communication",
+          "publishedOn": "2021-10-14T21:00:00.000Z",
+          "wordCount": 2154,
+          "title": "Effective communication is not about what you say"
+        },
+        {
+          "id": "https://github.com/readme/guides/code-automation-and-testing",
+          "author": null,
+          "description": "Often pushed aside due to complexity, or to prioritize features, automation has evolved to require minimum upfront investment and maximum return. @colbyfayock shares a quick-start guide:",
+          "link": "https://github.com/readme/guides/code-automation-and-testing",
+          "publishedOn": "2021-10-14T21:00:00.000Z",
+          "wordCount": 3182,
+          "title": "Overcoming human error with code automation and testing"
+        },
+        {
+          "id": "https://github.com/readme/featured/why-the-lucky-stiff",
+          "author": null,
+          "description": "Code might not last forever, but _why proves you can have an impact that outlives your work.",
+          "link": "https://github.com/readme/featured/why-the-lucky-stiff",
+          "publishedOn": "2021-10-14T21:00:00.000Z",
+          "wordCount": 2331,
+          "title": "What we can learn from “_why”, the long lost open source developer"
+        },
+        {
+          "id": "https://github.com/readme/featured/rust-programming",
+          "author": null,
+          "description": "The Rust programming language makes it easier to build safer software. What will it take to Rust All the Things?",
+          "link": "https://github.com/readme/featured/rust-programming",
+          "publishedOn": "2021-10-14T21:00:00.000Z",
+          "wordCount": 2440,
+          "title": "How Rust developers are making the web safer"
+        },
+        {
+          "id": "https://github.com/readme/stories/neha-batra",
+          "author": null,
+          "description": "When she was five, @nerdneha was a curious kid with a small red toolbox. See how she followed her momentum to @WriteSpeakCode and become an Engineering Director @GitHub.",
+          "link": "https://github.com/readme/stories/neha-batra",
+          "publishedOn": "2021-10-14T21:00:00.000Z",
+          "wordCount": 2613,
+          "title": "Open source momentum and how to find it"
+        },
+        {
+          "id": "https://github.com/readme/stories/anthony-sottile",
+          "author": null,
+          "description": "Creator of pre-commit (and 70+ other projects), @codewithanthony found a modern classroom in Twitch, engaging and learning with and from the community. Get his full story, now on The ReadME Project:",
+          "link": "https://github.com/readme/stories/anthony-sottile",
+          "publishedOn": "2021-10-14T20:59:00.000Z",
+          "wordCount": 2525,
+          "title": "Learning by doing, from Python to Twitch"
+        },
+        {
+          "id": "https://github.com/readme/guides/time-management-software-engineers",
+          "author": null,
+          "description": "As makers, software engineers should adopt these 7 essential habits.",
+          "link": "https://github.com/readme/guides/time-management-software-engineers",
+          "publishedOn": "2021-09-13T03:47:00.000Z",
+          "wordCount": 1951,
+          "title": "Time management for makers"
+        },
+        {
+          "id": "https://github.com/readme/guides/first-job-in-tech",
+          "author": null,
+          "description": "Savvy tips, tricks, and advice for how to get your first job in tech.",
+          "link": "https://github.com/readme/guides/first-job-in-tech",
+          "publishedOn": "2021-09-13T03:41:00.000Z",
+          "wordCount": 2059,
+          "title": "Get your first software developer job"
+        },
+        {
+          "id": "https://github.com/readme/stories/aaron-turner",
+          "author": null,
+          "description": "From rationing megabyte data to working at Fastly, Aaron @torch2424 Turner carved out his path by coding—and is now making technology more available to those with limited access. See how his journey unfolded on The ReadME Project:",
+          "link": "https://github.com/readme/stories/aaron-turner",
+          "publishedOn": "2021-09-13T03:31:00.000Z",
+          "wordCount": 2041,
+          "title": "From hacking prepaid phones to maintaining WebAssembly"
+        },
+        {
+          "id": "https://github.com/readme/featured/open-source-filmmaking",
+          "author": null,
+          "description": "From editing to animation, open source is part of how movies get made.",
+          "link": "https://github.com/readme/featured/open-source-filmmaking",
+          "publishedOn": "2021-09-13T03:00:00.000Z",
+          "wordCount": 2463,
+          "title": "How open source software powers modern filmmaking"
+        },
+        {
+          "id": "https://github.com/readme/stories/tracy-hinds",
+          "author": null,
+          "description": "Unafraid of healthy conflict, Tracy @HackyGoLucky Hinds excels at translating the value of open source to those who might not understand it… yet. Get her full story on The ReadME Project:",
+          "link": "https://github.com/readme/stories/tracy-hinds",
+          "publishedOn": "2021-09-13T03:00:00.000Z",
+          "wordCount": 2219,
+          "title": "Asking tough questions to make room for valuable projects"
         }
       ]
     }
