@@ -40,6 +40,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=355937",
+          "author": "Chris Coyier",
+          "description": "Josh Collingsworth is clearly a big fan of Svelte, so while this is a fun and useful comparison article, it’s here to crown Svelte the winner all the way through.\nA few things I find compelling:\nOne of the \n…\nThe post Introducing Svelte, and Comparing Svelte with React and Vue appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/introducing-svelte-and-comparing-svelte-with-react-and-vue/",
+          "publishedOn": "2021-11-04T21:20:02.000Z",
+          "wordCount": 499,
+          "title": "Introducing Svelte, and Comparing Svelte with React and Vue"
+        },
+        {
+          "id": "https://css-tricks.com/?p=356047",
+          "author": "Chris Coyier",
+          "description": "Steve Ruiz calls this post an “extra-obscure edition of design tool micro-UX,” but I find it fascinating! If you select a bunch of elements in a design tool, then rotate then, then later select those same elements and try to …\nThe post Fixing the Drift in Shape Rotations appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/fixing-the-drift-in-shape-rotations/",
+          "publishedOn": "2021-11-04T17:52:29.000Z",
+          "wordCount": 433,
+          "title": "Fixing the Drift in Shape Rotations"
+        },
+        {
+          "id": "https://css-tricks.com/?p=355060",
+          "author": "Bramus",
+          "description": "The Scroll-linked Animations specification is an upcoming and experimental addition that allows us to link animation-progress to scroll-progress: as you scroll up and down a scroll container, a linked animation also advances or rewinds accordingly.\nWe covered some use cases …\nThe post Scroll-Linked Animations With the Web Animations API (WAAPI) and ScrollTimeline appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/scroll-linked-animations-with-the-web-animations-api-waapi-and-scrolltimeline/",
+          "publishedOn": "2021-11-04T14:26:40.000Z",
+          "wordCount": 1562,
+          "title": "Scroll-Linked Animations With the Web Animations API (WAAPI) and ScrollTimeline"
+        },
+        {
           "id": "https://css-tricks.com/?p=354925",
           "author": "Jay Hoffmann",
           "description": "In June of 1995, representatives from Microsoft arrived at the Netscape offices. The stated goal was to find ways to work together—Netscape as the single dominant force in the browser market and Microsoft as a tech giant just beginning to …\nThe post Chapter 10: Browser Wars appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -775,6 +802,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "618180828bcfae07ca4e03d5",
+          "author": null,
+          "description": "The C and C++ programming languages power a large part of the world's products, applications, and websites.  Each helped lay the foundation for the creation of many popular programming languages, such as Java. They also support many languages that you might use regularly for your programming projects, such as Python.",
+          "link": "https://www.freecodecamp.org/news/c-vs-cpp-whats-the-difference/",
+          "publishedOn": "2021-11-04T20:16:23.000Z",
+          "wordCount": 1800,
+          "title": "C vs C++ – What&#x27;s The Difference?"
+        },
+        {
+          "id": "61751bafd48e1707b6d7aa12",
+          "author": null,
+          "description": "In the C programming language, there are times when you'll want to change looping behavior. And the continue and the break statements help you skip iterations, and exit from loops under certain conditions. In this tutorial, you'll learn how break and continue statements alter the control flow of your program.",
+          "link": "https://www.freecodecamp.org/news/c-break-and-continue-statements-loop-control-statements-in-c-explained/",
+          "publishedOn": "2021-11-04T18:56:12.000Z",
+          "wordCount": 1154,
+          "title": "C Break and Continue Statements – Loop Control Statements in C Explained"
+        },
+        {
+          "id": "6182d4c28bcfae07ca4e0d18",
+          "author": null,
+          "description": "Replit is a popular free online IDE that you can use to create your projects with very little setup. This editor supports over 50 languages and many programming courses use it, including freeCodeCamp.  In this article, I will show you how to get started with Replit and show you how",
+          "link": "https://www.freecodecamp.org/news/how-to-use-replit/",
+          "publishedOn": "2021-11-04T15:08:02.000Z",
+          "wordCount": 1894,
+          "title": "How to Use Replit – A Beginner&#x27;s Guide"
+        },
+        {
+          "id": "6183a45e8bcfae07ca4e1470",
+          "author": null,
+          "description": "Desktop icons are a convenient way to launch apps and open folders. They've actually become the de facto way of opening apps because many apps create them automatically when installed.  So what happens when you can't find your desktop icons on your computer anymore? Well, you might have mistakenly hidden",
+          "link": "https://www.freecodecamp.org/news/desktop-icons-missing-how-to-fix-windows-10-pc-icons-that-have-disappeared/",
+          "publishedOn": "2021-11-04T15:07:14.000Z",
+          "wordCount": 534,
+          "title": "Desktop Icons Missing – How to Fix Windows 10 PC Icons that Have Disappeared"
+        },
+        {
+          "id": "616e581dd48e1707b6d77deb",
+          "author": null,
+          "description": "As a freelancer, targeting your desired clients requires time and effort, and sometimes money.  While spending money to generate leads can be a good thing, in this article I want to focus on the free lead generation tips to get clients as a freelance developer, all in a quick and",
+          "link": "https://www.freecodecamp.org/news/lead-generation-freelancers/",
+          "publishedOn": "2021-11-04T14:23:17.000Z",
+          "wordCount": 1072,
+          "title": "Free Lead Generation Tips for Freelance Developers"
+        },
+        {
+          "id": "61839bcd8bcfae07ca4e1422",
+          "author": null,
+          "description": "Have you ever tried to open an app on your computer only to see the error \"The program can't start because vcruntime140.dll is missing from your computer. Try reinstalling it to fix this problem.\"?  This is a common issue with Windows 10 and it can be quite",
+          "link": "https://www.freecodecamp.org/news/vcruntime140-dll-was-not-found-solved-on-windows-10-pc/",
+          "publishedOn": "2021-11-04T14:11:12.000Z",
+          "wordCount": 805,
+          "title": "vcruntime140.dll Was Not Found [Solved on Windows 10 PC]"
+        },
+        {
+          "id": "6183db8b8bcfae07ca4e15f6",
+          "author": null,
+          "description": "The amount of diverse skills required to create a modern web application can be intimidating to beginners. But with the right teacher and the right mindset, everybody can learn to create complex web applications. We just published Web Applications for Everybody on the freeCodeCamp.org YouTube channel. This 14-hour course",
+          "link": "https://www.freecodecamp.org/news/web-applications-for-everybody-dr-chuck/",
+          "publishedOn": "2021-11-04T13:47:13.000Z",
+          "wordCount": 477,
+          "title": "Web Applications for Everybody - Dr. Chuck Teaches HTML, JavaScript, PHP, SQL, and More"
+        },
         {
           "id": "6181896c8bcfae07ca4e0407",
           "author": null,
@@ -1853,6 +1943,186 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/everything-from-crypto-to-blockchain-and-nfts-with-noonies-nominee-crypto-badger?source=rss",
+          "author": "Crypto Badger",
+          "description": "I’m Andy, also known as Crypto Badger. I create content about various aspects of crypto and NFTs - technical analysis, market commentaries, tutorials, etc.",
+          "link": "https://hackernoon.com/everything-from-crypto-to-blockchain-and-nfts-with-noonies-nominee-crypto-badger?source=rss",
+          "publishedOn": "2021-11-04T09:40:51.000Z",
+          "wordCount": 960,
+          "title": "Everything from Crypto to Blockchain and NFTs with Noonies Nominee Crypto Badger"
+        },
+        {
+          "id": "https://hackernoon.com/cloud-services-will-take-over-the-world-says-noonies-nominee-and-python-teacher-veronika?source=rss",
+          "author": "Veronika",
+          "description": "2021 Noonies Nominee General Interview with Veronika. Read for more on cloud services, data engineering, and python.",
+          "link": "https://hackernoon.com/cloud-services-will-take-over-the-world-says-noonies-nominee-and-python-teacher-veronika?source=rss",
+          "publishedOn": "2021-11-04T09:32:11.000Z",
+          "wordCount": 939,
+          "title": "Cloud Services Will Take Over the World, says Noonies Nominee and Python Teacher, Veronika"
+        },
+        {
+          "id": "https://hackernoon.com/being-chief-geek-and-running-15-websites-with-noonies-nominee-mathias-hellquist?source=rss",
+          "author": "Mathias Hellquist",
+          "description": "So who TF is Mathias Hellquist and what is a \"Chief Geek\"? Read this interview to find out.",
+          "link": "https://hackernoon.com/being-chief-geek-and-running-15-websites-with-noonies-nominee-mathias-hellquist?source=rss",
+          "publishedOn": "2021-11-04T09:23:25.000Z",
+          "wordCount": 940,
+          "title": "Being 'Chief Geek' and Running 15 Websites with Noonies Nominee Mathias Hellquist"
+        },
+        {
+          "id": "https://hackernoon.com/the-role-of-artificial-intelligence-ai-in-logistics-40?source=rss",
+          "author": "Peter Navarro",
+          "description": "The growing competition in logistics has forced companies to look for new alternatives to remain among the best players in the market. AI has come to the rescue",
+          "link": "https://hackernoon.com/the-role-of-artificial-intelligence-ai-in-logistics-40?source=rss",
+          "publishedOn": "2021-11-04T08:57:32.000Z",
+          "wordCount": 921,
+          "title": "Artificial Intelligence and Logistics 4.0 Are Transforming the Way We Manage Inventory"
+        },
+        {
+          "id": "https://hackernoon.com/5-common-identity-and-access-management-security-risks?source=rss",
+          "author": "Jessica Truong",
+          "description": "IAM ensures that employees have the necessary permissions to perform their jobs. Read on to learn about the 5 common IAM security risks & how to mitigate them.",
+          "link": "https://hackernoon.com/5-common-identity-and-access-management-security-risks?source=rss",
+          "publishedOn": "2021-11-04T08:41:45.000Z",
+          "wordCount": 1912,
+          "title": "5 Common Identity and Access Management Security Risks"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-soar-and-how-does-it-improve-the-effectiveness-of-a-soc-team?source=rss",
+          "author": "Jessica Truong",
+          "description": "SOAR helps execute, coordinate, and automate tasks between people and tools. SOAR prioritizes alerts so security teams can focus their resources effectively.",
+          "link": "https://hackernoon.com/what-is-soar-and-how-does-it-improve-the-effectiveness-of-a-soc-team?source=rss",
+          "publishedOn": "2021-11-04T08:40:02.000Z",
+          "wordCount": 1736,
+          "title": "What is SOAR and How Does It Improve the Effectiveness of a SOC Team?"
+        },
+        {
+          "id": "https://hackernoon.com/net-core-configuration-is-simple?source=rss",
+          "author": "Igor Lopushko",
+          "description": "If you write code with .NET Core one day you will have to configure your application.",
+          "link": "https://hackernoon.com/net-core-configuration-is-simple?source=rss",
+          "publishedOn": "2021-11-04T08:37:33.000Z",
+          "wordCount": 911,
+          "title": ".NET Core Configuration is Simple"
+        },
+        {
+          "id": "https://hackernoon.com/selfie-biometrics-exploring-face-recognition-and-liveness-technologies-for-mobile-apps?source=rss",
+          "author": "Vitalii Vinogradov",
+          "description": "Selfie biometrics will very soon become our verification standard.",
+          "link": "https://hackernoon.com/selfie-biometrics-exploring-face-recognition-and-liveness-technologies-for-mobile-apps?source=rss",
+          "publishedOn": "2021-11-04T07:51:51.000Z",
+          "wordCount": 2421,
+          "title": "Selfie Biometrics: Exploring Face Recognition & Liveness Technologies for Mobile Apps"
+        },
+        {
+          "id": "https://hackernoon.com/building-machine-learning-models-using-aws-sagemaker?source=rss",
+          "author": null,
+          "description": "Amazon SageMaker is a popular and full-managed service by Amazon that allows developers and data scientists to build, train and deploy machine learning models.",
+          "link": "https://hackernoon.com/building-machine-learning-models-using-aws-sagemaker?source=rss",
+          "publishedOn": "2021-11-04T07:18:06.000Z",
+          "wordCount": 889,
+          "title": "Building Machine Learning Models Using AWS SageMaker"
+        },
+        {
+          "id": "https://hackernoon.com/10-best-original-xbox-games-of-all-time-ranked-by-sales?source=rss",
+          "author": "Hacker Noon Gaming",
+          "description": "Overall the original Xbox has some great games, with the best original box games such as Halo 2 and Fable selling over 3 million units globally.",
+          "link": "https://hackernoon.com/10-best-original-xbox-games-of-all-time-ranked-by-sales?source=rss",
+          "publishedOn": "2021-11-04T07:09:11.000Z",
+          "wordCount": 2106,
+          "title": "10 Best Original Xbox Games of All Time Ranked by Sales"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-get-lifetime-vpn-coverage-and-cybersecurity-training?source=rss",
+          "author": "The Web Hacker",
+          "description": "Right now, VPN Unlimited & Infosec4TC Platinum Cyber Security Course Membership Lifetime Access is on sale for just $89.99.",
+          "link": "https://hackernoon.com/how-to-get-lifetime-vpn-coverage-and-cybersecurity-training?source=rss",
+          "publishedOn": "2021-11-04T07:06:15.000Z",
+          "wordCount": 1420,
+          "title": "How to Get Lifetime VPN Coverage and Cybersecurity Training"
+        },
+        {
+          "id": "https://hackernoon.com/python-is-one-of-the-most-in-demand-languages-in-2021-heres-how-to-learn-it?source=rss",
+          "author": "Super Saiyan Programming",
+          "description": "The 2021 Premium Python Certification Bootcamp Bundle is designed for all skill levels, from seasoned professionals to those who haven't written a line of code.",
+          "link": "https://hackernoon.com/python-is-one-of-the-most-in-demand-languages-in-2021-heres-how-to-learn-it?source=rss",
+          "publishedOn": "2021-11-04T07:02:18.000Z",
+          "wordCount": 1434,
+          "title": "Python Is One of the Most In Demand Languages in 2021. Here's How To Learn It"
+        },
+        {
+          "id": "https://hackernoon.com/learning-javascript-in-your-own-time-is-easy?source=rss",
+          "author": "The Amateur Web",
+          "description": "Of more than 1.6 billion websites, JavaScript is used on more than 95% of them.",
+          "link": "https://hackernoon.com/learning-javascript-in-your-own-time-is-easy?source=rss",
+          "publishedOn": "2021-11-04T06:54:24.000Z",
+          "wordCount": 924,
+          "title": "Learning JavaScript in Your Own Time is Easy"
+        },
+        {
+          "id": "https://hackernoon.com/metawars-is-a-strategic-blockchain-game-in-the-metaverse?source=rss",
+          "author": "A Digital Agency",
+          "description": "MetaWars is a futuristic sci-fi strategy game with a multi-layered, critical tactic battlefield that allows players to monetize from the war economy.",
+          "link": "https://hackernoon.com/metawars-is-a-strategic-blockchain-game-in-the-metaverse?source=rss",
+          "publishedOn": "2021-11-04T05:51:08.000Z",
+          "wordCount": 1210,
+          "title": "Metawars is A Strategic Blockchain Game in the Metaverse"
+        },
+        {
+          "id": "https://hackernoon.com/winning-the-anti-money-laundering-war-with-ongoing-aml-solutions?source=rss",
+          "author": "Henry Jackson",
+          "description": "Using artificial intelligence for better AML compliance. AI-based ongoing AML verification vs manual AML verification. Cost effective, reliable and more secure",
+          "link": "https://hackernoon.com/winning-the-anti-money-laundering-war-with-ongoing-aml-solutions?source=rss",
+          "publishedOn": "2021-11-04T05:47:07.000Z",
+          "wordCount": 1968,
+          "title": "Winning the Anti Money Laundering War with Ongoing AML Solutions"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-use-model-playground-for-no-code-model-building?source=rss",
+          "author": "Hasty.ai",
+          "description": "We're launching Model Playground, a model-building product where you can train AI models without writing any code yourself. Still, with you in complete control.",
+          "link": "https://hackernoon.com/how-to-use-model-playground-for-no-code-model-building?source=rss",
+          "publishedOn": "2021-11-04T05:38:43.000Z",
+          "wordCount": 890,
+          "title": "How to Use Model Playground for No-Code Model Building"
+        },
+        {
+          "id": "https://hackernoon.com/healthcare-nfts-and-the-blockchain?source=rss",
+          "author": "Lauren Wert",
+          "description": "Can blockchain and NFTs solve long-standing problems in our healthcare industry?",
+          "link": "https://hackernoon.com/healthcare-nfts-and-the-blockchain?source=rss",
+          "publishedOn": "2021-11-04T05:16:52.000Z",
+          "wordCount": 932,
+          "title": "Healthcare, NFTs, and the Blockchain"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-keep-your-brand-afloat-when-the-crypto-market-is-down?source=rss",
+          "author": "Ayelet Noff",
+          "description": "Crypto projects can keep their brand awareness up and maintain a positive image even with a fluctuating market. Here's how.",
+          "link": "https://hackernoon.com/how-to-keep-your-brand-afloat-when-the-crypto-market-is-down?source=rss",
+          "publishedOn": "2021-11-04T05:14:29.000Z",
+          "wordCount": 919,
+          "title": "How to Keep Your Brand Afloat when the Crypto Market is Down"
+        },
+        {
+          "id": "https://hackernoon.com/what-are-crypto-games-and-how-do-they-work?source=rss",
+          "author": "Stepico",
+          "description": "Gaming projects on the blockchain are actively developing and attracting new players, and the market for decentralized games is gaining great popularity.",
+          "link": "https://hackernoon.com/what-are-crypto-games-and-how-do-they-work?source=rss",
+          "publishedOn": "2021-11-04T05:09:05.000Z",
+          "wordCount": 930,
+          "title": "What are Crypto Games and How do they Work?"
+        },
+        {
+          "id": "https://hackernoon.com/the-future-of-crypto-privacy-with-railgun-lead-cryptographer-hisham-galal?source=rss",
+          "author": "RAILGUN",
+          "description": "RAILGUN crypto privacy expert Hisham Gilal offers an inside look at the RAILGUN smart contract system, its unique features and the future of crypto security",
+          "link": "https://hackernoon.com/the-future-of-crypto-privacy-with-railgun-lead-cryptographer-hisham-galal?source=rss",
+          "publishedOn": "2021-11-04T05:05:33.000Z",
+          "wordCount": 1781,
+          "title": "The Future of Crypto Privacy with RAILGUN Lead Cryptographer Hisham Galal"
+        },
         {
           "id": "https://hackernoon.com/devs-documentation-is-important?source=rss",
           "author": "Sergiy C.",
@@ -4962,6 +5232,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=147460",
+          "author": "ACMer",
+          "description": "Linear Equation with Two Unknowns can be used to solve Chicken and Rabit Problem (R for rabbits, and C for chicken) For heads: For legs: Let’s plug into the second equation, and we get: so so...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-linear-equation-with-two-unknowns-chicken-and-rabbit-problem/",
+          "publishedOn": "2021-11-04T21:13:18.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Linear Equation with Two Unknowns (Chicken and Rabbit Problem)",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=147444",
           "author": "ACMer",
           "description": "There is a special keyboard with all keys in a single row. Given a string keyboard of length 26 indicating the layout of the keyboard (indexed from 0 to 25). Initially, your finger is at index 0. To...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -5748,6 +6028,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=503598",
+          "author": "Kristina Panos",
+          "description": "We sure do love a good one-piece split keyboard, and it’s not just because you never have to worry about the halves drifting too far apart throughout the day, thought …read more",
+          "link": "https://hackaday.com/2021/11/04/back-to-the-office-ergo-brings-a-bit-of-home-sweet-home/",
+          "publishedOn": "2021-11-04T23:00:50.000Z",
+          "wordCount": 1099,
+          "title": "Back-to-the-Office Ergo Brings a Bit of Home Sweet Home"
+        },
+        {
+          "id": "https://hackaday.com/?p=504024",
+          "author": "Dave Rowntree",
+          "description": "LED cubes are really nothing new, many of us consider the building of a good sized one almost an electronics rite of passage that not so many manage to find …read more",
+          "link": "https://hackaday.com/2021/11/04/big-rgb-led-cube-you-can-build-too/",
+          "publishedOn": "2021-11-04T20:00:28.000Z",
+          "wordCount": 2061,
+          "title": "Big RGB LED Cube You Can Build Too"
+        },
+        {
+          "id": "https://hackaday.com/?p=499641",
+          "author": "Kristina Panos",
+          "description": "A maypole braider, aka a circular braider, is a type of horn gear braider that makes braided tubes, like one of those woven finger traps or that lovely bit of …read more",
+          "link": "https://hackaday.com/2021/11/04/3d-printed-braiding-machine-will-show-you-the-ropes/",
+          "publishedOn": "2021-11-04T18:30:00.000Z",
+          "wordCount": 1255,
+          "title": "3D-Printed Braiding Machine Will Show You the Ropes"
+        },
+        {
+          "id": "https://hackaday.com/?p=502782",
+          "author": "Kristina Panos",
+          "description": "You know, it’s hard to believe, but Hackaday Remoticon 2021 is just two weeks away. Every year, we work hard to make the ‘con a little better and brighter than …read more",
+          "link": "https://hackaday.com/2021/11/04/three-more-remoticon-speakers-complete-the-lineup/",
+          "publishedOn": "2021-11-04T17:01:15.000Z",
+          "wordCount": 1661,
+          "title": "Three More Remoticon Speakers Complete the Lineup"
+        },
+        {
+          "id": "https://hackaday.com/?p=504410",
+          "author": "Kristina Panos",
+          "description": "It was a tight race, but the results of the Halloween Hackfest contest are in. We asked you to scare up a terrifying build in one of three categories, and …read more",
+          "link": "https://hackaday.com/2021/11/04/spooky-winners-of-the-halloween-hackfest-contest/",
+          "publishedOn": "2021-11-04T16:01:57.000Z",
+          "wordCount": 1402,
+          "title": "Spooky Winners of the Halloween Hackfest Contest"
+        },
+        {
+          "id": "https://hackaday.com/?p=504362",
+          "author": "Adam Fabio",
+          "description": "Even the most talented engineers can be stymied by simple repair projects. In this case, repairing a broken sewing machine has [CuriousMarc] all tangled up.  [Marc] is probably best known …read more",
+          "link": "https://hackaday.com/2021/11/04/curious-marc-takes-on-sewing-machine-repair/",
+          "publishedOn": "2021-11-04T15:00:00.000Z",
+          "wordCount": 2814,
+          "title": "Curious Marc Takes on Sewing Machine Repair"
+        },
+        {
+          "id": "https://hackaday.com/?p=503340",
+          "author": "Chris Wilkinson",
+          "description": "Wanna be hackers? Code crackers? Slackers. If the vintage computing community ever chooses an official anthem, count my vote for It’s All About The Pentiums by “Weird Al” Yankovic. More …read more",
+          "link": "https://hackaday.com/2021/11/04/weird-als-monster-battlestation-is-now-just-a-reasonably-fast-pc/",
+          "publishedOn": "2021-11-04T14:00:14.000Z",
+          "wordCount": 4835,
+          "title": "Weird Al’s Monster Battlestation Is Now Just A Reasonably Fast PC"
+        },
         {
           "id": "https://hackaday.com/?p=504083",
           "author": "Bryan Cockfield",
@@ -7897,6 +8240,66 @@
       "feedUrl": "http://rss.sciam.com/scientificamerican-global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "9903FA46-1156-4010-83F15D1F11490148",
+          "author": "Sara Schonhardt, E&E News",
+          "description": "The move could shift funding toward renewable energy projects in low-income countries\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/u-s-agrees-to-end-fossil-fuel-financing-abroad/",
+          "publishedOn": "2021-11-04T19:00:00.000Z",
+          "wordCount": null,
+          "title": "U.S. Agrees to End Fossil Fuel Financing Abroad",
+          "itunes": {}
+        },
+        {
+          "id": "D079AB3A-6E14-4A86-8B2202954F854C09",
+          "author": "Lee Billings",
+          "description": "A major report outlining the highest priorities and recommendations for U.S. astronomy has finally been released, revealing the shape of things to come\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/hunt-for-alien-life-tops-next-gen-wish-list-for-u-s-astronomy/",
+          "publishedOn": "2021-11-04T15:37:00.000Z",
+          "wordCount": null,
+          "title": "Hunt for Alien Life Tops Next-Gen Wish List for U.S. Astronomy",
+          "itunes": {}
+        },
+        {
+          "id": "049292A9-E903-48FC-B1BE5A19DAD6E57C",
+          "author": "Michael Tabb, Jeffery DelViscio, Andrea Gawrylewski",
+          "description": "Our electric grid is old and fraying, but new technology could insulate us from the possibility of widespread blackouts and cyberattacks.\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/video/what-is-a-smart-grid-and-how-might-one-protect-our-energy-future/",
+          "publishedOn": "2021-11-04T14:00:00.000Z",
+          "wordCount": null,
+          "title": "What Is a Smart Grid, and How Might One Protect Our Energy Future?",
+          "itunes": {}
+        },
+        {
+          "id": "16EDF502-EEDB-40E7-A48AFC4E42859D9D",
+          "author": "Clara Moskowitz",
+          "description": "Physicists have wondered if neutrino particles come in a mysterious fourth variety. Now new experimental findings complicate the question\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/can-sterile-neutrinos-exist/",
+          "publishedOn": "2021-11-04T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Can Sterile Neutrinos Exist?",
+          "itunes": {}
+        },
+        {
+          "id": "7987E6D8-A341-4CEB-A7217943E862775B",
+          "author": "Katie Hafner, The Lost Women of Science Initiative",
+          "description": "When physician and pathologist Dorothy Andersen confronted a slew of confounding infant deaths, she suspected the accepted diagnosis wasn’t right. Her medical sleuthing led to the world’s...\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-lost-women-of-science-episode-1-the-question-mark/",
+          "publishedOn": "2021-11-04T12:00:00.000Z",
+          "wordCount": null,
+          "title": "The Lost Women of Science, Episode 1: The Question Mark",
+          "itunes": {}
+        },
+        {
+          "id": "6B06A500-BB2B-4E34-BA4C13F6F0FDF16C",
+          "author": "Elizabeth Miller",
+          "description": "Hotter, drier mountains leach more metal into streams from abandoned mines and natural deposits\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/climate-change-is-acidifying-and-contaminating-drinking-water-and-alpine-ecosystems/",
+          "publishedOn": "2021-11-04T10:45:00.000Z",
+          "wordCount": null,
+          "title": "Climate Change Is Acidifying and Contaminating Drinking Water and Alpine Ecosystems",
+          "itunes": {}
+        },
         {
           "id": "1B84AD1D-099A-48F6-AC9F64091D9E1FF6",
           "author": "Kim Cobb",
@@ -10086,6 +10489,42 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=147056",
+          "author": "Mike Vizard",
+          "description": "The Linux Foundation this week launched the NextArch Foundation to define frameworks and specifications that promote interoperability between microservices that span multiple cloud computing environments. More than 40 organizations, including Tencent, Arm, Kong and Ampere, have committed to contributing to 10 technology projects in 2022 in addition to frameworks for three vertical industries. Mark Shan, […]\nThe post NextArch Foundation Launched to Focus on Microservices appeared first on DevOps.com.",
+          "link": "https://devops.com/nextarch-foundation-launched-to-focus-on-microservices/",
+          "publishedOn": "2021-11-04T13:36:12.000Z",
+          "wordCount": 1002,
+          "title": "NextArch Foundation Launched to Focus on Microservices"
+        },
+        {
+          "id": "https://devops.com/?p=147020",
+          "author": "Brielle Albert",
+          "description": "More businesses are turning to DevOps implementations to deliver software and updates with more efficiency. As much as business leaders know DevOps can help them to be faster and more agile, many of them are unsure how to get started. Many businesses even begin implementing DevOps only to run into unforeseen problems that hinder the […]\nThe post 5 Tips for a Successful DevOps Implementation appeared first on DevOps.com.",
+          "link": "https://devops.com/5-tips-for-a-successful-devops-implementation/",
+          "publishedOn": "2021-11-04T07:00:12.000Z",
+          "wordCount": 1163,
+          "title": "5 Tips for a Successful DevOps Implementation"
+        },
+        {
+          "id": "https://devops.com/?p=146851",
+          "author": "Bill Doerrfeld",
+          "description": "The DevSecOps Technology Radar showcases the opinions cloud-native groups have about DevSecOps tools. To review, The Technology Radar is a periodic report from the Cloud Native Computing Foundation (CNCF), a burgeoning host for new open source projects that are becoming pivotal underpinnings to cloud-native architecture at large. Just like previous radars, the DevSecOps Technology Radar […]\nThe post DevSecOps Tech Radar Highlights Diverse Tooling Adoption appeared first on DevOps.com.",
+          "link": "https://devops.com/devsecops-tech-radar-highlights-diverse-tooling-adoption/",
+          "publishedOn": "2021-11-04T06:30:40.000Z",
+          "wordCount": 1377,
+          "title": "DevSecOps Tech Radar Highlights Diverse Tooling Adoption"
+        },
+        {
+          "id": "https://devops.com/?p=147035",
+          "author": "ROELBOB",
+          "description": "The post Free as in Beer appeared first on DevOps.com.",
+          "link": "https://devops.com/free-as-in-beer/",
+          "publishedOn": "2021-11-04T06:00:15.000Z",
+          "wordCount": 434,
+          "title": "Free as in Beer"
+        },
+        {
           "id": "https://devops.com/?p=147027",
           "author": "jenn@mediaops.com",
           "description": "DOWNLOAD the White Paper >>    \nThe post Quali Infrastructure Auto Maturity Model appeared first on DevOps.com.",
@@ -11020,6 +11459,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=109992",
+          "author": "Viviane Callier",
+          "description": "A new study of gene expression in sponges reveals the complex diversity of their cells as well as some possibly ancient connections between the nervous, immune and digestive systems.            \nThe post Sponge Genes Hint at the Origins of Neurons and Other Cells first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/sponge-genes-hint-at-the-origins-of-neurons-and-other-cells-20211104/",
+          "publishedOn": "2021-11-04T06:00:08.000Z",
+          "wordCount": null,
+          "title": "Sponge Genes Hint at the Origins of Neurons and Other Cells",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=109989",
           "author": "Jonathan O'Callaghan",
           "description": "Over the past decade, researchers have completely rewritten the story of how gas giants such as Jupiter and Saturn form. They’re now debating whether the same process might hold for Earth.            \nThe post Researchers Revise Recipe for Building a Rocky Planet Like Earth first appeared on Quanta Magazine",
@@ -11266,6 +11715,24 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=65974",
+          "author": "Nathan Yau",
+          "description": "All the tools are a product of visualization's many uses, which isn't so terrible. But not all the tools are champions.\nTags: list, tools",
+          "link": "https://flowingdata.com/2021/11/04/process-164-not-the-best/",
+          "publishedOn": "2021-11-04T18:30:52.000Z",
+          "wordCount": 295,
+          "title": "✚ Not the Best List of Visualization Tools – The Process 164"
+        },
+        {
+          "id": "https://flowingdata.com/?p=65970",
+          "author": "Nathan Yau",
+          "description": "Valentina D’Efilippo, Arpad Ray, and Duncan Geere visualized and sonified Covid-19 rates and…\nTags: coronavirus, London, sonification",
+          "link": "https://flowingdata.com/2021/11/04/sonified-animation-of-london-covid-19-rates/",
+          "publishedOn": "2021-11-04T07:24:27.000Z",
+          "wordCount": 359,
+          "title": "Sonified animation of London Covid-19 rates"
+        },
         {
           "id": "https://flowingdata.com/?p=65966",
           "author": "Nathan Yau",
