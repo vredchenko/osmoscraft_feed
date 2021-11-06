@@ -40,6 +40,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=355780",
+          "author": "Chris Coyier",
+          "description": "Šime Vidas DM’d me the other day about this thread from subzey on Twitter. My HTML for favicons was like this:\n<!-- Warning! Typo! --<link rel=\"icon\" href=\"/favicon.ico\" size=\"any\"<link rel=\"icon\" href=\"/favicon.svg\" type=\"image/svg+xml\"\nThe attribute size is a typo there, …\nThe post Favicons: How to Make Sure Browsers Only Download the SVG Version appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/favicons-how-to-make-sure-browsers-only-download-the-svg-version/",
+          "publishedOn": "2021-11-05T20:47:32.000Z",
+          "wordCount": 552,
+          "title": "Favicons: How to Make Sure Browsers Only Download the SVG Version"
+        },
+        {
+          "id": "https://css-tricks.com/?p=355888",
+          "author": "Robin Rendle",
+          "description": "One of the toughest things about being someone who cares deeply about design systems is making the case for a dedicated design system. Folks in leadership will often ask you to prove the value of it. Why should we care …\nThe post Yes, Design Systems Do Improve Developer Efficiency and Design Consistency appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/yes-design-systems-do-improve-developer-efficiency-and-design-consistency/",
+          "publishedOn": "2021-11-05T19:58:37.000Z",
+          "wordCount": 612,
+          "title": "Yes, Design Systems Do Improve Developer Efficiency and Design Consistency"
+        },
+        {
+          "id": "https://css-tricks.com/?p=355623",
+          "author": "Mészáros Róbert",
+          "description": "We have many well-known chart types: bar, donut, line, pie, you name it. All popular chart libraries support these. Then there are the chart types that do not even have a name. Check out this dreamt-up chart with stacked (nested) …\nThe post How to Create an Animated Chart of Nested Squares Using Masks appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-to-create-an-animated-chart-of-nested-squares-using-masks/",
+          "publishedOn": "2021-11-05T14:45:18.000Z",
+          "wordCount": 2618,
+          "title": "How to Create an Animated Chart of Nested Squares Using Masks"
+        },
+        {
+          "id": "https://css-tricks.com/?p=355902",
+          "author": "Chris Coyier",
+          "description": "I only just recently learned the enterkeyhint attribute on form inputs was a thing! It seems like kind of a big deal to me, as crafting HTML form markup is a decent slice of a front-end developer’s life, and this …\nThe post enterkeyhint appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/enterkeyhint/",
+          "publishedOn": "2021-11-05T14:43:25.000Z",
+          "wordCount": 1181,
+          "title": "enterkeyhint"
+        },
+        {
           "id": "https://css-tricks.com/?p=355937",
           "author": "Chris Coyier",
           "description": "Josh Collingsworth is clearly a big fan of Svelte, so while this is a fun and useful comparison article, it’s here to crown Svelte the winner all the way through.\nA few things I find compelling:\nOne of the \n…\nThe post Introducing Svelte, and Comparing Svelte with React and Vue appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -802,6 +838,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "617acb5b33422e07df366c9d",
+          "author": null,
+          "description": "Git and GitHub are two technologies that every developer should learn, irrespective of their field.  If you're a beginner developer, you might think that these two terms mean the same thing – but they're different.  This tutorial will help you understand what Git and version control are, the basic Git commands",
+          "link": "https://www.freecodecamp.org/news/git-and-github-for-beginners/",
+          "publishedOn": "2021-11-05T18:25:06.000Z",
+          "wordCount": 2908,
+          "title": "Git and GitHub Tutorial – Version Control for Beginners"
+        },
+        {
+          "id": "61850c138bcfae07ca4e245f",
+          "author": null,
+          "description": "On your Windows machine, the Windows key launches the Start menu, and from there you can access anything on your computer.  When you press it in combination with other keys, it also acts as a useful shortcut to utilities you don't get easily through your computer's graphic user interface (GUI)",
+          "link": "https://www.freecodecamp.org/news/windows-key-not-working-heres-how-to-fix-it-windows-10-pc-guide/",
+          "publishedOn": "2021-11-05T17:29:22.000Z",
+          "wordCount": 1169,
+          "title": "Windows Key Not Working? Here&#x27;s How to Fix It [Windows 10 PC Guide]"
+        },
+        {
+          "id": "6182162c8bcfae07ca4e0737",
+          "author": null,
+          "description": "In JavaScript you can use the .includes() method to see if one string is found in another. But how does it work exactly? In this article, I will walk you through a few code examples of the JavaScript string method called .includes().  Basic .includes() SyntaxHere is the basic syntax for",
+          "link": "https://www.freecodecamp.org/news/javascript-string-contains-how-to-use-js-includes/",
+          "publishedOn": "2021-11-05T16:46:38.000Z",
+          "wordCount": 695,
+          "title": "JavaScript String Contains – How to use JS .includes()"
+        },
         {
           "id": "618180828bcfae07ca4e03d5",
           "author": null,
@@ -1943,6 +2006,186 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/how-to-choose-one-thing-and-master-it-with-julie-smith-the-techie-teacher?source=rss",
+          "author": null,
+          "description": "Interview with 2021 Noonies Nominee, blogger, and Instructional Technology Consultant Julie Smith, aka The Techie Teacher, on edtech and loving your work.",
+          "link": "https://hackernoon.com/how-to-choose-one-thing-and-master-it-with-julie-smith-the-techie-teacher?source=rss",
+          "publishedOn": "2021-11-05T09:52:18.000Z",
+          "wordCount": 938,
+          "title": "How To Choose One Thing and Master It with Julie Smith, The Techie Teacher"
+        },
+        {
+          "id": "https://hackernoon.com/customer-experience-and-content-marketing-for-saas-in-post-covid-era?source=rss",
+          "author": "Dorcas Adisa",
+          "description": "Tips for improving saas marketing post-pandemic. Here's how consumer behavior is affecting saas marketing, and how brands can work with the changing market.",
+          "link": "https://hackernoon.com/customer-experience-and-content-marketing-for-saas-in-post-covid-era?source=rss",
+          "publishedOn": "2021-11-05T09:13:56.000Z",
+          "wordCount": 927,
+          "title": "Customer Experience and Content Marketing for SAAS in Post-COVID Era"
+        },
+        {
+          "id": "https://hackernoon.com/i-aggressively-applied-to-hundreds-of-different-startups-2021noonies-nominee?source=rss",
+          "author": "Lomit Patel",
+          "description": "Lomit Patel has been nominated in the 2021 Noonies Awards: The most #democra-tech awards system! The first step to choosing the right career is self-awareness.",
+          "link": "https://hackernoon.com/i-aggressively-applied-to-hundreds-of-different-startups-2021noonies-nominee?source=rss",
+          "publishedOn": "2021-11-05T09:04:02.000Z",
+          "wordCount": 1028,
+          "title": "\"I aggressively applied to hundreds of different startups\" #2021Noonies Nominee"
+        },
+        {
+          "id": "https://hackernoon.com/the-question-of-ethics-in-decentralization?source=rss",
+          "author": "Lauren Wert",
+          "description": "The importance of ethics in a decentralized world.",
+          "link": "https://hackernoon.com/the-question-of-ethics-in-decentralization?source=rss",
+          "publishedOn": "2021-11-05T08:56:28.000Z",
+          "wordCount": 951,
+          "title": "The Question of Ethics in Decentralization"
+        },
+        {
+          "id": "https://hackernoon.com/switching-jobs-in-tech-industry-6-key-lessons-ive-learned?source=rss",
+          "author": "Dan Starner",
+          "description": "Switching jobs in the tech industry can be an interesting adventure. Learning how to navigate the onboarding at a new company while keeping your health in check",
+          "link": "https://hackernoon.com/switching-jobs-in-tech-industry-6-key-lessons-ive-learned?source=rss",
+          "publishedOn": "2021-11-05T08:21:04.000Z",
+          "wordCount": 897,
+          "title": "Switching Jobs in Tech Industry: 6 Key Lessons I've Learned"
+        },
+        {
+          "id": "https://hackernoon.com/nfts-and-augmented-reality-progress-is-real?source=rss",
+          "author": "Shaan Ray",
+          "description": "The strategic use of NFTs in AR worlds will enable a whole new range of use cases and possibilities.",
+          "link": "https://hackernoon.com/nfts-and-augmented-reality-progress-is-real?source=rss",
+          "publishedOn": "2021-11-05T07:50:41.000Z",
+          "wordCount": 2166,
+          "title": "NFTs and Augmented Reality: Progress is Real"
+        },
+        {
+          "id": "https://hackernoon.com/noonies-interview-luke-calton-on-product-management-and-writing?source=rss",
+          "author": "Luke Calton",
+          "description": "Luke Calton is Noonies Nominee and a Product Manager at a start-up.",
+          "link": "https://hackernoon.com/noonies-interview-luke-calton-on-product-management-and-writing?source=rss",
+          "publishedOn": "2021-11-05T07:45:39.000Z",
+          "wordCount": 958,
+          "title": "Noonies Interview: Luke Calton On Product Management and Writing"
+        },
+        {
+          "id": "https://hackernoon.com/an-introduction-to-object-pascal-and-java-a-winning-crew-boat-team?source=rss",
+          "author": "Embarcadero",
+          "description": "A comprehensive introduction to modern Object Pascal and Java.",
+          "link": "https://hackernoon.com/an-introduction-to-object-pascal-and-java-a-winning-crew-boat-team?source=rss",
+          "publishedOn": "2021-11-05T07:17:39.000Z",
+          "wordCount": 3450,
+          "title": "An Introduction to Object Pascal and Java: A Winning Crew Boat Team"
+        },
+        {
+          "id": "https://hackernoon.com/top-drone-video-editing-software-in-2021-your-camera-should-fly?source=rss",
+          "author": "Smith Willas",
+          "description": "If you are planning to start on your filming-with-drones journey, check out this list of video editing software. Next-level videos need a next-level edit.",
+          "link": "https://hackernoon.com/top-drone-video-editing-software-in-2021-your-camera-should-fly?source=rss",
+          "publishedOn": "2021-11-05T07:15:38.000Z",
+          "wordCount": 2131,
+          "title": "Top Drone Video Editing Software in 2021: Put Your eye in the sky"
+        },
+        {
+          "id": "https://hackernoon.com/best-wireless-gaming-headsets?source=rss",
+          "author": "August Kim",
+          "description": "Gamers need a top-notch headset for hearing the sound clearly while playing. So, we’ve broken down the best wireless gaming headsets in 2021 for you.",
+          "link": "https://hackernoon.com/best-wireless-gaming-headsets?source=rss",
+          "publishedOn": "2021-11-05T06:50:40.000Z",
+          "wordCount": 930,
+          "title": "Comparing the Best Wireless Gaming Headsets in 2021"
+        },
+        {
+          "id": "https://hackernoon.com/a-guide-for-beginners-in-neurohacking-cheat-codes-to-obtain-ridiculous-brainpower?source=rss",
+          "author": "Neurohacker Collective",
+          "description": "5 fundamental neuro hacks that could make an amazing difference in your brainpower.",
+          "link": "https://hackernoon.com/a-guide-for-beginners-in-neurohacking-cheat-codes-to-obtain-ridiculous-brainpower?source=rss",
+          "publishedOn": "2021-11-05T06:35:12.000Z",
+          "wordCount": 944,
+          "title": "A Guide for Beginners in Neurohacking: Cheat Codes to Obtain  Ridiculous Brainpower"
+        },
+        {
+          "id": "https://hackernoon.com/coding-game?source=rss",
+          "author": "Super Saiyan Programming",
+          "description": "Learning programming through one of these coding games can make the learning process a lot more fun and rewarding.",
+          "link": "https://hackernoon.com/coding-game?source=rss",
+          "publishedOn": "2021-11-05T06:08:03.000Z",
+          "wordCount": 927,
+          "title": "The Best Coding Games of 2021"
+        },
+        {
+          "id": "https://hackernoon.com/curved-gaming-monitor?source=rss",
+          "author": "Games Harden",
+          "description": "The best curved gaming monitors in 2021 offer a bang for the buck. They are designed to meet all the requirements of a professional gamer.",
+          "link": "https://hackernoon.com/curved-gaming-monitor?source=rss",
+          "publishedOn": "2021-11-05T06:02:23.000Z",
+          "wordCount": 924,
+          "title": "Comparing the Best Curved Gaming Monitors of 2021"
+        },
+        {
+          "id": "https://hackernoon.com/we-are-all-mad-here-2021-noonies-nominee?source=rss",
+          "author": "Maneesha Indrachapa",
+          "description": "\"I was passionate about technology and gaming which led me to choose this path as my career and I love every bit about it.\"",
+          "link": "https://hackernoon.com/we-are-all-mad-here-2021-noonies-nominee?source=rss",
+          "publishedOn": "2021-11-05T05:44:43.000Z",
+          "wordCount": 964,
+          "title": "\"We are all mad here.\" - 2021 Noonies Nominee"
+        },
+        {
+          "id": "https://hackernoon.com/i-hear-voices-the-communicative-array-for-a-friendly-robot?source=rss",
+          "author": "Oleg Kiva",
+          "description": "Engineers of the “Promobot” company shed some light on what the notion of “robot communication” actually means",
+          "link": "https://hackernoon.com/i-hear-voices-the-communicative-array-for-a-friendly-robot?source=rss",
+          "publishedOn": "2021-11-05T05:37:45.000Z",
+          "wordCount": 923,
+          "title": "I Hear Voices: The Communicative Array for a Friendly Robot"
+        },
+        {
+          "id": "https://hackernoon.com/inside-business-insiders-story-about-a-failed-american-tech-dream?source=rss",
+          "author": "Nebojsa \"Nesha\" Todorovic",
+          "description": "We've all been there at one point in our careers, haven't we?",
+          "link": "https://hackernoon.com/inside-business-insiders-story-about-a-failed-american-tech-dream?source=rss",
+          "publishedOn": "2021-11-05T03:41:45.000Z",
+          "wordCount": 1960,
+          "title": "Inside Business Insider's Story About a Failed American Tech Dream"
+        },
+        {
+          "id": "https://hackernoon.com/web-assembly-automation-and-cooking-with-noonies-nominee-stanley-lim?source=rss",
+          "author": "Stanley Lim",
+          "description": "Stanley Lim is nominated for 2 awards (Angular and Webdev) for the 2021 Noonies. He is a software engineer at Snap and author of Cirrus CSS.",
+          "link": "https://hackernoon.com/web-assembly-automation-and-cooking-with-noonies-nominee-stanley-lim?source=rss",
+          "publishedOn": "2021-11-04T22:30:13.000Z",
+          "wordCount": 994,
+          "title": "Web Assembly, Automation and Cooking With Noonies Nominee Stanley Lim"
+        },
+        {
+          "id": "https://hackernoon.com/games-built-on-the-blockchain-are-allowing-gamers-earn-as-they-play?source=rss",
+          "author": "Amanda Whitcroft",
+          "description": "Decentralized gaming is the new frontier for the gaming economy.",
+          "link": "https://hackernoon.com/games-built-on-the-blockchain-are-allowing-gamers-earn-as-they-play?source=rss",
+          "publishedOn": "2021-11-04T21:41:48.000Z",
+          "wordCount": 1617,
+          "title": "Games Built on The Blockchain Are Allowing Gamers Earn As They Play"
+        },
+        {
+          "id": "https://hackernoon.com/get-rid-of-technical-debt-in-10-vs-code-extensions?source=rss",
+          "author": "Alex Omeyer",
+          "description": "Many engineering teams get stuck and cannot ship quality software fast because of technical debt. The best engineering teams I've talked to use the right tools.",
+          "link": "https://hackernoon.com/get-rid-of-technical-debt-in-10-vs-code-extensions?source=rss",
+          "publishedOn": "2021-11-04T21:16:33.000Z",
+          "wordCount": 958,
+          "title": "Get Rid Of Technical Debt In 10 VS Code Extensions"
+        },
+        {
+          "id": "https://hackernoon.com/car-free-spaces-bring-me-joy-with-noonies-nominee-konstantin-sokolov?source=rss",
+          "author": "Konstantin Sokolov",
+          "description": "In addition, I have been interested in the functioning of our brain for a year now and have read a lot about it. That's how I came across the cognitive biases.",
+          "link": "https://hackernoon.com/car-free-spaces-bring-me-joy-with-noonies-nominee-konstantin-sokolov?source=rss",
+          "publishedOn": "2021-11-04T20:24:39.000Z",
+          "wordCount": 990,
+          "title": "Car-Free Spaces Bring Me Joy with Noonies Nominee Konstantin Sokolov"
+        },
         {
           "id": "https://hackernoon.com/everything-from-crypto-to-blockchain-and-nfts-with-noonies-nominee-crypto-badger?source=rss",
           "author": "Crypto Badger",
@@ -5232,6 +5475,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=147477",
+          "author": "ACMer",
+          "description": "Given a singly linked list node, return its length. The linked list has fields next and val. Constraints n ≤ 100,000 where n is the number of nodes in node Linked List compared to Array/List List...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kisd-programming-finding-the-length-of-a-linked-list-recursion-and-iterative-algorithm/",
+          "publishedOn": "2021-11-05T22:01:45.000Z",
+          "wordCount": null,
+          "title": "Teaching Kisd Programming – Finding the Length of a Linked List (Recursion and Iterative Algorithm)",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=147460",
           "author": "ACMer",
           "description": "Linear Equation with Two Unknowns can be used to solve Chicken and Rabit Problem (R for rabbits, and C for chicken) For heads: For legs: Let’s plug into the second equation, and we get: so so...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -6010,16 +6263,6 @@
           "wordCount": null,
           "title": "Teaching Kids Programming – Pairwise Linked List Nodes Swap Algorithm",
           "itunes": {}
-        },
-        {
-          "id": "https://helloacm.com/?p=146206",
-          "author": "ACMer",
-          "description": "Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. The relative order of the elements may be changed. Since it is impossible to change the length of the...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
-          "link": "https://helloacm.com/teaching-kids-programming-inplace-algorithms-to-remove-elements/",
-          "publishedOn": "2021-08-07T19:45:49.000Z",
-          "wordCount": null,
-          "title": "Teaching Kids Programming – Inplace Algorithms to Remove Elements",
-          "itunes": {}
         }
       ]
     },
@@ -6028,6 +6271,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=504172",
+          "author": "Stephen Ogier",
+          "description": "The greatest threat to a potted plant stems from its owner’s forgetfulness, but [Sasa Karanovic] has created an automation system that will keep his plants from getting too thirsty. Over …read more",
+          "link": "https://hackaday.com/2021/11/05/automation-allows-you-to-leaf-your-plants-alone/",
+          "publishedOn": "2021-11-05T23:00:46.000Z",
+          "wordCount": 1186,
+          "title": "Automation allows you to leaf your plants alone"
+        },
+        {
+          "id": "https://hackaday.com/?p=504598",
+          "author": "Kristina Panos",
+          "description": "We’re pretty sure that we don’t have to tell you how great cardboard is. You probably sing the praises yourself and use it for everything from a work surface protective …read more",
+          "link": "https://hackaday.com/2021/11/05/pulp-molding-a-use-for-cardboard-confetti/",
+          "publishedOn": "2021-11-05T20:00:33.000Z",
+          "wordCount": 1459,
+          "title": "Pulp-Molding: A Use For Cardboard Confetti"
+        },
+        {
+          "id": "https://hackaday.com/?p=504655",
+          "author": "Al Williams",
+          "description": "There are probably almost as many DIY CNC designs as there are DIY CNCs. And there’s nothing wrong with that! We really liked [maxvfischer’s] documentation on GitHub for a machine …read more",
+          "link": "https://hackaday.com/2021/11/05/diy-cnc-uses-lots-of-3d-printed-parts/",
+          "publishedOn": "2021-11-05T18:30:00.000Z",
+          "wordCount": 1224,
+          "title": "DIY CNC Uses Lots of 3D-Printed Parts"
+        },
+        {
+          "id": "https://hackaday.com/?p=504239",
+          "author": "Jenny List",
+          "description": "It’s tempting despite news of stubbornly higher-than-ideal COVID infection figures, to imagine that just maybe the world might be returning to some semblance of pre-pandemic normality. Where this is being …read more",
+          "link": "https://hackaday.com/2021/11/05/eth0-autumn-2021-tiny-camp-manages-covid-precautions-indoors/",
+          "publishedOn": "2021-11-05T17:01:24.000Z",
+          "wordCount": 2269,
+          "title": "ETH0 Autumn 2021: Tiny Camp Manages COVID Precautions Indoors"
+        },
+        {
+          "id": "https://hackaday.com/?p=504487&preview=true&preview_id=504487",
+          "author": "Mike Szczys",
+          "description": "Hackaday editors Mike Szczys and Elliot Williams catch up on a week’s worth of hacks. Get a grip on robot hands: there’s an eerily human one on offer this week. …read more",
+          "link": "https://hackaday.com/2021/11/05/hackaday-podcast-143-more-magnesium-please-robot-bicep-curls-malamuds-general-index-and-are-you-down-with-emc/",
+          "publishedOn": "2021-11-05T16:01:45.000Z",
+          "wordCount": 1376,
+          "title": "Hackaday Podcast 143: More Magnesium Please, Robot Bicep Curls, Malamud’s General Index, and Are You Down with EMC?"
+        },
+        {
+          "id": "https://hackaday.com/?p=504312",
+          "author": "Lewin Day",
+          "description": "Voice assistants are now available from a wide variety of companies, however, [7402] didn’t like the idea of these devices sending data off to the cloud for potentially-nefarious purposes. Thus, …read more",
+          "link": "https://hackaday.com/2021/11/05/homebrewed-voice-assistant-keeps-an-eye-on-air-quality/",
+          "publishedOn": "2021-11-05T15:30:00.000Z",
+          "wordCount": 1380,
+          "title": "Homebrewed Voice Assistant Keeps An Eye On Air Quality"
+        },
+        {
+          "id": "https://hackaday.com/?p=504566",
+          "author": "Jonathan Bennett",
+          "description": "We talk about ransomware gangs quite a bit, but there’s another shadowy, loose collection of actors in that arena. Emsisoft sheds a bit of light on the network of researchers …read more",
+          "link": "https://hackaday.com/2021/11/05/this-week-in-security-the-battle-against-ransomware-unicode-discourse-and-shrootless/",
+          "publishedOn": "2021-11-05T14:00:53.000Z",
+          "wordCount": 2699,
+          "title": "This Week in Security: The Battle Against Ransomware, Unicode, Discourse, and Shrootless"
+        },
         {
           "id": "https://hackaday.com/?p=503598",
           "author": "Kristina Panos",
@@ -8240,6 +8546,63 @@
       "feedUrl": "http://rss.sciam.com/scientificamerican-global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "FBF8AD14-6943-4A44-894D71493B259FE7",
+          "author": "Jean Chemnick, E&E News",
+          "description": "Negotiators must work out the rules governing trading carbon offsets to help nations achieve net zero emissions\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/as-cop26-climate-summit-continues-attention-turns-to-carbon-markets/",
+          "publishedOn": "2021-11-05T19:30:00.000Z",
+          "wordCount": null,
+          "title": "As COP26 Climate Summit Continues, Attention Turns to Carbon Markets",
+          "itunes": {}
+        },
+        {
+          "id": "A30EBB7A-848E-4D74-B366D28B56AE98BD",
+          "author": "Tanya Lewis, Josh Fischman, Jeffery DelViscio",
+          "description": "Today we bring you a new episode in our podcast series COVID, Quickly. Every two weeks, Scientific American’s senior health editors Tanya Lewis and Josh Fischman catch you up on the...\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/podcast/episode/covid-quickly-episode-18-vaccines-for-kids-and-the-limits-of-natural-immunity/",
+          "publishedOn": "2021-11-05T17:00:00.000Z",
+          "wordCount": null,
+          "title": "COVID Quickly, Episode 18: Vaccines for Kids and the Limits of Natural Immunity",
+          "itunes": {
+            "duration": "06:32"
+          },
+          "enclosure": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=3E40DDA8-3833-45C1-B8BDD7FAC8215344",
+            "length": "5665334",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "0A90D879-E553-4752-AEB4BCFF4994E27B",
+          "author": "Brandy Schillace",
+          "description": "Transgender or gender-fluid people are more likely to be neurodivergent, and vice versa. Here’s what that’s like\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/coming-out-autistic/",
+          "publishedOn": "2021-11-05T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Coming Out Autistic",
+          "itunes": {}
+        },
+        {
+          "id": "6B506555-707B-4481-A10197B860869B1A",
+          "author": "Diana Kwon",
+          "description": "A pushback has arisen to seasonal clock changes that affect mood, sleep and general well-being\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/governments-worldwide-consider-ditching-daylight-saving-time/",
+          "publishedOn": "2021-11-05T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Governments Worldwide Consider Ditching Daylight Saving Time",
+          "itunes": {}
+        },
+        {
+          "id": "ED7FA4D3-0B75-4BF9-B680CF9F4C3A6D64",
+          "author": "Trish Stewart",
+          "description": "Lexicographers at the Oxford English Dictionary have added new words and definitions to reflect the rapidly evolving discourse about our hot planet\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/climate-change-is-creating-new-vocabulary-from-eco-anxiety-to-kaitiakitanga/",
+          "publishedOn": "2021-11-05T10:45:00.000Z",
+          "wordCount": null,
+          "title": "Climate Change Is Creating New Vocabulary, from Eco-Anxiety to Kaitiakitanga",
+          "itunes": {}
+        },
         {
           "id": "9903FA46-1156-4010-83F15D1F11490148",
           "author": "Sara Schonhardt, E&E News",
@@ -10489,6 +10852,42 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=147075",
+          "author": "Mike Vizard",
+          "description": "Oxeye emerged this week from stealth to launch a namesake application security testing platform that, in addition to pinpointing issues in code, also provides advice to best remediate the issues it found. Fresh from raising $5.3 million in seed funding, the Oxeye platform requires developers to download an observer tool that scans code for vulnerabilities. […]\nThe post Oxeye Platform Helps Fix Code Vulnerabilities appeared first on DevOps.com.",
+          "link": "https://devops.com/oxeye-platform-helps-fix-code-vulnerabilities/",
+          "publishedOn": "2021-11-05T16:26:42.000Z",
+          "wordCount": 983,
+          "title": "Oxeye Platform Helps Fix Code Vulnerabilities"
+        },
+        {
+          "id": "https://devops.com/?p=147086",
+          "author": "Amanda Razani",
+          "description": "Click to read DevSecOps Progress: Slow and Steady\nThe post DevSecOps Progress: Slow and Steady appeared first on DevOps.com.",
+          "link": "https://devops.com/devsecops-progress-slow-and-steady/",
+          "publishedOn": "2021-11-05T15:38:14.000Z",
+          "wordCount": 431,
+          "title": "DevSecOps Progress: Slow and Steady"
+        },
+        {
+          "id": "https://devops.com/?p=147053",
+          "author": "John Pocknell",
+          "description": "Data lies at the heart of all digital transformation. In fact, today, as organizations look to further accelerate their ongoing digital transformation initiatives, companies are looking to extract even more value from their data, to better drive corporate decision-making, help grow the business, improve customer satisfaction and gain a competitive advantage.  Inspired by DevOps, DataOps, […]\nThe post Why DataOps is Critical for Digital Transformation appeared first on DevOps.com.",
+          "link": "https://devops.com/why-dataops-is-critical-for-digital-transformation/",
+          "publishedOn": "2021-11-05T07:00:06.000Z",
+          "wordCount": 1061,
+          "title": "Why DataOps is Critical for Digital Transformation"
+        },
+        {
+          "id": "https://devops.com/?p=147049",
+          "author": "Jason Beres",
+          "description": "One way of saving time when writing code is with stored procedures; prepared SQL code that you can save so the code can be reused over and over again. Stored procedures are a powerful vehicle for speeding up your code and giving you gains in performance.  Stored procedures have many benefits—they can be easily modified, […]\nThe post The Power and Potential of Stored Procedures appeared first on DevOps.com.",
+          "link": "https://devops.com/the-power-and-potential-of-stored-procedures/",
+          "publishedOn": "2021-11-05T06:30:30.000Z",
+          "wordCount": 1420,
+          "title": "The Power and Potential of Stored Procedures"
+        },
+        {
           "id": "https://devops.com/?p=147056",
           "author": "Mike Vizard",
           "description": "The Linux Foundation this week launched the NextArch Foundation to define frameworks and specifications that promote interoperability between microservices that span multiple cloud computing environments. More than 40 organizations, including Tencent, Arm, Kong and Ampere, have committed to contributing to 10 technology projects in 2022 in addition to frameworks for three vertical industries. Mark Shan, […]\nThe post NextArch Foundation Launched to Focus on Microservices appeared first on DevOps.com.",
@@ -11715,6 +12114,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=65981",
+          "author": "Nathan Yau",
+          "description": "Using Consumer Price Index, Alyssa Fowers and Rachel Siegel for The Washington Post…\nTags: coronavirus, prices, spending, Washington Post",
+          "link": "https://flowingdata.com/2021/11/05/rising-prices-of-everything/",
+          "publishedOn": "2021-11-05T09:13:23.000Z",
+          "wordCount": 288,
+          "title": "Rising prices of everything"
+        },
         {
           "id": "https://flowingdata.com/?p=65974",
           "author": "Nathan Yau",
