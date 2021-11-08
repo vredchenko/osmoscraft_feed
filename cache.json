@@ -40,6 +40,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=356204",
+          "author": "Chris Coyier",
+          "description": "Bonafide CSS trick alert! Nelson Menezes figured out a new way (that only works in Firefox for now) that is awfully clever.\nPerhaps you know that CSS cannot animate to auto dimensions, which is super unfortunate. Animating from …\nThe post CSS Grid Can Do Auto Height Transitions appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/css-grid-can-do-auto-height-transitions/",
+          "publishedOn": "2021-11-08T19:01:31.000Z",
+          "wordCount": 513,
+          "title": "CSS Grid Can Do Auto Height Transitions"
+        },
+        {
           "id": "https://css-tricks.com/?p=322098",
           "author": "Ana Tudor",
           "description": "I recently came across a cool effect known as glassmorphism in a Dribble shot. My first thought was I could quickly recreate it in a few minutes if I just use some emojis for the icons without wasting time …\nThe post Icon Glassmorphism Effect in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -2024,6 +2033,186 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/right-click-save?source=rss",
+          "author": "Sam White",
+          "description": "While it's true that you can just right-click-save an image rather than buy the NFT, this overlooks a couple of important things: provenance and the market.",
+          "link": "https://hackernoon.com/right-click-save?source=rss",
+          "publishedOn": "2021-11-07T21:52:42.000Z",
+          "wordCount": 2106,
+          "title": "Right Click Save"
+        },
+        {
+          "id": "https://hackernoon.com/the-benefits-of-influencer-marketing?source=rss",
+          "author": "Slattagency",
+          "description": "",
+          "link": "https://hackernoon.com/the-benefits-of-influencer-marketing?source=rss",
+          "publishedOn": "2021-11-07T21:44:14.000Z",
+          "wordCount": 797,
+          "title": "The Benefits of Influencer Marketing"
+        },
+        {
+          "id": "https://hackernoon.com/online-identity-theft-learn-how-to-combat-it?source=rss",
+          "author": "Anjali Sharma",
+          "description": "Risk of becoming a victim of information theft and even online identity theft. In this article we help you find out how to stay safe",
+          "link": "https://hackernoon.com/online-identity-theft-learn-how-to-combat-it?source=rss",
+          "publishedOn": "2021-11-07T21:33:45.000Z",
+          "wordCount": 967,
+          "title": "Online Identity Theft: Learn How To Combat It"
+        },
+        {
+          "id": "https://hackernoon.com/a-history-of-the-fat-liberation-movement-via-the-lens-of-social-media?source=rss",
+          "author": "Annie Brown",
+          "description": "Fat Liberation is a social justice movement focused on making social policy and practice more inclusive and equitable for fat people.",
+          "link": "https://hackernoon.com/a-history-of-the-fat-liberation-movement-via-the-lens-of-social-media?source=rss",
+          "publishedOn": "2021-11-07T21:07:12.000Z",
+          "wordCount": 1986,
+          "title": "A History Of The Fat Liberation Movement Via The Lens of Social Media"
+        },
+        {
+          "id": "https://hackernoon.com/were-bringing-the-cheese-ease-and-fun-to-defi-lending-heres-how?source=rss",
+          "author": "CHFRY Finance",
+          "description": "CHFRY Finance - a new DeFi Lending protocol that give users self-repaying loans, zero liquidation risk, flash loans, and future-yield-backed assets.",
+          "link": "https://hackernoon.com/were-bringing-the-cheese-ease-and-fun-to-defi-lending-heres-how?source=rss",
+          "publishedOn": "2021-11-07T17:42:00.000Z",
+          "wordCount": 946,
+          "title": "We’re Bringing the CHEESE, Ease & Fun to DeFi Lending: Here’s How"
+        },
+        {
+          "id": "https://hackernoon.com/sbf-started-trading-on-dydx-ranked-first-in-the-24-hour-pnl-list-and-bought-200000-dydx?source=rss",
+          "author": "jisdf",
+          "description": "According to the rankings at 2nd, November, SBF is the top address who has earned approximately $1.6 million in the past 24 hours, with a return rate of 1.82%.",
+          "link": "https://hackernoon.com/sbf-started-trading-on-dydx-ranked-first-in-the-24-hour-pnl-list-and-bought-200000-dydx?source=rss",
+          "publishedOn": "2021-11-07T17:37:42.000Z",
+          "wordCount": 1349,
+          "title": "SBF started trading on dYdX, ranked first in the 24-hour PNL list, and bought 200,000 DYDX"
+        },
+        {
+          "id": "https://hackernoon.com/6-crypto-savings-accounts-compared-2021-edition?source=rss",
+          "author": "Michael Ross",
+          "description": "How to choose crypto savings account? There are some criteria which will help you to find the one that fits you the best.",
+          "link": "https://hackernoon.com/6-crypto-savings-accounts-compared-2021-edition?source=rss",
+          "publishedOn": "2021-11-07T17:33:56.000Z",
+          "wordCount": 2120,
+          "title": "6 Crypto-Savings Accounts Compared (2021 Edition)"
+        },
+        {
+          "id": "https://hackernoon.com/blockchain-interoperability-is-complex-and-needs-better-focus-on-security-unhashed-17?source=rss",
+          "author": "Mohammad Musharraf",
+          "description": "Unhashed is a QnA series where I speak with top execs of new and established blockchain projects to unravel the mystery of blockchain & crypto.",
+          "link": "https://hackernoon.com/blockchain-interoperability-is-complex-and-needs-better-focus-on-security-unhashed-17?source=rss",
+          "publishedOn": "2021-11-07T17:28:49.000Z",
+          "wordCount": 974,
+          "title": "Blockchain Interoperability is Complex and Needs Better Focus on Security: Unhashed #17"
+        },
+        {
+          "id": "https://hackernoon.com/the-engineering-leaders-guide-to-empowering-excellence-with-data-free-ebook?source=rss",
+          "author": "Code Climate",
+          "description": "Find out how engineering data can help you remove blockers, encourage professional growth, and empower excellence on your team.",
+          "link": "https://hackernoon.com/the-engineering-leaders-guide-to-empowering-excellence-with-data-free-ebook?source=rss",
+          "publishedOn": "2021-11-07T17:27:01.000Z",
+          "wordCount": 884,
+          "title": "The Engineering Leader’s Guide to Empowering Excellence with Data [FREE ebook]"
+        },
+        {
+          "id": "https://hackernoon.com/sperax-usds-a-crypto-collateralized-stablecoin-challenging-tether?source=rss",
+          "author": "ً",
+          "description": "",
+          "link": "https://hackernoon.com/sperax-usds-a-crypto-collateralized-stablecoin-challenging-tether?source=rss",
+          "publishedOn": "2021-11-07T17:23:23.000Z",
+          "wordCount": 68,
+          "title": "Sperax USDs: A Crypto-Collateralized Stablecoin Challenging Tether"
+        },
+        {
+          "id": "https://hackernoon.com/heres-why-nfts-are-the-hottest-new-trend-in-town-the-layman-edition?source=rss",
+          "author": "Francesca M. Nichols",
+          "description": "You know, if there’s one thing I do like about the internet, it’s the potential. Nearly everything is possible when the web is involved.  We’ve seen some strange things come out of the internet that have already proven to be successful. Immediate ideas that come to mind are things like crypto currencies and NFT’s. The NFT is a groovy way to own art but not have to worry about whether it fits on the wall at home. When you consider just how popular digital art is, it’s not hard to connect the dots and figure out the power of an NFT.",
+          "link": "https://hackernoon.com/heres-why-nfts-are-the-hottest-new-trend-in-town-the-layman-edition?source=rss",
+          "publishedOn": "2021-11-07T17:13:56.000Z",
+          "wordCount": 1781,
+          "title": "Here's Why NFTs Are The Hottest New Trend In Town: The Layman Edition"
+        },
+        {
+          "id": "https://hackernoon.com/invest-in-yourself-itll-pay-dividends-for-you-and-those-around-you?source=rss",
+          "author": "Grant Bartel",
+          "description": "I don’t know if this is the best advice I’ve ever given someone, but for most people I’d say: INVEST IN YOU",
+          "link": "https://hackernoon.com/invest-in-yourself-itll-pay-dividends-for-you-and-those-around-you?source=rss",
+          "publishedOn": "2021-11-07T15:42:24.000Z",
+          "wordCount": 1018,
+          "title": "Invest in Yourself. It’ll Pay Dividends For You and Those Around You"
+        },
+        {
+          "id": "https://hackernoon.com/do-product-managers-need-to-understand-sql-and-python?source=rss",
+          "author": "Product School",
+          "description": "We asked our Product Management community, ‘Do Product Managers Need SQL/ Python?' Read all about what they had to say.",
+          "link": "https://hackernoon.com/do-product-managers-need-to-understand-sql-and-python?source=rss",
+          "publishedOn": "2021-11-07T15:34:30.000Z",
+          "wordCount": 1964,
+          "title": "Do Product Managers Need to Understand SQL and Python?"
+        },
+        {
+          "id": "https://hackernoon.com/what-we-know-and-dont-know-about-the-coming-metaverse?source=rss",
+          "author": "Yaffa Abadi",
+          "description": "The Metaverse is Coming, and it's time to get educated. How close we are to reaching the promised meta land, and what will the newly branded Meta change it?",
+          "link": "https://hackernoon.com/what-we-know-and-dont-know-about-the-coming-metaverse?source=rss",
+          "publishedOn": "2021-11-07T15:30:08.000Z",
+          "wordCount": 1706,
+          "title": "What We Know and Don't Know About the Coming Metaverse"
+        },
+        {
+          "id": "https://hackernoon.com/when-bitcoin-runs-altcoins-always-follow?source=rss",
+          "author": "Mark",
+          "description": "Altseason always comes after bitcoin goes on a run - don't let anybody tell you otherwise",
+          "link": "https://hackernoon.com/when-bitcoin-runs-altcoins-always-follow?source=rss",
+          "publishedOn": "2021-11-07T15:25:08.000Z",
+          "wordCount": 1361,
+          "title": "When Bitcoin Runs, Altcoins Always Follow"
+        },
+        {
+          "id": "https://hackernoon.com/the-good-thing-and-the-bad-thing-about-technology-with-noonies-nominee-aswin-barath?source=rss",
+          "author": "Aswin Barath",
+          "description": "",
+          "link": "https://hackernoon.com/the-good-thing-and-the-bad-thing-about-technology-with-noonies-nominee-aswin-barath?source=rss",
+          "publishedOn": "2021-11-07T14:24:33.000Z",
+          "wordCount": 842,
+          "title": "Technology Keeps Changing with Noonies Nominee Aswin Barath"
+        },
+        {
+          "id": "https://hackernoon.com/the-path-to-becoming-an-aws-certified-devops-engineer?source=rss",
+          "author": "Gennovacap",
+          "description": "We are a devops consulting firm specializing in managed cloud services. We manage infrastructure, modernize apps, and migrate you to the cloud.",
+          "link": "https://hackernoon.com/the-path-to-becoming-an-aws-certified-devops-engineer?source=rss",
+          "publishedOn": "2021-11-07T13:34:40.000Z",
+          "wordCount": 817,
+          "title": "The Path to Becoming An AWS Certified DevOps Engineer"
+        },
+        {
+          "id": "https://hackernoon.com/an-introduction-to-typescript-for-javascript-developers?source=rss",
+          "author": "Sergiy C.",
+          "description": "Learn Typescript to write maintainable code. Javascript is fast to prototype, but that's not all we want. Let's learn how to write type-safe code.",
+          "link": "https://hackernoon.com/an-introduction-to-typescript-for-javascript-developers?source=rss",
+          "publishedOn": "2021-11-07T12:01:48.000Z",
+          "wordCount": 808,
+          "title": "An Introduction To TypeScript for JavaScript Developers"
+        },
+        {
+          "id": "https://hackernoon.com/i-build-software-to-solve-problems-noonies-nominee-amr-hesham?source=rss",
+          "author": "Amr Hesham",
+          "description": "Amr Hesham has been nominated as HackerNoon contributor of the year, Kotlin.",
+          "link": "https://hackernoon.com/i-build-software-to-solve-problems-noonies-nominee-amr-hesham?source=rss",
+          "publishedOn": "2021-11-07T08:39:14.000Z",
+          "wordCount": 923,
+          "title": "'I Build Software to Solve Problems': Noonies Nominee Amr Hesham"
+        },
+        {
+          "id": "https://hackernoon.com/the-centralized-internet-is-broken?source=rss",
+          "author": "jmau111",
+          "description": "The current centralized Internet is broken. We need decentralized and distributed systems such as the blockchain.",
+          "link": "https://hackernoon.com/the-centralized-internet-is-broken?source=rss",
+          "publishedOn": "2021-11-07T06:59:06.000Z",
+          "wordCount": 905,
+          "title": "The Centralized Internet is Broken"
+        },
         {
           "id": "https://hackernoon.com/the-sports-first-global-nft-marketplace-is-happening-in-partnership-with-fide-and-free-ton?source=rss",
           "author": "Free TON",
@@ -6415,6 +6604,60 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
+          "id": "https://hackaday.com/?p=505070",
+          "author": "Jenny List",
+          "description": "The all-in-one Raspberry Pi 400 computer is a capable device, but those seeking its maximum power may be disappointed by its 4 GB of memory. When the Pi 4 and …read more",
+          "link": "https://hackaday.com/2021/11/08/hand-reballing-and-a-steady-hand-makes-a-raspberry-pi-800/",
+          "publishedOn": "2021-11-08T21:01:17.000Z",
+          "wordCount": 1621,
+          "title": "Hand Reballing And A Steady Hand Makes A Raspberry Pi 800"
+        },
+        {
+          "id": "https://hackaday.com/?p=504900",
+          "author": "Mike Szczys",
+          "description": "Hackaday conferences have a long history of excellent T-shirt designs and this year’s Remoticon is no different. If you want one of your own, you need get on that before …read more",
+          "link": "https://hackaday.com/2021/11/08/last-call-for-hackaday-remoticon-shirts/",
+          "publishedOn": "2021-11-08T20:01:01.000Z",
+          "wordCount": 1373,
+          "title": "Last Call for Hackaday Remoticon Shirts"
+        },
+        {
+          "id": "https://hackaday.com/?p=504839",
+          "author": "Dan Maloney",
+          "description": "If you’re a flashlight person, you know that there’s little you would do to get the brightest, most powerful, most ridiculous flashlight possible. You might even decide to build yourself …read more",
+          "link": "https://hackaday.com/2021/11/08/own-the-night-with-this-ludicrously-bright-diy-flashlight/",
+          "publishedOn": "2021-11-08T19:00:19.000Z",
+          "wordCount": 1421,
+          "title": "Own the Night with This Ludicrously Bright DIY Flashlight"
+        },
+        {
+          "id": "https://hackaday.com/?p=503297",
+          "author": "Al Williams",
+          "description": "I’ve tried a lot of the “newer” languages and, somehow, I’m always happiest when I go back to C++ or even C. However, there is one thing that gets a …read more",
+          "link": "https://hackaday.com/2021/11/08/linux-fu-automatic-header-file-generation/",
+          "publishedOn": "2021-11-08T18:01:20.000Z",
+          "wordCount": 3010,
+          "title": "Linux Fu: Automatic Header File Generation"
+        },
+        {
+          "id": "https://hackaday.com/?p=504657&preview=true&preview_id=504657",
+          "author": "Dan Maloney",
+          "description": "Join us on Wednesday, November 10 at noon Pacific for the Heavy Copper PCBs Hack Chat with Mark Hughes and Greg Ziraldo! For as useful as printed circuit boards are, …read more",
+          "link": "https://hackaday.com/2021/11/08/heavy-copper-pcb-hack-chat/",
+          "publishedOn": "2021-11-08T17:00:55.000Z",
+          "wordCount": 2160,
+          "title": "Heavy-Copper PCB Hack Chat"
+        },
+        {
+          "id": "https://hackaday.com/?p=504587",
+          "author": "Dave Rowntree",
+          "description": "Making a small number of things with an embedded application is pretty straightforward, you usually simply plug in a programmer or debugger dongle (such as an AVRISP2) into your board …read more",
+          "link": "https://hackaday.com/2021/11/08/adafruit-avrprog-grows-updi-interface-support/",
+          "publishedOn": "2021-11-08T16:30:39.000Z",
+          "wordCount": 1323,
+          "title": "Adafruit AVRProg Grows UPDI Interface Support"
+        },
+        {
           "id": "https://hackaday.com/?p=502566",
           "author": "Robin Kearey",
           "description": "Perhaps the second most famous law in electronics after Ohm’s law is Moore’s law: the number of transistors that can be made on an integrated circuit doubles every two years …read more",
@@ -8861,6 +9104,36 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "9B9B5A84-4056-4F86-BC49947E83F3E5AC",
+          "author": "Ehsan Masood, Jeff Tollefson, Nature magazine",
+          "description": "Nations have promised to end deforestation, curb methane emissions and stop public investment in coal power. Researchers warn that the real work of COP26 is yet to come\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/cop26-climate-pledges-what-scientists-think-so-far/",
+          "publishedOn": "2021-11-08T20:00:00.000Z",
+          "wordCount": null,
+          "title": "COP26 Climate Pledges: What Scientists Think so Far",
+          "itunes": {}
+        },
+        {
+          "id": "CB64864C-B701-42D2-937047F9EE991FD6",
+          "author": "Benjamin Storrow, E&E News",
+          "description": "Economics is already playing a large role in curtailing American coal power\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/why-the-u-s-didnt-join-40-other-countries-in-pledge-to-end-coal/",
+          "publishedOn": "2021-11-08T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Why the U.S. Didn't Join 40 Other Countries in Pledge to End Coal",
+          "itunes": {}
+        },
+        {
+          "id": "DC07B15B-5C5C-4AF2-988B962F67509386",
+          "author": "Raleigh McElvery",
+          "description": "This form of recall may control immune responses beyond the central nervous system\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-brain-has-a-special-kind-of-memory-for-past-infections/",
+          "publishedOn": "2021-11-08T17:15:00.000Z",
+          "wordCount": null,
+          "title": "The Brain Has a Special Kind of Memory for Past Infections",
+          "itunes": {}
+        },
+        {
           "id": "6CC848C6-E7F1-4837-8734B539100069C8",
           "author": "Katie Hafner, The Lost Women of Science Initiative",
           "description": "A new podcast is on a mission to retrieve unsung women scientists from oblivion. \n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -11263,6 +11536,15 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=147190",
+          "author": "jenn@mediaops.com",
+          "description": "The post NP Pete Jenn appeared first on DevOps.com.",
+          "link": "https://devops.com/np-pete-jenn/",
+          "publishedOn": "2021-11-08T20:36:19.000Z",
+          "wordCount": 422,
+          "title": "NP Pete Jenn"
+        },
+        {
           "id": "https://devops.com/?p=146753",
           "author": "Alan Shimel",
           "description": "Hello, and welcome to the launch of Digital CxO, the premier destination site and community dedicated to fostering collaboration among business and IT leaders driving digital transformation initiatives. As part of Techstrong Group, which also includes DevOps.com, Container Journal, DevOps Institute, Security Boulevard, Techstrong TV and the newly formed TechStrong Research Group, Digital CxO creates […]\nThe post Digital CxOs Have a Home, as Digital CxO Joins the Techstrong Group Family appeared first on DevOps.com.",
@@ -13142,6 +13424,40 @@
           "publishedOn": "2021-08-31T00:00:00.000Z",
           "wordCount": 871,
           "title": "Luau Recap: August 2021"
+        }
+      ]
+    },
+    {
+      "title": "GUI Challenges on web.dev",
+      "feedUrl": "https://web.dev/shows/gui-challenges/feed.xml",
+      "siteUrl": "https://web.dev/shows/gui-challenges/feed.xml",
+      "articles": [
+        {
+          "id": "https://web.dev/shows/gui-challenges/x0aCdLDZ8BM/",
+          "author": null,
+          "description": "In today's GUI challenge I share my thinking on a way to enable users to multi-select. To demonstrate multi-select I've prepared a filterable grid which accepts input from both a -select multiple- and a set of -fieldset- elements. Two multi-select methods yep, each tailored for their use case.\n0:00 - Introduction\n0:45 - Overview\n1:55 - Theming\n2:05 - UI Hints\n2:47 - States\n4:44 - Keyboard\n6:18 - Reduced Motion\n7:06 - Screen Reader\n8:39 - RTL\n9:46 - Layouts\n13:19 - JavaScript\n16:33 - Outro\n\n\n\n\n\n\nRead along → \nTry a demo → \nGet the source → https://goo.gle/3DyjjaJhttps://goo.gle/2YGmPkUhttps://goo.gle/3n4Sfcg\n\nWatch more GUI Challenges → \nSubscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://goo.gl/LLLNvf\n\n#GUIchallenges #CSS #ChromeDeveloper",
+          "link": "https://web.dev/shows/gui-challenges/x0aCdLDZ8BM/",
+          "publishedOn": "2021-10-12T19:13:58.000Z",
+          "wordCount": 203,
+          "title": "Thinking on ways to solve ​​MULTI-SELECT"
+        },
+        {
+          "id": "https://web.dev/shows/gui-challenges/Qcpru-fIgwk/",
+          "author": null,
+          "description": "In today's GUI challenge I share my thinking on a way to solve split buttons. A staple component for condensed interfaces, it allows a single button to feature secondary actions. Lots of great tips about theming, shadows, color, layouts, interaction UX, and more.\n0:00 - Introduction\n0:24 - Overview\n1:40 - Light & Dark\n3:37 - Shadows\n5:45 - SVG Tips\n7:12 - States\n10:20 - Keyboard UX\n11:41 - Reduced Motion UX\n13:20 - Screen Reader UX\n14:13 - Right-to-left UX\n15:58 - Flexbox Layouts\n18:51 - JavaScript\n21:22 - Outro\n\n\n\n\n\n\nRead along → \nTry a demo → \nGet the source → https://goo.gle/3BNn23ohttps://goo.gle/3l92efUhttps://goo.gle/3n4Sfcg\n\nWatch more GUI Challenges → \nSubscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://goo.gl/LLLNvf\n\n#GUIchallenges #CSS #ChromeDeveloper",
+          "link": "https://web.dev/shows/gui-challenges/Qcpru-fIgwk/",
+          "publishedOn": "2021-09-08T17:28:14.000Z",
+          "wordCount": 209,
+          "title": "Thinking on ways to solve ​​SPLIT BUTTONS"
+        },
+        {
+          "id": "https://web.dev/shows/gui-challenges/_KqccADghcA/",
+          "author": null,
+          "description": "In today's GUI challenge I share my thinking on a way to solve a switch. A tiny, UX packed component that ended up being one of the most involved challenges so far. Tons of great layouts, accessibility, animations and interactions to share, which means tons of places for you to have a style preference 😉\n0:00 - Introduction\n1:15 - States\n2:05 - Interactions\n2:45 - Screen reader\n3:14 - Touch\n4:10 - Hover\n5:07 - RTL\n5:56 - CSS/JS not required\n7:00 - Vertical variant\n9:14 - Flexbox\n10:39 - Grid\n12:10 - Overrides\n15:38 - Javascript\n18:15 - Outro\n\n\n\n\n\n\n\nRead along → \nTry a demo → \nGet the source → https://goo.gle/3xBYGHyhttps://goo.gle/2VJLVO0https://goo.gle/3n4Sfcg\n\nWatch more GUI Challenges → \nSubscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://goo.gl/LLLNvf\n\n#GUIchallenges #CSS #ChromeDeveloper",
+          "link": "https://web.dev/shows/gui-challenges/_KqccADghcA/",
+          "publishedOn": "2021-08-11T17:00:04.000Z",
+          "wordCount": 215,
+          "title": "Thinking on ways to solve SWITCHES"
         }
       ]
     }
