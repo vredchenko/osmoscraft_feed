@@ -40,6 +40,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=322098",
+          "author": "Ana Tudor",
+          "description": "I recently came across a cool effect known as glassmorphism in a Dribble shot. My first thought was I could quickly recreate it in a few minutes if I just use some emojis for the icons without wasting time …\nThe post Icon Glassmorphism Effect in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/icon-glassmorphism-effect-in-css/",
+          "publishedOn": "2021-11-08T14:57:42.000Z",
+          "wordCount": 7960,
+          "title": "Icon Glassmorphism Effect in CSS"
+        },
+        {
+          "id": "https://css-tricks.com/?p=356134",
+          "author": "Chris Coyier",
+          "description": "Just ran across îles, a new static site generator mostly centered around Vue. The world has no particular shortage of static site generators, but it’s interesting to see what this “next generation” of SSGs seem to focus on or …\nThe post Does the Next Generation of Static Site Generators Make Building Sites Better? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/does-the-next-generation-of-static-site-generators-make-building-sites-better/",
+          "publishedOn": "2021-11-08T14:56:23.000Z",
+          "wordCount": 590,
+          "title": "Does the Next Generation of Static Site Generators Make Building Sites Better?"
+        },
+        {
           "id": "https://css-tricks.com/?p=355780",
           "author": "Chris Coyier",
           "description": "Šime Vidas DM’d me the other day about this thread from subzey on Twitter. My HTML for favicons was like this:\n<!-- Warning! Typo! --<link rel=\"icon\" href=\"/favicon.ico\" size=\"any\"<link rel=\"icon\" href=\"/favicon.svg\" type=\"image/svg+xml\"\nThe attribute size is a typo there, …\nThe post Favicons: How to Make Sure Browsers Only Download the SVG Version appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -5488,6 +5506,15 @@
       "siteUrl": "https://davidwalsh.name",
       "articles": [
         {
+          "id": "https://davidwalsh.name/?p=27487",
+          "author": "David Walsh",
+          "description": "Working with arrays is an essential skill in any programming language, especially JavaScript, as we continue to rely on external data APIs. JavaScript has added methods like find and `findIndex recently, but one syntax I love from languages like Python is retrieving values by negative indexes. When you want to get the value of the […]\nThe post Array.prototype.at appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/array-prototype-at",
+          "publishedOn": "2021-11-08T01:50:20.000Z",
+          "wordCount": 533,
+          "title": "Array.prototype.at"
+        },
+        {
           "id": "https://davidwalsh.name/?p=27483",
           "author": "David Walsh",
           "description": "In the world of marketing and content targeting, having accurate geolocation data can be the difference between a thriving enterprise and a floundering business. Accurate data is everything, especially in the targeted marketing. When you need trustworthy geolocation data, IPWHOIS.io is a great source: fast, reliable, and accurate! Quick Hits Start for free, very competitive […]\nThe post Fast, Accurate Geolocation Data with IPWHOIS.io (Sponsored) appeared first on David Walsh Blog.",
@@ -6379,16 +6406,6 @@
           "wordCount": null,
           "title": "Welcome Pack (SWAG) from Microsoft Research Cambridge",
           "itunes": {}
-        },
-        {
-          "id": "https://helloacm.com/?p=146255",
-          "author": "ACMer",
-          "description": "Given two non-negative integers, num1 and num2 represented as string, return the sum of num1 and num2 as a string. You must solve the problem without using any built-in library for handling large...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
-          "link": "https://helloacm.com/teaching-kids-programming-add-two-big-integers-in-strings/",
-          "publishedOn": "2021-08-10T19:33:16.000Z",
-          "wordCount": null,
-          "title": "Teaching Kids Programming – Add Two Big Integers in Strings",
-          "itunes": {}
         }
       ]
     },
@@ -6397,6 +6414,51 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=502566",
+          "author": "Robin Kearey",
+          "description": "Perhaps the second most famous law in electronics after Ohm’s law is Moore’s law: the number of transistors that can be made on an integrated circuit doubles every two years …read more",
+          "link": "https://hackaday.com/2021/11/08/smaller-is-sometimes-better-why-electronic-components-are-so-tiny/",
+          "publishedOn": "2021-11-08T15:00:29.000Z",
+          "wordCount": 3162,
+          "title": "Smaller is Sometimes Better: Why Electronic Components are So Tiny"
+        },
+        {
+          "id": "https://hackaday.com/?p=505001",
+          "author": "Jenny List",
+          "description": "It has become the norm for single-board computers to emerge bearing more than a passing resemblance to the Raspberry Pi, as the board from Cambridge sets the hardware standard for …read more",
+          "link": "https://hackaday.com/2021/11/08/the-raspberry-pi-cm4-begets-a-form-factor/",
+          "publishedOn": "2021-11-08T12:00:00.000Z",
+          "wordCount": 2247,
+          "title": "The Raspberry Pi CM4 Begets A Form Factor"
+        },
+        {
+          "id": "https://hackaday.com/?p=504167",
+          "author": "Bryan Cockfield",
+          "description": "Building exoskeletons for people is a rapidly growing branch of robotics. Whether it’s improving the natural abilities of humans with added strength or helping those with disabilities, the field has …read more",
+          "link": "https://hackaday.com/2021/11/08/adding-brakes-to-actuated-fingers/",
+          "publishedOn": "2021-11-08T09:00:34.000Z",
+          "wordCount": 1565,
+          "title": "Adding Brakes to Actuated Fingers"
+        },
+        {
+          "id": "https://hackaday.com/?p=504848",
+          "author": "Chris Lott",
+          "description": "We like retro-computing and we like open source standards that allow easy project sharing. Vintage DEC computer enthusiast [Jay Logue] combines both of these in his recent project on GitHub, where …read more",
+          "link": "https://hackaday.com/2021/11/07/flip-chip-kicad-templates/",
+          "publishedOn": "2021-11-08T06:00:26.000Z",
+          "wordCount": 1430,
+          "title": "Flip-Chip KiCad Templates"
+        },
+        {
+          "id": "https://hackaday.com/?p=503257",
+          "author": "Jenny List",
+          "description": "As we head into another Northern Hemisphere pandemic winter and hope that things won’t be quite as bad this year, next summer seems an extremely long time away in the …read more",
+          "link": "https://hackaday.com/2021/11/07/got-anything-to-talk-about-these-dutch-hackers-want-you-to-say-it-to-them/",
+          "publishedOn": "2021-11-08T03:00:27.000Z",
+          "wordCount": 1314,
+          "title": "Got Anything To Talk About? These Dutch Hackers Want You To Say It To Them"
+        },
         {
           "id": "https://hackaday.com/?p=504796&preview=true&preview_id=504796",
           "author": "Dan Maloney",
@@ -8799,6 +8861,43 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "6CC848C6-E7F1-4837-8734B539100069C8",
+          "author": "Katie Hafner, The Lost Women of Science Initiative",
+          "description": "A new podcast is on a mission to retrieve unsung women scientists from oblivion. \n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/podcast/episode/listen-to-this-new-podcast-the-lost-women-of-science/",
+          "publishedOn": "2021-11-08T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Listen to This New Podcast: \"The Lost Women of Science\"",
+          "itunes": {
+            "duration": "04:48"
+          },
+          "enclosure": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=C79793B5-3C9C-4A7D-9425FA7B2F7D5240",
+            "length": "4035343",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "835A7C92-9F78-46CE-B7AA4B4481384675",
+          "author": "César A. Hidalgo",
+          "description": "When things go wrong, flexible moral intuitions cause us to judge computers more severely\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/why-we-forgive-humans-more-readily-than-machines/",
+          "publishedOn": "2021-11-08T12:30:00.000Z",
+          "wordCount": null,
+          "title": "Why We Forgive Humans More Readily Than Machines",
+          "itunes": {}
+        },
+        {
+          "id": "7D5F09FD-508A-44E5-ADA5EC0E2E030E68",
+          "author": "Sophie Bushwick",
+          "description": "The novel material mimics the layered structure of nacre\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/seashells-inspire-new-superstrong-glass-composite/",
+          "publishedOn": "2021-11-08T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Seashells Inspire New Superstrong Glass Composite",
+          "itunes": {}
+        },
+        {
           "id": "6094640A-F019-43FE-96F235FBA7DE6EFD",
           "author": "Tereza Pultarova, SPACE.com",
           "description": "A new virtual model of our planet could help resolve lingering climatic uncertainties\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -11164,6 +11263,42 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=146753",
+          "author": "Alan Shimel",
+          "description": "Hello, and welcome to the launch of Digital CxO, the premier destination site and community dedicated to fostering collaboration among business and IT leaders driving digital transformation initiatives. As part of Techstrong Group, which also includes DevOps.com, Container Journal, DevOps Institute, Security Boulevard, Techstrong TV and the newly formed TechStrong Research Group, Digital CxO creates […]\nThe post Digital CxOs Have a Home, as Digital CxO Joins the Techstrong Group Family appeared first on DevOps.com.",
+          "link": "https://devops.com/digital-cxos-have-a-home-as-digital-cxo-joins-the-techstrong-group-family/",
+          "publishedOn": "2021-11-08T15:00:04.000Z",
+          "wordCount": 954,
+          "title": "Digital CxOs Have a Home, as Digital CxO Joins the Techstrong Group Family"
+        },
+        {
+          "id": "https://devops.com/?p=147155",
+          "author": "Mike Vizard",
+          "description": "Microsoft has made available a bevy of updates to its DevOps portfolio that, collectively, are intended to increase its share of a wave of applications that will be rolled out across the extended enterprise. Additions to the Microsoft DevOps portfolio were announced at the Microsoft Ignite 2021 conference and include DevOps Workflow Generator, a free […]\nThe post Microsoft Expands Azure DevOps Portfolio appeared first on DevOps.com.",
+          "link": "https://devops.com/microsoft-expands-azure-devops-portfolio/",
+          "publishedOn": "2021-11-08T13:39:19.000Z",
+          "wordCount": 1051,
+          "title": "Microsoft Expands Azure DevOps Portfolio"
+        },
+        {
+          "id": "https://devops.com/?p=147107",
+          "author": "Andy Randall",
+          "description": "It feels like a long time since the beginning of the pandemic, where once malls and city centers were alive with the footfall of customers and any service could be found across a counter. The landscape of consumer services has now changed irreparably. Online marketplaces, which have increasingly dominated much of consumer purchasing habits since […]\nThe post How Retailers Can Prosper in the Age of eBay and Prime appeared first on DevOps.com.",
+          "link": "https://devops.com/how-retailers-can-prosper-in-the-age-of-ebay-and-prime/",
+          "publishedOn": "2021-11-08T08:00:18.000Z",
+          "wordCount": 1347,
+          "title": "How Retailers Can Prosper in the Age of eBay and Prime"
+        },
+        {
+          "id": "https://devops.com/?p=147070",
+          "author": "Maria Mugica",
+          "description": "What if we could use an artificial intelligence (AI) engine to predict the next lines of software code to build? What if machine learning (ML) could trigger the creation of automated test cases to validate our solutions? Automation has been a focus for the information and communications technology (ICT) industry for years, and there are […]\nThe post Driving Software Delivery Automation With AI/ML appeared first on DevOps.com.",
+          "link": "https://devops.com/driving-software-delivery-automation-with-ai-ml/",
+          "publishedOn": "2021-11-08T07:30:45.000Z",
+          "wordCount": 1898,
+          "title": "Driving Software Delivery Automation With AI/ML"
+        },
+        {
           "id": "https://devops.com/?p=147075",
           "author": "Mike Vizard",
           "description": "Oxeye emerged this week from stealth to launch a namesake application security testing platform that, in addition to pinpointing issues in code, also provides advice to best remediate the issues it found. Fresh from raising $5.3 million in seed funding, the Oxeye platform requires developers to download an observer tool that scans code for vulnerabilities. […]\nThe post Oxeye Platform Helps Fix Code Vulnerabilities appeared first on DevOps.com.",
@@ -12170,6 +12305,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=110158",
+          "author": "Esther Landhuis",
+          "description": "The brain not only helps to regulate immune responses, but also stores and retrieves “memories” of them.            \nThe post The Brain Can Recall and Reawaken Past Immune Responses first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/new-science-shows-immune-memory-in-the-brain-20211108/",
+          "publishedOn": "2021-11-08T15:58:04.000Z",
+          "wordCount": null,
+          "title": "The Brain Can Recall and Reawaken Past Immune Responses",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=109992",
           "author": "Viviane Callier",
           "description": "A new study of gene expression in sponges reveals the complex diversity of their cells as well as some possibly ancient connections between the nervous, immune and digestive systems.            \nThe post Sponge Genes Hint at the Origins of Neurons and Other Cells first appeared on Quanta Magazine",
@@ -12426,6 +12571,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=65985",
+          "author": "Nathan Yau",
+          "description": "xkcd poked fun at the sometimes questionable color choices of researchers.…\nTags: color, humor, xkcd",
+          "link": "https://flowingdata.com/2021/11/08/painbow-color-scale/",
+          "publishedOn": "2021-11-08T08:42:09.000Z",
+          "wordCount": 244,
+          "title": "Painbow color scale"
+        },
         {
           "id": "https://flowingdata.com/?p=65981",
           "author": "Nathan Yau",
@@ -12945,6 +13099,49 @@
           "publishedOn": "2021-09-13T03:00:00.000Z",
           "wordCount": 2219,
           "title": "Asking tough questions to make room for valuable projects"
+        }
+      ]
+    },
+    {
+      "title": "Luau",
+      "feedUrl": "https://luau-lang.org/feed.xml",
+      "siteUrl": "https://luau-lang.org/",
+      "articles": [
+        {
+          "id": "https://luau-lang.org/2021/11/03/luau-goes-open-source.html",
+          "author": null,
+          "description": "When Roblox was created 15 years ago, we chose Lua as the scripting language. Lua was small, fast, easy to embed and learn and opened up enormous possibilities for our developers.",
+          "link": "https://luau-lang.org/2021/11/03/luau-goes-open-source.html",
+          "publishedOn": "2021-11-03T00:00:00.000Z",
+          "wordCount": 468,
+          "title": "Luau Goes Open-Source"
+        },
+        {
+          "id": "https://luau-lang.org/2021/10/31/luau-recap-october-2021.html",
+          "author": null,
+          "description": "Luau is our new language that you can read more about at https://luau-lang.org.",
+          "link": "https://luau-lang.org/2021/10/31/luau-recap-october-2021.html",
+          "publishedOn": "2021-10-31T00:00:00.000Z",
+          "wordCount": 1100,
+          "title": "Luau Recap: October 2021"
+        },
+        {
+          "id": "https://luau-lang.org/2021/09/30/luau-recap-september-2021.html",
+          "author": null,
+          "description": "Luau is our new language that you can read more about at https://luau-lang.org.",
+          "link": "https://luau-lang.org/2021/09/30/luau-recap-september-2021.html",
+          "publishedOn": "2021-09-30T00:00:00.000Z",
+          "wordCount": 951,
+          "title": "Luau Recap: September 2021"
+        },
+        {
+          "id": "https://luau-lang.org/2021/08/31/luau-recap-august-2021.html",
+          "author": null,
+          "description": "Luau is our new language that you can read more about at https://luau-lang.org.",
+          "link": "https://luau-lang.org/2021/08/31/luau-recap-august-2021.html",
+          "publishedOn": "2021-08-31T00:00:00.000Z",
+          "wordCount": 871,
+          "title": "Luau Recap: August 2021"
         }
       ]
     }
