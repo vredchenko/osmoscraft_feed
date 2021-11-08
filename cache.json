@@ -5558,15 +5558,6 @@
           "publishedOn": "2021-08-23T14:00:13.000Z",
           "wordCount": 636,
           "title": "React usePrevious Hook"
-        },
-        {
-          "id": "https://davidwalsh.name/?p=27454",
-          "author": "David Walsh",
-          "description": "As I’ve shown you in the past, nvm an excellent utility for switching between Node.js versions. Whether your host machine or CI, building and testing your apps on different Node versions is a necessity. I’ve recently found a few nvm commands that I found really useful during local development. To set a default node version […]\nThe post Set a Default Node Version with nvm appeared first on David Walsh Blog.",
-          "link": "https://davidwalsh.name/nvm-default-node",
-          "publishedOn": "2021-08-09T16:19:11.000Z",
-          "wordCount": 525,
-          "title": "Set a Default Node Version with nvm"
         }
       ]
     },
@@ -5609,6 +5600,16 @@
       "feedUrl": "http://feeds.feedburner.com/helloacm?format=xml",
       "siteUrl": "https://helloacm.com",
       "articles": [
+        {
+          "id": "https://helloacm.com/?p=147508",
+          "author": "ACMer",
+          "description": "Given two non-negative integers num1 and num2 represented as strings, return the product of num1 and num2, also represented as a string. Note: You must not use any built-in BigInteger library or...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-high-accuracy-multiplication-algorithm-multiply-strings/",
+          "publishedOn": "2021-11-07T11:32:10.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – High Accuracy Multiplication Algorithm (Multiply Strings)",
+          "itunes": {}
+        },
         {
           "id": "https://helloacm.com/?p=147493",
           "author": "ACMer",
@@ -6388,16 +6389,6 @@
           "wordCount": null,
           "title": "Teaching Kids Programming – Add Two Big Integers in Strings",
           "itunes": {}
-        },
-        {
-          "id": "https://helloacm.com/?p=146239",
-          "author": "ACMer",
-          "description": "ou are given a singly linked list node containing positive integers. Return the same linked list where every node’s next points to the node val nodes ahead. If there’s no such node, next...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
-          "link": "https://helloacm.com/teaching-kids-programming-linked-list-jumps-via-recursion/",
-          "publishedOn": "2021-08-09T20:04:43.000Z",
-          "wordCount": null,
-          "title": "Teaching Kids Programming – Linked List Jumps via Recursion",
-          "itunes": {}
         }
       ]
     },
@@ -6406,6 +6397,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=504796&preview=true&preview_id=504796",
+          "author": "Dan Maloney",
+          "description": "More trouble for Hubble this week as the space observatory’s scientific instruments package entered safe mode again. The problems started back on October 25, when the Scientific Instrument Command and …read more",
+          "link": "https://hackaday.com/2021/11/07/hackaday-links-november-7-2021/",
+          "publishedOn": "2021-11-08T00:00:30.000Z",
+          "wordCount": 1662,
+          "title": "Hackaday Links: November 7, 2021"
+        },
+        {
+          "id": "https://hackaday.com/?p=504469",
+          "author": "Adam Zeloof",
+          "description": "Every year, [Conor O’Neill] hacks something together to spook and entertain trick-or-treaters who happen by his home on Halloween. He’s noticed a pattern — every year the project involves a …read more",
+          "link": "https://hackaday.com/2021/11/07/halloween-hack-requires-minimum-code-produces-maximum-fun/",
+          "publishedOn": "2021-11-07T21:00:19.000Z",
+          "wordCount": 1380,
+          "title": "Halloween Hack Requires Minimum Code, Produces Maximum Fun"
+        },
+        {
+          "id": "https://hackaday.com/?p=500615",
+          "author": "Kristina Panos",
+          "description": "Unless you stay up all night and have a dozen printers going, it’s probably way too late to make one of these beautiful prop weapons designed by [Andrew] of The …read more",
+          "link": "https://hackaday.com/2021/11/07/diy-wunderwaffe-and-others-make-up-this-open-source-arsenal/",
+          "publishedOn": "2021-11-07T18:00:47.000Z",
+          "wordCount": 1273,
+          "title": "DIY Wunderwaffe and Others Make Up This Open-Source Arsenal"
+        },
+        {
+          "id": "https://hackaday.com/?p=503960",
+          "author": "Dan Maloney",
+          "description": "Something like 99% of the people on the road at any given moment will consider themselves an above-average driver, something that’s as statistically impossible as it is easily disproven by …read more",
+          "link": "https://hackaday.com/2021/11/07/annoy-yourself-into-better-driving-with-this-turn-signal-monitor/",
+          "publishedOn": "2021-11-07T15:15:08.000Z",
+          "wordCount": 2957,
+          "title": "Annoy Yourself into Better Driving with This Turn Signal Monitor"
+        },
+        {
+          "id": "https://hackaday.com/?p=503854",
+          "author": "Lewin Day",
+          "description": "Some say there’s no treasure quite as valuable as the almighty dollar. [Norbert Zare] likes alt-rock soundtracks on Youtube videos and robots obsessed with money, so set about building the …read more",
+          "link": "https://hackaday.com/2021/11/07/this-robot-cant-keep-its-eyes-off-the-money/",
+          "publishedOn": "2021-11-07T12:00:38.000Z",
+          "wordCount": 1366,
+          "title": "This Robot Can’t Keep Its Eyes Off The Money"
+        },
+        {
+          "id": "https://hackaday.com/?p=502703",
+          "author": "Al Williams",
+          "description": "If you are under a certain age, you might not know the initialism VTVM. It stands for vacuum tube voltmeter. At first glance, you might just think that was shorthand …read more",
+          "link": "https://hackaday.com/2021/11/07/heathkit-im-13-vtvm-repair/",
+          "publishedOn": "2021-11-07T08:15:12.000Z",
+          "wordCount": 1713,
+          "title": "Heathkit IM-13 VTVM Repair"
+        },
+        {
+          "id": "https://hackaday.com/?p=504074",
+          "author": "Robin Kearey",
+          "description": "Here at Hackaday we love projects that are so well-documented that you can spend days reading up on what the designer has achieved. [John Lonergan] didn’t disappoint when he designed …read more",
+          "link": "https://hackaday.com/2021/11/06/spam-1-is-a-well-documented-discrete-cpu-with-an-impressive-software-library/",
+          "publishedOn": "2021-11-07T05:00:13.000Z",
+          "wordCount": 1398,
+          "title": "SPAM-1 is a Well-Documented Discrete CPU With an Impressive Software Library"
+        },
         {
           "id": "https://hackaday.com/?p=504682",
           "author": "Adam Zeloof",
@@ -8744,6 +8798,36 @@
       "feedUrl": "http://rss.sciam.com/scientificamerican-global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "6094640A-F019-43FE-96F235FBA7DE6EFD",
+          "author": "Tereza Pultarova, SPACE.com",
+          "description": "A new virtual model of our planet could help resolve lingering climatic uncertainties\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/can-digital-replica-of-earth-save-the-world-from-climate-disaster/",
+          "publishedOn": "2021-11-07T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Can Digital Replica of Earth Save the World from Climate Disaster?",
+          "itunes": {}
+        },
+        {
+          "id": "387ED7FD-14DD-42E6-A5A5997E2E7A2114",
+          "author": "Katie Weeman",
+          "description": "The utter lack of time zones, daylight and people creates a bizarre world\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://blogs.scientificamerican.com/blogs/observations/time-has-no-meaning-at-the-north-pole/",
+          "publishedOn": "2021-11-07T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Time Has No Meaning at the North Pole",
+          "itunes": {}
+        },
+        {
+          "id": "424A6F23-925A-4300-A7946659C9F7D65A",
+          "author": "Tess Joosse",
+          "description": "Top news from around the world\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/in-case-you-missed-it53/",
+          "publishedOn": "2021-11-07T14:00:00.000Z",
+          "wordCount": null,
+          "title": "In Case You Missed It",
+          "itunes": {}
+        },
         {
           "id": "38BD45CB-9872-4FA3-8D75FE2470962A37",
           "author": "Mark Fischetti",
