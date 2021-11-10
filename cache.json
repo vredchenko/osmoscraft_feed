@@ -40,6 +40,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=356142",
+          "author": "Chris Coyier",
+          "description": "Louis Lazaris breaks down some bonafide CSS trickery from Jane. The Pen shows off interactivity where:\nYou have to press a special combination of keys on a keyboard.\nThen type a secret password.\nFrom there, a special message pops …\nThe post Detecting Specific Text Input with HTML and CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/detecting-specific-text-input-with-html-and-css/",
+          "publishedOn": "2021-11-09T22:53:45.000Z",
+          "wordCount": 440,
+          "title": "Detecting Specific Text Input with HTML and CSS"
+        },
+        {
+          "id": "https://css-tricks.com/?p=356370",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nThe leade here is that VideoPress makes video on WordPress way better. VideoPress is a part of Jetpack. And now, if VideoPress is the only thing you care about from the Jetpack world, you …\nThe post VideoPress for WordPress appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/videopress-for-wordpress/",
+          "publishedOn": "2021-11-09T22:53:18.000Z",
+          "wordCount": 979,
+          "title": "VideoPress for WordPress"
+        },
+        {
+          "id": "https://css-tricks.com/?p=356187",
+          "author": "Adam Rackis",
+          "description": "Suspense is React’s forthcoming feature that helps coordinate asynchronous actions—like data loading—allowing you to easily prevent inconsistent state in your UI. I’ll provide a better explanation of what exactly that means, along with a quick introduction of Suspense, and then …\nThe post React Suspense: Lessons Learned While Loading Data appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/react-suspense-lessons-learned-while-loading-data/",
+          "publishedOn": "2021-11-09T15:20:10.000Z",
+          "wordCount": 2392,
+          "title": "React Suspense: Lessons Learned While Loading Data"
+        },
+        {
           "id": "https://css-tricks.com/?p=356204",
           "author": "Chris Coyier",
           "description": "Bonafide CSS trick alert! Nelson Menezes figured out a new way (that only works in Firefox for now) that is awfully clever.\nPerhaps you know that CSS cannot animate to auto dimensions, which is super unfortunate. Animating from …\nThe post CSS Grid Can Do Auto Height Transitions appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -865,6 +892,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "617c550f33422e07df367780",
+          "author": null,
+          "description": "Python offers a number of functional programming utilities even though it's primarily an object-oriented programming language. And the most notable one is the map() function. In this article, we'll explore what the map() function is and how to use it in your code. The map() function in PythonThe map() function",
+          "link": "https://www.freecodecamp.org/news/python-map-explained-with-examples/",
+          "publishedOn": "2021-11-09T17:50:02.000Z",
+          "wordCount": 708,
+          "title": "Python map() Function – Explained with Examples"
+        },
+        {
+          "id": "618ab16011d3cb08287a3bd7",
+          "author": null,
+          "description": "Would you survive the TV show Squid Game? Would you survive coding the TV show Squid Game? Time to find out. We just published a JavaScript course on the freeCodeCamp.org YouTube channel that will teach you how to create the Red Light / Green Light game from Squid Game. You",
+          "link": "https://www.freecodecamp.org/news/create-a-squid-game-javascript-game-with-three-js/",
+          "publishedOn": "2021-11-09T17:42:24.000Z",
+          "wordCount": 317,
+          "title": "Create a Squid Game JavaScript Game with Three.js"
+        },
+        {
+          "id": "61862c268bcfae07ca4e27d7",
+          "author": null,
+          "description": "In this tutorial you'll learn the basics of JSON – what it is, where it is most commonly used, and its syntax.  You'll also see how to convert a string to JSON in Python.  Let's get started!  What is JSON? JSON stands for JavaScript Object Notation.  It is a data format",
+          "link": "https://www.freecodecamp.org/news/python-json-how-to-convert-a-string-to-json/",
+          "publishedOn": "2021-11-09T16:38:47.000Z",
+          "wordCount": 958,
+          "title": "Python JSON – How to Convert a String to JSON"
+        },
+        {
+          "id": "618a5af08bcfae07ca4e3a8b",
+          "author": null,
+          "description": "Discord is an instant messaging app you can use to communicate through text messages, voice calls, and video calls. You can also use it to share files.  Discord was originally created for gamers, but many other people now use it these days. It has become an alternative to Slack for",
+          "link": "https://www.freecodecamp.org/news/discord-wont-open-on-my-pc-solved-in-windows-10/",
+          "publishedOn": "2021-11-09T14:57:04.000Z",
+          "wordCount": 898,
+          "title": "Discord Won&#x27;t Open on my PC [Solved in Windows 10]"
+        },
         {
           "id": "617acb5b33422e07df366c9d",
           "author": null,
@@ -6784,6 +6847,69 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
+          "id": "https://hackaday.com/?p=505169",
+          "author": "Al Williams",
+          "description": "If you’ve printed with an FDM printer, you probably know there are many interrelated factors to getting a good print. One key item is the dryness of the filament. When …read more",
+          "link": "https://hackaday.com/2021/11/09/most-fdm-printers-are-also-filament-dryers-with-a-little-help/",
+          "publishedOn": "2021-11-10T00:00:31.000Z",
+          "wordCount": 1209,
+          "title": "Most FDM Printers are also Filament Dryers (with a Little Help)"
+        },
+        {
+          "id": "https://hackaday.com/?p=504955",
+          "author": "Adam Zeloof",
+          "description": "Your brand-new PCBs just showed up, and this time you even remembered to order a stencil. You lay the stencil on one of the boards, hold it down with one …read more",
+          "link": "https://hackaday.com/2021/11/09/streamline-your-smd-assembly-process-with-3d-printed-jigs/",
+          "publishedOn": "2021-11-09T21:00:52.000Z",
+          "wordCount": 1212,
+          "title": "Streamline Your SMD Assembly Process With 3D-Printed Jigs"
+        },
+        {
+          "id": "https://hackaday.com/?p=505097",
+          "author": "Donald Papp",
+          "description": "All 3D printer filament benefits from being kept as dry as possible, but some are more sensitive to humidity than others. The best solution is a drybox; a sealed filament …read more",
+          "link": "https://hackaday.com/2021/11/09/this-0-filament-drybox-needs-nearly-no-parts/",
+          "publishedOn": "2021-11-09T19:30:00.000Z",
+          "wordCount": 2050,
+          "title": "This $0 Filament Drybox Needs Nearly No Parts"
+        },
+        {
+          "id": "https://hackaday.com/?p=504353",
+          "author": "Lewin Day",
+          "description": "NASA first landed a human on the moon back in 1969, and last achieved the feat in December 1972. In the intervening years, there have been few other missions to …read more",
+          "link": "https://hackaday.com/2021/11/09/nasas-new-moon-missions-are-happening-really-soon/",
+          "publishedOn": "2021-11-09T18:01:39.000Z",
+          "wordCount": 2724,
+          "title": "NASA’s New Moon Missions Are Happening Really Soon"
+        },
+        {
+          "id": "https://hackaday.com/?p=504414",
+          "author": "Dan Maloney",
+          "description": "When it comes to Nixie clocks, we all pretty much know what to expect: a bunch of Nixies with some RGB LEDs underneath, a wooden case of some sort, and …read more",
+          "link": "https://hackaday.com/2021/11/09/not-your-average-nixie-tube-clock/",
+          "publishedOn": "2021-11-09T16:30:34.000Z",
+          "wordCount": 1489,
+          "title": "Not Your Average Nixie Tube Clock"
+        },
+        {
+          "id": "https://hackaday.com/?p=503109",
+          "author": "Tom Nardi",
+          "description": "Have you ever looked up a recipe online, and before you got to the ingredients, you had to scroll through somebody’s meandering life story? You just want to know how …read more",
+          "link": "https://hackaday.com/2021/11/09/teardown-analog-radionic-analyzer/",
+          "publishedOn": "2021-11-09T15:00:21.000Z",
+          "wordCount": 4581,
+          "title": "Teardown: Analog Radionic Analyzer"
+        },
+        {
+          "id": "https://hackaday.com/?p=505094",
+          "author": "Adam Zeloof",
+          "description": "Oscilloscope displays have come a long way since the round phosphor-coated CRTs that adorned laboratories of old. Most modern scopes ship with huge, high-definition touch screens that, while beautiful, certainly …read more",
+          "link": "https://hackaday.com/2021/11/09/flip-dot-oscilloscope-is-flippin-awesome/",
+          "publishedOn": "2021-11-09T12:00:00.000Z",
+          "wordCount": 1188,
+          "title": "Flip-Dot Oscilloscope is Flippin’ Awesome"
+        },
+        {
           "id": "https://hackaday.com/?p=504948",
           "author": "Adam Zeloof",
           "description": "We all love seeing data represented in pretty ways — whether it’s necessary or not. Take VU meters for example. They’re a super useful tool for audio editors to balance …read more",
@@ -9293,6 +9419,86 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "782A961D-18AD-47A7-9E892DC9E235BD78",
+          "author": "Rachel Kyte, The Conversation US",
+          "description": "A former U.N. official on the ground breaks down where negotiations are at in the second week of talks\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/dispatch-from-the-glasgow-climate-summit-as-talks-intensify/",
+          "publishedOn": "2021-11-09T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Dispatch from the Glasgow Climate Summit as Talks Intensify",
+          "itunes": {}
+        },
+        {
+          "id": "AE4E2E60-1F16-471D-A23DB54382B653E2",
+          "author": "Sara Schonhardt, Jean Chemnick, E&E News",
+          "description": "Climate-vulnerable countries are pushing for compensation for lives and livelihoods affected by warming\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/climate-talks-turn-to-contentious-issue-of-paying-for-damage-already-done/",
+          "publishedOn": "2021-11-09T18:30:00.000Z",
+          "wordCount": null,
+          "title": "Climate Talks Turn to Contentious Issue of Paying for Damage Already Done",
+          "itunes": {}
+        },
+        {
+          "id": "692B4BF3-6B7F-47E0-8A8FC4E7FC11E6FC",
+          "author": "Tanya Lewis",
+          "description": "People with diseases or treatments that suppress their immune system cannot count on the same protection most vaccinated people have\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-immunocompromised-people-without-strong-vaccine-protection-are-coping-with-covid/",
+          "publishedOn": "2021-11-09T16:45:00.000Z",
+          "wordCount": null,
+          "title": "How Immunocompromised People Without Strong Vaccine Protection Are Coping with COVID",
+          "itunes": {}
+        },
+        {
+          "id": "0F17C4AB-E1AB-4523-9F5AF2FC6C93D58C",
+          "author": "Gladson Dungdung, Malvika Gupta, Felix Padel",
+          "description": "In India, as in other countries around the world, abuse accompanies eviction from ancestral lands\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/indigenous-children-are-still-dying-in-boarding-schools/",
+          "publishedOn": "2021-11-09T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Indigenous Children Are Still Dying in Boarding Schools",
+          "itunes": {}
+        },
+        {
+          "id": "C1E6AA5F-DC2A-4757-B4AD770BC170905A",
+          "author": "Janet Barber, Ask Nature",
+          "description": "The Black naturalist’s research in the 1700s was respected but not accepted, just like his petition to Thomas Jefferson to end oppression\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/long-overlooked-benjamin-banneker-is-recognized-for-work-on-cicadas-and-against-slavery/",
+          "publishedOn": "2021-11-09T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Long Overlooked, Benjamin Banneker Is Recognized for Work on Cicadas and against Slavery",
+          "itunes": {}
+        },
+        {
+          "id": "093396C2-5D74-4D22-B4F3866E482F3BBD",
+          "author": "Max Kozlov, Nature magazine",
+          "description": "Synapse genes help cells to communicate in sponge’s digestive chambers\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/sponge-cells-hint-at-origins-of-nervous-system/",
+          "publishedOn": "2021-11-09T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Sponge Cells Hint at Origins of Nervous System",
+          "itunes": {}
+        },
+        {
+          "id": "3386F08C-82DB-40D3-84B829E6F8AE4A22",
+          "author": "Clara Moskowitz, Chris Gunn",
+          "description": "The long-delayed successor to the Hubble Space Telescope is set to take flight in December\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/at-long-last-the-james-webb-space-telescope-is-ready-for-launch/",
+          "publishedOn": "2021-11-09T13:00:00.000Z",
+          "wordCount": null,
+          "title": "At Long Last, the James Webb Space Telescope Is Ready for Launch",
+          "itunes": {}
+        },
+        {
+          "id": "B80C948A-BBA9-4B20-9A355D0B6881BC5D",
+          "author": "Maddie Bender",
+          "description": "High-powered chemistry lets researchers trace a beer back to its ingredients\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/whats-brewing-in-a-beer-is-startling-complexity/",
+          "publishedOn": "2021-11-09T11:45:00.000Z",
+          "wordCount": null,
+          "title": "What's Brewing in a Beer Is Startling Complexity",
+          "itunes": {}
+        },
+        {
           "id": "9B9B5A84-4056-4F86-BC49947E83F3E5AC",
           "author": "Ehsan Masood, Jeff Tollefson, Nature magazine",
           "description": "Nations have promised to end deforestation, curb methane emissions and stop public investment in coal power. Researchers warn that the real work of COP26 is yet to come\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -11725,6 +11931,42 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=147197",
+          "author": "Alan Shimel",
+          "description": "In July 2021, Neo4j announced a large round of fundraising—its largest to date. Philip Rathle talked with Alan Shimel about how the capital will be used to further Neo4j’s go-to-market strategy and what that means for DevOps professionals. The video of the conversation is below, followed by a transcript.   Announcer: This is Digital Anarchist. […]\nThe post Neo4j Will Use Funds to Expand Managed Cloud Database appeared first on DevOps.com.",
+          "link": "https://devops.com/neo4j-will-use-funds-to-expand-managed-cloud-database/",
+          "publishedOn": "2021-11-09T18:23:24.000Z",
+          "wordCount": 2783,
+          "title": "Neo4j Will Use Funds to Expand Managed Cloud Database"
+        },
+        {
+          "id": "https://devops.com/?p=147159",
+          "author": "James Roe",
+          "description": "A lot of enterprises migrate to the public cloud because they see everyone else doing it. And while you should stay up on the latest and greatest innovations—which often happen in the cloud—you need to be aware of the realities and understand different migration strategies. You need to know why you’re moving to the cloud. […]\nThe post Debunking 6 Stubborn Public Cloud Myths appeared first on DevOps.com.",
+          "link": "https://devops.com/debunking-6-stubborn-public-cloud-myths/",
+          "publishedOn": "2021-11-09T08:00:02.000Z",
+          "wordCount": 1304,
+          "title": "Debunking 6 Stubborn Public Cloud Myths"
+        },
+        {
+          "id": "https://devops.com/?p=147150",
+          "author": "Chris Harris",
+          "description": "For some time, the goal of digital transformation was to replace legacy systems. It became a battle between all that was new and shiny and that which was old, outdated and “had to go.” However, this philosophy has since shifted as companies realized two crucial facts. First, legacy systems are often too important to be […]\nThe post Developer Familiarity is Key to Digital Success appeared first on DevOps.com.",
+          "link": "https://devops.com/developer-familiarity-is-key-to-digital-success/",
+          "publishedOn": "2021-11-09T07:30:39.000Z",
+          "wordCount": 1309,
+          "title": "Developer Familiarity is Key to Digital Success"
+        },
+        {
+          "id": "https://devops.com/?p=147192",
+          "author": "ROELBOB",
+          "description": "The post Acronyms appeared first on DevOps.com.",
+          "link": "https://devops.com/acronyms/",
+          "publishedOn": "2021-11-09T07:00:35.000Z",
+          "wordCount": 417,
+          "title": "Acronyms"
+        },
+        {
           "id": "https://devops.com/?p=147190",
           "author": "jenn@mediaops.com",
           "description": "The post NP Pete Jenn appeared first on DevOps.com.",
@@ -12776,6 +13018,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=110161",
+          "author": "Tamar Lichter Blanks",
+          "description": "New work establishes a tighter connection between the rank of a polynomial and the extent to which it favors particular outputs.            \nThe post Mathematicians Find Structure in Biased Polynomials first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/mathematicians-find-structure-in-biased-polynomials-20211109/",
+          "publishedOn": "2021-11-09T15:16:52.000Z",
+          "wordCount": null,
+          "title": "Mathematicians Find Structure in Biased Polynomials",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=110158",
           "author": "Esther Landhuis",
           "description": "The brain not only helps to regulate immune responses, but also stores and retrieves “memories” of them.            \nThe post The Brain Can Recall and Reawaken Past Immune Responses first appeared on Quanta Magazine",
@@ -13042,6 +13294,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=65988",
+          "author": "Nathan Yau",
+          "description": "This chart shows the shifts since 1960.\nTags: work",
+          "link": "https://flowingdata.com/2021/11/09/how-much-women-and-men-worked/",
+          "publishedOn": "2021-11-09T12:03:40.000Z",
+          "wordCount": 403,
+          "title": "How Much Women and Men Work"
+        },
         {
           "id": "https://flowingdata.com/?p=65985",
           "author": "Nathan Yau",
@@ -13638,15 +13899,6 @@
           "publishedOn": "2021-09-08T17:28:14.000Z",
           "wordCount": 209,
           "title": "Thinking on ways to solve ​​SPLIT BUTTONS"
-        },
-        {
-          "id": "https://web.dev/shows/gui-challenges/_KqccADghcA/",
-          "author": null,
-          "description": "In today's GUI challenge I share my thinking on a way to solve a switch. A tiny, UX packed component that ended up being one of the most involved challenges so far. Tons of great layouts, accessibility, animations and interactions to share, which means tons of places for you to have a style preference 😉\n0:00 - Introduction\n1:15 - States\n2:05 - Interactions\n2:45 - Screen reader\n3:14 - Touch\n4:10 - Hover\n5:07 - RTL\n5:56 - CSS/JS not required\n7:00 - Vertical variant\n9:14 - Flexbox\n10:39 - Grid\n12:10 - Overrides\n15:38 - Javascript\n18:15 - Outro\n\n\n\n\n\n\n\nRead along → \nTry a demo → \nGet the source → https://goo.gle/3xBYGHyhttps://goo.gle/2VJLVO0https://goo.gle/3n4Sfcg\n\nWatch more GUI Challenges → \nSubscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://goo.gl/LLLNvf\n\n#GUIchallenges #CSS #ChromeDeveloper",
-          "link": "https://web.dev/shows/gui-challenges/_KqccADghcA/",
-          "publishedOn": "2021-08-11T17:00:04.000Z",
-          "wordCount": 215,
-          "title": "Thinking on ways to solve SWITCHES"
         }
       ]
     }

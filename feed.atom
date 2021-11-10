@@ -2,10 +2,326 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2021-11-09T00:40:49.866Z</updated>
+    <updated>2021-11-10T00:40:21.275Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Most FDM Printers are also Filament Dryers (with a Little Help)]]></title>
+        <id>https://hackaday.com/?p=505169</id>
+        <link href="https://hackaday.com/2021/11/09/most-fdm-printers-are-also-filament-dryers-with-a-little-help/"/>
+        <updated>2021-11-10T00:00:31.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve printed with an FDM printer, you probably know there are many interrelated factors to getting a good print. One key item is the dryness of the filament. When …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detecting Specific Text Input with HTML and CSS]]></title>
+        <id>https://css-tricks.com/?p=356142</id>
+        <link href="https://css-tricks.com/detecting-specific-text-input-with-html-and-css/"/>
+        <updated>2021-11-09T22:53:45.000Z</updated>
+        <summary type="html"><![CDATA[Louis Lazaris breaks down some bonafide CSS trickery from Jane. The Pen shows off interactivity where:
+You have to press a special combination of keys on a keyboard.
+Then type a secret password.
+From there, a special message pops …
+The post Detecting Specific Text Input with HTML and CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VideoPress for WordPress]]></title>
+        <id>https://css-tricks.com/?p=356370</id>
+        <link href="https://css-tricks.com/videopress-for-wordpress/"/>
+        <updated>2021-11-09T22:53:18.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+The leade here is that VideoPress makes video on WordPress way better. VideoPress is a part of Jetpack. And now, if VideoPress is the only thing you care about from the Jetpack world, you …
+The post VideoPress for WordPress appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamline Your SMD Assembly Process With 3D-Printed Jigs]]></title>
+        <id>https://hackaday.com/?p=504955</id>
+        <link href="https://hackaday.com/2021/11/09/streamline-your-smd-assembly-process-with-3d-printed-jigs/"/>
+        <updated>2021-11-09T21:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Your brand-new PCBs just showed up, and this time you even remembered to order a stencil. You lay the stencil on one of the boards, hold it down with one …read more]]></summary>
+        <author>
+            <name>Adam Zeloof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This $0 Filament Drybox Needs Nearly No Parts]]></title>
+        <id>https://hackaday.com/?p=505097</id>
+        <link href="https://hackaday.com/2021/11/09/this-0-filament-drybox-needs-nearly-no-parts/"/>
+        <updated>2021-11-09T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[All 3D printer filament benefits from being kept as dry as possible, but some are more sensitive to humidity than others. The best solution is a drybox; a sealed filament …read more]]></summary>
+        <author>
+            <name>Donald Papp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dispatch from the Glasgow Climate Summit as Talks Intensify]]></title>
+        <id>782A961D-18AD-47A7-9E892DC9E235BD78</id>
+        <link href="https://www.scientificamerican.com/article/dispatch-from-the-glasgow-climate-summit-as-talks-intensify/"/>
+        <updated>2021-11-09T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A former U.N. official on the ground breaks down where negotiations are at in the second week of talks
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Rachel Kyte, The Conversation US</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Climate Talks Turn to Contentious Issue of Paying for Damage Already Done]]></title>
+        <id>AE4E2E60-1F16-471D-A23DB54382B653E2</id>
+        <link href="https://www.scientificamerican.com/article/climate-talks-turn-to-contentious-issue-of-paying-for-damage-already-done/"/>
+        <updated>2021-11-09T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Climate-vulnerable countries are pushing for compensation for lives and livelihoods affected by warming
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Sara Schonhardt, Jean Chemnick, E&amp;E News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neo4j Will Use Funds to Expand Managed Cloud Database]]></title>
+        <id>https://devops.com/?p=147197</id>
+        <link href="https://devops.com/neo4j-will-use-funds-to-expand-managed-cloud-database/"/>
+        <updated>2021-11-09T18:23:24.000Z</updated>
+        <summary type="html"><![CDATA[In July 2021, Neo4j announced a large round of fundraising—its largest to date. Philip Rathle talked with Alan Shimel about how the capital will be used to further Neo4j’s go-to-market strategy and what that means for DevOps professionals. The video of the conversation is below, followed by a transcript.   Announcer: This is Digital Anarchist. […]
+The post Neo4j Will Use Funds to Expand Managed Cloud Database appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Alan Shimel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA’s New Moon Missions Are Happening Really Soon]]></title>
+        <id>https://hackaday.com/?p=504353</id>
+        <link href="https://hackaday.com/2021/11/09/nasas-new-moon-missions-are-happening-really-soon/"/>
+        <updated>2021-11-09T18:01:39.000Z</updated>
+        <summary type="html"><![CDATA[NASA first landed a human on the moon back in 1969, and last achieved the feat in December 1972. In the intervening years, there have been few other missions to …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python map() Function – Explained with Examples]]></title>
+        <id>617c550f33422e07df367780</id>
+        <link href="https://www.freecodecamp.org/news/python-map-explained-with-examples/"/>
+        <updated>2021-11-09T17:50:02.000Z</updated>
+        <summary type="html"><![CDATA[Python offers a number of functional programming utilities even though it's primarily an object-oriented programming language. And the most notable one is the map() function. In this article, we'll explore what the map() function is and how to use it in your code. The map() function in PythonThe map() function]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Squid Game JavaScript Game with Three.js]]></title>
+        <id>618ab16011d3cb08287a3bd7</id>
+        <link href="https://www.freecodecamp.org/news/create-a-squid-game-javascript-game-with-three-js/"/>
+        <updated>2021-11-09T17:42:24.000Z</updated>
+        <summary type="html"><![CDATA[Would you survive the TV show Squid Game? Would you survive coding the TV show Squid Game? Time to find out. We just published a JavaScript course on the freeCodeCamp.org YouTube channel that will teach you how to create the Red Light / Green Light game from Squid Game. You]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Immunocompromised People Without Strong Vaccine Protection Are Coping with COVID]]></title>
+        <id>692B4BF3-6B7F-47E0-8A8FC4E7FC11E6FC</id>
+        <link href="https://www.scientificamerican.com/article/how-immunocompromised-people-without-strong-vaccine-protection-are-coping-with-covid/"/>
+        <updated>2021-11-09T16:45:00.000Z</updated>
+        <summary type="html"><![CDATA[People with diseases or treatments that suppress their immune system cannot count on the same protection most vaccinated people have
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Tanya Lewis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python JSON – How to Convert a String to JSON]]></title>
+        <id>61862c268bcfae07ca4e27d7</id>
+        <link href="https://www.freecodecamp.org/news/python-json-how-to-convert-a-string-to-json/"/>
+        <updated>2021-11-09T16:38:47.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial you'll learn the basics of JSON – what it is, where it is most commonly used, and its syntax.  You'll also see how to convert a string to JSON in Python.  Let's get started!  What is JSON? JSON stands for JavaScript Object Notation.  It is a data format]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not Your Average Nixie Tube Clock]]></title>
+        <id>https://hackaday.com/?p=504414</id>
+        <link href="https://hackaday.com/2021/11/09/not-your-average-nixie-tube-clock/"/>
+        <updated>2021-11-09T16:30:34.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to Nixie clocks, we all pretty much know what to expect: a bunch of Nixies with some RGB LEDs underneath, a wooden case of some sort, and …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indigenous Children Are Still Dying in Boarding Schools]]></title>
+        <id>0F17C4AB-E1AB-4523-9F5AF2FC6C93D58C</id>
+        <link href="https://www.scientificamerican.com/article/indigenous-children-are-still-dying-in-boarding-schools/"/>
+        <updated>2021-11-09T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In India, as in other countries around the world, abuse accompanies eviction from ancestral lands
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Gladson Dungdung, Malvika Gupta, Felix Padel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Suspense: Lessons Learned While Loading Data]]></title>
+        <id>https://css-tricks.com/?p=356187</id>
+        <link href="https://css-tricks.com/react-suspense-lessons-learned-while-loading-data/"/>
+        <updated>2021-11-09T15:20:10.000Z</updated>
+        <summary type="html"><![CDATA[Suspense is React’s forthcoming feature that helps coordinate asynchronous actions—like data loading—allowing you to easily prevent inconsistent state in your UI. I’ll provide a better explanation of what exactly that means, along with a quick introduction of Suspense, and then …
+The post React Suspense: Lessons Learned While Loading Data appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathematicians Find Structure in Biased Polynomials]]></title>
+        <id>https://www.quantamagazine.org/?p=110161</id>
+        <link href="https://www.quantamagazine.org/mathematicians-find-structure-in-biased-polynomials-20211109/"/>
+        <updated>2021-11-09T15:16:52.000Z</updated>
+        <summary type="html"><![CDATA[New work establishes a tighter connection between the rank of a polynomial and the extent to which it favors particular outputs.            
+The post Mathematicians Find Structure in Biased Polynomials first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Tamar Lichter Blanks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teardown: Analog Radionic Analyzer]]></title>
+        <id>https://hackaday.com/?p=503109</id>
+        <link href="https://hackaday.com/2021/11/09/teardown-analog-radionic-analyzer/"/>
+        <updated>2021-11-09T15:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever looked up a recipe online, and before you got to the ingredients, you had to scroll through somebody’s meandering life story? You just want to know how …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Long Overlooked, Benjamin Banneker Is Recognized for Work on Cicadas and against Slavery]]></title>
+        <id>C1E6AA5F-DC2A-4757-B4AD770BC170905A</id>
+        <link href="https://www.scientificamerican.com/article/long-overlooked-benjamin-banneker-is-recognized-for-work-on-cicadas-and-against-slavery/"/>
+        <updated>2021-11-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Black naturalist’s research in the 1700s was respected but not accepted, just like his petition to Thomas Jefferson to end oppression
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Janet Barber, Ask Nature</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discord Won&#x27;t Open on my PC [Solved in Windows 10]]]></title>
+        <id>618a5af08bcfae07ca4e3a8b</id>
+        <link href="https://www.freecodecamp.org/news/discord-wont-open-on-my-pc-solved-in-windows-10/"/>
+        <updated>2021-11-09T14:57:04.000Z</updated>
+        <summary type="html"><![CDATA[Discord is an instant messaging app you can use to communicate through text messages, voice calls, and video calls. You can also use it to share files.  Discord was originally created for gamers, but many other people now use it these days. It has become an alternative to Slack for]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sponge Cells Hint at Origins of Nervous System]]></title>
+        <id>093396C2-5D74-4D22-B4F3866E482F3BBD</id>
+        <link href="https://www.scientificamerican.com/article/sponge-cells-hint-at-origins-of-nervous-system/"/>
+        <updated>2021-11-09T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Synapse genes help cells to communicate in sponge’s digestive chambers
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Max Kozlov, Nature magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[At Long Last, the James Webb Space Telescope Is Ready for Launch]]></title>
+        <id>3386F08C-82DB-40D3-84B829E6F8AE4A22</id>
+        <link href="https://www.scientificamerican.com/article/at-long-last-the-james-webb-space-telescope-is-ready-for-launch/"/>
+        <updated>2021-11-09T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The long-delayed successor to the Hubble Space Telescope is set to take flight in December
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Clara Moskowitz, Chris Gunn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Much Women and Men Work]]></title>
+        <id>https://flowingdata.com/?p=65988</id>
+        <link href="https://flowingdata.com/2021/11/09/how-much-women-and-men-worked/"/>
+        <updated>2021-11-09T12:03:40.000Z</updated>
+        <summary type="html"><![CDATA[This chart shows the shifts since 1960.
+Tags: work]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flip-Dot Oscilloscope is Flippin’ Awesome]]></title>
+        <id>https://hackaday.com/?p=505094</id>
+        <link href="https://hackaday.com/2021/11/09/flip-dot-oscilloscope-is-flippin-awesome/"/>
+        <updated>2021-11-09T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Oscilloscope displays have come a long way since the round phosphor-coated CRTs that adorned laboratories of old. Most modern scopes ship with huge, high-definition touch screens that, while beautiful, certainly …read more]]></summary>
+        <author>
+            <name>Adam Zeloof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's Brewing in a Beer Is Startling Complexity]]></title>
+        <id>B80C948A-BBA9-4B20-9A355D0B6881BC5D</id>
+        <link href="https://www.scientificamerican.com/article/whats-brewing-in-a-beer-is-startling-complexity/"/>
+        <updated>2021-11-09T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[High-powered chemistry lets researchers trace a beer back to its ingredients
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Maddie Bender</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debunking 6 Stubborn Public Cloud Myths]]></title>
+        <id>https://devops.com/?p=147159</id>
+        <link href="https://devops.com/debunking-6-stubborn-public-cloud-myths/"/>
+        <updated>2021-11-09T08:00:02.000Z</updated>
+        <summary type="html"><![CDATA[A lot of enterprises migrate to the public cloud because they see everyone else doing it. And while you should stay up on the latest and greatest innovations—which often happen in the cloud—you need to be aware of the realities and understand different migration strategies. You need to know why you’re moving to the cloud. […]
+The post Debunking 6 Stubborn Public Cloud Myths appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>James Roe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developer Familiarity is Key to Digital Success]]></title>
+        <id>https://devops.com/?p=147150</id>
+        <link href="https://devops.com/developer-familiarity-is-key-to-digital-success/"/>
+        <updated>2021-11-09T07:30:39.000Z</updated>
+        <summary type="html"><![CDATA[For some time, the goal of digital transformation was to replace legacy systems. It became a battle between all that was new and shiny and that which was old, outdated and “had to go.” However, this philosophy has since shifted as companies realized two crucial facts. First, legacy systems are often too important to be […]
+The post Developer Familiarity is Key to Digital Success appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Chris Harris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Acronyms]]></title>
+        <id>https://devops.com/?p=147192</id>
+        <link href="https://devops.com/acronyms/"/>
+        <updated>2021-11-09T07:00:35.000Z</updated>
+        <summary type="html"><![CDATA[The post Acronyms appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>ROELBOB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Visualizing Audio With an LCD VU Meter]]></title>
         <id>https://hackaday.com/?p=504948</id>
@@ -15895,45 +16211,6 @@ The post React usePrevious Hook appeared first on David Walsh Blog.]]></summary>
 [[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
         <author>
             <name>ACMer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thinking on ways to solve SWITCHES]]></title>
-        <id>https://web.dev/shows/gui-challenges/_KqccADghcA/</id>
-        <link href="https://web.dev/shows/gui-challenges/_KqccADghcA/"/>
-        <updated>2021-08-11T17:00:04.000Z</updated>
-        <summary type="html"><![CDATA[In today's GUI challenge I share my thinking on a way to solve a switch. A tiny, UX packed component that ended up being one of the most involved challenges so far. Tons of great layouts, accessibility, animations and interactions to share, which means tons of places for you to have a style preference 😉
-0:00 - Introduction
-1:15 - States
-2:05 - Interactions
-2:45 - Screen reader
-3:14 - Touch
-4:10 - Hover
-5:07 - RTL
-5:56 - CSS/JS not required
-7:00 - Vertical variant
-9:14 - Flexbox
-10:39 - Grid
-12:10 - Overrides
-15:38 - Javascript
-18:15 - Outro
-
-
-
-
-
-
-
-Read along → 
-Try a demo → 
-Get the source → https://goo.gle/3xBYGHyhttps://goo.gle/2VJLVO0https://goo.gle/3n4Sfcg
-
-Watch more GUI Challenges → 
-Subscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://goo.gl/LLLNvf
-
-#GUIchallenges #CSS #ChromeDeveloper]]></summary>
-        <author>
-            <name>GUI Challenges on web.dev</name>
         </author>
     </entry>
 </feed>
