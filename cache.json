@@ -40,6 +40,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=356058",
+          "author": "Chris Coyier",
+          "description": "Whatever, I just needed a title. Everyone’s favorite web security feature has crossed my desk a bunch of times lately and I always feel like that is a sign I should write something because that’s what blogging is. \nThe main …\nThe post Don’t Snore on CORS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/dont-snore-on-cors/",
+          "publishedOn": "2021-11-10T22:38:05.000Z",
+          "wordCount": 697,
+          "title": "Don’t Snore on CORS"
+        },
+        {
+          "id": "https://css-tricks.com/?p=355649",
+          "author": "Meredith Matthews",
+          "description": "Oh, Bootstrap, that old standard web library that either you hate or you spend all your time defending as “it’s fine, it’s not that bad.” Regardless of what side you fall on, it’s a powerful UI framework that’s everywhere, …\nThe post Quick and Dirty Bootstrap Overrides at Runtime appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/quick-and-dirty-bootstrap-overrides-at-runtime/",
+          "publishedOn": "2021-11-10T15:00:29.000Z",
+          "wordCount": 2161,
+          "title": "Quick and Dirty Bootstrap Overrides at Runtime"
+        },
+        {
+          "id": "https://css-tricks.com/?p=356208",
+          "author": "Chris Coyier",
+          "description": "Nice domain, eh? Does just what it says on the tin: cleans up pictures. You draw over areas of the image you want cleaned up, and it does its best using weird science. It’s like Photoshop’s Spot Healing Brush…\nThe post cleanup.pictures appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/cleanup-pictures/",
+          "publishedOn": "2021-11-10T14:55:26.000Z",
+          "wordCount": 364,
+          "title": "cleanup.pictures"
+        },
+        {
           "id": "https://css-tricks.com/?p=356142",
           "author": "Chris Coyier",
           "description": "Louis Lazaris breaks down some bonafide CSS trickery from Jane. The Pen shows off interactivity where:\nYou have to press a special combination of keys on a keyboard.\nThen type a secret password.\nFrom there, a special message pops …\nThe post Detecting Specific Text Input with HTML and CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -892,6 +919,60 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "6189613e8bcfae07ca4e3967",
+          "author": null,
+          "description": "Computers have revolutionized our lives.  They help us get repetitive tasks done quickly and accurately. And they are tireless and do not fear complexity.  Computers are able to process data and perform operations at a rate of millions per second. They can get a task done much faster compared to",
+          "link": "https://www.freecodecamp.org/news/what-is-a-pc-computer-definition-and-computer-basics-for-beginners/",
+          "publishedOn": "2021-11-10T18:35:08.000Z",
+          "wordCount": 2087,
+          "title": "What is a PC? Computer Definition and Computer Basics for Beginners"
+        },
+        {
+          "id": "618bf06d11d3cb08287a4450",
+          "author": null,
+          "description": "If you use Windows 10, you might have encountered the error \"no audio output device is installed\".  This error can be caused by a corrupt driver, overdue updates, or improper connection.  In this article, I will show you 2 ways you can fix the \"no audio output",
+          "link": "https://www.freecodecamp.org/news/no-audio-output-device-is-installed-fixed-on-windows-10-pc/",
+          "publishedOn": "2021-11-10T18:27:53.000Z",
+          "wordCount": 547,
+          "title": "No Audio Output Device is Installed [Fixed on Windows 10 PC]"
+        },
+        {
+          "id": "615eb0160d91c9077974e918",
+          "author": null,
+          "description": "When you're working with Python strings, there are times when you'll have to reverse them, and work with their reversed copies instead.  But since Python strings are immutable, you cannot modify or reverse them in place. In Python, there are a few different ways you can do this. And this",
+          "link": "https://www.freecodecamp.org/news/python-reverse-string-string-reversal-in-python-explained-with-code-examples/",
+          "publishedOn": "2021-11-10T16:40:09.000Z",
+          "wordCount": 1622,
+          "title": "Python Reverse String – String Reversal in Python Explained with Examples"
+        },
+        {
+          "id": "61695ddc80d82d07c45a5220",
+          "author": null,
+          "description": "The destructuring assignment in JavaScript provides a neat and DRY way to extract values from your arrays and objects. This article aims to show you exactly how array and object destructuring assignments work in JavaScript. So, without any further ado, let’s get started with array destructuring. What Is Array",
+          "link": "https://www.freecodecamp.org/news/array-vs-object-destructuring-in-javascript/",
+          "publishedOn": "2021-11-10T16:24:16.000Z",
+          "wordCount": 3359,
+          "title": "Array vs Object Destructuring in JavaScript – What’s the Difference?"
+        },
+        {
+          "id": "618671f48bcfae07ca4e299e",
+          "author": null,
+          "description": "Hey everyone, in this tutorial we'll use React with Firebase V9 to setup authentication for an application.  We will create Firebase functions for Login and Register, we will add toast messages for errors, and we will add private routes using session-based authentication. It's going to be fun. We will use",
+          "link": "https://www.freecodecamp.org/news/react-firebase-authentication-and-crud-operations/",
+          "publishedOn": "2021-11-10T16:22:43.000Z",
+          "wordCount": 3348,
+          "title": "React Authentication Tutorial – How to Set Up Auth with Firebase V9 and React Router V6"
+        },
+        {
+          "id": "618bdf6011d3cb08287a43bb",
+          "author": null,
+          "description": "Micro-frontends is a method to build a website or web app as a composition of features which can be created and worked on separately. We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about micro-frontends. Jack Herrington created this course. Jack has worked",
+          "link": "https://www.freecodecamp.org/news/learn-all-about-micro-frontends/",
+          "publishedOn": "2021-11-10T15:11:16.000Z",
+          "wordCount": 328,
+          "title": "Learn all about Micro-Frontends"
+        },
         {
           "id": "617c550f33422e07df367780",
           "author": null,
@@ -2097,6 +2178,177 @@
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
         {
+          "id": "https://hackernoon.com/a-linux-command-line-cheat-sheet?source=rss",
+          "author": "Dolamu Asipa",
+          "description": "",
+          "link": "https://hackernoon.com/a-linux-command-line-cheat-sheet?source=rss",
+          "publishedOn": "2021-11-09T21:09:06.000Z",
+          "wordCount": 871,
+          "title": "A Linux Command Line Cheat Sheet"
+        },
+        {
+          "id": "https://hackernoon.com/three-easy-ways-to-defraud-any-nft-marketplace?source=rss",
+          "author": "Mango Cat",
+          "description": "What is an NFT worth on the open market, really?  Are transaction histories reliable indicators of value?",
+          "link": "https://hackernoon.com/three-easy-ways-to-defraud-any-nft-marketplace?source=rss",
+          "publishedOn": "2021-11-09T18:57:12.000Z",
+          "wordCount": 941,
+          "title": "Three Easy Ways to Defraud Any NFT Marketplace"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-ethereum-and-what-is-its-relevance-to-decentralization?source=rss",
+          "author": "Bybit",
+          "description": "A common mistake occurs when Ethereum and Ether are used interchangeably to describe cryptocurrency. But that is not entirely accurate.",
+          "link": "https://hackernoon.com/what-is-ethereum-and-what-is-its-relevance-to-decentralization?source=rss",
+          "publishedOn": "2021-11-09T16:58:38.000Z",
+          "wordCount": 991,
+          "title": "What Is Ethereum? And What Is Its Relevance to Decentralization?"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-draft-emails-that-convert-prospectives-into-clients?source=rss",
+          "author": "Ishan Pandey",
+          "description": "How to draft emails and convert clients with proper communication skills and effective email signatures.",
+          "link": "https://hackernoon.com/how-to-draft-emails-that-convert-prospectives-into-clients?source=rss",
+          "publishedOn": "2021-11-09T16:44:53.000Z",
+          "wordCount": 3765,
+          "title": "How To Draft Emails That Convert Prospectives Into Clients"
+        },
+        {
+          "id": "https://hackernoon.com/top-saas-product-ideas-for-startups-of-the-future?source=rss",
+          "author": "Varun",
+          "description": "No business wants to jump on every platform, and SaaS is no exception. You always need to brainstorm many ideas and get some guidance in order to succeed.",
+          "link": "https://hackernoon.com/top-saas-product-ideas-for-startups-of-the-future?source=rss",
+          "publishedOn": "2021-11-09T14:47:06.000Z",
+          "wordCount": 2428,
+          "title": "Top SaaS Product Ideas for Startups of the Future"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-use-the-ikea-effect-to-sell-more-products?source=rss",
+          "author": "Rishikesh",
+          "description": "Ikea Effect is the overvaluation of products that are built by users when they have put some effort into it.",
+          "link": "https://hackernoon.com/how-to-use-the-ikea-effect-to-sell-more-products?source=rss",
+          "publishedOn": "2021-11-09T14:40:56.000Z",
+          "wordCount": 1661,
+          "title": "How to Use The IKEA Effect to Sell More Products"
+        },
+        {
+          "id": "https://hackernoon.com/on-creativity-starting-out-on-my-own-and-my-2021-noonies-nomination?source=rss",
+          "author": "Hua Shu",
+          "description": "Hua is a designer and entrepreneur based in New York City. She shares her journey in founding her startup below.",
+          "link": "https://hackernoon.com/on-creativity-starting-out-on-my-own-and-my-2021-noonies-nomination?source=rss",
+          "publishedOn": "2021-11-09T14:32:14.000Z",
+          "wordCount": 919,
+          "title": "On Creativity, Starting Out on My Own, and My 2021 Noonies Nomination"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-technical-writing-and-how-it-can-become-your-career?source=rss",
+          "author": "Juxtathinka",
+          "description": "Are you interested in starting out your career as a technical writer? Find out more about technical writing and the oppurtunities it provides for you today.",
+          "link": "https://hackernoon.com/what-is-technical-writing-and-how-it-can-become-your-career?source=rss",
+          "publishedOn": "2021-11-09T14:11:24.000Z",
+          "wordCount": 1969,
+          "title": "What Is Technical Writing and How It Can Become Your Career"
+        },
+        {
+          "id": "https://hackernoon.com/how-the-maker-of-zeus-trojan-retired-and-was-never-caught?source=rss",
+          "author": "CoolTechZone - Cyber Security Labs & News",
+          "description": "He was ahead his time in 2009, but today there are other threat actors in action. Here's how he seems to have gotten away with stealing millions of dollars.",
+          "link": "https://hackernoon.com/how-the-maker-of-zeus-trojan-retired-and-was-never-caught?source=rss",
+          "publishedOn": "2021-11-09T13:20:15.000Z",
+          "wordCount": 980,
+          "title": "How the Maker Of Zeus Trojan Retired and was Never Caught"
+        },
+        {
+          "id": "https://hackernoon.com/combating-brilliance-bias-we-should-celebrate-smart-women-more?source=rss",
+          "author": "Rishikesh",
+          "description": "Brilliance bias is the tendency to think of brilliance or genius as a male characteristic.",
+          "link": "https://hackernoon.com/combating-brilliance-bias-we-should-celebrate-smart-women-more?source=rss",
+          "publishedOn": "2021-11-09T11:52:39.000Z",
+          "wordCount": 1298,
+          "title": "Combating Brilliance Bias: We Should Celebrate Smart Women More"
+        },
+        {
+          "id": "https://hackernoon.com/diving-into-the-legal-issues-of-nfts-in-foodtech?source=rss",
+          "author": "Zak Oganian",
+          "description": "The implementation of NFT leads not only to the improvement of operations and brand image but also causes some legal issues which are worth knowing about.",
+          "link": "https://hackernoon.com/diving-into-the-legal-issues-of-nfts-in-foodtech?source=rss",
+          "publishedOn": "2021-11-09T11:15:37.000Z",
+          "wordCount": 982,
+          "title": "Diving into the Legal Issues of NFTs in FoodTech"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-use-a-seedbox-to-download-torrents-anonymously-and-fast?source=rss",
+          "author": "Network and Cybersecurity Engineer",
+          "description": "Seedboxes are a way of helping users torrent many files at once simultaneously. They are an effective way of accessing more content more quickly anonymously.",
+          "link": "https://hackernoon.com/how-to-use-a-seedbox-to-download-torrents-anonymously-and-fast?source=rss",
+          "publishedOn": "2021-11-09T10:58:13.000Z",
+          "wordCount": 984,
+          "title": "How to Use a Seedbox to Download Torrents Anonymously and Fast"
+        },
+        {
+          "id": "https://hackernoon.com/books-vs-servers-where-should-we-store-all-of-the-human-knowledge?source=rss",
+          "author": "Nikola O.",
+          "description": "We are used to storing our information in the cloud, which has clear benefits over paper databases and books. What is the best place to keep human knowledge?",
+          "link": "https://hackernoon.com/books-vs-servers-where-should-we-store-all-of-the-human-knowledge?source=rss",
+          "publishedOn": "2021-11-09T10:45:31.000Z",
+          "wordCount": 1003,
+          "title": "Books vs. Servers: Where Should We Store All of the Human Knowledge?"
+        },
+        {
+          "id": "https://hackernoon.com/meet-the-writer-michael-brooks-founderceo-at-golance?source=rss",
+          "author": "Michael Brooks",
+          "description": "An award-winning entrepreneur, speaker, and author guides you through the new remote world.",
+          "link": "https://hackernoon.com/meet-the-writer-michael-brooks-founderceo-at-golance?source=rss",
+          "publishedOn": "2021-11-09T07:14:17.000Z",
+          "wordCount": 971,
+          "title": "Meet the Writer: Michael Brooks, Founder/CEO at goLance"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-detect-adblocker-and-serve-ads-with-adsense-on-a-personal-website?source=rss",
+          "author": "Brian Caffey",
+          "description": "This article describes how I added AdSense to my personal website and how I can detect and request that site visitors pause AdBlock while reading my blog.",
+          "link": "https://hackernoon.com/how-to-detect-adblocker-and-serve-ads-with-adsense-on-a-personal-website?source=rss",
+          "publishedOn": "2021-11-08T23:24:08.000Z",
+          "wordCount": 994,
+          "title": "How to Detect AdBlocker and Serve Ads with Adsense On a Personal Website"
+        },
+        {
+          "id": "https://hackernoon.com/a-beginners-guide-to-unit-testing?source=rss",
+          "author": "Tanaka Mutakwa",
+          "description": "In this article, we are going to discuss a testing approach known as unit testing. What are unit tests? How should you implement them? and their benefits.",
+          "link": "https://hackernoon.com/a-beginners-guide-to-unit-testing?source=rss",
+          "publishedOn": "2021-11-08T23:05:05.000Z",
+          "wordCount": 2134,
+          "title": "A Beginner's Guide to Unit Testing In JavaScript"
+        },
+        {
+          "id": "https://hackernoon.com/leveraging-amazon-ivs-in-creating-unique-ecommerce-livestreaming-experience?source=rss",
+          "author": "Amazon Interactive Video Service (IVS)",
+          "description": "From powering live trivia sessions for Samsung, to helping fashion retailers sell out limited edition inventory in minutes, BeLive Technology has delivered more than 50 million hours of live video since 2018. Offering rich interactivity and analytics, the company’s customizable live streaming service is a go-to for notable brands and celebrities in southeast Asia looking to boost real-time viewer engagement and monetization. Available as an end-to-end white label solution for custom streaming platforms, a one-click install SDK for customers with an in-house development team, and a live shopping solution, BeLive Technology is built on a host of Amazon Web Services (AWS), including Amazon Interactive Video Service (Amazon IVS) to ensure high-quality, low-latency, and resilient live streams.",
+          "link": "https://hackernoon.com/leveraging-amazon-ivs-in-creating-unique-ecommerce-livestreaming-experience?source=rss",
+          "publishedOn": "2021-11-08T21:29:15.000Z",
+          "wordCount": 1780,
+          "title": "Leveraging Amazon IVS in Creating Unique Ecommerce Livestreaming Experience"
+        },
+        {
+          "id": "https://hackernoon.com/top-30-free-and-paid-courses-and-tutorials-to-learn-react-in-2021?source=rss",
+          "author": "kat",
+          "description": "Check the list of the most popular platforms to learn React. Here is a list of YouTube channels, teaching marketplaces like Udemy for all-level developers.",
+          "link": "https://hackernoon.com/top-30-free-and-paid-courses-and-tutorials-to-learn-react-in-2021?source=rss",
+          "publishedOn": "2021-11-08T21:00:11.000Z",
+          "wordCount": 2955,
+          "title": "Top 30 Free and Paid Courses and Tutorials to Learn React in 2021"
+        },
+        {
+          "id": "https://hackernoon.com/why-application-performance-monitoring-matters?source=rss",
+          "author": "Michael Levan",
+          "description": "Ensuring that a system and application are performing the way they're supposed to isn't anything new.",
+          "link": "https://hackernoon.com/why-application-performance-monitoring-matters?source=rss",
+          "publishedOn": "2021-11-08T18:28:37.000Z",
+          "wordCount": 842,
+          "title": "Why Application Performance Monitoring Matters"
+        },
+        {
           "id": "https://hackernoon.com/automate-all-production-leisure-not-work-is-our-goal?source=rss",
           "author": "DJCampbell",
           "description": "Work should be a vocation.",
@@ -2131,6 +2383,15 @@
           "publishedOn": "2021-11-08T08:43:47.000Z",
           "wordCount": 1822,
           "title": "Unpacking (Indie Game Review): A Meditative Stress Buster"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-use-icalendar-for-semi-predictable-but-oddball-events?source=rss",
+          "author": "Angie Byron",
+          "description": "Learn the high points of the iCalendar specification in an example-driven way in order to solve an interesting \"recurring dates\" problem: shift work.",
+          "link": "https://hackernoon.com/how-to-use-icalendar-for-semi-predictable-but-oddball-events?source=rss",
+          "publishedOn": "2021-11-08T08:39:40.000Z",
+          "wordCount": 1041,
+          "title": "How to Use iCalendar for Semi-Predictable but Oddball Events"
         },
         {
           "id": "https://hackernoon.com/theres-no-shortage-of-drama-in-the-nft-world-with-contributor-sam-white?source=rss",
@@ -6060,6 +6321,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=147524",
+          "author": "ACMer",
+          "description": "Given an integer array nums, handle multiple queries of the following types: Update the value of an element in nums. Calculate the sum of the elements of nums between indices left and right inclusive...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-square-root-decomposition-to-query-range-sum-of-mutable-list/",
+          "publishedOn": "2021-11-10T18:23:05.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Square Root Decomposition to Query Range Sum of Mutable List",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=147508",
           "author": "ACMer",
           "description": "Given two non-negative integers num1 and num2 represented as strings, return the product of num1 and num2, also represented as a string. Note: You must not use any built-in BigInteger library or...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -6818,26 +7089,6 @@
           "wordCount": null,
           "title": "Teaching Kids Programming – How to Verify a Max Heap?",
           "itunes": {}
-        },
-        {
-          "id": "https://helloacm.com/?p=146286",
-          "author": "ACMer",
-          "description": "Given a list of integers nums, return whether you can rearrange the order of nums such that the difference between every consecutive two numbers is the same. Constraints n ≤ 100,000 where n is the...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
-          "link": "https://helloacm.com/teaching-kids-programming-arithmetic-sequence-permutation/",
-          "publishedOn": "2021-08-12T20:37:05.000Z",
-          "wordCount": null,
-          "title": "Teaching Kids Programming – Arithmetic Sequence Permutation",
-          "itunes": {}
-        },
-        {
-          "id": "https://helloacm.com/?p=146267",
-          "author": "ACMer",
-          "description": "I joined Microsoft Research Cambridge last month – and 3 days before joining the Microsoft, I received the welcome pack/box which contains the following items (SWAG – free...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
-          "link": "https://helloacm.com/welcome-pack-swag-from-microsoft-research-cambridge/",
-          "publishedOn": "2021-08-12T15:09:08.000Z",
-          "wordCount": null,
-          "title": "Welcome Pack (SWAG) from Microsoft Research Cambridge",
-          "itunes": {}
         }
       ]
     },
@@ -6846,6 +7097,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=504836",
+          "author": "Al Williams",
+          "description": "[JanHerman] knows that tuning musical instruments is all about precision and that precision is measured in a logarithmic unit called a cent. A cheap tuner unit might be accurate to …read more",
+          "link": "https://hackaday.com/2021/11/10/arduino-piano-tuner-is-pitch-perfect/",
+          "publishedOn": "2021-11-11T00:00:00.000Z",
+          "wordCount": 1211,
+          "title": "Arduino Piano Tuner is Pitch Perfect"
+        },
+        {
+          "id": "https://hackaday.com/?p=505316",
+          "author": "Lewin Day",
+          "description": "Swinging an axe to split firewood is great exercise and a wonderful way to blow off steam. However, if you’re not a muscled-up Hollywood character that needs to do some …read more",
+          "link": "https://hackaday.com/2021/11/10/kinetic-log-splitter-gets-the-job-done-kinetically/",
+          "publishedOn": "2021-11-10T21:00:30.000Z",
+          "wordCount": 1275,
+          "title": "Kinetic Log Splitter Gets The Job Done Kinetically"
+        },
+        {
+          "id": "https://hackaday.com/?p=505246",
+          "author": "Jenny List",
+          "description": "The twin challenges of the pandemic and now the semiconductor shortage have been particularly hard on the designers of event badges, as events have been cancelled and uncertain supply issues …read more",
+          "link": "https://hackaday.com/2021/11/10/the-hackaday-remoticon-2-badge-an-exercise-in-your-own-ingenuity/",
+          "publishedOn": "2021-11-10T19:30:00.000Z",
+          "wordCount": 1295,
+          "title": "The Hackaday Remoticon 2 Badge: An Exercise In Your Own Ingenuity"
+        },
+        {
+          "id": "https://hackaday.com/?p=502318",
+          "author": "Maya Posch",
+          "description": "Sulfur hexafluoride (SF6) is not nearly as infamous as CO2, with the latter getting most of the blame for anthropogenic climate change. Yet while measures are being implemented to curb …read more",
+          "link": "https://hackaday.com/2021/11/10/sulfur-hexafluoride-the-nightmare-greenhouse-gas-thats-just-too-useful-to-stop-using/",
+          "publishedOn": "2021-11-10T18:01:48.000Z",
+          "wordCount": 4466,
+          "title": "Sulfur Hexafluoride: The Nightmare Greenhouse Gas That’s Just Too Useful To Stop Using"
+        },
+        {
+          "id": "https://hackaday.com/?p=505038",
+          "author": "Dan Maloney",
+          "description": "Here at Hackaday, we pride ourselves on bringing you the very freshest of hacks. But that doesn’t mean we catch all the good stuff the first time around, and occasionally …read more",
+          "link": "https://hackaday.com/2021/11/10/a-breathtaking-circuit-sculpture-clock/",
+          "publishedOn": "2021-11-10T16:30:00.000Z",
+          "wordCount": 1611,
+          "title": "A Breathtaking Circuit Sculpture Clock"
+        },
+        {
+          "id": "https://hackaday.com/?p=502077",
+          "author": "Jenny List",
+          "description": "NFC tags are a frequent target for experimentation, whether simply by using an app on a mobile phone to interrogate or write to tags, by incorporating them in projects by …read more",
+          "link": "https://hackaday.com/2021/11/10/nfc-performance-its-all-in-the-antenna/",
+          "publishedOn": "2021-11-10T15:00:01.000Z",
+          "wordCount": 2322,
+          "title": "NFC Performance: It’s All In The Antenna"
+        },
+        {
+          "id": "https://hackaday.com/?p=505261",
+          "author": "Dave Rowntree",
+          "description": "In a slightly safer departure away from jetpack roller-skating and flinging around bolts of lightning, [Ian Charnas] has been hacking retro video games. After a lot of hard work [Ian] …read more",
+          "link": "https://hackaday.com/2021/11/10/hacked-punch-out-controlled-with-actual-punches/",
+          "publishedOn": "2021-11-10T12:00:00.000Z",
+          "wordCount": 1393,
+          "title": "Hacked Punch-Out Controlled With Actual Punches"
+        },
         {
           "id": "https://hackaday.com/?p=505169",
           "author": "Al Williams",
@@ -9419,6 +9733,93 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "499B94D9-EFBD-4D3C-ABEE453C3B02D6F8",
+          "author": "Lewis A. Wheaton, Nature Neuroscience",
+          "description": "The 2020 protests made only small differences in the number of presenters\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/many-neuroscience-conferences-still-have-no-black-speakers/",
+          "publishedOn": "2021-11-10T20:00:00.000Z",
+          "wordCount": null,
+          "title": "Many Neuroscience Conferences Still Have No Black Speakers",
+          "itunes": {}
+        },
+        {
+          "id": "92BE5202-ECEC-495C-9D6CFC157FD67EDE",
+          "author": "Sarah Vitak",
+          "description": "Ultrasound triggered cells home in on tumors and then self destruct to deliver damage or therapeutics from inside.\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/podcast/episode/engineered-bacteria-use-air-bubbles-as-acoustically-detonated-tumor-tnt/",
+          "publishedOn": "2021-11-10T20:00:00.000Z",
+          "wordCount": null,
+          "title": "Engineered Bacteria Use Air Bubbles as Acoustically Detonated Tumor TNT",
+          "itunes": {
+            "duration": "08:03"
+          },
+          "enclosure": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=DCB45963-8180-438E-BCF543C3FD9565F0",
+            "length": "6771007",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "A70A4132-ADB4-44DE-9086C2042DF4D2CF",
+          "author": "Davide Castelvecchi, Nature magazine",
+          "description": "The latest bounty of 35 events features oddball black holes and a miniature neutron star\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/astrophysicists-unveil-glut-of-gravitational-wave-detections/",
+          "publishedOn": "2021-11-10T19:30:00.000Z",
+          "wordCount": null,
+          "title": "Astrophysicists Unveil Glut of Gravitational-wave Detections",
+          "itunes": {}
+        },
+        {
+          "id": "391A4D25-37BF-408D-9761F0A3551EB1C7",
+          "author": "Gary Stix",
+          "description": "SARS-CoV-2 appears to travel widely across the cerebral cortex\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-covid-might-sow-chaos-in-the-brain/",
+          "publishedOn": "2021-11-10T19:00:00.000Z",
+          "wordCount": null,
+          "title": "How COVID Might Sow Chaos in the Brain",
+          "itunes": {}
+        },
+        {
+          "id": "7C30E991-6739-4FD6-B4F39307DF350564",
+          "author": "Daniel Kriess, Alice Marwick, Francesca Bolla Tripodi",
+          "description": "The election of Glenn Youngkin and other anti-CRT candidates demonstrates how exploiting white fear continues to galvanize voters\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-anti-critical-race-theory-movement-will-profoundly-affect-public-education/",
+          "publishedOn": "2021-11-10T17:00:00.000Z",
+          "wordCount": null,
+          "title": "The Anti–Critical Race Theory Movement Will Profoundly Affect Public Education",
+          "itunes": {}
+        },
+        {
+          "id": "E14FC2B3-F092-4E4D-9ED08DD957AF15D7",
+          "author": "Sara Schonhardt, E&E News",
+          "description": "Negotiators have tentatively agreed to ask countries to ratchet up their emissions reduction efforts again next year\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/draft-text-at-climate-talks-pushes-nations-to-act-faster/",
+          "publishedOn": "2021-11-10T16:30:00.000Z",
+          "wordCount": null,
+          "title": "Draft Text at Climate Talks Pushes Nations to Act Faster",
+          "itunes": {}
+        },
+        {
+          "id": "FADB04D4-60E9-4255-910B970004867687",
+          "author": "Nikk Ogasa",
+          "description": "Award-winning science illustrator Fatinha Ramos creates intimate artwork that brings science stories to life\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-an-award-winning-illustrator-weaves-emotion-into-science/",
+          "publishedOn": "2021-11-10T14:00:00.000Z",
+          "wordCount": null,
+          "title": "How an Award-Winning Illustrator Weaves Emotion into Science",
+          "itunes": {}
+        },
+        {
+          "id": "A2B9FE45-19DE-428A-87087AF7D43EE0B9",
+          "author": "Jonathan O'Callaghan",
+          "description": "Sparked by major advances in their field, astrobiologists are grappling with how to best discuss possible breakthrough discoveries with the public\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-scientists-could-tell-the-world-if-they-find-alien-life/",
+          "publishedOn": "2021-11-10T11:45:00.000Z",
+          "wordCount": null,
+          "title": "How Scientists Could Tell The World if They Find Alien Life",
+          "itunes": {}
+        },
+        {
           "id": "782A961D-18AD-47A7-9E892DC9E235BD78",
           "author": "Rachel Kyte, The Conversation US",
           "description": "A former U.N. official on the ground breaks down where negotiations are at in the second week of talks\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -11931,6 +12332,60 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=147273",
+          "author": "Mike Vizard",
+          "description": "Dynatrace today added a security gates capability to its observability platform to make it easier to automatically embrace DevSecOps best practices within an application delivery pipeline. Steve Tack, senior vice president for product management at Dynatrace, said the security gates function much the same as the quality gates that Dynatrace previously added to that platform […]\nThe post Dynatrace Adds Security Gates to Advance DevSecOps Adoption appeared first on DevOps.com.",
+          "link": "https://devops.com/dynatrace-adds-security-gates-to-advance-devsecops-adoption/",
+          "publishedOn": "2021-11-10T23:26:37.000Z",
+          "wordCount": 993,
+          "title": "Dynatrace Adds Security Gates to Advance DevSecOps Adoption"
+        },
+        {
+          "id": "https://devops.com/?p=147247",
+          "author": "Mike Vizard",
+          "description": "Value stream intelligence platform provider Allstacks today added a free live dashboard populated with anonymized data that DevOps teams can use to benchmark their own progress. Hersh Tapadia, Allstacks co-founder and CEO, said the company is making this data available to make it easier for DevOps teams to uncover bottlenecks in their software development processes. […]\nThe post Allstacks Adds Free Dashboard to Track Software Dev Benchmarks appeared first on DevOps.com.",
+          "link": "https://devops.com/allstacks-adds-free-dashboard-to-track-software-dev-benchmarks/",
+          "publishedOn": "2021-11-10T13:30:36.000Z",
+          "wordCount": 1036,
+          "title": "Allstacks Adds Free Dashboard to Track Software Dev Benchmarks"
+        },
+        {
+          "id": "https://devops.com/?p=147255",
+          "author": "Mike Vizard",
+          "description": "During its online ObservabilityCON 2021 conference, Grafana Labs this week previewed an incident management platform in addition to making available an on-premises edition of its distributed tracing tool. Tom Wilkie, vice president of product for Grafana Labs, said the Grafana OnCall incident management platform is a natural extension of the observability tools the company already […]\nThe post Grafana Labs Expands into Incident Management Realm appeared first on DevOps.com.",
+          "link": "https://devops.com/grafana-labs-expands-into-incident-management-realm/",
+          "publishedOn": "2021-11-10T13:30:34.000Z",
+          "wordCount": 1080,
+          "title": "Grafana Labs Expands into Incident Management Realm"
+        },
+        {
+          "id": "https://devops.com/?p=147242",
+          "author": "Alan Shimel",
+          "description": "Jonathan Schneider and Olga Kundzich are co-founders of Moderne, a Seattle-based startup. Moderne received $4.7 million in seed funding in July 2021 to commercialize OpenRewrite, an open source automated refactoring tool for code (initially Java) that Schneider started while at Netflix. Moderne’s technology reduces the tedium and time it takes for software remediation; a big […]\nThe post Automated Refactoring with Moderne appeared first on DevOps.com.",
+          "link": "https://devops.com/automated-refactoring-with-moderne/",
+          "publishedOn": "2021-11-10T11:29:33.000Z",
+          "wordCount": 2659,
+          "title": "Automated Refactoring with Moderne"
+        },
+        {
+          "id": "https://devops.com/?p=147236",
+          "author": "Sachin Deshpande",
+          "description": "Through the adoption of Agile concepts and new best practices such as automated testing, organizations can move beyond the innovation curve and bolster their IT infrastructure. In fact, the need to build agile and resilient IT infrastructure has become increasingly pertinent over the past 18 months.  From remote working and managing the diverse needs of […]\nThe post The Need for Agile, Adaptable IT Infrastructure appeared first on DevOps.com.",
+          "link": "https://devops.com/the-need-for-agile-adaptable-it-infrastructure/",
+          "publishedOn": "2021-11-10T08:00:08.000Z",
+          "wordCount": 1258,
+          "title": "The Need for Agile, Adaptable IT Infrastructure"
+        },
+        {
+          "id": "https://devops.com/?p=147229",
+          "author": "Don Macvittie",
+          "description": "It is interesting to consider DevOps from the storage perspective. DevOps in general—and specifically newer development and deployment models—tried to pretend that long-term storage was not a necessary component of software delivery. In short, it appears that because there wasn’t a good answer to long-term state in stateless development models, the storage and databases that […]\nThe post How Dispersed Can We Be? appeared first on DevOps.com.",
+          "link": "https://devops.com/how-dispersed-can-we-be/",
+          "publishedOn": "2021-11-10T07:30:58.000Z",
+          "wordCount": 1040,
+          "title": "How Dispersed Can We Be?"
+        },
+        {
           "id": "https://devops.com/?p=147197",
           "author": "Alan Shimel",
           "description": "In July 2021, Neo4j announced a large round of fundraising—its largest to date. Philip Rathle talked with Alan Shimel about how the capital will be used to further Neo4j’s go-to-market strategy and what that means for DevOps professionals. The video of the conversation is below, followed by a transcript.   Announcer: This is Digital Anarchist. […]\nThe post Neo4j Will Use Funds to Expand Managed Cloud Database appeared first on DevOps.com.",
@@ -13018,6 +13473,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=110164",
+          "author": "Charlie Wood",
+          "description": "Physicists are translating commonsense principles into strict mathematical constraints on how our universe must have behaved at the beginning of time.             \nThe post Laws of Logic Lead to New Restrictions on the Big Bang first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/cosmologists-close-in-on-logical-laws-for-the-big-bang-20211110/",
+          "publishedOn": "2021-11-10T15:05:15.000Z",
+          "wordCount": null,
+          "title": "Laws of Logic Lead to New Restrictions on the Big Bang",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=110161",
           "author": "Tamar Lichter Blanks",
           "description": "New work establishes a tighter connection between the rank of a polynomial and the extent to which it favors particular outputs.            \nThe post Mathematicians Find Structure in Biased Polynomials first appeared on Quanta Magazine",
@@ -13294,6 +13759,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66001",
+          "author": "Nathan Yau",
+          "description": "Sergio Peçanha and Yan Wu for The Washington Post made a calculator that…\nTags: commute, scale, Sergio Peçanha, Washington Post",
+          "link": "https://flowingdata.com/2021/11/10/commuting-calculator/",
+          "publishedOn": "2021-11-10T08:39:24.000Z",
+          "wordCount": 382,
+          "title": "Commuting calculator"
+        },
         {
           "id": "https://flowingdata.com/?p=65988",
           "author": "Nathan Yau",
@@ -13882,6 +14356,15 @@
       "feedUrl": "https://web.dev/shows/gui-challenges/feed.xml",
       "siteUrl": "https://web.dev/shows/gui-challenges/feed.xml",
       "articles": [
+        {
+          "id": "https://web.dev/shows/gui-challenges/HCsV8u-KYUw/",
+          "author": null,
+          "description": "This video is private.",
+          "link": "https://web.dev/shows/gui-challenges/HCsV8u-KYUw/",
+          "publishedOn": "2021-11-10T01:56:26.000Z",
+          "wordCount": 100,
+          "title": "Private video"
+        },
         {
           "id": "https://web.dev/shows/gui-challenges/x0aCdLDZ8BM/",
           "author": null,
