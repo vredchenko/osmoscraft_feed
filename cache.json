@@ -40,6 +40,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=356652",
+          "author": "Chris Coyier",
+          "description": "Scott digs into the history of the <menu> element. He traced it as far back as HTML 2 (!) in a 1994 changelog. The vibe then, it seems, was to mark up a list. I would suspect the intention …\nThe post Semantic menu context appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/semantic-menu-context/",
+          "publishedOn": "2021-11-11T20:07:40.000Z",
+          "wordCount": 528,
+          "title": "Semantic menu context"
+        },
+        {
+          "id": "https://css-tricks.com/?p=355683",
+          "author": "Abram Thau",
+          "description": "I was working on a large React application for a startup, and aside from just wanting some good strategies to keep our styles organized, I wanted to give this whole “dark mode” thing a shot. With the huge ecosystem around …\nThe post Easy Dark Mode (and Multiple Color Themes!) in React appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/easy-dark-mode-and-multiple-color-themes-in-react/",
+          "publishedOn": "2021-11-11T15:28:04.000Z",
+          "wordCount": 2426,
+          "title": "Easy Dark Mode (and Multiple Color Themes!) in React"
+        },
+        {
+          "id": "https://css-tricks.com/?p=355516",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nMeasuring things is great. They say what you only fix what you measure. Raygun is great at measuring websites. Measuring performance, measuring errors and crashes, measuring code problems. \nYou know what’s even better than …\nThe post Quickly Get Alerted to Front-End Errors and Performance Issues appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/quickly-get-alerted-to-front-end-errors-and-performance-issues/",
+          "publishedOn": "2021-11-11T15:22:31.000Z",
+          "wordCount": 1141,
+          "title": "Quickly Get Alerted to Front-End Errors and Performance Issues"
+        },
+        {
           "id": "https://css-tricks.com/?p=356058",
           "author": "Chris Coyier",
           "description": "Whatever, I just needed a title. Everyone’s favorite web security feature has crossed my desk a bunch of times lately and I always feel like that is a sign I should write something because that’s what blogging is. \nThe main …\nThe post Don’t Snore on CORS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -919,6 +946,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "618b035411d3cb08287a3f7d",
+          "author": null,
+          "description": "Hey, how are you doing? In this article, I'm going to show you how you can install Laravel 8 on your phone.  To get the most out of this guide, you should have some knowledge of PHP and you should know what Laravel is. But if you don't, don't worry",
+          "link": "https://www.freecodecamp.org/news/how-to-setup-laravel-8-on-android-phone/",
+          "publishedOn": "2021-11-11T16:34:04.000Z",
+          "wordCount": 946,
+          "title": "How to Set Up Laravel 8 on Your Android Phone"
+        },
+        {
+          "id": "618ca60511d3cb08287a474b",
+          "author": null,
+          "description": "In JavaScript, hoisting allows you to use functions and variables before they're declared. In this post, we'll learn what hoisting is and how it works. What is hoisting?Take a look at the code below and guess what happens when it runs: console.log(foo); var foo = 'foo'; It might",
+          "link": "https://www.freecodecamp.org/news/what-is-hoisting-in-javascript/",
+          "publishedOn": "2021-11-11T16:12:59.000Z",
+          "wordCount": 1533,
+          "title": "What is Hoisting in JavaScript?"
+        },
+        {
+          "id": "618a1b968bcfae07ca4e3a16",
+          "author": null,
+          "description": "These days, developers need to develop, ship, and run applications quicker than ever. And fortunately, there's a tool that helps you do that – Docker. With Docker, you can now easily ship, test, and deploy your code quickly while maintaining full control over your infrastructure. It significantly reduces how long it",
+          "link": "https://www.freecodecamp.org/news/how-to-dockerize-a-flask-app/",
+          "publishedOn": "2021-11-11T16:04:40.000Z",
+          "wordCount": 1490,
+          "title": "How to Dockerize a Flask Application"
+        },
         {
           "id": "6189613e8bcfae07ca4e3967",
           "author": null,
@@ -2177,6 +2231,186 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/uiux-errors-dont-blame-the-user-re-evaluate-your-design-strategy-instead?source=rss",
+          "author": "Jordan Bowman",
+          "description": "The solution is to redesign the product in such a way that it prevents errors from occurring in the first place.",
+          "link": "https://hackernoon.com/uiux-errors-dont-blame-the-user-re-evaluate-your-design-strategy-instead?source=rss",
+          "publishedOn": "2021-11-11T10:39:19.000Z",
+          "wordCount": 965,
+          "title": "UI/UX Errors: Don’t Blame the User, Re-Evaluate Your Design Strategy Instead"
+        },
+        {
+          "id": "https://hackernoon.com/alibabas-metaverse-art-exhibition-is-a-great-snapshot-of-chinas-current-nft-landscape?source=rss",
+          "author": "Susie Liu",
+          "description": "This confusing exhibition provides a stellar and pretty comprehensive snapshot of China’s NFT landscape from a number of angles",
+          "link": "https://hackernoon.com/alibabas-metaverse-art-exhibition-is-a-great-snapshot-of-chinas-current-nft-landscape?source=rss",
+          "publishedOn": "2021-11-11T10:31:53.000Z",
+          "wordCount": 999,
+          "title": "Alibaba’s Metaverse Art Exhibition is a Great Snapshot of China’s Current NFT Landscape"
+        },
+        {
+          "id": "https://hackernoon.com/gaming-metaverse-writing-contest-2021-final-announcement?source=rss",
+          "author": "Hacker Noon Contests",
+          "description": "Hey, Gamers! Here we are again with the final announcement of #gaming-metaverse writing contest.",
+          "link": "https://hackernoon.com/gaming-metaverse-writing-contest-2021-final-announcement?source=rss",
+          "publishedOn": "2021-11-11T08:46:28.000Z",
+          "wordCount": 950,
+          "title": "#Gaming-Metaverse Writing Contest 2021: Final Announcement"
+        },
+        {
+          "id": "https://hackernoon.com/becoming-a-cybersecurity-journalist-and-working-in-the-it-security-industry-with-casey-crane?source=rss",
+          "author": "Casey Crane",
+          "description": "My name is Casey Crane and I’m a cybersecurity journalist and Content Manager at The SSL Store.",
+          "link": "https://hackernoon.com/becoming-a-cybersecurity-journalist-and-working-in-the-it-security-industry-with-casey-crane?source=rss",
+          "publishedOn": "2021-11-11T08:27:46.000Z",
+          "wordCount": 982,
+          "title": "Becoming a Cybersecurity Journalist and Working in the IT Security Industry with Casey Crane"
+        },
+        {
+          "id": "https://hackernoon.com/super-sizing-technology-to-improve-the-food-industry?source=rss",
+          "author": "Zak Oganian",
+          "description": "How technology is transforming the way food and beverages are produced, delivered, and consumed globally.",
+          "link": "https://hackernoon.com/super-sizing-technology-to-improve-the-food-industry?source=rss",
+          "publishedOn": "2021-11-11T08:15:50.000Z",
+          "wordCount": 975,
+          "title": "Super Sizing Technology to Improve the Food Industry"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-an-mvp-for-software-development?source=rss",
+          "author": "Softvoya",
+          "description": "Why is a Minimum Viable Product Important for Software Development Projects? Discover in this article!",
+          "link": "https://hackernoon.com/what-is-an-mvp-for-software-development?source=rss",
+          "publishedOn": "2021-11-11T07:56:24.000Z",
+          "wordCount": 941,
+          "title": "What is an MVP for Software Development?"
+        },
+        {
+          "id": "https://hackernoon.com/5-most-important-tips-every-data-analyst-should-know?source=rss",
+          "author": "Castor",
+          "description": "The 5 things every data analyst should know and why it is not Python, nor SQL",
+          "link": "https://hackernoon.com/5-most-important-tips-every-data-analyst-should-know?source=rss",
+          "publishedOn": "2021-11-11T07:51:04.000Z",
+          "wordCount": 1629,
+          "title": "5 Most Important Tips Every Data Analyst Should Know"
+        },
+        {
+          "id": "https://hackernoon.com/5-best-screen-recorder-software-and-how-to-choose-between-them?source=rss",
+          "author": "Julia Voloshchenko",
+          "description": "These are the 5 best screen recorder software available today.",
+          "link": "https://hackernoon.com/5-best-screen-recorder-software-and-how-to-choose-between-them?source=rss",
+          "publishedOn": "2021-11-11T07:44:17.000Z",
+          "wordCount": 983,
+          "title": "5 Best Screen Recorder Software and How to Choose Between Them"
+        },
+        {
+          "id": "https://hackernoon.com/termux-commands-list-cheat-sheet?source=rss",
+          "author": "Hackming",
+          "description": "In this Ultimate Guide, we’ve made a list of the best Termux commands list for beginners. You cannot run Termux without these Termux commands.",
+          "link": "https://hackernoon.com/termux-commands-list-cheat-sheet?source=rss",
+          "publishedOn": "2021-11-11T07:27:47.000Z",
+          "wordCount": 927,
+          "title": "Termux Commands List Cheat Sheet"
+        },
+        {
+          "id": "https://hackernoon.com/19-basic-java-interview-questions-and-short-sample-answers-2021?source=rss",
+          "author": "Lohith",
+          "description": "Here are some basic Java interview questions and answers.",
+          "link": "https://hackernoon.com/19-basic-java-interview-questions-and-short-sample-answers-2021?source=rss",
+          "publishedOn": "2021-11-11T07:17:41.000Z",
+          "wordCount": 2155,
+          "title": "19 Basic Java Interview Questions and Short Sample Answers — 2021"
+        },
+        {
+          "id": "https://hackernoon.com/4-new-nft-projects-with-utility?source=rss",
+          "author": "Ellen Yari",
+          "description": "Let's look at what an NFT Project with Utility is and why it's different from any other NFT.",
+          "link": "https://hackernoon.com/4-new-nft-projects-with-utility?source=rss",
+          "publishedOn": "2021-11-11T07:06:39.000Z",
+          "wordCount": 2178,
+          "title": "4 New NFT Projects With Utility"
+        },
+        {
+          "id": "https://hackernoon.com/how-hr-managers-can-engage-a-multi-generational-workforce?source=rss",
+          "author": "Amit Kumar",
+          "description": "One characteristic that truly distinguishes today’s employees from old generations is the understanding of and alignment with modern technologies",
+          "link": "https://hackernoon.com/how-hr-managers-can-engage-a-multi-generational-workforce?source=rss",
+          "publishedOn": "2021-11-11T06:49:33.000Z",
+          "wordCount": 1973,
+          "title": "How HR Managers Can Engage a Multi-Generational Workforce?"
+        },
+        {
+          "id": "https://hackernoon.com/starting-my-dream-project-building-the-chat-gui-for-a-conversational-ai?source=rss",
+          "author": "Tumin Sharma",
+          "description": "This is the first entry to a long series of entries of how I will create a new and unique Artificial Intelligence accommodated assistant.",
+          "link": "https://hackernoon.com/starting-my-dream-project-building-the-chat-gui-for-a-conversational-ai?source=rss",
+          "publishedOn": "2021-11-11T06:34:59.000Z",
+          "wordCount": 965,
+          "title": "Starting My Dream Project: Building the Chat GUI for a Conversational AI"
+        },
+        {
+          "id": "https://hackernoon.com/marvels-guardians-of-the-galaxy-review?source=rss",
+          "author": "Joe Ocasio",
+          "description": "The Guardians of the Galaxy are back for their best adventure since the 2014 flick.",
+          "link": "https://hackernoon.com/marvels-guardians-of-the-galaxy-review?source=rss",
+          "publishedOn": "2021-11-11T06:04:38.000Z",
+          "wordCount": 2167,
+          "title": "Marvel’s Guardians of The Galaxy Review"
+        },
+        {
+          "id": "https://hackernoon.com/build-an-online-grocery-marketplace-cedcommerce-alternatives-yummy?source=rss",
+          "author": "Purnima",
+          "description": "Investing in a grocery delivery solution to build your online marketplace is a wise choice since the demand for online grocery delivery services has increased.",
+          "link": "https://hackernoon.com/build-an-online-grocery-marketplace-cedcommerce-alternatives-yummy?source=rss",
+          "publishedOn": "2021-11-11T01:09:30.000Z",
+          "wordCount": 950,
+          "title": "Build an Online Grocery Marketplace: CedCommerce Alternatives"
+        },
+        {
+          "id": "https://hackernoon.com/bitcoin-and-altcoins-truth-2-never-take-profits-unless?source=rss",
+          "author": "Mark",
+          "description": "At the end of the day, you’re trading an asset that goes up in value forever in exchange for more of your government’s money.",
+          "link": "https://hackernoon.com/bitcoin-and-altcoins-truth-2-never-take-profits-unless?source=rss",
+          "publishedOn": "2021-11-11T00:40:41.000Z",
+          "wordCount": 1671,
+          "title": "Bitcoin and Altcoins: Truth #2 \"Never take profits unless...\""
+        },
+        {
+          "id": "https://hackernoon.com/how-to-spy-on-a-cell-phone-privately?source=rss",
+          "author": "uMobix",
+          "description": "If you want to spy on someone's cell phone without them knowing, look out for in-demand programs offering a free trial period. Learn more about spying apps.",
+          "link": "https://hackernoon.com/how-to-spy-on-a-cell-phone-privately?source=rss",
+          "publishedOn": "2021-11-11T00:00:27.000Z",
+          "wordCount": 2833,
+          "title": "How to Spy on a Cell Phone Privately"
+        },
+        {
+          "id": "https://hackernoon.com/learn-to-push-an-empty-commit?source=rss",
+          "author": "Kode with Chirag",
+          "description": "Have you ever faced the need to push a commit to a Git branch without changing any files in order to re-run your integration process?",
+          "link": "https://hackernoon.com/learn-to-push-an-empty-commit?source=rss",
+          "publishedOn": "2021-11-10T23:29:28.000Z",
+          "wordCount": 845,
+          "title": "How to Push an Empty Commit with Git"
+        },
+        {
+          "id": "https://hackernoon.com/quick-guide-to-the-python-ord-function?source=rss",
+          "author": "Srinivas Ramakrishna",
+          "description": "In Python, the ord() function accepts a single unit of character and returns the equivalent Unicode of the passed argument",
+          "link": "https://hackernoon.com/quick-guide-to-the-python-ord-function?source=rss",
+          "publishedOn": "2021-11-10T23:21:25.000Z",
+          "wordCount": 963,
+          "title": "Quick Guide to the Python Ord Function"
+        },
+        {
+          "id": "https://hackernoon.com/how-active-investment-strategies-keep-scaling-businesses-from-stalling?source=rss",
+          "author": "Brian Wallace",
+          "description": "How Active Investment Strategies Keep Scaling Businesses from Stalling",
+          "link": "https://hackernoon.com/how-active-investment-strategies-keep-scaling-businesses-from-stalling?source=rss",
+          "publishedOn": "2021-11-10T23:12:13.000Z",
+          "wordCount": 1924,
+          "title": "How Active Investment Strategies Keep Scaling Businesses from Stalling"
+        },
         {
           "id": "https://hackernoon.com/a-linux-command-line-cheat-sheet?source=rss",
           "author": "Dolamu Asipa",
@@ -6321,6 +6555,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=147542",
+          "author": "ACMer",
+          "description": "Define Binary Trees in Python Trees can be considered as DAG (Directed Acyclic Graph) – the Directed means that we usually can only visit child nodes from parent nodes and not vice versa. The...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-converting-binary-trees-to-undirectional-graphs-via-dfs-and-bfs-algorithms/",
+          "publishedOn": "2021-11-11T21:03:33.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Converting (Binary) Trees to Undirectional Graphs via DFS and BFS Algorithms",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=147524",
           "author": "ACMer",
           "description": "Given an integer array nums, handle multiple queries of the following types: Update the value of an element in nums. Calculate the sum of the elements of nums between indices left and right inclusive...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -7079,16 +7323,6 @@
           "wordCount": null,
           "title": "Teaching Kids Programming – Island Shape Perimeter Algorithm",
           "itunes": {}
-        },
-        {
-          "id": "https://helloacm.com/?p=146299",
-          "author": "ACMer",
-          "description": "Given a list of integers nums, return whether it represents a max heap. That is, for every i we have that: nums ≥ nums if 2*i + 1 is within bounds nums ≥ nums if 2*i + 2 is within bounds Constraints...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
-          "link": "https://helloacm.com/teaching-kids-programming-how-to-verify-a-max-heap/",
-          "publishedOn": "2021-08-13T20:20:55.000Z",
-          "wordCount": null,
-          "title": "Teaching Kids Programming – How to Verify a Max Heap?",
-          "itunes": {}
         }
       ]
     },
@@ -7097,6 +7331,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=505314",
+          "author": "Lewin Day",
+          "description": "Back in the 1970s, there were a few LED-based games on the market that were quickly superseded by the rise of LCDs and other fancier technologies. However, [grossofabian] wanted to …read more",
+          "link": "https://hackaday.com/2021/11/11/ledboy-is-a-retro-modern-handheld-game/",
+          "publishedOn": "2021-11-12T00:00:34.000Z",
+          "wordCount": 1030,
+          "title": "LEDBOY Is a Retro-Modern Handheld Game"
+        },
+        {
+          "id": "https://hackaday.com/?p=505265",
+          "author": "Al Williams",
+          "description": "Finding high voltage capacitors can be tricky. Sure, you can buy these capacitors, but they are often expensive and hard to find exactly what you want. [RachelAnne] needed some low-value …read more",
+          "link": "https://hackaday.com/2021/11/11/build-your-own-hv-capacitors/",
+          "publishedOn": "2021-11-11T21:00:53.000Z",
+          "wordCount": 1632,
+          "title": "Build Your Own HV Capacitors"
+        },
+        {
+          "id": "https://hackaday.com/?p=505391",
+          "author": "Adam Zeloof",
+          "description": "Motorcycle rally racing is a high-speed, exciting, off-road motorsport that involves zipping across all types of terrain on two wheels. While riding, it’s extremely important for riders to know what’s …read more",
+          "link": "https://hackaday.com/2021/11/11/motorcycle-rally-computer-goes-open-source/",
+          "publishedOn": "2021-11-11T19:30:00.000Z",
+          "wordCount": 1278,
+          "title": "Motorcycle Rally Computer Goes Open Source"
+        },
+        {
+          "id": "https://hackaday.com/?p=504161",
+          "author": "Jenny List",
+          "description": "As an itinerant Hackaday writer I am privileged to meet the people who make up our community as I travel the continent in search of the coolest gatherings. This weekend …read more",
+          "link": "https://hackaday.com/2021/11/11/so-whats-up-with-all-these-crazy-event-networks-then/",
+          "publishedOn": "2021-11-11T18:00:35.000Z",
+          "wordCount": 2273,
+          "title": "So. What’s Up With All These Crazy Event Networks Then?"
+        },
+        {
+          "id": "https://hackaday.com/?p=505140",
+          "author": "Tom Nardi",
+          "description": "Homebrew wireless sensors are nothing new around these parts: grab an ESP8266, hang a BME280 from the I2C pins, and you’re just a few lines of code away from joining …read more",
+          "link": "https://hackaday.com/2021/11/11/rolling-your-own-long-range-iot-sensor-network/",
+          "publishedOn": "2021-11-11T16:30:00.000Z",
+          "wordCount": 1320,
+          "title": "Rolling Your Own Long-Range IoT Sensor Network"
+        },
+        {
+          "id": "https://hackaday.com/?p=503048",
+          "author": "Al Williams",
+          "description": "Quantum computers are really in their infancy. If you created a few logic gates with tubes back in the 1930s, it would be difficult to predict all the ways we …read more",
+          "link": "https://hackaday.com/2021/11/11/scientific-honesty-and-quantum-computings-latest-theoretical-hurdle/",
+          "publishedOn": "2021-11-11T15:31:18.000Z",
+          "wordCount": 2182,
+          "title": "Scientific Honesty and Quantum Computing’s Latest Theoretical Hurdle"
+        },
+        {
+          "id": "https://hackaday.com/?p=505370",
+          "author": "Matthew Carlson",
+          "description": "[Sam Barker] had a boring dingy that he wanted to spice up a bit, so he resolved to 3D print a hydrofoil wing for it so that it could fly …read more",
+          "link": "https://hackaday.com/2021/11/11/trying-and-mostly-failing-to-3d-print-a-hydrofoil/",
+          "publishedOn": "2021-11-11T12:00:00.000Z",
+          "wordCount": 1254,
+          "title": "Trying and (Mostly) Failing to 3D Print a Hydrofoil"
+        },
         {
           "id": "https://hackaday.com/?p=504836",
           "author": "Al Williams",
@@ -9733,6 +10030,106 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "01775699-B684-4294-85D84E24F32CBF72",
+          "author": "Stephanie Pappas",
+          "description": "The surprising find has never shown up in nature before, and reveals secrets about Earth’s mantle\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/new-mineral-discovered-in-deep-earth-diamond/",
+          "publishedOn": "2021-11-11T19:30:00.000Z",
+          "wordCount": null,
+          "title": "New Mineral Discovered in Deep-Earth Diamond",
+          "itunes": {}
+        },
+        {
+          "id": "6FBC6B82-9C98-4E7F-991018C043CC9835",
+          "author": "Jack Tamisiea",
+          "description": "Scientists surveyed dozens of species’ genomes to uncover keys to longevity\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/genes-reveal-how-some-rockfish-live-up-to-200-years/",
+          "publishedOn": "2021-11-11T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Genes Reveal How Some Rockfish Live Up to 200 Years",
+          "itunes": {}
+        },
+        {
+          "id": "A04F553A-7D3A-49EF-B7AB4DFB51385966",
+          "author": "Jean Chemnick, Sara Schonhardt, E&E News",
+          "description": "The agreement calls for sharing carbon capture technology and developing new methane policies\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/u-s-china-deal-boosts-climate-talks-in-final-stretch/",
+          "publishedOn": "2021-11-11T18:00:00.000Z",
+          "wordCount": null,
+          "title": "U.S.-China Deal Boosts Climate Talks in Final Stretch",
+          "itunes": {}
+        },
+        {
+          "id": "4AD33D05-4C59-4A00-8B51C4699D524CBE",
+          "author": "Rob Jackson, Pierre Friedlingstein, Corinne Le Quéré, Robbie Andrewis, Pep Canadell, Glen Petersis, Sam Abernethy",
+          "description": "After months of social distancing and stay-at-home orders, economies are reopening, and carbon dioxide levels are rising\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/global-emissions-rebound-to-pre-covid-levels/",
+          "publishedOn": "2021-11-11T17:00:00.000Z",
+          "wordCount": null,
+          "title": "Global Emissions Rebound to Pre-COVID Levels",
+          "itunes": {}
+        },
+        {
+          "id": "C8C92132-E5D8-4F3E-89D64C614AA6FE54",
+          "author": "Ehsan Masood, Nature magazine",
+          "description": "Scientists who worked on the original UN climate convention doubt that COP26 will deliver for low income countries\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/cop-architects-furious-at-lack-of-climate-justice-at-pivotal-summit/",
+          "publishedOn": "2021-11-11T16:00:00.000Z",
+          "wordCount": null,
+          "title": "COP Architects Furious at Lack of Climate Justice at Pivotal Summit",
+          "itunes": {}
+        },
+        {
+          "id": "D1EFA769-4F61-41F9-B11D7974C88869DC",
+          "author": "Katie Hafner, The Lost Women of Science Initiative",
+          "description": "A passionate outdoorswoman, a “rugged individualist” and a bit of an enigma—the few traces Dorothy Andersen left behind give us glimpses into who she was. In this episode, we track...\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/lost-women-of-science-episode-2-the-matilda-effect/",
+          "publishedOn": "2021-11-11T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Lost Women of Science, Episode 2: The Matilda Effect",
+          "itunes": {}
+        },
+        {
+          "id": "F3388226-BCCE-476A-97B3D7201744C1EB",
+          "author": "Andrea Gawrylewski",
+          "description": "Children have fared better with the virus than adults. Immunologists are still trying to figure out why\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/essential-links-in-the-immunity-web/",
+          "publishedOn": "2021-11-11T14:30:00.000Z",
+          "wordCount": null,
+          "title": "Essential Links in the Immunity Web",
+          "itunes": {}
+        },
+        {
+          "id": "E9110602-0BAD-4BC2-BEDA77EC9E088F93",
+          "author": "The Guardian",
+          "description": "In the six years since the Paris Agreement, the climate crisis has caused catastrophes and slow transformations of familiar landscapes, upending lives everywhere\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-whole-place-feels-wrong-voices-across-america-on-what-the-climate-crisis-stole/",
+          "publishedOn": "2021-11-11T14:00:00.000Z",
+          "wordCount": null,
+          "title": "'The Whole Place Feels Wrong': Voices across America on What the Climate Crisis Stole",
+          "itunes": {}
+        },
+        {
+          "id": "527A4D02-112F-4A5F-A6657416512B321C",
+          "author": "Marla Broadfoot",
+          "description": "This year is unlikely to see as many severe cases as last year, but relaxed restrictions and a patchwork of vaccination could still mean trouble, experts warn\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/this-covid-winter-may-cause-fewer-deaths-yet-still-bring-a-surge/",
+          "publishedOn": "2021-11-11T13:00:00.000Z",
+          "wordCount": null,
+          "title": "This COVID Winter May Cause Fewer Deaths yet Still Bring a Surge",
+          "itunes": {}
+        },
+        {
+          "id": "936B4327-A9CF-42C5-A6F0E59D3085709B",
+          "author": "Jennifer Nalewicki",
+          "description": "A federal designation could help yield 3-D models that are useful for finding, studying and conserving vessels on the bed of Lake Michigan\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/dozens-of-shipwreck-discoveries-anticipated-in-lake-michigans-new-marine-sanctuary/",
+          "publishedOn": "2021-11-11T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Dozens of Shipwreck Discoveries Anticipated in New Marine Sanctuary",
+          "itunes": {}
+        },
+        {
           "id": "499B94D9-EFBD-4D3C-ABEE453C3B02D6F8",
           "author": "Lewis A. Wheaton, Nature Neuroscience",
           "description": "The 2020 protests made only small differences in the number of presenters\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -12332,6 +12729,78 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=147321",
+          "author": "Mike Vizard",
+          "description": "Google today made available a ClusterFuzzLite tool that makes it simpler to incorporate fuzz testing into a DevOps workflow. Fuzz testing refers to an automated software testing technique that involves providing invalid, unexpected or random data as inputs to an application to discover issues such as potential memory leaks. Jonathan Metzman, a senior software engineer […]\nThe post Google Makes Fuzz Testing Integration Tool Available appeared first on DevOps.com.",
+          "link": "https://devops.com/google-makes-fuzz-testing-integration-tool-available/",
+          "publishedOn": "2021-11-11T23:50:18.000Z",
+          "wordCount": 1000,
+          "title": "Google Makes Fuzz Testing Integration Tool Available"
+        },
+        {
+          "id": "https://devops.com/?p=147305",
+          "author": "Mike Vizard",
+          "description": "Akamai Technologies, Inc. this week launched a service that consolidates the process of securing both web applications and application programming interfaces (APIs). Amol Mathur, vice president of product management and strategy for Akamai, said with the launch of App & API Protector the managed security services provider is making it easier for IT teams to […]\nThe post Akamai Brings Web Application and API Security Together appeared first on DevOps.com.",
+          "link": "https://devops.com/akamai-brings-web-application-and-api-security-together/",
+          "publishedOn": "2021-11-11T17:42:04.000Z",
+          "wordCount": 1051,
+          "title": "Akamai Brings Web Application and API Security Together"
+        },
+        {
+          "id": "https://devops.com/?p=147318",
+          "author": "Veronica Haggar",
+          "description": "Low-code technologies have become increasingly popular for helping businesses adapt to ever-changing environments quickly by allowing them to build, customize and deploy apps with little to no coding. At Low-Code/No-Code Virtual Summit, taking place on Nov. 18 at 9 a.m. ET, luminaries of leading organizations in the low-code community will share valuable insights on their […]\nThe post Low-Code and the Rise of the Citizen Developer appeared first on DevOps.com.",
+          "link": "https://devops.com/low-code-and-the-rise-of-the-citizen-developer/",
+          "publishedOn": "2021-11-11T17:00:44.000Z",
+          "wordCount": 851,
+          "title": "Low-Code and the Rise of the Citizen Developer"
+        },
+        {
+          "id": "https://devops.com/?p=147301",
+          "author": "Louis Vistola",
+          "description": "The widescale migration to cloud and the embracement of cloud-native application architectures has been a blessing to developers and those responsible for deploying and maintaining modern applications. Container-based apps allow fast changes compared to monolithic apps. And cloud services let DevOps teams quickly launch instances and acquire resources for all stages of their work. The […]\nThe post Understanding and Controlling Cloud Costs appeared first on DevOps.com.",
+          "link": "https://devops.com/understanding-and-controlling-cloud-costs/",
+          "publishedOn": "2021-11-11T16:33:27.000Z",
+          "wordCount": 913,
+          "title": "Understanding and Controlling Cloud Costs"
+        },
+        {
+          "id": "https://devops.com/?p=147292",
+          "author": "Mike Vizard",
+          "description": "Data Theorem, Inc. this week added an Active Protection offering to its portfolio of application security services that makes it possible for DevOps teams to embed observability and runtime defenses in their applications via a software development kit (SDK). The Data Theorem cloud services are based on Trustkit, an open source framework the company created […]\nThe post Data Theorem Adds Runtime Protection Enabled by Observability appeared first on DevOps.com.",
+          "link": "https://devops.com/data-theorem-adds-runtime-protection-enabled-by-observability/",
+          "publishedOn": "2021-11-11T14:06:33.000Z",
+          "wordCount": 1015,
+          "title": "Data Theorem Adds Runtime Protection Enabled by Observability"
+        },
+        {
+          "id": "https://devops.com/?p=147270",
+          "author": "Alexa Lemzy",
+          "description": "Remote workers are a growing segment of the global workforce. Freelancers account for a big part of that segment, especially when development teams need to bring in specialized skillsets for upcoming projects. Working with freelancers offers many benefits, but there can also be challenges when integrating freelancers with in-house teams. Here are four strategies to […]\nThe post 4 Strategies to Manage Freelancers with In-House Dev Teams appeared first on DevOps.com.",
+          "link": "https://devops.com/4-strategies-to-manage-freelancers-with-in-house-dev-teams/",
+          "publishedOn": "2021-11-11T08:00:34.000Z",
+          "wordCount": 1542,
+          "title": "4 Strategies to Manage Freelancers with In-House Dev Teams"
+        },
+        {
+          "id": "https://devops.com/?p=147264",
+          "author": "Nik Koutsoukos",
+          "description": "It’s like clockwork. Every few months, a new buzzword descends on the tech industry, and soon it’s on everyone’s lips. Take your pick from the graveyard of buzzwords past: “Big data,” “internet of everything,” “hacktivism,” “gamification.” It’s not that these terms are meaningless—just that they go from relatively obscure to ubiquitous seemingly overnight. We can […]\nThe post Observability Matters. But Are You Observing the Right Things?  appeared first on DevOps.com.",
+          "link": "https://devops.com/observability-matters-but-are-you-observing-the-right-things/",
+          "publishedOn": "2021-11-11T07:30:01.000Z",
+          "wordCount": 1544,
+          "title": "Observability Matters. But Are You Observing the Right Things?"
+        },
+        {
+          "id": "https://devops.com/?p=147281",
+          "author": "ROELBOB",
+          "description": "The post Policies and Procedures appeared first on DevOps.com.",
+          "link": "https://devops.com/policies-and-procedures-2/",
+          "publishedOn": "2021-11-11T07:00:09.000Z",
+          "wordCount": 437,
+          "title": "Policies and Procedures"
+        },
+        {
           "id": "https://devops.com/?p=147273",
           "author": "Mike Vizard",
           "description": "Dynatrace today added a security gates capability to its observability platform to make it easier to automatically embrace DevSecOps best practices within an application delivery pipeline. Steve Tack, senior vice president for product management at Dynatrace, said the security gates function much the same as the quality gates that Dynatrace previously added to that platform […]\nThe post Dynatrace Adds Security Gates to Advance DevSecOps Adoption appeared first on DevOps.com.",
@@ -13473,6 +13942,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=110167",
+          "author": "Stephen Ornes",
+          "description": "In nonreciprocal systems, where Newton’s third law falls apart, “exceptional points” are helping researchers understand phase transitions and possibly other phenomena.             \nThe post A New Theory for Systems That Defy Newton’s Third Law first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/a-new-theory-for-systems-that-defy-newtons-third-law-20211111/",
+          "publishedOn": "2021-11-11T16:09:59.000Z",
+          "wordCount": null,
+          "title": "A New Theory for Systems That Defy Newton’s Third Law",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=110164",
           "author": "Charlie Wood",
           "description": "Physicists are translating commonsense principles into strict mathematical constraints on how our universe must have behaved at the beginning of time.             \nThe post Laws of Logic Lead to New Restrictions on the Big Bang first appeared on Quanta Magazine",
@@ -13759,6 +14238,24 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66005",
+          "author": "Nathan Yau",
+          "description": "A term to indicate that visual elements add nothing meaningful has itself become nonessential to making and discussing charts.\nTags: chartjunk",
+          "link": "https://flowingdata.com/2021/11/11/process-164-chartjunk/",
+          "publishedOn": "2021-11-11T19:45:38.000Z",
+          "wordCount": 294,
+          "title": "✚ Goodbye, Chartjunk – The Process 164"
+        },
+        {
+          "id": "https://flowingdata.com/?p=65997",
+          "author": "Nathan Yau",
+          "description": "Palm oil is in our food, cosmetics, cleaning supplies, and biofuels, but it…\nTags: Bloomberg, palm oil, rainforest",
+          "link": "https://flowingdata.com/2021/11/11/palm-oils-and-rainforest-destruction/",
+          "publishedOn": "2021-11-11T08:36:18.000Z",
+          "wordCount": 282,
+          "title": "Palm oils and rainforest destruction"
+        },
         {
           "id": "https://flowingdata.com/?p=66001",
           "author": "Nathan Yau",
