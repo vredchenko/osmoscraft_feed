@@ -40,6 +40,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=355658",
+          "author": "Tobias Günther",
+          "description": "Interactive Rebase is the Swiss Army knife of Git commands: lots of use cases and lots of possibilities! It's really a great addition to any developer's tool chain, because it lets you revise your local commit history—before you share your work with the rest of the team. Let's see what you can do with an interactive rebase and then look at some practical examples.\nThe post Interactive Rebase: Clean up your Commit History appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/interactive-rebase-clean-up-your-commit-history/",
+          "publishedOn": "2021-11-12T15:16:24.000Z",
+          "wordCount": 1838,
+          "title": "Interactive Rebase: Clean up your Commit History"
+        },
+        {
           "id": "https://css-tricks.com/?p=356652",
           "author": "Chris Coyier",
           "description": "Scott digs into the history of the <menu> element. He traced it as far back as HTML 2 (!) in a 1994 changelog. The vibe then, it seems, was to mark up a list. I would suspect the intention …\nThe post Semantic menu context appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -946,6 +955,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "618deac811d3cb08287a4ba3",
+          "author": null,
+          "description": "We are often in a hurry to commit our changes in Git and so we write something random in our commit messages. In fact, I have seen people putting the date and time or even something like commit 1, commit 2 in their messages.  This is not a good practice,",
+          "link": "https://www.freecodecamp.org/news/how-to-use-commitlint-to-write-good-commit-messages/",
+          "publishedOn": "2021-11-12T20:11:06.000Z",
+          "wordCount": 1917,
+          "title": "How to Write Good Commit Messages with Commitlint"
+        },
+        {
+          "id": "618e136011d3cb08287a4c71",
+          "author": null,
+          "description": "When you're using your Windows machine, your WiFi might unexpectedly disconnect.  This might be caused by various problems such as an outdated network adapter driver, outdated router software, and optimized power management in Windows 10.  If your WiFi keeps disconnecting and you're looking for a solution, you've come to the",
+          "link": "https://www.freecodecamp.org/news/why-does-my-wifi-keep-disconnecting-solved-on-windows-10-pc/",
+          "publishedOn": "2021-11-12T17:47:24.000Z",
+          "wordCount": 635,
+          "title": "Why Does my WiFi Keep Disconnecting? [Solved on Windows 10 PC]"
+        },
         {
           "id": "618b035411d3cb08287a3f7d",
           "author": null,
@@ -2232,6 +2259,177 @@
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
         {
+          "id": "https://hackernoon.com/5-ways-to-make-cybersecurity-training-stick-by-reducing-human-error?source=rss",
+          "author": "NordLayer",
+          "description": "Organizations have to make cybersecurity training a top priority. Reducing human error is just as important as setting up cybersecurity protocols & systems.",
+          "link": "https://hackernoon.com/5-ways-to-make-cybersecurity-training-stick-by-reducing-human-error?source=rss",
+          "publishedOn": "2021-11-12T09:17:40.000Z",
+          "wordCount": 1703,
+          "title": "5 Ways to Make Cybersecurity Training Stick by Reducing Human Error"
+        },
+        {
+          "id": "https://hackernoon.com/build-a-cli-app-with-oclif-and-nodejs-using-test-driven-development-part-2?source=rss",
+          "author": "Brennon Loveless",
+          "description": "TDD for building a CLI application using the oclif framework.",
+          "link": "https://hackernoon.com/build-a-cli-app-with-oclif-and-nodejs-using-test-driven-development-part-2?source=rss",
+          "publishedOn": "2021-11-12T09:00:37.000Z",
+          "wordCount": 999,
+          "title": "Build a CLI App with Oclif and Node.js Using Test-Driven Development: Part 2"
+        },
+        {
+          "id": "https://hackernoon.com/cybersecurity-and-pysical-security-are-not-separate-matters?source=rss",
+          "author": "Howie Robleza",
+          "description": "During the pandemic, the incidence of cybercrime attacks increased dramatically. According to the FBI, cybercrimes such as spear-phishing rose by a staggering 300 percent.",
+          "link": "https://hackernoon.com/cybersecurity-and-pysical-security-are-not-separate-matters?source=rss",
+          "publishedOn": "2021-11-12T08:45:58.000Z",
+          "wordCount": 1765,
+          "title": "Cybersecurity and Pysical Security Are Not Separate Matters"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-exploit-a-solidity-constructor?source=rss",
+          "author": "inaeem",
+          "description": "In this guide, we'll be diving into solidity vulnerabilities and exploiting a solidity constructor.",
+          "link": "https://hackernoon.com/how-to-exploit-a-solidity-constructor?source=rss",
+          "publishedOn": "2021-11-12T08:16:53.000Z",
+          "wordCount": 925,
+          "title": "How to Exploit a Solidity Constructor"
+        },
+        {
+          "id": "https://hackernoon.com/top-5-gaming-tokens-by-market-capitalization?source=rss",
+          "author": null,
+          "description": "To help you get started with investing into NFT projects, we have covered the top 5 gaming tokens based on their market capitalization for you to consider.",
+          "link": "https://hackernoon.com/top-5-gaming-tokens-by-market-capitalization?source=rss",
+          "publishedOn": "2021-11-12T08:03:41.000Z",
+          "wordCount": 914,
+          "title": "Top 5 Gaming Tokens by Market Capitalization"
+        },
+        {
+          "id": "https://hackernoon.com/how-secure-is-your-password-5-password-security-risks-to-avoid?source=rss",
+          "author": "Carla Woodworth",
+          "description": "Cybercrimes are becoming more prevalent, so it's a must to keep your passwords strong and secure to protect your accounts and personal information from hackers.",
+          "link": "https://hackernoon.com/how-secure-is-your-password-5-password-security-risks-to-avoid?source=rss",
+          "publishedOn": "2021-11-12T08:02:37.000Z",
+          "wordCount": 2046,
+          "title": "How Secure is Your Password? - 5 Password Security Risks to Avoid"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-a-citizen-data-scientist-and-how-do-you-become-one?source=rss",
+          "author": "Thuwarakesh Murallie",
+          "description": "Data science has been democratized for the most part. AI is now mainstream! It's no longer the exclusive province of large companies with deep pockets.",
+          "link": "https://hackernoon.com/what-is-a-citizen-data-scientist-and-how-do-you-become-one?source=rss",
+          "publishedOn": "2021-11-12T08:00:36.000Z",
+          "wordCount": 973,
+          "title": "What is a Citizen Data Scientist and How Do You Become One?"
+        },
+        {
+          "id": "https://hackernoon.com/why-tech-startup-leaders-should-still-spend-some-of-their-time-coding?source=rss",
+          "author": "Michael Levan",
+          "description": "In this blog post, you'll learn why it's important for a manager to stay technical and how it can help grow your business.",
+          "link": "https://hackernoon.com/why-tech-startup-leaders-should-still-spend-some-of-their-time-coding?source=rss",
+          "publishedOn": "2021-11-12T07:53:26.000Z",
+          "wordCount": 984,
+          "title": "Why Tech Startup Leaders Should Still Spend Some of their Time Coding"
+        },
+        {
+          "id": "https://hackernoon.com/why-im-bullish-on-cardano-despite-it-seemingly-losing-momentum?source=rss",
+          "author": "Crypto Badger",
+          "description": "Cardano ecosystem can make future millionaires. As ADA has been going sideways for a while, now may be the best time to invest.",
+          "link": "https://hackernoon.com/why-im-bullish-on-cardano-despite-it-seemingly-losing-momentum?source=rss",
+          "publishedOn": "2021-11-12T07:07:10.000Z",
+          "wordCount": 1960,
+          "title": "Why I'm Bullish on Cardano Despite it Seemingly Losing Momentum"
+        },
+        {
+          "id": "https://hackernoon.com/the-10-best-react-development-tools?source=rss",
+          "author": "BootesNull",
+          "description": "In this article, we will talk about the top 10 React development tools in depth.",
+          "link": "https://hackernoon.com/the-10-best-react-development-tools?source=rss",
+          "publishedOn": "2021-11-12T07:05:38.000Z",
+          "wordCount": 2197,
+          "title": "The Best 10 React Development Tools"
+        },
+        {
+          "id": "https://hackernoon.com/the-value-of-parachains-to-drive-blockchain-adoption?source=rss",
+          "author": "Anndy Lian",
+          "description": "I wish to discuss Polkadot's distinct key feature with our users in this article. We'll go over the benefits of this feature and why it's so valuable.",
+          "link": "https://hackernoon.com/the-value-of-parachains-to-drive-blockchain-adoption?source=rss",
+          "publishedOn": "2021-11-12T06:58:27.000Z",
+          "wordCount": 942,
+          "title": "The Value of Parachains to Drive Blockchain Adoption"
+        },
+        {
+          "id": "https://hackernoon.com/from-idea-to-app-store-how-i-built-an-app-using-100percent-no-code-tools?source=rss",
+          "author": "JT",
+          "description": "How I built an iOS app using the no code tools Draftbit and Xano and then launched it to the App Store.",
+          "link": "https://hackernoon.com/from-idea-to-app-store-how-i-built-an-app-using-100percent-no-code-tools?source=rss",
+          "publishedOn": "2021-11-12T06:54:06.000Z",
+          "wordCount": 6323,
+          "title": "From Idea to App Store: How I Built an App Using 100% No-Code Tools"
+        },
+        {
+          "id": "https://hackernoon.com/8-basic-blockchain-terms-every-beginner-needs-to-know?source=rss",
+          "author": "Johannes Müller",
+          "description": "A list of basic blockchain terms every beginner should know.",
+          "link": "https://hackernoon.com/8-basic-blockchain-terms-every-beginner-needs-to-know?source=rss",
+          "publishedOn": "2021-11-12T06:28:27.000Z",
+          "wordCount": 949,
+          "title": "8 Basic Blockchain Terms Every Beginner Needs to Know"
+        },
+        {
+          "id": "https://hackernoon.com/how-ai-revolutionizes-cancer-prognosis?source=rss",
+          "author": "ZiniosEdge Software Technologies",
+          "description": "Artificial intelligence is a strong instrument that has the potential to save lives  Know more about how AI is revolutionising cancer treatment globally.",
+          "link": "https://hackernoon.com/how-ai-revolutionizes-cancer-prognosis?source=rss",
+          "publishedOn": "2021-11-12T06:18:59.000Z",
+          "wordCount": 978,
+          "title": "How AI Revolutionizes Cancer Prognosis"
+        },
+        {
+          "id": "https://hackernoon.com/explore-the-best-blockchain-development-platforms-for-2022?source=rss",
+          "author": "Alina",
+          "description": "I have compiled a list of the 5 most promising blockchain development platforms for 2022.",
+          "link": "https://hackernoon.com/explore-the-best-blockchain-development-platforms-for-2022?source=rss",
+          "publishedOn": "2021-11-12T05:59:28.000Z",
+          "wordCount": 1892,
+          "title": "Explore the Best Blockchain Development Platforms for 2022"
+        },
+        {
+          "id": "https://hackernoon.com/crypto-and-tax-accounting-a-match-made-in-heaven?source=rss",
+          "author": "Abhijoy Sarkar",
+          "description": "In a few months from now, another tax season will be upon us. Crypto accounting & taxation guidance is still unclear in many places. Here's what you should do.",
+          "link": "https://hackernoon.com/crypto-and-tax-accounting-a-match-made-in-heaven?source=rss",
+          "publishedOn": "2021-11-12T05:43:18.000Z",
+          "wordCount": 959,
+          "title": "Crypto and Tax Accounting: A Match Made in Heaven?"
+        },
+        {
+          "id": "https://hackernoon.com/bitcoin-and-altcoins-truth-3-size-does-not-matter?source=rss",
+          "author": "Mark",
+          "description": "There is no altcoin cycle. They all move up and down at roughly the same time, regardless of size.",
+          "link": "https://hackernoon.com/bitcoin-and-altcoins-truth-3-size-does-not-matter?source=rss",
+          "publishedOn": "2021-11-12T05:19:05.000Z",
+          "wordCount": 1625,
+          "title": "Bitcoin and Altcoins: Truth #3 \"Size Does NOT Matter\""
+        },
+        {
+          "id": "https://hackernoon.com/from-fiat-money-to-ethical-defi?source=rss",
+          "author": "Amirsan Roberto",
+          "description": "The number of public companies that are taking positions in bitcoin is simply staggering.",
+          "link": "https://hackernoon.com/from-fiat-money-to-ethical-defi?source=rss",
+          "publishedOn": "2021-11-12T00:30:06.000Z",
+          "wordCount": 2657,
+          "title": "From Fiat Money to Ethical DeFi"
+        },
+        {
+          "id": "https://hackernoon.com/top-3-coding-challenges-for-mid-level-react-developers?source=rss",
+          "author": "Michael Pautov",
+          "description": "React interviews can be challenging. There are several concepts in React. Most React interviews have coding challenges.",
+          "link": "https://hackernoon.com/top-3-coding-challenges-for-mid-level-react-developers?source=rss",
+          "publishedOn": "2021-11-12T00:01:35.000Z",
+          "wordCount": 1999,
+          "title": "3 Coding Interview Challenges for Mid-level React Developers"
+        },
+        {
           "id": "https://hackernoon.com/uiux-errors-dont-blame-the-user-re-evaluate-your-design-strategy-instead?source=rss",
           "author": "Jordan Bowman",
           "description": "The solution is to redesign the product in such a way that it prevents errors from occurring in the first place.",
@@ -2248,6 +2446,15 @@
           "publishedOn": "2021-11-11T10:31:53.000Z",
           "wordCount": 999,
           "title": "Alibaba’s Metaverse Art Exhibition is a Great Snapshot of China’s Current NFT Landscape"
+        },
+        {
+          "id": "https://hackernoon.com/elizabeth-holmes-theranos-and-fake-it-till-you-make-it-silicon-valley-startup-culture?source=rss",
+          "author": "Michael Brooks",
+          "description": "Did Elizabeth Holmes corrupt Silicon Valley, or was it the other way around?",
+          "link": "https://hackernoon.com/elizabeth-holmes-theranos-and-fake-it-till-you-make-it-silicon-valley-startup-culture?source=rss",
+          "publishedOn": "2021-11-11T08:59:55.000Z",
+          "wordCount": 1803,
+          "title": "Elizabeth Holmes, Theranos, and Fake-It-Till-You-Make-It Silicon Valley Startup Culture"
         },
         {
           "id": "https://hackernoon.com/gaming-metaverse-writing-contest-2021-final-announcement?source=rss",
@@ -6555,6 +6762,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=147557",
+          "author": "ACMer",
+          "description": "Given equation we know the n must be non-negative integers in order for factorial n! to make sense. If we bruteforce, we don’t know yet the upperbound, however we can ask computer to try until...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-solving-math-equation-nn19n-n0/",
+          "publishedOn": "2021-11-12T21:39:16.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Solving Math Equation n*n+19*n-n!=0 (Factorial Function and Unbounded Bruteforce Algorithm)",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=147542",
           "author": "ACMer",
           "description": "Define Binary Trees in Python Trees can be considered as DAG (Directed Acyclic Graph) – the Directed means that we usually can only visit child nodes from parent nodes and not vice versa. The...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -7331,6 +7548,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=505315",
+          "author": "Lewin Day",
+          "description": "These days, there are tons of RC controllers out there of all shapes and sizes. However, if you want to build something with just the right amount of buttons and …read more",
+          "link": "https://hackaday.com/2021/11/12/a-guide-to-designing-a-custom-rc-controller/",
+          "publishedOn": "2021-11-13T00:00:51.000Z",
+          "wordCount": 1148,
+          "title": "A Guide To Designing A Custom RC Controller"
+        },
+        {
+          "id": "https://hackaday.com/?p=505458",
+          "author": "Tom Nardi",
+          "description": "Controlling your computer with a wave of the hand seems like something from science fiction, and for good reason. From Minority Report to Iron Man, we’ve seen plenty of famous …read more",
+          "link": "https://hackaday.com/2021/11/12/low-cost-computer-gesture-control-with-an-i2c-sensor/",
+          "publishedOn": "2021-11-12T21:00:39.000Z",
+          "wordCount": 1241,
+          "title": "Low-Cost Computer Gesture Control with an I2C Sensor"
+        },
+        {
+          "id": "https://hackaday.com/?p=505473",
+          "author": "Lewin Day",
+          "description": "Let’s say it’s Halloween, and you’re a big fan of centaurs. At the same time, you want to be easily able to store your drinks on ice and always have …read more",
+          "link": "https://hackaday.com/2021/11/12/centaur-costume-features-drinks-cooler-and-walking-legs/",
+          "publishedOn": "2021-11-12T19:30:00.000Z",
+          "wordCount": 1100,
+          "title": "Centaur Costume Features Drinks Cooler And Walking Legs"
+        },
+        {
+          "id": "https://hackaday.com/?p=505540",
+          "author": "Robin Kearey",
+          "description": "Suppose you were looking for all the essential elements to make a great Halloween-themed shooting game. Zombies? Check. Giant “lasers”? Check. Crossbows shooting forks? We’ve got you covered. Check out …read more",
+          "link": "https://hackaday.com/2021/11/12/halloween-game-lets-you-shoot-zombies-with-a-laser-powered-crossbow/",
+          "publishedOn": "2021-11-12T18:00:00.000Z",
+          "wordCount": 1333,
+          "title": "Halloween Game Lets You Shoot Zombies With a Laser-Powered Crossbow"
+        },
+        {
+          "id": "https://hackaday.com/?p=505559&preview=true&preview_id=505559",
+          "author": "Mike Szczys",
+          "description": "Hackaday editors Elliot Williams and Mike Szczys get caught up on the week that was. Two builds are turning some heads this week; one uses 60 Nixie tube bar graphs …read more",
+          "link": "https://hackaday.com/2021/11/12/hackaday-podcast-144-jigs-jigs-jigs-faberge-mic-paranomal-electronics-and-a-60-tube-nixie-clock/",
+          "publishedOn": "2021-11-12T17:01:44.000Z",
+          "wordCount": 1293,
+          "title": "Hackaday Podcast 144: Jigs Jigs Jigs, Fabergé Mic, Paranomal Electronics, and a 60-Tube Nixie Clock"
+        },
+        {
+          "id": "https://hackaday.com/?p=505486",
+          "author": "Lewin Day",
+          "description": "Air cannons are fun, and became a part of mainstream culture with the popular Airzooka toy. Of course, cocking and firing the Airzooka gets tiring after a while, and they’re …read more",
+          "link": "https://hackaday.com/2021/11/12/automated-air-cannon-shoots-smoke-rings/",
+          "publishedOn": "2021-11-12T16:00:00.000Z",
+          "wordCount": 1594,
+          "title": "Automated Air Cannon Shoots Smoke Rings"
+        },
+        {
+          "id": "https://hackaday.com/?p=505386",
+          "author": "Jonathan Bennett",
+          "description": "Maybe we really were better off with ASCII. Back in my day, we had space for 256 characters, didn’t even use 128 of them, and we took what we got. …read more",
+          "link": "https://hackaday.com/2021/11/12/this-week-in-security-unicode-strikes-npm-again-and-first-steps-to-ps5-crack/",
+          "publishedOn": "2021-11-12T15:00:36.000Z",
+          "wordCount": 2924,
+          "title": "This Week in Security: Unicode Strikes, NPM Again, and First Steps to PS5 Crack"
+        },
         {
           "id": "https://hackaday.com/?p=505314",
           "author": "Lewin Day",
@@ -10029,6 +10309,93 @@
       "feedUrl": "http://rss.sciam.com/scientificamerican-global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "F936CE6B-90C7-419E-AC8F2BC5C531DC74",
+          "author": "Esther Landhuis",
+          "description": "Researchers are still puzzling over what this drug does at the molecular level to help COVID patients\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/investigating-antidepressants-surprising-effect-on-covid-deaths/",
+          "publishedOn": "2021-11-12T19:15:00.000Z",
+          "wordCount": null,
+          "title": "Investigating Antidepressants' Surprising Effect on COVID Deaths",
+          "itunes": {}
+        },
+        {
+          "id": "618696BC-8939-4C70-BE941184DEDE19FE",
+          "author": "Devin Williams",
+          "description": "Maynard Okereke is using his distinctive voice to fight the lack of minority representation in STEM\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/this-engineer-actor-and-science-communicator-is-giving-science-its-rap/",
+          "publishedOn": "2021-11-12T18:00:00.000Z",
+          "wordCount": null,
+          "title": "This Engineer, Actor and Science Communicator Is Giving Science Its Rap",
+          "itunes": {}
+        },
+        {
+          "id": "460B16BB-60EA-418F-92FF004523CB7410",
+          "author": "Nikk Ogasa",
+          "description": "An analysis of roughly 135,000 watersheds reveals that large amounts of key pollutants come from human wastewater, not just agricultural runoff\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/half-of-the-worlds-coastal-sewage-pollution-flows-from-few-dozen-places/",
+          "publishedOn": "2021-11-12T17:45:00.000Z",
+          "wordCount": null,
+          "title": "Half of the World's Coastal Sewage Pollution Flows from Few Dozen Places",
+          "itunes": {}
+        },
+        {
+          "id": "373FEB46-FD4B-4387-A5095D996BBDC8E5",
+          "author": "Sara Schonhardt, E&E News",
+          "description": "Divisions between richer and poorer nations have widened\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/adaptation-becomes-focus-of-climate-summit-as-talks-draw-to-a-close/",
+          "publishedOn": "2021-11-12T17:15:00.000Z",
+          "wordCount": null,
+          "title": "Adaptation Becomes Focus of Climate Summit as Talks Draw to a Close",
+          "itunes": {}
+        },
+        {
+          "id": "616A6B88-5E31-4B05-8B6B6258035C5495",
+          "author": "Christopher Intagliata",
+          "description": "A fossil bed in Patagonia provides evidence of complex social structure in dinosaurs as early as 193 million years ago. And scientists say that herding behavior could have been key to the...\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/podcast/episode/flocking-together-may-have-helped-dinosaurs-dominate-the-earth/",
+          "publishedOn": "2021-11-12T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Flocking Together May Have Helped Dinosaurs Dominate the Earth",
+          "itunes": {
+            "duration": "02:31"
+          },
+          "enclosure": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=37C2F90D-44F0-4CBB-A82C166C47909801",
+            "length": "2423092",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "80911955-509F-488F-AAB1365DFA4CE8E9",
+          "author": "Asher Lawson, Hemant Kakkar",
+          "description": "Highly impulsive people who lean conservative are more likely to share false news stories. They have a desire to create chaos and won’t be deterred by fact-checkers\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/personality-type-as-well-as-politics-predicts-who-shares-fake-news/",
+          "publishedOn": "2021-11-12T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Personality Type, as well as Politics, Predicts Who Shares Fake News",
+          "itunes": {}
+        },
+        {
+          "id": "DE38A0D2-33E5-40AE-B8ECEE29857BCD62",
+          "author": "Christiane Gelitz",
+          "description": "Researchers used headsets that release disruptive magnetic pulses to study how motor brain areas contribute to the effect\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-certain-gestures-help-you-learn-new-words/",
+          "publishedOn": "2021-11-12T13:00:00.000Z",
+          "wordCount": null,
+          "title": "How Certain Gestures Help You Learn New Words",
+          "itunes": {}
+        },
+        {
+          "id": "50DA6819-97D1-4A2E-A41E59F8CE9D046C",
+          "author": "Kyle Wiens",
+          "description": "The U.S. Copyright Office has helped, but fixing the right to repair is now up to Congress\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/some-electronics-repairs-are-illegal-federal-law-could-change-that/",
+          "publishedOn": "2021-11-12T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Some Electronics Repairs Are Illegal: Federal Law Could Change That",
+          "itunes": {}
+        },
         {
           "id": "01775699-B684-4294-85D84E24F32CBF72",
           "author": "Stephanie Pappas",
@@ -12729,6 +13096,24 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=147290",
+          "author": "Sumeet Arora",
+          "description": "The world seems to be changing faster than ever, and there’s no reason to believe it will slow down anytime soon. The pandemic has compounded this sense of constant flux, with customer priorities shifting overnight. Against this backdrop, product teams need to constantly evolve their development work without losing focus or feeling they need to […]\nThe post Building and Leading Product Teams in Uncertain Times appeared first on DevOps.com.",
+          "link": "https://devops.com/building-and-leading-product-teams-in-uncertain-times/",
+          "publishedOn": "2021-11-12T08:00:11.000Z",
+          "wordCount": 1435,
+          "title": "Building and Leading Product Teams in Uncertain Times"
+        },
+        {
+          "id": "https://devops.com/?p=147284",
+          "author": "Cristina Buenahora Bustamante",
+          "description": "As digital products and services are more deeply embedded in critical industries and infrastructure and the implications of problems grow in scope, engineering organizations are renewing their focus on building platforms that are scalable, reliable and secure. More importantly, they are recognizing that this isn’t the responsibility of an SRE or CSO, it’s an ethos […]\nThe post Prioritizing Scalability, Reliability and Security in Engineering appeared first on DevOps.com.",
+          "link": "https://devops.com/prioritizing-scalability-reliability-and-security-in-engineering/",
+          "publishedOn": "2021-11-12T07:30:13.000Z",
+          "wordCount": 1410,
+          "title": "Prioritizing Scalability, Reliability and Security in Engineering"
+        },
+        {
           "id": "https://devops.com/?p=147321",
           "author": "Mike Vizard",
           "description": "Google today made available a ClusterFuzzLite tool that makes it simpler to incorporate fuzz testing into a DevOps workflow. Fuzz testing refers to an automated software testing technique that involves providing invalid, unexpected or random data as inputs to an application to discover issues such as potential memory leaks. Jonathan Metzman, a senior software engineer […]\nThe post Google Makes Fuzz Testing Integration Tool Available appeared first on DevOps.com.",
@@ -14238,6 +14623,24 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66042",
+          "author": "Nathan Yau",
+          "description": "We know the oceans are deep, but it’s difficult to grasp the scale…\nTags: 3-d, depth, MetaBallStudios, ocean, scale",
+          "link": "https://flowingdata.com/2021/11/12/scale-of-ocean-depths/",
+          "publishedOn": "2021-11-12T17:37:08.000Z",
+          "wordCount": 240,
+          "title": "Scale of ocean depths"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66040",
+          "author": "Nathan Yau",
+          "description": "Patrick Sisson for The New York Times reports on the growing popularity of…\nTags: New York Times, optimization, privacy, retail, shopping",
+          "link": "https://flowingdata.com/2021/11/12/optimizing-retail-spaces/",
+          "publishedOn": "2021-11-12T16:03:31.000Z",
+          "wordCount": 346,
+          "title": "Optimizing retail spaces"
+        },
         {
           "id": "https://flowingdata.com/?p=66005",
           "author": "Nathan Yau",

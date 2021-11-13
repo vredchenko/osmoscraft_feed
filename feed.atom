@@ -2,10 +2,462 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2021-11-12T00:41:43.368Z</updated>
+    <updated>2021-11-13T00:39:13.500Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Guide To Designing A Custom RC Controller]]></title>
+        <id>https://hackaday.com/?p=505315</id>
+        <link href="https://hackaday.com/2021/11/12/a-guide-to-designing-a-custom-rc-controller/"/>
+        <updated>2021-11-13T00:00:51.000Z</updated>
+        <summary type="html"><![CDATA[These days, there are tons of RC controllers out there of all shapes and sizes. However, if you want to build something with just the right amount of buttons and …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – Solving Math Equation n*n+19*n-n!=0 (Factorial Function and Unbounded Bruteforce Algorithm)]]></title>
+        <id>https://helloacm.com/?p=147557</id>
+        <link href="https://helloacm.com/teaching-kids-programming-solving-math-equation-nn19n-n0/"/>
+        <updated>2021-11-12T21:39:16.000Z</updated>
+        <summary type="html"><![CDATA[Given equation we know the n must be non-negative integers in order for factorial n! to make sense. If we bruteforce, we don’t know yet the upperbound, however we can ask computer to try until...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Low-Cost Computer Gesture Control with an I2C Sensor]]></title>
+        <id>https://hackaday.com/?p=505458</id>
+        <link href="https://hackaday.com/2021/11/12/low-cost-computer-gesture-control-with-an-i2c-sensor/"/>
+        <updated>2021-11-12T21:00:39.000Z</updated>
+        <summary type="html"><![CDATA[Controlling your computer with a wave of the hand seems like something from science fiction, and for good reason. From Minority Report to Iron Man, we’ve seen plenty of famous …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Good Commit Messages with Commitlint]]></title>
+        <id>618deac811d3cb08287a4ba3</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-commitlint-to-write-good-commit-messages/"/>
+        <updated>2021-11-12T20:11:06.000Z</updated>
+        <summary type="html"><![CDATA[We are often in a hurry to commit our changes in Git and so we write something random in our commit messages. In fact, I have seen people putting the date and time or even something like commit 1, commit 2 in their messages.  This is not a good practice,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Centaur Costume Features Drinks Cooler And Walking Legs]]></title>
+        <id>https://hackaday.com/?p=505473</id>
+        <link href="https://hackaday.com/2021/11/12/centaur-costume-features-drinks-cooler-and-walking-legs/"/>
+        <updated>2021-11-12T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s say it’s Halloween, and you’re a big fan of centaurs. At the same time, you want to be easily able to store your drinks on ice and always have …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Investigating Antidepressants' Surprising Effect on COVID Deaths]]></title>
+        <id>F936CE6B-90C7-419E-AC8F2BC5C531DC74</id>
+        <link href="https://www.scientificamerican.com/article/investigating-antidepressants-surprising-effect-on-covid-deaths/"/>
+        <updated>2021-11-12T19:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Researchers are still puzzling over what this drug does at the molecular level to help COVID patients
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Esther Landhuis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Halloween Game Lets You Shoot Zombies With a Laser-Powered Crossbow]]></title>
+        <id>https://hackaday.com/?p=505540</id>
+        <link href="https://hackaday.com/2021/11/12/halloween-game-lets-you-shoot-zombies-with-a-laser-powered-crossbow/"/>
+        <updated>2021-11-12T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Suppose you were looking for all the essential elements to make a great Halloween-themed shooting game. Zombies? Check. Giant “lasers”? Check. Crossbows shooting forks? We’ve got you covered. Check out …read more]]></summary>
+        <author>
+            <name>Robin Kearey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Engineer, Actor and Science Communicator Is Giving Science Its Rap]]></title>
+        <id>618696BC-8939-4C70-BE941184DEDE19FE</id>
+        <link href="https://www.scientificamerican.com/article/this-engineer-actor-and-science-communicator-is-giving-science-its-rap/"/>
+        <updated>2021-11-12T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Maynard Okereke is using his distinctive voice to fight the lack of minority representation in STEM
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Devin Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Does my WiFi Keep Disconnecting? [Solved on Windows 10 PC]]]></title>
+        <id>618e136011d3cb08287a4c71</id>
+        <link href="https://www.freecodecamp.org/news/why-does-my-wifi-keep-disconnecting-solved-on-windows-10-pc/"/>
+        <updated>2021-11-12T17:47:24.000Z</updated>
+        <summary type="html"><![CDATA[When you're using your Windows machine, your WiFi might unexpectedly disconnect.  This might be caused by various problems such as an outdated network adapter driver, outdated router software, and optimized power management in Windows 10.  If your WiFi keeps disconnecting and you're looking for a solution, you've come to the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Half of the World's Coastal Sewage Pollution Flows from Few Dozen Places]]></title>
+        <id>460B16BB-60EA-418F-92FF004523CB7410</id>
+        <link href="https://www.scientificamerican.com/article/half-of-the-worlds-coastal-sewage-pollution-flows-from-few-dozen-places/"/>
+        <updated>2021-11-12T17:45:00.000Z</updated>
+        <summary type="html"><![CDATA[An analysis of roughly 135,000 watersheds reveals that large amounts of key pollutants come from human wastewater, not just agricultural runoff
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Nikk Ogasa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scale of ocean depths]]></title>
+        <id>https://flowingdata.com/?p=66042</id>
+        <link href="https://flowingdata.com/2021/11/12/scale-of-ocean-depths/"/>
+        <updated>2021-11-12T17:37:08.000Z</updated>
+        <summary type="html"><![CDATA[We know the oceans are deep, but it’s difficult to grasp the scale…
+Tags: 3-d, depth, MetaBallStudios, ocean, scale]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adaptation Becomes Focus of Climate Summit as Talks Draw to a Close]]></title>
+        <id>373FEB46-FD4B-4387-A5095D996BBDC8E5</id>
+        <link href="https://www.scientificamerican.com/article/adaptation-becomes-focus-of-climate-summit-as-talks-draw-to-a-close/"/>
+        <updated>2021-11-12T17:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Divisions between richer and poorer nations have widened
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Sara Schonhardt, E&amp;E News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackaday Podcast 144: Jigs Jigs Jigs, Fabergé Mic, Paranomal Electronics, and a 60-Tube Nixie Clock]]></title>
+        <id>https://hackaday.com/?p=505559&amp;preview=true&amp;preview_id=505559</id>
+        <link href="https://hackaday.com/2021/11/12/hackaday-podcast-144-jigs-jigs-jigs-faberge-mic-paranomal-electronics-and-a-60-tube-nixie-clock/"/>
+        <updated>2021-11-12T17:01:44.000Z</updated>
+        <summary type="html"><![CDATA[Hackaday editors Elliot Williams and Mike Szczys get caught up on the week that was. Two builds are turning some heads this week; one uses 60 Nixie tube bar graphs …read more]]></summary>
+        <author>
+            <name>Mike Szczys</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing retail spaces]]></title>
+        <id>https://flowingdata.com/?p=66040</id>
+        <link href="https://flowingdata.com/2021/11/12/optimizing-retail-spaces/"/>
+        <updated>2021-11-12T16:03:31.000Z</updated>
+        <summary type="html"><![CDATA[Patrick Sisson for The New York Times reports on the growing popularity of…
+Tags: New York Times, optimization, privacy, retail, shopping]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automated Air Cannon Shoots Smoke Rings]]></title>
+        <id>https://hackaday.com/?p=505486</id>
+        <link href="https://hackaday.com/2021/11/12/automated-air-cannon-shoots-smoke-rings/"/>
+        <updated>2021-11-12T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Air cannons are fun, and became a part of mainstream culture with the popular Airzooka toy. Of course, cocking and firing the Airzooka gets tiring after a while, and they’re …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flocking Together May Have Helped Dinosaurs Dominate the Earth]]></title>
+        <id>616A6B88-5E31-4B05-8B6B6258035C5495</id>
+        <link href="https://www.scientificamerican.com/podcast/episode/flocking-together-may-have-helped-dinosaurs-dominate-the-earth/"/>
+        <updated>2021-11-12T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A fossil bed in Patagonia provides evidence of complex social structure in dinosaurs as early as 193 million years ago. And scientists say that herding behavior could have been key to the...
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Christopher Intagliata</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interactive Rebase: Clean up your Commit History]]></title>
+        <id>https://css-tricks.com/?p=355658</id>
+        <link href="https://css-tricks.com/interactive-rebase-clean-up-your-commit-history/"/>
+        <updated>2021-11-12T15:16:24.000Z</updated>
+        <summary type="html"><![CDATA[Interactive Rebase is the Swiss Army knife of Git commands: lots of use cases and lots of possibilities! It's really a great addition to any developer's tool chain, because it lets you revise your local commit history—before you share your work with the rest of the team. Let's see what you can do with an interactive rebase and then look at some practical examples.
+The post Interactive Rebase: Clean up your Commit History appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Tobias Günther</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Week in Security: Unicode Strikes, NPM Again, and First Steps to PS5 Crack]]></title>
+        <id>https://hackaday.com/?p=505386</id>
+        <link href="https://hackaday.com/2021/11/12/this-week-in-security-unicode-strikes-npm-again-and-first-steps-to-ps5-crack/"/>
+        <updated>2021-11-12T15:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Maybe we really were better off with ASCII. Back in my day, we had space for 256 characters, didn’t even use 128 of them, and we took what we got. …read more]]></summary>
+        <author>
+            <name>Jonathan Bennett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Personality Type, as well as Politics, Predicts Who Shares Fake News]]></title>
+        <id>80911955-509F-488F-AAB1365DFA4CE8E9</id>
+        <link href="https://www.scientificamerican.com/article/personality-type-as-well-as-politics-predicts-who-shares-fake-news/"/>
+        <updated>2021-11-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Highly impulsive people who lean conservative are more likely to share false news stories. They have a desire to create chaos and won’t be deterred by fact-checkers
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Asher Lawson, Hemant Kakkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Certain Gestures Help You Learn New Words]]></title>
+        <id>DE38A0D2-33E5-40AE-B8ECEE29857BCD62</id>
+        <link href="https://www.scientificamerican.com/article/how-certain-gestures-help-you-learn-new-words/"/>
+        <updated>2021-11-12T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Researchers used headsets that release disruptive magnetic pulses to study how motor brain areas contribute to the effect
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Christiane Gelitz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some Electronics Repairs Are Illegal: Federal Law Could Change That]]></title>
+        <id>50DA6819-97D1-4A2E-A41E59F8CE9D046C</id>
+        <link href="https://www.scientificamerican.com/article/some-electronics-repairs-are-illegal-federal-law-could-change-that/"/>
+        <updated>2021-11-12T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Copyright Office has helped, but fixing the right to repair is now up to Congress
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Kyle Wiens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Ways to Make Cybersecurity Training Stick by Reducing Human Error]]></title>
+        <id>https://hackernoon.com/5-ways-to-make-cybersecurity-training-stick-by-reducing-human-error?source=rss</id>
+        <link href="https://hackernoon.com/5-ways-to-make-cybersecurity-training-stick-by-reducing-human-error?source=rss"/>
+        <updated>2021-11-12T09:17:40.000Z</updated>
+        <summary type="html"><![CDATA[Organizations have to make cybersecurity training a top priority. Reducing human error is just as important as setting up cybersecurity protocols & systems.]]></summary>
+        <author>
+            <name>NordLayer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a CLI App with Oclif and Node.js Using Test-Driven Development: Part 2]]></title>
+        <id>https://hackernoon.com/build-a-cli-app-with-oclif-and-nodejs-using-test-driven-development-part-2?source=rss</id>
+        <link href="https://hackernoon.com/build-a-cli-app-with-oclif-and-nodejs-using-test-driven-development-part-2?source=rss"/>
+        <updated>2021-11-12T09:00:37.000Z</updated>
+        <summary type="html"><![CDATA[TDD for building a CLI application using the oclif framework.]]></summary>
+        <author>
+            <name>Brennon Loveless</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cybersecurity and Pysical Security Are Not Separate Matters]]></title>
+        <id>https://hackernoon.com/cybersecurity-and-pysical-security-are-not-separate-matters?source=rss</id>
+        <link href="https://hackernoon.com/cybersecurity-and-pysical-security-are-not-separate-matters?source=rss"/>
+        <updated>2021-11-12T08:45:58.000Z</updated>
+        <summary type="html"><![CDATA[During the pandemic, the incidence of cybercrime attacks increased dramatically. According to the FBI, cybercrimes such as spear-phishing rose by a staggering 300 percent.]]></summary>
+        <author>
+            <name>Howie Robleza</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Exploit a Solidity Constructor]]></title>
+        <id>https://hackernoon.com/how-to-exploit-a-solidity-constructor?source=rss</id>
+        <link href="https://hackernoon.com/how-to-exploit-a-solidity-constructor?source=rss"/>
+        <updated>2021-11-12T08:16:53.000Z</updated>
+        <summary type="html"><![CDATA[In this guide, we'll be diving into solidity vulnerabilities and exploiting a solidity constructor.]]></summary>
+        <author>
+            <name>inaeem</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 Gaming Tokens by Market Capitalization]]></title>
+        <id>https://hackernoon.com/top-5-gaming-tokens-by-market-capitalization?source=rss</id>
+        <link href="https://hackernoon.com/top-5-gaming-tokens-by-market-capitalization?source=rss"/>
+        <updated>2021-11-12T08:03:41.000Z</updated>
+        <summary type="html"><![CDATA[To help you get started with investing into NFT projects, we have covered the top 5 gaming tokens based on their market capitalization for you to consider.]]></summary>
+        <author>
+            <name>Hacker Noon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Secure is Your Password? - 5 Password Security Risks to Avoid]]></title>
+        <id>https://hackernoon.com/how-secure-is-your-password-5-password-security-risks-to-avoid?source=rss</id>
+        <link href="https://hackernoon.com/how-secure-is-your-password-5-password-security-risks-to-avoid?source=rss"/>
+        <updated>2021-11-12T08:02:37.000Z</updated>
+        <summary type="html"><![CDATA[Cybercrimes are becoming more prevalent, so it's a must to keep your passwords strong and secure to protect your accounts and personal information from hackers.]]></summary>
+        <author>
+            <name>Carla Woodworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Citizen Data Scientist and How Do You Become One?]]></title>
+        <id>https://hackernoon.com/what-is-a-citizen-data-scientist-and-how-do-you-become-one?source=rss</id>
+        <link href="https://hackernoon.com/what-is-a-citizen-data-scientist-and-how-do-you-become-one?source=rss"/>
+        <updated>2021-11-12T08:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Data science has been democratized for the most part. AI is now mainstream! It's no longer the exclusive province of large companies with deep pockets.]]></summary>
+        <author>
+            <name>Thuwarakesh Murallie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building and Leading Product Teams in Uncertain Times]]></title>
+        <id>https://devops.com/?p=147290</id>
+        <link href="https://devops.com/building-and-leading-product-teams-in-uncertain-times/"/>
+        <updated>2021-11-12T08:00:11.000Z</updated>
+        <summary type="html"><![CDATA[The world seems to be changing faster than ever, and there’s no reason to believe it will slow down anytime soon. The pandemic has compounded this sense of constant flux, with customer priorities shifting overnight. Against this backdrop, product teams need to constantly evolve their development work without losing focus or feeling they need to […]
+The post Building and Leading Product Teams in Uncertain Times appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Sumeet Arora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Tech Startup Leaders Should Still Spend Some of their Time Coding]]></title>
+        <id>https://hackernoon.com/why-tech-startup-leaders-should-still-spend-some-of-their-time-coding?source=rss</id>
+        <link href="https://hackernoon.com/why-tech-startup-leaders-should-still-spend-some-of-their-time-coding?source=rss"/>
+        <updated>2021-11-12T07:53:26.000Z</updated>
+        <summary type="html"><![CDATA[In this blog post, you'll learn why it's important for a manager to stay technical and how it can help grow your business.]]></summary>
+        <author>
+            <name>Michael Levan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prioritizing Scalability, Reliability and Security in Engineering]]></title>
+        <id>https://devops.com/?p=147284</id>
+        <link href="https://devops.com/prioritizing-scalability-reliability-and-security-in-engineering/"/>
+        <updated>2021-11-12T07:30:13.000Z</updated>
+        <summary type="html"><![CDATA[As digital products and services are more deeply embedded in critical industries and infrastructure and the implications of problems grow in scope, engineering organizations are renewing their focus on building platforms that are scalable, reliable and secure. More importantly, they are recognizing that this isn’t the responsibility of an SRE or CSO, it’s an ethos […]
+The post Prioritizing Scalability, Reliability and Security in Engineering appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Cristina Buenahora Bustamante</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why I'm Bullish on Cardano Despite it Seemingly Losing Momentum]]></title>
+        <id>https://hackernoon.com/why-im-bullish-on-cardano-despite-it-seemingly-losing-momentum?source=rss</id>
+        <link href="https://hackernoon.com/why-im-bullish-on-cardano-despite-it-seemingly-losing-momentum?source=rss"/>
+        <updated>2021-11-12T07:07:10.000Z</updated>
+        <summary type="html"><![CDATA[Cardano ecosystem can make future millionaires. As ADA has been going sideways for a while, now may be the best time to invest.]]></summary>
+        <author>
+            <name>Crypto Badger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best 10 React Development Tools]]></title>
+        <id>https://hackernoon.com/the-10-best-react-development-tools?source=rss</id>
+        <link href="https://hackernoon.com/the-10-best-react-development-tools?source=rss"/>
+        <updated>2021-11-12T07:05:38.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will talk about the top 10 React development tools in depth.]]></summary>
+        <author>
+            <name>BootesNull</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Value of Parachains to Drive Blockchain Adoption]]></title>
+        <id>https://hackernoon.com/the-value-of-parachains-to-drive-blockchain-adoption?source=rss</id>
+        <link href="https://hackernoon.com/the-value-of-parachains-to-drive-blockchain-adoption?source=rss"/>
+        <updated>2021-11-12T06:58:27.000Z</updated>
+        <summary type="html"><![CDATA[I wish to discuss Polkadot's distinct key feature with our users in this article. We'll go over the benefits of this feature and why it's so valuable.]]></summary>
+        <author>
+            <name>Anndy Lian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Idea to App Store: How I Built an App Using 100% No-Code Tools]]></title>
+        <id>https://hackernoon.com/from-idea-to-app-store-how-i-built-an-app-using-100percent-no-code-tools?source=rss</id>
+        <link href="https://hackernoon.com/from-idea-to-app-store-how-i-built-an-app-using-100percent-no-code-tools?source=rss"/>
+        <updated>2021-11-12T06:54:06.000Z</updated>
+        <summary type="html"><![CDATA[How I built an iOS app using the no code tools Draftbit and Xano and then launched it to the App Store.]]></summary>
+        <author>
+            <name>JT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8 Basic Blockchain Terms Every Beginner Needs to Know]]></title>
+        <id>https://hackernoon.com/8-basic-blockchain-terms-every-beginner-needs-to-know?source=rss</id>
+        <link href="https://hackernoon.com/8-basic-blockchain-terms-every-beginner-needs-to-know?source=rss"/>
+        <updated>2021-11-12T06:28:27.000Z</updated>
+        <summary type="html"><![CDATA[A list of basic blockchain terms every beginner should know.]]></summary>
+        <author>
+            <name>Johannes Müller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Revolutionizes Cancer Prognosis]]></title>
+        <id>https://hackernoon.com/how-ai-revolutionizes-cancer-prognosis?source=rss</id>
+        <link href="https://hackernoon.com/how-ai-revolutionizes-cancer-prognosis?source=rss"/>
+        <updated>2021-11-12T06:18:59.000Z</updated>
+        <summary type="html"><![CDATA[Artificial intelligence is a strong instrument that has the potential to save lives  Know more about how AI is revolutionising cancer treatment globally.]]></summary>
+        <author>
+            <name>ZiniosEdge Software Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explore the Best Blockchain Development Platforms for 2022]]></title>
+        <id>https://hackernoon.com/explore-the-best-blockchain-development-platforms-for-2022?source=rss</id>
+        <link href="https://hackernoon.com/explore-the-best-blockchain-development-platforms-for-2022?source=rss"/>
+        <updated>2021-11-12T05:59:28.000Z</updated>
+        <summary type="html"><![CDATA[I have compiled a list of the 5 most promising blockchain development platforms for 2022.]]></summary>
+        <author>
+            <name>Alina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto and Tax Accounting: A Match Made in Heaven?]]></title>
+        <id>https://hackernoon.com/crypto-and-tax-accounting-a-match-made-in-heaven?source=rss</id>
+        <link href="https://hackernoon.com/crypto-and-tax-accounting-a-match-made-in-heaven?source=rss"/>
+        <updated>2021-11-12T05:43:18.000Z</updated>
+        <summary type="html"><![CDATA[In a few months from now, another tax season will be upon us. Crypto accounting & taxation guidance is still unclear in many places. Here's what you should do.]]></summary>
+        <author>
+            <name>Abhijoy Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin and Altcoins: Truth #3 "Size Does NOT Matter"]]></title>
+        <id>https://hackernoon.com/bitcoin-and-altcoins-truth-3-size-does-not-matter?source=rss</id>
+        <link href="https://hackernoon.com/bitcoin-and-altcoins-truth-3-size-does-not-matter?source=rss"/>
+        <updated>2021-11-12T05:19:05.000Z</updated>
+        <summary type="html"><![CDATA[There is no altcoin cycle. They all move up and down at roughly the same time, regardless of size.]]></summary>
+        <author>
+            <name>Mark</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Fiat Money to Ethical DeFi]]></title>
+        <id>https://hackernoon.com/from-fiat-money-to-ethical-defi?source=rss</id>
+        <link href="https://hackernoon.com/from-fiat-money-to-ethical-defi?source=rss"/>
+        <updated>2021-11-12T00:30:06.000Z</updated>
+        <summary type="html"><![CDATA[The number of public companies that are taking positions in bitcoin is simply staggering.]]></summary>
+        <author>
+            <name>Amirsan Roberto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Coding Interview Challenges for Mid-level React Developers]]></title>
+        <id>https://hackernoon.com/top-3-coding-challenges-for-mid-level-react-developers?source=rss</id>
+        <link href="https://hackernoon.com/top-3-coding-challenges-for-mid-level-react-developers?source=rss"/>
+        <updated>2021-11-12T00:01:35.000Z</updated>
+        <summary type="html"><![CDATA[React interviews can be challenging. There are several concepts in React. Most React interviews have coding challenges.]]></summary>
+        <author>
+            <name>Michael Pautov</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LEDBOY Is a Retro-Modern Handheld Game]]></title>
         <id>https://hackaday.com/?p=505314</id>
@@ -379,6 +831,16 @@ The post Data Theorem Adds Runtime Protection Enabled by Observability appeared 
         <summary type="html"><![CDATA[This confusing exhibition provides a stellar and pretty comprehensive snapshot of China’s NFT landscape from a number of angles]]></summary>
         <author>
             <name>Susie Liu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elizabeth Holmes, Theranos, and Fake-It-Till-You-Make-It Silicon Valley Startup Culture]]></title>
+        <id>https://hackernoon.com/elizabeth-holmes-theranos-and-fake-it-till-you-make-it-silicon-valley-startup-culture?source=rss</id>
+        <link href="https://hackernoon.com/elizabeth-holmes-theranos-and-fake-it-till-you-make-it-silicon-valley-startup-culture?source=rss"/>
+        <updated>2021-11-11T08:59:55.000Z</updated>
+        <summary type="html"><![CDATA[Did Elizabeth Holmes corrupt Silicon Valley, or was it the other way around?]]></summary>
+        <author>
+            <name>Michael Brooks</name>
         </author>
     </entry>
     <entry>
