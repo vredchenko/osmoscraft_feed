@@ -40,6 +40,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=356849",
+          "author": "Geoff Graham",
+          "description": "Mary Dyson produces nitty gritty research on the long-accepted notion that shorter line lengths are more legible than longer ones. The study finds that shorter lines do not necessarily lead to faster reading. If you’re looking for a definitive answer …\nThe post Line length revisited: following the research appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/line-length-revisited-following-the-research/",
+          "publishedOn": "2021-11-16T21:35:39.000Z",
+          "wordCount": 950,
+          "title": "Line length revisited: following the research"
+        },
+        {
+          "id": "https://css-tricks.com/?p=356491",
+          "author": "Hilman Ramadhan",
+          "description": "Jamstack has been in the website world for years. Static Site Generators (SSGs) — which often have content that lives right within a GitHub repo itself — are a big part of that story. That opens up the idea of …\nThe post Generate a Pull Request of Static Content With a Simple HTML Form appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/generate-a-pull-request-of-static-content-with-a-simple-html-form/",
+          "publishedOn": "2021-11-16T15:37:50.000Z",
+          "wordCount": 1784,
+          "title": "Generate a Pull Request of Static Content With a Simple HTML Form"
+        },
+        {
+          "id": "https://css-tricks.com/?p=356805",
+          "author": "Chris Coyier",
+          "description": "That’s the name of Netlify’s YouTube Channel. Love that. I linked up Rich’s talk the other day, which was a part of this past JamstackConf, but now all the talks are up on there. Rich got to talk …\nThe post Jamstack TV appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/jamstack-tv/",
+          "publishedOn": "2021-11-16T15:35:36.000Z",
+          "wordCount": 424,
+          "title": "Jamstack TV"
+        },
+        {
+          "id": "https://css-tricks.com/?p=356611",
+          "author": "Chris Coyier",
+          "description": "In my “Different Degrees of Custom Property Usage” article, I noted a situation about colors and CSS custom properties where I went “too far” with breaking up HSL color values. Breaking every single color into its H, S, and L parts …\nThe post Color Alpha Anywhere appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/color-alpha-anywhere/",
+          "publishedOn": "2021-11-16T01:03:32.000Z",
+          "wordCount": 906,
+          "title": "Color Alpha Anywhere"
+        },
+        {
           "id": "https://css-tricks.com/?p=355894",
           "author": "Michael Michlin",
           "description": "Theming UI refers to the ability to perform a change in visual styles in a consistent manner that defines the “look and feel” of a site. Swapping color palettes, à la dark mode or some other means, is a good …\nThe post Defining and Applying UI Themes Using the Mimcss CSS-in-JS Library appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -974,6 +1010,60 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "618f31ff11d3cb08287a562a",
+          "author": null,
+          "description": "In the words of RealToughCandy, everyone wants a \"one-stop shop\" when it comes to learning. She uses this term to describe Educative.io, but Educative.io costs $60 a month unless you choose to commit to its annual plan. So it's not a free resource, which means it's not available",
+          "link": "https://www.freecodecamp.org/news/coding-interview-preparation/",
+          "publishedOn": "2021-11-16T23:50:43.000Z",
+          "wordCount": 1907,
+          "title": "Coding Interview Prep – Free Resources to Help You Ace Your Interviews"
+        },
+        {
+          "id": "618216468bcfae07ca4e073f",
+          "author": null,
+          "description": "A mailto link allows users to send emails straight from a website using the user's default email client. But how do you create a mailto link in HTML? In this article, I will walk you through how to create a mailto link in HTML using example code. Basic mailto link",
+          "link": "https://www.freecodecamp.org/news/mailto-link-how-to-make-an-html-email-link-example-code/",
+          "publishedOn": "2021-11-16T22:58:22.000Z",
+          "wordCount": 709,
+          "title": "Mailto Link – How to Make an HTML Email Link [Example Code]"
+        },
+        {
+          "id": "618d64b411d3cb08287a49e3",
+          "author": null,
+          "description": "Every single computing device has a CPU.  You may have heard of this tech term before, but what is it exactly? What is a CPU and how does it work?  In this beginner-friendly article you'll learn the basics on what a CPU actually is, and I'l give you an overview",
+          "link": "https://www.freecodecamp.org/news/what-is-cpu-meaning-definition-and-what-cpu-stands-for/",
+          "publishedOn": "2021-11-16T22:53:22.000Z",
+          "wordCount": 1382,
+          "title": "What is CPU? Meaning, Definition, and What CPU Stands For"
+        },
+        {
+          "id": "618211678bcfae07ca4e072b",
+          "author": null,
+          "description": "If you are interested in creating a website that requires no coding at all, then you can use a free website builder. In this article, I will provide you with a list of four free website builders you can choose from when creating your websites. Here is the complete list.",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-website-free-of-cost-website-builder-platform-guide/",
+          "publishedOn": "2021-11-16T15:53:09.000Z",
+          "wordCount": 897,
+          "title": "How to Create a Website Free of Cost – Website Builder Platform Guide"
+        },
+        {
+          "id": "6190f90f11d3cb08287a5fb1",
+          "author": null,
+          "description": "React Todo applications are generally very basic – in fact, they're a great exercise if you're a React beginner and want to work on building up your skills. But have you ever built a Todo application where a user can add todos using voice commands? This makes it a bit more",
+          "link": "https://www.freecodecamp.org/news/build-a-voice-based-weather-application-using-react-and-alan-ai/",
+          "publishedOn": "2021-11-16T15:32:00.000Z",
+          "wordCount": 3106,
+          "title": "How to Build a Voice-Based Todo App using React, Firebase, and Alan AI"
+        },
+        {
+          "id": "615a6c014aa03507d94125a3",
+          "author": null,
+          "description": "What is Infrastructure as Code? In this article you will learn all about Infrastructure as Code. I will start with an overview of the general concepts, and then I will show you how to implement Infrastructure as Code with three different labs. The labs use Python and AWS but the",
+          "link": "https://www.freecodecamp.org/news/what-is-infrastructure-as-code/",
+          "publishedOn": "2021-11-16T15:02:13.000Z",
+          "wordCount": 6827,
+          "title": "Infrastructure as Code - Full Course"
+        },
+        {
           "id": "619140bc11d3cb08287a60d4",
           "author": null,
           "description": "In this tutorial, we'll talk about an important concept in React – props. I'll show you how to use them to keep the flow of data in your app dynamic. PrerequisitesIn other to follow along with this tutorial, you will need: A React app.Additionally, I assume that you already understand:",
@@ -981,6 +1071,15 @@
           "publishedOn": "2021-11-15T23:48:49.000Z",
           "wordCount": 1438,
           "title": "How to Use Props in React"
+        },
+        {
+          "id": "6194240311d3cb08287a7709",
+          "author": null,
+          "description": "Plugins for applications are commonly written in C++ and writing a plugin program can be a great way to improve your programming skills. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use modern C++ to code a 3-Band Compressor with Spectrum",
+          "link": "https://www.freecodecamp.org/news/improve-your-cpp-skills-by-building-an-audio-plugin/",
+          "publishedOn": "2021-11-15T21:47:00.000Z",
+          "wordCount": 455,
+          "title": "Improve Your C++ Skills by Building an Audio Plugin (3-Band Compressor)"
         },
         {
           "id": "618216148bcfae07ca4e072f",
@@ -2339,6 +2438,186 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/using-space-invaders-to-prove-all-games-are-educational?source=rss",
+          "author": "Mathew Georghiou",
+          "description": "Are all games educational? Are games a guilty pleasure or an unparalleled learning experience? Here’s the answer using Space Invaders as an example.",
+          "link": "https://hackernoon.com/using-space-invaders-to-prove-all-games-are-educational?source=rss",
+          "publishedOn": "2021-11-16T16:04:32.000Z",
+          "wordCount": 1574,
+          "title": "Using Space Invaders to Prove All Games are Educational"
+        },
+        {
+          "id": "https://hackernoon.com/yasser-jilani-is-bringing-coding-to-children?source=rss",
+          "author": "Slogging (Slack Blogging)",
+          "description": "Hackernoon talks to Yasser Jilani, the founder of Code With Us, an EdTech startup pioneering in coding education for children and teenagers.",
+          "link": "https://hackernoon.com/yasser-jilani-is-bringing-coding-to-children?source=rss",
+          "publishedOn": "2021-11-16T15:49:49.000Z",
+          "wordCount": 2297,
+          "title": "Yasser Jilani is Bringing Coding to Children"
+        },
+        {
+          "id": "https://hackernoon.com/play2earn-for-beginners-where-to-start?source=rss",
+          "author": "Sergey Baloyan",
+          "description": "How to start playing with the new Play2Earn/GameFi games like Axie Infinity, Ember Sword and more as well as how to analyse these games for your research.",
+          "link": "https://hackernoon.com/play2earn-for-beginners-where-to-start?source=rss",
+          "publishedOn": "2021-11-16T15:46:54.000Z",
+          "wordCount": 988,
+          "title": "Play2Earn for Beginners: Where to Start"
+        },
+        {
+          "id": "https://hackernoon.com/varun-sharma-on-software-engineering-climate-change-and-taking-inspiration-from-movies?source=rss",
+          "author": "Varun Sharma",
+          "description": "Varun Sharma has been nominated for a 2021 Noonies Award for Architecture.",
+          "link": "https://hackernoon.com/varun-sharma-on-software-engineering-climate-change-and-taking-inspiration-from-movies?source=rss",
+          "publishedOn": "2021-11-16T11:28:58.000Z",
+          "wordCount": 925,
+          "title": "Varun Sharma on Software Engineering, Climate Change, and Taking Inspiration From Movies"
+        },
+        {
+          "id": "https://hackernoon.com/data-science-is-not-a-math-skill-but-a-life-skill-noonies-nominee-kirk-borne?source=rss",
+          "author": null,
+          "description": "From astrophysics to data science, here's a story of a lifetime journey with modeling the Universe and other dynamic things that move through space and time.",
+          "link": "https://hackernoon.com/data-science-is-not-a-math-skill-but-a-life-skill-noonies-nominee-kirk-borne?source=rss",
+          "publishedOn": "2021-11-16T10:53:29.000Z",
+          "wordCount": 965,
+          "title": "‘Data Science Is Not a Math Skill but a Life Skill’: Noonies Nominee Kirk Borne"
+        },
+        {
+          "id": "https://hackernoon.com/a-day-in-the-life-of-a-data-scientist-at-a-climate-change-startup?source=rss",
+          "author": "Blue Sky Analytics",
+          "description": "A guided tour into the life of a data scientist at a climate-tech startup.",
+          "link": "https://hackernoon.com/a-day-in-the-life-of-a-data-scientist-at-a-climate-change-startup?source=rss",
+          "publishedOn": "2021-11-16T10:33:54.000Z",
+          "wordCount": 982,
+          "title": "A Day in the Life of a Data Scientist at a Climate Change Startup"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-an-mvp-and-why-is-it-necessary-a-deep-dive?source=rss",
+          "author": "Softformance",
+          "description": "A minimum viable product (MVP) is a product with a limited number of features that solves at least one issue of your targeted customer. Here's why you need one.",
+          "link": "https://hackernoon.com/what-is-an-mvp-and-why-is-it-necessary-a-deep-dive?source=rss",
+          "publishedOn": "2021-11-16T10:29:08.000Z",
+          "wordCount": 982,
+          "title": "What Is An MVP and Why Is It Necessary? A Deep Dive"
+        },
+        {
+          "id": "https://hackernoon.com/nfts-can-bring-immutability-and-transparency-to-the-halal-supply-chain?source=rss",
+          "author": "Hugh Harsono",
+          "description": "By integrating immutable NFT technology within the halal supply chain, consumers can investigate and ensure increased confidence in the origin of halal foods.",
+          "link": "https://hackernoon.com/nfts-can-bring-immutability-and-transparency-to-the-halal-supply-chain?source=rss",
+          "publishedOn": "2021-11-16T10:28:30.000Z",
+          "wordCount": 1862,
+          "title": "NFTs Can Bring Immutability and Transparency to the Halal Supply Chain"
+        },
+        {
+          "id": "https://hackernoon.com/how-runaway-drones-close-airports-and-why-we-should-put-sims-in-them?source=rss",
+          "author": "Ieva Sipola",
+          "description": "Drones go missing despite the state-of-the-art technology and equipment that's put into them. Here I explore a solution that could prevent such incidents.",
+          "link": "https://hackernoon.com/how-runaway-drones-close-airports-and-why-we-should-put-sims-in-them?source=rss",
+          "publishedOn": "2021-11-16T10:08:45.000Z",
+          "wordCount": 1996,
+          "title": "How Runaway Drones Close Airports (and Why We Should Put SIMs in Them)"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-embrace-the-growth-mindset-for-career-success?source=rss",
+          "author": "Lomit Patel",
+          "description": "People with a growth mindset are constantly learning, refining their successes, and improving on their failures. The process is more important than the outcome.",
+          "link": "https://hackernoon.com/how-to-embrace-the-growth-mindset-for-career-success?source=rss",
+          "publishedOn": "2021-11-16T10:03:30.000Z",
+          "wordCount": 1982,
+          "title": "How To Embrace the Growth Mindset for Career Success"
+        },
+        {
+          "id": "https://hackernoon.com/10-logical-fallacies-and-cognitive-biases-blocking-your-creativity?source=rss",
+          "author": "Adrien Book",
+          "description": "Transformation is no easy task. Though we like to think of ourselves as rational creatures, we are far from it (economics be damned).",
+          "link": "https://hackernoon.com/10-logical-fallacies-and-cognitive-biases-blocking-your-creativity?source=rss",
+          "publishedOn": "2021-11-16T10:02:09.000Z",
+          "wordCount": 3830,
+          "title": "10 Logical Fallacies and Cognitive Biases Blocking Your Creativity"
+        },
+        {
+          "id": "https://hackernoon.com/becoming-a-game-designer-is-more-attainable-than-you-think?source=rss",
+          "author": "Games Harden",
+          "description": "The School of Game Design: Lifetime Membership - $49 - is on sale for just $49 for a limited time.",
+          "link": "https://hackernoon.com/becoming-a-game-designer-is-more-attainable-than-you-think?source=rss",
+          "publishedOn": "2021-11-16T05:30:58.000Z",
+          "wordCount": 1472,
+          "title": "Becoming a Game Designer is More Attainable Than You Think"
+        },
+        {
+          "id": "https://hackernoon.com/racial-discrimination-in-facial-recognition-is-a-challenge-with-noonies-nominee-alesia-traichuk?source=rss",
+          "author": "Alesia Traichuk",
+          "description": "2021 Noonies Nominee General Interview with Alesia Traichuk",
+          "link": "https://hackernoon.com/racial-discrimination-in-facial-recognition-is-a-challenge-with-noonies-nominee-alesia-traichuk?source=rss",
+          "publishedOn": "2021-11-16T00:20:58.000Z",
+          "wordCount": 869,
+          "title": "Racial Discrimination in Facial Recognition is a Challenge - With Noonies Nominee Alesia Traichuk"
+        },
+        {
+          "id": "https://hackernoon.com/are-you-ready-to-invest-in-cryptocurrencies?source=rss",
+          "author": "Tanisha Mittal",
+          "description": "Cryptocurrency is all the rage right now. This blog will discuss all the different aspects you should know before investing in crypto.",
+          "link": "https://hackernoon.com/are-you-ready-to-invest-in-cryptocurrencies?source=rss",
+          "publishedOn": "2021-11-16T00:09:09.000Z",
+          "wordCount": 1743,
+          "title": "Are you Ready to Invest in Cryptocurrencies?"
+        },
+        {
+          "id": "https://hackernoon.com/why-is-it-so-hard-to-find-a-ps5-for-sale?source=rss",
+          "author": "Faizan Raza",
+          "description": "PS5 was released last year on November 12, 2020. It is Sony’s best PlayStation and it is Sony's fastest-selling PlayStation, with more than 10 million consoles sold so far. PS5 came with many new features where it supported gaming up to 8k at 120Hz, a digital edition and an enhanced PS5 controller were some of the few main highlights.",
+          "link": "https://hackernoon.com/why-is-it-so-hard-to-find-a-ps5-for-sale?source=rss",
+          "publishedOn": "2021-11-15T23:50:25.000Z",
+          "wordCount": 1758,
+          "title": "Why is it so Hard to Find a PS5 for Sale?"
+        },
+        {
+          "id": "https://hackernoon.com/the-nasty-environmental-footprint-of-gpus-and-how-remote-gpu-software-can-help?source=rss",
+          "author": "Juice Labs",
+          "description": "Demand for accelerated computing brings a large environmental impact. Remote GPU software will sharply reduce that impact via higher utilization of GPUs.",
+          "link": "https://hackernoon.com/the-nasty-environmental-footprint-of-gpus-and-how-remote-gpu-software-can-help?source=rss",
+          "publishedOn": "2021-11-15T23:46:16.000Z",
+          "wordCount": 897,
+          "title": "The Nasty Environmental Footprint of GPUs - and How Remote GPU Software Can Help"
+        },
+        {
+          "id": "https://hackernoon.com/technology-has-brought-new-innovations-to-how-art-is-made-displayed-and-sold?source=rss",
+          "author": "ITRex",
+          "description": "The pandemic with its subsequent lockdowns is forcing artists to search for innovative ways to display and sell their work. And while many people welcome technologies, such as artificial intelligence (AI) and the Internet of things (IoT) in art distribution, they are skeptical about its ability to generate art. They think such pieces will lack creativity and will generally be out of place. Here is one example to challenge this belief.",
+          "link": "https://hackernoon.com/technology-has-brought-new-innovations-to-how-art-is-made-displayed-and-sold?source=rss",
+          "publishedOn": "2021-11-15T23:40:26.000Z",
+          "wordCount": 3910,
+          "title": "Technology has Brought New Innovations to How Art is Made, Displayed, and Sold"
+        },
+        {
+          "id": "https://hackernoon.com/interview-with-anndy-lian-views-on-2022-cryptocurrency-adoption-what-is-coming-next?source=rss",
+          "author": "Jenny Zheng",
+          "description": "An interview with Anndy Lian, a business strategist, about the future of global Cryptocurrency Adoption through 2022 and the reasons for his predictions.",
+          "link": "https://hackernoon.com/interview-with-anndy-lian-views-on-2022-cryptocurrency-adoption-what-is-coming-next?source=rss",
+          "publishedOn": "2021-11-15T23:39:55.000Z",
+          "wordCount": 957,
+          "title": "Interview with Anndy Lian: Views on 2022 Cryptocurrency Adoption - What Is Coming Next"
+        },
+        {
+          "id": "https://hackernoon.com/there-is-no-failure-only-feedback-with-noonies-nominee-christian-kameir?source=rss",
+          "author": "Christian Kameir",
+          "description": "Interview with Noonies Nominee Christian Kameir",
+          "link": "https://hackernoon.com/there-is-no-failure-only-feedback-with-noonies-nominee-christian-kameir?source=rss",
+          "publishedOn": "2021-11-15T23:28:57.000Z",
+          "wordCount": 872,
+          "title": "\"There is no Failure, only Feedback\"  - with 5x Noonies Nominee Christian Kameir"
+        },
+        {
+          "id": "https://hackernoon.com/trust-and-the-remote-workforce-infographic?source=rss",
+          "author": "Brian Wallace",
+          "description": "The COVID pandemic has caused many companies to embrace remote work with a sense of uneasiness, but working from home has successfully become the norm in less than 24 months.  54% of employees have even said that they want to continue working from home post-COVID.  What is making remote work so appealing to the workforce?",
+          "link": "https://hackernoon.com/trust-and-the-remote-workforce-infographic?source=rss",
+          "publishedOn": "2021-11-15T21:32:20.000Z",
+          "wordCount": 1394,
+          "title": "Trust and the Remote Workforce [Infographic]"
+        },
         {
           "id": "https://hackernoon.com/im-concerned-about-people-who-blame-technology-for-their-problems-davit-ayvazyan?source=rss",
           "author": "Davit Ayvazyan",
@@ -8161,16 +8440,6 @@
           "wordCount": null,
           "title": "Teaching Kids Programming – Set Matrix Zeroes",
           "itunes": {}
-        },
-        {
-          "id": "https://helloacm.com/?p=146343",
-          "author": "ACMer",
-          "description": "There is a bi-directional graph with n vertices, where each vertex is labeled from 0 to n – 1 (inclusive). The edges in the graph are represented as a 2D integer array edges, where each edges =...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
-          "link": "https://helloacm.com/teaching-kids-programming-find-if-path-exists-in-graph-via-breadth-first-search-algorithm/",
-          "publishedOn": "2021-08-18T20:14:41.000Z",
-          "wordCount": null,
-          "title": "Teaching Kids Programming – Find if Path Exists in Graph via Breadth First Search Algorithm",
-          "itunes": {}
         }
       ]
     },
@@ -8179,6 +8448,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=507471",
+          "author": "Adam Zeloof",
+          "description": "There comes a time in every hardware hacker’s career during which they first realize they need a negative voltage rail in their project. There also comes a time, usually ~10ms …read more",
+          "link": "https://hackaday.com/2021/11/16/quick-and-not-very-dirty-negative-voltage-supply/",
+          "publishedOn": "2021-11-17T00:00:54.000Z",
+          "wordCount": 1197,
+          "title": "Quick and (Not Very) Dirty Negative Voltage Supply"
+        },
+        {
+          "id": "https://hackaday.com/?p=507445",
+          "author": "Tom Nardi",
+          "description": "We’ve seen a lot of environmental monitoring projects here at Hackaday. Seriously, a lot. They usually take the form of a microcontroller, a couple sensors, and maybe a 3D printed …read more",
+          "link": "https://hackaday.com/2021/11/16/jigglypuff-sensor-breathes-co2-so-you-dont-have-to/",
+          "publishedOn": "2021-11-16T21:00:55.000Z",
+          "wordCount": 1257,
+          "title": "Jigglypuff Sensor Breathes CO2 So You Don’t Have To"
+        },
+        {
+          "id": "https://hackaday.com/?p=507268",
+          "author": "Al Williams",
+          "description": "You don’t have two ears by accident. [Stoppi] has a great post about this, along with a video you can see below. (The text is in German, but that’s what …read more",
+          "link": "https://hackaday.com/2021/11/16/binaural-hearing-modeled-with-an-arduino/",
+          "publishedOn": "2021-11-16T19:30:00.000Z",
+          "wordCount": 1658,
+          "title": "Binaural Hearing Modeled with an Arduino"
+        },
+        {
+          "id": "https://hackaday.com/?p=505586",
+          "author": "Lewin Day",
+          "description": "Plastics took off in the 20th century, with the new class of materials finding all manner of applications that metal, wood and paper simply couldn’t deliver on. Every field from …read more",
+          "link": "https://hackaday.com/2021/11/16/microplastics-are-everywhere-land-sea-and-air/",
+          "publishedOn": "2021-11-16T18:00:59.000Z",
+          "wordCount": 3669,
+          "title": "Microplastics Are Everywhere: Land, Sea and Air"
+        },
+        {
+          "id": "https://hackaday.com/?p=505367",
+          "author": "Dave Rowntree",
+          "description": "Inspired by the enormous marble music machines from the staggeringly talented [Wintergatan] and the marble run builds by [Daniel de Bruin], [Ivan Miranda] has been busy again building a largely …read more",
+          "link": "https://hackaday.com/2021/11/16/3d-printed-marble-music-machine-looking-good-already/",
+          "publishedOn": "2021-11-16T16:30:00.000Z",
+          "wordCount": 1474,
+          "title": "3D Printed Marble Music Machine Looking Good Already"
+        },
+        {
+          "id": "https://hackaday.com/?p=502536",
+          "author": "Al Williams",
+          "description": "Glasses wearers, try a little experiment. Take off your glasses and look at this page or, at least, at something you can’t see well without your glasses. Now imagine if …read more",
+          "link": "https://hackaday.com/2021/11/16/tech-in-plain-sight-eyeglasses/",
+          "publishedOn": "2021-11-16T15:01:44.000Z",
+          "wordCount": 4331,
+          "title": "Tech in Plain Sight: Eyeglasses"
+        },
+        {
+          "id": "https://hackaday.com/?p=507469",
+          "author": "Jenny List",
+          "description": "A criticism that we have leveled at the move from internal combustion vehicles to electric ones is that their expense can put them well beyond the range of the not-so-well-heeled …read more",
+          "link": "https://hackaday.com/2021/11/16/for-all-their-expense-electric-cars-are-still-the-cheapest/",
+          "publishedOn": "2021-11-16T12:00:00.000Z",
+          "wordCount": 13351,
+          "title": "For All Their Expense, Electric Cars Are Still The Cheapest"
+        },
         {
           "id": "https://hackaday.com/?p=507519",
           "author": "Dave Rowntree",
@@ -11130,6 +11462,96 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "2A11B637-A290-4482-885800634CFC6424",
+          "author": "Sara Schonhardt, E&E News",
+          "description": "The third-largest carbon emitter argues it is balancing phasing out fossil fuels with meeting growing energy needs\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/why-india-defended-coal-at-the-close-of-the-cop26-climate-summit/",
+          "publishedOn": "2021-11-16T20:15:00.000Z",
+          "wordCount": null,
+          "title": "Why India Defended Coal at the Close of the COP26 Climate Summit",
+          "itunes": {}
+        },
+        {
+          "id": "BC6C8460-5138-473C-834017D1744FB03D",
+          "author": null,
+          "description": "Innovations to help tackle societal challenges—especially climate change\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/top-10-emerging-technologies-for-2021/",
+          "publishedOn": "2021-11-16T18:30:00.000Z",
+          "wordCount": null,
+          "title": "Top 10 Emerging Technologies for 2021",
+          "itunes": {}
+        },
+        {
+          "id": "B6BC99C6-3511-4DE0-925F584266138A03",
+          "author": "Mark Fischetti",
+          "description": "Strings of ocean storms called atmospheric rivers flood California and other western coastlines, although sometimes they can be beneficial\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/warning-scale-unveiled-for-dangerous-rivers-in-the-sky/",
+          "publishedOn": "2021-11-16T17:47:00.000Z",
+          "wordCount": null,
+          "title": "Warning Scale Unveiled for Dangerous Rivers in the Sky",
+          "itunes": {}
+        },
+        {
+          "id": "53117569-163C-4053-91A130E8D77122D3",
+          "author": "Holly Caggiano",
+          "description": "Household energy programs will need to influence how people use energy\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/build-back-betters-big-challenge-human-behavior/",
+          "publishedOn": "2021-11-16T17:00:00.000Z",
+          "wordCount": null,
+          "title": "Build Back Better's Big Challenge: Human Behavior",
+          "itunes": {}
+        },
+        {
+          "id": "ABEAE73A-57C0-4EED-A792452A0C2A15E5",
+          "author": "Chelsea Gohd, SPACE.com",
+          "description": "“The test has so far generated over 1,500 pieces of trackable orbital debris,” a State Department spokesperson said\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/u-s-officials-condemn-russian-anti-satellite-test-that-threatened-astronauts/",
+          "publishedOn": "2021-11-16T15:30:00.000Z",
+          "wordCount": null,
+          "title": "U.S. Officials Condemn Russian Anti-Satellite Test That Threatened Astronauts",
+          "itunes": {}
+        },
+        {
+          "id": "20364268-8B0E-4D43-9118C4D64133A897",
+          "author": "Rachel Nuwer",
+          "description": "Fish species were found deliberately chafing on sharks around the world, though why they do so is not entirely clear\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/fish-rub-up-against-sharks-for-exfoliation-or-maybe-just-good-feels/",
+          "publishedOn": "2021-11-16T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Rubbing Up Against Sharks May Feel Good Despite the Danger",
+          "itunes": {}
+        },
+        {
+          "id": "D7A940A7-1DEA-4C9F-B6F085950AB54598",
+          "author": "Aaron S. Evans, Lee Armus",
+          "description": "New revelations about how galaxies collide show what might happen when our galaxy meets Andromeda\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/galaxy-collisions-preview-milky-ways-fate/",
+          "publishedOn": "2021-11-16T14:15:00.000Z",
+          "wordCount": null,
+          "title": "Galaxy Collisions Preview Milky Way's Fate",
+          "itunes": {}
+        },
+        {
+          "id": "08E7DF19-F626-42DF-942C664B30DB8A53",
+          "author": "Laura Helmuth",
+          "description": "Solar superflares, emotion-detecting artificial intelligence, emerging technologies, and more in our December issue\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-milky-way-is-destined-to-collide-with-andromeda-and-we-know-what-it-will-look-like/",
+          "publishedOn": "2021-11-16T14:00:00.000Z",
+          "wordCount": null,
+          "title": "The Milky Way Is Destined to Collide with Andromeda, and We Know What It Will Look Like",
+          "itunes": {}
+        },
+        {
+          "id": "7AB529A2-BBBF-4648-B02A1513D022A07B",
+          "author": "Sam Jones",
+          "description": "A new delivery method for certain vaccines could make the lifesaving treatments more effective and accessible\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/this-cheap-device-could-expand-the-worlds-access-to-vaccines/",
+          "publishedOn": "2021-11-16T11:45:00.000Z",
+          "wordCount": null,
+          "title": "This Cheap Device Could Expand the World's Access to Vaccines",
+          "itunes": {}
+        },
+        {
           "id": "C5F7410F-40E0-4E3C-964846F0D7DEDFF1",
           "author": "Emily Willingham",
           "description": "Changes in the activity of immune system genes in the placenta could explain the association, researchers speculate\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -14016,6 +14438,42 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=147420",
+          "author": "Mike Vizard",
+          "description": "Plutora has enhanced its value stream management (VSM) platform to provide dashboards that enable DevOps teams to better optimize application delivery. Jeff Keyes, vice president of product marketing and strategy for Plutora, said dashboards added to the platform will make it possible for application release managers to leverage predictive analytics to manage application delivery in […]\nThe post Plutora Enhances VSM Platform with Release Insights appeared first on DevOps.com.",
+          "link": "https://devops.com/plutora-enhances-vsm-platform-with-release-insights/",
+          "publishedOn": "2021-11-16T19:42:29.000Z",
+          "wordCount": 1015,
+          "title": "Plutora Enhances VSM Platform with Release Insights"
+        },
+        {
+          "id": "https://devops.com/?p=147414",
+          "author": "Mike Vizard",
+          "description": "Nobl9 today unveiled a Hydrogen platform that makes it simpler for DevOps teams to identify technical debt issues as they manage service level objectives (SLOs) as code. Hydrogen enables DevOps teams to define SLOs using a simple wizard or by embedding code within their application as part of a DevOps workflow. That code is then […]\nThe post Nobl9 Adds Hydrogen Platform to Surface Technical Debt Issues appeared first on DevOps.com.",
+          "link": "https://devops.com/nobl9-adds-hydrogen-platform-to-surface-technical-debt-issues/",
+          "publishedOn": "2021-11-16T18:11:03.000Z",
+          "wordCount": 858,
+          "title": "Nobl9 Adds Hydrogen Platform to Surface Technical Debt Issues"
+        },
+        {
+          "id": "https://devops.com/?p=147369",
+          "author": "Tom Tovar",
+          "description": "Mobile fraud is a multibillion-dollar problem that’s only getting worse. One study showed that mobile click fraud alone rose 64% during the first few months of the COVID-19 pandemic. In fact, during the pandemic, about one in five mobile ad clicks were fraudulent. And that’s just one form of mobile fraud. Weaponized botnets, mobile malware, […]\nThe post Stopping Mobile Fraud With Automation and DevSecOps appeared first on DevOps.com.",
+          "link": "https://devops.com/stopping-mobile-fraud-with-automation-and-devsecops/",
+          "publishedOn": "2021-11-16T08:00:01.000Z",
+          "wordCount": 1201,
+          "title": "Stopping Mobile Fraud With Automation and DevSecOps"
+        },
+        {
+          "id": "https://devops.com/?p=147364",
+          "author": "Nati Shalom",
+          "description": "Terraform is widely adopted among both enterprises and service providers who embrace infrastructure-as-code (IaC) as their model for infrastructure provisioning automation in DevOps environments. And while the technology has limitations, innovations seeking to unseat Terraform are highly fragmented and have seen tepid adoption. This points to a market that’s settling on a de-facto standard, so […]\nThe post Building on Terraform: Evolution, not Revolution appeared first on DevOps.com.",
+          "link": "https://devops.com/building-on-terraform-evolution-not-revolution/",
+          "publishedOn": "2021-11-16T07:30:46.000Z",
+          "wordCount": 1670,
+          "title": "Building on Terraform: Evolution, not Revolution"
+        },
+        {
           "id": "https://devops.com/?p=147356",
           "author": "Mike Vizard",
           "description": "Era Software has unfurled a software-as-a-service (SaaS) edition of its platform for collecting and managing log data that is based on a time-series database it built. At the same time, the company has revamped the user interface of the underlying EraSearch log management platform that IT teams can deploy themselves to make it simpler to […]\nThe post Era Software Adds SaaS Edition of Log Management Platform appeared first on DevOps.com.",
@@ -15292,6 +15750,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=110321",
+          "author": "Katie McCormick",
+          "description": "Quantum bits are fussy and fragile. Useful quantum computers will need to use an error-correction technique like the one that was recently demonstrated on a real machine.            \nThe post How Quantum Computers Will Correct Their Errors first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-quantum-computers-will-correct-their-errors-20211116/",
+          "publishedOn": "2021-11-16T15:41:37.000Z",
+          "wordCount": null,
+          "title": "How Quantum Computers Will Correct Their Errors",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=110318",
           "author": "Anil Ananthaswamy",
           "description": "Results from neural networks support the idea that brains are “prediction machines” — and that they work that way to conserve energy.             \nThe post To Be Energy-Efficient, Brains Predict Their Perceptions first appeared on Quanta Magazine",
@@ -15598,6 +16066,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66054",
+          "author": "Nathan Yau",
+          "description": "David Leonhardt for The New York Times looked at the partisan gap for…\nTags: coronavirus, David Leonhardt, New York Times, partisanship",
+          "link": "https://flowingdata.com/2021/11/16/partisan-gap-in-covid-death-counts/",
+          "publishedOn": "2021-11-16T08:37:58.000Z",
+          "wordCount": 364,
+          "title": "Partisan gap in Covid death counts"
+        },
         {
           "id": "https://flowingdata.com/?p=66050",
           "author": "Nathan Yau",
