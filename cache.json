@@ -40,6 +40,51 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=356895",
+          "author": "Chris Coyier",
+          "description": "I feel like half of all “custom-designed radio buttons and checkboxes” do two things:\nMake them bigger\nColorize them\nI always think of SurveyMonkey for having big chunky radios and checkboxes. And indeed, just poking at their interface quickly, even …\nThe post Zero Trickery Custom Radios and Checkboxes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/zero-trickery-custom-radios-and-checkboxes/",
+          "publishedOn": "2021-11-18T00:16:17.000Z",
+          "wordCount": 632,
+          "title": "Zero Trickery Custom Radios and Checkboxes"
+        },
+        {
+          "id": "https://css-tricks.com/?p=356885",
+          "author": "Chris Coyier",
+          "description": "Like this: <input type=\"search\">\nYou get an extra-round-y appearance in Safari, which at one time matched the macOS look for search inputs, but not really anymore. I don’t hate the look, except…\nSafari totally ignores the font-size you set on \n…\nThe post What do you get for using a search input type? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/what-do-you-get-for-using-a-search-input-type/",
+          "publishedOn": "2021-11-17T23:09:46.000Z",
+          "wordCount": 638,
+          "title": "What do you get for using a search input type?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=356700",
+          "author": "Tobias Günther",
+          "description": "In part 5 of this series, we looked at rebasing and merging. Although there are a couple of differences between git merge and git rebase, both commands have the same goal: they integrate changes from one branch into another.\nThe post Cherry-Picking Commits in Git appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/cherry-picking-commits-in-git/",
+          "publishedOn": "2021-11-17T15:28:22.000Z",
+          "wordCount": 1350,
+          "title": "Cherry-Picking Commits in Git"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357023",
+          "author": "Chris Coyier",
+          "description": "Egor Kloos describes a situation where a (purely visual) designer asks for some changes to a component. There is a misunderstanding where the (code monkey) developer implements the change exactly as requested—but really what was required was both a bug …\nThe post The Gap (Design Engineering) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/the-gap-design-engineering/",
+          "publishedOn": "2021-11-17T15:27:19.000Z",
+          "wordCount": 647,
+          "title": "The Gap (Design Engineering)"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357053",
+          "author": "Chris Coyier",
+          "description": "Upon hearing “sticky footer” these days, I would think most people imagine a position: sticky situation where a footer element appears fixed on the screen while in the scrolling context of some parent element.\nThat’s not quite what I’m talking …\nThe post A Clever Sticky Footer Technique appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/a-clever-sticky-footer-technique/",
+          "publishedOn": "2021-11-17T00:49:00.000Z",
+          "wordCount": 846,
+          "title": "A Clever Sticky Footer Technique"
+        },
+        {
           "id": "https://css-tricks.com/?p=356849",
           "author": "Geoff Graham",
           "description": "Mary Dyson produces nitty gritty research on the long-accepted notion that shorter line lengths are more legible than longer ones. The study finds that shorter lines do not necessarily lead to faster reading. If you’re looking for a definitive answer …\nThe post Line length revisited: following the research appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -1009,6 +1054,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "617a6ef033422e07df3667f4",
+          "author": null,
+          "description": "In this article, I'm going to share with you what I've learned so far at my first programming job as a junior full-stack developer.  Ever since my developer career began in July, 2021 I've been learning constantly. And I'm gonna share some tips from my experiences so that you can",
+          "link": "https://www.freecodecamp.org/news/what-ive-learned-at-my-first-developer-job/",
+          "publishedOn": "2021-11-18T00:08:02.000Z",
+          "wordCount": 1971,
+          "title": "I Got My First Developer Job – Here&#x27;s What I&#x27;ve Learned So Far"
+        },
+        {
+          "id": "618fda8c11d3cb08287a5a51",
+          "author": null,
+          "description": "One of the first steps many young startups take is setting up a static web page, perhaps with an email newsletter, to help them build an audience.  As the weeks go by and the MVP is getting further along, the subject of how to handle payments will eventually emerge. From",
+          "link": "https://www.freecodecamp.org/news/serverless-online-payments/",
+          "publishedOn": "2021-11-17T20:54:10.000Z",
+          "wordCount": 1327,
+          "title": "How to Set Up Serverless Online Payments with Netlify and Stripe"
+        },
+        {
+          "id": "618eaede11d3cb08287a51c8",
+          "author": null,
+          "description": "About a year back, I was just about ready to release Caer, a Computer Vision library in Python that would be publicly available on PyPi. But first, I decided to send it to a friend in Alberta to tinker around with it. A few days later, I found that he",
+          "link": "https://www.freecodecamp.org/news/why-you-should-start-using-docker-now/",
+          "publishedOn": "2021-11-17T20:42:19.000Z",
+          "wordCount": 982,
+          "title": "Why You Should Start Using Docker Right Now"
+        },
+        {
+          "id": "6194a7d111d3cb08287a7a03",
+          "author": null,
+          "description": "Every computer or device that you can use to surf the web has an IP address assigned to it. This IP address allows the device to be identified on the internet or within a local area network.  But sometimes, you might get an error that says your Ethernet doesn't have",
+          "link": "https://www.freecodecamp.org/news/ethernet-doesnt-have-a-valid-ip-configuration-how-to-fix-invalid-connection-in-windows-10/",
+          "publishedOn": "2021-11-17T18:40:14.000Z",
+          "wordCount": 871,
+          "title": "Ethernet Doesn&#x27;t Have a Valid IP Configuration – How to Fix Invalid Connection in Windows 10"
+        },
+        {
+          "id": "61912f8811d3cb08287a6037",
+          "author": null,
+          "description": "Passing the AWS Certified Cloud Practitioner Exam is one of the first steps to a career in cloud development. And freeCodeCamp just published my free 12-hour course that will help you prepare for the exam.  This exam mostly deals with cloud computing concepts. Even if you are new to coding,",
+          "link": "https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-certification-study-course-pass-the-exam/",
+          "publishedOn": "2021-11-17T14:13:55.000Z",
+          "wordCount": 841,
+          "title": "AWS Certified Cloud Practitioner Study Course – Pass the Exam With This Free 13-Hour Course"
+        },
         {
           "id": "618f31ff11d3cb08287a562a",
           "author": null,
@@ -2439,6 +2529,159 @@
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
         {
+          "id": "https://hackernoon.com/how-to-select-a-crypto-exchange-for-beginners-to-crypto?source=rss",
+          "author": "Samiran Mondal",
+          "description": "Choosing a crypto exchange to start trading cryptocurrencies can be difficult. Picking the right one requires you to consider these factors to suit your needs.",
+          "link": "https://hackernoon.com/how-to-select-a-crypto-exchange-for-beginners-to-crypto?source=rss",
+          "publishedOn": "2021-11-17T10:04:25.000Z",
+          "wordCount": 979,
+          "title": "How to Select a Crypto Exchange for Beginners to Crypto"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-build-a-content-marketing-funnel-on-instagram?source=rss",
+          "author": "Klara",
+          "description": "Content funnel is intended to incite interest among your old followers, attract new ones and convert them into customers.",
+          "link": "https://hackernoon.com/how-to-build-a-content-marketing-funnel-on-instagram?source=rss",
+          "publishedOn": "2021-11-17T08:18:33.000Z",
+          "wordCount": 3001,
+          "title": "How to Build a Content Marketing Funnel on Instagram"
+        },
+        {
+          "id": "https://hackernoon.com/bitcoin-bull-markets-always-end?source=rss",
+          "author": "Mark",
+          "description": "When everybody starts saying this, you will want to believe it. Do so at your own peril.",
+          "link": "https://hackernoon.com/bitcoin-bull-markets-always-end?source=rss",
+          "publishedOn": "2021-11-17T07:55:50.000Z",
+          "wordCount": 1653,
+          "title": "Bitcoin Bull Markets Always End"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-create-cleaner-air-through-software?source=rss",
+          "author": "Shawn Gordon",
+          "description": "How to quickly, easily, and inexpensively make positive change for the climate",
+          "link": "https://hackernoon.com/how-to-create-cleaner-air-through-software?source=rss",
+          "publishedOn": "2021-11-17T07:45:56.000Z",
+          "wordCount": 1920,
+          "title": "How to Create Cleaner Air through Software"
+        },
+        {
+          "id": "https://hackernoon.com/duelist-king-nominated-as-blockchain-game-dev-of-the-year?source=rss",
+          "author": null,
+          "description": "Nicole Nguyen is the co-founder of Duelist King, the first NFT game powered by Dual Launch via OccamRazer IDO and PancakeSwap IFO.",
+          "link": "https://hackernoon.com/duelist-king-nominated-as-blockchain-game-dev-of-the-year?source=rss",
+          "publishedOn": "2021-11-17T07:32:10.000Z",
+          "wordCount": 925,
+          "title": "Duelist King Nominated as Blockchain Game Dev of the Year"
+        },
+        {
+          "id": "https://hackernoon.com/offshore-credit-card-processing-what-are-the-most-common-mistakes-people-make?source=rss",
+          "author": "shreyjain",
+          "description": "What are the most common mistakes that people make in off shore credit card processing? Did they read the terms and conditions? Have they seen any hidden fees?",
+          "link": "https://hackernoon.com/offshore-credit-card-processing-what-are-the-most-common-mistakes-people-make?source=rss",
+          "publishedOn": "2021-11-17T07:26:10.000Z",
+          "wordCount": 973,
+          "title": "Offshore Credit Card Processing: What Are the Most Common Mistakes People Make?"
+        },
+        {
+          "id": "https://hackernoon.com/launching-a-new-play-to-earn-game-studio?source=rss",
+          "author": "metapunk",
+          "description": "We're really excited to break cover and launch a new video game studio dedicated to developing large play-to-earn worlds.",
+          "link": "https://hackernoon.com/launching-a-new-play-to-earn-game-studio?source=rss",
+          "publishedOn": "2021-11-17T07:21:56.000Z",
+          "wordCount": 902,
+          "title": "Launching a New Play-to-Earn Game Studio"
+        },
+        {
+          "id": "https://hackernoon.com/implementing-authentication-in-an-angular-application-using-auth0?source=rss",
+          "author": "Rodrigo Kamada",
+          "description": "Learn how to implement authentication in an Angular application using Auth0.",
+          "link": "https://hackernoon.com/implementing-authentication-in-an-angular-application-using-auth0?source=rss",
+          "publishedOn": "2021-11-17T05:54:44.000Z",
+          "wordCount": 904,
+          "title": "Implementing Authentication in an Angular Application Using Auth0"
+        },
+        {
+          "id": "https://hackernoon.com/when-its-ok-to-wear-a-bathrobe-to-a-remote-team-meeting?source=rss",
+          "author": "Behzad Sharifi",
+          "description": "Here are some remote work tips on how to get the results without sacrificing your personal life.",
+          "link": "https://hackernoon.com/when-its-ok-to-wear-a-bathrobe-to-a-remote-team-meeting?source=rss",
+          "publishedOn": "2021-11-17T05:41:45.000Z",
+          "wordCount": 1823,
+          "title": "When It’s Ok to Wear a Bathrobe to a Remote Team Meeting"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-get-started-using-the-eyedropper-api-with-javascript?source=rss",
+          "author": "Kilian Valkhof",
+          "description": "With the new EyeDropper API in Chromium, websites can let visitors pick colors from anywhere on their screen",
+          "link": "https://hackernoon.com/how-to-get-started-using-the-eyedropper-api-with-javascript?source=rss",
+          "publishedOn": "2021-11-17T00:13:42.000Z",
+          "wordCount": 916,
+          "title": "How to Get Started Using the EyeDropper API with JavaScript"
+        },
+        {
+          "id": "https://hackernoon.com/soul-calibur-legacy-and-review-sega-dreamcast?source=rss",
+          "author": "Stefano Pavone",
+          "description": "This overlooked chapter in the long-running Soul series gets a second lease of life with this review.",
+          "link": "https://hackernoon.com/soul-calibur-legacy-and-review-sega-dreamcast?source=rss",
+          "publishedOn": "2021-11-17T00:03:58.000Z",
+          "wordCount": 876,
+          "title": "Soul Calibur Legacy & Review (Sega Dreamcast)"
+        },
+        {
+          "id": "https://hackernoon.com/why-you-should-use-laravel-php-framework-for-web-development?source=rss",
+          "author": "Aelius Venture",
+          "description": "Comprehensive guide to web development using laravel framework.",
+          "link": "https://hackernoon.com/why-you-should-use-laravel-php-framework-for-web-development?source=rss",
+          "publishedOn": "2021-11-16T23:28:15.000Z",
+          "wordCount": 923,
+          "title": "Why You Should Use Laravel PHP Framework for Web Development"
+        },
+        {
+          "id": "https://hackernoon.com/meet-john-jardin-noonies2021-nominee-full-stack-developer-ceo-of-agilit-e?source=rss",
+          "author": "John Jardin",
+          "description": "Through his 21 year journey as a developer, John Jardin has managed over 350 projects for various companies. Learn more via this exclusive interview.",
+          "link": "https://hackernoon.com/meet-john-jardin-noonies2021-nominee-full-stack-developer-ceo-of-agilit-e?source=rss",
+          "publishedOn": "2021-11-16T21:31:53.000Z",
+          "wordCount": 936,
+          "title": "Meet John Jardin - #Noonies2021 Nominee, Full Stack Developer, CEO of Agilit-e"
+        },
+        {
+          "id": "https://hackernoon.com/meet-derek-lim-noonie2021-nominee-founder-of-crypto-research-community-fincade?source=rss",
+          "author": "Derek Lim",
+          "description": "\"Blockchain, Blockchain, Blockchain\" - CEO of Verse.",
+          "link": "https://hackernoon.com/meet-derek-lim-noonie2021-nominee-founder-of-crypto-research-community-fincade?source=rss",
+          "publishedOn": "2021-11-16T19:59:42.000Z",
+          "wordCount": 983,
+          "title": "Meet Derek Lim - #Noonie2021 Nominee, Founder of Crypto Research Community Fincade"
+        },
+        {
+          "id": "https://hackernoon.com/unboxing-the-metaverse?source=rss",
+          "author": "Geek on record",
+          "description": "Let’s unbox the metaverse vision, go deeper into what it’s trying to convey and offer a realistic perspective on how that future could be accomplished.",
+          "link": "https://hackernoon.com/unboxing-the-metaverse?source=rss",
+          "publishedOn": "2021-11-16T19:40:10.000Z",
+          "wordCount": 974,
+          "title": "Scene by Scene Feasibility Breakdown of Facebook's Metaverse at Work Video"
+        },
+        {
+          "id": "https://hackernoon.com/does-politics-improve-technology?source=rss",
+          "author": "Jack Boreham",
+          "description": "In this Slogging post, the team at hackernoon discuss how politics is impacting technology and how political affairs may impact tech far into the future.",
+          "link": "https://hackernoon.com/does-politics-improve-technology?source=rss",
+          "publishedOn": "2021-11-16T19:31:30.000Z",
+          "wordCount": 2726,
+          "title": "Does Politics Improve Technology?"
+        },
+        {
+          "id": "https://hackernoon.com/meet-mark-helfman-noonie2021-nominee-crypto-writer-owner-of-crypto-is-easy-newsletter?source=rss",
+          "author": "Mark",
+          "description": "From a career in politics to book publishing and crypto writing, Noonie nominee Mark Helfman shares his insights on crypto, finance, business, & more.",
+          "link": "https://hackernoon.com/meet-mark-helfman-noonie2021-nominee-crypto-writer-owner-of-crypto-is-easy-newsletter?source=rss",
+          "publishedOn": "2021-11-16T19:04:50.000Z",
+          "wordCount": 994,
+          "title": "Meet Mark Helfman: #Noonie2021 Nominee, Crypto Writer, Owner of \"Crypto is Easy\" Newsletter"
+        },
+        {
           "id": "https://hackernoon.com/using-space-invaders-to-prove-all-games-are-educational?source=rss",
           "author": "Mathew Georghiou",
           "description": "Are all games educational? Are games a guilty pleasure or an unparalleled learning experience? Here’s the answer using Space Invaders as an example.",
@@ -2536,6 +2779,15 @@
           "publishedOn": "2021-11-16T10:02:09.000Z",
           "wordCount": 3830,
           "title": "10 Logical Fallacies and Cognitive Biases Blocking Your Creativity"
+        },
+        {
+          "id": "https://hackernoon.com/why-studying-google-devops-and-blockchain-tech-will-prepare-you-for-the-future?source=rss",
+          "author": "Super Saiyan Programming",
+          "description": "For a limited time, you can get The Google DevOps & Blockchain Developer Bundle for just $29.99.",
+          "link": "https://hackernoon.com/why-studying-google-devops-and-blockchain-tech-will-prepare-you-for-the-future?source=rss",
+          "publishedOn": "2021-11-16T05:44:30.000Z",
+          "wordCount": 1467,
+          "title": "Why Studying Google DevOps and Blockchain Tech Will Prepare You for the Future"
         },
         {
           "id": "https://hackernoon.com/becoming-a-game-designer-is-more-attainable-than-you-think?source=rss",
@@ -7662,6 +7914,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=147649",
+          "author": "ACMer",
+          "description": "There are n rooms labeled from 0 to n – 1 and all the rooms are locked except for room 0. Your goal is to visit all the rooms. However, you cannot enter a locked room without having its key....\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-dfs-and-bfs-algorithm-in-a-graph-unlock-rooms-with-keys/",
+          "publishedOn": "2021-11-17T21:15:44.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Graph Traversal Algorithms in DFS or BFS (Unlock Rooms with Keys)",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=147621",
           "author": "ACMer",
           "description": "Introduction to Minimum Spanning Tree MST Previously, we have talked about the Kruskal’s MST Algorithm: Teaching Kids Programming – Introduction to Kruskal’s Minimum Spanning Tree (Graph...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -8430,16 +8692,6 @@
           "wordCount": null,
           "title": "How to improve your security when gambling online?",
           "itunes": {}
-        },
-        {
-          "id": "https://helloacm.com/?p=146358",
-          "author": "ACMer",
-          "description": "Given an m x n integer matrix matrix, if an element is 0, set its entire row and column to 0’s, and return the matrix. You must do it in place. Algorithm to Set Matrix to Zeros in Place We need...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
-          "link": "https://helloacm.com/teaching-kids-programming-set-matrix-zeroes/",
-          "publishedOn": "2021-08-19T18:55:20.000Z",
-          "wordCount": null,
-          "title": "Teaching Kids Programming – Set Matrix Zeroes",
-          "itunes": {}
         }
       ]
     },
@@ -8448,6 +8700,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=507792",
+          "author": "Robin Kearey",
+          "description": "For busy people, keeping track of all the tasks on your to-do list can be a daunting task in itself. Luckily there’s software to help you keep organized, but it’s …read more",
+          "link": "https://hackaday.com/2021/11/17/nixie-tube-indicator-tells-you-how-many-tasks-youve-got-left-to-do/",
+          "publishedOn": "2021-11-18T00:00:26.000Z",
+          "wordCount": 1367,
+          "title": "Nixie Tube Indicator Tells You How Many Tasks You’ve Got Left to do"
+        },
+        {
+          "id": "https://hackaday.com/?p=507833",
+          "author": "Lewin Day",
+          "description": "It’s a truth universally acknowledged that sometimes a little music can add much to a nice afternoon picnic. It’s also well-known that meat cooked over hot coals should be turned …read more",
+          "link": "https://hackaday.com/2021/11/17/finally-a-piano-bbq-grill-that-you-can-drive-around-the-workshop/",
+          "publishedOn": "2021-11-17T21:00:03.000Z",
+          "wordCount": 1571,
+          "title": "Finally, A Piano BBQ Grill That You Can Drive Around the Workshop"
+        },
+        {
+          "id": "https://hackaday.com/?p=507777",
+          "author": "Tom Nardi",
+          "description": "With just a few days to go before the kickoff of the 2021 Hackaday Remoticon, we’re still working furiously behind the scenes to pack as much content as possible into …read more",
+          "link": "https://hackaday.com/2021/11/17/friday-getting-social-with-discord-and-bring-a-hack/",
+          "publishedOn": "2021-11-17T19:30:09.000Z",
+          "wordCount": 1896,
+          "title": "Friday: Getting Social with Discord and Bring-a-Hack"
+        },
+        {
+          "id": "https://hackaday.com/?p=504076",
+          "author": "Maya Posch",
+          "description": "One could be excused for thinking sometimes that the concept of connecting devices with other devices for automation purposes is a fairly recent invention. Yet for all the (relatively) recent …read more",
+          "link": "https://hackaday.com/2021/11/17/scpi-on-teaching-your-devices-the-lingua-franca-of-laboratories/",
+          "publishedOn": "2021-11-17T18:01:27.000Z",
+          "wordCount": 3207,
+          "title": "SCPI: On Teaching Your Devices The Lingua Franca Of Laboratories"
+        },
+        {
+          "id": "https://hackaday.com/?p=507254",
+          "author": "Kristina Panos",
+          "description": "When we last checked in with prolific prototypist [Eric Strebel], he was perfecting the design of an eco-friendly wireless charger and turning his initial paper prototype into a chipboard version …read more",
+          "link": "https://hackaday.com/2021/11/17/how-to-make-a-classy-brassy-cardboard-pulp-mold/",
+          "publishedOn": "2021-11-17T16:30:00.000Z",
+          "wordCount": 1324,
+          "title": "How to Make a Classy, Brassy Cardboard Pulp Mold"
+        },
+        {
+          "id": "https://hackaday.com/?p=507720",
+          "author": "Lewin Day",
+          "description": "On the morning of November 15, a Russian missile destroyed a satellite in orbit above Earth.  The successful test of the anti-satellite weapon has infuriated many in the space industry, …read more",
+          "link": "https://hackaday.com/2021/11/17/russian-anti-satellite-weapon-test-draws-widespread-condemnation/",
+          "publishedOn": "2021-11-17T15:00:29.000Z",
+          "wordCount": 3442,
+          "title": "Russian Anti-Satellite Weapon Test Draws Widespread Condemnation"
+        },
+        {
+          "id": "https://hackaday.com/?p=507704",
+          "author": "Tom Nardi",
+          "description": "There’s going to be a new Matrix movie in theaters next month, and you know what that means: we’re about to see a whole new generation get obsessed with the …read more",
+          "link": "https://hackaday.com/2021/11/17/arduino-library-makes-digital-rain-like-its-1999/",
+          "publishedOn": "2021-11-17T12:00:00.000Z",
+          "wordCount": 1908,
+          "title": "Arduino Library Makes Digital Rain Like It’s 1999"
+        },
         {
           "id": "https://hackaday.com/?p=507471",
           "author": "Adam Zeloof",
@@ -11462,6 +11777,86 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "25281AEC-B91F-414C-96FDE17B5CCC9EA0",
+          "author": "Nick Sobczyk, E&E News",
+          "description": "The Kigali Amendment, supported by the cooling industry, has finally been sent for ratification\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/international-treaty-to-phase-out-potent-greenhouse-gas-goes-to-the-senate/",
+          "publishedOn": "2021-11-17T19:00:00.000Z",
+          "wordCount": null,
+          "title": "International Treaty to Phase Out Potent Greenhouse Gas Goes to the Senate",
+          "itunes": {}
+        },
+        {
+          "id": "9C0D41EC-7C17-41A0-AEC37A97555142B6",
+          "author": "Emily Sohn",
+          "description": "From conjunctivitis to vertigo, coronavirus infections can affect disparate senses\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/covid-can-cause-strange-eye-and-ear-symptoms/",
+          "publishedOn": "2021-11-17T17:30:00.000Z",
+          "wordCount": null,
+          "title": "COVID Can Cause Strange Eye and Ear Symptoms",
+          "itunes": {}
+        },
+        {
+          "id": "F1775B2E-1F64-43F4-A3676996751CE2B9",
+          "author": "Melba Newsome",
+          "description": "Eliminating disparities in routine examinations will require outreach, availability and cultural consideration\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/we-must-improve-equity-in-cancer-screening/",
+          "publishedOn": "2021-11-17T17:00:00.000Z",
+          "wordCount": null,
+          "title": "We Must Improve Equity in Cancer Screening",
+          "itunes": {}
+        },
+        {
+          "id": "E4451601-4467-4D56-8398D44172B57281",
+          "author": "Lauren Gravitz",
+          "description": "Despite the vast resources aimed at finding ways to detect cancer early, more needs to be done\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-importance-of-spotting-cancers-warning-signs/",
+          "publishedOn": "2021-11-17T15:00:00.000Z",
+          "wordCount": null,
+          "title": "The Importance of Spotting Cancer's Warning Signs",
+          "itunes": {}
+        },
+        {
+          "id": "5A2C6EE3-99F5-41F4-B5C93F77B7DDA2EC",
+          "author": "Nathaniel J. Dominy",
+          "description": "Studies of living and mummified baboons hint at why ancient Egyptians revered these pesky primates and uncover the probable location of the fabled kingdom from which they imported the animals\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/mysteries-of-ancient-egypts-sacred-baboons-revealed/",
+          "publishedOn": "2021-11-17T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Mysteries of Ancient Egypt's Sacred Baboons Revealed",
+          "itunes": {}
+        },
+        {
+          "id": "E77751CE-A496-42DD-A5773DDA90CD2611",
+          "author": "Rachel Nuwer",
+          "description": "An assessment of chimpanzees, gorillas and bonobos reveals that our economic “footprint” is the primary driver of great apes’ fate\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/great-apes-biggest-threat-is-human-activity-not-habitat-loss/",
+          "publishedOn": "2021-11-17T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Great Apes' Biggest Threat Is Human Activity, Not Habitat Loss",
+          "itunes": {}
+        },
+        {
+          "id": "12C1E07F-3C0F-4C4C-B6709C0465E0136E",
+          "author": "Jonathan O'Callaghan",
+          "description": "A privately funded telescope called Toliman will seek habitable worlds in our nearest neighboring star system, potentially sparking a new wave of exoplanetary exploration\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/scientists-plan-private-mission-to-hunt-for-earths-around-alpha-centauri/",
+          "publishedOn": "2021-11-17T12:30:00.000Z",
+          "wordCount": null,
+          "title": "Scientists Plan Private Mission to Hunt for Earths around Alpha Centauri",
+          "itunes": {}
+        },
+        {
+          "id": "E122378A-14DA-4D85-8D410124F4D5EA32",
+          "author": "Steven Ashley",
+          "description": "An ultraporous humidity sponge could provide 300 gallons of fresh water a day\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/portable-oasis-extracts-water-from-dry-desert-air/",
+          "publishedOn": "2021-11-17T11:45:00.000Z",
+          "wordCount": null,
+          "title": "'Portable Oasis' Extracts Water from Dry Desert Air",
+          "itunes": {}
+        },
+        {
           "id": "2A11B637-A290-4482-885800634CFC6424",
           "author": "Sara Schonhardt, E&E News",
           "description": "The third-largest carbon emitter argues it is balancing phasing out fossil fuels with meeting growing energy needs\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -14438,6 +14833,51 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=147466",
+          "author": "Mike Vizard",
+          "description": "LogicMonitor today announced it will provide an option that allows IT organizations to retain an unlimited amount of log data on its software-as-a-service (SaaS) platform. Tej Redkar, chief product officer at LogicMonitor, said one of the issues that is holding back advances in observability is the cost of storing log data. LogicMonitor has decided to […]\nThe post LogicMonitor Introduces Unlimited Log Data Retention appeared first on DevOps.com.",
+          "link": "https://devops.com/logicmonitor-introduces-unlimited-log-data-retention/",
+          "publishedOn": "2021-11-17T22:38:53.000Z",
+          "wordCount": 1010,
+          "title": "LogicMonitor Introduces Unlimited Log Data Retention"
+        },
+        {
+          "id": "https://devops.com/?p=147449",
+          "author": "Veronica Haggar",
+          "description": "Techstrong Group has unveiled the list of finalists for the DevOps Dozen² Awards 2021 and has officially opened public voting to determine the winners in each of the 24 award categories. Boca Raton, Fla.—November 17, 2021—Techstrong Group, the power source for people and technology, has announced the finalists for the 24 categories in the seventh […]\nThe post Finalists Named in Techstrong Group’s DevOps Dozen² Awards 2021 appeared first on DevOps.com.",
+          "link": "https://devops.com/finalists-named-in-techstrong-groups-devops-dozen%c2%b2-awards-2021/",
+          "publishedOn": "2021-11-17T13:30:53.000Z",
+          "wordCount": 1424,
+          "title": "Finalists Named in Techstrong Group’s DevOps Dozen² Awards 2021"
+        },
+        {
+          "id": "https://devops.com/?p=147448",
+          "author": "Alan Shimel",
+          "description": "Today, we are delighted to announce the finalists of the DevOps Dozen² Awards 2021, celebrating the greatest innovators and their achievements in the DevOps space. Despite the many challenges of the past year, these individuals and companies have taken an active role in the DevOps community, demonstrating their leadership and commitment to the improvement of […]\nThe post DevOps Dozen² 2021 Finalists Announced appeared first on DevOps.com.",
+          "link": "https://devops.com/devops-dozen%c2%b2-2021-finalists-announced/",
+          "publishedOn": "2021-11-17T13:30:37.000Z",
+          "wordCount": 1218,
+          "title": "DevOps Dozen² 2021 Finalists Announced"
+        },
+        {
+          "id": "https://devops.com/?p=147412",
+          "author": "Sagar Shah",
+          "description": "Companies continue to grapple with how to use artificial intelligence (AI) technology in a way that doesn’t compromise privacy and that takes into account other key ethical considerations. It is undeniable that AI is one of the fastest-growing categories today. But if we are unable to build tools that live up to high ethical standards, […]\nThe post 4 Keys to Developing Ethical AI appeared first on DevOps.com.",
+          "link": "https://devops.com/4-keys-to-developing-ethical-ai/",
+          "publishedOn": "2021-11-17T08:00:44.000Z",
+          "wordCount": 1435,
+          "title": "4 Keys to Developing Ethical AI"
+        },
+        {
+          "id": "https://devops.com/?p=147406",
+          "author": "Yonatan Eldar",
+          "description": "It’s no secret that cloud-native application development is growing exponentially, with Agile development, IaaS and PaaS from providers like Amazon, Microsoft and Google, enabling innovation at a pace that is challenging for security to keep up with.  A global pandemic and the resulting remote work mandates have only accelerated this movement. And with this change […]\nThe post Mastering the Shared Responsibility Model appeared first on DevOps.com.",
+          "link": "https://devops.com/mastering-the-shared-responsibility-model/",
+          "publishedOn": "2021-11-17T07:30:52.000Z",
+          "wordCount": 1365,
+          "title": "Mastering the Shared Responsibility Model"
+        },
+        {
           "id": "https://devops.com/?p=147420",
           "author": "Mike Vizard",
           "description": "Plutora has enhanced its value stream management (VSM) platform to provide dashboards that enable DevOps teams to better optimize application delivery. Jeff Keyes, vice president of product marketing and strategy for Plutora, said dashboards added to the platform will make it possible for application release managers to leverage predictive analytics to manage application delivery in […]\nThe post Plutora Enhances VSM Platform with Release Insights appeared first on DevOps.com.",
@@ -15750,6 +16190,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=110324",
+          "author": "Steve Nadis",
+          "description": "Ana Caraiani seeks to unify mathematics through her work on the ambitious Langlands program.            \nThe post The Mathematician Who Delights in Building Bridges first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/ana-caraiani-delights-in-building-mathematical-bridges-20211117/",
+          "publishedOn": "2021-11-17T17:22:13.000Z",
+          "wordCount": null,
+          "title": "The Mathematician Who Delights in Building Bridges",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=110321",
           "author": "Katie McCormick",
           "description": "Quantum bits are fussy and fragile. Useful quantum computers will need to use an error-correction technique like the one that was recently demonstrated on a real machine.            \nThe post How Quantum Computers Will Correct Their Errors first appeared on Quanta Magazine",
@@ -16066,6 +16516,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66068",
+          "author": "Nathan Yau",
+          "description": "Pitch Interactive and the Census 2020 Data Co-op, supported by the Google News…\nTags: census, Google News Initiative, Pitch Interactive, population, race",
+          "link": "https://flowingdata.com/2021/11/17/census-mapper-a-tool-to-visualize-population-and-racial-shifts/",
+          "publishedOn": "2021-11-17T16:11:21.000Z",
+          "wordCount": 358,
+          "title": "Census Mapper, a tool to visualize population and racial shifts"
+        },
         {
           "id": "https://flowingdata.com/?p=66054",
           "author": "Nathan Yau",
@@ -16532,6 +16991,33 @@
       "feedUrl": "https://github.com/readme.rss",
       "siteUrl": "https://github.com/readme",
       "articles": [
+        {
+          "id": "https://github.com/readme/featured/call-for-code",
+          "author": null,
+          "description": "This year’s @CallforCode winner, Saaf Water, uses open source technology that allows communities to test drinking water safety. Read more about @saafwater, and the growing Tech for Good movement on...",
+          "link": "https://github.com/readme/featured/call-for-code",
+          "publishedOn": "2021-11-16T17:40:00.000Z",
+          "wordCount": 2085,
+          "title": "Open Source is enabling the \"Tech for Good\" movement"
+        },
+        {
+          "id": "https://github.com/readme/stories/liyas-thomas",
+          "author": null,
+          "description": "Liyas @liyasthomas scoured 100+ websites to teach himself how to be a developer—one of his many pursuits (which also include artist, mason, construction worker, and chef). Learn his full story on T...",
+          "link": "https://github.com/readme/stories/liyas-thomas",
+          "publishedOn": "2021-11-16T17:30:00.000Z",
+          "wordCount": 1778,
+          "title": "Hoppscotch’s maintainer builds open solutions for all"
+        },
+        {
+          "id": "https://github.com/readme/stories/cassidy-williams",
+          "author": null,
+          "description": "For @cassidoo, open source is all about building relationships, teaching, learning, and finding communities everywhere she codes. Get her full story on The ReadME Project:",
+          "link": "https://github.com/readme/stories/cassidy-williams",
+          "publishedOn": "2021-11-16T17:30:00.000Z",
+          "wordCount": 2610,
+          "title": "Lift as you climb"
+        },
         {
           "id": "https://github.com/readme/guides/developer-onboarding",
           "author": null,
