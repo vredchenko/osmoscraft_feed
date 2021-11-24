@@ -40,6 +40,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=357412",
+          "author": "Chris Coyier",
+          "description": "Tyler Sticka digs in here in the best possible way: by making a test page and literally measuring performance. Maybe 1,000 icons is a little bit of an edge case, but hey, 250 rows of data with four icons in …\nThe post Which SVG technique performs best for way too many icons? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/which-svg-technique-performs-best-for-way-too-many-icons/",
+          "publishedOn": "2021-11-23T19:21:28.000Z",
+          "wordCount": 461,
+          "title": "Which SVG technique performs best for way too many icons?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=356977",
+          "author": "Alaa Abd El-Rahim",
+          "description": "Many business websites need a multilingual setup. As with anything development-related, implementing one in an easy, efficient, and maintainable way is desirable. Designing and developing to be ready for multiple languages, whether it happens right at launch or is expected …\nThe post Control Layout in a Multi-Directional Website appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/control-layout-in-a-multi-directional-website/",
+          "publishedOn": "2021-11-23T16:06:44.000Z",
+          "wordCount": 4037,
+          "title": "Control Layout in a Multi-Directional Website"
+        },
+        {
           "id": "https://css-tricks.com/?p=357149",
           "author": "Chris Coyier",
           "description": "Inspired by Eva PenzeyMoog’s new book, Jeremy highlights the widespread user tracking situation in this industry:\nThere was a line that really stood out to me: \nThe idea that it’s alright to do whatever unethical thing is currently the \n…\nThe post On User Tracking and Industry Standards on Privacy appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -1126,6 +1144,60 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "6197c7ce11d3cb08287a9271",
+          "author": null,
+          "description": "I’m an AI researcher, and I’ve received quite a few emails asking me just how much math is required in Artificial Intelligence. I won’t lie: it’s a lot of math. And this is one of the reasons AI puts off many beginners. After much research and",
+          "link": "https://www.freecodecamp.org/news/all-the-math-you-need-in-artificial-intelligence/",
+          "publishedOn": "2021-11-24T00:12:40.000Z",
+          "wordCount": 1041,
+          "title": "All the Math You Need to Know in Artificial Intelligence"
+        },
+        {
+          "id": "619bb55911d3cb08287aa581",
+          "author": null,
+          "description": "In this talk, CTO Cornelia Davis will teach you what GitOps is and what its four main principles are.  What is GitOps?The first thing you need to know is that GitOps is a set of modern best practises for deploying and managing cloud native infrastructure and applications.  And it",
+          "link": "https://www.freecodecamp.org/news/gitops-principles-kubernetes-workflow/",
+          "publishedOn": "2021-11-23T22:50:29.000Z",
+          "wordCount": 617,
+          "title": "What is GitOps? Principles, Best Practices, and Kubernetes Workflow"
+        },
+        {
+          "id": "619cb4e711d3cb08287ab00c",
+          "author": null,
+          "description": "What if you plug in your headphones to listen to your favorite music, watch a movie, or do something else and your computer fails to recognize the headphones? That's frustrating.  Your computer not recognizing your headphones is a fairly common issue in Windows 10 PCs.  It could be caused by",
+          "link": "https://www.freecodecamp.org/news/computer-not-recognizing-headphones-windows-10-pc-headphone-tutorial/",
+          "publishedOn": "2021-11-23T15:47:53.000Z",
+          "wordCount": 716,
+          "title": "Computer Not Recognizing Headphones – Windows 10 PC Headphone Tutorial"
+        },
+        {
+          "id": "6197bcba11d3cb08287a90cc",
+          "author": null,
+          "description": "I’m an AI researcher, so one of the main things I deal with is data. A lot of it.  With more than 2.5 exabytes of data generated every day, it comes as no surprise that this data needs to be stored somewhere where we can access it when",
+          "link": "https://www.freecodecamp.org/news/learn-sql-in-10-minutes/",
+          "publishedOn": "2021-11-23T15:36:59.000Z",
+          "wordCount": 4992,
+          "title": "SQL Commands Cheat Sheet – How to Learn SQL in 10 Minutes"
+        },
+        {
+          "id": "6198c2d511d3cb08287a97e2",
+          "author": null,
+          "description": "It's tricky to make a good-looking and functional table of contents in Microsoft Word. You might often encounter documents that have messy tables of contents along with navigation panes with links to missing headings, non harmonized styles, and badly structured sections.  This wouldn't be a big problem for smaller documents,",
+          "link": "https://www.freecodecamp.org/news/how-to-create-customizable-table-of-contents-in-microsoft-word/",
+          "publishedOn": "2021-11-23T15:34:00.000Z",
+          "wordCount": 1608,
+          "title": "How to Create a Customizable Table of Contents in Word"
+        },
+        {
+          "id": "6195174b11d3cb08287a7b96",
+          "author": null,
+          "description": "In this blog post, I will show you which free WordPress plugins you should use and how to configure them to significantly improve your WordPress website's performance.  Web performance is an essential SEO factor, and you shouldn’t underestimate it. Each second your website takes to load can hurt your",
+          "link": "https://www.freecodecamp.org/news/wordpress-plugins-to-improve-your-website-performance/",
+          "publishedOn": "2021-11-23T02:09:07.000Z",
+          "wordCount": 1767,
+          "title": "5 WordPress Plugins to Improve Your Website&#x27;s Performance"
+        },
         {
           "id": "619909b111d3cb08287a9bd9",
           "author": null,
@@ -2735,6 +2807,69 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/serverless-functions-with-c-azure-and-aws?source=rss",
+          "author": "Taavi Rehemägi",
+          "description": "This article will explain how to build serverless functions on the primary cloud providers services: Azure and AWS.",
+          "link": "https://hackernoon.com/serverless-functions-with-c-azure-and-aws?source=rss",
+          "publishedOn": "2021-11-23T15:49:46.000Z",
+          "wordCount": 823,
+          "title": "Serverless Functions with C#, Azure and AWS"
+        },
+        {
+          "id": "https://hackernoon.com/exploring-ancient-egypt-with-egyptologist-chris-naunton?source=rss",
+          "author": "Jack Boreham",
+          "description": "In this Slogging AMA, the team at Hackernoon talks to Egyptologist Chris Naunton. Chris is an authority in the study of Ancient Egypt and is one of the leading",
+          "link": "https://hackernoon.com/exploring-ancient-egypt-with-egyptologist-chris-naunton?source=rss",
+          "publishedOn": "2021-11-23T13:41:33.000Z",
+          "wordCount": 5115,
+          "title": "Exploring Ancient Egypt with Egyptologist Chris Naunton"
+        },
+        {
+          "id": "https://hackernoon.com/the-dangers-of-false-interpretations-when-using-the-promises-api?source=rss",
+          "author": "artur",
+          "description": "JavaScript Promises have an API that can lead to incorrect interpreting of potential results by developers. This is how it works and how to avoid the error.",
+          "link": "https://hackernoon.com/the-dangers-of-false-interpretations-when-using-the-promises-api?source=rss",
+          "publishedOn": "2021-11-23T13:39:58.000Z",
+          "wordCount": 894,
+          "title": "The Dangers of False Interpretations When Using the Promises API"
+        },
+        {
+          "id": "https://hackernoon.com/handling-data-integrity-issues-like-a-pro?source=rss",
+          "author": "Jacob Landry",
+          "description": "What do you do if an API you reference sends 200 - OK but an error message? What do you do when a critical column is missing from your Excel upload? Read me.",
+          "link": "https://hackernoon.com/handling-data-integrity-issues-like-a-pro?source=rss",
+          "publishedOn": "2021-11-23T11:51:21.000Z",
+          "wordCount": 923,
+          "title": "Handling Data Integrity Issues Like a Pro"
+        },
+        {
+          "id": "https://hackernoon.com/side-projects-yay-or-nay?source=rss",
+          "author": "Anthony",
+          "description": "I love to build stuff online, but do I have too many side projects?",
+          "link": "https://hackernoon.com/side-projects-yay-or-nay?source=rss",
+          "publishedOn": "2021-11-23T09:56:03.000Z",
+          "wordCount": 893,
+          "title": "Side Projects: Yay or Nay?"
+        },
+        {
+          "id": "https://hackernoon.com/running-cdk-integration-tests-in-a-cloudformation-custom-resource?source=rss",
+          "author": "Ben Force",
+          "description": "Learn how to run integration tests as part of a stack deployment, and automatically roll-back changes when things don't go right.",
+          "link": "https://hackernoon.com/running-cdk-integration-tests-in-a-cloudformation-custom-resource?source=rss",
+          "publishedOn": "2021-11-23T09:45:27.000Z",
+          "wordCount": 876,
+          "title": "Running Cdk Integration Tests in a CloudFormation Custom Resource"
+        },
+        {
+          "id": "https://hackernoon.com/australias-ransomware-action-plan?source=rss",
+          "author": "Technology News Australia",
+          "description": "The new laws introduced by the government are meant to help businesses improve their cybersecurity and avoid any losses that would be incurred from cybercrime.",
+          "link": "https://hackernoon.com/australias-ransomware-action-plan?source=rss",
+          "publishedOn": "2021-11-23T08:06:43.000Z",
+          "wordCount": 2189,
+          "title": "Australia's Ransomware Action Plan"
+        },
         {
           "id": "https://hackernoon.com/how-to-choose-the-optimal-test-reporting-tool-for-your-product?source=rss",
           "author": "Katalon",
@@ -9690,16 +9825,6 @@
           "wordCount": null,
           "title": "Teaching Kids Programming – Disjoint Set: Find if Path Exists in Graph via Union Find Algorithm",
           "itunes": {}
-        },
-        {
-          "id": "https://helloacm.com/?p=146463",
-          "author": "ACMer",
-          "description": "Given a directed acyclic graph (DAG) of n nodes labeled from 0 to n – 1, find all possible paths from node 0 to node n – 1 and return them in any order. The graph is given as follows:...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
-          "link": "https://helloacm.com/teaching-kids-programming-finding-all-paths-from-source-to-target-in-a-directed-acyclic-graph-dag-using-breadth-first-search-algorithm/",
-          "publishedOn": "2021-08-25T20:45:58.000Z",
-          "wordCount": null,
-          "title": "Teaching Kids Programming – Finding All Paths from Source to Target in a Directed Acyclic Graph (DAG) using Breadth First Search Algorithm",
-          "itunes": {}
         }
       ]
     },
@@ -9708,6 +9833,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=508416",
+          "author": "Lewin Day",
+          "description": "Jamming live with synths and drum machines can be fun, but for [Christian], there was a little something missing. He was looking for a way to keep everyone in the …read more",
+          "link": "https://hackaday.com/2021/11/23/live-jam-kit-helps-electronic-musicians-stay-in-sync/",
+          "publishedOn": "2021-11-24T00:00:49.000Z",
+          "wordCount": 1160,
+          "title": "Live Jam Kit Helps Electronic Musicians Stay In Sync"
+        },
+        {
+          "id": "https://hackaday.com/?p=508061",
+          "author": "Kristina Panos",
+          "description": "Here it is, the most exciting reveal since the Hackaday Prize ceremony — [Eric Strebel] uses the pulp mold he designed and built over the three previous videos. In case …read more",
+          "link": "https://hackaday.com/2021/11/23/charging-phones-with-the-power-of-paper-pulp/",
+          "publishedOn": "2021-11-23T21:00:38.000Z",
+          "wordCount": 1890,
+          "title": "Charging Phones with the Power of Paper Pulp"
+        },
+        {
+          "id": "https://hackaday.com/?p=508415",
+          "author": "Lewin Day",
+          "description": "The traditional sand timer, known colloquially as an egg timer, served its purpose well over the centuries since its development. However, [MakerPaul] realised it had some significant flaws that were …read more",
+          "link": "https://hackaday.com/2021/11/23/significantly-improved-egg-timer-makes-pictionary-better/",
+          "publishedOn": "2021-11-23T19:30:00.000Z",
+          "wordCount": 1590,
+          "title": "Significantly Improved Egg Timer Makes Pictionary Better"
+        },
+        {
+          "id": "https://hackaday.com/?p=507880",
+          "author": "Matthew Carlson",
+          "description": "You may (or may not) have heard that Firefox is moving from GLX to EGL for the Linux graphics stack. It’s an indicator of which way the tides are moving …read more",
+          "link": "https://hackaday.com/2021/11/23/firefox-brings-the-fire-shifting-from-glx-to-egl/",
+          "publishedOn": "2021-11-23T18:01:59.000Z",
+          "wordCount": 2700,
+          "title": "Firefox Brings the Fire: Shifting from GLX to EGL"
+        },
+        {
+          "id": "https://hackaday.com/?p=507788",
+          "author": "Kristina Panos",
+          "description": "There are so many elements that make a good clock worth looking at for much longer than necessary. Not only is this clock quite cool to behold, it plays Pac-Man …read more",
+          "link": "https://hackaday.com/2021/11/23/esp32-pac-man-clock-keeps-track-of-how-long-you-watch-it/",
+          "publishedOn": "2021-11-23T16:30:00.000Z",
+          "wordCount": 1113,
+          "title": "ESP32 Pac-Man Clock Keeps Track of How Long You Watch It"
+        },
+        {
+          "id": "https://hackaday.com/?p=505264",
+          "author": "Chris Lott",
+          "description": "If you can’t imagine writing a letter on a typewriter and putting it in a mailbox, then you take computers for granted. But that’s just the tip of the iceberg. …read more",
+          "link": "https://hackaday.com/2021/11/23/retrotechtacular-office-equipment-from-the-1940s/",
+          "publishedOn": "2021-11-23T15:00:17.000Z",
+          "wordCount": 2290,
+          "title": "Retrotechtacular: Office Equipment from the 1940s"
+        },
+        {
+          "id": "https://hackaday.com/?p=508301",
+          "author": "Dan Maloney",
+          "description": "When you can buy a 3D printer at Aldi, you pretty much know that 3D printing has been reduced to practice. At least for the plastic version of 3D printing; …read more",
+          "link": "https://hackaday.com/2021/11/23/ender-3-meets-mig-welder-to-make-a-metal-benchy-kind-of/",
+          "publishedOn": "2021-11-23T12:00:00.000Z",
+          "wordCount": 1935,
+          "title": "Ender 3 Meets MIG Welder to Make a Metal Benchy — Kind Of"
+        },
         {
           "id": "https://hackaday.com/?p=507891",
           "author": "Dan Maloney",
@@ -13100,6 +13288,56 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "7FFA3AC4-3758-4458-95C32B2571CB9FC5",
+          "author": "Chelsea Harvey, E&E News",
+          "description": "Current national targets to cut emissions could result in nearly 3 degrees C of warming\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/climate-pledges-still-not-enough-to-keep-warming-below-2-degree-limit/",
+          "publishedOn": "2021-11-23T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Climate Pledges Still Not Enough to Keep Warming Below 2-Degree Limit",
+          "itunes": {}
+        },
+        {
+          "id": "92998266-00BC-451E-AD7FD8D5132CD481",
+          "author": "Julie Pullen, Nathalie Goodkin",
+          "description": "The increasing frequency of dead zones will affect billions of people who rely on the ocean for survival\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/marine-oxygen-levels-are-the-next-great-casualty-of-climate-change/",
+          "publishedOn": "2021-11-23T17:00:00.000Z",
+          "wordCount": null,
+          "title": "Marine Oxygen Levels are the Next Great Casualty of Climate Change",
+          "itunes": {}
+        },
+        {
+          "id": "66C05D77-DA86-432C-91019D5E0E847174",
+          "author": "Emily Waltz, Nature Biotechnology",
+          "description": "Cell-based fish taste the same as their wild and farmed counterparts. But will it ever make economic sense to produce this kind of protein?\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/no-bones-no-scales-no-eyeballs-appetite-grows-for-lab-grown-seafood/",
+          "publishedOn": "2021-11-23T15:00:00.000Z",
+          "wordCount": null,
+          "title": "No Bones, No Scales, No Eyeballs: Appetite Grows for Lab-Grown Seafood",
+          "itunes": {}
+        },
+        {
+          "id": "C5A7CB81-E5F0-4332-B4BBA0E460CC6167",
+          "author": "Kristine Nolin, The Conversation US",
+          "description": "When water and boiling oil mix, the result can be volatile\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/why-frozen-turkeys-explode-when-deep-fried/",
+          "publishedOn": "2021-11-23T13:30:00.000Z",
+          "wordCount": null,
+          "title": "Why Frozen Turkeys Explode When Deep-Fried",
+          "itunes": {}
+        },
+        {
+          "id": "0FFE2F83-06CB-4FE9-B43E060B99C7366F",
+          "author": "Natalie Elliot",
+          "description": "A new theory suggests that searches for molecular complexity could uncover convincing evidence of extraterrestrial life—and do so soon\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/life-is-complicated-literally-astrobiologists-say/",
+          "publishedOn": "2021-11-23T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Life Is Complicated--Literally, Astrobiologists Say",
+          "itunes": {}
+        },
+        {
           "id": "015B1A7B-6E66-403E-9E883CDFC6978E21",
           "author": "Rachel Brazil, Nature magazine",
           "description": "A mechanism known as “original antigenic sin” protects some people from flu; whether it helps immune reactions to coronaviruses is still unclear\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -16363,6 +16601,33 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=147925",
+          "author": "Mike Vizard",
+          "description": "WhiteSource has added a software bill of materials (SBOM) tool to its portfolio that, in addition to capturing the components of an application, also surfaces vulnerabilities that should be addressed. Many organizations are becoming more rigorous about making sure SBOM are attached to every software development initiative in the wake of an executive order issued […]\nThe post WhiteSource Adds SBOM Tool That Lists Vulnerabilities appeared first on DevOps.com.",
+          "link": "https://devops.com/whitesource-adds-sbom-tool-that-lists-vulnerabilities/",
+          "publishedOn": "2021-11-23T19:57:15.000Z",
+          "wordCount": 1004,
+          "title": "WhiteSource Adds SBOM Tool That Lists Vulnerabilities"
+        },
+        {
+          "id": "https://devops.com/?p=147765",
+          "author": "Mike Vizard",
+          "description": "ServiceNow today revealed it has acquired DotWalk to gain an artificial intelligence (AI)-infused application testing capability that runs natively on its software-as-a-service (SaaS) platform. Joe Davis, senior vice president for platform engineering at ServiceNow, said that testing capability will be made available free of charge to all organizations that build custom applications on the company’s […]\nThe post ServiceNow Acquires DotWalk to Gain AI for App Testing appeared first on DevOps.com.",
+          "link": "https://devops.com/servicenow-acquires-dotwalk-to-gain-ai-for-app-testing/",
+          "publishedOn": "2021-11-23T14:00:31.000Z",
+          "wordCount": 981,
+          "title": "ServiceNow Acquires DotWalk to Gain AI for App Testing"
+        },
+        {
+          "id": "https://devops.com/?p=147643",
+          "author": "Nathan Eddy",
+          "description": "A growing number of organizations are suffering security incidents related to exposed secrets in DevOps CI/CD pipelines, according to a recent ThycoticCentrify report. The study paints a troubling picture: Only 5% of survey respondents said most of their development teams use the same secrets management processes and tools. The incidents run the gamut, from secrets […]\nThe post DevOps Teams Struggling to Keep Secrets appeared first on DevOps.com.",
+          "link": "https://devops.com/devops-teams-struggling-to-keep-secrets/",
+          "publishedOn": "2021-11-23T07:30:41.000Z",
+          "wordCount": 1245,
+          "title": "DevOps Teams Struggling to Keep Secrets"
+        },
+        {
           "id": "https://devops.com/?p=147759",
           "author": "Mike Vizard",
           "description": "Logz.io has enhanced its observability platform to include both unified dashboards and support for distributed tracing to monitor service performance enabled by the open source Jaeger agent software being advanced under the auspices of the Cloud Native Computing Foundation (CNCF). At the same time, Logz.io is making available a preview of an anomaly detection capability […]\nThe post Logz.io Extends Open Source Observability Platform appeared first on DevOps.com.",
@@ -17846,6 +18111,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=110604",
+          "author": "Carrie Arnold",
+          "description": "A mathematical model shows how a thermodynamic mechanism could have made protocells split in two.            \nThe post At the Dawn of Life, Heat May Have Driven Cell Division first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/at-the-dawn-of-life-heat-may-have-driven-cell-division-20211123/",
+          "publishedOn": "2021-11-23T14:42:48.000Z",
+          "wordCount": null,
+          "title": "At the Dawn of Life, Heat May Have Driven Cell Division",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=109300",
           "author": "Charlie Wood",
           "description": "Through his encyclopedic study of the electron, an obscure figure named Stefano Laporta found a handle on the subatomic world’s fearsome complexity. His algorithm has swept the field.            \nThe post The Algorithm That Lets Particle Physicists Count Higher Than Two first appeared on Quanta Magazine",
@@ -18192,6 +18467,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66094",
+          "author": "Nathan Yau",
+          "description": "We all have our routines, but from person-to-person, the daily schedule changes a lot depending on your responsibilities.\nTags: time use",
+          "link": "https://flowingdata.com/2021/11/23/most-common-daily-schedules-for-different-groups/",
+          "publishedOn": "2021-11-23T12:33:07.000Z",
+          "wordCount": 554,
+          "title": "Most Common Daily Routines"
+        },
         {
           "id": "https://flowingdata.com/?p=66106",
           "author": "Nathan Yau",
