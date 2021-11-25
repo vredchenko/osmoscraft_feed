@@ -40,6 +40,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=357294",
+          "author": "George Francis",
+          "description": "The browser has long been a medium for art and design. From Lynn Fisher’s joyful A Single Div creations to Diana Smith’s staggeringly detailed CSS paintings, wildly creative, highly skilled developers have — over the years — continuously pushed …\nThe post Creating Generative Patterns with The CSS Paint API appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/creating-generative-patterns-with-the-css-paint-api/",
+          "publishedOn": "2021-11-24T15:49:08.000Z",
+          "wordCount": 5274,
+          "title": "Creating Generative Patterns with The CSS Paint API"
+        },
+        {
           "id": "https://css-tricks.com/?p=357412",
           "author": "Chris Coyier",
           "description": "Tyler Sticka digs in here in the best possible way: by making a test page and literally measuring performance. Maybe 1,000 icons is a little bit of an edge case, but hey, 250 rows of data with four icons in …\nThe post Which SVG technique performs best for way too many icons? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -1144,6 +1153,78 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "619ba16011d3cb08287aa2ed",
+          "author": null,
+          "description": "In this conference talk made for Tech Fest 2021, Steven Lemmo talks to you about building SaaS Applications with WebSockets. Here is a full breakdown of what he will cover in this 40 minute talk: The reason for this talkWhy Websockets?Websockets minimal API exampleRest Web ServicesMultiple ListenersFull DuplexWebsockets time-lineTypeScriptVendor",
+          "link": "https://www.freecodecamp.org/news/how-to-add-websocket-real-time-communication-to-your-saas-app/",
+          "publishedOn": "2021-11-24T23:50:04.000Z",
+          "wordCount": 318,
+          "title": "How to Add Websocket Real Time Communication to Your SaaS App"
+        },
+        {
+          "id": "619bcc5611d3cb08287aa66f",
+          "author": null,
+          "description": "Colors play an integral role in how usable and accessible your web design projects are.  At times, they can even make or break a project.  Having a color palette comprised of different shades and hues of a specific color can be really helpful. It helps you visualize how you can",
+          "link": "https://www.freecodecamp.org/news/color-shades-hex-code-and-rgb-for-gray-color-palette/",
+          "publishedOn": "2021-11-24T23:47:39.000Z",
+          "wordCount": 1049,
+          "title": "Color Shades – Hex Code and RGB for Gray Color Palette"
+        },
+        {
+          "id": "619e979225888a07c3e1b545",
+          "author": null,
+          "description": "Do you know how to use Microsoft Excel and want to learn how to do data analysis with Python? You are in luck. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to do Data Analysis with Python. This course will be especially",
+          "link": "https://www.freecodecamp.org/news/data-analysis-with-python-for-excel-users-course/",
+          "publishedOn": "2021-11-24T20:00:33.000Z",
+          "wordCount": 412,
+          "title": "Data Analysis with Python for Excel Users Course"
+        },
+        {
+          "id": "619e3cdd25888a07c3e1b16d",
+          "author": null,
+          "description": "A mobile hotspot is a quick and efficient way to share an internet connection with other devices like computers, iPads, or other mobile phones.  A hotspot is also a good alternative to WiFi – especially if the WiFi in your area is unbearably slow or won't connect.  Sometimes, you might experience",
+          "link": "https://www.freecodecamp.org/news/why-wont-my-computer-connect-to-my-hotspot-fixed-on-windows-10-pc-wifi/",
+          "publishedOn": "2021-11-24T18:44:39.000Z",
+          "wordCount": 792,
+          "title": "Why Won&#x27;t My Computer Connect to My Hotspot? [Fixed on Windows 10 PC WiFi]"
+        },
+        {
+          "id": "619c873711d3cb08287aaf76",
+          "author": null,
+          "description": "I recently finished reading The Pragmatic Programmer 20th Anniversary Edition (2019) and The Clean Coder (2011). You'll find these books on almost every “top 10 Software Development books” list out there.  My goal was to learn, improve, and get the kind of knowledge that a teacher from mine used to",
+          "link": "https://www.freecodecamp.org/news/lessons-learned-from-the-pragmatic-programmer-and-the-clean-coder/",
+          "publishedOn": "2021-11-24T16:38:09.000Z",
+          "wordCount": 3428,
+          "title": "What I Learned from The Pragmatic Programmer and The Clean Coder"
+        },
+        {
+          "id": "619e8cba25888a07c3e1b499",
+          "author": null,
+          "description": "Feature Toggles (aka Feature Flags) are a technique used in software development in order to hide, enable or disable a particular feature during runtime. They allow teams to modify system behavior without changing code. We just published a course on the freeCodeCamp YouTube channel that will teach you why and",
+          "link": "https://www.freecodecamp.org/news/why-and-how-to-add-feature-toggles-to-your-software/",
+          "publishedOn": "2021-11-24T15:49:00.000Z",
+          "wordCount": 476,
+          "title": "Why and How to Add Feature Toggles to Your Software"
+        },
+        {
+          "id": "618ed39211d3cb08287a5535",
+          "author": null,
+          "description": "In this article, I'm going to walk you through how to use D3.js in a step by step and beginner-friendly way. We'll talk about what D3.js is, how it works, and we'll create some basic visualizations to add transitions, interactions, and zooming. Table of Contents Getting Started  What",
+          "link": "https://www.freecodecamp.org/news/d3js-tutorial-data-visualization-for-beginners/",
+          "publishedOn": "2021-11-24T15:03:01.000Z",
+          "wordCount": 4085,
+          "title": "D3.js Tutorial – Data Visualization for Beginners"
+        },
+        {
+          "id": "619cdd9d11d3cb08287ab09c",
+          "author": null,
+          "description": "In this talk, Designer turned Software Developer Lenora Porter talks about her journey learning Ember.js. She also shares her tips for beginners who are about to start their journey. Here are her top 4 take-aways: How to Learn Ember.jsHave the Mindset of a BeginnerThis is the foundational work.",
+          "link": "https://www.freecodecamp.org/news/learn-ember-ember-js-tips-for-beginners-tutorial/",
+          "publishedOn": "2021-11-24T15:02:26.000Z",
+          "wordCount": 484,
+          "title": "Learn Ember – Ember.js Tips for Beginners Tutorial"
+        },
         {
           "id": "6197c7ce11d3cb08287a9271",
           "author": null,
@@ -2807,6 +2888,87 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/i-launched-uplinq-in-the-hope-of-seeing-more-smbs-financially-viable-ron-benegbi?source=rss",
+          "author": "Uplinq Financial Technologies",
+          "description": "An interview with Ron Benegbi, founder of the Toronto-based Fintech startup Uplinq about his company, experiences and lessons learned as a startup founder.",
+          "link": "https://hackernoon.com/i-launched-uplinq-in-the-hope-of-seeing-more-smbs-financially-viable-ron-benegbi?source=rss",
+          "publishedOn": "2021-11-24T16:51:13.000Z",
+          "wordCount": 955,
+          "title": "'I Launched Uplinq in the Hope of Seeing More SMBs Financially Viable': Ron Benegbi"
+        },
+        {
+          "id": "https://hackernoon.com/game-coding-for-dummies-a-quick-guide-for-newbies?source=rss",
+          "author": "Johnny",
+          "description": "If you’re a complete newbie or already have a bit of a programming background, you can’t go wrong with Java for game development.",
+          "link": "https://hackernoon.com/game-coding-for-dummies-a-quick-guide-for-newbies?source=rss",
+          "publishedOn": "2021-11-24T16:43:01.000Z",
+          "wordCount": 2324,
+          "title": "Game Coding for Dummies: A Quick Guide for Newbies"
+        },
+        {
+          "id": "https://hackernoon.com/what-holds-back-innovation?source=rss",
+          "author": "Roxana Murariu",
+          "description": "Many innovations need time to catch on because of our resistance and scepticism to a novel way to accomplish things.",
+          "link": "https://hackernoon.com/what-holds-back-innovation?source=rss",
+          "publishedOn": "2021-11-24T15:49:29.000Z",
+          "wordCount": 3169,
+          "title": "What Holds Back Innovation"
+        },
+        {
+          "id": "https://hackernoon.com/the-no-code-movement-how-to-build-without-code?source=rss",
+          "author": "Amy Pravin Shah",
+          "description": "Exploring no-code movement as a newbie.",
+          "link": "https://hackernoon.com/the-no-code-movement-how-to-build-without-code?source=rss",
+          "publishedOn": "2021-11-24T15:25:27.000Z",
+          "wordCount": 1669,
+          "title": "The No-Code Movement: How to Build Without Code"
+        },
+        {
+          "id": "https://hackernoon.com/this-data-set-proves-how-our-emotions-affect-the-weather?source=rss",
+          "author": "Shawn Gordon",
+          "description": "An interesting observation on the emotional effect of weather. Correlation does not equate causation but the situation remains fascinating to readers anyway.",
+          "link": "https://hackernoon.com/this-data-set-proves-how-our-emotions-affect-the-weather?source=rss",
+          "publishedOn": "2021-11-23T22:26:53.000Z",
+          "wordCount": 1622,
+          "title": "This Data Set Shows How Our Emotions Affect the Weather"
+        },
+        {
+          "id": "https://hackernoon.com/before-you-start-learning-to-code-read-this?source=rss",
+          "author": "Zaid Qureshi",
+          "description": "How to get started with software development, the easy way.",
+          "link": "https://hackernoon.com/before-you-start-learning-to-code-read-this?source=rss",
+          "publishedOn": "2021-11-23T20:24:19.000Z",
+          "wordCount": 943,
+          "title": "Before You Start Learning to Code, Read This."
+        },
+        {
+          "id": "https://hackernoon.com/a-cryptographers-guide-to-end-to-end-encryption?source=rss",
+          "author": "Tresorit",
+          "description": "End-to-end encryption is getting traction for secure communications. But how is it different from all other types of encryption?  Here is a basic guide to it.",
+          "link": "https://hackernoon.com/a-cryptographers-guide-to-end-to-end-encryption?source=rss",
+          "publishedOn": "2021-11-23T19:30:09.000Z",
+          "wordCount": 2157,
+          "title": "A Cryptographer's Guide to End-to-End Encryption"
+        },
+        {
+          "id": "https://hackernoon.com/tailwind-css-explained-and-how-to-install-version-30?source=rss",
+          "author": "David Morales",
+          "description": "What is Tailwind CSS? What advantages does it have over standard CSS? I show you, with examples, how to use it and how to install the latest 3.0 version.",
+          "link": "https://hackernoon.com/tailwind-css-explained-and-how-to-install-version-30?source=rss",
+          "publishedOn": "2021-11-23T18:17:39.000Z",
+          "wordCount": 944,
+          "title": "Tailwind CSS Explained, and How to Install Version 3.0"
+        },
+        {
+          "id": "https://hackernoon.com/the-most-anticipated-black-friday-sale-of-the-year-is-here?source=rss",
+          "author": "TradingView",
+          "description": "A bird in the hand may be worth two in the bush – but with TradingView’s Black Friday Sale and discounts of up to 60%, it’s the perfect time to grab those two avians once and for all. Use this chance to buy any subscription at the company’s lowest possible price: you can compare the features of each plan here.",
+          "link": "https://hackernoon.com/the-most-anticipated-black-friday-sale-of-the-year-is-here?source=rss",
+          "publishedOn": "2021-11-23T18:13:58.000Z",
+          "wordCount": 1191,
+          "title": "The Most Anticipated Black Friday Sale of the Year is Here"
+        },
         {
           "id": "https://hackernoon.com/serverless-functions-with-c-azure-and-aws?source=rss",
           "author": "Taavi Rehemägi",
@@ -9039,15 +9201,6 @@
           "publishedOn": "2021-09-23T14:00:00.000Z",
           "wordCount": 2436,
           "title": "A Content Model Is Not a Design System"
-        },
-        {
-          "id": "https://alistapart.com/article/design-for-safety-excerpt/",
-          "author": "by",
-          "description": "Antiracist economist Kim Crayton says that “intention without strategy is chaos.” We’ve discussed how our biases, assumptions, and inattention toward marginalized and vulnerable groups lead to dangerous and unethical tech—but what, specifically, do we need to do to fix it? The intention to make our tech safer is not enough; we need a strategy.\nThis chapter will equip you with that plan of action. It covers how to integrate safety principles into your design work in order to create tech that’s safe, how to convince your stakeholders that this work is necessary, and how to respond to the critique that what we actually need is more diversity. (Spoiler: we do, but diversity alone is not the antidote to fixing unethical, unsafe tech.)\nThe process for inclusive safety\nWhen you are designing for …",
-          "link": "https://alistapart.com/article/design-for-safety-excerpt/",
-          "publishedOn": "2021-08-26T15:01:43.000Z",
-          "wordCount": 4004,
-          "title": "Design for Safety, An Excerpt"
         }
       ]
     },
@@ -9056,6 +9209,16 @@
       "feedUrl": "http://feeds.feedburner.com/helloacm?format=xml",
       "siteUrl": "https://helloacm.com",
       "articles": [
+        {
+          "id": "https://helloacm.com/?p=147762",
+          "author": "ACMer",
+          "description": "Previously, we know there are 45 continuously increasing digits (each digit is 1 plus its previous digit) such as 12, 23, 12345. This can actually be computed via Math Combination. The numbers are...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-compute-the-number-of-sublists-by-combination-in-math/",
+          "publishedOn": "2021-11-24T19:44:23.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Compute the Number of Sublists by Combination in Math",
+          "itunes": {}
+        },
         {
           "id": "https://helloacm.com/?p=147745",
           "author": "ACMer",
@@ -9815,16 +9978,6 @@
           "wordCount": null,
           "title": "Teaching Kids Programming – Finding the Network Delay Time via  Floyd-Warshall Shortest Path Algorithm",
           "itunes": {}
-        },
-        {
-          "id": "https://helloacm.com/?p=146476",
-          "author": "ACMer",
-          "description": "There is a bi-directional graph with n vertices, where each vertex is labeled from 0 to n – 1 (inclusive). The edges in the graph are represented as a 2D integer array edges, where each edges =...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
-          "link": "https://helloacm.com/teaching-kids-programming-disjoint-set-find-if-path-exists-in-graph-via-union-find-algorithm/",
-          "publishedOn": "2021-08-26T20:28:16.000Z",
-          "wordCount": null,
-          "title": "Teaching Kids Programming – Disjoint Set: Find if Path Exists in Graph via Union Find Algorithm",
-          "itunes": {}
         }
       ]
     },
@@ -9833,6 +9986,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=508058",
+          "author": "Kristina Panos",
+          "description": "You know, we were just discussing weird and/or obsolete audio formats in the writers’ dungeon the other day. (By the way, have you ever bought anything on DAT or MiniDisc?) …read more",
+          "link": "https://hackaday.com/2021/11/24/bluetooth-record-player-puts-a-new-spin-on-vinyl/",
+          "publishedOn": "2021-11-25T00:00:00.000Z",
+          "wordCount": 1402,
+          "title": "Bluetooth Record Player Puts a New Spin On Vinyl"
+        },
+        {
+          "id": "https://hackaday.com/?p=508303",
+          "author": "Dan Maloney",
+          "description": "No matter what you do or say on the Internet, you’re always doing it wrong. Keyboard commandos are ready to pounce and tell you how it’s “ackchyually” supposed to be …read more",
+          "link": "https://hackaday.com/2021/11/24/science-vs-internet-trolls-testing-another-kind-of-file-system/",
+          "publishedOn": "2021-11-24T21:00:00.000Z",
+          "wordCount": 2165,
+          "title": "Science vs Internet Trolls: Testing Another Kind of File System"
+        },
+        {
+          "id": "https://hackaday.com/?p=508518",
+          "author": "Robin Kearey",
+          "description": "Modern oscilloscopes are often loaded with features, but every now and then you run into a feature that seems easy to implement yet isn’t available. [kgsws] wanted to use his …read more",
+          "link": "https://hackaday.com/2021/11/24/oscilloscope-probes-itself-to-add-video/",
+          "publishedOn": "2021-11-24T19:30:00.000Z",
+          "wordCount": 1464,
+          "title": "Oscilloscope Probes Itself To Add Video"
+        },
+        {
+          "id": "https://hackaday.com/?p=508637",
+          "author": "Dan Maloney",
+          "description": "The venerable flip clock has become an outsized part of timekeeping culture that belies the simplicity of its mechanism. People collect and restore the electromechanical timepieces with devotion, and even …read more",
+          "link": "https://hackaday.com/2021/11/24/a-flip-clock-that-flips-up-not-down/",
+          "publishedOn": "2021-11-24T18:01:22.000Z",
+          "wordCount": 1175,
+          "title": "A Flip Clock That Flips Up, Not Down"
+        },
+        {
+          "id": "https://hackaday.com/?p=508417",
+          "author": "Lewin Day",
+          "description": "Music was created by humans, but often we find ourselves creating performances with machines. [Alana Balagot] and [Federico Tobon] did just that, constructing the stunning 4 Muses musical sculpture with …read more",
+          "link": "https://hackaday.com/2021/11/24/mechanical-musical-sculpture-recalls-the-four-muses/",
+          "publishedOn": "2021-11-24T16:30:00.000Z",
+          "wordCount": 1367,
+          "title": "Mechanical Musical Sculpture Recalls the Four Muses"
+        },
+        {
+          "id": "https://hackaday.com/?p=508543",
+          "author": "Lewin Day",
+          "description": "Tomorrow is Thanksgiving and that means Americans across the United States will be cooking up a turkey feast. One of the most popular ways to cook the bird is by …read more",
+          "link": "https://hackaday.com/2021/11/24/why-deep-frying-turkey-can-go-very-wrong/",
+          "publishedOn": "2021-11-24T15:01:52.000Z",
+          "wordCount": 3892,
+          "title": "Why Deep Frying Turkey Can Go Very Wrong"
+        },
+        {
+          "id": "https://hackaday.com/?p=508293",
+          "author": "Matthew Carlson",
+          "description": "Generally, monowheels are that wacky, wildly futuristic transport that we lump in the same category as hoverbikes and jetpacks: strange, currently impractical, but very cool. Not content with waiting for …read more",
+          "link": "https://hackaday.com/2021/11/24/e-monowheel/",
+          "publishedOn": "2021-11-24T12:00:00.000Z",
+          "wordCount": 1562,
+          "title": "E-MonoWheel"
+        },
         {
           "id": "https://hackaday.com/?p=508416",
           "author": "Lewin Day",
@@ -13288,6 +13504,76 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "78C39B34-C6B0-4108-90F8318F8E5923D9",
+          "author": "Benjamin Storrow, E&E News",
+          "description": "The demise of the program is the latest setback for carbon pricing in the U.S.\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/northeast-states-abandon-cap-and-trade-plan-for-cars/",
+          "publishedOn": "2021-11-24T18:00:00.000Z",
+          "wordCount": null,
+          "title": "Northeast States Abandon Cap-and-Trade Plan for Cars",
+          "itunes": {}
+        },
+        {
+          "id": "D81073C2-94DB-4254-9270427884426894",
+          "author": "Emily Mendenhall",
+          "description": "Vaccine refusal by parents is not about a lack of education, but amassing social status\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/we-need-school-age-vaccine-mandates-to-end-the-covid-pandemic/",
+          "publishedOn": "2021-11-24T17:30:00.000Z",
+          "wordCount": null,
+          "title": "We Need School-Age Vaccine Mandates to End the COVID Pandemic",
+          "itunes": {}
+        },
+        {
+          "id": "44F97083-6C87-40DA-8D3A6730A7A588CA",
+          "author": "Avi Loeb",
+          "description": "Interstellar xenia, or the welcoming of cosmic strangers, could solve this mystery\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/when-did-life-start-in-the-universe1/",
+          "publishedOn": "2021-11-24T17:00:00.000Z",
+          "wordCount": null,
+          "title": "When Did Life Start in the Universe?",
+          "itunes": {}
+        },
+        {
+          "id": "2A6E5B6C-C30C-4886-AE9F043EDFF98C57",
+          "author": "John Horgan",
+          "description": "Prominent scientists exaggerate the violence of Native Americans, whom European invaders ravaged\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://blogs.scientificamerican.com/blogs/cross-check/thanksgiving-and-the-myth-of-native-american-savages/",
+          "publishedOn": "2021-11-24T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Thanksgiving and the Myth of Native American 'Savages'",
+          "itunes": {}
+        },
+        {
+          "id": "E11054CB-7EA0-4CBA-BECF1E7AD66239F9",
+          "author": "Emily Willingham",
+          "description": "It may force energy shifts to repair and maintenance, which could slow aging and make us more available to care for younger generations\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/physical-activity-could-be-an-evolutionary-adaptation-for-grandparenting/",
+          "publishedOn": "2021-11-24T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Physical Activity Could Be an Evolutionary Adaptation for Grandparenting",
+          "itunes": {}
+        },
+        {
+          "id": "BF5A52B3-9C50-43D0-98F99B3DBBECFBD0",
+          "author": "Jack Tamisiea",
+          "description": "Monogamous black-browed albatross may split up from the stress of less food availability\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/albatross-divorce-rate-rises-as-the-ocean-warms/",
+          "publishedOn": "2021-11-24T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Albatross 'Divorce' Rate Rises as the Ocean Warms",
+          "itunes": {}
+        },
+        {
+          "id": "708A106E-5D7A-4817-B384F33B1BC44AAF",
+          "author": "Elise Cutts",
+          "description": "Most of the pollutant arrives at the coasts by river\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/rivers-dump-mercury-into-coastal-fisheries/",
+          "publishedOn": "2021-11-24T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Rivers Dump Mercury into Coastal Fisheries",
+          "itunes": {}
+        },
+        {
           "id": "7FFA3AC4-3758-4458-95C32B2571CB9FC5",
           "author": "Chelsea Harvey, E&E News",
           "description": "Current national targets to cut emissions could result in nearly 3 degrees C of warming\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -16601,6 +16887,33 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=147868",
+          "author": "Richi Jennings",
+          "description": "In this week’s The Long View: Working from home is de rigueur, JEDI redux, and more about Nvidia/Arm.\nThe post WTH? We Wanna WFH | DoD Dual-Sources JWCC | More Nvidia ARM Woes appeared first on DevOps.com.",
+          "link": "https://devops.com/wth-we-wanna-wfh-dod-dual-sources-jwcc-more-nvidia-arm-woes/",
+          "publishedOn": "2021-11-24T14:13:35.000Z",
+          "wordCount": 1586,
+          "title": "WTH? We Wanna WFH | DoD Dual-Sources JWCC | More Nvidia ARM Woes"
+        },
+        {
+          "id": "https://devops.com/?p=148090",
+          "author": "Mike Vizard",
+          "description": "The number of organizations using value stream management (VSM) to bridge the divide between DevOps and the rest of the business is expected to dramatically increase over the next two years. The shift is due, in part, to investments in digital business transformation initiatives. A survey of more than 500 executives, IT and business leaders […]\nThe post Digital Transformation Driving VSM Adoption appeared first on DevOps.com.",
+          "link": "https://devops.com/digital-transformation-driving-vsm-adoption/",
+          "publishedOn": "2021-11-24T14:00:33.000Z",
+          "wordCount": 1007,
+          "title": "Digital Transformation Driving VSM Adoption"
+        },
+        {
+          "id": "https://devops.com/?p=147930",
+          "author": "Don Macvittie",
+          "description": "Some time toward the end of the year, I start considering the volume of change we, as practitioners, have been under for … literally years, even decades. And I start to try and think of ways to keep you all from drowning in change. And then I write something that I hope helps you all […]\nThe post Some Change is Bad appeared first on DevOps.com.",
+          "link": "https://devops.com/some-change-is-bad/",
+          "publishedOn": "2021-11-24T07:30:00.000Z",
+          "wordCount": 1141,
+          "title": "Some Change is Bad"
+        },
+        {
           "id": "https://devops.com/?p=147925",
           "author": "Mike Vizard",
           "description": "WhiteSource has added a software bill of materials (SBOM) tool to its portfolio that, in addition to capturing the components of an application, also surfaces vulnerabilities that should be addressed. Many organizations are becoming more rigorous about making sure SBOM are attached to every software development initiative in the wake of an executive order issued […]\nThe post WhiteSource Adds SBOM Tool That Lists Vulnerabilities appeared first on DevOps.com.",
@@ -18111,6 +18424,26 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=110610",
+          "author": "Pradeep Mutalik",
+          "description": "The solution to our puzzle about Euler’s number explains why e pops up in situations that involve optimality.            \nThe post Why e, the Transcendental Math Constant, Is Just the Best first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/why-eulers-number-is-just-the-best-20211124/",
+          "publishedOn": "2021-11-24T19:33:50.000Z",
+          "wordCount": null,
+          "title": "Why e, the Transcendental Math Constant, Is Just the Best",
+          "itunes": {}
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=110607",
+          "author": "Mordechai Rorvig",
+          "description": "By carefully constructing a multidimensional and well-connected graph, a team of researchers has finally created a long-sought locally testable code that can immediately betray whether it’s been corrupted.            \nThe post Researchers Defeat Randomness to Create Ideal Code first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/researchers-defeat-randomness-to-create-ideal-code-20211124/",
+          "publishedOn": "2021-11-24T15:54:30.000Z",
+          "wordCount": null,
+          "title": "Researchers Defeat Randomness to Create Ideal Code",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=110604",
           "author": "Carrie Arnold",
           "description": "A mathematical model shows how a thermodynamic mechanism could have made protocells split in two.            \nThe post At the Dawn of Life, Heat May Have Driven Cell Division first appeared on Quanta Magazine",
@@ -18467,6 +18800,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66119",
+          "author": "Nathan Yau",
+          "description": "Choosing a place to live is always full of trade-offs, but it’d be…\nTags: calculator, housing, live, New York Times",
+          "link": "https://flowingdata.com/2021/11/24/calculating-where-you-should-live/",
+          "publishedOn": "2021-11-24T10:29:56.000Z",
+          "wordCount": 473,
+          "title": "Calculating where you should live"
+        },
         {
           "id": "https://flowingdata.com/?p=66094",
           "author": "Nathan Yau",

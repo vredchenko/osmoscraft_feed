@@ -2,10 +2,381 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2021-11-24T00:40:45.184Z</updated>
+    <updated>2021-11-25T00:41:49.281Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bluetooth Record Player Puts a New Spin On Vinyl]]></title>
+        <id>https://hackaday.com/?p=508058</id>
+        <link href="https://hackaday.com/2021/11/24/bluetooth-record-player-puts-a-new-spin-on-vinyl/"/>
+        <updated>2021-11-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You know, we were just discussing weird and/or obsolete audio formats in the writers’ dungeon the other day. (By the way, have you ever bought anything on DAT or MiniDisc?) …read more]]></summary>
+        <author>
+            <name>Kristina Panos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Websocket Real Time Communication to Your SaaS App]]></title>
+        <id>619ba16011d3cb08287aa2ed</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-websocket-real-time-communication-to-your-saas-app/"/>
+        <updated>2021-11-24T23:50:04.000Z</updated>
+        <summary type="html"><![CDATA[In this conference talk made for Tech Fest 2021, Steven Lemmo talks to you about building SaaS Applications with WebSockets. Here is a full breakdown of what he will cover in this 40 minute talk: The reason for this talkWhy Websockets?Websockets minimal API exampleRest Web ServicesMultiple ListenersFull DuplexWebsockets time-lineTypeScriptVendor]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Color Shades – Hex Code and RGB for Gray Color Palette]]></title>
+        <id>619bcc5611d3cb08287aa66f</id>
+        <link href="https://www.freecodecamp.org/news/color-shades-hex-code-and-rgb-for-gray-color-palette/"/>
+        <updated>2021-11-24T23:47:39.000Z</updated>
+        <summary type="html"><![CDATA[Colors play an integral role in how usable and accessible your web design projects are.  At times, they can even make or break a project.  Having a color palette comprised of different shades and hues of a specific color can be really helpful. It helps you visualize how you can]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Science vs Internet Trolls: Testing Another Kind of File System]]></title>
+        <id>https://hackaday.com/?p=508303</id>
+        <link href="https://hackaday.com/2021/11/24/science-vs-internet-trolls-testing-another-kind-of-file-system/"/>
+        <updated>2021-11-24T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[No matter what you do or say on the Internet, you’re always doing it wrong. Keyboard commandos are ready to pounce and tell you how it’s “ackchyually” supposed to be …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Analysis with Python for Excel Users Course]]></title>
+        <id>619e979225888a07c3e1b545</id>
+        <link href="https://www.freecodecamp.org/news/data-analysis-with-python-for-excel-users-course/"/>
+        <updated>2021-11-24T20:00:33.000Z</updated>
+        <summary type="html"><![CDATA[Do you know how to use Microsoft Excel and want to learn how to do data analysis with Python? You are in luck. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to do Data Analysis with Python. This course will be especially]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – Compute the Number of Sublists by Combination in Math]]></title>
+        <id>https://helloacm.com/?p=147762</id>
+        <link href="https://helloacm.com/teaching-kids-programming-compute-the-number-of-sublists-by-combination-in-math/"/>
+        <updated>2021-11-24T19:44:23.000Z</updated>
+        <summary type="html"><![CDATA[Previously, we know there are 45 continuously increasing digits (each digit is 1 plus its previous digit) such as 12, 23, 12345. This can actually be computed via Math Combination. The numbers are...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why e, the Transcendental Math Constant, Is Just the Best]]></title>
+        <id>https://www.quantamagazine.org/?p=110610</id>
+        <link href="https://www.quantamagazine.org/why-eulers-number-is-just-the-best-20211124/"/>
+        <updated>2021-11-24T19:33:50.000Z</updated>
+        <summary type="html"><![CDATA[The solution to our puzzle about Euler’s number explains why e pops up in situations that involve optimality.            
+The post Why e, the Transcendental Math Constant, Is Just the Best first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Pradeep Mutalik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oscilloscope Probes Itself To Add Video]]></title>
+        <id>https://hackaday.com/?p=508518</id>
+        <link href="https://hackaday.com/2021/11/24/oscilloscope-probes-itself-to-add-video/"/>
+        <updated>2021-11-24T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Modern oscilloscopes are often loaded with features, but every now and then you run into a feature that seems easy to implement yet isn’t available. [kgsws] wanted to use his …read more]]></summary>
+        <author>
+            <name>Robin Kearey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Won&#x27;t My Computer Connect to My Hotspot? [Fixed on Windows 10 PC WiFi]]]></title>
+        <id>619e3cdd25888a07c3e1b16d</id>
+        <link href="https://www.freecodecamp.org/news/why-wont-my-computer-connect-to-my-hotspot-fixed-on-windows-10-pc-wifi/"/>
+        <updated>2021-11-24T18:44:39.000Z</updated>
+        <summary type="html"><![CDATA[A mobile hotspot is a quick and efficient way to share an internet connection with other devices like computers, iPads, or other mobile phones.  A hotspot is also a good alternative to WiFi – especially if the WiFi in your area is unbearably slow or won't connect.  Sometimes, you might experience]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Flip Clock That Flips Up, Not Down]]></title>
+        <id>https://hackaday.com/?p=508637</id>
+        <link href="https://hackaday.com/2021/11/24/a-flip-clock-that-flips-up-not-down/"/>
+        <updated>2021-11-24T18:01:22.000Z</updated>
+        <summary type="html"><![CDATA[The venerable flip clock has become an outsized part of timekeeping culture that belies the simplicity of its mechanism. People collect and restore the electromechanical timepieces with devotion, and even …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Northeast States Abandon Cap-and-Trade Plan for Cars]]></title>
+        <id>78C39B34-C6B0-4108-90F8318F8E5923D9</id>
+        <link href="https://www.scientificamerican.com/article/northeast-states-abandon-cap-and-trade-plan-for-cars/"/>
+        <updated>2021-11-24T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The demise of the program is the latest setback for carbon pricing in the U.S.
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Benjamin Storrow, E&amp;E News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Need School-Age Vaccine Mandates to End the COVID Pandemic]]></title>
+        <id>D81073C2-94DB-4254-9270427884426894</id>
+        <link href="https://www.scientificamerican.com/article/we-need-school-age-vaccine-mandates-to-end-the-covid-pandemic/"/>
+        <updated>2021-11-24T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Vaccine refusal by parents is not about a lack of education, but amassing social status
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Emily Mendenhall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Did Life Start in the Universe?]]></title>
+        <id>44F97083-6C87-40DA-8D3A6730A7A588CA</id>
+        <link href="https://www.scientificamerican.com/article/when-did-life-start-in-the-universe1/"/>
+        <updated>2021-11-24T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Interstellar xenia, or the welcoming of cosmic strangers, could solve this mystery
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Avi Loeb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['I Launched Uplinq in the Hope of Seeing More SMBs Financially Viable': Ron Benegbi]]></title>
+        <id>https://hackernoon.com/i-launched-uplinq-in-the-hope-of-seeing-more-smbs-financially-viable-ron-benegbi?source=rss</id>
+        <link href="https://hackernoon.com/i-launched-uplinq-in-the-hope-of-seeing-more-smbs-financially-viable-ron-benegbi?source=rss"/>
+        <updated>2021-11-24T16:51:13.000Z</updated>
+        <summary type="html"><![CDATA[An interview with Ron Benegbi, founder of the Toronto-based Fintech startup Uplinq about his company, experiences and lessons learned as a startup founder.]]></summary>
+        <author>
+            <name>Uplinq Financial Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Game Coding for Dummies: A Quick Guide for Newbies]]></title>
+        <id>https://hackernoon.com/game-coding-for-dummies-a-quick-guide-for-newbies?source=rss</id>
+        <link href="https://hackernoon.com/game-coding-for-dummies-a-quick-guide-for-newbies?source=rss"/>
+        <updated>2021-11-24T16:43:01.000Z</updated>
+        <summary type="html"><![CDATA[If you’re a complete newbie or already have a bit of a programming background, you can’t go wrong with Java for game development.]]></summary>
+        <author>
+            <name>Johnny</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I Learned from The Pragmatic Programmer and The Clean Coder]]></title>
+        <id>619c873711d3cb08287aaf76</id>
+        <link href="https://www.freecodecamp.org/news/lessons-learned-from-the-pragmatic-programmer-and-the-clean-coder/"/>
+        <updated>2021-11-24T16:38:09.000Z</updated>
+        <summary type="html"><![CDATA[I recently finished reading The Pragmatic Programmer 20th Anniversary Edition (2019) and The Clean Coder (2011). You'll find these books on almost every “top 10 Software Development books” list out there.  My goal was to learn, improve, and get the kind of knowledge that a teacher from mine used to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mechanical Musical Sculpture Recalls the Four Muses]]></title>
+        <id>https://hackaday.com/?p=508417</id>
+        <link href="https://hackaday.com/2021/11/24/mechanical-musical-sculpture-recalls-the-four-muses/"/>
+        <updated>2021-11-24T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Music was created by humans, but often we find ourselves creating performances with machines. [Alana Balagot] and [Federico Tobon] did just that, constructing the stunning 4 Muses musical sculpture with …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Defeat Randomness to Create Ideal Code]]></title>
+        <id>https://www.quantamagazine.org/?p=110607</id>
+        <link href="https://www.quantamagazine.org/researchers-defeat-randomness-to-create-ideal-code-20211124/"/>
+        <updated>2021-11-24T15:54:30.000Z</updated>
+        <summary type="html"><![CDATA[By carefully constructing a multidimensional and well-connected graph, a team of researchers has finally created a long-sought locally testable code that can immediately betray whether it’s been corrupted.            
+The post Researchers Defeat Randomness to Create Ideal Code first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Mordechai Rorvig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Holds Back Innovation]]></title>
+        <id>https://hackernoon.com/what-holds-back-innovation?source=rss</id>
+        <link href="https://hackernoon.com/what-holds-back-innovation?source=rss"/>
+        <updated>2021-11-24T15:49:29.000Z</updated>
+        <summary type="html"><![CDATA[Many innovations need time to catch on because of our resistance and scepticism to a novel way to accomplish things.]]></summary>
+        <author>
+            <name>Roxana Murariu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Generative Patterns with The CSS Paint API]]></title>
+        <id>https://css-tricks.com/?p=357294</id>
+        <link href="https://css-tricks.com/creating-generative-patterns-with-the-css-paint-api/"/>
+        <updated>2021-11-24T15:49:08.000Z</updated>
+        <summary type="html"><![CDATA[The browser has long been a medium for art and design. From Lynn Fisher’s joyful A Single Div creations to Diana Smith’s staggeringly detailed CSS paintings, wildly creative, highly skilled developers have — over the years — continuously pushed …
+The post Creating Generative Patterns with The CSS Paint API appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>George Francis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why and How to Add Feature Toggles to Your Software]]></title>
+        <id>619e8cba25888a07c3e1b499</id>
+        <link href="https://www.freecodecamp.org/news/why-and-how-to-add-feature-toggles-to-your-software/"/>
+        <updated>2021-11-24T15:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Feature Toggles (aka Feature Flags) are a technique used in software development in order to hide, enable or disable a particular feature during runtime. They allow teams to modify system behavior without changing code. We just published a course on the freeCodeCamp YouTube channel that will teach you why and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The No-Code Movement: How to Build Without Code]]></title>
+        <id>https://hackernoon.com/the-no-code-movement-how-to-build-without-code?source=rss</id>
+        <link href="https://hackernoon.com/the-no-code-movement-how-to-build-without-code?source=rss"/>
+        <updated>2021-11-24T15:25:27.000Z</updated>
+        <summary type="html"><![CDATA[Exploring no-code movement as a newbie.]]></summary>
+        <author>
+            <name>Amy Pravin Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D3.js Tutorial – Data Visualization for Beginners]]></title>
+        <id>618ed39211d3cb08287a5535</id>
+        <link href="https://www.freecodecamp.org/news/d3js-tutorial-data-visualization-for-beginners/"/>
+        <updated>2021-11-24T15:03:01.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'm going to walk you through how to use D3.js in a step by step and beginner-friendly way. We'll talk about what D3.js is, how it works, and we'll create some basic visualizations to add transitions, interactions, and zooming. Table of Contents Getting Started  What]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Ember – Ember.js Tips for Beginners Tutorial]]></title>
+        <id>619cdd9d11d3cb08287ab09c</id>
+        <link href="https://www.freecodecamp.org/news/learn-ember-ember-js-tips-for-beginners-tutorial/"/>
+        <updated>2021-11-24T15:02:26.000Z</updated>
+        <summary type="html"><![CDATA[In this talk, Designer turned Software Developer Lenora Porter talks about her journey learning Ember.js. She also shares her tips for beginners who are about to start their journey. Here are her top 4 take-aways: How to Learn Ember.jsHave the Mindset of a BeginnerThis is the foundational work.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Deep Frying Turkey Can Go Very Wrong]]></title>
+        <id>https://hackaday.com/?p=508543</id>
+        <link href="https://hackaday.com/2021/11/24/why-deep-frying-turkey-can-go-very-wrong/"/>
+        <updated>2021-11-24T15:01:52.000Z</updated>
+        <summary type="html"><![CDATA[Tomorrow is Thanksgiving and that means Americans across the United States will be cooking up a turkey feast. One of the most popular ways to cook the bird is by …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thanksgiving and the Myth of Native American 'Savages']]></title>
+        <id>2A6E5B6C-C30C-4886-AE9F043EDFF98C57</id>
+        <link href="https://blogs.scientificamerican.com/blogs/cross-check/thanksgiving-and-the-myth-of-native-american-savages/"/>
+        <updated>2021-11-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Prominent scientists exaggerate the violence of Native Americans, whom European invaders ravaged
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>John Horgan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WTH? We Wanna WFH | DoD Dual-Sources JWCC | More Nvidia ARM Woes]]></title>
+        <id>https://devops.com/?p=147868</id>
+        <link href="https://devops.com/wth-we-wanna-wfh-dod-dual-sources-jwcc-more-nvidia-arm-woes/"/>
+        <updated>2021-11-24T14:13:35.000Z</updated>
+        <summary type="html"><![CDATA[In this week’s The Long View: Working from home is de rigueur, JEDI redux, and more about Nvidia/Arm.
+The post WTH? We Wanna WFH | DoD Dual-Sources JWCC | More Nvidia ARM Woes appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Richi Jennings</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Transformation Driving VSM Adoption]]></title>
+        <id>https://devops.com/?p=148090</id>
+        <link href="https://devops.com/digital-transformation-driving-vsm-adoption/"/>
+        <updated>2021-11-24T14:00:33.000Z</updated>
+        <summary type="html"><![CDATA[The number of organizations using value stream management (VSM) to bridge the divide between DevOps and the rest of the business is expected to dramatically increase over the next two years. The shift is due, in part, to investments in digital business transformation initiatives. A survey of more than 500 executives, IT and business leaders […]
+The post Digital Transformation Driving VSM Adoption appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Mike Vizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Physical Activity Could Be an Evolutionary Adaptation for Grandparenting]]></title>
+        <id>E11054CB-7EA0-4CBA-BECF1E7AD66239F9</id>
+        <link href="https://www.scientificamerican.com/article/physical-activity-could-be-an-evolutionary-adaptation-for-grandparenting/"/>
+        <updated>2021-11-24T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It may force energy shifts to repair and maintenance, which could slow aging and make us more available to care for younger generations
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Emily Willingham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Albatross 'Divorce' Rate Rises as the Ocean Warms]]></title>
+        <id>BF5A52B3-9C50-43D0-98F99B3DBBECFBD0</id>
+        <link href="https://www.scientificamerican.com/article/albatross-divorce-rate-rises-as-the-ocean-warms/"/>
+        <updated>2021-11-24T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Monogamous black-browed albatross may split up from the stress of less food availability
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Jack Tamisiea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[E-MonoWheel]]></title>
+        <id>https://hackaday.com/?p=508293</id>
+        <link href="https://hackaday.com/2021/11/24/e-monowheel/"/>
+        <updated>2021-11-24T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Generally, monowheels are that wacky, wildly futuristic transport that we lump in the same category as hoverbikes and jetpacks: strange, currently impractical, but very cool. Not content with waiting for …read more]]></summary>
+        <author>
+            <name>Matthew Carlson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rivers Dump Mercury into Coastal Fisheries]]></title>
+        <id>708A106E-5D7A-4817-B384F33B1BC44AAF</id>
+        <link href="https://www.scientificamerican.com/article/rivers-dump-mercury-into-coastal-fisheries/"/>
+        <updated>2021-11-24T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Most of the pollutant arrives at the coasts by river
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Elise Cutts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calculating where you should live]]></title>
+        <id>https://flowingdata.com/?p=66119</id>
+        <link href="https://flowingdata.com/2021/11/24/calculating-where-you-should-live/"/>
+        <updated>2021-11-24T10:29:56.000Z</updated>
+        <summary type="html"><![CDATA[Choosing a place to live is always full of trade-offs, but it’d be…
+Tags: calculator, housing, live, New York Times]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some Change is Bad]]></title>
+        <id>https://devops.com/?p=147930</id>
+        <link href="https://devops.com/some-change-is-bad/"/>
+        <updated>2021-11-24T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Some time toward the end of the year, I start considering the volume of change we, as practitioners, have been under for … literally years, even decades. And I start to try and think of ways to keep you all from drowning in change. And then I write something that I hope helps you all […]
+The post Some Change is Bad appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Don Macvittie</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[All the Math You Need to Know in Artificial Intelligence]]></title>
         <id>6197c7ce11d3cb08287a9271</id>
@@ -37,6 +408,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[This Data Set Shows How Our Emotions Affect the Weather]]></title>
+        <id>https://hackernoon.com/this-data-set-proves-how-our-emotions-affect-the-weather?source=rss</id>
+        <link href="https://hackernoon.com/this-data-set-proves-how-our-emotions-affect-the-weather?source=rss"/>
+        <updated>2021-11-23T22:26:53.000Z</updated>
+        <summary type="html"><![CDATA[An interesting observation on the emotional effect of weather. Correlation does not equate causation but the situation remains fascinating to readers anyway.]]></summary>
+        <author>
+            <name>Shawn Gordon</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Charging Phones with the Power of Paper Pulp]]></title>
         <id>https://hackaday.com/?p=508061</id>
         <link href="https://hackaday.com/2021/11/23/charging-phones-with-the-power-of-paper-pulp/"/>
@@ -44,6 +425,16 @@
         <summary type="html"><![CDATA[Here it is, the most exciting reveal since the Hackaday Prize ceremony — [Eric Strebel] uses the pulp mold he designed and built over the three previous videos. In case …read more]]></summary>
         <author>
             <name>Kristina Panos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Before You Start Learning to Code, Read This.]]></title>
+        <id>https://hackernoon.com/before-you-start-learning-to-code-read-this?source=rss</id>
+        <link href="https://hackernoon.com/before-you-start-learning-to-code-read-this?source=rss"/>
+        <updated>2021-11-23T20:24:19.000Z</updated>
+        <summary type="html"><![CDATA[How to get started with software development, the easy way.]]></summary>
+        <author>
+            <name>Zaid Qureshi</name>
         </author>
     </entry>
     <entry>
@@ -55,6 +446,16 @@
 The post WhiteSource Adds SBOM Tool That Lists Vulnerabilities appeared first on DevOps.com.]]></summary>
         <author>
             <name>Mike Vizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Cryptographer's Guide to End-to-End Encryption]]></title>
+        <id>https://hackernoon.com/a-cryptographers-guide-to-end-to-end-encryption?source=rss</id>
+        <link href="https://hackernoon.com/a-cryptographers-guide-to-end-to-end-encryption?source=rss"/>
+        <updated>2021-11-23T19:30:09.000Z</updated>
+        <summary type="html"><![CDATA[End-to-end encryption is getting traction for secure communications. But how is it different from all other types of encryption?  Here is a basic guide to it.]]></summary>
+        <author>
+            <name>Tresorit</name>
         </author>
     </entry>
     <entry>
@@ -89,6 +490,26 @@ The post Which SVG technique performs best for way too many icons? appeared firs
 -- Read more on ScientificAmerican.com]]></summary>
         <author>
             <name>Chelsea Harvey, E&amp;E News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tailwind CSS Explained, and How to Install Version 3.0]]></title>
+        <id>https://hackernoon.com/tailwind-css-explained-and-how-to-install-version-30?source=rss</id>
+        <link href="https://hackernoon.com/tailwind-css-explained-and-how-to-install-version-30?source=rss"/>
+        <updated>2021-11-23T18:17:39.000Z</updated>
+        <summary type="html"><![CDATA[What is Tailwind CSS? What advantages does it have over standard CSS? I show you, with examples, how to use it and how to install the latest 3.0 version.]]></summary>
+        <author>
+            <name>David Morales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Most Anticipated Black Friday Sale of the Year is Here]]></title>
+        <id>https://hackernoon.com/the-most-anticipated-black-friday-sale-of-the-year-is-here?source=rss</id>
+        <link href="https://hackernoon.com/the-most-anticipated-black-friday-sale-of-the-year-is-here?source=rss"/>
+        <updated>2021-11-23T18:13:58.000Z</updated>
+        <summary type="html"><![CDATA[A bird in the hand may be worth two in the bush – but with TradingView’s Black Friday Sale and discounts of up to 60%, it’s the perfect time to grab those two avians once and for all. Use this chance to buy any subscription at the company’s lowest possible price: you can compare the features of each plan here.]]></summary>
+        <author>
+            <name>TradingView</name>
         </author>
     </entry>
     <entry>
@@ -22353,32 +22774,6 @@ Subscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://go
 The post jq for JSON appeared first on David Walsh Blog.]]></summary>
         <author>
             <name>David Walsh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teaching Kids Programming – Disjoint Set: Find if Path Exists in Graph via Union Find Algorithm]]></title>
-        <id>https://helloacm.com/?p=146476</id>
-        <link href="https://helloacm.com/teaching-kids-programming-disjoint-set-find-if-path-exists-in-graph-via-union-find-algorithm/"/>
-        <updated>2021-08-26T20:28:16.000Z</updated>
-        <summary type="html"><![CDATA[There is a bi-directional graph with n vertices, where each vertex is labeled from 0 to n – 1 (inclusive). The edges in the graph are represented as a 2D integer array edges, where each edges =...
-
-
-[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
-        <author>
-            <name>ACMer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design for Safety, An Excerpt]]></title>
-        <id>https://alistapart.com/article/design-for-safety-excerpt/</id>
-        <link href="https://alistapart.com/article/design-for-safety-excerpt/"/>
-        <updated>2021-08-26T15:01:43.000Z</updated>
-        <summary type="html"><![CDATA[Antiracist economist Kim Crayton says that “intention without strategy is chaos.” We’ve discussed how our biases, assumptions, and inattention toward marginalized and vulnerable groups lead to dangerous and unethical tech—but what, specifically, do we need to do to fix it? The intention to make our tech safer is not enough; we need a strategy.
-This chapter will equip you with that plan of action. It covers how to integrate safety principles into your design work in order to create tech that’s safe, how to convince your stakeholders that this work is necessary, and how to respond to the critique that what we actually need is more diversity. (Spoiler: we do, but diversity alone is not the antidote to fixing unethical, unsafe tech.)
-The process for inclusive safety
-When you are designing for …]]></summary>
-        <author>
-            <name>by</name>
         </author>
     </entry>
 </feed>
