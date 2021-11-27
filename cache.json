@@ -40,6 +40,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=357271",
+          "author": "Chris Coyier",
+          "description": "I’ve got some blind spots in CSS-related performance things. One example is the will-change property. It’s a good name. You’re telling the browser some particular property (or the scroll-position or content) uh, will, change:\n.el {\n  will-change: opacity;\n\n…\nThe post When is it “Right” to Reach for  contain and will-change in CSS? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/when-is-it-right-to-reach-for-contain-and-will-change-in-css/",
+          "publishedOn": "2021-11-26T20:43:05.000Z",
+          "wordCount": 1015,
+          "title": "When is it “Right” to Reach for  contain and will-change in CSS?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357239",
+          "author": "Neale Van Fleet",
+          "description": "I love little touches that make a website feel like more than just a static document. What if web content wouldn’t just “appear” when a page loaded, but instead popped, slid, faded, or spun into place? It might be a …\nThe post A Handy Little System for Animated Entrances in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/a-handy-little-system-for-animated-entrances-in-css/",
+          "publishedOn": "2021-11-26T16:12:33.000Z",
+          "wordCount": 2026,
+          "title": "A Handy Little System for Animated Entrances in CSS"
+        },
+        {
           "id": "https://css-tricks.com/?p=357294",
           "author": "George Francis",
           "description": "The browser has long been a medium for art and design. From Lynn Fisher’s joyful A Single Div creations to Diana Smith’s staggeringly detailed CSS paintings, wildly creative, highly skilled developers have — over the years — continuously pushed …\nThe post Creating Generative Patterns with The CSS Paint API appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -2888,6 +2906,186 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/cloud-application-development-trends-and-technologies?source=rss",
+          "author": "EXISTEK",
+          "description": "What is the state of cloud app development? How to develop a cloud application? What technologies to apply? Read the article to find your answers.",
+          "link": "https://hackernoon.com/cloud-application-development-trends-and-technologies?source=rss",
+          "publishedOn": "2021-11-26T22:48:16.000Z",
+          "wordCount": 3251,
+          "title": "Cloud Application Development: Trends and Technologies"
+        },
+        {
+          "id": "https://hackernoon.com/is-this-how-our-story-is-due-to-end-cop26?source=rss",
+          "author": "Zak Oganian",
+          "description": "Are we investing in the right things or failing to see the bigger picture in pursuit of short-term goals?",
+          "link": "https://hackernoon.com/is-this-how-our-story-is-due-to-end-cop26?source=rss",
+          "publishedOn": "2021-11-26T22:41:56.000Z",
+          "wordCount": 1003,
+          "title": "\"Is This How Our Story is Due to End?\" #COP26"
+        },
+        {
+          "id": "https://hackernoon.com/can-you-land-a-junior-role-as-a-dev-ops-engineer?source=rss",
+          "author": "Michael Levan",
+          "description": "You'll see \"junior\" level DevOps and SRE roles. You'll also see several people asking how to get into DevOps or SRE as a junior-level candidate.",
+          "link": "https://hackernoon.com/can-you-land-a-junior-role-as-a-dev-ops-engineer?source=rss",
+          "publishedOn": "2021-11-26T22:40:47.000Z",
+          "wordCount": 846,
+          "title": "Can You Land a Junior Role as a Dev Ops Engineer?"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-get-better-at-kubernetes?source=rss",
+          "author": "Piotr",
+          "description": "Here are some operators and advanced use cases for them to help you level up your Kubernetes game and to get even better at programming with that language.",
+          "link": "https://hackernoon.com/how-to-get-better-at-kubernetes?source=rss",
+          "publishedOn": "2021-11-26T22:37:29.000Z",
+          "wordCount": 960,
+          "title": "How To Get Better at Kubernetes"
+        },
+        {
+          "id": "https://hackernoon.com/why-sase-secure-access-service-edge-matters-for-businesses?source=rss",
+          "author": "NordLayer",
+          "description": "The way companies protect their networks is undergoing a seismic shift. SASE is one such way that companies are protecting themselves. Here's why it's important",
+          "link": "https://hackernoon.com/why-sase-secure-access-service-edge-matters-for-businesses?source=rss",
+          "publishedOn": "2021-11-26T22:32:25.000Z",
+          "wordCount": 1645,
+          "title": "Why SASE (Secure Access Service Edge) Matters for Businesses"
+        },
+        {
+          "id": "https://hackernoon.com/colors-of-python-interpreters?source=rss",
+          "author": "Maksim Kuznetsov",
+          "description": "As you know, Python is a very popular language and already takes 1st place in the TIOBE rating. And in the classical understanding of Python, in 90% of cases, CPython is meant. It is a reference implementation of the interpreter under the guidance of Guido van Rossum. Version 3.10 is current as of November 14, 2021. By now, Python means only version 3, but before this version appeared, mentions of version 2 can still be found. Now version 2 is not supported and most companies are removing the remnants of the code from version 2. by porting the code to version 3. As of January 1, 2020, Python 2 is no longer supported [https://www.python.org/doc/sunset-python-2/]. And this is quite understandable since, after the release of Python 3 in 2006, developers had to support 2 versions at the same time, which is laborious.",
+          "link": "https://hackernoon.com/colors-of-python-interpreters?source=rss",
+          "publishedOn": "2021-11-26T20:04:20.000Z",
+          "wordCount": 2070,
+          "title": "Colors of Python Interpreters"
+        },
+        {
+          "id": "https://hackernoon.com/robotics-is-aimed-to-help-and-assist-humans-by-taking-on-the-dirty-dangerous-and-dull-chores?source=rss",
+          "author": "Ishan Pandey",
+          "description": "This article discusses robotics and the impact of robots and AI on humanity.",
+          "link": "https://hackernoon.com/robotics-is-aimed-to-help-and-assist-humans-by-taking-on-the-dirty-dangerous-and-dull-chores?source=rss",
+          "publishedOn": "2021-11-26T19:57:37.000Z",
+          "wordCount": 1828,
+          "title": "Robotics is Aimed to Help and Assist Humans by Taking on the Dirty, Dangerous, and Dull Chores"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-build-an-instagram-clone-app-with-react-native?source=rss",
+          "author": "Darlington Gospel",
+          "description": "It's time you take your web development to the next level. You need to start developing mobile apps and if you ain’t there yet, start building to get started.",
+          "link": "https://hackernoon.com/how-to-build-an-instagram-clone-app-with-react-native?source=rss",
+          "publishedOn": "2021-11-26T19:54:44.000Z",
+          "wordCount": 3038,
+          "title": "How to Build an Instagram Clone App With React Native"
+        },
+        {
+          "id": "https://hackernoon.com/how-i-hacked-my-schedule-for-self-improvement?source=rss",
+          "author": "Zaid Qureshi",
+          "description": "If you have ever read a self improvement article, a success story about starting a business, or an article about top reasons to be an entrepreneur, this may pr",
+          "link": "https://hackernoon.com/how-i-hacked-my-schedule-for-self-improvement?source=rss",
+          "publishedOn": "2021-11-26T19:49:38.000Z",
+          "wordCount": 967,
+          "title": "How I Hacked My Schedule for Self Improvement"
+        },
+        {
+          "id": "https://hackernoon.com/legal-tech-solutions-market-size-impact-and-trends?source=rss",
+          "author": "Ascendix Tech",
+          "description": "This article provides readers with a definite legal tech overview. Here we analyzed legaltech market size, trends, and the state of technology in legal industry",
+          "link": "https://hackernoon.com/legal-tech-solutions-market-size-impact-and-trends?source=rss",
+          "publishedOn": "2021-11-26T19:47:35.000Z",
+          "wordCount": 936,
+          "title": "Legal Tech Solutions: Market Size, Impact, and Trends"
+        },
+        {
+          "id": "https://hackernoon.com/top-4-hdl-simulators-for-beginners?source=rss",
+          "author": "John",
+          "description": "In this post, we look at some of the strengths and weaknesses of four of the most popular HDL simulators - Icarus Verilog, GHDL, Vivado, and Modelsim.",
+          "link": "https://hackernoon.com/top-4-hdl-simulators-for-beginners?source=rss",
+          "publishedOn": "2021-11-26T19:35:47.000Z",
+          "wordCount": 887,
+          "title": "Top 4 HDL Simulators for Beginners"
+        },
+        {
+          "id": "https://hackernoon.com/8-tips-for-safe-online-shopping-this-holiday-season?source=rss",
+          "author": "Avast Secure Browser",
+          "description": "The holiday shopping season really gets underway when it's the end of the year and online shopping continues to rise and rise in popularity.",
+          "link": "https://hackernoon.com/8-tips-for-safe-online-shopping-this-holiday-season?source=rss",
+          "publishedOn": "2021-11-26T19:14:08.000Z",
+          "wordCount": 964,
+          "title": "8 Tips for Safe Online Shopping this Holiday Season"
+        },
+        {
+          "id": "https://hackernoon.com/10-common-behavioral-mistakes-novice-programmers-make?source=rss",
+          "author": "Alex Yelenevych",
+          "description": "The mistakes of novice programmers, those who are just learning or just starting to work, are very similar to each other. Many of them can be called not mistakes, but behavioral features, stages all beginners go through. We as Java course creators are interested in this topic, so we interviewed opinion leaders and collected the most common, in their view, examples of such behavioral errors in order to … shorten their duration for future software developers. If you start noticing such behavioral mistakes early and try to fix them, your path to mastery will be shorter and your work will be more efficient.",
+          "link": "https://hackernoon.com/10-common-behavioral-mistakes-novice-programmers-make?source=rss",
+          "publishedOn": "2021-11-26T19:13:00.000Z",
+          "wordCount": 3150,
+          "title": "10 Common Behavioral Mistakes Novice Programmers Make"
+        },
+        {
+          "id": "https://hackernoon.com/set-up-webpack-to-work-with-static-files?source=rss",
+          "author": "Matheus Alves",
+          "description": "In this tutorial, you'll learn how to set up webpack to work with static files in a development environment and how to configure it for multiple use cases.",
+          "link": "https://hackernoon.com/set-up-webpack-to-work-with-static-files?source=rss",
+          "publishedOn": "2021-11-26T19:01:01.000Z",
+          "wordCount": 912,
+          "title": "Set Up Webpack To Work With Static Files"
+        },
+        {
+          "id": "https://hackernoon.com/enabling-business-operations-with-computer-vision-interview-with-tanay-dixit-cpo-of-wobotai?source=rss",
+          "author": "Wobot Intelligence Inc",
+          "description": "HackerNoon good company with Tanay Dixit, co-founder, and CPO of Wobot.ai.",
+          "link": "https://hackernoon.com/enabling-business-operations-with-computer-vision-interview-with-tanay-dixit-cpo-of-wobotai?source=rss",
+          "publishedOn": "2021-11-26T18:54:40.000Z",
+          "wordCount": 972,
+          "title": "Enabling Business Operations With Computer Vision: Interview With Tanay Dixit, CPO of Wobot.ai"
+        },
+        {
+          "id": "https://hackernoon.com/data-lineage-is-like-untangling-a-ball-of-yarn?source=rss",
+          "author": "Castor",
+          "description": "Data lineage is a technology that retraces the relationships between data assets. 'Data lineage is like a family tree but for data'",
+          "link": "https://hackernoon.com/data-lineage-is-like-untangling-a-ball-of-yarn?source=rss",
+          "publishedOn": "2021-11-26T18:33:42.000Z",
+          "wordCount": 3019,
+          "title": "Data Lineage is Like Untangling a Ball of Yarn"
+        },
+        {
+          "id": "https://hackernoon.com/common-java-learning-mistakes-to-avoid?source=rss",
+          "author": "Johnny",
+          "description": "Are you stuck in the learning root, or do you feel like your Java study doesn’t bring the results you’re craving for? If so, you’re not alone.",
+          "link": "https://hackernoon.com/common-java-learning-mistakes-to-avoid?source=rss",
+          "publishedOn": "2021-11-26T18:26:36.000Z",
+          "wordCount": 2416,
+          "title": "Common Java Learning Mistakes To Avoid"
+        },
+        {
+          "id": "https://hackernoon.com/the-cats-corporation-an-overview?source=rss",
+          "author": "Ai319OZ",
+          "description": "Cats Corporation is a alternative universe developed by a group of cat-loving artists. Projects like Cool Cats and Crypto Kitty influenced us.",
+          "link": "https://hackernoon.com/the-cats-corporation-an-overview?source=rss",
+          "publishedOn": "2021-11-26T18:20:35.000Z",
+          "wordCount": 904,
+          "title": "The Cats Corporation: An Overview"
+        },
+        {
+          "id": "https://hackernoon.com/blockchain-search-engines-can-decentralization-defeat-google?source=rss",
+          "author": "Maria Lobanova",
+          "description": "Searching for information on the World Wide Web has become routine for billions of users. Meanwhile, search engines have become so firmly entrenched in our lives that they have gained unprecedented power over what we read, what information we consume, and what services we use. The algorithms that generate search results, which were originally designed for the user's convenience, have become a propaganda tool that wields power over the public’s consciousness. Search engines serve an agenda aimed at informational control. Instead of providing impartial access to data, they have led to the polarization of society.",
+          "link": "https://hackernoon.com/blockchain-search-engines-can-decentralization-defeat-google?source=rss",
+          "publishedOn": "2021-11-26T18:17:36.000Z",
+          "wordCount": 2572,
+          "title": "Blockchain Search Engines: Can Decentralization Defeat Google?"
+        },
+        {
+          "id": "https://hackernoon.com/can-blockchain-solve-climate-change-an-interview-with-huseyin-uysal?source=rss",
+          "author": "Christopher",
+          "description": "An illuminating interview with the founder and CEO of an environmentally-focused blockchain ecosystem.",
+          "link": "https://hackernoon.com/can-blockchain-solve-climate-change-an-interview-with-huseyin-uysal?source=rss",
+          "publishedOn": "2021-11-26T18:09:07.000Z",
+          "wordCount": 2040,
+          "title": "Can Blockchain Solve Climate Change? An Interview with Hüseyin Uysal"
+        },
         {
           "id": "https://hackernoon.com/network-marketing-tools-you-must-use?source=rss",
           "author": "Infinite Open Source Solutions",
@@ -10149,16 +10347,6 @@
           "wordCount": null,
           "title": "Teaching Kids Programming – Dynamic Programming Algorithms to Count the Number of Unique Binary Search Trees (Catalan Numbers)",
           "itunes": {}
-        },
-        {
-          "id": "https://helloacm.com/?p=146493",
-          "author": "ACMer",
-          "description": "You are given a network of n nodes, labeled from 1 to n. You are also given times, a list of travel times as directed edges times = (ui, vi, wi), where ui is the source node, vi is the target node,...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
-          "link": "https://helloacm.com/teaching-kids-programming-finding-the-network-delay-time-via-floyd-warshall-shortest-path-algorithm/",
-          "publishedOn": "2021-08-28T19:53:39.000Z",
-          "wordCount": null,
-          "title": "Teaching Kids Programming – Finding the Network Delay Time via  Floyd-Warshall Shortest Path Algorithm",
-          "itunes": {}
         }
       ]
     },
@@ -10167,6 +10355,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=508720",
+          "author": "Maya Posch",
+          "description": "Often, mere curiosity is sufficient to do something. This is also the case with people trying to analyze the communication setup and protocol which SpaceX is using with their Ku-band …read more",
+          "link": "https://hackaday.com/2021/11/26/analyzing-starlink-satellite-downlink-communications-with-software-defined-radio/",
+          "publishedOn": "2021-11-27T00:00:00.000Z",
+          "wordCount": 1149,
+          "title": "Analyzing Starlink Satellite Downlink Communications With Software Defined Radio"
+        },
+        {
+          "id": "https://hackaday.com/?p=508558",
+          "author": "Ryan Flowers",
+          "description": "We all know the story arc that so many projects take: Build. Fail. Improve. Fail. Repair. Improve. Fail. Rebuild. Success… Tweak! [Kris Harbour] is no stranger to the process, as …read more",
+          "link": "https://hackaday.com/2021/11/26/impressive-off-grid-hydroelectric-plant-showcases-the-hacker-spirit/",
+          "publishedOn": "2021-11-26T21:00:00.000Z",
+          "wordCount": 1255,
+          "title": "Impressive Off-Grid Hydroelectric Plant Showcases The Hacker Spirit"
+        },
+        {
+          "id": "https://hackaday.com/?p=508691",
+          "author": "Ryan Flowers",
+          "description": "If you’re reading this sentence, there’s a pretty good chance that you interact with electricity more than just as an end-user. You’re a hacker. You aren’t afraid of a few …read more",
+          "link": "https://hackaday.com/2021/11/26/the-unofficial-guide-to-avoiding-electrocution/",
+          "publishedOn": "2021-11-26T18:00:00.000Z",
+          "wordCount": 2281,
+          "title": "The Unofficial Guide To (Avoiding) Electrocution"
+        },
+        {
+          "id": "https://hackaday.com/?p=509230",
+          "author": "Elliot Williams",
+          "description": "Postpone your holiday shopping and spend some quality time with editors Mike Szczys and Elliot Williams as they sift through the week in Hackaday. Which programming language is the greenest? …read more",
+          "link": "https://hackaday.com/2021/11/26/hackaday-podcast-ep-146-dueling-trackballs-next-level-beam-robot-take-control-of-your-bench-and-green-programming/",
+          "publishedOn": "2021-11-26T17:00:27.000Z",
+          "wordCount": 1230,
+          "title": "Hackaday Podcast Ep 146: Dueling Trackballs, Next Level BEAM Robot, Take Control of Your Bench, and Green Programming"
+        },
+        {
+          "id": "https://hackaday.com/?p=508686",
+          "author": "Ryan Flowers",
+          "description": "A funny thing happens as the average electronics hobbyist gets older: Their eyes- well they just don’t work the same as they used to. But what if your life started …read more",
+          "link": "https://hackaday.com/2021/11/26/vision-impaired-electronics-engineer-shows-the-way-to-get-things-done/",
+          "publishedOn": "2021-11-26T15:00:00.000Z",
+          "wordCount": 1668,
+          "title": "Vision Impaired Electronics Engineer Shows The Way To Get Things Done"
+        },
+        {
+          "id": "https://hackaday.com/?p=508523",
+          "author": "Jenny List",
+          "description": "It’s an age-old conundrum for anyone working with retro hardware: preserve its original condition or not? The answer depends so often on a complex mix of how rare, obsolete or …read more",
+          "link": "https://hackaday.com/2021/11/26/a-rotary-phone-as-a-computer-peripheral/",
+          "publishedOn": "2021-11-26T12:00:00.000Z",
+          "wordCount": 1226,
+          "title": "A Rotary Phone As A Computer Peripheral"
+        },
+        {
+          "id": "https://hackaday.com/?p=508260",
+          "author": "Bryan Cockfield",
+          "description": "We have certainly all had our moments with solder paste. Some of us hate it; it’s sticky and gooey, and it gets everywhere. That is, unless you have a solder …read more",
+          "link": "https://hackaday.com/2021/11/26/solder-paste-dispenser-without-giant-compressor/",
+          "publishedOn": "2021-11-26T09:00:00.000Z",
+          "wordCount": 2465,
+          "title": "Solder Paste Dispenser Without Giant Compressor"
+        },
         {
           "id": "https://hackaday.com/?p=507966",
           "author": "Bryan Cockfield",
@@ -13747,6 +13998,53 @@
       "feedUrl": "http://rss.sciam.com/scientificamerican-global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "A081C8B1-FF7F-40C4-84E8A2F9502EB634",
+          "author": "Sarah Vitak",
+          "description": "The Miller-Urey experiment showed that the conditions of early Earth could be simulated in a glass flask. New research finds the flask itself played an under appreciated, though outsized role.\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/podcast/episode/redo-of-a-famous-experiment-on-the-origins-of-life-reveals-critical-detail-missed-for-decades/",
+          "publishedOn": "2021-11-26T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Redo of a Famous Experiment on the Origins of Life Reveals Critical Detail Missed for Decades",
+          "itunes": {
+            "duration": "05:35"
+          },
+          "enclosure": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=AF67037E-35F3-4C51-B9622DADEDAD5837",
+            "length": "4711879",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "B3C4FB33-1C8F-4340-AABE3CFBC2157731",
+          "author": "Matt Wilkins, Lauryn Benedict",
+          "description": "Science and science communication miss out when they’re not inclusive\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/why-it-took-so-long-to-appreciate-female-birds-songs/",
+          "publishedOn": "2021-11-26T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Why It Took So Long to Appreciate Female Birds' Songs",
+          "itunes": {}
+        },
+        {
+          "id": "6CFDF412-2F35-4B21-B7D426F337CD6E82",
+          "author": "Michael Breazeale, The Conversation US",
+          "description": "Some people are more “task-oriented,” while others focus more on making social connections\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-psychological-differences-between-those-who-love-and-loathe-black-friday-shopping/",
+          "publishedOn": "2021-11-26T14:00:00.000Z",
+          "wordCount": null,
+          "title": "The Psychological Differences between Those Who Love and Loathe Black Friday Shopping",
+          "itunes": {}
+        },
+        {
+          "id": "CCDCCB0F-02F1-45D8-98311BE005BF3F17",
+          "author": "Riley Black",
+          "description": "Fangs evolved over and over because of this groovy process\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-surprising-secret-of-snakes-venomous-bites/",
+          "publishedOn": "2021-11-26T13:00:00.000Z",
+          "wordCount": null,
+          "title": "The Surprising Secret of Snakes' Venomous Bites",
+          "itunes": {}
+        },
         {
           "id": "D8373415-C116-4AB8-8A19E7F605653F6F",
           "author": "Spektrum, Scientific American Staff",
@@ -19074,6 +19372,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66113",
+          "author": "Nathan Yau",
+          "description": "For NYT’s The Upshot, Alicia Parlapiano and Quoctrung Bui outlined all of the…\nTags: government, spending, Upshot",
+          "link": "https://flowingdata.com/2021/11/26/all-the-provisions-in-the-build-back-better-bill/",
+          "publishedOn": "2021-11-26T08:02:17.000Z",
+          "wordCount": 288,
+          "title": "All the provisions in the Build Back Better bill"
+        },
         {
           "id": "https://flowingdata.com/?p=66119",
           "author": "Nathan Yau",

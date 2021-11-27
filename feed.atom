@@ -2,10 +2,369 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2021-11-26T00:40:13.547Z</updated>
+    <updated>2021-11-27T00:39:28.467Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Analyzing Starlink Satellite Downlink Communications With Software Defined Radio]]></title>
+        <id>https://hackaday.com/?p=508720</id>
+        <link href="https://hackaday.com/2021/11/26/analyzing-starlink-satellite-downlink-communications-with-software-defined-radio/"/>
+        <updated>2021-11-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Often, mere curiosity is sufficient to do something. This is also the case with people trying to analyze the communication setup and protocol which SpaceX is using with their Ku-band …read more]]></summary>
+        <author>
+            <name>Maya Posch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud Application Development: Trends and Technologies]]></title>
+        <id>https://hackernoon.com/cloud-application-development-trends-and-technologies?source=rss</id>
+        <link href="https://hackernoon.com/cloud-application-development-trends-and-technologies?source=rss"/>
+        <updated>2021-11-26T22:48:16.000Z</updated>
+        <summary type="html"><![CDATA[What is the state of cloud app development? How to develop a cloud application? What technologies to apply? Read the article to find your answers.]]></summary>
+        <author>
+            <name>EXISTEK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Is This How Our Story is Due to End?" #COP26]]></title>
+        <id>https://hackernoon.com/is-this-how-our-story-is-due-to-end-cop26?source=rss</id>
+        <link href="https://hackernoon.com/is-this-how-our-story-is-due-to-end-cop26?source=rss"/>
+        <updated>2021-11-26T22:41:56.000Z</updated>
+        <summary type="html"><![CDATA[Are we investing in the right things or failing to see the bigger picture in pursuit of short-term goals?]]></summary>
+        <author>
+            <name>Zak Oganian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can You Land a Junior Role as a Dev Ops Engineer?]]></title>
+        <id>https://hackernoon.com/can-you-land-a-junior-role-as-a-dev-ops-engineer?source=rss</id>
+        <link href="https://hackernoon.com/can-you-land-a-junior-role-as-a-dev-ops-engineer?source=rss"/>
+        <updated>2021-11-26T22:40:47.000Z</updated>
+        <summary type="html"><![CDATA[You'll see "junior" level DevOps and SRE roles. You'll also see several people asking how to get into DevOps or SRE as a junior-level candidate.]]></summary>
+        <author>
+            <name>Michael Levan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Get Better at Kubernetes]]></title>
+        <id>https://hackernoon.com/how-to-get-better-at-kubernetes?source=rss</id>
+        <link href="https://hackernoon.com/how-to-get-better-at-kubernetes?source=rss"/>
+        <updated>2021-11-26T22:37:29.000Z</updated>
+        <summary type="html"><![CDATA[Here are some operators and advanced use cases for them to help you level up your Kubernetes game and to get even better at programming with that language.]]></summary>
+        <author>
+            <name>Piotr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why SASE (Secure Access Service Edge) Matters for Businesses]]></title>
+        <id>https://hackernoon.com/why-sase-secure-access-service-edge-matters-for-businesses?source=rss</id>
+        <link href="https://hackernoon.com/why-sase-secure-access-service-edge-matters-for-businesses?source=rss"/>
+        <updated>2021-11-26T22:32:25.000Z</updated>
+        <summary type="html"><![CDATA[The way companies protect their networks is undergoing a seismic shift. SASE is one such way that companies are protecting themselves. Here's why it's important]]></summary>
+        <author>
+            <name>NordLayer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Impressive Off-Grid Hydroelectric Plant Showcases The Hacker Spirit]]></title>
+        <id>https://hackaday.com/?p=508558</id>
+        <link href="https://hackaday.com/2021/11/26/impressive-off-grid-hydroelectric-plant-showcases-the-hacker-spirit/"/>
+        <updated>2021-11-26T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We all know the story arc that so many projects take: Build. Fail. Improve. Fail. Repair. Improve. Fail. Rebuild. Success… Tweak! [Kris Harbour] is no stranger to the process, as …read more]]></summary>
+        <author>
+            <name>Ryan Flowers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When is it “Right” to Reach for  contain and will-change in CSS?]]></title>
+        <id>https://css-tricks.com/?p=357271</id>
+        <link href="https://css-tricks.com/when-is-it-right-to-reach-for-contain-and-will-change-in-css/"/>
+        <updated>2021-11-26T20:43:05.000Z</updated>
+        <summary type="html"><![CDATA[I’ve got some blind spots in CSS-related performance things. One example is the will-change property. It’s a good name. You’re telling the browser some particular property (or the scroll-position or content) uh, will, change:
+.el {
+  will-change: opacity;
+
+…
+The post When is it “Right” to Reach for  contain and will-change in CSS? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Colors of Python Interpreters]]></title>
+        <id>https://hackernoon.com/colors-of-python-interpreters?source=rss</id>
+        <link href="https://hackernoon.com/colors-of-python-interpreters?source=rss"/>
+        <updated>2021-11-26T20:04:20.000Z</updated>
+        <summary type="html"><![CDATA[As you know, Python is a very popular language and already takes 1st place in the TIOBE rating. And in the classical understanding of Python, in 90% of cases, CPython is meant. It is a reference implementation of the interpreter under the guidance of Guido van Rossum. Version 3.10 is current as of November 14, 2021. By now, Python means only version 3, but before this version appeared, mentions of version 2 can still be found. Now version 2 is not supported and most companies are removing the remnants of the code from version 2. by porting the code to version 3. As of January 1, 2020, Python 2 is no longer supported [https://www.python.org/doc/sunset-python-2/]. And this is quite understandable since, after the release of Python 3 in 2006, developers had to support 2 versions at the same time, which is laborious.]]></summary>
+        <author>
+            <name>Maksim Kuznetsov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robotics is Aimed to Help and Assist Humans by Taking on the Dirty, Dangerous, and Dull Chores]]></title>
+        <id>https://hackernoon.com/robotics-is-aimed-to-help-and-assist-humans-by-taking-on-the-dirty-dangerous-and-dull-chores?source=rss</id>
+        <link href="https://hackernoon.com/robotics-is-aimed-to-help-and-assist-humans-by-taking-on-the-dirty-dangerous-and-dull-chores?source=rss"/>
+        <updated>2021-11-26T19:57:37.000Z</updated>
+        <summary type="html"><![CDATA[This article discusses robotics and the impact of robots and AI on humanity.]]></summary>
+        <author>
+            <name>Ishan Pandey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Instagram Clone App With React Native]]></title>
+        <id>https://hackernoon.com/how-to-build-an-instagram-clone-app-with-react-native?source=rss</id>
+        <link href="https://hackernoon.com/how-to-build-an-instagram-clone-app-with-react-native?source=rss"/>
+        <updated>2021-11-26T19:54:44.000Z</updated>
+        <summary type="html"><![CDATA[It's time you take your web development to the next level. You need to start developing mobile apps and if you ain’t there yet, start building to get started.]]></summary>
+        <author>
+            <name>Darlington Gospel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Hacked My Schedule for Self Improvement]]></title>
+        <id>https://hackernoon.com/how-i-hacked-my-schedule-for-self-improvement?source=rss</id>
+        <link href="https://hackernoon.com/how-i-hacked-my-schedule-for-self-improvement?source=rss"/>
+        <updated>2021-11-26T19:49:38.000Z</updated>
+        <summary type="html"><![CDATA[If you have ever read a self improvement article, a success story about starting a business, or an article about top reasons to be an entrepreneur, this may pr]]></summary>
+        <author>
+            <name>Zaid Qureshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Legal Tech Solutions: Market Size, Impact, and Trends]]></title>
+        <id>https://hackernoon.com/legal-tech-solutions-market-size-impact-and-trends?source=rss</id>
+        <link href="https://hackernoon.com/legal-tech-solutions-market-size-impact-and-trends?source=rss"/>
+        <updated>2021-11-26T19:47:35.000Z</updated>
+        <summary type="html"><![CDATA[This article provides readers with a definite legal tech overview. Here we analyzed legaltech market size, trends, and the state of technology in legal industry]]></summary>
+        <author>
+            <name>Ascendix Tech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 4 HDL Simulators for Beginners]]></title>
+        <id>https://hackernoon.com/top-4-hdl-simulators-for-beginners?source=rss</id>
+        <link href="https://hackernoon.com/top-4-hdl-simulators-for-beginners?source=rss"/>
+        <updated>2021-11-26T19:35:47.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we look at some of the strengths and weaknesses of four of the most popular HDL simulators - Icarus Verilog, GHDL, Vivado, and Modelsim.]]></summary>
+        <author>
+            <name>John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8 Tips for Safe Online Shopping this Holiday Season]]></title>
+        <id>https://hackernoon.com/8-tips-for-safe-online-shopping-this-holiday-season?source=rss</id>
+        <link href="https://hackernoon.com/8-tips-for-safe-online-shopping-this-holiday-season?source=rss"/>
+        <updated>2021-11-26T19:14:08.000Z</updated>
+        <summary type="html"><![CDATA[The holiday shopping season really gets underway when it's the end of the year and online shopping continues to rise and rise in popularity.]]></summary>
+        <author>
+            <name>Avast Secure Browser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Common Behavioral Mistakes Novice Programmers Make]]></title>
+        <id>https://hackernoon.com/10-common-behavioral-mistakes-novice-programmers-make?source=rss</id>
+        <link href="https://hackernoon.com/10-common-behavioral-mistakes-novice-programmers-make?source=rss"/>
+        <updated>2021-11-26T19:13:00.000Z</updated>
+        <summary type="html"><![CDATA[The mistakes of novice programmers, those who are just learning or just starting to work, are very similar to each other. Many of them can be called not mistakes, but behavioral features, stages all beginners go through. We as Java course creators are interested in this topic, so we interviewed opinion leaders and collected the most common, in their view, examples of such behavioral errors in order to … shorten their duration for future software developers. If you start noticing such behavioral mistakes early and try to fix them, your path to mastery will be shorter and your work will be more efficient.]]></summary>
+        <author>
+            <name>Alex Yelenevych</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Set Up Webpack To Work With Static Files]]></title>
+        <id>https://hackernoon.com/set-up-webpack-to-work-with-static-files?source=rss</id>
+        <link href="https://hackernoon.com/set-up-webpack-to-work-with-static-files?source=rss"/>
+        <updated>2021-11-26T19:01:01.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you'll learn how to set up webpack to work with static files in a development environment and how to configure it for multiple use cases.]]></summary>
+        <author>
+            <name>Matheus Alves</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enabling Business Operations With Computer Vision: Interview With Tanay Dixit, CPO of Wobot.ai]]></title>
+        <id>https://hackernoon.com/enabling-business-operations-with-computer-vision-interview-with-tanay-dixit-cpo-of-wobotai?source=rss</id>
+        <link href="https://hackernoon.com/enabling-business-operations-with-computer-vision-interview-with-tanay-dixit-cpo-of-wobotai?source=rss"/>
+        <updated>2021-11-26T18:54:40.000Z</updated>
+        <summary type="html"><![CDATA[HackerNoon good company with Tanay Dixit, co-founder, and CPO of Wobot.ai.]]></summary>
+        <author>
+            <name>Wobot Intelligence Inc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Lineage is Like Untangling a Ball of Yarn]]></title>
+        <id>https://hackernoon.com/data-lineage-is-like-untangling-a-ball-of-yarn?source=rss</id>
+        <link href="https://hackernoon.com/data-lineage-is-like-untangling-a-ball-of-yarn?source=rss"/>
+        <updated>2021-11-26T18:33:42.000Z</updated>
+        <summary type="html"><![CDATA[Data lineage is a technology that retraces the relationships between data assets. 'Data lineage is like a family tree but for data']]></summary>
+        <author>
+            <name>Castor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Common Java Learning Mistakes To Avoid]]></title>
+        <id>https://hackernoon.com/common-java-learning-mistakes-to-avoid?source=rss</id>
+        <link href="https://hackernoon.com/common-java-learning-mistakes-to-avoid?source=rss"/>
+        <updated>2021-11-26T18:26:36.000Z</updated>
+        <summary type="html"><![CDATA[Are you stuck in the learning root, or do you feel like your Java study doesn’t bring the results you’re craving for? If so, you’re not alone.]]></summary>
+        <author>
+            <name>Johnny</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Cats Corporation: An Overview]]></title>
+        <id>https://hackernoon.com/the-cats-corporation-an-overview?source=rss</id>
+        <link href="https://hackernoon.com/the-cats-corporation-an-overview?source=rss"/>
+        <updated>2021-11-26T18:20:35.000Z</updated>
+        <summary type="html"><![CDATA[Cats Corporation is a alternative universe developed by a group of cat-loving artists. Projects like Cool Cats and Crypto Kitty influenced us.]]></summary>
+        <author>
+            <name>Ai319OZ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain Search Engines: Can Decentralization Defeat Google?]]></title>
+        <id>https://hackernoon.com/blockchain-search-engines-can-decentralization-defeat-google?source=rss</id>
+        <link href="https://hackernoon.com/blockchain-search-engines-can-decentralization-defeat-google?source=rss"/>
+        <updated>2021-11-26T18:17:36.000Z</updated>
+        <summary type="html"><![CDATA[Searching for information on the World Wide Web has become routine for billions of users. Meanwhile, search engines have become so firmly entrenched in our lives that they have gained unprecedented power over what we read, what information we consume, and what services we use. The algorithms that generate search results, which were originally designed for the user's convenience, have become a propaganda tool that wields power over the public’s consciousness. Search engines serve an agenda aimed at informational control. Instead of providing impartial access to data, they have led to the polarization of society.]]></summary>
+        <author>
+            <name>Maria Lobanova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Blockchain Solve Climate Change? An Interview with Hüseyin Uysal]]></title>
+        <id>https://hackernoon.com/can-blockchain-solve-climate-change-an-interview-with-huseyin-uysal?source=rss</id>
+        <link href="https://hackernoon.com/can-blockchain-solve-climate-change-an-interview-with-huseyin-uysal?source=rss"/>
+        <updated>2021-11-26T18:09:07.000Z</updated>
+        <summary type="html"><![CDATA[An illuminating interview with the founder and CEO of an environmentally-focused blockchain ecosystem.]]></summary>
+        <author>
+            <name>Christopher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Unofficial Guide To (Avoiding) Electrocution]]></title>
+        <id>https://hackaday.com/?p=508691</id>
+        <link href="https://hackaday.com/2021/11/26/the-unofficial-guide-to-avoiding-electrocution/"/>
+        <updated>2021-11-26T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’re reading this sentence, there’s a pretty good chance that you interact with electricity more than just as an end-user. You’re a hacker. You aren’t afraid of a few …read more]]></summary>
+        <author>
+            <name>Ryan Flowers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackaday Podcast Ep 146: Dueling Trackballs, Next Level BEAM Robot, Take Control of Your Bench, and Green Programming]]></title>
+        <id>https://hackaday.com/?p=509230</id>
+        <link href="https://hackaday.com/2021/11/26/hackaday-podcast-ep-146-dueling-trackballs-next-level-beam-robot-take-control-of-your-bench-and-green-programming/"/>
+        <updated>2021-11-26T17:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Postpone your holiday shopping and spend some quality time with editors Mike Szczys and Elliot Williams as they sift through the week in Hackaday. Which programming language is the greenest? …read more]]></summary>
+        <author>
+            <name>Elliot Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Handy Little System for Animated Entrances in CSS]]></title>
+        <id>https://css-tricks.com/?p=357239</id>
+        <link href="https://css-tricks.com/a-handy-little-system-for-animated-entrances-in-css/"/>
+        <updated>2021-11-26T16:12:33.000Z</updated>
+        <summary type="html"><![CDATA[I love little touches that make a website feel like more than just a static document. What if web content wouldn’t just “appear” when a page loaded, but instead popped, slid, faded, or spun into place? It might be a …
+The post A Handy Little System for Animated Entrances in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Neale Van Fleet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redo of a Famous Experiment on the Origins of Life Reveals Critical Detail Missed for Decades]]></title>
+        <id>A081C8B1-FF7F-40C4-84E8A2F9502EB634</id>
+        <link href="https://www.scientificamerican.com/podcast/episode/redo-of-a-famous-experiment-on-the-origins-of-life-reveals-critical-detail-missed-for-decades/"/>
+        <updated>2021-11-26T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Miller-Urey experiment showed that the conditions of early Earth could be simulated in a glass flask. New research finds the flask itself played an under appreciated, though outsized role.
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Sarah Vitak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vision Impaired Electronics Engineer Shows The Way To Get Things Done]]></title>
+        <id>https://hackaday.com/?p=508686</id>
+        <link href="https://hackaday.com/2021/11/26/vision-impaired-electronics-engineer-shows-the-way-to-get-things-done/"/>
+        <updated>2021-11-26T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A funny thing happens as the average electronics hobbyist gets older: Their eyes- well they just don’t work the same as they used to. But what if your life started …read more]]></summary>
+        <author>
+            <name>Ryan Flowers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why It Took So Long to Appreciate Female Birds' Songs]]></title>
+        <id>B3C4FB33-1C8F-4340-AABE3CFBC2157731</id>
+        <link href="https://www.scientificamerican.com/article/why-it-took-so-long-to-appreciate-female-birds-songs/"/>
+        <updated>2021-11-26T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Science and science communication miss out when they’re not inclusive
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Matt Wilkins, Lauryn Benedict</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Psychological Differences between Those Who Love and Loathe Black Friday Shopping]]></title>
+        <id>6CFDF412-2F35-4B21-B7D426F337CD6E82</id>
+        <link href="https://www.scientificamerican.com/article/the-psychological-differences-between-those-who-love-and-loathe-black-friday-shopping/"/>
+        <updated>2021-11-26T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Some people are more “task-oriented,” while others focus more on making social connections
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Michael Breazeale, The Conversation US</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Surprising Secret of Snakes' Venomous Bites]]></title>
+        <id>CCDCCB0F-02F1-45D8-98311BE005BF3F17</id>
+        <link href="https://www.scientificamerican.com/article/the-surprising-secret-of-snakes-venomous-bites/"/>
+        <updated>2021-11-26T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Fangs evolved over and over because of this groovy process
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Riley Black</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Rotary Phone As A Computer Peripheral]]></title>
+        <id>https://hackaday.com/?p=508523</id>
+        <link href="https://hackaday.com/2021/11/26/a-rotary-phone-as-a-computer-peripheral/"/>
+        <updated>2021-11-26T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s an age-old conundrum for anyone working with retro hardware: preserve its original condition or not? The answer depends so often on a complex mix of how rare, obsolete or …read more]]></summary>
+        <author>
+            <name>Jenny List</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solder Paste Dispenser Without Giant Compressor]]></title>
+        <id>https://hackaday.com/?p=508260</id>
+        <link href="https://hackaday.com/2021/11/26/solder-paste-dispenser-without-giant-compressor/"/>
+        <updated>2021-11-26T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We have certainly all had our moments with solder paste. Some of us hate it; it’s sticky and gooey, and it gets everywhere. That is, unless you have a solder …read more]]></summary>
+        <author>
+            <name>Bryan Cockfield</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All the provisions in the Build Back Better bill]]></title>
+        <id>https://flowingdata.com/?p=66113</id>
+        <link href="https://flowingdata.com/2021/11/26/all-the-provisions-in-the-build-back-better-bill/"/>
+        <updated>2021-11-26T08:02:17.000Z</updated>
+        <summary type="html"><![CDATA[For NYT’s The Upshot, Alicia Parlapiano and Quoctrung Bui outlined all of the…
+Tags: government, spending, Upshot]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ken Shirriff Breaks Open the Yamaha DX7]]></title>
         <id>https://hackaday.com/?p=507966</id>
@@ -23067,19 +23426,6 @@ Subscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://go
         <link href="https://helloacm.com/teaching-kids-programming-dynamic-programming-algorithms-to-count-the-number-of-unique-binary-search-trees-catalan-numbers/"/>
         <updated>2021-08-29T19:19:27.000Z</updated>
         <summary type="html"><![CDATA[Given an integer n, return the number of structurally unique BST’s (binary search trees) which has exactly n nodes of unique values from 1 to n. Example 1: Input: n = 3 Output: 5 Example 2:...
-
-
-[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
-        <author>
-            <name>ACMer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teaching Kids Programming – Finding the Network Delay Time via  Floyd-Warshall Shortest Path Algorithm]]></title>
-        <id>https://helloacm.com/?p=146493</id>
-        <link href="https://helloacm.com/teaching-kids-programming-finding-the-network-delay-time-via-floyd-warshall-shortest-path-algorithm/"/>
-        <updated>2021-08-28T19:53:39.000Z</updated>
-        <summary type="html"><![CDATA[You are given a network of n nodes, labeled from 1 to n. You are also given times, a list of travel times as directed edges times = (ui, vi, wi), where ui is the source node, vi is the target node,...
 
 
 [[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
