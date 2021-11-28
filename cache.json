@@ -9579,6 +9579,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=147791",
+          "author": "ACMer",
+          "description": "Given a string s and an integer k, return the number of k-length substrings that occur more than once in s. Constraints n ≤ 100,000 where n is the length of s. k ≤ 10 Example 1 Input s =...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-repeated-k-length-substrings-sliding-window/",
+          "publishedOn": "2021-11-27T19:22:28.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Repeated K-Length Substrings (Sliding Window)",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=147776",
           "author": "ACMer",
           "description": "A Mode in Math is the most frequent number in an array. If there are multiple elements that appear equally the same time, then the mode can be one of them (or the first appearing one). Finding the...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -10337,16 +10347,6 @@
           "wordCount": null,
           "title": "Teaching Kids Programming – Equal Tree Partition via Recursive Depth First Search Algorithm",
           "itunes": {}
-        },
-        {
-          "id": "https://helloacm.com/?p=146508",
-          "author": "ACMer",
-          "description": "Given an integer n, return the number of structurally unique BST’s (binary search trees) which has exactly n nodes of unique values from 1 to n. Example 1: Input: n = 3 Output: 5 Example 2:...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
-          "link": "https://helloacm.com/teaching-kids-programming-dynamic-programming-algorithms-to-count-the-number-of-unique-binary-search-trees-catalan-numbers/",
-          "publishedOn": "2021-08-29T19:19:27.000Z",
-          "wordCount": null,
-          "title": "Teaching Kids Programming – Dynamic Programming Algorithms to Count the Number of Unique Binary Search Trees (Catalan Numbers)",
-          "itunes": {}
         }
       ]
     },
@@ -10355,6 +10355,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=508996",
+          "author": "Lewin Day",
+          "description": "The Magnus effect is a interesting and useful phenomena. [James Whomsley] from [Project Air] decided to put it to work on a small radio-controlled boat, successfully harnessing the effect. (Video, …read more",
+          "link": "https://hackaday.com/2021/11/27/magnus-effect-propels-this-flettner-rotor-boat/",
+          "publishedOn": "2021-11-28T00:00:00.000Z",
+          "wordCount": 1135,
+          "title": "Magnus Effect Propels This Flettner Rotor Boat"
+        },
+        {
+          "id": "https://hackaday.com/?p=508892",
+          "author": "Donald Papp",
+          "description": "3D printers and Octoprint have a long history together, and pre-built images for the Raspberry Pi make getting up and running pretty easy. But there’s also another easy way to …read more",
+          "link": "https://hackaday.com/2021/11/27/want-octoprint-but-lack-a-raspberry-pi-use-an-old-android-phone/",
+          "publishedOn": "2021-11-27T21:00:00.000Z",
+          "wordCount": 1172,
+          "title": "Want Octoprint But Lack a Raspberry Pi? Use an Old Android Phone"
+        },
+        {
+          "id": "https://hackaday.com/?p=508802",
+          "author": "Al Williams",
+          "description": "Old radios didn’t have much in the way of smarts. But as digital synthesis became more common, radios often had as much digital electronics in them as RF circuits. The …read more",
+          "link": "https://hackaday.com/2021/11/27/ham-radio-gets-brain-transplant/",
+          "publishedOn": "2021-11-27T18:01:31.000Z",
+          "wordCount": 1240,
+          "title": "Ham Radio Gets Brain Transplant"
+        },
+        {
+          "id": "https://hackaday.com/?p=508854",
+          "author": "Al Williams",
+          "description": "The usual solar cell is made of silicon. The better cells use the crystalline form of the element, but there are other methods to obtain electric energy from the sun …read more",
+          "link": "https://hackaday.com/2021/11/27/perovskites-understood/",
+          "publishedOn": "2021-11-27T15:01:34.000Z",
+          "wordCount": 1575,
+          "title": "Perovskites Understood"
+        },
+        {
+          "id": "https://hackaday.com/?p=508790",
+          "author": "Dave Rowntree",
+          "description": "Quadcopter type drones can be flown indoors, but unless you have a lot of space, it usually just ends in a crash. The prospect of being hit in the face …read more",
+          "link": "https://hackaday.com/2021/11/27/indoor-blimp-sails-through-the-air-using-ultrasonic-transducers/",
+          "publishedOn": "2021-11-27T12:01:07.000Z",
+          "wordCount": 1693,
+          "title": "Indoor Blimp Sails Through The Air Using Ultrasonic Transducers"
+        },
+        {
+          "id": "https://hackaday.com/?p=508838",
+          "author": "Tom Nardi",
+          "description": "Well, that certainly didn’t take long. It’s been just about a month since the Raspberry Pi Zero 2 hit the market, and we’re already seeing folks revisit old projects to …read more",
+          "link": "https://hackaday.com/2021/11/27/piglass-v2-embraces-the-new-raspberry-pi-zero-2/",
+          "publishedOn": "2021-11-27T09:01:41.000Z",
+          "wordCount": 1339,
+          "title": "PiGlass v2 Embraces the New Raspberry Pi Zero 2"
+        },
+        {
+          "id": "https://hackaday.com/?p=508820",
+          "author": "Mike Szczys",
+          "description": "Displaying notes live as they are being played can be a really powerful learning tool, but it’s usually used to learn how to play a specific instrument. This take on …read more",
+          "link": "https://hackaday.com/2021/11/26/spiral-music-visualization/",
+          "publishedOn": "2021-11-27T06:00:57.000Z",
+          "wordCount": 1570,
+          "title": "Spiral Music Visualization"
+        },
         {
           "id": "https://hackaday.com/?p=508720",
           "author": "Maya Posch",

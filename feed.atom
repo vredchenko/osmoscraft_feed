@@ -2,10 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2021-11-27T00:39:28.467Z</updated>
+    <updated>2021-11-28T00:42:01.179Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Magnus Effect Propels This Flettner Rotor Boat]]></title>
+        <id>https://hackaday.com/?p=508996</id>
+        <link href="https://hackaday.com/2021/11/27/magnus-effect-propels-this-flettner-rotor-boat/"/>
+        <updated>2021-11-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Magnus effect is a interesting and useful phenomena. [James Whomsley] from [Project Air] decided to put it to work on a small radio-controlled boat, successfully harnessing the effect. (Video, …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Want Octoprint But Lack a Raspberry Pi? Use an Old Android Phone]]></title>
+        <id>https://hackaday.com/?p=508892</id>
+        <link href="https://hackaday.com/2021/11/27/want-octoprint-but-lack-a-raspberry-pi-use-an-old-android-phone/"/>
+        <updated>2021-11-27T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[3D printers and Octoprint have a long history together, and pre-built images for the Raspberry Pi make getting up and running pretty easy. But there’s also another easy way to …read more]]></summary>
+        <author>
+            <name>Donald Papp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – Repeated K-Length Substrings (Sliding Window)]]></title>
+        <id>https://helloacm.com/?p=147791</id>
+        <link href="https://helloacm.com/teaching-kids-programming-repeated-k-length-substrings-sliding-window/"/>
+        <updated>2021-11-27T19:22:28.000Z</updated>
+        <summary type="html"><![CDATA[Given a string s and an integer k, return the number of k-length substrings that occur more than once in s. Constraints n ≤ 100,000 where n is the length of s. k ≤ 10 Example 1 Input s =...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ham Radio Gets Brain Transplant]]></title>
+        <id>https://hackaday.com/?p=508802</id>
+        <link href="https://hackaday.com/2021/11/27/ham-radio-gets-brain-transplant/"/>
+        <updated>2021-11-27T18:01:31.000Z</updated>
+        <summary type="html"><![CDATA[Old radios didn’t have much in the way of smarts. But as digital synthesis became more common, radios often had as much digital electronics in them as RF circuits. The …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perovskites Understood]]></title>
+        <id>https://hackaday.com/?p=508854</id>
+        <link href="https://hackaday.com/2021/11/27/perovskites-understood/"/>
+        <updated>2021-11-27T15:01:34.000Z</updated>
+        <summary type="html"><![CDATA[The usual solar cell is made of silicon. The better cells use the crystalline form of the element, but there are other methods to obtain electric energy from the sun …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indoor Blimp Sails Through The Air Using Ultrasonic Transducers]]></title>
+        <id>https://hackaday.com/?p=508790</id>
+        <link href="https://hackaday.com/2021/11/27/indoor-blimp-sails-through-the-air-using-ultrasonic-transducers/"/>
+        <updated>2021-11-27T12:01:07.000Z</updated>
+        <summary type="html"><![CDATA[Quadcopter type drones can be flown indoors, but unless you have a lot of space, it usually just ends in a crash. The prospect of being hit in the face …read more]]></summary>
+        <author>
+            <name>Dave Rowntree</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PiGlass v2 Embraces the New Raspberry Pi Zero 2]]></title>
+        <id>https://hackaday.com/?p=508838</id>
+        <link href="https://hackaday.com/2021/11/27/piglass-v2-embraces-the-new-raspberry-pi-zero-2/"/>
+        <updated>2021-11-27T09:01:41.000Z</updated>
+        <summary type="html"><![CDATA[Well, that certainly didn’t take long. It’s been just about a month since the Raspberry Pi Zero 2 hit the market, and we’re already seeing folks revisit old projects to …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spiral Music Visualization]]></title>
+        <id>https://hackaday.com/?p=508820</id>
+        <link href="https://hackaday.com/2021/11/26/spiral-music-visualization/"/>
+        <updated>2021-11-27T06:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Displaying notes live as they are being played can be a really powerful learning tool, but it’s usually used to learn how to play a specific instrument. This take on …read more]]></summary>
+        <author>
+            <name>Mike Szczys</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Analyzing Starlink Satellite Downlink Communications With Software Defined Radio]]></title>
         <id>https://hackaday.com/?p=508720</id>
@@ -23413,19 +23496,6 @@ Subscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://go
         <link href="https://helloacm.com/teaching-kids-programming-equal-tree-partition-via-recursive-depth-first-search-algorithm/"/>
         <updated>2021-08-30T20:08:56.000Z</updated>
         <summary type="html"><![CDATA[Given the root of a binary tree, return true if you can partition the tree into two trees with equal sums of values after removing exactly one edge on the original tree. Equal Tree Partition via...
-
-
-[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
-        <author>
-            <name>ACMer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teaching Kids Programming – Dynamic Programming Algorithms to Count the Number of Unique Binary Search Trees (Catalan Numbers)]]></title>
-        <id>https://helloacm.com/?p=146508</id>
-        <link href="https://helloacm.com/teaching-kids-programming-dynamic-programming-algorithms-to-count-the-number-of-unique-binary-search-trees-catalan-numbers/"/>
-        <updated>2021-08-29T19:19:27.000Z</updated>
-        <summary type="html"><![CDATA[Given an integer n, return the number of structurally unique BST’s (binary search trees) which has exactly n nodes of unique values from 1 to n. Example 1: Input: n = 3 Output: 5 Example 2:...
 
 
 [[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
