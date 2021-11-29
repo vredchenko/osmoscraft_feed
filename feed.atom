@@ -2,10 +2,106 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2021-11-28T00:42:01.179Z</updated>
+    <updated>2021-11-29T00:41:07.148Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Automating Mobile Games With A Robot Arm]]></title>
+        <id>https://hackaday.com/?p=508993</id>
+        <link href="https://hackaday.com/2021/11/28/automating-mobile-games-with-a-robot-arm/"/>
+        <updated>2021-11-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[My Singing Monsters is one of those mobile titles that has users play simple games to earn coins and gems in the usual way. [Anykey] found that his son was …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generate Fully Parametric, 3D-Printable Speaker Enclosures]]></title>
+        <id>https://hackaday.com/?p=509036</id>
+        <link href="https://hackaday.com/2021/11/28/generate-fully-parametric-3d-printable-speaker-enclosures/"/>
+        <updated>2021-11-28T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Having the right speaker enclosure can make a big difference to sound quality, so it’s no surprise that customizable ones are a common project for those who treat sound seriously. …read more]]></summary>
+        <author>
+            <name>Donald Papp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – Counting Maximal Value Roots in Binary Tree (Recursive Post-Order Traversal – DFS Algorithm)]]></title>
+        <id>https://helloacm.com/?p=147821</id>
+        <link href="https://helloacm.com/teaching-kids-programming-counting-maximal-value-roots-in-binary-tree-recursive-post-order-traversal-dfs-algorithm/"/>
+        <updated>2021-11-28T19:43:18.000Z</updated>
+        <summary type="html"><![CDATA[Given a binary tree root, count and return the number of nodes where its value is greater than or equal to the values of all of its descendants. Constraints n ≤ 100,000 where n is the number of nodes...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Trials and Tribulations of SLA Printing a Portable Wii Handheld]]></title>
+        <id>https://hackaday.com/?p=508973</id>
+        <link href="https://hackaday.com/2021/11/28/the-trials-and-tribulations-of-sla-printing-a-portable-wii-handheld/"/>
+        <updated>2021-11-28T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The G-Boy kit revolutionized the subculture around building portable home consoles, allowing an entire Wii to be crammed into a form factor the size of a original Game Boy. [Chris …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – Number of Sublists with Max in Interval]]></title>
+        <id>https://helloacm.com/?p=147808</id>
+        <link href="https://helloacm.com/teaching-kids-programming-number-of-sublists-with-max-in-interval/"/>
+        <updated>2021-11-28T16:30:39.000Z</updated>
+        <summary type="html"><![CDATA[You are given a list of integers nums and integers lo and hi. Return the number of sublists A such that lo ≤ max(A) ≤ hi. Constraints 0 ≤ n ≤ 100,000 where n is the length of nums Example 1 Input...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scale Buildings With The Power Of Suction]]></title>
+        <id>https://hackaday.com/?p=508970</id>
+        <link href="https://hackaday.com/2021/11/28/scale-buildings-with-the-power-of-suction/"/>
+        <updated>2021-11-28T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Walls can’t hold [Elijah Cirioli]. The would-be superhero has been busy scaling the sides of buildings using his self-contained vacuum climbers. (Video embedded after the break.) After being inspired by …read more]]></summary>
+        <author>
+            <name>Chris Wilkinson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s Nice Having Someone To Talk To]]></title>
+        <id>https://hackaday.com/?p=509006</id>
+        <link href="https://hackaday.com/2021/11/28/its-nice-having-someone-to-talk-to/"/>
+        <updated>2021-11-28T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We all get a bit lonely from time to time and talking to other humans can be a challenge. With social robots still finding their way these days, [Markus] decided …read more]]></summary>
+        <author>
+            <name>Orlando Hoilett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Raspberry Pi Mini ITX Board Has Tons of IO]]></title>
+        <id>https://hackaday.com/?p=509004</id>
+        <link href="https://hackaday.com/2021/11/28/this-raspberry-pi-mini-itx-board-has-tons-of-io/"/>
+        <updated>2021-11-28T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Raspberry Pi now comes in a wide variety of versions. There are tiny little Zeros, and of course the mainstream-sized boards. Then, there’s the latest greatest Compute Module 4, …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replacement Motherboard Brings New Lease of Life to Classic Thinkpads]]></title>
+        <id>https://hackaday.com/?p=508875</id>
+        <link href="https://hackaday.com/2021/11/27/replacement-motherboard-brings-new-lease-of-life-to-classic-thinkpads/"/>
+        <updated>2021-11-28T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“They don’t make them like they used to.” It might be a cliché, it might not even be entirely true, but there’s something special about owning a piece of hardware …read more]]></summary>
+        <author>
+            <name>Robin Kearey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Magnus Effect Propels This Flettner Rotor Boat]]></title>
         <id>https://hackaday.com/?p=508996</id>
@@ -17,6 +113,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Understanding Ethermint]]></title>
+        <id>https://hackernoon.com/understanding-ethermint?source=rss</id>
+        <link href="https://hackernoon.com/understanding-ethermint?source=rss"/>
+        <updated>2021-11-27T22:21:47.000Z</updated>
+        <summary type="html"><![CDATA[Ethermint is a portmanteau word blending Ethereum and Tendermint together. But for most people, their grasp on the project, the what, the why stops there.]]></summary>
+        <author>
+            <name>Cosmos - Internet of Blockchains</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Want Octoprint But Lack a Raspberry Pi? Use an Old Android Phone]]></title>
         <id>https://hackaday.com/?p=508892</id>
         <link href="https://hackaday.com/2021/11/27/want-octoprint-but-lack-a-raspberry-pi-use-an-old-android-phone/"/>
@@ -24,6 +130,16 @@
         <summary type="html"><![CDATA[3D printers and Octoprint have a long history together, and pre-built images for the Raspberry Pi make getting up and running pretty easy. But there’s also another easy way to …read more]]></summary>
         <author>
             <name>Donald Papp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud Threat Hunting Series: What Lead To a Major Financial Institution Suffering a Cloud Breach]]></title>
+        <id>https://hackernoon.com/cloud-threat-hunting-series-what-lead-to-a-major-financial-institution-suffering-a-cloud-breach?source=rss</id>
+        <link href="https://hackernoon.com/cloud-threat-hunting-series-what-lead-to-a-major-financial-institution-suffering-a-cloud-breach?source=rss"/>
+        <updated>2021-11-27T20:45:23.000Z</updated>
+        <summary type="html"><![CDATA[Even the greatest cybersecurity arrangements can be vunerable to simple mistakes such as a tiny setting being misconfigured, compromising the entire system.]]></summary>
+        <author>
+            <name>Check Point Software</name>
         </author>
     </entry>
     <entry>
@@ -40,6 +156,86 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Metaverse and NFT Gaming: The 10,000 ft View]]></title>
+        <id>https://hackernoon.com/metaverse-and-nft-gaming-the-10000-ft-view?source=rss</id>
+        <link href="https://hackernoon.com/metaverse-and-nft-gaming-the-10000-ft-view?source=rss"/>
+        <updated>2021-11-27T19:11:31.000Z</updated>
+        <summary type="html"><![CDATA[A surface level look at just how NFTs and the metaverse will change the gaming landscape from here on.]]></summary>
+        <author>
+            <name>Hiroshi Minami</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Probabilistic Data Structures And Algorithms In Big Data]]></title>
+        <id>https://hackernoon.com/probabilistic-data-structures-and-algorithms-in-big-data?source=rss</id>
+        <link href="https://hackernoon.com/probabilistic-data-structures-and-algorithms-in-big-data?source=rss"/>
+        <updated>2021-11-27T19:08:31.000Z</updated>
+        <summary type="html"><![CDATA[Probabilistic data structures allow you to conquer the beast and give you an estimated view of some data characteristics]]></summary>
+        <author>
+            <name>Nikita Vasilev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Create A Liquidity Pool: The NoCode Way]]></title>
+        <id>https://hackernoon.com/how-to-create-a-liquidity-pool-provider-nocode-way?source=rss</id>
+        <link href="https://hackernoon.com/how-to-create-a-liquidity-pool-provider-nocode-way?source=rss"/>
+        <updated>2021-11-27T19:02:20.000Z</updated>
+        <summary type="html"><![CDATA[First of all, we’d like to extend a warm welcome to all of our new community members and HASH Token holders. We are grateful for the support you’ve shown this far and are excited to explore new chapters together!]]></summary>
+        <author>
+            <name>Hashbon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of Gaming will have a Fully Player-Driven Economy: Unhashed #20]]></title>
+        <id>https://hackernoon.com/the-future-of-gaming-will-have-a-fully-player-driven-economy-unhashed-20?source=rss</id>
+        <link href="https://hackernoon.com/the-future-of-gaming-will-have-a-fully-player-driven-economy-unhashed-20?source=rss"/>
+        <updated>2021-11-27T18:56:27.000Z</updated>
+        <summary type="html"><![CDATA[Unhashed is a QnA series where I speak with top execs of new and established blockchain projects to unravel the mystery of blockchain & crypto.]]></summary>
+        <author>
+            <name>Mohammad Musharraf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Gradient border Blog PostCard using Tailwind CSS and Next.js: A How-To Guide]]></title>
+        <id>https://hackernoon.com/create-a-gradient-border-blog-postcard-using-tailwind-css-and-nextjs-a-how-to-guide?source=rss</id>
+        <link href="https://hackernoon.com/create-a-gradient-border-blog-postcard-using-tailwind-css-and-nextjs-a-how-to-guide?source=rss"/>
+        <updated>2021-11-27T18:54:57.000Z</updated>
+        <summary type="html"><![CDATA[This blog post is a small tutorial in which I show you how you can create a gradient border blog card using Tailwind CSS.]]></summary>
+        <author>
+            <name>Vikas Rai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Text Classification in Javascript: Comparing Natural.js Vs. Brain.js Vs. TensorFlow.js]]></title>
+        <id>https://hackernoon.com/text-classification-in-javascript-comparing-naturaljs-vs-brainjs-vs-tensorflowjs?source=rss</id>
+        <link href="https://hackernoon.com/text-classification-in-javascript-comparing-naturaljs-vs-brainjs-vs-tensorflowjs?source=rss"/>
+        <updated>2021-11-27T18:28:34.000Z</updated>
+        <summary type="html"><![CDATA[Text classification and machine learning with Javascript: Natural.js, Brain.js, TensorFlow.js.]]></summary>
+        <author>
+            <name>Sergiy C.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here's Why I'll Continue Buying NFTs]]></title>
+        <id>https://hackernoon.com/heres-why-ill-continue-buying-nfts?source=rss</id>
+        <link href="https://hackernoon.com/heres-why-ill-continue-buying-nfts?source=rss"/>
+        <updated>2021-11-27T18:21:58.000Z</updated>
+        <summary type="html"><![CDATA[Tech investor, Visa Kannan, reflects on becoming a new NFT-owner. What the upside scenarios look like, the value NFTs bring and also if she would buy another.]]></summary>
+        <author>
+            <name>Visa Kannan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Step Function: Adding Retries and Error Notifications To A Lambda Function]]></title>
+        <id>https://hackernoon.com/aws-step-function-adding-retries-and-error-notifications-to-a-lambda-function?source=rss</id>
+        <link href="https://hackernoon.com/aws-step-function-adding-retries-and-error-notifications-to-a-lambda-function?source=rss"/>
+        <updated>2021-11-27T18:08:45.000Z</updated>
+        <summary type="html"><![CDATA[A step by step guide on how to use the AWS step function to retry Lambda and send notifications when errors occur in Lambda.]]></summary>
+        <author>
+            <name>Wendie Sun</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ham Radio Gets Brain Transplant]]></title>
         <id>https://hackaday.com/?p=508802</id>
         <link href="https://hackaday.com/2021/11/27/ham-radio-gets-brain-transplant/"/>
@@ -47,6 +243,36 @@
         <summary type="html"><![CDATA[Old radios didn’t have much in the way of smarts. But as digital synthesis became more common, radios often had as much digital electronics in them as RF circuits. The …read more]]></summary>
         <author>
             <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 6 Software Development Methodologies of 2022]]></title>
+        <id>https://hackernoon.com/top-6-software-development-methodologies-of-2022?source=rss</id>
+        <link href="https://hackernoon.com/top-6-software-development-methodologies-of-2022?source=rss"/>
+        <updated>2021-11-27T17:22:18.000Z</updated>
+        <summary type="html"><![CDATA[Here are the top 6 software development methodologies that the project manager and the team must follow throughout the software development process.]]></summary>
+        <author>
+            <name>Sahil Rao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exporting Data to Fit Your Needs]]></title>
+        <id>https://hackernoon.com/exporting-data-to-fit-your-needs?source=rss</id>
+        <link href="https://hackernoon.com/exporting-data-to-fit-your-needs?source=rss"/>
+        <updated>2021-11-27T15:47:03.000Z</updated>
+        <summary type="html"><![CDATA[A lot of the work we do at ChartMogul centers around how we display and present your data in a clear and transparent way.]]></summary>
+        <author>
+            <name>ChartMogul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Difference Between First-Party and Third-Party Oracles]]></title>
+        <id>https://hackernoon.com/the-difference-between-first-party-and-third-party-oracles?source=rss</id>
+        <link href="https://hackernoon.com/the-difference-between-first-party-and-third-party-oracles?source=rss"/>
+        <updated>2021-11-27T15:06:22.000Z</updated>
+        <summary type="html"><![CDATA[Oracles are a way of getting data from source to another. Here is how both first-party and third-party oracles work in a blockchain and how that helps.]]></summary>
+        <author>
+            <name>API3</name>
         </author>
     </entry>
     <entry>
@@ -60,6 +286,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Build on Your Trading Knowledge: What Are Stop Loss and Stop Limit Orders?]]></title>
+        <id>https://hackernoon.com/build-on-your-trading-knowledge-what-are-stop-loss-and-stop-limit-orders?source=rss</id>
+        <link href="https://hackernoon.com/build-on-your-trading-knowledge-what-are-stop-loss-and-stop-limit-orders?source=rss"/>
+        <updated>2021-11-27T14:51:04.000Z</updated>
+        <summary type="html"><![CDATA[I bet you’re guessing a stop-loss order, and you’re right. In fact, it’s one of the most common risk management techniques to limit potential losses.]]></summary>
+        <author>
+            <name>Bybit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Accessibility in Your Workflow]]></title>
+        <id>https://hackernoon.com/how-to-automate-accessibility-in-your-workflow?source=rss</id>
+        <link href="https://hackernoon.com/how-to-automate-accessibility-in-your-workflow?source=rss"/>
+        <updated>2021-11-27T13:20:46.000Z</updated>
+        <summary type="html"><![CDATA[Get more team members involved with accessibility by sharing tools they'll actually use. A11y tools for design, development, QA, and CI/CD.]]></summary>
+        <author>
+            <name>Austin Gil</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Indoor Blimp Sails Through The Air Using Ultrasonic Transducers]]></title>
         <id>https://hackaday.com/?p=508790</id>
         <link href="https://hackaday.com/2021/11/27/indoor-blimp-sails-through-the-air-using-ultrasonic-transducers/"/>
@@ -67,6 +313,36 @@
         <summary type="html"><![CDATA[Quadcopter type drones can be flown indoors, but unless you have a lot of space, it usually just ends in a crash. The prospect of being hit in the face …read more]]></summary>
         <author>
             <name>Dave Rowntree</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Better Way to Pass Technical Interviews]]></title>
+        <id>https://hackernoon.com/a-better-way-to-pass-technical-interviews?source=rss</id>
+        <link href="https://hackernoon.com/a-better-way-to-pass-technical-interviews?source=rss"/>
+        <updated>2021-11-27T10:37:01.000Z</updated>
+        <summary type="html"><![CDATA[To LeetCode or not to LeetCode? What if you don't want to practice 100s of coding questions before your next coding interview?]]></summary>
+        <author>
+            <name>Arslan Ahmad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring the Limitations of Machine Learning]]></title>
+        <id>https://hackernoon.com/exploring-the-limitations-of-machine-learning?source=rss</id>
+        <link href="https://hackernoon.com/exploring-the-limitations-of-machine-learning?source=rss"/>
+        <updated>2021-11-27T10:22:55.000Z</updated>
+        <summary type="html"><![CDATA[A discussion on the limitations of machine learning.]]></summary>
+        <author>
+            <name>Daglar Cizmeci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Decentralized Internet and Redistribution of Power]]></title>
+        <id>https://hackernoon.com/the-decentralized-internet-and-redistribution-of-power?source=rss</id>
+        <link href="https://hackernoon.com/the-decentralized-internet-and-redistribution-of-power?source=rss"/>
+        <updated>2021-11-27T09:56:21.000Z</updated>
+        <summary type="html"><![CDATA[The decentralization driven by Web 3.0 might not look like similar battlegrounds of the past, but make no mistake, this is about redistribution of power.]]></summary>
+        <author>
+            <name>Rohit Malekar</name>
         </author>
     </entry>
     <entry>
@@ -438,6 +714,16 @@ The post A Handy Little System for Animated Entrances in CSS appeared first on C
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Black Friday Final Hours: Prep For CompTIA Certifications For Under $15]]></title>
+        <id>https://hackernoon.com/black-friday-final-hours-prep-for-comptia-certifications-for-under-dollar15?source=rss</id>
+        <link href="https://hackernoon.com/black-friday-final-hours-prep-for-comptia-certifications-for-under-dollar15?source=rss"/>
+        <updated>2021-11-26T08:34:18.000Z</updated>
+        <summary type="html"><![CDATA[As a part of our Final Hours Black Friday Sale, you can get The 2021 Complete CompTIA Certification Prep Super Bundle for just $14.70 with code BFSAVE70.]]></summary>
+        <author>
+            <name>Best in Tech</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[All the provisions in the Build Back Better bill]]></title>
         <id>https://flowingdata.com/?p=66113</id>
         <link href="https://flowingdata.com/2021/11/26/all-the-provisions-in-the-build-back-better-bill/"/>
@@ -648,6 +934,16 @@ Tags: government, spending, Upshot]]></summary>
         <summary type="html"><![CDATA[The HN team reveals all their bad holiday experiences and talk about the worst gifts they've ever received.]]></summary>
         <author>
             <name>Slogging (Slack Blogging)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Evaluate MLOps Platforms]]></title>
+        <id>https://hackernoon.com/how-to-evaluate-mlops-platforms?source=rss</id>
+        <link href="https://hackernoon.com/how-to-evaluate-mlops-platforms?source=rss"/>
+        <updated>2021-11-25T10:01:01.000Z</updated>
+        <summary type="html"><![CDATA[MLOps is confusing and there are many tools that are difficult to catagorise. Here is a good way to get on top of all the tools to improve your efforts.]]></summary>
+        <author>
+            <name>Ryan Dawson</name>
         </author>
     </entry>
     <entry>
@@ -23473,29 +23769,6 @@ Subscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://go
         <link href="https://helloacm.com/one-line-python-lambda-function-to-hexify-a-string-data-converting-ascii-code-to-hexadecimal/"/>
         <updated>2021-08-31T16:29:28.000Z</updated>
         <summary type="html"><![CDATA[Sometimes, we need to view the content of a string in Python in the form of hexadecimal values, we can use the following function to convert each character to ASCII code and then hex value. def...
-
-
-[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
-        <author>
-            <name>ACMer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Luau Recap: August 2021]]></title>
-        <id>https://luau-lang.org/2021/08/31/luau-recap-august-2021.html</id>
-        <link href="https://luau-lang.org/2021/08/31/luau-recap-august-2021.html"/>
-        <updated>2021-08-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Luau is our new language that you can read more about at https://luau-lang.org.]]></summary>
-        <author>
-            <name>Luau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teaching Kids Programming – Equal Tree Partition via Recursive Depth First Search Algorithm]]></title>
-        <id>https://helloacm.com/?p=146524</id>
-        <link href="https://helloacm.com/teaching-kids-programming-equal-tree-partition-via-recursive-depth-first-search-algorithm/"/>
-        <updated>2021-08-30T20:08:56.000Z</updated>
-        <summary type="html"><![CDATA[Given the root of a binary tree, return true if you can partition the tree into two trees with equal sums of values after removing exactly one edge on the original tree. Equal Tree Partition via...
 
 
 [[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
