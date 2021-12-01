@@ -40,6 +40,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=357109",
+          "author": "Chris Coyier",
+          "description": "I was playing this game on Apple Arcade the other day called wurdweb. It’s a fun little game! Little touches like the little shape dudes that walk around the screen (but otherwise don’t do anything) give it a lot …",
+          "link": "https://css-tricks.com/diagonal-stripes-wipe-animation/",
+          "publishedOn": "2021-11-30T17:26:35.000Z",
+          "wordCount": 946,
+          "title": "Diagonal Stripes Wipe Animation"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357728",
+          "author": "Tobias Günther",
+          "description": "This article is part of our “Advanced Git” series. Be sure to follow us on Twitter or sign up for our newsletter to hear about future articles!\nThe “Reflog” is one of Git’s lesser-known features—but one that can be extremely …",
+          "link": "https://css-tricks.com/using-the-reflog-to-restore-lost-commits/",
+          "publishedOn": "2021-11-30T15:53:27.000Z",
+          "wordCount": 2419,
+          "title": "Using the Reflog to Restore Lost Commits"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357679",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nCloudinary (the media hosting and optimization service) has a brand new version (v3) of its WordPress plugin that has really nailed it. First, a high-level look at the biggest things this plugin does:\nIt \n…",
+          "link": "https://css-tricks.com/a-look-at-the-cloudinary-wordpress-plugin/",
+          "publishedOn": "2021-11-30T15:23:00.000Z",
+          "wordCount": 1256,
+          "title": "A Look at the Cloudinary WordPress Plugin"
+        },
+        {
           "id": "https://css-tricks.com/?p=357565",
           "author": "Geoff Graham",
           "description": "Apple Music has this “Spatial Audio” feature where the direction of the music in your headphones is based on the location of the device. It’s tough to explain just how neat it is. But that’s not what I’m here to …\nThe post Recreating the Apple Music Hits Playlist Animation in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -1190,6 +1217,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "61783ffa33422e07df364d2c",
+          "author": null,
+          "description": "For six years in a row, Rust has been voted the most loved programming language by Stack Overflow. So if you're ready to learn this popular programming language, this course will introduce you to Rust so you can start using it in your projects. You will be working entirely within",
+          "link": "https://www.freecodecamp.org/news/rust-in-replit/",
+          "publishedOn": "2021-11-30T14:35:18.000Z",
+          "wordCount": 5418,
+          "title": "Learn Rust Programming Course – Interactive Rust Language Tutorial on Repl.it"
+        },
+        {
+          "id": "61a0f98125888a07c3e1bfbc",
+          "author": null,
+          "description": "Everyone should learn three skills that can help them make money in their life. This means that you won't have to rely on one skill to make money, and it gives you a chance to make a side income, too. The value you can add at your job or to",
+          "link": "https://www.freecodecamp.org/news/5-valuable-skills-developers-should-learn/",
+          "publishedOn": "2021-11-30T01:12:15.000Z",
+          "wordCount": 1098,
+          "title": "5 Valuable Skills Developers Should Learn in 2022"
+        },
+        {
           "id": "61a39f3025888a07c3e1cf08",
           "author": null,
           "description": "How you train for your career is one of the most consequential decisions you'll ever make. But it's hard to narrow down your options for a career in software development or IT. Medicine is easy: pick a medical school and apply. But programming?  Will what you learn in a four",
@@ -1233,6 +1278,15 @@
           "publishedOn": "2021-11-29T15:55:00.000Z",
           "wordCount": 1395,
           "title": "New Free Bootcamps Based on freeCodeCamp – Learn JavaScript &amp; Web Development with Weekly Live Streams"
+        },
+        {
+          "id": "6140e027852f4307d372d933",
+          "author": null,
+          "description": "NoSQL Databases can sometimes seem confusing and overwhelming, partly because of their flexibility. This is why we have put together a 3-hour video course to help you understand exactly what a NoSQL Database is, as well as the different types available to you.  By the end of this course, you",
+          "link": "https://www.freecodecamp.org/news/learn-nosql-in-3-hours/",
+          "publishedOn": "2021-11-29T15:47:00.000Z",
+          "wordCount": 765,
+          "title": "Learn About NoSQL Databases in This 3-hour Course"
         },
         {
           "id": "61a4b12225888a07c3e1d240",
@@ -2979,6 +3033,150 @@
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
         {
+          "id": "https://hackernoon.com/the-dangers-of-online-dating?source=rss",
+          "author": "Amy Pravin Shah",
+          "description": "This article discusses the dangers of online dating, ranks US states according to their safety for online dating, and discusses ways to be safer when dating onl",
+          "link": "https://hackernoon.com/the-dangers-of-online-dating?source=rss",
+          "publishedOn": "2021-11-30T06:06:31.000Z",
+          "wordCount": 1969,
+          "title": "The Dangers of Online Dating"
+        },
+        {
+          "id": "https://hackernoon.com/twitter-without-jack-wtf?source=rss",
+          "author": "Nebojsa \"Nesha\" Todorovic",
+          "description": "Jack Dorser is leaving Twitter. WHY? And, More Importantly, WHY NOW?!",
+          "link": "https://hackernoon.com/twitter-without-jack-wtf?source=rss",
+          "publishedOn": "2021-11-30T06:04:46.000Z",
+          "wordCount": 1838,
+          "title": "Twitter without Jack: WTF?!"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-build-an-app-like-airbnb-deciding-on-features-timeline-and-cost?source=rss",
+          "author": "WebClues Infotech",
+          "description": "Looking to build an application like Airbnb for Android & iOS platform? Get insights into how to make an app like Airbnb & how much it will cost with WebClues.",
+          "link": "https://hackernoon.com/how-to-build-an-app-like-airbnb-deciding-on-features-timeline-and-cost?source=rss",
+          "publishedOn": "2021-11-30T05:09:14.000Z",
+          "wordCount": 2016,
+          "title": "How to Build an App like Airbnb — Deciding on Features, Timeline & Cost"
+        },
+        {
+          "id": "https://hackernoon.com/inside-the-life-of-a-criminal-defense-lawyer-with-norman-spencer?source=rss",
+          "author": "Limarc Ambalina",
+          "description": "In this interview, we talk to Norman about the real lives of criminal defense lawyers and his opinion on the current state of the US judicial system.",
+          "link": "https://hackernoon.com/inside-the-life-of-a-criminal-defense-lawyer-with-norman-spencer?source=rss",
+          "publishedOn": "2021-11-30T04:40:35.000Z",
+          "wordCount": 2943,
+          "title": "Inside the Life of a Criminal Defense Lawyer with Norman Spencer"
+        },
+        {
+          "id": "https://hackernoon.com/cyber-monday-sale-these-courses-teach-you-how-to-code-for-under-dollar15?source=rss",
+          "author": "Super Saiyan Programming",
+          "description": "The 2022 Premium Learn to Code Certification Bundle is on sale for just $11.70 during our Cyber Monday Sale",
+          "link": "https://hackernoon.com/cyber-monday-sale-these-courses-teach-you-how-to-code-for-under-dollar15?source=rss",
+          "publishedOn": "2021-11-30T04:39:46.000Z",
+          "wordCount": 1502,
+          "title": "Cyber Monday Sale: These Courses Teach You How to Code for Under $15"
+        },
+        {
+          "id": "https://hackernoon.com/best-programming-languages-to-learn-as-a-beginner?source=rss",
+          "author": "Jima Victor",
+          "description": "Best programming languages to learn as a beginner",
+          "link": "https://hackernoon.com/best-programming-languages-to-learn-as-a-beginner?source=rss",
+          "publishedOn": "2021-11-29T23:01:18.000Z",
+          "wordCount": 986,
+          "title": "5 Languages to Kickstart Your Programming Career"
+        },
+        {
+          "id": "https://hackernoon.com/100-programming-advice-from-robert-martins-clean-code?source=rss",
+          "author": "Tyler Hawkins",
+          "description": "Clean Code by Robert C. Martin is the most recommended programming book of all time. There’s a good reason why.",
+          "link": "https://hackernoon.com/100-programming-advice-from-robert-martins-clean-code?source=rss",
+          "publishedOn": "2021-11-29T21:56:01.000Z",
+          "wordCount": 962,
+          "title": "100 Programming Advice from the Book Clean Code by Robert Martin"
+        },
+        {
+          "id": "https://hackernoon.com/using-https-to-render-blocked-mixed-content-a-website?source=rss",
+          "author": "Mozilla Contributors",
+          "description": "Starting with Firefox 23, Firefox blocks active mixed content by default. This follows a practice adopted by Internet Explorer (since version 9) and Chrome.",
+          "link": "https://hackernoon.com/using-https-to-render-blocked-mixed-content-a-website?source=rss",
+          "publishedOn": "2021-11-29T20:57:40.000Z",
+          "wordCount": 1230,
+          "title": "Using HTTPS to Render Blocked Mixed Content on a Website"
+        },
+        {
+          "id": "https://hackernoon.com/a-better-way-to-monitor-your-laravel-services?source=rss",
+          "author": "Valerio Barbera",
+          "description": "Kubernetes or auto scaling can create a bit of mess in your monitoring data. Learn how to monitor your Laravel application by services instead of hostnames.",
+          "link": "https://hackernoon.com/a-better-way-to-monitor-your-laravel-services?source=rss",
+          "publishedOn": "2021-11-29T20:47:05.000Z",
+          "wordCount": 860,
+          "title": "A Better Way to Monitor Your Laravel Services"
+        },
+        {
+          "id": "https://hackernoon.com/house-of-gucci-rewriting-a-better-alternate-business-strategy-and-timeline?source=rss",
+          "author": "Michael Brooks",
+          "description": "\"Quality is remembered long after price is forgotten.\" Aldo Gucci's famous saying explains some entrepreneural lessons that House of Gucci teaches viewers.",
+          "link": "https://hackernoon.com/house-of-gucci-rewriting-a-better-alternate-business-strategy-and-timeline?source=rss",
+          "publishedOn": "2021-11-29T20:11:46.000Z",
+          "wordCount": 1947,
+          "title": "House of Gucci: Rewriting a Better Alternate Business Strategy and Timeline"
+        },
+        {
+          "id": "https://hackernoon.com/deconstructing-the-difference-between-web-20-and-web-30?source=rss",
+          "author": "Masha Prusso",
+          "description": "You may have heard the term web 3.0 and may have even heard it described, but you may not have seen real-life applications as of yet",
+          "link": "https://hackernoon.com/deconstructing-the-difference-between-web-20-and-web-30?source=rss",
+          "publishedOn": "2021-11-29T20:10:38.000Z",
+          "wordCount": 959,
+          "title": "Deconstructing the Difference Between Web 2.0 and Web 3.0"
+        },
+        {
+          "id": "https://hackernoon.com/a-quick-introduction-to-the-resize-observer-api?source=rss",
+          "author": "Mozilla Contributors",
+          "description": "The Resize Observer API provides a performant mechanism by which code  can monitor an element for changes to its size, with notifications being delivered to the observer each time the size changes.",
+          "link": "https://hackernoon.com/a-quick-introduction-to-the-resize-observer-api?source=rss",
+          "publishedOn": "2021-11-29T20:03:56.000Z",
+          "wordCount": 1460,
+          "title": "A Quick Introduction to the Resize Observer API"
+        },
+        {
+          "id": "https://hackernoon.com/the-discord-evolution-from-a-chat-for-gamers-to-a-chat-for-communities-and-friends?source=rss",
+          "author": "Scott D. Clary",
+          "description": "Discord Was Built For Gamers And Took the World by Storm but its actual story is not well known. This is how the app started as a failed game and evolved.",
+          "link": "https://hackernoon.com/the-discord-evolution-from-a-chat-for-gamers-to-a-chat-for-communities-and-friends?source=rss",
+          "publishedOn": "2021-11-29T20:01:57.000Z",
+          "wordCount": 2181,
+          "title": "The Discord Evolution: From a “Chat for Gamers” to a “Chat for Communities and Friends”"
+        },
+        {
+          "id": "https://hackernoon.com/do-not-buy-a-computer-from-walmart-and-related-advice?source=rss",
+          "author": "Zach T",
+          "description": "How do you feel about your ability to give advice? Depends on the topic. Do you have advice for me? Do not buy a computer from Walmart.",
+          "link": "https://hackernoon.com/do-not-buy-a-computer-from-walmart-and-related-advice?source=rss",
+          "publishedOn": "2021-11-29T18:59:40.000Z",
+          "wordCount": 992,
+          "title": "Do Not Buy a Computer from Walmart, and Related Advice"
+        },
+        {
+          "id": "https://hackernoon.com/lessons-straight-from-the-amazon-playbook?source=rss",
+          "author": "Scott D. Clary",
+          "description": "Amazon: From an online bookstore to a trillion-dollar e-commerce giant.",
+          "link": "https://hackernoon.com/lessons-straight-from-the-amazon-playbook?source=rss",
+          "publishedOn": "2021-11-29T12:38:56.000Z",
+          "wordCount": 2069,
+          "title": "Lessons Straight From the Amazon Playbook"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-create-and-implement-your-own-test-automation-strategy?source=rss",
+          "author": "Katalon",
+          "description": "Every new software, method, or tool comes with certain growing pains and takes some time to get used to, although it’s almost always worth the adoption effort.",
+          "link": "https://hackernoon.com/how-to-create-and-implement-your-own-test-automation-strategy?source=rss",
+          "publishedOn": "2021-11-29T12:36:20.000Z",
+          "wordCount": 998,
+          "title": "How to Create and Implement Your Own Test Automation Strategy"
+        },
+        {
           "id": "https://hackernoon.com/deathloop-gameplay-tips-and-tricks-best-weapons-cheats-and-strats-for-newcomers?source=rss",
           "author": "Blake Cram",
           "description": "Wanna try out Deathloop, but feel intimidated? Have no fear. Here are the best starting strategies for shooter noobs so you'll feel like a master in no time.",
@@ -3373,6 +3571,15 @@
           "publishedOn": "2021-11-26T20:04:20.000Z",
           "wordCount": 2070,
           "title": "Colors of Python Interpreters"
+        },
+        {
+          "id": "https://hackernoon.com/these-nfts-might-help-save-the-koalas-a-species-in-danger?source=rss",
+          "author": "Daniel Jimenez",
+          "description": "KRebels is the first project to use non-fungible tokens (NFTs) issued through blockchain technology to raise awareness of the dangers inherent in climate change",
+          "link": "https://hackernoon.com/these-nfts-might-help-save-the-koalas-a-species-in-danger?source=rss",
+          "publishedOn": "2021-11-26T20:00:34.000Z",
+          "wordCount": 956,
+          "title": "These NFTs Might Help Save the Koalas, a Species in Danger"
         },
         {
           "id": "https://hackernoon.com/robotics-is-aimed-to-help-and-assist-humans-by-taking-on-the-dirty-dangerous-and-dull-chores?source=rss",
@@ -10011,6 +10218,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=147851",
+          "author": "ACMer",
+          "description": "You are given a singly linked list head as well as integers pos and val. Insert a new node with value val before index pos of head. Constraints 1 ≤ n ≤ 100,000 where n is the number of nodes in head...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-insert-into-linked-list-node-insertion-algorithm/",
+          "publishedOn": "2021-11-30T21:28:41.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Insert Into Linked List (Node Insertion Algorithm)",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=147837",
           "author": "ACMer",
           "description": "Given a list of positive integers nums, return the number of integers that have odd number of digits. Constraints n ≤ 100,000 where n is the length of nums Example 1 Input nums =  Output 4...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -10769,16 +10986,6 @@
           "wordCount": null,
           "title": "The C Function to Print a Char Array (String) in Hexadecimal",
           "itunes": {}
-        },
-        {
-          "id": "https://helloacm.com/?p=146566",
-          "author": "ACMer",
-          "description": "Given the root of a binary tree, return the maximum average value of a subtree of that tree. Answers within 10-5 of the actual answer will be accepted. A subtree of a tree is any node of that tree...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
-          "link": "https://helloacm.com/teaching-kids-programming-recursive-depth-first-search-algorithm-to-compute-the-max-average-of-a-binary-subtree/",
-          "publishedOn": "2021-09-01T15:33:11.000Z",
-          "wordCount": null,
-          "title": "Teaching Kids Programming – Recursive Depth First Search Algorithm to Compute the Max Average of a Binary SubTree",
-          "itunes": {}
         }
       ]
     },
@@ -10787,6 +10994,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=509597",
+          "author": "Ryan Flowers",
+          "description": "Hong Kong based [Handy Geng] has a knack for fitting his creations with a large percentage of recycled material. And as is exemplified by the video below the break, he …read more",
+          "link": "https://hackaday.com/2021/11/30/recycled-parts-round-out-soap-shaped-electric-car/",
+          "publishedOn": "2021-12-01T00:00:38.000Z",
+          "wordCount": 1106,
+          "title": "Recycled Parts Round Out Soap Shaped Electric Car"
+        },
+        {
+          "id": "https://hackaday.com/?p=508866",
+          "author": "Tom Nardi",
+          "description": "A critical element of a good blasting cabinet setup is a vacuum system that can suck out the dust, blasting media, and bits of removed material faster than it collects …read more",
+          "link": "https://hackaday.com/2021/11/30/two-stage-dust-collector-recycles-blasting-media/",
+          "publishedOn": "2021-11-30T21:00:18.000Z",
+          "wordCount": 1262,
+          "title": "Two-Stage Dust Collector Recycles Blasting Media"
+        },
+        {
+          "id": "https://hackaday.com/?p=508896",
+          "author": "Mike Szczys",
+          "description": "Flip dot displays are awesome — too bad it’s so hard to find large panels to play around with, but that’s for another article. [Pierre Muth] has been working to …read more",
+          "link": "https://hackaday.com/2021/11/30/giving-flip-dots-the-oil-treatment-to-shut-them-up/",
+          "publishedOn": "2021-11-30T19:30:00.000Z",
+          "wordCount": 1278,
+          "title": "Giving Flip Dots the Oil Treatment to Shut Them Up"
+        },
+        {
+          "id": "https://hackaday.com/?p=499374",
+          "author": "Matthew Carlson",
+          "description": "It seems like there are two camps, the small group of people who care about UEFI and everyone else who doesn’t really notice or care as long as their computer …read more",
+          "link": "https://hackaday.com/2021/11/30/whats-the-deal-with-uefi/",
+          "publishedOn": "2021-11-30T18:01:10.000Z",
+          "wordCount": 4163,
+          "title": "What’s The Deal With UEFI?"
+        },
+        {
+          "id": "https://hackaday.com/?p=509056",
+          "author": "Donald Papp",
+          "description": "[Staacks]’s Blender plugin to animate growth is behind the sweet animation seen above. It’s an add-on that cleverly makes creating slick growth animations easier when using Blender. It isn’t limited …read more",
+          "link": "https://hackaday.com/2021/11/30/watch-blender-plugin-make-animated-pcb-traces-and-more/",
+          "publishedOn": "2021-11-30T16:30:00.000Z",
+          "wordCount": 1164,
+          "title": "Watch Blender Plugin Make Animated PCB Traces (and More)"
+        },
+        {
+          "id": "https://hackaday.com/?p=505221",
+          "author": "Al Williams",
+          "description": "I must confess, that I try not to run Windows any more than absolutely necessary. But for many reasons, it is occasionally necessary. In particular, I have had several laptops …read more",
+          "link": "https://hackaday.com/2021/11/30/linux-fu-the-ultimate-dual-boot-laptop/",
+          "publishedOn": "2021-11-30T15:01:30.000Z",
+          "wordCount": 4984,
+          "title": "Linux Fu: The Ultimate Dual Boot Laptop?"
+        },
+        {
+          "id": "https://hackaday.com/?p=509511",
+          "author": "Jenny List",
+          "description": "The various companies and organisations that supply our community have achieved differing levels of success, with some staying as kitchen-table operations and others reaching the giddy heights of multinational commerce. …read more",
+          "link": "https://hackaday.com/2021/11/30/buy-a-piece-of-the-pi/",
+          "publishedOn": "2021-11-30T12:00:00.000Z",
+          "wordCount": 4938,
+          "title": "Buy A Piece Of The Pi?"
+        },
         {
           "id": "https://hackaday.com/?p=508800",
           "author": "Dave Rowntree",
@@ -14620,6 +14890,106 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "D21E999C-792F-46B0-B8D6CBDD9BF437C0",
+          "author": "David Ferris, E&E News",
+          "description": "The administration hopes to gain support for a bill to domestic semiconductor manufacturing\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/chip-shortage-threatens-bidens-electric-vehicle-plans-commerce-secretary-says/",
+          "publishedOn": "2021-11-30T19:15:00.000Z",
+          "wordCount": null,
+          "title": "Chip Shortage Threatens Biden's Electric Vehicle Plans, Commerce Secretary Says",
+          "itunes": {}
+        },
+        {
+          "id": "4923B346-A519-45C9-A45438A76119D3AB",
+          "author": "Michael Head",
+          "description": "Global players need to get more vaccines to African nations, and convince more people to take them\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/omicron-is-here-a-lack-of-covid-vaccines-is-partly-why1/",
+          "publishedOn": "2021-11-30T18:00:00.000Z",
+          "wordCount": null,
+          "title": "Omicron Is Here: A Lack of COVID Vaccines Is Partly Why",
+          "itunes": {}
+        },
+        {
+          "id": "2A0720FB-8BC0-471C-BB1C9B0ECD84B022",
+          "author": "Michelle Nijhuis",
+          "description": "On Remembrance Day for Lost Species, mourn what’s lost, but also be grateful for the species we still have\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/to-conserve-more-species-act-while-their-numbers-are-high/",
+          "publishedOn": "2021-11-30T17:00:00.000Z",
+          "wordCount": null,
+          "title": "To Conserve More Species, Act while Their Numbers Are High",
+          "itunes": {}
+        },
+        {
+          "id": "B7F9DE99-A267-4763-AE60F6FB7F9C1FD5",
+          "author": "Michael Eisenstein",
+          "description": "By accounting for the additive effect of multiple genetic variants, researchers can develop a system that improves their ability to identify the most vulnerable\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/ranking-the-risk-of-heart-disease/",
+          "publishedOn": "2021-11-30T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Ranking the Risk of Heart Disease",
+          "itunes": {}
+        },
+        {
+          "id": "EAF3520E-5AC2-4B0F-91B1BF09E05A6F75",
+          "author": "Daisy Yuhas",
+          "description": "Bilingual people engage the same brain region that monolingual individuals use to put together words—even when combining different languages\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-brains-seamlessly-switch-between-languages/",
+          "publishedOn": "2021-11-30T15:00:00.000Z",
+          "wordCount": null,
+          "title": "How Brains Seamlessly Switch Between Languages",
+          "itunes": {}
+        },
+        {
+          "id": "CD0D9CDD-59B0-4932-977F0764786E0850",
+          "author": "Bianca Nogrady",
+          "description": "Lifestyle is a major contributor to heart disease in adults, but risk factors such as genetics and parental lifestyle can also have an effect\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-a-childs-heart-health-could-be-decided-before-birth/",
+          "publishedOn": "2021-11-30T14:00:00.000Z",
+          "wordCount": null,
+          "title": "How a Child's Heart Health Could Be Decided before Birth",
+          "itunes": {}
+        },
+        {
+          "id": "7F578A70-C043-46D7-862BDDE4C943B5EB",
+          "author": "Amy Brady",
+          "description": "Recommendations from the editors of Scientific American\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/what-we-lose-as-snowfall-disappears-the-science-behind-aesops-fables-and-other-new-books/",
+          "publishedOn": "2021-11-30T14:00:00.000Z",
+          "wordCount": null,
+          "title": "What We Lose as Snowfall Disappears, the Science behind Aesop's Fables, and Other New Books",
+          "itunes": {}
+        },
+        {
+          "id": "5D3C32D9-C3C9-474E-9D0F59F36F465B76",
+          "author": "Henry Gee",
+          "description": "Habitat degradation, low genetic variation and declining fertility are setting Homo sapiens up for collapse \n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/humans-are-doomed-to-go-extinct/",
+          "publishedOn": "2021-11-30T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Humans Are Doomed to Go Extinct",
+          "itunes": {}
+        },
+        {
+          "id": "4FAA76EF-ED11-47BC-8B5D7E115D351B66",
+          "author": "Sara Reardon",
+          "description": "If the Supreme Court overturns Roe v. Wade in a Mississippi abortion case, numerous state laws will interfere with key biological and social decisions during pregnancy\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/a-timeline-of-how-abortion-laws-could-affect-pregnancy-decisions/",
+          "publishedOn": "2021-11-30T12:30:00.000Z",
+          "wordCount": null,
+          "title": "A Timeline of How Abortion Laws Could Affect Pregnancy Decisions",
+          "itunes": {}
+        },
+        {
+          "id": "E67095E3-18EB-416A-802487E3C70B5F99",
+          "author": "Tess Joosse",
+          "description": "An updated bubbling process allows for more efficient mineral separation\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/tiny-vibrating-bubbles-could-make-mining-more-sustainable/",
+          "publishedOn": "2021-11-30T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Tiny Vibrating Bubbles Could Make Mining More Sustainable",
+          "itunes": {}
+        },
+        {
           "id": "8F8A738A-543B-4B4C-B892495B2CF9E0FC",
           "author": "John Fialka, E&E News",
           "description": "The global demand for the element could grow tenfold by 2030\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -18130,6 +18500,24 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=148156",
+          "author": "Alan Shimel",
+          "description": "Like me, you have probably heard a lot about the “Great Resignation” lately. I’ll admit—at first I did not think it had anything to with tech jobs, especially not DevOps or cybersecurity jobs. After all, there aren’t many workers in those fields who aren’t well-paid (though, of course, when it comes to pay, it’s all […]\nThe post The ‘Great Resignation’ in DevOps? Bah, Humbug appeared first on DevOps.com.",
+          "link": "https://devops.com/the-great-resignation-in-devops-bah-humbug/",
+          "publishedOn": "2021-11-30T18:21:23.000Z",
+          "wordCount": 1155,
+          "title": "The ‘Great Resignation’ in DevOps? Bah, Humbug"
+        },
+        {
+          "id": "https://devops.com/?p=148120",
+          "author": "Bill Doerrfeld",
+          "description": "There’s a lot of interest in GraphQL lately. The query language is excellent for data retrieval, and it could act as a more usable mechanism to evolve the traditional REST API integration approach. But as adoption grows steadily, architects are now considering the implications of managing GraphQL at scale. Certain issues may hinder GraphQL in […]\nThe post GraphQL as a Meta Layer appeared first on DevOps.com.",
+          "link": "https://devops.com/graphql-as-a-meta-layer/",
+          "publishedOn": "2021-11-30T07:30:24.000Z",
+          "wordCount": 1506,
+          "title": "GraphQL as a Meta Layer"
+        },
+        {
           "id": "https://devops.com/?p=148146",
           "author": "Mike Vizard",
           "description": "Fugue has infused the best practices defined by Amazon Web Services (AWS) within its software-as-a-service (SaaS) offering for provisioning infrastructure using its infrastructure-as-code (IaC) platform. Fugue CEO Josh Stella said that IT teams can now evaluate templates for provisioning AWS infrastructure that were created using AWS CloudFormation or Terraform tools to ensure they comply with […]\nThe post Fugue Marries Compliance-as-Code Tool to AWS Well-Architected Framework appeared first on DevOps.com.",
@@ -18173,6 +18561,15 @@
           "publishedOn": "2021-11-29T07:30:08.000Z",
           "wordCount": 1606,
           "title": "The Next Evolutions of DevOps"
+        },
+        {
+          "id": "https://devops.com/?p=148128",
+          "author": "ROELBOB",
+          "description": "The post Funding Rounds appeared first on DevOps.com.",
+          "link": "https://devops.com/funding-rounds/",
+          "publishedOn": "2021-11-29T07:00:52.000Z",
+          "wordCount": 427,
+          "title": "Funding Rounds"
         },
         {
           "id": "https://devops.com/?p=147868",
@@ -19712,6 +20109,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=110661",
+          "author": "Tara C. Smith",
+          "description": "No matter how much we’d like to eradicate SARS-CoV-2, it may be better to settle for other forms of control.            \nThe post Will We Ever Get Rid of COVID-19? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/will-we-ever-eradicate-covid-19-20211130/",
+          "publishedOn": "2021-11-30T16:00:35.000Z",
+          "wordCount": null,
+          "title": "Will We Ever Get Rid of COVID-19?",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=110658",
           "author": "Carrie Arnold",
           "description": "The spate of furious wildfires around the world during the past decade has revealed to ecologists how much biodiversity and “pyrodiversity” go hand in hand.            \nThe post Wildfires of Varying Intensity Can Be Good for Biodiversity first appeared on Quanta Magazine",
@@ -20098,6 +20505,24 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66157",
+          "author": "Nathan Yau",
+          "description": "That’s a lot of email.…\nTags: email, Thanksgiving",
+          "link": "https://flowingdata.com/2021/11/30/thanksgiving-ravine/",
+          "publishedOn": "2021-11-30T22:58:02.000Z",
+          "wordCount": 212,
+          "title": "Thanksgiving Ravine"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66146",
+          "author": "Nathan Yau",
+          "description": "This chart, made by someone who is against vaccinations, shows a higher mortality…\nTags: coronavirus, Simpson's Paradox, vaccination",
+          "link": "https://flowingdata.com/2021/11/30/simpsons-paradox-in-vaccination-data/",
+          "publishedOn": "2021-11-30T08:50:35.000Z",
+          "wordCount": 356,
+          "title": "Simpson’s Paradox in vaccination data"
+        },
         {
           "id": "https://flowingdata.com/?p=66138",
           "author": "Nathan Yau",
