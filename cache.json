@@ -40,6 +40,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=357985",
+          "author": "Chris Coyier",
+          "description": "I think if you’re a DevOps person in any capacity, the utility of Docker is very clear. Your things run in containers that are identical everywhere. Assuming Docker is working/running, the code will execute in a reliably consistent way whether …",
+          "link": "https://css-tricks.com/dock-life-using-docker-for-all-the-things/",
+          "publishedOn": "2021-12-01T21:11:53.000Z",
+          "wordCount": 628,
+          "title": "Dock Life: Using Docker for All The Things!"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357344",
+          "author": "George Francis",
+          "description": "In nature, no two things are ever the same. Life is imperfect, unpredictable, and beautiful. We can walk through the same forest every day and see differently colored leaves. We can look up at the clouds every minute and watch …",
+          "link": "https://css-tricks.com/embrace-the-unpredictable/",
+          "publishedOn": "2021-12-01T15:47:46.000Z",
+          "wordCount": 726,
+          "title": "Embrace the Unpredictable"
+        },
+        {
+          "id": "https://css-tricks.com/?p=356146",
+          "author": "Amelia Wattenberger",
+          "description": "What is one thing people can do to make their website better?\n Exactly what you want to build!\nAsk yourself:\nWhat drew you to development in the beginning?\nIs there an experimental API that you’ve been wanting to try out?\n…",
+          "link": "https://css-tricks.com/exactly-what-you-want/",
+          "publishedOn": "2021-12-01T15:46:29.000Z",
+          "wordCount": 491,
+          "title": "Exactly What You Want"
+        },
+        {
           "id": "https://css-tricks.com/?p=357109",
           "author": "Chris Coyier",
           "description": "I was playing this game on Apple Arcade the other day called wurdweb. It’s a fun little game! Little touches like the little shape dudes that walk around the screen (but otherwise don’t do anything) give it a lot …",
@@ -1216,6 +1243,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61a5f9680c0c7407b2b3e607",
+          "author": null,
+          "description": "In general, a headphone jack and a pair of headphones improve the sound from your PC. You'll be able to hear things more clearly, without disturbing other around you.  But sometimes, setting them up is difficult. Or they might stop working entirely. This could be due to outdated drivers, or",
+          "link": "https://www.freecodecamp.org/news/headphone-jack-not-working-in-windows-10-how-to-fix-headphones-on-pc/",
+          "publishedOn": "2021-12-01T09:49:48.000Z",
+          "wordCount": 743,
+          "title": "Headphone Jack Not Working in Windows 10 - How to Fix Headphones on PC"
+        },
         {
           "id": "61783ffa33422e07df364d2c",
           "author": null,
@@ -3032,6 +3068,186 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/add-dark-mode-to-your-web-page-with-one-line-of-css?source=rss",
+          "author": "Kavindu Santhusa",
+          "description": "Create dark mode with 1 line of CSS with filters, and some tips and tricks.",
+          "link": "https://hackernoon.com/add-dark-mode-to-your-web-page-with-one-line-of-css?source=rss",
+          "publishedOn": "2021-12-01T22:48:01.000Z",
+          "wordCount": 996,
+          "title": "Add Dark Mode to Your Web Page With One Line of CSS 🌓"
+        },
+        {
+          "id": "https://hackernoon.com/3-methods-to-secure-your-aws-cloud-infrastructure?source=rss",
+          "author": "nOps",
+          "description": "79% of surveyed firms have recently experienced a cloud data breach. In this article, we examined various recommended practices that can help you stay safe.",
+          "link": "https://hackernoon.com/3-methods-to-secure-your-aws-cloud-infrastructure?source=rss",
+          "publishedOn": "2021-12-01T19:33:58.000Z",
+          "wordCount": 1569,
+          "title": "3 Methods to Secure Your AWS Cloud Infrastructure"
+        },
+        {
+          "id": "https://hackernoon.com/wait-people-cheat-in-technical-interviews?source=rss",
+          "author": "Shai Almog",
+          "description": "Can you cheat in a technical interview? This approach for hiring tuned over decades is how you moneyball hiring & work with great people.",
+          "link": "https://hackernoon.com/wait-people-cheat-in-technical-interviews?source=rss",
+          "publishedOn": "2021-12-01T19:27:11.000Z",
+          "wordCount": 941,
+          "title": "Wait, People Cheat in Technical Interviews?"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-get-started-with-amazon-ivs-and-amazon-personalize-in-retail?source=rss",
+          "author": "Amazon Interactive Video Service (IVS)",
+          "description": "This blog will walk through a detailed example of how to configure and deploy live streaming and personalization into an ecommerce site.",
+          "link": "https://hackernoon.com/how-to-get-started-with-amazon-ivs-and-amazon-personalize-in-retail?source=rss",
+          "publishedOn": "2021-12-01T19:22:41.000Z",
+          "wordCount": 1023,
+          "title": "How to Get Started with Amazon IVS and Amazon Personalize in Retail"
+        },
+        {
+          "id": "https://hackernoon.com/securing-engineer-access-to-cloud-environments-with-zero-trust?source=rss",
+          "author": "Check Point Software",
+          "description": "Remote working and developer infrastructure in the cloud have both served to change the way developer operations work and have new cybersecurity requirements.",
+          "link": "https://hackernoon.com/securing-engineer-access-to-cloud-environments-with-zero-trust?source=rss",
+          "publishedOn": "2021-12-01T19:02:32.000Z",
+          "wordCount": 1006,
+          "title": "Securing Engineer Access to Cloud Environments with Zero Trust"
+        },
+        {
+          "id": "https://hackernoon.com/top-3-coding-challenges-for-expert-level-javascript-developers?source=rss",
+          "author": "Michael Pautov",
+          "description": "Proving that you're a JavaScript Expert would probably involve a test from prospective employers. These three tests are common ones that they use for recruiting",
+          "link": "https://hackernoon.com/top-3-coding-challenges-for-expert-level-javascript-developers?source=rss",
+          "publishedOn": "2021-12-01T18:16:38.000Z",
+          "wordCount": 1951,
+          "title": "Top 3 Coding Challenges for Expert-Level JavaScript Developers"
+        },
+        {
+          "id": "https://hackernoon.com/with-close-to-dollar100-million-in-total-sales-in-metaverses-nfts-are-boosting-commerce-in-metaverses?source=rss",
+          "author": "Daniel Jimenez",
+          "description": "Space is a 3D virtual world experience which provides its citizens powerful tools to create content, build businesses, interact collaboratively, and own and mon",
+          "link": "https://hackernoon.com/with-close-to-dollar100-million-in-total-sales-in-metaverses-nfts-are-boosting-commerce-in-metaverses?source=rss",
+          "publishedOn": "2021-12-01T17:59:53.000Z",
+          "wordCount": 991,
+          "title": "With Close to $100 million in Total Sales in Metaverses, NFTs Are Boosting Commerce in Metaverses"
+        },
+        {
+          "id": "https://hackernoon.com/im-a-self-taught-developer-and-i-feel-stuck?source=rss",
+          "author": "Taimoor Saddique",
+          "description": "Let's dive in to some of the common mistakes in your early self-taught dev career, steps on how to avoid them, and what you should be doing instead.",
+          "link": "https://hackernoon.com/im-a-self-taught-developer-and-i-feel-stuck?source=rss",
+          "publishedOn": "2021-12-01T17:54:38.000Z",
+          "wordCount": 1741,
+          "title": "I'm a Self Taught Developer, and I Feel Stuck!"
+        },
+        {
+          "id": "https://hackernoon.com/the-meta-morphosis-of-nfts-whats-next-for-the-metaverse?source=rss",
+          "author": "Alfredo de Candia",
+          "description": "Do you have NFTs? Now is the time to use them in the metaverse!",
+          "link": "https://hackernoon.com/the-meta-morphosis-of-nfts-whats-next-for-the-metaverse?source=rss",
+          "publishedOn": "2021-12-01T17:45:36.000Z",
+          "wordCount": 998,
+          "title": "The Meta-Morphosis of NFTs: What's Next for the Metaverse?"
+        },
+        {
+          "id": "https://hackernoon.com/4-quick-and-easy-tips-to-make-your-wordpress-website-ada-compliant?source=rss",
+          "author": "Ran Ronen",
+          "description": "Making your website accessible to everyone goes beyond being the right thing to do. It can protect you from legal repercussions as well.",
+          "link": "https://hackernoon.com/4-quick-and-easy-tips-to-make-your-wordpress-website-ada-compliant?source=rss",
+          "publishedOn": "2021-12-01T17:45:30.000Z",
+          "wordCount": 1863,
+          "title": "4 Quick and Easy Tips to Make Your WordPress Website ADA Compliant"
+        },
+        {
+          "id": "https://hackernoon.com/from-nft-colors-to-nft-poop-are-we-calling-auto-generated-jpegs-art?source=rss",
+          "author": "Edward Moon",
+          "description": "Despite great enthusiasm, NFTs are neither thought-provoking, complex, nor beautiful. If anything, it's auto-generated pixelated JPEGs and shallow content.",
+          "link": "https://hackernoon.com/from-nft-colors-to-nft-poop-are-we-calling-auto-generated-jpegs-art?source=rss",
+          "publishedOn": "2021-12-01T17:31:06.000Z",
+          "wordCount": 2096,
+          "title": "From NFT Colors to NFT Poop: Are We Calling Auto-Generated JPEGs Art?"
+        },
+        {
+          "id": "https://hackernoon.com/taking-the-leap-from-developer-to-fintech-startup-ceo-interview?source=rss",
+          "author": "Ioana Surdu-Bob",
+          "description": "Ioana started her career as a software developer, but decided to leave Shopify to found Konvi - the investment platform for alternative assets.",
+          "link": "https://hackernoon.com/taking-the-leap-from-developer-to-fintech-startup-ceo-interview?source=rss",
+          "publishedOn": "2021-12-01T17:09:18.000Z",
+          "wordCount": 952,
+          "title": "Taking the Leap: From Developer to FinTech Startup CEO [Interview]"
+        },
+        {
+          "id": "https://hackernoon.com/dont-be-evil-they-said-android-is-tracking-us-with-no-way-to-opt-out?source=rss",
+          "author": "Zen Chan",
+          "description": "Researchers recently proved that the phrase is not just a slogan but crucial for protecting our privacy, considering that Google is everywhere for everyone now.",
+          "link": "https://hackernoon.com/dont-be-evil-they-said-android-is-tracking-us-with-no-way-to-opt-out?source=rss",
+          "publishedOn": "2021-12-01T17:07:54.000Z",
+          "wordCount": 1961,
+          "title": "\"Don't Be Evil,\" They Said: Android Is Tracking Us With No Way to Opt-Out"
+        },
+        {
+          "id": "https://hackernoon.com/dark-social-why-you-cant-afford-to-ignore-it-in-your-marketing-strategy?source=rss",
+          "author": "Vincent Otieno",
+          "description": "Dark social are places where your target customers hang out, discussing the solutions to their problems that cannot be tracked by attribution software.",
+          "link": "https://hackernoon.com/dark-social-why-you-cant-afford-to-ignore-it-in-your-marketing-strategy?source=rss",
+          "publishedOn": "2021-12-01T17:03:19.000Z",
+          "wordCount": 3154,
+          "title": "Dark Social: Why You Can't Afford to Ignore It In Your Marketing Strategy"
+        },
+        {
+          "id": "https://hackernoon.com/is-it-safe-to-go-back-into-the-office?source=rss",
+          "author": "Patrick McCarthy",
+          "description": "It’s not a one solution for everyone situation: Remote working may suit some, but others will want time in the office. Here are some tips to stay flexible.",
+          "link": "https://hackernoon.com/is-it-safe-to-go-back-into-the-office?source=rss",
+          "publishedOn": "2021-12-01T16:59:55.000Z",
+          "wordCount": 987,
+          "title": "Is It Safe To Go Back Into The Office?"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-use-my-hammer-notion-template-to-nail-product-planning?source=rss",
+          "author": "Momcilo Dakic",
+          "description": "From product vision to engaging roadmap in 5 steps.",
+          "link": "https://hackernoon.com/how-to-use-my-hammer-notion-template-to-nail-product-planning?source=rss",
+          "publishedOn": "2021-12-01T16:54:52.000Z",
+          "wordCount": 942,
+          "title": "How To Use My HAMMER Notion Template To Nail Product Planning"
+        },
+        {
+          "id": "https://hackernoon.com/human-brand-ambassadors-have-limitations-enter-foodtech-robots?source=rss",
+          "author": "Zak Oganian",
+          "description": "In the nearest future, a majority of FoodTech businesses and consumer brands will start using cognitive virtual humans.",
+          "link": "https://hackernoon.com/human-brand-ambassadors-have-limitations-enter-foodtech-robots?source=rss",
+          "publishedOn": "2021-12-01T16:50:15.000Z",
+          "wordCount": 1021,
+          "title": "Human Brand Ambassadors Have Limitations: Enter FoodTech Robots"
+        },
+        {
+          "id": "https://hackernoon.com/the-9-business-habits-of-successful-software-developers?source=rss",
+          "author": "Aleksandr Zakharov",
+          "description": "A software developer shares the most important business lessons learned over the span of a four-year career in the industry.",
+          "link": "https://hackernoon.com/the-9-business-habits-of-successful-software-developers?source=rss",
+          "publishedOn": "2021-12-01T16:45:23.000Z",
+          "wordCount": 949,
+          "title": "The 9 Business Habits of Successful Software Developers"
+        },
+        {
+          "id": "https://hackernoon.com/scrape-the-web-with-selenium-and-python?source=rss",
+          "author": "Ander",
+          "description": "Learn how to navigate and scrape websites using Selenium and Python, even dynamic content, thanks to Javascript Rendering and other available features.",
+          "link": "https://hackernoon.com/scrape-the-web-with-selenium-and-python?source=rss",
+          "publishedOn": "2021-12-01T12:55:11.000Z",
+          "wordCount": 940,
+          "title": "Scrape the Web with Selenium and Python"
+        },
+        {
+          "id": "https://hackernoon.com/dollar40000-strips-hackathon-participate-now?source=rss",
+          "author": "Strips Finance",
+          "description": "Announcing the $40,000 STRIPS Hackathon! Starts 1st December 2021. Visit https://strips.finance",
+          "link": "https://hackernoon.com/dollar40000-strips-hackathon-participate-now?source=rss",
+          "publishedOn": "2021-12-01T12:43:23.000Z",
+          "wordCount": 979,
+          "title": "$40,000 STRIPS Hackathon: Participate NOW!"
+        },
         {
           "id": "https://hackernoon.com/the-dangers-of-online-dating?source=rss",
           "author": "Amy Pravin Shah",
@@ -10218,6 +10434,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=147864",
+          "author": "ACMer",
+          "description": "We have talked about the Quick Sort and Merge Sort which aims for O(NLogN) time complexity. The Bubble sorting is one of the simple sorting algorithm. Bubble Sorting Algorithm When we perform one...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-bubble-sorting-simple-sorting-algorithm/",
+          "publishedOn": "2021-12-01T22:11:13.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Bubble Sorting (Simple Sorting Algorithm)",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=147851",
           "author": "ACMer",
           "description": "You are given a singly linked list head as well as integers pos and val. Insert a new node with value val before index pos of head. Constraints 1 ≤ n ≤ 100,000 where n is the number of nodes in head...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -10966,26 +11192,6 @@
           "wordCount": null,
           "title": "Teaching Kids Programming – Longest Zero Sublist Sum via Prefix Sum",
           "itunes": {}
-        },
-        {
-          "id": "https://helloacm.com/?p=146595",
-          "author": "ACMer",
-          "description": "You are given a two-dimensional integer matrix matrix containing 1s and 0s. 1 represents land and 0 represents water. An island is a group of 1s that are neighboring whose perimeter is surrounded by...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
-          "link": "https://helloacm.com/teaching-kids-programming-recursive-depth-first-search-algorithm-to-count-the-surrounded-islands/",
-          "publishedOn": "2021-09-02T20:33:19.000Z",
-          "wordCount": null,
-          "title": "Teaching Kids Programming – Recursive Depth First Search Algorithm to Count the Surrounded Islands",
-          "itunes": {}
-        },
-        {
-          "id": "https://helloacm.com/?p=146581",
-          "author": "ACMer",
-          "description": "We sometimes need to print the string (or char array) with binary content in hexadecimal format, we then can use the following C function: void printCharInHexadecimal(const char* str, int len) { for...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
-          "link": "https://helloacm.com/the-c-function-to-print-a-char-array-string-in-hexadecimal/",
-          "publishedOn": "2021-09-02T13:32:56.000Z",
-          "wordCount": null,
-          "title": "The C Function to Print a Char Array (String) in Hexadecimal",
-          "itunes": {}
         }
       ]
     },
@@ -10994,6 +11200,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=509554",
+          "author": "Dave Rowntree",
+          "description": "Supercapacitors are definitely not the same as batteries, we all know that. They tend to have a very low operating voltage, and due to their operating principle of storing charge …read more",
+          "link": "https://hackaday.com/2021/12/01/supercapacitors-vs-batteries-again/",
+          "publishedOn": "2021-12-02T00:00:04.000Z",
+          "wordCount": 1607,
+          "title": "SuperCapacitors vs Batteries Again"
+        },
+        {
+          "id": "https://hackaday.com/?p=510212",
+          "author": "Joshua Vasquez",
+          "description": "Over the weekend, Sanjay Mortimer passed away. This is a tremendous blow to the many people who he touched directly and indirectly throughout his life. We will remember Sanjay as …read more",
+          "link": "https://hackaday.com/2021/12/01/remembering-sanjay-mortimer-pioneer-and-visionary-in-3d-printing/",
+          "publishedOn": "2021-12-01T21:05:32.000Z",
+          "wordCount": 2140,
+          "title": "Remembering Sanjay Mortimer, Pioneer and Visionary in 3D Printing"
+        },
+        {
+          "id": "https://hackaday.com/?p=509220",
+          "author": "Ryan Flowers",
+          "description": "Have you ever sat down and thought “I wonder if a trebuchet could launch a projectile at supersonic speeds?” Neither have we. That’s what separates [David Eade] from the rest …read more",
+          "link": "https://hackaday.com/2021/12/01/supersonic-projectile-exceeds-engineers-dreams-the-supersonic-trebuchet/",
+          "publishedOn": "2021-12-01T19:30:00.000Z",
+          "wordCount": 1833,
+          "title": "Supersonic Projectile Exceeds Engineers Dreams: The Supersonic Trebuchet"
+        },
+        {
+          "id": "https://hackaday.com/?p=507887",
+          "author": "Jenny List",
+          "description": "It’s become something of a trope in our community, that the simplest way to bestow a level of automation or smarts to a project is to reach for an Arduino. …read more",
+          "link": "https://hackaday.com/2021/12/01/the-medieval-history-of-your-favourite-dev-board/",
+          "publishedOn": "2021-12-01T18:01:54.000Z",
+          "wordCount": 2076,
+          "title": "The Medieval History Of Your Favourite Dev Board"
+        },
+        {
+          "id": "https://hackaday.com/?p=509640",
+          "author": "Mike Szczys",
+          "description": "It’s back! The 555 timer contest wants to see you do something cool with the 555 timer chip. At stake is the adulation of electronics geeks everywhere. Three top winners …read more",
+          "link": "https://hackaday.com/2021/12/01/the-555-timer-contest-returns/",
+          "publishedOn": "2021-12-01T17:01:32.000Z",
+          "wordCount": 1863,
+          "title": "The 555 Timer Contest Returns!"
+        },
+        {
+          "id": "https://hackaday.com/?p=510180",
+          "author": "Ryan Flowers",
+          "description": "Sometimes we build to innovate, and sometimes we build just to have the satisfaction of saying we made it ourselves. Yet there is another reason to construct something ourselves: To …read more",
+          "link": "https://hackaday.com/2021/12/01/3d-printed-generator-build-highlights-the-scientific-method/",
+          "publishedOn": "2021-12-01T16:00:00.000Z",
+          "wordCount": 1252,
+          "title": "3D Printed Generator Build Highlights The Scientific Method"
+        },
+        {
+          "id": "https://hackaday.com/?p=509201",
+          "author": "Lewin Day",
+          "description": "Sales of electric vehicles continue to climb, topping three million cars worldwide last year. All these electric cars need batteries, of course, which means demand for rechargeable cells is through …read more",
+          "link": "https://hackaday.com/2021/12/01/ask-hackaday-why-dont-automakers-make-their-own-ev-batteries/",
+          "publishedOn": "2021-12-01T15:00:56.000Z",
+          "wordCount": 4155,
+          "title": "Ask Hackaday: Why Don’t Automakers Make Their Own EV Batteries?"
+        },
         {
           "id": "https://hackaday.com/?p=509597",
           "author": "Ryan Flowers",
@@ -14890,6 +15159,93 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "AE905C3F-FCB8-4889-BDFF8168D9CDCCA1",
+          "author": "Chelsea Gohd, SPACE.com",
+          "description": "At long last, researchers have glimpsed ghostly particles produced by CERN’s Large Hadron Collider\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/elusive-neutrino-candidates-detected-in-breakthrough-physics-experiment/",
+          "publishedOn": "2021-12-01T20:00:00.000Z",
+          "wordCount": null,
+          "title": "Elusive Neutrino Candidates Detected in Breakthrough Physics Experiment",
+          "itunes": {}
+        },
+        {
+          "id": "2D99EEF2-7AB5-4AE0-A175BECC1BD612B9",
+          "author": "Chelsea Harvey, E&E News",
+          "description": "The change in precipitation may happen faster than scientists previously predicted\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/arctic-snow-is-shifting-to-rain-as-temperatures-rise/",
+          "publishedOn": "2021-12-01T18:00:00.000Z",
+          "wordCount": null,
+          "title": "Arctic Snow Is Shifting to Rain As Temperatures Rise",
+          "itunes": {}
+        },
+        {
+          "id": "35C185E3-7156-42F1-B32F9393C8B766E4",
+          "author": "Karen Hopkin",
+          "description": "A new study finds that, for robots, overlords are less persuasive than peers.\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/podcast/episode/to-better-persuade-a-human-a-robot-should-use-this-trick/",
+          "publishedOn": "2021-12-01T17:00:00.000Z",
+          "wordCount": null,
+          "title": "To Better Persuade a Human, a Robot Should Use This Trick",
+          "itunes": {
+            "duration": "12:00"
+          },
+          "enclosure": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=6F8B9F4E-CEB2-47C0-A9026891ABFB9716",
+            "length": "10133086",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "9B217E08-CC12-487F-8A4C42BC227F4022",
+          "author": "Amanda B. Keener",
+          "description": "A type of immune-cell priming called trained immunity is helping researchers to understand the disease mechanisms behind the buildup of fatty deposits in arteries\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/immune-cells-that-remember-inflammation-could-offer-treatment-targets-for-atherosclerosis/",
+          "publishedOn": "2021-12-01T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Immune Cells That Remember Inflammation Could Offer Treatment Targets for Atherosclerosis",
+          "itunes": {}
+        },
+        {
+          "id": "7D8F1C61-B22C-47EA-9DB911B6873C1771",
+          "author": "Michael Tabb, Jeffery DelViscio, Andrea Gawrylewski",
+          "description": "It governs a lot of your digital life these days, but the story of where it first materialized is likely deeper than you know. \n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/video/what-is-the-cloud-and-how-does-it-pervade-our-lives/",
+          "publishedOn": "2021-12-01T15:00:00.000Z",
+          "wordCount": null,
+          "title": "What is 'The Cloud' and How Does it Pervade Our Lives?",
+          "itunes": {}
+        },
+        {
+          "id": "F3B79A34-978F-4BA2-BF992A78EE3408B8",
+          "author": "Sarah DeWeerdt",
+          "description": "Anti-inflammatory therapies for cardiovascular disease are nearing the clinic. But whether scientists understand how inflammation contributes to fatty-deposit buildup well enough to target it...\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/inflammation-in-heart-disease-do-researchers-know-enough/",
+          "publishedOn": "2021-12-01T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Inflammation in Heart Disease: Do Researchers Know Enough?",
+          "itunes": {}
+        },
+        {
+          "id": "01CF8B21-A813-4873-AD5568C84CA58738",
+          "author": "Steven W. Thrasher",
+          "description": "On World AIDS Day, why global COVID deaths are a fraction of global AIDS deaths\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/why-covid-deaths-have-surpassed-aids-deaths-in-the-u-s/",
+          "publishedOn": "2021-12-01T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Why COVID Deaths Have Surpassed AIDS Deaths in the U.S.",
+          "itunes": {}
+        },
+        {
+          "id": "66F46C16-1A3F-4CB5-92EAF6FE58D67280",
+          "author": "Stephani Sutherland",
+          "description": "A drug made by Merck and Ridgeback Biotherapeutics—which an FDA panel recently greenlit—and one made by Pfizer work in different ways, but both prevent the virus from replicating\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-the-new-antiviral-pills-help-thwart-covid/",
+          "publishedOn": "2021-12-01T11:45:00.000Z",
+          "wordCount": null,
+          "title": "How the New Antiviral Pills Help Thwart COVID",
+          "itunes": {}
+        },
+        {
           "id": "D21E999C-792F-46B0-B8D6CBDD9BF437C0",
           "author": "David Ferris, E&E News",
           "description": "The administration hopes to gain support for a bill to domestic semiconductor manufacturing\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -18500,6 +18856,24 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=148170",
+          "author": "Pilar Garcia",
+          "description": "The scenario is all-too-familiar: There’s a security breach, and afterward, the affected organization asks what it must do to better protect its data. But what if that organization never collected and stored that sensitive information in the first place? Often, the best defense against an embarrassing and costly breach is to collect only data that […]\nThe post Does Your Organization Need a Data Diet? appeared first on DevOps.com.",
+          "link": "https://devops.com/does-your-organization-need-a-data-diet/",
+          "publishedOn": "2021-12-01T08:00:53.000Z",
+          "wordCount": 1300,
+          "title": "Does Your Organization Need a Data Diet?"
+        },
+        {
+          "id": "https://devops.com/?p=148172",
+          "author": "Nathan Eddy",
+          "description": "Between burnout, job-hopping and the ongoing pandemic, labor shortages will surely get worse before they get better, and automation is increasingly sought after as a way to mitigate the ripple effects of understaffed IT departments. For DevOps, automation has several benefits, from freeing up employees to work on more constructive tasks to minimizing software bugs […]\nThe post Will Automation Fill Gaps Left by the ‘Great Resignation’? appeared first on DevOps.com.",
+          "link": "https://devops.com/will-automation-fill-gaps-left-by-the-great-resignation/",
+          "publishedOn": "2021-12-01T07:30:35.000Z",
+          "wordCount": 1488,
+          "title": "Will Automation Fill Gaps Left by the ‘Great Resignation’?"
+        },
+        {
           "id": "https://devops.com/?p=148156",
           "author": "Alan Shimel",
           "description": "Like me, you have probably heard a lot about the “Great Resignation” lately. I’ll admit—at first I did not think it had anything to with tech jobs, especially not DevOps or cybersecurity jobs. After all, there aren’t many workers in those fields who aren’t well-paid (though, of course, when it comes to pay, it’s all […]\nThe post The ‘Great Resignation’ in DevOps? Bah, Humbug appeared first on DevOps.com.",
@@ -20505,6 +20879,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66142",
+          "author": "Nathan Yau",
+          "description": "Using data from Project FeederWatch, which is a community tracking project to count…\nTags: birds, ranking, Washington Post",
+          "link": "https://flowingdata.com/2021/12/01/bird-power-rankings/",
+          "publishedOn": "2021-12-01T09:00:32.000Z",
+          "wordCount": 299,
+          "title": "Bird power rankings"
+        },
         {
           "id": "https://flowingdata.com/?p=66157",
           "author": "Nathan Yau",
