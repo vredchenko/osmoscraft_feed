@@ -40,6 +40,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=358206",
+          "author": "Chris Coyier",
+          "description": "John James Jacoby:\nI recently noticed that animations in Safari were stuttering pretty badly on my M1 powered 2020 MacBook Air, and dove in to figure out why.\n\n\n\n\nThe why:\nThis wasn’t a bug. This was a feature.\n…",
+          "link": "https://css-tricks.com/low-framerate-in-safari-on-m1-mac/",
+          "publishedOn": "2021-12-03T21:44:40.000Z",
+          "wordCount": 411,
+          "title": "Low framerate in Safari on M1 Mac"
+        },
+        {
+          "id": "https://css-tricks.com/?p=356844",
+          "author": "Jeremy Keith",
+          "description": "I’d like to tell you something not to do to make your website better. Don’t add any third-party scripts to your site.\nThat may sound extreme, but at one time it would’ve been common sense. On today’s …",
+          "link": "https://css-tricks.com/aint-no-party-like-a-third-party/",
+          "publishedOn": "2021-12-03T15:45:19.000Z",
+          "wordCount": 959,
+          "title": "Ain’t No Party Like a Third Party"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358092",
+          "author": "Chris Coyier",
+          "description": "I saw Bartosz Ciechanowski’s “Curves and Surfaces” going around the other day and was like, oh hey, this is the same fella that did that other amazingly interactive blog post on the Internal Combustion Engine the other day. I …",
+          "link": "https://css-tricks.com/bartosz-ciechanowskis-interactive-blog-posts/",
+          "publishedOn": "2021-12-03T15:41:11.000Z",
+          "wordCount": 490,
+          "title": "Bartosz Ciechanowski’s Interactive Blog Posts"
+        },
+        {
           "id": "https://css-tricks.com/?p=357368",
           "author": "Stéphanie Walter",
           "description": "A few years ago, there was this French book publisher. They specialize in technical books and published an author who wrote a book about CSS3, HTML5 and jQuery. The final version, however, a glaring typo on the cover where “HTML5” …",
@@ -1279,6 +1306,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61a7b9390c0c7407b2b3f076",
+          "author": null,
+          "description": "As programmers, we will inevitably make mistakes. Even the most accomplished specialists make them. But you'll become a better programmer faster if you don't make the same mistakes over and over. There are many types of mistakes you might make when you're coding. The majority of them usually come from",
+          "link": "https://www.freecodecamp.org/news/mistakes-programmers-make-when-coding-and-how-to-fix-them/",
+          "publishedOn": "2021-12-03T19:14:57.000Z",
+          "wordCount": 1748,
+          "title": "Mistakes Every Programmer Makes When Learning to Code – and How to Fix Them"
+        },
         {
           "id": "5fff3e8b98be260817e495e9",
           "author": null,
@@ -3150,6 +3186,177 @@
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
         {
+          "id": "https://hackernoon.com/how-to-decide-between-flask-and-django-for-your-next-idea?source=rss",
+          "author": "Mahipalsinh Rana",
+          "description": "Confused between Django and Flask? Read out the differences between the two and decide to go with Flask or Django development services.",
+          "link": "https://hackernoon.com/how-to-decide-between-flask-and-django-for-your-next-idea?source=rss",
+          "publishedOn": "2021-12-02T22:32:19.000Z",
+          "wordCount": 1005,
+          "title": "How to Decide Between Flask and Django For Your Next Idea"
+        },
+        {
+          "id": "https://hackernoon.com/what-came-along-with-the-stargate-release-cosmos-sdk-v040?source=rss",
+          "author": "Cosmos - Internet of Blockchains",
+          "description": "The Cosmos SDK had an overhaul to enter the IBC world. This is the story of the architecture and engineering approach to this overhaul.",
+          "link": "https://hackernoon.com/what-came-along-with-the-stargate-release-cosmos-sdk-v040?source=rss",
+          "publishedOn": "2021-12-02T21:16:47.000Z",
+          "wordCount": 1016,
+          "title": "What Came Along with the Stargate Release: Cosmos SDK v0.40+"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-do-sales-forecasting-in-a-product-led-business?source=rss",
+          "author": "ChartMogul",
+          "description": "Sale forecasting isnt an exact science. But that doesn’t mean you shouldn’t put more rigor into it to make a model that is in line with your go to market motion",
+          "link": "https://hackernoon.com/how-to-do-sales-forecasting-in-a-product-led-business?source=rss",
+          "publishedOn": "2021-12-02T19:04:22.000Z",
+          "wordCount": 988,
+          "title": "How to Do Sales Forecasting in a Product-Led Business"
+        },
+        {
+          "id": "https://hackernoon.com/getting-started-with-the-cult-of-cognitive-walking?source=rss",
+          "author": "Adrian H. Raudaschl",
+          "description": "Doing our best creative work sometimes means tricking ourselves into leaving our minds alone. Here are six things to try while walking to achieve this.",
+          "link": "https://hackernoon.com/getting-started-with-the-cult-of-cognitive-walking?source=rss",
+          "publishedOn": "2021-12-02T18:38:29.000Z",
+          "wordCount": 961,
+          "title": "Getting Started With the Cult of Cognitive Walking"
+        },
+        {
+          "id": "https://hackernoon.com/9-strategies-to-speed-up-your-software-development-process?source=rss",
+          "author": "Varun",
+          "description": "No matter how big or little, every company is always looking for ways to speed up software development projects to stay ahead of the competition.",
+          "link": "https://hackernoon.com/9-strategies-to-speed-up-your-software-development-process?source=rss",
+          "publishedOn": "2021-12-02T12:34:00.000Z",
+          "wordCount": 3088,
+          "title": "9 Strategies To Speed Up Your Software Development Process"
+        },
+        {
+          "id": "https://hackernoon.com/thinking-like-a-hacker-the-threat-of-defi-hacks-for-financial-institutions?source=rss",
+          "author": "Lior Lamesh",
+          "description": "The hacker attacks at DeFi protocols are a threat to DeFi's institutional adoption, but with the right precautions, banks can enter the space at minimal risk.",
+          "link": "https://hackernoon.com/thinking-like-a-hacker-the-threat-of-defi-hacks-for-financial-institutions?source=rss",
+          "publishedOn": "2021-12-02T12:31:25.000Z",
+          "wordCount": 2195,
+          "title": "Thinking Like a Hacker: The Threat of DeFi Hacks for Financial Institutions"
+        },
+        {
+          "id": "https://hackernoon.com/how-structure-finance-will-democratize-wall-street-for-retail-investors?source=rss",
+          "author": "Evelina Lavrova",
+          "description": "Read more in the interview of Serge Levin, founder of Structure Finance, about financial products, how DeFi can influence Wall Street, trends in DeFi, and more",
+          "link": "https://hackernoon.com/how-structure-finance-will-democratize-wall-street-for-retail-investors?source=rss",
+          "publishedOn": "2021-12-02T12:26:54.000Z",
+          "wordCount": 1012,
+          "title": "How Structure Finance Will Democratize Wall Street for Retail Investors"
+        },
+        {
+          "id": "https://hackernoon.com/microservices-communication-with-the-use-of-apache-kafka?source=rss",
+          "author": "Tetiana Stoyko",
+          "description": "The scalability, efficiency, and competitiveness of the product are determined by the strategy used.",
+          "link": "https://hackernoon.com/microservices-communication-with-the-use-of-apache-kafka?source=rss",
+          "publishedOn": "2021-12-02T12:26:00.000Z",
+          "wordCount": 1014,
+          "title": "Microservices Communication with the use of Apache Kafka"
+        },
+        {
+          "id": "https://hackernoon.com/content-isnt-community-in-the-same-way-the-map-isnt-the-territory?source=rss",
+          "author": "Rosano",
+          "description": "What's the difference between community and it's digital representation?",
+          "link": "https://hackernoon.com/content-isnt-community-in-the-same-way-the-map-isnt-the-territory?source=rss",
+          "publishedOn": "2021-12-02T12:24:26.000Z",
+          "wordCount": 934,
+          "title": "Content Isn't Community in the Same Way the Map Isn't the Territory"
+        },
+        {
+          "id": "https://hackernoon.com/metaverse-a-brave-new-world?source=rss",
+          "author": "Barnum_PT",
+          "description": "The metaverse is so great and wast you could actually fit the everything bubble inside of it.",
+          "link": "https://hackernoon.com/metaverse-a-brave-new-world?source=rss",
+          "publishedOn": "2021-12-02T12:20:20.000Z",
+          "wordCount": 3200,
+          "title": "Metaverse: A Brave New World"
+        },
+        {
+          "id": "https://hackernoon.com/one-vulnerability-devastating-consequences?source=rss",
+          "author": "Craig Lebrau",
+          "description": "Companies are realizing that one single vulnerability in their system could lead to a devastating cyberattack, and loss of productivity.",
+          "link": "https://hackernoon.com/one-vulnerability-devastating-consequences?source=rss",
+          "publishedOn": "2021-12-02T12:18:54.000Z",
+          "wordCount": 1909,
+          "title": "One Vulnerability; Devastating Consequences"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-translate-tons-of-content-simultaneously-using-google-sheets?source=rss",
+          "author": "Chloe Spilotro",
+          "description": "This is a generic guide to using Google Sheets to translate large volumes of content into multiple languages.",
+          "link": "https://hackernoon.com/how-to-translate-tons-of-content-simultaneously-using-google-sheets?source=rss",
+          "publishedOn": "2021-12-02T12:15:22.000Z",
+          "wordCount": 939,
+          "title": "How to Translate Tons of Content Simultaneously Using Google Sheets"
+        },
+        {
+          "id": "https://hackernoon.com/meet-the-writer-engineer-and-hacker-noon-contributor-aleksandr-zakharov?source=rss",
+          "author": "Aleksandr Zakharov",
+          "description": "HackerNoon Community, meet Aleks! In this interview, one of HackerNoon's newest Top Contributors shares his tips, routines, and dreams for the future.",
+          "link": "https://hackernoon.com/meet-the-writer-engineer-and-hacker-noon-contributor-aleksandr-zakharov?source=rss",
+          "publishedOn": "2021-12-02T12:13:31.000Z",
+          "wordCount": 963,
+          "title": "Meet the Writer: Engineer and Hacker Noon Contributor, Aleksandr Zakharov"
+        },
+        {
+          "id": "https://hackernoon.com/swift-xctest-setup-and-teardown-are-not-dead-yet?source=rss",
+          "author": "André Ota",
+          "description": "iOS developers may hate force unwraps and ignore how Apple tells us to write our unit tests (*setUp* and **tearDown**), but do we really know what we're doing?",
+          "link": "https://hackernoon.com/swift-xctest-setup-and-teardown-are-not-dead-yet?source=rss",
+          "publishedOn": "2021-12-02T12:13:28.000Z",
+          "wordCount": 983,
+          "title": "Swift XCTest: setUp and tearDown Are Not Dead Yet"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-prevent-burnout-and-keep-your-organization-on-track?source=rss",
+          "author": "Baptiste Monnet",
+          "description": "As a result of significant events against me, I burned out in 2016. Here are the keys to overcoming (and potentially protecting staff/colleagues from) burnout.",
+          "link": "https://hackernoon.com/how-to-prevent-burnout-and-keep-your-organization-on-track?source=rss",
+          "publishedOn": "2021-12-02T12:06:38.000Z",
+          "wordCount": 1005,
+          "title": "How to Prevent Burnout and Keep Your Organization on Track"
+        },
+        {
+          "id": "https://hackernoon.com/deploying-deep-learning-models-with-model-server?source=rss",
+          "author": "Wobot Intelligence Inc",
+          "description": "Learn how to deploy deep learning models with Model Server.",
+          "link": "https://hackernoon.com/deploying-deep-learning-models-with-model-server?source=rss",
+          "publishedOn": "2021-12-02T11:50:23.000Z",
+          "wordCount": 1046,
+          "title": "Deploying Deep Learning Models with Model Server"
+        },
+        {
+          "id": "https://hackernoon.com/using-json-mapping-to-work-with-apis-of-various-image-services?source=rss",
+          "author": "Yuri Danilov",
+          "description": "Using JSON Mapping to Work with APIs of Various Image Services. This approach is applicable to any other services that are similar in type of returned results.",
+          "link": "https://hackernoon.com/using-json-mapping-to-work-with-apis-of-various-image-services?source=rss",
+          "publishedOn": "2021-12-02T11:05:41.000Z",
+          "wordCount": 1007,
+          "title": "Using JSON Mapping to Work with APIs of Various Image Services"
+        },
+        {
+          "id": "https://hackernoon.com/10-best-ps3-games-of-all-time-ranked-by-sales?source=rss",
+          "author": "Marc Magrini",
+          "description": "Check out the 10 best PS3 games ranked by how much they sold.",
+          "link": "https://hackernoon.com/10-best-ps3-games-of-all-time-ranked-by-sales?source=rss",
+          "publishedOn": "2021-12-02T02:12:41.000Z",
+          "wordCount": 2599,
+          "title": "10 Best PS3 Games of All Time Ranked by Sales"
+        },
+        {
+          "id": "https://hackernoon.com/five-data-quality-tools-you-should-know?source=rss",
+          "author": "Michael",
+          "description": "Enterprises ensure their data is accurate, consistent, complete, and reliable, by relying on  data quality tools",
+          "link": "https://hackernoon.com/five-data-quality-tools-you-should-know?source=rss",
+          "publishedOn": "2021-12-02T01:54:52.000Z",
+          "wordCount": 990,
+          "title": "Five Data Quality Tools You Should Know"
+        },
+        {
           "id": "https://hackernoon.com/add-dark-mode-to-your-web-page-with-one-line-of-css?source=rss",
           "author": "Kavindu Santhusa",
           "description": "Create dark mode with 1 line of CSS with filters, and some tips and tricks.",
@@ -3193,6 +3400,15 @@
           "publishedOn": "2021-12-01T19:02:32.000Z",
           "wordCount": 1006,
           "title": "Securing Engineer Access to Cloud Environments with Zero Trust"
+        },
+        {
+          "id": "https://hackernoon.com/which-kind-of-crypto-trader-are-you?source=rss",
+          "author": "Demetrios Zamboglou PhD",
+          "description": "Since the launch of Bitcoin in 2008, four trader archetypes have arrived to scoop up crypto gains and minimize crypto losses.",
+          "link": "https://hackernoon.com/which-kind-of-crypto-trader-are-you?source=rss",
+          "publishedOn": "2021-12-01T18:35:23.000Z",
+          "wordCount": 1001,
+          "title": "Which Kind of Crypto Trader Are You?"
         },
         {
           "id": "https://hackernoon.com/top-3-coding-challenges-for-expert-level-javascript-developers?source=rss",
@@ -10515,6 +10731,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=147896",
+          "author": "ACMer",
+          "description": "Insertion sort is another simple sorting algorithm. It works by inserting a current element into the right place of the front partially sorted sub array. Insertion Sort Implementation in Python We...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-insertion-sort-in-python-simple-sorting-algorithm/",
+          "publishedOn": "2021-12-03T21:49:24.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Insertion Sort in Python (Simple Sorting Algorithm)",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=147879",
           "author": "ACMer",
           "description": "The selection sort is another simple sorting algorithm. Similar to Bubble sorting, it separates the list into two sub arrays: sorted and unsorted. For selection sort, the left subarray (at the...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -11263,16 +11489,6 @@
           "wordCount": null,
           "title": "Teaching Kids Programming – Compute the Dot Product using Zip Function in Python",
           "itunes": {}
-        },
-        {
-          "id": "https://helloacm.com/?p=146628",
-          "author": "ACMer",
-          "description": "Given a 0-indexed integer array nums, find the leftmost middleIndex (i.e., the smallest amongst all the possible ones). A middleIndex is an index where nums + nums + … + nums == nums + nums +...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
-          "link": "https://helloacm.com/teaching-kids-programming-prefix-sum-algorithm-to-find-the-middle-index-in-array/",
-          "publishedOn": "2021-09-04T20:21:18.000Z",
-          "wordCount": null,
-          "title": "Teaching Kids Programming – Prefix Sum Algorithm to Find the Middle Index in Array",
-          "itunes": {}
         }
       ]
     },
@@ -11281,6 +11497,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=509315",
+          "author": "Al Williams",
+          "description": "With the holiday season, you might turn to paper plates to cut down on dishwashing after having family or friends over. But what do you do with the extras? If …read more",
+          "link": "https://hackaday.com/2021/12/03/paper-plate-surround-sound-system/",
+          "publishedOn": "2021-12-04T00:00:18.000Z",
+          "wordCount": 1140,
+          "title": "Paper Plate Surround Sound System"
+        },
+        {
+          "id": "https://hackaday.com/?p=510493",
+          "author": "Kristina Panos",
+          "description": "[Grow Your Own Clothes] had finally found their ideal sewing machine for doing zig-zag stitches (/\\/\\/\\) and converting to a treadle drive (mechanically foot-fed) — a Singer 411G. This is …read more",
+          "link": "https://hackaday.com/2021/12/03/print-sewing-machine-parts-extend-singers-range/",
+          "publishedOn": "2021-12-03T21:00:56.000Z",
+          "wordCount": 1185,
+          "title": "Print Sewing Machine Parts Extend Singer’s Range"
+        },
+        {
+          "id": "https://hackaday.com/?p=509462",
+          "author": "Al Williams",
+          "description": "When we were kids we rode bicycles without pads and helmets. We drank sugary drinks. We played with chemistry sets and power tools. We also built things that directly used …read more",
+          "link": "https://hackaday.com/2021/12/03/this-ham-radio-is-unsafe-at-any-frequency/",
+          "publishedOn": "2021-12-03T19:30:00.000Z",
+          "wordCount": 1990,
+          "title": "This Ham Radio is Unsafe at Any Frequency"
+        },
+        {
+          "id": "https://hackaday.com/?p=509439",
+          "author": "Al Williams",
+          "description": "I have a confession to make. I write about a lot of projects for Hackaday, but there are very few I read about and then go actually build a copy …read more",
+          "link": "https://hackaday.com/2021/12/03/building-the-diy-hp41c-a-field-report/",
+          "publishedOn": "2021-12-03T18:01:09.000Z",
+          "wordCount": 2490,
+          "title": "Building the DIY HP41C: A Field Report"
+        },
+        {
+          "id": "https://hackaday.com/?p=510606&preview=true&preview_id=510606",
+          "author": "Mike Szczys",
+          "description": "Hackaday editors Mike Szczys and Elliot Williams get caught up on the week that was. You probably know a ton of people who have a solar array at their home, …read more",
+          "link": "https://hackaday.com/2021/12/03/hackaday-podcast-147-animating-traces-sucking-and-climbing-spinning-sails-and-squashing-images/",
+          "publishedOn": "2021-12-03T17:01:47.000Z",
+          "wordCount": 1309,
+          "title": "Hackaday Podcast 147: Animating Traces, Sucking and Climbing, Spinning Sails, and Squashing Images"
+        },
+        {
+          "id": "https://hackaday.com/?p=510140",
+          "author": "Ryan Flowers",
+          "description": "The LoRa radio protocol is well known to hardware hackers because of its Long Range (hence the name) but also its extremely low power use, making it a go-to for …read more",
+          "link": "https://hackaday.com/2021/12/03/moon-bouncing-and-radar-imaging-with-lora/",
+          "publishedOn": "2021-12-03T16:00:00.000Z",
+          "wordCount": 1413,
+          "title": "Moon Bouncing And Radar Imaging With LoRa"
+        },
+        {
+          "id": "https://hackaday.com/?p=510545",
+          "author": "Jonathan Bennett",
+          "description": "After the Thanksgiving break, we have two weeks of news to cover, so hang on for an extra-long entry. First up is GoDaddy, who suffered a breach starting on September …read more",
+          "link": "https://hackaday.com/2021/12/03/this-week-in-security-godaddy-tardigrade-monox-and-bigsig/",
+          "publishedOn": "2021-12-03T15:00:50.000Z",
+          "wordCount": 2424,
+          "title": "This Week in Security: GoDaddy, Tardigrade, Monox, and BigSig"
+        },
         {
           "id": "https://hackaday.com/?p=491396",
           "author": "Brian McEvoy",
@@ -15303,6 +15582,83 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "11A1256E-349A-45BF-8CCF9B1912584063",
+          "author": "Chelsea Harvey, E&E News",
+          "description": "Underwater recorders have picked up the sounds of orcas in places they haven’t previously been detected\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/as-arctic-sea-ice-melts-killer-whales-are-moving-in/",
+          "publishedOn": "2021-12-03T18:00:00.000Z",
+          "wordCount": null,
+          "title": "As Arctic Sea Ice Melts, Killer Whales Are Moving In",
+          "itunes": {}
+        },
+        {
+          "id": "91DA1599-1780-4886-AF3794832FA8C5EB",
+          "author": "Josh Fischman, Tanya Lewis, Jeffery DelViscio",
+          "description": "Today we bring you a new episode in our podcast series COVID, Quickly. Every two weeks, Scientific American’s senior health editors Tanya Lewis and Josh Fischman catch you up on the...\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/podcast/episode/covid-quickly-episode-20-the-omicron-scare-and-anti-covid-pills-are-coming/",
+          "publishedOn": "2021-12-03T17:00:00.000Z",
+          "wordCount": null,
+          "title": "COVID Quickly, Episode 20: The Omicron Scare, and Anti-COVID Pills Are Coming",
+          "itunes": {
+            "duration": "06:47"
+          },
+          "enclosure": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=A06B7DF7-764B-4214-A57CD31DD4BFC199",
+            "length": "9979281",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "1DE7203F-1C45-4132-98C6E95755CBD5F3",
+          "author": "Jumana Saleh",
+          "description": "Heart disease risk increases as women get older, but explanations that center on changes after menopause don’t tell the full story\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/womens-heart-health-is-not-just-about-hormones1/",
+          "publishedOn": "2021-12-03T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Women's Heart Health Is Not Just about Hormones",
+          "itunes": {}
+        },
+        {
+          "id": "1719BB9B-728C-4B67-87733CDD683EA82E",
+          "author": "Sarah Wild",
+          "description": "The numerous changes in the coronavirus’s spike protein could have arisen in an isolated population or an immunocompromised person, or in animals\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-the-omicron-variant-got-so-many-scary-mutations-so-quickly/",
+          "publishedOn": "2021-12-03T15:15:00.000Z",
+          "wordCount": null,
+          "title": "How the Omicron Variant Got So Many Scary Mutations So Quickly",
+          "itunes": {}
+        },
+        {
+          "id": "86422422-8D69-41A2-B1292494960F7249",
+          "author": "Benjamin Plackett",
+          "description": "Researchers are debating how to convince the heart to heal itself instead of laying down scar tissue after a heart attack\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/cells-or-drugs-the-race-to-regenerate-the-heart/",
+          "publishedOn": "2021-12-03T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Cells or Drugs? The Race to Regenerate the Heart",
+          "itunes": {}
+        },
+        {
+          "id": "49CF9378-BE31-4A1A-B0D3FDC052CE81F3",
+          "author": "Amanda Baker",
+          "description": "Changes in publishing have altered this genre for the better, so put some books on your holiday list\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/nonfiction-is-cool-and-our-kids-know-it/",
+          "publishedOn": "2021-12-03T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Nonfiction Is Cool, and Our Kids Know It",
+          "itunes": {}
+        },
+        {
+          "id": "07C2A3B1-7940-42D4-856F352879D681AA",
+          "author": "Dhananjay Khadilkar",
+          "description": "The biofuel, made from used cooking oil, could help the aviation industry cut climate-threatening carbon emissions\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/sustainable-aviation-fuel-aces-helicopter-and-plane-flight-tests/",
+          "publishedOn": "2021-12-03T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Sustainable Aviation Fuel Aces Helicopter and Plane Flight Tests",
+          "itunes": {}
+        },
+        {
           "id": "BDA826EA-B00C-4E04-AD757774EFE2FE73",
           "author": "Julie Rovner, Kaiser Health News",
           "description": "Justices heard arguments Wednesday in a case over a Mississippi law that would ban most abortions after 15 weeks of pregnancy\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -19080,6 +19436,42 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=148294",
+          "author": "Mike Vizard",
+          "description": "At the AWS re:Invent conference this week, Sumo Logic announced that in addition to collecting log data, metrics and traces, it now can collect telemetry data from the Lambda serverless computing service provided by Amazon Web Services (AWS). In addition to collecting telemetry data, Sumo Logic also revealed that the Sumo Logic Continuous Intelligence Platform […]\nThe post Sumo Logic Extends Observability Reach to AWS Lambda appeared first on DevOps.com.",
+          "link": "https://devops.com/sumo-logic-extends-observability-reach-to-aws-lambda/",
+          "publishedOn": "2021-12-03T16:41:11.000Z",
+          "wordCount": 1041,
+          "title": "Sumo Logic Extends Observability Reach to AWS Lambda"
+        },
+        {
+          "id": "https://devops.com/?p=148278",
+          "author": "Mike Vizard",
+          "description": "At the AWS re:Invent conference, Amazon Web Services (AWS) added a bevy of tools to its portfolio intended to accelerate the pace of application development while simultaneously simplifying DevOps processes. AWS development tools unveiled this week include AWS Amplify Studio, a visual development environment that allows developers to create web application user interfaces (UIs) with […]\nThe post AWS Unfurls Bevy of Automation Tools to Streamline DevOps appeared first on DevOps.com.",
+          "link": "https://devops.com/aws-unfurls-bevy-of-automation-tools-to-streamline-devops/",
+          "publishedOn": "2021-12-03T13:29:34.000Z",
+          "wordCount": 1157,
+          "title": "AWS Unfurls Bevy of Automation Tools to Streamline DevOps"
+        },
+        {
+          "id": "https://devops.com/?p=148271",
+          "author": "Vyacheslav Gorlov",
+          "description": "While JavaScript is frequently the language of choice for all sizes of frontend and backend applications, it’s not the only option; nor is it necessarily the most efficient or cost-effective. Increasingly, TypeScript is becoming the go-to language for app development—particularly for larger apps. The time- and cost-saving benefits are significant enough that some organizations are […]\nThe post Is TypeScript the New JavaScript? appeared first on DevOps.com.",
+          "link": "https://devops.com/is-typescript-the-new-javascript/",
+          "publishedOn": "2021-12-03T08:00:23.000Z",
+          "wordCount": 1778,
+          "title": "Is TypeScript the New JavaScript?"
+        },
+        {
+          "id": "https://devops.com/?p=148266",
+          "author": "Mike Nelson",
+          "description": "We hear a lot about how the IoT is transforming people’s work and daily lives, but for me, its impact goes deeper. As a Type I diabetic, I depend on data from an IoT device to stay healthy. If I can’t trust my latest blood sugar reading, the results can be catastrophic. Health care use […]\nThe post Why Trust and Integrity are Critical to IoT appeared first on DevOps.com.",
+          "link": "https://devops.com/why-trust-and-integrity-are-critical-to-iot/",
+          "publishedOn": "2021-12-03T07:30:29.000Z",
+          "wordCount": 1377,
+          "title": "Why Trust and Integrity are Critical to IoT"
+        },
+        {
           "id": "https://devops.com/?p=148247",
           "author": "Richi Jennings",
           "description": "In this week’s The Long View: Three things that caught my eye from Amazon Web Services’ re:Invent conference. Private 5G, Graviton3 chips, and something called DevOps Guru for RDS (yes, really).\nThe post AWS re:Invent Roundup: Private 5G | Graviton3 ARM Chips | DevOps Guru++ appeared first on DevOps.com.",
@@ -20743,6 +21135,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=110667",
+          "author": "Natalie Wolchover",
+          "description": "The James Webb Space Telescope has the potential to rewrite the history of the cosmos and reshape humanity’s position within it. But first, a lot of things have to work just right.\r\n            \nThe post The Webb Space Telescope Will Rewrite Cosmic History. If It Works. first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/why-nasas-james-webb-space-telescope-matters-so-much-20211203/",
+          "publishedOn": "2021-12-03T15:55:37.000Z",
+          "wordCount": null,
+          "title": "The Webb Space Telescope Will Rewrite Cosmic History. If It Works.",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=110664",
           "author": "Charlie Wood",
           "description": "One of the first goals of quantum computing has been to recreate bizarre quantum systems that can’t be studied in an ordinary computer. A dark-horse quantum simulator has now done just that.            \nThe post Quantum Simulators Create a Totally New Phase of Matter first appeared on Quanta Magazine",
@@ -21149,6 +21551,33 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66232",
+          "author": "Nathan Yau",
+          "description": "Research by M. Pusceddu et al. shows that honeybees use social distancing when…\nTags: bees, Economist, social distancing",
+          "link": "https://flowingdata.com/2021/12/03/bees-use-social-distancing/",
+          "publishedOn": "2021-12-03T12:49:00.000Z",
+          "wordCount": 273,
+          "title": "Bees use social distancing"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66226",
+          "author": "Nathan Yau",
+          "description": "It seems clear that Ethereum (and other cryptocurrencies) in its current state is…\nTags: cryptocurrency, emissions, Ethereum, Kyle McDonald",
+          "link": "https://flowingdata.com/2021/12/03/emissions-and-energy-usage-from-ethereum-network/",
+          "publishedOn": "2021-12-03T08:37:05.000Z",
+          "wordCount": 273,
+          "title": "Emissions and energy usage from Ethereum network"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66221",
+          "author": "Nathan Yau",
+          "description": "I’m opening the print shop for a few days. Get your order in,…",
+          "link": "https://shop.flowingdata.com/",
+          "publishedOn": "2021-12-02T20:37:47.000Z",
+          "wordCount": 83,
+          "title": "FlowingData Shop is Open"
+        },
         {
           "id": "https://flowingdata.com/?p=66221",
           "author": "Nathan Yau",
