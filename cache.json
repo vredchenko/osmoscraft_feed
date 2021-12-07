@@ -40,6 +40,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=357869",
+          "author": "Jakob Bouchard",
+          "description": "I recently started university and, before buying a MacBook Air (the M1 chips are amazing by the way), I had to use an iPad Pro for class. However, being a Computer Science student meant I had to find a way …",
+          "link": "https://css-tricks.com/how-to-use-an-ipad-for-wordpress-theme-development/",
+          "publishedOn": "2021-12-06T23:28:03.000Z",
+          "wordCount": 1781,
+          "title": "How to Use an iPad for WordPress Theme Development"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358263",
+          "author": "Chris Coyier",
+          "description": "Perhaps the most basic and obvious use of CSS custom properties is design tokens. Colors, fonts, spacings, timings, and other atomic bits of design that you can pull from as you design a site. If you pretty much only pull …",
+          "link": "https://css-tricks.com/open-props-and-custom-properties-as-a-system/",
+          "publishedOn": "2021-12-06T21:43:28.000Z",
+          "wordCount": 894,
+          "title": "Open Props (and Custom Properties as a System)"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358325",
+          "author": "Chris Coyier",
+          "description": "I was just going on about how many awesome little helper sites there are out there, and now I’ve ran across another wonderful little hive of them. Sébastien Noël, under the name fffuel, has created a whole bunch of great …",
+          "link": "https://css-tricks.com/hhhelpers/",
+          "publishedOn": "2021-12-06T21:43:15.000Z",
+          "wordCount": 373,
+          "title": "hhhelpers"
+        },
+        {
+          "id": "https://css-tricks.com/?p=356833",
+          "author": "Michelle Barker",
+          "description": "As I write this, world leaders are gathering in Glasgow for COP26, the international climate change conference, in the attempt to halt (or at least slow down) catastrophic climate change by pledging to end their countries’ dependence on fossil fuels. …",
+          "link": "https://css-tricks.com/reduce-your-websites-environmental-impact-with-a-carbon-budget/",
+          "publishedOn": "2021-12-06T15:57:09.000Z",
+          "wordCount": 1514,
+          "title": "Reduce Your Website’s Environmental Impact With a Carbon Budget"
+        },
+        {
           "id": "https://css-tricks.com/?p=358206",
           "author": "Chris Coyier",
           "description": "John James Jacoby:\nI recently noticed that animations in Safari were stuttering pretty badly on my M1 powered 2020 MacBook Air, and dove in to figure out why.\n\n\n\n\nThe why:\nThis wasn’t a bug. This was a feature.\n…",
@@ -1306,6 +1342,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61a1322f25888a07c3e1c124",
+          "author": null,
+          "description": "TypeScript is a transpiled language, and there is a step in the process called type erasure. So what exactly is transpiling, and what is type erasure? Higher Level vs Lower Level Programming LanguagesBefore we explain further, we have to understand higher and lower level languages. Higher level languages are more",
+          "link": "https://www.freecodecamp.org/news/what-is-type-erasure-in-typescript/",
+          "publishedOn": "2021-12-06T19:21:41.000Z",
+          "wordCount": 756,
+          "title": "What is Type Erasure in TypeScript?"
+        },
+        {
+          "id": "61ae22d7946db661defb7d18",
+          "author": null,
+          "description": "If you're a Windows user, you might have seen the \"Activate Windows\" message that displays over every other thing – including your cursor. I guess they gave it a z-index of infinity.  This message gets displayed when you use a Windows OS that has an invalid or expired license.",
+          "link": "https://www.freecodecamp.org/news/how-to-get-rid-of-the-activate-windows-watermark-windows-10-pc-activation-message-removal/",
+          "publishedOn": "2021-12-06T16:00:21.000Z",
+          "wordCount": 1003,
+          "title": "How to Get Rid of the Activate Windows Watermark [Windows 10 PC Activation Message Removal]"
+        },
         {
           "id": "61a7b9390c0c7407b2b3f076",
           "author": null,
@@ -3186,6 +3240,168 @@
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
         {
+          "id": "https://hackernoon.com/ai-assisted-coding-with-tabnine?source=rss",
+          "author": "Tyler Hawkins",
+          "description": "Be more productive, write code faster, make fewer mistakes, and have to do less context switching between other windows and your IDE.",
+          "link": "https://hackernoon.com/ai-assisted-coding-with-tabnine?source=rss",
+          "publishedOn": "2021-12-06T19:28:13.000Z",
+          "wordCount": 999,
+          "title": "AI-Assisted Coding with Tabnine"
+        },
+        {
+          "id": "https://hackernoon.com/christmas-special-games-that-will-help-you-understand-complex-math-concepts?source=rss",
+          "author": "Vitalik Buterin",
+          "description": "Games like chess and tic-tac-toe are games that have been with us for centuries and many people find them boring. What happens if they get really complicated?",
+          "link": "https://hackernoon.com/christmas-special-games-that-will-help-you-understand-complex-math-concepts?source=rss",
+          "publishedOn": "2021-12-06T17:46:22.000Z",
+          "wordCount": 1003,
+          "title": "Christmas Special: Games That Will Help You Understand Complex Math Concepts"
+        },
+        {
+          "id": "https://hackernoon.com/a-beautiful-architecture-of-server-side-alarm?source=rss",
+          "author": "Piyush Badkul",
+          "description": "We do not generally appreciate the hard/smart work that goes into creating the things we take for granted around us. This article is one such.",
+          "link": "https://hackernoon.com/a-beautiful-architecture-of-server-side-alarm?source=rss",
+          "publishedOn": "2021-12-06T17:40:50.000Z",
+          "wordCount": 1018,
+          "title": "A Beautiful Architecture of Server-Side Alarm"
+        },
+        {
+          "id": "https://hackernoon.com/what-are-the-best-free-open-source-testing-tools-frameworks-and-libraries?source=rss",
+          "author": "Katalon",
+          "description": "Free open-source frameworks, libraries, and tools are the go-to solutions for automation testing.",
+          "link": "https://hackernoon.com/what-are-the-best-free-open-source-testing-tools-frameworks-and-libraries?source=rss",
+          "publishedOn": "2021-12-06T17:39:57.000Z",
+          "wordCount": 922,
+          "title": "What Are the Best Free Open Source Testing Tools, Frameworks, and Libraries"
+        },
+        {
+          "id": "https://hackernoon.com/crypto-regulation-aspects-in-south-east-asia?source=rss",
+          "author": "Viktor Kochetov",
+          "description": "The most important part of the investors' trust in crypto assets is their legal regulation. Now, we have several types of countries according to crypto regulations. The first ones include only El Salvador, where Bitcoin is a legal tender. The second ones unite countries where there’s a legal basis to buy/sell/margin trade/issue new tokens, and so on. The last ones are like China, where crypto activities are strictly forbidden. Many South-East Asia countries focus on providing a legal field for crypto companies to work and managing issuing crypto assets. The regulation authorities look for tax deductions of both individuals and companies if they make profits, trading crypto assets. Also, the countries pay much attention to anti-terrorist financing activities.",
+          "link": "https://hackernoon.com/crypto-regulation-aspects-in-south-east-asia?source=rss",
+          "publishedOn": "2021-12-06T17:12:15.000Z",
+          "wordCount": 2098,
+          "title": "Crypto Regulation Aspects in South-East Asia"
+        },
+        {
+          "id": "https://hackernoon.com/9-stories-that-made-us-cry-slogging-insights?source=rss",
+          "author": "Limarc Ambalina",
+          "description": "In this thread, we talk about the books, movies, or tv shows that were powerful enough to make us cry.",
+          "link": "https://hackernoon.com/9-stories-that-made-us-cry-slogging-insights?source=rss",
+          "publishedOn": "2021-12-06T15:46:33.000Z",
+          "wordCount": 2259,
+          "title": "9 Stories that Made us Cry (Slogging Insights)"
+        },
+        {
+          "id": "https://hackernoon.com/how-i-successfully-ended-my-one-week-job-hunt?source=rss",
+          "author": "Damian Demasi",
+          "description": "After spending months studying front end development (HTML, CSS, JavaScript, React, and Git), and weeks building my portfolio, I landed a job in one week!",
+          "link": "https://hackernoon.com/how-i-successfully-ended-my-one-week-job-hunt?source=rss",
+          "publishedOn": "2021-12-06T10:49:16.000Z",
+          "wordCount": 1001,
+          "title": "How I Successfully Ended My One Week Job Hunt"
+        },
+        {
+          "id": "https://hackernoon.com/walk-down-the-road-of-life-without-fearing-anything-max-azarov-ceo-and-co-founder-novakid?source=rss",
+          "author": "Novakid",
+          "description": "Max Azarov, the CEO and Co-Founder of Novakid, a language learning platform, shares the origin story of the company and the value of their community.",
+          "link": "https://hackernoon.com/walk-down-the-road-of-life-without-fearing-anything-max-azarov-ceo-and-co-founder-novakid?source=rss",
+          "publishedOn": "2021-12-06T10:23:49.000Z",
+          "wordCount": 1017,
+          "title": "\"Walk Down the Road of Life Without Fearing Anything\" Max Azarov, CEO and Co-Founder, Novakid"
+        },
+        {
+          "id": "https://hackernoon.com/bored-ape-yacht-club-set-to-transcend-rarity-based-valuations?source=rss",
+          "author": "Bart Hillerich",
+          "description": "NFTs have typically been valued largely on a trait-rarity basis. However, Bored Ape Yacht Club is on the verge of revolutionizing NFT valuations.",
+          "link": "https://hackernoon.com/bored-ape-yacht-club-set-to-transcend-rarity-based-valuations?source=rss",
+          "publishedOn": "2021-12-06T07:28:46.000Z",
+          "wordCount": 990,
+          "title": "Bored Ape Yacht Club Set to Transcend Rarity-Based Valuations"
+        },
+        {
+          "id": "https://hackernoon.com/nft-taxes-for-dummies-everything-you-need-to-know-to-get-started?source=rss",
+          "author": "Emanuele Cesena",
+          "description": "This is the year of NFTs... and next year will be the year of paying taxes on NFTs! Let's deep dive on how to calculate our capital gain from trading NFTs.",
+          "link": "https://hackernoon.com/nft-taxes-for-dummies-everything-you-need-to-know-to-get-started?source=rss",
+          "publishedOn": "2021-12-06T07:11:07.000Z",
+          "wordCount": 1021,
+          "title": "NFT Taxes for Dummies: Everything You Need to Know to Get Started"
+        },
+        {
+          "id": "https://hackernoon.com/7-healthcare-technology-trends-to-watch-out-for-in-2022?source=rss",
+          "author": "Kanstantsin Lastouski",
+          "description": "Explore the latest technology trends that will shape the healthcare industry in 2022 and beyond.",
+          "link": "https://hackernoon.com/7-healthcare-technology-trends-to-watch-out-for-in-2022?source=rss",
+          "publishedOn": "2021-12-06T07:05:35.000Z",
+          "wordCount": 3137,
+          "title": "7 Healthcare Technology Trends to Watch Out for in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/the-internet-is-broken-but-the-metaverse-and-web-30-could-be-the-solution?source=rss",
+          "author": "Futuristic Lawyer",
+          "description": "What is the major issue with the internet today, and how can Web 3.0 fix it?",
+          "link": "https://hackernoon.com/the-internet-is-broken-but-the-metaverse-and-web-30-could-be-the-solution?source=rss",
+          "publishedOn": "2021-12-06T05:59:05.000Z",
+          "wordCount": 1923,
+          "title": "The Internet is Broken, But The Metaverse and Web 3.0 Could be the Solution"
+        },
+        {
+          "id": "https://hackernoon.com/understanding-the-importance-of-data-for-machine-learning?source=rss",
+          "author": "M Shehzen Sidiq",
+          "description": "Data is the most important and must-have food for machine learning. It can be any fact, text, symbols, images, videos, etc., but in unprocessed form. Let us see",
+          "link": "https://hackernoon.com/understanding-the-importance-of-data-for-machine-learning?source=rss",
+          "publishedOn": "2021-12-06T04:53:01.000Z",
+          "wordCount": 2061,
+          "title": "Understanding The Importance Of Data For Machine Learning"
+        },
+        {
+          "id": "https://hackernoon.com/super-mario-land-review-nintendo-game-boy?source=rss",
+          "author": "Stefano Pavone",
+          "description": "Mario's debut on a handheld console leaves a bit to be desired but its historical importance cannot be denied. Learn why in this Super Mario Land review!",
+          "link": "https://hackernoon.com/super-mario-land-review-nintendo-game-boy?source=rss",
+          "publishedOn": "2021-12-06T03:17:20.000Z",
+          "wordCount": 996,
+          "title": "Super Mario Land Review (Nintendo Game Boy)"
+        },
+        {
+          "id": "https://hackernoon.com/accessing-network-ppps-running-inside-wsl2-from-other-devices-in-your-lan?source=rss",
+          "author": "Aitor Alonso",
+          "description": "In this article, I explain how to tweak Windows and WSL networking to bypass WSL NAT and connect to development servers inside WSL from other devices in LAN.",
+          "link": "https://hackernoon.com/accessing-network-ppps-running-inside-wsl2-from-other-devices-in-your-lan?source=rss",
+          "publishedOn": "2021-12-06T00:11:55.000Z",
+          "wordCount": 991,
+          "title": "Accessing Network Ppps Running Inside WSL2 from Other Devices in Your LAN"
+        },
+        {
+          "id": "https://hackernoon.com/when-and-how-should-you-use-merge-purge-software?source=rss",
+          "author": "Javeria Gauhar",
+          "description": "Merging data entries from your company’s database, especially when it is coming in from multiple sour...",
+          "link": "https://hackernoon.com/when-and-how-should-you-use-merge-purge-software?source=rss",
+          "publishedOn": "2021-12-05T23:55:58.000Z",
+          "wordCount": 997,
+          "title": "When and How Should You Use Merge Purge Software?"
+        },
+        {
+          "id": "https://hackernoon.com/what-legal-actions-can-you-take-against-the-negligence-of-packers-and-movers?source=rss",
+          "author": "Packers Moving",
+          "description": "Moving companies provide you house transport service to help you to relocate to a new city easily. But some companies are fraudsters.",
+          "link": "https://hackernoon.com/what-legal-actions-can-you-take-against-the-negligence-of-packers-and-movers?source=rss",
+          "publishedOn": "2021-12-05T23:50:56.000Z",
+          "wordCount": 1998,
+          "title": "What Legal Actions Can You Take Against the Negligence of Packers and Movers?"
+        },
+        {
+          "id": "https://hackernoon.com/easy-steps-to-create-static-websites-using-hugo-github-pages?source=rss",
+          "author": "Nuh Y.",
+          "description": "How to create a static web sites using Hugo-Github Pages",
+          "link": "https://hackernoon.com/easy-steps-to-create-static-websites-using-hugo-github-pages?source=rss",
+          "publishedOn": "2021-12-05T23:40:08.000Z",
+          "wordCount": 1023,
+          "title": "Easy Steps to Create Static Websites Using Hugo-Github Pages"
+        },
+        {
           "id": "https://hackernoon.com/how-growth-financing-helps-to-grow-tech-companies?source=rss",
           "author": "Tanisha Mittal",
           "description": "Tech companies need funds in the initial stages to market and advertise their brand. The financing of a tech economy requires significant capital.",
@@ -3220,6 +3436,24 @@
           "publishedOn": "2021-12-05T21:02:21.000Z",
           "wordCount": 976,
           "title": "Micro Frontends: Extending Microservices To Frontend Development"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-make-beautiful-easy-to-read-charts-with-react-native-gifted-charts?source=rss",
+          "author": "Abhinandan Kushwaha",
+          "description": "The most complete library for Bar, Line, Area, Pie, and Donut charts in React Native. Allows 2D, 3D, gradient, animations and live data updates.",
+          "link": "https://hackernoon.com/how-to-make-beautiful-easy-to-read-charts-with-react-native-gifted-charts?source=rss",
+          "publishedOn": "2021-12-05T20:45:02.000Z",
+          "wordCount": 989,
+          "title": "How to Make Beautiful, Easy-to-read Charts with React Native Gifted Charts"
+        },
+        {
+          "id": "https://hackernoon.com/5-essential-items-from-the-ikeaxrog-line-for-your-home-office?source=rss",
+          "author": "Karisa Widyadari",
+          "description": "Check out the 5 essential items in the IKEAxROG collaboration for your home-office productivity!",
+          "link": "https://hackernoon.com/5-essential-items-from-the-ikeaxrog-line-for-your-home-office?source=rss",
+          "publishedOn": "2021-12-05T20:12:04.000Z",
+          "wordCount": 2018,
+          "title": "5 Essential Items from the IKEAxROG Line for Your Home Office"
         },
         {
           "id": "https://hackernoon.com/a-kung-fu-controversy-in-turkey-leverages-copyright-law-to-hunt-down-youtube-critics?source=rss",
@@ -11091,6 +11325,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=147976",
+          "author": "ACMer",
+          "description": "You are given a list of unique strings genes where each element has the same length and contains characters “A”, “C”, “G” and/or “T”. If strings a and...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-find-gene-mutation-groups-via-depth-first-search-algorithm/",
+          "publishedOn": "2021-12-06T20:53:22.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Find Gene Mutation Groups via Depth First Search Algorithm",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=147961",
           "author": "ACMer",
           "description": "A sentence is a list of words that are separated by a single space with no leading or trailing spaces. Each of the words consists of only uppercase and lowercase English letters (no punctuation). For...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -11877,6 +12121,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=509557",
+          "author": "Bryan Cockfield",
+          "description": "For a standard that has been in use since the 1980s, MIDI is still one of the most dominant forces on the musical scene even today. It’s fast, flexible, and …read more",
+          "link": "https://hackaday.com/2021/12/06/guitar-pickguard-adds-midi-capabilities/",
+          "publishedOn": "2021-12-07T00:00:50.000Z",
+          "wordCount": 1175,
+          "title": "Guitar Pickguard Adds MIDI Capabilities"
+        },
+        {
+          "id": "https://hackaday.com/?p=510692",
+          "author": "Kristina Panos",
+          "description": "You probably already know that cardboard is versatile, but that goes far beyond the corrugated stuff. There are many types of cardboard out there, some of which you may not …read more",
+          "link": "https://hackaday.com/2021/12/06/cardboard-vs-laser-shootout-a-tale-of-speed-and-power-settings/",
+          "publishedOn": "2021-12-06T21:00:37.000Z",
+          "wordCount": 1384,
+          "title": "Cardboard vs. Laser Shootout: A Tale of Speed and Power Settings"
+        },
+        {
+          "id": "https://hackaday.com/?p=510530",
+          "author": "Robin Kearey",
+          "description": "For anyone dabbling in home chemistry, having access to accurate measurement equipment can mean the difference between success and failure. But with many instruments expensive and hard to find, what’s …read more",
+          "link": "https://hackaday.com/2021/12/06/classic-colorimeter-clone-calibrates-cuvettes-contents/",
+          "publishedOn": "2021-12-06T19:31:03.000Z",
+          "wordCount": 1292,
+          "title": "Classic Colorimeter Clone Calibrates Cuvettes’ Contents"
+        },
+        {
+          "id": "https://hackaday.com/?p=508689",
+          "author": "Lewin Day",
+          "description": "As the Iraqi army retreated at the end of the first Gulf War, they took the term “scorched Earth policy” quite literally. Kuwaiti oil wells were set alight en masse, …read more",
+          "link": "https://hackaday.com/2021/12/06/big-wind-is-the-meanest-firefighting-tank-you-ever-saw/",
+          "publishedOn": "2021-12-06T18:01:48.000Z",
+          "wordCount": 3707,
+          "title": "Big Wind is The Meanest Firefighting Tank You Ever Saw"
+        },
+        {
+          "id": "https://hackaday.com/?p=509690",
+          "author": "Robin Kearey",
+          "description": "One of the most useful features of the Universal Serial Bus is its hot-plugging capability. You simply plug in your device, use it, and unplug it when you’re done. But …read more",
+          "link": "https://hackaday.com/2021/12/06/touchscreen-powered-usb-hub-selectively-powers-down-devices/",
+          "publishedOn": "2021-12-06T16:31:11.000Z",
+          "wordCount": 2036,
+          "title": "Touchscreen-Powered USB Hub Selectively Powers Down Devices"
+        },
+        {
+          "id": "https://hackaday.com/?p=508054",
+          "author": "Maya Posch",
+          "description": "When starting a new electronics project today, one of the first things that we tend to do is pick the integrated circuits that make up the core of the design. …read more",
+          "link": "https://hackaday.com/2021/12/06/ttl-and-cmos-logic-ics-the-building-blocks-of-a-revolution/",
+          "publishedOn": "2021-12-06T15:00:29.000Z",
+          "wordCount": 3467,
+          "title": "TTL And CMOS Logic ICs: The Building Blocks Of A Revolution"
+        },
+        {
+          "id": "https://hackaday.com/?p=509488",
+          "author": "Donald Papp",
+          "description": "Conductive filament exists, but it takes more than that to 3D print something like a circuit board. The main issue is that traces made from conductive filament are basically resistors; …read more",
+          "link": "https://hackaday.com/2021/12/06/secret-ingredient-for-3d-printed-circuit-traces-electroplating/",
+          "publishedOn": "2021-12-06T12:01:13.000Z",
+          "wordCount": 1920,
+          "title": "Secret Ingredient for 3D-Printed Circuit Traces: Electroplating"
+        },
         {
           "id": "https://hackaday.com/?p=510222&preview=true&preview_id=510222",
           "author": "Dan Maloney",
@@ -16088,6 +16395,46 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "C29757F6-9F97-4A14-9575FCD5040E4B88",
+          "author": "Ashley Lopez, Kaiser Health News",
+          "description": "A new law threatens jail time and hefty fines for anyone who prescribes the pills online or by mail\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/texas-toughens-ban-on-medication-by-mail-abortions/",
+          "publishedOn": "2021-12-06T21:00:00.000Z",
+          "wordCount": null,
+          "title": "Texas Toughens Ban on Medication-by-Mail Abortions",
+          "itunes": {}
+        },
+        {
+          "id": "833FF138-3AAD-4FC7-B3CA0078E9CCA1D0",
+          "author": "Chelsea Harvey, E&E News",
+          "description": "The waters around Antarctica are still soaking up lots of carbon, but it’s unclear how much longer they will\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/new-clues-emerge-on-antarctic-ocean-climate-riddle/",
+          "publishedOn": "2021-12-06T20:00:00.000Z",
+          "wordCount": null,
+          "title": "New Clues Emerge on Antarctic Ocean Climate Riddle",
+          "itunes": {}
+        },
+        {
+          "id": "8DE7183E-33FE-4995-A398FD1712209338",
+          "author": "Hannah Seo, Knowable Magazine",
+          "description": "Research is shedding light on why many water dwellers, from plankton to large fish, commute daily from the depths to the surface\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-ups-and-downs-of-a-great-vertical-migration/",
+          "publishedOn": "2021-12-06T15:00:00.000Z",
+          "wordCount": null,
+          "title": "The Ups and Downs of a Great Vertical Migration",
+          "itunes": {}
+        },
+        {
+          "id": "F9160F0A-F554-4188-94F06E864513C62F",
+          "author": "Jen Pinkowski",
+          "description": "An ambitious project is underway to develop a robot with enough smarts, strength and sensitivity to restore fragmented archaeological remains\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/pompeiis-ruins-to-be-reconstructed-by-robot/",
+          "publishedOn": "2021-12-06T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Pompeii's Ruins to Be Reconstructed by Robot",
+          "itunes": {}
+        },
+        {
           "id": "1813A4C7-286F-4078-BA643622A23E5AEA",
           "author": "Mark Fischetti",
           "description": "How birds breathe, dehydrated meat\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -19952,6 +20299,24 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=148288",
+          "author": "Kin Lane",
+          "description": "Every business today is a digital business … and if it’s not, it will be soon. A recent survey by Deloitte found that digitally mature companies are better able to navigate rapid change and, as a result, perform much better financially.  Nearly two-thirds of survey respondents asserted that organizations that don’t digitize in the next […]\nThe post 22 Engineering Leaders Weigh in on APIs appeared first on DevOps.com.",
+          "link": "https://devops.com/22-engineering-leaders-weigh-in-on-apis/",
+          "publishedOn": "2021-12-06T07:30:54.000Z",
+          "wordCount": 1338,
+          "title": "22 Engineering Leaders Weigh in on APIs"
+        },
+        {
+          "id": "https://devops.com/?p=148315",
+          "author": "ROELBOB",
+          "description": "The post A Day in the Life of a Remote Tech Worker appeared first on DevOps.com.",
+          "link": "https://devops.com/a-day-in-the-life-of-a-remote-tech-worker/",
+          "publishedOn": "2021-12-06T07:00:09.000Z",
+          "wordCount": 460,
+          "title": "A Day in the Life of a Remote Tech Worker"
+        },
+        {
           "id": "https://devops.com/?p=148294",
           "author": "Mike Vizard",
           "description": "At the AWS re:Invent conference this week, Sumo Logic announced that in addition to collecting log data, metrics and traces, it now can collect telemetry data from the Lambda serverless computing service provided by Amazon Web Services (AWS). In addition to collecting telemetry data, Sumo Logic also revealed that the Sumo Logic Continuous Intelligence Platform […]\nThe post Sumo Logic Extends Observability Reach to AWS Lambda appeared first on DevOps.com.",
@@ -21651,6 +22016,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=110852",
+          "author": "Monique Brouillette",
+          "description": "Rapid advances in large-scale connectomics are beginning to spotlight the importance of individual variations in the neural circuitry. They also highlight the limitations of “wiring diagrams” alone.            \nThe post New Brain Maps Can Predict Behaviors first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/new-brain-maps-can-predict-behaviors-20211206/",
+          "publishedOn": "2021-12-06T18:26:27.000Z",
+          "wordCount": null,
+          "title": "New Brain Maps Can Predict Behaviors",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=110667",
           "author": "Natalie Wolchover",
           "description": "The James Webb Space Telescope has the potential to rewrite the history of the cosmos and reshape humanity’s position within it. But first, a lot of things have to work just right.\r\n            \nThe post The Webb Space Telescope Will Rewrite Cosmic History. If It Works. first appeared on Quanta Magazine",
@@ -22067,6 +22442,24 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66244",
+          "author": "Nathan Yau",
+          "description": "Wombo Dream is a fun app that lets you enter some words to…\nTags: AI, Wombo",
+          "link": "https://flowingdata.com/2021/12/06/ai-powered-artwork-app/",
+          "publishedOn": "2021-12-06T18:25:51.000Z",
+          "wordCount": 243,
+          "title": "AI-powered artwork app"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66239",
+          "author": "Nathan Yau",
+          "description": "It’s been a while since we got our regular reminder that the Mercator…\nTags: Mercator, Neil Kaye, projections",
+          "link": "https://flowingdata.com/2021/12/06/shrinking-the-mercator-projection-to-equal-area/",
+          "publishedOn": "2021-12-06T10:02:54.000Z",
+          "wordCount": 302,
+          "title": "Shrinking the Mercator projection to equal area"
+        },
         {
           "id": "https://flowingdata.com/?p=66232",
           "author": "Nathan Yau",
