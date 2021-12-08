@@ -40,6 +40,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=356433",
+          "author": "Chris Coyier",
+          "description": "What if HTML had “tabs”? That would be cool, says I. Dave has been spending some of his time and energy, along with a group of “Tabvengers” from OpenUI, on this. A lot of research leads to a bit …",
+          "link": "https://css-tricks.com/spicy-sections/",
+          "publishedOn": "2021-12-07T22:03:19.000Z",
+          "wordCount": 763,
+          "title": "Spicy Sections"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357637",
+          "author": "Eric Bailey",
+          "description": "There is a huge and ever-widening gap between the devices we use to make the web and the devices most people use to consume it. It’s also no secret that the average size of a website is huge, and …",
+          "link": "https://css-tricks.com/test-your-product-on-a-crappy-laptop/",
+          "publishedOn": "2021-12-07T19:01:05.000Z",
+          "wordCount": 1478,
+          "title": "Test Your Product on a Crappy Laptop"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358321",
+          "author": "Chris Coyier",
+          "description": "I’ve always like Jeremy’s categorization of developer tools:\nI’ve mentioned two categories of tools for web development. I still don’t know quite what to call these categories. Internal and external? Developer-facing and user-facing?\nThe first category covers things like \n…",
+          "link": "https://css-tricks.com/inertia/",
+          "publishedOn": "2021-12-07T16:20:21.000Z",
+          "wordCount": 1005,
+          "title": "Inertia"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358411",
+          "author": "Geoff Graham",
+          "description": "(This is a sponsored post.)\nI’ve built WordPress websites for I don’t know how long now, but suffice to say I’ve relied on it for a bulk of the work I do as a freelance front-ender. And in that …",
+          "link": "https://css-tricks.com/jetpack-licensing-for-agencies-and-professionals/",
+          "publishedOn": "2021-12-07T16:18:14.000Z",
+          "wordCount": 699,
+          "title": "Jetpack Licensing for Agencies and Professionals"
+        },
+        {
           "id": "https://css-tricks.com/?p=357869",
           "author": "Jakob Bouchard",
           "description": "I recently started university and, before buying a MacBook Air (the M1 chips are amazing by the way), I had to use an iPad Pro for class. However, being a Computer Science student meant I had to find a way …",
@@ -1343,6 +1379,69 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "61a43b7925888a07c3e1d115",
+          "author": null,
+          "description": "More than 18,000 people responded to the 2021 freeCodeCamp New Coder Survey. This grants us all significant insight into how thousands of people all around the world are learning to code, and why they are choosing to do so.  We’ve released the entire dataset of participants’ responses to",
+          "link": "https://www.freecodecamp.org/news/2021-new-coder-survey-18000-people-share-how-theyre-learning-to-code/",
+          "publishedOn": "2021-12-07T22:40:42.000Z",
+          "wordCount": 1843,
+          "title": "The 2021 New Coder Survey – More than 18,000 People Share How and Why They are Learning to Code"
+        },
+        {
+          "id": "61a9ff36946db661defb7472",
+          "author": null,
+          "description": "Code splitting is a way to split up your code from a large file into smaller code bundles. These can then be requested on demand or in parallel.  Now, it isn't a new concept, but it can be tricky to understand. When you're doing code splitting, it is important to",
+          "link": "https://www.freecodecamp.org/news/code-splitting-in-react-loadable-components/",
+          "publishedOn": "2021-12-07T20:41:40.000Z",
+          "wordCount": 1156,
+          "title": "Code Splitting in React – Loadable Components to the Rescue"
+        },
+        {
+          "id": "61af976e946db661defb881f",
+          "author": null,
+          "description": "Bootstrap is the most popular CSS framework. It allows web developers to quickly design and customize responsive mobile-first sites. We just published a 3-hour course on the freeCodeCamp.org YouTube channel that will teach you how to use Bootstrap 5. Dawid Adach developed this course. Dawid has been working with",
+          "link": "https://www.freecodecamp.org/news/full-bootstrap-5-tutorial-for-beginners/",
+          "publishedOn": "2021-12-07T17:47:12.000Z",
+          "wordCount": 304,
+          "title": "Full Bootstrap 5 Tutorial for Beginners"
+        },
+        {
+          "id": "61a776fd0c0c7407b2b3eeba",
+          "author": null,
+          "description": "Python is a versatile and flexible language – there is often more than one way to achieve something.  In this tutorial, you'll see some of the ways you can print a string and a variable together.  Let's get started!  How to use the print() function in Python To print anything in",
+          "link": "https://www.freecodecamp.org/news/python-print-variable-how-to-print-a-string-and-variable/",
+          "publishedOn": "2021-12-07T17:26:18.000Z",
+          "wordCount": 1627,
+          "title": "Python Print Variable – How to Print a String and Variable"
+        },
+        {
+          "id": "61a648220c0c7407b2b3e7e3",
+          "author": null,
+          "description": "If you've been wondering whether you should go for a technical certification or not, then this article is for you.  In it, I will share with you how I approach such dilemmas to help you decide what to pursue.  Why You Should Get Technical Certifications The main reasons to get",
+          "link": "https://www.freecodecamp.org/news/technical-certification-guide/",
+          "publishedOn": "2021-12-07T16:31:49.000Z",
+          "wordCount": 1161,
+          "title": "Technical Certification Guide – Are They Worth It, and How to Choose One"
+        },
+        {
+          "id": "61ab940f946db661defb79ca",
+          "author": null,
+          "description": "TypeScript offers us a level of \"safety\" in our code by adding static types. We can guarantee that certain properties or functions are present in our code by making them conform to types. This can hugely reduce the amount of client-side errors you might have in your website, because it",
+          "link": "https://www.freecodecamp.org/news/typescript-literal-and-collective-types/",
+          "publishedOn": "2021-12-07T15:55:33.000Z",
+          "wordCount": 541,
+          "title": "TypeScript Literal and Collective Types"
+        },
+        {
+          "id": "611b56ece884de075217ff7f",
+          "author": null,
+          "description": "Hello folks, welcome to this tutorial. Today we're going to build a production-ready Todo application with React, Next, and Supabase. Before we begin, you should be familiar with the basics of React.js and Next.js to get the most out of this guide.  If you're not and need to",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-todoapp-using-react-and-supabase/",
+          "publishedOn": "2021-12-07T15:48:26.000Z",
+          "wordCount": 7358,
+          "title": "How to Build a TodoApp using ReactJS, NextJS, and Supabase"
+        },
+        {
           "id": "61a1322f25888a07c3e1c124",
           "author": null,
           "description": "TypeScript is a transpiled language, and there is a step in the process called type erasure. So what exactly is transpiling, and what is type erasure? Higher Level vs Lower Level Programming LanguagesBefore we explain further, we have to understand higher and lower level languages. Higher level languages are more",
@@ -1359,6 +1458,15 @@
           "publishedOn": "2021-12-06T16:00:21.000Z",
           "wordCount": 1003,
           "title": "How to Get Rid of the Activate Windows Watermark [Windows 10 PC Activation Message Removal]"
+        },
+        {
+          "id": "61af7c5e946db661defb8589",
+          "author": null,
+          "description": "There is way more to building successful apps than just coding. In fact, coding is often the easiest part. There are many business considerations that are extremely important. We just published an 8-hour course on the freeCodeCamp.org YouTube channel that will teach you the business of building apps.  Shad",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-build-apps-from-a-business-perspective/",
+          "publishedOn": "2021-12-06T15:37:00.000Z",
+          "wordCount": 827,
+          "title": "Learn How to Build Apps From a Business Perspective"
         },
         {
           "id": "61a7b9390c0c7407b2b3f076",
@@ -3240,6 +3348,177 @@
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
         {
+          "id": "https://hackernoon.com/what-is-a-hard-fork-and-how-does-it-occur?source=rss",
+          "author": "Bybit",
+          "description": "we’ll discuss some examples of hard forks that have happened, such as Bitcoin Cash and Ethereum Classic.",
+          "link": "https://hackernoon.com/what-is-a-hard-fork-and-how-does-it-occur?source=rss",
+          "publishedOn": "2021-12-07T14:24:13.000Z",
+          "wordCount": 1038,
+          "title": "What Is a Hard Fork and How Does It Occur"
+        },
+        {
+          "id": "https://hackernoon.com/python-for-beginners-part-hello-world-exercise?source=rss",
+          "author": "Clever Programmer",
+          "description": "We cover the most basic 'hello world' exercise! This will be fun and now you are on your way to an exciting journey!",
+          "link": "https://hackernoon.com/python-for-beginners-part-hello-world-exercise?source=rss",
+          "publishedOn": "2021-12-07T13:56:53.000Z",
+          "wordCount": 2049,
+          "title": "Python for Beginners, Part 2: Hello World Exercise"
+        },
+        {
+          "id": "https://hackernoon.com/this-app-measures-the-value-of-an-nft-based-on-its-environmental-impact?source=rss",
+          "author": "Alfredo de Candia",
+          "description": "I built an app that measures the value of an NFT based on its environmental impact, rather than its artistic value.",
+          "link": "https://hackernoon.com/this-app-measures-the-value-of-an-nft-based-on-its-environmental-impact?source=rss",
+          "publishedOn": "2021-12-07T07:27:50.000Z",
+          "wordCount": 1022,
+          "title": "This App Measures the Value of an NFT Based on its Environmental Impact"
+        },
+        {
+          "id": "https://hackernoon.com/7-essential-tips-for-competitive-programming-and-dsa?source=rss",
+          "author": "Kaushal Joshi",
+          "description": "I had to quit DSA and CP within a month because of the overwhelming exhaustion, This blog discusses mistakes that I made while learning DSA and CP.",
+          "link": "https://hackernoon.com/7-essential-tips-for-competitive-programming-and-dsa?source=rss",
+          "publishedOn": "2021-12-07T06:14:02.000Z",
+          "wordCount": 999,
+          "title": "7 Essential Tips for Competitive Programming and DSA"
+        },
+        {
+          "id": "https://hackernoon.com/an-intro-to-breedable-nfts-and-social-connections-in-the-metaverse?source=rss",
+          "author": "Masha Prusso",
+          "description": "NFTs can now grow, breed, and evolve to add more value to your original purchase.",
+          "link": "https://hackernoon.com/an-intro-to-breedable-nfts-and-social-connections-in-the-metaverse?source=rss",
+          "publishedOn": "2021-12-07T05:04:01.000Z",
+          "wordCount": 1036,
+          "title": "An Intro to 'Breedable' NFTs and Social Connections in the Metaverse"
+        },
+        {
+          "id": "https://hackernoon.com/how-create-a-gui-for-remote-servers-with-i3-window-manager?source=rss",
+          "author": "Nuh Y.",
+          "description": "This article is about providing management via a UI by installing a window manager or desktop environment for servers.",
+          "link": "https://hackernoon.com/how-create-a-gui-for-remote-servers-with-i3-window-manager?source=rss",
+          "publishedOn": "2021-12-07T04:48:15.000Z",
+          "wordCount": 1022,
+          "title": "How Create a GUI for Remote Servers with i3 Window Manager"
+        },
+        {
+          "id": "https://hackernoon.com/top-5-nft-collections-on-a-blockchain-ecosystem?source=rss",
+          "author": "Daniel Jimenez",
+          "description": "NFTs have had significant influence on the growing popularity of the crypto market and has established itself as one of the fastest growing sub-sectors.",
+          "link": "https://hackernoon.com/top-5-nft-collections-on-a-blockchain-ecosystem?source=rss",
+          "publishedOn": "2021-12-07T04:24:54.000Z",
+          "wordCount": 1000,
+          "title": "Top 5 NFT Collections on a Blockchain Ecosystem"
+        },
+        {
+          "id": "https://hackernoon.com/teamcode-dcs-vs-docker-which-is-the-better-dev-environment?source=rss",
+          "author": "Trystan",
+          "description": "In addition to avoiding the cumbersome development processes, DCS can also become an online preview test service, improve the efficiency of the whole team.",
+          "link": "https://hackernoon.com/teamcode-dcs-vs-docker-which-is-the-better-dev-environment?source=rss",
+          "publishedOn": "2021-12-07T04:07:29.000Z",
+          "wordCount": 1057,
+          "title": "TeamCode DCS vs. Docker: Which is the Better Dev Environment?"
+        },
+        {
+          "id": "https://hackernoon.com/shopify-vs-bigcommerce-which-is-the-better-platform-for-2022?source=rss",
+          "author": "AnnaSharland",
+          "description": "BigCommerce and Shopify are two of the most popular e-commerce platforms on the market. The question is: which one will be better in 2022?",
+          "link": "https://hackernoon.com/shopify-vs-bigcommerce-which-is-the-better-platform-for-2022?source=rss",
+          "publishedOn": "2021-12-07T03:26:06.000Z",
+          "wordCount": 947,
+          "title": "Shopify vs. BigCommerce: Which is the Better Platform for 2022?"
+        },
+        {
+          "id": "https://hackernoon.com/how-amazon-cloudfront-secures-content-delivery?source=rss",
+          "author": "Priya Kumari",
+          "description": "Amazon CloudFront is highly secure, managed service for content delivery by providing useful, and security supporting features. Learn more in the blog.",
+          "link": "https://hackernoon.com/how-amazon-cloudfront-secures-content-delivery?source=rss",
+          "publishedOn": "2021-12-07T03:11:45.000Z",
+          "wordCount": 1021,
+          "title": "How Amazon CloudFront Secures Content Delivery"
+        },
+        {
+          "id": "https://hackernoon.com/medusa-collection-nfts-set-its-gaze-on-raising-money-for-teachrock?source=rss",
+          "author": "Justin Roberti",
+          "description": "Medusa Collection NFTs seek to correct the record concerning this misunderstood mythical character and raise money for alternative education.",
+          "link": "https://hackernoon.com/medusa-collection-nfts-set-its-gaze-on-raising-money-for-teachrock?source=rss",
+          "publishedOn": "2021-12-07T03:02:56.000Z",
+          "wordCount": 969,
+          "title": "Medusa Collection NFTs set its Gaze on Raising Money for TeachRock"
+        },
+        {
+          "id": "https://hackernoon.com/cefion-anonymous-messenger-app-review-confidentiality-simplicity-and-blockchain?source=rss",
+          "author": "No_name_c3po",
+          "description": "Have you ever thought about how much time you spend on your smartphone? Nowadays, almost all communications have moved to the digital environment, replacing traditional live talks. Moreover, most business processes have also become entrenched in the cloud. We learn to work and live on the go because the new realities of the social and commercial spheres oblige us to move forward, dissolving users in the Web. It increases the digital literacy of the population but reduces the confidentiality of personal data.",
+          "link": "https://hackernoon.com/cefion-anonymous-messenger-app-review-confidentiality-simplicity-and-blockchain?source=rss",
+          "publishedOn": "2021-12-07T02:58:52.000Z",
+          "wordCount": 1647,
+          "title": "Cefion Anonymous Messenger App Review: Confidentiality, Simplicity, and Blockchain"
+        },
+        {
+          "id": "https://hackernoon.com/punk-wars-review-a-fallout-inspired-city-builder-pc?source=rss",
+          "author": "Adrian Morales",
+          "description": "Is this steampunk city builder a diamond in the rough or simply scrap metal? Check out our full review of Punk Wars!",
+          "link": "https://hackernoon.com/punk-wars-review-a-fallout-inspired-city-builder-pc?source=rss",
+          "publishedOn": "2021-12-07T02:53:34.000Z",
+          "wordCount": 2368,
+          "title": "Punk Wars Review: A Fallout Inspired City Builder (PC)"
+        },
+        {
+          "id": "https://hackernoon.com/defi-gives-industries-and-regulators-no-choice-but-to-listen-and-take-notice-unhashed-21?source=rss",
+          "author": "Mohammad Musharraf",
+          "description": "For the 21st part of Unhashed, I reached out to Beau Olson, CEO of Transient Network - a smart contract marketplace for non-coders.",
+          "link": "https://hackernoon.com/defi-gives-industries-and-regulators-no-choice-but-to-listen-and-take-notice-unhashed-21?source=rss",
+          "publishedOn": "2021-12-07T00:39:56.000Z",
+          "wordCount": 987,
+          "title": "DeFi Gives Industries & Regulators No Choice But to Listen & Take Notice: Unhashed #21"
+        },
+        {
+          "id": "https://hackernoon.com/crypto-powered-finance-offers-a-range-of-benefits-to-businesses-unhashed-22?source=rss",
+          "author": "Mohammad Musharraf",
+          "description": "An interview with Request Finance CEO and Co-Founder Christophe Lassuyt.",
+          "link": "https://hackernoon.com/crypto-powered-finance-offers-a-range-of-benefits-to-businesses-unhashed-22?source=rss",
+          "publishedOn": "2021-12-07T00:25:45.000Z",
+          "wordCount": 991,
+          "title": "Crypto-Powered Finance Offers a Range of Benefits to Businesses: Unhashed #22"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-the-internet-of-bodies-and-how-it-can-revolutionize-healthcare?source=rss",
+          "author": "ITRex",
+          "description": "The Internet of Bodies describes connected devices that monitor the human body, collect physiological, biometric, or behavioral data, and exchange information.",
+          "link": "https://hackernoon.com/what-is-the-internet-of-bodies-and-how-it-can-revolutionize-healthcare?source=rss",
+          "publishedOn": "2021-12-07T00:21:02.000Z",
+          "wordCount": 1027,
+          "title": "What is the Internet of Bodies and How it Can Revolutionize Healthcare?"
+        },
+        {
+          "id": "https://hackernoon.com/how-iot-can-help-you-grow-your-business?source=rss",
+          "author": "Baptiste Monnet",
+          "description": "Internet of Things has become quite a buzzword these days. But what exactly is IoT, and how can it help you grow your business to new heights?",
+          "link": "https://hackernoon.com/how-iot-can-help-you-grow-your-business?source=rss",
+          "publishedOn": "2021-12-07T00:12:16.000Z",
+          "wordCount": 1023,
+          "title": "How IoT Can Help You Grow Your Business"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-play-any-video-format-on-your-mac?source=rss",
+          "author": "Stellar Data Recovery",
+          "description": "Ever come across a situation when your video file won't play on MAC in QuickTime or any other media player due to an unsupported codec?\nHope this helps you.",
+          "link": "https://hackernoon.com/how-to-play-any-video-format-on-your-mac?source=rss",
+          "publishedOn": "2021-12-07T00:04:27.000Z",
+          "wordCount": 904,
+          "title": "How to Play any Video Format on Your Mac"
+        },
+        {
+          "id": "https://hackernoon.com/6-use-cases-to-drive-down-cost-using-aws-lambda?source=rss",
+          "author": "Taavi Rehemägi",
+          "description": "AWS Lambda is an event-driven computing cloud with many uses. Here are some of the best AWS Lambda use cases >>",
+          "link": "https://hackernoon.com/6-use-cases-to-drive-down-cost-using-aws-lambda?source=rss",
+          "publishedOn": "2021-12-06T23:43:50.000Z",
+          "wordCount": 907,
+          "title": "6 Use Cases to Drive Down Cost Using AWS Lambda"
+        },
+        {
           "id": "https://hackernoon.com/ai-assisted-coding-with-tabnine?source=rss",
           "author": "Tyler Hawkins",
           "description": "Be more productive, write code faster, make fewer mistakes, and have to do less context switching between other windows and your IDE.",
@@ -3373,6 +3652,15 @@
           "publishedOn": "2021-12-06T00:11:55.000Z",
           "wordCount": 991,
           "title": "Accessing Network Ppps Running Inside WSL2 from Other Devices in Your LAN"
+        },
+        {
+          "id": "https://hackernoon.com/the-8-factors-that-influence-the-price-of-bitcoin-downwards-that-you-should-know-about?source=rss",
+          "author": "Sylvain Saurel",
+          "description": "The 8 Factors That Influence the Price of Bitcoin Downwards That You Should Know About. An important reminder.",
+          "link": "https://hackernoon.com/the-8-factors-that-influence-the-price-of-bitcoin-downwards-that-you-should-know-about?source=rss",
+          "publishedOn": "2021-12-05T23:59:46.000Z",
+          "wordCount": 1026,
+          "title": "The 8 Factors That Influence the Price of Bitcoin Downwards That You Should Know About"
         },
         {
           "id": "https://hackernoon.com/when-and-how-should-you-use-merge-purge-software?source=rss",
@@ -11325,6 +11613,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=147991",
+          "author": "ACMer",
+          "description": "You are given a list of unique strings genes where each element has the same length and contains characters “A”, “C”, “G” and/or “T”. If strings a and...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-find-gene-mutation-groups-via-breadth-first-search-algorithm/",
+          "publishedOn": "2021-12-07T20:56:09.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Find Gene Mutation Groups via Breadth First Search Algorithm",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=147976",
           "author": "ACMer",
           "description": "You are given a list of unique strings genes where each element has the same length and contains characters “A”, “C”, “G” and/or “T”. If strings a and...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -12103,16 +12401,6 @@
           "wordCount": null,
           "title": "Teaching Kids Programming – Longest Substring with 2 Distinct Characters by Sliding Window Algorithm",
           "itunes": {}
-        },
-        {
-          "id": "https://helloacm.com/?p=146681",
-          "author": "ACMer",
-          "description": "Given a square Matrix we can compute its power. The result matrix will be of same dimension. Similar to the Integer Power Algorithm, we can achieve the Matrix Multiplication in O(LogN) time. def...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
-          "link": "https://helloacm.com/teaching-kids-programming-matrix-power-algorithm/",
-          "publishedOn": "2021-09-08T23:35:34.000Z",
-          "wordCount": null,
-          "title": "Teaching Kids Programming – Matrix Power Algorithm",
-          "itunes": {}
         }
       ]
     },
@@ -12121,6 +12409,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=510852",
+          "author": "Kristina Panos",
+          "description": "Let’s face it, times are hard, and winter is imminent in the northern hemisphere. No matter how much you have to your name, there’s nothing like a cup of hot …read more",
+          "link": "https://hackaday.com/2021/12/07/complete-hobo-stove-cooking-system-could-get-you-through-the-apocalypse/",
+          "publishedOn": "2021-12-08T00:00:41.000Z",
+          "wordCount": 1062,
+          "title": "Complete Hobo Stove Cooking System Could Get You Through the Apocalypse"
+        },
+        {
+          "id": "https://hackaday.com/?p=510756",
+          "author": "Dan Maloney",
+          "description": "Don’t get us wrong — we love unique displays as much as anyone. But sometimes we stumble across one that’s so unique that we lack the basic vocabulary to describe …read more",
+          "link": "https://hackaday.com/2021/12/07/simple-design-elevates-this-mechanical-dot-matrix-display/",
+          "publishedOn": "2021-12-07T21:00:53.000Z",
+          "wordCount": 1300,
+          "title": "Simple Design Elevates this Mechanical Dot Matrix Display"
+        },
+        {
+          "id": "https://hackaday.com/?p=509303",
+          "author": "Al Williams",
+          "description": "We’ve noticed lately that some cheap meters have gone to having big colorful screens. The screens aren’t dot matrix, but still have lots of graphics that could be useful or …read more",
+          "link": "https://hackaday.com/2021/12/07/multimeters-go-big-screen/",
+          "publishedOn": "2021-12-07T19:30:00.000Z",
+          "wordCount": 2862,
+          "title": "Multimeters Go Big Screen"
+        },
+        {
+          "id": "https://hackaday.com/?p=510662",
+          "author": "Jenny List",
+          "description": "Let’s launch into a round-up of stories that are out of this world, as we take a look at what’s happening in the realm of space exploration. Ten Billion Dollars …read more",
+          "link": "https://hackaday.com/2021/12/07/spacing-out-telescopes-politics-and-spacecraft-design/",
+          "publishedOn": "2021-12-07T18:01:25.000Z",
+          "wordCount": 1686,
+          "title": "Spacing Out: Telescopes, Politics, and Spacecraft Design"
+        },
+        {
+          "id": "https://hackaday.com/?p=509590",
+          "author": "Dan Maloney",
+          "description": "In the early years of the computer revolution, a machine like the Sol-20 really stood out. Where most hobbyist machines had front panels that bristled with toggle switches and LEDs, …read more",
+          "link": "https://hackaday.com/2021/12/07/retro-reproduction-captures-the-style-of-the-sol-20/",
+          "publishedOn": "2021-12-07T16:30:00.000Z",
+          "wordCount": 1760,
+          "title": "Retro Reproduction Captures the Style of the Sol-20"
+        },
+        {
+          "id": "https://hackaday.com/?p=505537",
+          "author": "Kristina Panos",
+          "description": "So it seems that Microsoft has a patent in process for a folding mouse.  It looks a whole lot like their Arc mouse, which is quite thin and already goes …read more",
+          "link": "https://hackaday.com/2021/12/07/microsofts-minimal-mouse-may-maximize-masochism/",
+          "publishedOn": "2021-12-07T15:00:41.000Z",
+          "wordCount": 3667,
+          "title": "Microsoft’s Minimal Mouse May Maximize Masochism"
+        },
+        {
+          "id": "https://hackaday.com/?p=510786",
+          "author": "Chris Wilkinson",
+          "description": "Transferring hard-earned Pokémon out of the second generation GameBoy game worlds into the ‘Advance Era’ cartridges (and vice versa) has never been officially supported by Nintendo, however [Goppier] has made …read more",
+          "link": "https://hackaday.com/2021/12/07/bridging-game-worlds-with-the-impossible-pokemon-trade/",
+          "publishedOn": "2021-12-07T12:00:00.000Z",
+          "wordCount": 1489,
+          "title": "Bridging Game Worlds With The ‘Impossible’ Pokémon Trade"
+        },
         {
           "id": "https://hackaday.com/?p=509557",
           "author": "Bryan Cockfield",
@@ -16395,6 +16746,56 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "E834A497-D35C-4A9C-B4667CEDDA98E913",
+          "author": "Daniel Cusick, E&E News",
+          "description": "A moisture-laden weather system called a Kona low is pummeling the island chain\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/flooding-rains-and-blizzard-conditions-hit-hawaii/",
+          "publishedOn": "2021-12-07T20:45:00.000Z",
+          "wordCount": null,
+          "title": "Flooding Rains--And Blizzard Conditions--Hit Hawaii",
+          "itunes": {}
+        },
+        {
+          "id": "06D55316-FD4F-46D3-B055F1A7391CDE71",
+          "author": "Hayley A. Gans, Yvonne A. Maldonado",
+          "description": "The extra shot doesn’t mean that vaccines are ineffective; our bodies just need a reminder\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/boosters-can-help-end-the-covid-pandemic/",
+          "publishedOn": "2021-12-07T20:00:00.000Z",
+          "wordCount": null,
+          "title": "Boosters Can Help End the COVID Pandemic",
+          "itunes": {}
+        },
+        {
+          "id": "BB8DC3A5-017D-45DB-96961D15D7EE2D71",
+          "author": "Deborah Fuller, The Conversation US",
+          "description": "A microbiologist explains how Pfizer and Moderna would rapidly adjust mRNA vaccines\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-scientists-can-update-covid-vaccines-against-omicron/",
+          "publishedOn": "2021-12-07T16:00:00.000Z",
+          "wordCount": null,
+          "title": "How Scientists Can Update COVID Vaccines against Omicron",
+          "itunes": {}
+        },
+        {
+          "id": "29AC0E96-5434-4503-A6C018DBB0B8BFB8",
+          "author": "Andrea Gawrylewski",
+          "description": "-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/new-views-across-the-galaxy/",
+          "publishedOn": "2021-12-07T14:30:00.000Z",
+          "wordCount": null,
+          "title": "New Views across the Galaxy",
+          "itunes": {}
+        },
+        {
+          "id": "C12CA60E-1AB4-4A0B-911B8BE647FD9C58",
+          "author": "Leslie Nemo",
+          "description": "This mesmerizing ice formation has befuddled scientists for a century\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/see-strands-of-ice-that-look-like-hair-build-up-on-a-dead-tree-branch1/",
+          "publishedOn": "2021-12-07T11:45:00.000Z",
+          "wordCount": null,
+          "title": "See Strands of Ice That Look like Hair Build up on a Dead Tree Branch",
+          "itunes": {}
+        },
+        {
           "id": "C29757F6-9F97-4A14-9575FCD5040E4B88",
           "author": "Ashley Lopez, Kaiser Health News",
           "description": "A new law threatens jail time and hefty fines for anyone who prescribes the pills online or by mail\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -20299,6 +20700,51 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=148390",
+          "author": "Mike Vizard",
+          "description": "Iterative today added an experiment versioning capability to an open source platform for managing machine learning operations (MLOps) using GitOps workflows. Dmitry Petrov, Iterative CEO, said the latest version of the Data Versioning Control (DVC) platform makes it simpler to save, compare and reproduce machine learning (ML) experiments at scale without requiring organizations to set […]\nThe post Iterative Adds Experiment Versioning to MLOps Platform appeared first on DevOps.com.",
+          "link": "https://devops.com/iterative-adds-experiment-versioning-to-mlops-platform/",
+          "publishedOn": "2021-12-07T18:39:16.000Z",
+          "wordCount": 1028,
+          "title": "Iterative Adds Experiment Versioning to MLOps Platform"
+        },
+        {
+          "id": "https://devops.com/?p=148347",
+          "author": "Alan Shimel",
+          "description": "One of the lessons I’ve learned in my years at the helm of DevOps.com is that the heart of DevOps is CI/CD. And at the heart of CI/CD is open source. While the names have been changed to protect the innocent (and the obsolete), these lessons are as true today as they ever were. CI/CD […]\nThe post CI/CD Is Still All About Open Source appeared first on DevOps.com.",
+          "link": "https://devops.com/ci-cd-is-still-all-about-open-source/",
+          "publishedOn": "2021-12-07T14:21:30.000Z",
+          "wordCount": 1226,
+          "title": "CI/CD Is Still All About Open Source"
+        },
+        {
+          "id": "https://devops.com/?p=148332",
+          "author": "Gilad David Maayan",
+          "description": "DevSecOps is everywhere. More and more organizations realize that the traditional separation between DevOps and security is wasteful and dangerous. As a result, they are rushing to integrate security into all their software development processes.  Adding security to containerized applications, cloud resources and other parts of modern DevOps infrastructure is already well understood. But what […]\nThe post DevSecOps for Databases: Data Masking, Cloud Backup, WAF and More appeared first on DevOps.com.",
+          "link": "https://devops.com/devsecops-for-databases-data-masking-cloud-backup-waf-and-more/",
+          "publishedOn": "2021-12-07T08:00:01.000Z",
+          "wordCount": 1931,
+          "title": "DevSecOps for Databases: Data Masking, Cloud Backup, WAF and More"
+        },
+        {
+          "id": "https://devops.com/?p=148265",
+          "author": "Bill Doerrfeld",
+          "description": "New estimates say the total number of public and private APIs in use is approaching a whopping 200 million. APIs are becoming increasingly crucial to the global digital economy. They are the backbone of many digital platforms and drive the composable enterprise model. But this ubiquity presents sprawl issues. F5 recently released a study that […]\nThe post API Sprawl a Looming Threat to Digital Economy appeared first on DevOps.com.",
+          "link": "https://devops.com/api-sprawl-a-looming-threat-to-digital-economy/",
+          "publishedOn": "2021-12-07T07:30:33.000Z",
+          "wordCount": 1648,
+          "title": "API Sprawl a Looming Threat to Digital Economy"
+        },
+        {
+          "id": "https://devops.com/?p=148325",
+          "author": "Veronica Haggar",
+          "description": "Argo is an open source suite of projects that helps DevOps teams deliver software more rapidly and safely. Argo Workflows, Argo CD, Argo Rollouts and Argo Events are open source tools for Kubernetes to run workflows, manage clusters and do GitOps right. On Dec. 8, the Argo community will come together at ArgoCon ’21 Virtual […]\nThe post ArgoCon ’21: Get More Done with Kubernetes appeared first on DevOps.com.",
+          "link": "https://devops.com/argocon-21-get-more-done-with-kubernetes/",
+          "publishedOn": "2021-12-06T18:00:59.000Z",
+          "wordCount": 976,
+          "title": "ArgoCon ’21: Get More Done with Kubernetes"
+        },
+        {
           "id": "https://devops.com/?p=148288",
           "author": "Kin Lane",
           "description": "Every business today is a digital business … and if it’s not, it will be soon. A recent survey by Deloitte found that digitally mature companies are better able to navigate rapid change and, as a result, perform much better financially.  Nearly two-thirds of survey respondents asserted that organizations that don’t digitize in the next […]\nThe post 22 Engineering Leaders Weigh in on APIs appeared first on DevOps.com.",
@@ -22016,6 +22462,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=111101",
+          "author": "Allison Whitten",
+          "description": "Tiny amounts of artificial noise can fool neural networks, but not humans. Some researchers are looking to neuroscience for a fix.            \nThe post AI Researchers Fight Noise by Turning to Biology first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/ai-researchers-fight-noise-by-turning-to-biology-20211207/",
+          "publishedOn": "2021-12-07T16:43:07.000Z",
+          "wordCount": null,
+          "title": "AI Researchers Fight Noise by Turning to Biology",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=110852",
           "author": "Monique Brouillette",
           "description": "Rapid advances in large-scale connectomics are beginning to spotlight the importance of individual variations in the neural circuitry. They also highlight the limitations of “wiring diagrams” alone.            \nThe post New Brain Maps Can Predict Behaviors first appeared on Quanta Magazine",
@@ -22442,6 +22898,24 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66261",
+          "author": "Nathan Yau",
+          "description": "Ben Smith for The New York Times got an internal document that outlines…\nTags: algorithm, New York Times, TikTok",
+          "link": "https://flowingdata.com/2021/12/07/tiktok-algorithms-work-because-of-a-lot-of-data/",
+          "publishedOn": "2021-12-07T18:24:12.000Z",
+          "wordCount": 336,
+          "title": "TikTok algorithms work because of a lot of data"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66252",
+          "author": "Nathan Yau",
+          "description": "Life360 is a service that lets families keep track of where members are…\nTags: Life360, privacy, The Markup",
+          "link": "https://flowingdata.com/2021/12/07/family-safety-app-sells-location-data-to-third-parties/",
+          "publishedOn": "2021-12-07T10:34:21.000Z",
+          "wordCount": 408,
+          "title": "Family safety app sells location data to third parties"
+        },
         {
           "id": "https://flowingdata.com/?p=66244",
           "author": "Nathan Yau",
@@ -23344,15 +23818,6 @@
           "publishedOn": "2021-10-12T19:13:58.000Z",
           "wordCount": 203,
           "title": "Thinking on ways to solve ​​MULTI-SELECT"
-        },
-        {
-          "id": "https://web.dev/shows/gui-challenges/Qcpru-fIgwk/",
-          "author": null,
-          "description": "In today's GUI challenge I share my thinking on a way to solve split buttons. A staple component for condensed interfaces, it allows a single button to feature secondary actions. Lots of great tips about theming, shadows, color, layouts, interaction UX, and more.\n0:00 - Introduction\n0:24 - Overview\n1:40 - Light & Dark\n3:37 - Shadows\n5:45 - SVG Tips\n7:12 - States\n10:20 - Keyboard UX\n11:41 - Reduced Motion UX\n13:20 - Screen Reader UX\n14:13 - Right-to-left UX\n15:58 - Flexbox Layouts\n18:51 - JavaScript\n21:22 - Outro\n\n\n\n\n\n\nRead along → \nTry a demo → \nGet the source → https://goo.gle/3BNn23ohttps://goo.gle/3l92efUhttps://goo.gle/3n4Sfcg\n\nWatch more GUI Challenges → \nSubscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://goo.gl/LLLNvf\n\n#GUIchallenges #CSS #ChromeDeveloper",
-          "link": "https://web.dev/shows/gui-challenges/Qcpru-fIgwk/",
-          "publishedOn": "2021-09-08T17:28:14.000Z",
-          "wordCount": 209,
-          "title": "Thinking on ways to solve ​​SPLIT BUTTONS"
         }
       ]
     }
