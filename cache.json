@@ -40,6 +40,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=358344",
+          "author": "Chris Coyier",
+          "description": "I try to keep up with WordPress news because I’m a big WordPress user and have many production sites that run on it. WordPress has been good to me as a site builder for literally my entire career. So, like …",
+          "link": "https://css-tricks.com/links-on-wordpress-i/",
+          "publishedOn": "2021-12-08T21:32:33.000Z",
+          "wordCount": 1158,
+          "title": "Links on WordPress I"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357405",
+          "author": "Kent C. Dodds",
+          "description": "I’ve built websites that are used by millions of people all over the world. I’ve made more mistakes than I care to count and I’ve had to deal with the repercussions of those mistakes for years thereafter. Through all of …",
+          "link": "https://css-tricks.com/learn-from-remix/",
+          "publishedOn": "2021-12-08T16:05:20.000Z",
+          "wordCount": 1295,
+          "title": "Learn From Remix"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358496",
+          "author": "Chris Coyier",
+          "description": "An interesting (scary) trick of an nearly undetectable exploit. Wolfgang Ettlinger:\nWhat if a backdoor literally cannot be seen and thus evades detection even from thorough code reviews?\n\n\n\n\nI’ll post the screenshot of the exploit from the post with the …",
+          "link": "https://css-tricks.com/the-invisible-javascript-backdoor/",
+          "publishedOn": "2021-12-08T16:00:01.000Z",
+          "wordCount": 457,
+          "title": "The Invisible JavaScript Backdoor"
+        },
+        {
           "id": "https://css-tricks.com/?p=356433",
           "author": "Chris Coyier",
           "description": "What if HTML had “tabs”? That would be cool, says I. Dave has been spending some of his time and energy, along with a group of “Tabvengers” from OpenUI, on this. A lot of research leads to a bit …",
@@ -1378,6 +1405,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61b0ab56946db661defb8a16",
+          "author": null,
+          "description": "There are a number of reasons why you might want to reset your PC. From malware attacks to bad PC health, or maybe you just want to start afresh – the list goes on.  When you're resetting your PC, you might get the error \"There was a problem resetting your",
+          "link": "https://www.freecodecamp.org/news/there-was-a-problem-with-resetting-your-pc-reset-pc-fixed-on-windows-10/",
+          "publishedOn": "2021-12-08T17:20:41.000Z",
+          "wordCount": 1063,
+          "title": "There Was a Problem with Resetting Your PC [Reset PC Fixed on Windows 10]"
+        },
         {
           "id": "61a43b7925888a07c3e1d115",
           "author": null,
@@ -12391,16 +12427,6 @@
           "wordCount": null,
           "title": "Teaching Kids Programming – Line Sweeping Algorithm to Compute the Most Frequent Number in Intervals",
           "itunes": {}
-        },
-        {
-          "id": "https://helloacm.com/?p=146696",
-          "author": "ACMer",
-          "description": "Given a string s, find the length of the longest substring that contains at most 2 distinct characters. Constraints n ≤ 10,000 where n is the length of s. Example 1 Input s = “abccb”...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
-          "link": "https://helloacm.com/teaching-kids-programming-longest-substring-with-2-distinct-characters-by-sliding-window-algorithm/",
-          "publishedOn": "2021-09-09T22:35:31.000Z",
-          "wordCount": null,
-          "title": "Teaching Kids Programming – Longest Substring with 2 Distinct Characters by Sliding Window Algorithm",
-          "itunes": {}
         }
       ]
     },
@@ -12409,6 +12435,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=510226",
+          "author": "Ryan Flowers",
+          "description": "Multiplexing is a very old technology in which control signals are intermixed for the sake of being able to control more devices than there are control signals. For [mihai.cuciuc], the …read more",
+          "link": "https://hackaday.com/2021/12/08/getting-rid-of-the-ghost-in-the-led/",
+          "publishedOn": "2021-12-09T00:00:16.000Z",
+          "wordCount": 1154,
+          "title": "[Getting Rid Of] The Ghost In the LED"
+        },
+        {
+          "id": "https://hackaday.com/?p=511081",
+          "author": "Lewin Day",
+          "description": "Flashing LEDs are all well and good, but they’re even better if they can sync up with ambient sounds or music. [mircemk] has built the LUMAZOID visualizer to do just …read more",
+          "link": "https://hackaday.com/2021/12/08/an-easy-music-visualizer-with-the-arduino-nano/",
+          "publishedOn": "2021-12-08T21:00:59.000Z",
+          "wordCount": 1071,
+          "title": "An Easy Music Visualizer With the Arduino Nano"
+        },
+        {
+          "id": "https://hackaday.com/?p=510202",
+          "author": "Orlando Hoilett",
+          "description": "After years of being a software developer, [Chris] was excited to get back into embedded development and we’re glad he did. His 3D printed lithographic moon lamp combines a number …read more",
+          "link": "https://hackaday.com/2021/12/08/3d-printed-lithographic-moon-lamp/",
+          "publishedOn": "2021-12-08T19:30:04.000Z",
+          "wordCount": 1295,
+          "title": "3D Printed Lithographic Moon Lamp"
+        },
+        {
+          "id": "https://hackaday.com/?p=509195",
+          "author": "Dan Maloney",
+          "description": "Like a lot of Hackaday readers, I pride myself on being “the fix-it guy” in my family. When something breaks, I get excited, because it’s a chance to show off …read more",
+          "link": "https://hackaday.com/2021/12/08/fail-of-the-week-hackaday-writer-attempts-xbox-repair/",
+          "publishedOn": "2021-12-08T18:00:34.000Z",
+          "wordCount": 5080,
+          "title": "Fail of the Week: Hackaday Writer Attempts XBox Repair"
+        },
+        {
+          "id": "https://hackaday.com/?p=509119",
+          "author": "Joshua Vasquez",
+          "description": "If your jealousy for Festo robots is festering, fret not! [mikey77] has shown us that, even without giant piggy banks, we can still construct some fantastic soft robotics projects with …read more",
+          "link": "https://hackaday.com/2021/12/08/squishy-robot-hardware-does-well-under-pressure/",
+          "publishedOn": "2021-12-08T16:30:55.000Z",
+          "wordCount": 1239,
+          "title": "Squishy Robot Hardware Does Well Under Pressure"
+        },
+        {
+          "id": "https://hackaday.com/?p=500704",
+          "author": "Joshua Vasquez",
+          "description": "In the last decade, the price for making a single PCB plummeted. And we’ve featured tons of hacks with boards hailing from places like OSH Park or Seeed Studio. But …read more",
+          "link": "https://hackaday.com/2021/12/08/made-to-spec-the-coming-age-of-prototyping-as-a-service/",
+          "publishedOn": "2021-12-08T15:01:25.000Z",
+          "wordCount": 4617,
+          "title": "Made to Spec: the Coming Age of Prototyping as a Service"
+        },
+        {
+          "id": "https://hackaday.com/?p=510260",
+          "author": "Ryan Flowers",
+          "description": "Amateur radio is a hobby that is often thought of as being exclusive to those with a healthy expendable income. In recent years however, the tides have turned. Cheap microcontrollers …read more",
+          "link": "https://hackaday.com/2021/12/08/four-band-digital-hf-sdr-transceiver-offers-high-performance-for-only-60/",
+          "publishedOn": "2021-12-08T12:00:23.000Z",
+          "wordCount": 2004,
+          "title": "Four Band Digital HF SDR Transceiver Offers High Performance for Only $60"
+        },
         {
           "id": "https://hackaday.com/?p=510852",
           "author": "Kristina Panos",
@@ -16746,6 +16835,83 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "60F4DA87-ACF5-4266-BFE550B6ECF4BD65",
+          "author": "Sara Schonhardt, E&E News",
+          "description": "Those with higher incomes are also responsible for more emissions than those with lower incomes\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/rich-americans-have-higher-carbon-footprints-than-other-wealthy-people/",
+          "publishedOn": "2021-12-08T20:00:00.000Z",
+          "wordCount": null,
+          "title": "Rich Americans Have Higher Carbon Footprints than Other Wealthy People",
+          "itunes": {}
+        },
+        {
+          "id": "F9B8BCE4-0851-4459-928B691CBC45E103",
+          "author": "Amy Alspaugh, Linda S. Franck, Renée Mehra, Daniel Suárez-Baquero, Nikki Lanshaw, Toni Bond, Monica R. McLemore",
+          "description": "Treating the decision with nuance and care is essential to reproductive justice\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/abortion-doesnt-have-to-be-an-either-or-conversation/",
+          "publishedOn": "2021-12-08T18:30:00.000Z",
+          "wordCount": null,
+          "title": "Abortion Doesn't Have to Be an Either-Or Conversation",
+          "itunes": {}
+        },
+        {
+          "id": "5F90C5D3-4E89-4A26-91AF82F04D590C30",
+          "author": "Emily Willingham",
+          "description": "An exercise pill might one day produce health gains without the exertional pain.\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/this-protein-could-boost-brain-function-without-exercise/",
+          "publishedOn": "2021-12-08T16:16:00.000Z",
+          "wordCount": null,
+          "title": "This Protein Could Boost Brain Function without Exercise",
+          "itunes": {}
+        },
+        {
+          "id": "C2D940A4-9408-46FF-B0F6607F1473FEBD",
+          "author": "Christopher Intagliata",
+          "description": "The scientists found several previously hidden galaxies that date back to 13 billion years ago—and many more might be missing from our current census of the early universe.\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/podcast/episode/astronomers-spot-two-dust-bunnies-hiding-in-the-early-universe/",
+          "publishedOn": "2021-12-08T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Astronomers Spot Two Dust Bunnies Hiding in the Early Universe",
+          "itunes": {
+            "duration": "02:20"
+          },
+          "enclosure": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=5DABA9D3-1D4C-488A-81E299B75F2089D7",
+            "length": "2248803",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "72AC9F81-E44E-4E5C-829021281A1A48B5",
+          "author": "Chelsea Gohd, SPACE.com",
+          "description": "After some two decades of development, the orbital observatory is set to at last reach space on December 22\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/nasas-james-webb-space-telescope-is-fueled-for-late-december-launch/",
+          "publishedOn": "2021-12-08T14:00:00.000Z",
+          "wordCount": null,
+          "title": "NASA's James Webb Space Telescope Is Fueled for Late December Launch",
+          "itunes": {}
+        },
+        {
+          "id": "64213A19-FB5F-4F9C-9187BCEDD83EEA74",
+          "author": "Jack Tamisiea",
+          "description": "The baleen that hangs from the jaws of some whale species contains clues about their migrations and diets\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/to-see-where-a-whale-has-been-look-in-its-mouth/",
+          "publishedOn": "2021-12-08T13:00:00.000Z",
+          "wordCount": null,
+          "title": "To See Where a Whale Has Been, Look in Its Mouth",
+          "itunes": {}
+        },
+        {
+          "id": "F63E820E-8F6B-49DF-B7115A95C8649BA3",
+          "author": "Karmela Padavic-Callaghan",
+          "description": "After a decade of work, researchers have achieved the first ever experimental reconstruction of a quantum wave function\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/in-a-first-physicists-glimpse-a-quantum-ghost/",
+          "publishedOn": "2021-12-08T11:45:00.000Z",
+          "wordCount": null,
+          "title": "In a First, Physicists Glimpse a Quantum Ghost",
+          "itunes": {}
+        },
+        {
           "id": "E834A497-D35C-4A9C-B4667CEDDA98E913",
           "author": "Daniel Cusick, E&E News",
           "description": "A moisture-laden weather system called a Kona low is pummeling the island chain\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -20700,6 +20866,24 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=148412",
+          "author": "Mike Vizard",
+          "description": "A global annual survey of 2,200 developers published today by RapidAPI, a provider of an application programming interface (API) hub, finds digital business transformation initiatives have led to an increase in reliance on external-facing APIs. According to the survey results, nearly three-quarters of developers (74%) are using APIs for internal applications. However, nearly half (49%) […]\nThe post Digital Business Transformation Driving More API Adoption appeared first on DevOps.com.",
+          "link": "https://devops.com/digital-business-transformation-driving-more-api-adoption/",
+          "publishedOn": "2021-12-08T14:34:26.000Z",
+          "wordCount": 999,
+          "title": "Digital Business Transformation Driving More API Adoption"
+        },
+        {
+          "id": "https://devops.com/?p=148342",
+          "author": "Tomislav Pericin",
+          "description": "Lately, software supply chains find themselves in a very interesting and uncomfortable position—the industry spotlight—and not in a good way. While significant and costly breaches such as  SolarWinds or Kaseya make front-page news, supply chain attack tactics (e.g. typosquatting or dependency confusion) that target package managers such as npm, PyPI or WinGet can poison downstream […]\nThe post Securing the Software Supply Chain with Behavioral Analysis appeared first on DevOps.com.",
+          "link": "https://devops.com/securing-the-software-supply-chain-with-behavioral-analysis/",
+          "publishedOn": "2021-12-08T07:30:46.000Z",
+          "wordCount": 1441,
+          "title": "Securing the Software Supply Chain with Behavioral Analysis"
+        },
+        {
           "id": "https://devops.com/?p=148390",
           "author": "Mike Vizard",
           "description": "Iterative today added an experiment versioning capability to an open source platform for managing machine learning operations (MLOps) using GitOps workflows. Dmitry Petrov, Iterative CEO, said the latest version of the Data Versioning Control (DVC) platform makes it simpler to save, compare and reproduce machine learning (ML) experiments at scale without requiring organizations to set […]\nThe post Iterative Adds Experiment Versioning to MLOps Platform appeared first on DevOps.com.",
@@ -22462,6 +22646,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=111127",
+          "author": "Katie McCormick",
+          "description": "The “gravitational memory effect” predicts that a passing gravitational wave should forever alter the structure of space-time. Physicists have linked the phenomenon to fundamental cosmic symmetries and a potential solution to the black hole information paradox.            \nThe post Gravitational Waves Should Permanently Distort Space-Time first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/gravitational-waves-should-permanently-distort-space-time-20211208/",
+          "publishedOn": "2021-12-08T15:18:40.000Z",
+          "wordCount": null,
+          "title": "Gravitational Waves Should Permanently Distort Space-Time",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=111101",
           "author": "Allison Whitten",
           "description": "Tiny amounts of artificial noise can fool neural networks, but not humans. Some researchers are looking to neuroscience for a fix.            \nThe post AI Researchers Fight Noise by Turning to Biology first appeared on Quanta Magazine",
@@ -22898,6 +23092,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66275",
+          "author": "Nathan Yau",
+          "description": "Shortlife is a clock by artist Dries Depoorter that simply shows the percentage…\nTags: clock, Dries Depoorter, mortality",
+          "link": "https://flowingdata.com/2021/12/08/clock-shows-percentage-of-life-lived-so-far/",
+          "publishedOn": "2021-12-08T08:58:25.000Z",
+          "wordCount": 271,
+          "title": "Clock shows percentage of life lived so far"
+        },
         {
           "id": "https://flowingdata.com/?p=66261",
           "author": "Nathan Yau",
@@ -23801,6 +24004,15 @@
       "feedUrl": "https://web.dev/shows/gui-challenges/feed.xml",
       "siteUrl": "https://web.dev/shows/gui-challenges/feed.xml",
       "articles": [
+        {
+          "id": "https://web.dev/shows/gui-challenges/R75ZVW4LW5o/",
+          "author": null,
+          "description": "In today's GUI Challenge, @Adam Argyle shares thinking on a way to build toasts, a non-interactive and passive component for UI to provide user feedback. Explore the [output] element, CSS grid, animations and the FLIP technique which helps build an adaptive and accessible component.\nChapters:\n0:00 - Introduction\n0:23 - Overview\n2:02 - [output]\n3:00 - Layout\n4:41 - Animation\n5:50 - JavaScript Part 1\n6:55 - Reduced Motion\n7:43 - Keyframes\n8:09 - JavaScript Part 2\n10:48 - F.L.I.P.\n14:18 - Outro\n\n\n\n\n\n\nResources:\nRead along → \nTry a demo → \nGet the source → \nFLIP →  \nPaul Lewis (from SuperCharged) → \n\n\nhttps://goo.gle/3GghBfIhttps://goo.gle/3EHsuXGhttps://goo.gle/3oykceUhttps://goo.gle/3oz8P6Dhttps://goo.gle/31IOFy0\nWatch more GUI Challenges → \nSubscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttps://goo.gle/ChromeDevs\n\n#GUIchallenges #CSS #ChromeDeveloper",
+          "link": "https://web.dev/shows/gui-challenges/R75ZVW4LW5o/",
+          "publishedOn": "2021-12-08T07:12:33.000Z",
+          "wordCount": 177,
+          "title": "Thinking on ways to solve TOASTS"
+        },
         {
           "id": "https://web.dev/shows/gui-challenges/HCsV8u-KYUw/",
           "author": null,
