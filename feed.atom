@@ -2,10 +2,417 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2021-12-09T00:42:05.525Z</updated>
+    <updated>2021-12-10T00:43:04.527Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BEAM Bird Pendant Really Chirps]]></title>
+        <id>https://hackaday.com/?p=510578</id>
+        <link href="https://hackaday.com/2021/12/09/beam-bird-pendant-really-chirps/"/>
+        <updated>2021-12-10T00:00:38.000Z</updated>
+        <summary type="html"><![CDATA[[NanoRobotGeek] had a single glorious weekend between the end of the term and the start of exams. Did they buy a keg and party it up? No, in fact, quite …read more]]></summary>
+        <author>
+            <name>Kristina Panos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eye Droppin’]]></title>
+        <id>https://css-tricks.com/?p=358203</id>
+        <link href="https://css-tricks.com/eye-droppin/"/>
+        <updated>2021-12-09T22:22:34.000Z</updated>
+        <summary type="html"><![CDATA[Quick hits! There is a new web API called EyeDropper:
+if ('EyeDropper' in window) {
+  const eyeDropper = new EyeDropper();
+  try {
+    // This has gotta be triggered by a user interaction,
+    // so consider this pseudo-code.
+    const result 
+…]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ins and Outs of Casting Lenses from Epoxy]]></title>
+        <id>https://hackaday.com/?p=510977</id>
+        <link href="https://hackaday.com/2021/12/09/the-ins-and-outs-of-casting-lenses-from-epoxy/"/>
+        <updated>2021-12-09T21:00:54.000Z</updated>
+        <summary type="html"><![CDATA[If you need a lens for a project, chances are pretty good that you pick up a catalog or look up an optics vendor online and just order something. Practical, …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – Find First Recurring Character using Hash Table/Set]]></title>
+        <id>https://helloacm.com/?p=148026</id>
+        <link href="https://helloacm.com/teaching-kids-programming-find-first-recurring-character-using-hash-table-set/"/>
+        <updated>2021-12-09T20:49:13.000Z</updated>
+        <summary type="html"><![CDATA[Given a lowercase alphabet string s, return the index of the first recurring character in it. If there are no recurring characters, return -1. Constraints n ≤ 100,000 where n is the length of s...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some notes on using esbuild]]></title>
+        <id>https://css-tricks.com/?p=358520</id>
+        <link href="https://css-tricks.com/some-notes-on-using-esbuild/"/>
+        <updated>2021-12-09T20:41:25.000Z</updated>
+        <summary type="html"><![CDATA[This is a fantastic article from Julia Evans about duking it out with modern front-end tooling. Julia was made a bunch of Vue projects and typically uses no build process at all:
+ I usually have an index.html file, a script.js
+…]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deadly Indonesia Eruption Was Triggered by Heavy Rains]]></title>
+        <id>E6C5759F-68B9-439B-94677946E27E86AE</id>
+        <link href="https://www.scientificamerican.com/article/deadly-indonesia-eruption-was-triggered-by-heavy-rains/"/>
+        <updated>2021-12-09T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[External influences on volcanoes can make predicting unrest more difficult
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Heather Handley, The Conversation US</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An International Institute Will Help Us Manage Climate Change]]></title>
+        <id>4516B5FA-B5B2-4FB2-A659AB0B773FC531</id>
+        <link href="https://www.scientificamerican.com/article/an-international-institute-will-help-us-manage-climate-change/"/>
+        <updated>2021-12-09T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A collaborative center will help climate scientists build better models for prevention and mitigation
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Sabine Hossenfelder, Tim Palmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Could India Be The Crucial Battleground For Open Access To Scientific Research?]]></title>
+        <id>https://hackaday.com/?p=509518</id>
+        <link href="https://hackaday.com/2021/12/09/could-india-be-the-crucial-battleground-for-open-access-to-scientific-research/"/>
+        <updated>2021-12-09T19:30:46.000Z</updated>
+        <summary type="html"><![CDATA[One of the hottest topics in the world of scientific publishing over the last couple of decades has been the growing pressure to release the fruits of public-funded scientific research …read more]]></summary>
+        <author>
+            <name>Jenny List</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✚ Get Input – The Process 168]]></title>
+        <id>https://flowingdata.com/?p=66290</id>
+        <link href="https://flowingdata.com/2021/12/09/process-168-input/"/>
+        <updated>2021-12-09T19:30:18.000Z</updated>
+        <summary type="html"><![CDATA[What happens when you spend too much time with a dataset.
+Tags: feedback]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moving CO2 from Air to Oceans May Be Necessary to Slow Warming]]></title>
+        <id>50E0A79B-D0D4-4D09-9DD4D12867343B61</id>
+        <link href="https://www.scientificamerican.com/article/moving-co2-from-air-to-oceans-may-be-necessary-to-slow-warming/"/>
+        <updated>2021-12-09T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A major new report from the National Academies examines options to store carbon in the oceans
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>John Fialka, E&amp;E News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sentry Acquires Specto to Add Analytics Tool for Observability]]></title>
+        <id>https://devops.com/?p=148483</id>
+        <link href="https://devops.com/sentry-acquires-specto-to-add-analytics-tool-for-observability/"/>
+        <updated>2021-12-09T19:01:37.000Z</updated>
+        <summary type="html"><![CDATA[Sentry this week announced it has acquired Specto, a provider of a set of tools for analyzing the performance of mobile applications. As the number of mobile applications being deployed continues to expand, developers are being asked to manage them as part of a general shift left that requires them to take on more accountability […]
+The post Sentry Acquires Specto to Add Analytics Tool for Observability appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Mike Vizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Outage Exposes Weaknesses of DevOps Resilience]]></title>
+        <id>https://devops.com/?p=148481</id>
+        <link href="https://devops.com/aws-outage-exposes-weaknesses-of-devops-resilience/"/>
+        <updated>2021-12-09T18:11:21.000Z</updated>
+        <summary type="html"><![CDATA[The December 7, 2021 Amazon Web Services (AWS) outage severely disrupted services from a wide range of businesses for more than five hours and highlighted just how reliant businesses have become on internet-delivered services. The outage mostly impacted web services in the eastern U.S., yet the implications are universal: It’s a reminder that many businesses […]
+The post AWS Outage Exposes Weaknesses of DevOps Resilience appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Frank Ohlhorst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keynote Video: Dr. Keith Thorne Explains the Extreme Engineering of the LIGO Hardware]]></title>
+        <id>https://hackaday.com/?p=511193</id>
+        <link href="https://hackaday.com/2021/12/09/keynote-video-dr-keith-thorne-explains-the-extreme-engineering-of-the-ligo-hardware/"/>
+        <updated>2021-12-09T18:01:17.000Z</updated>
+        <summary type="html"><![CDATA[The Laser Interferometer Gravitational-Wave Observatory (LIGO) is a huge installation measured in kilometers that is listening for wrinkles in space-time. Pulling this off is a true story of hardware and …read more]]></summary>
+        <author>
+            <name>Mike Szczys</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omicron Is Likely to Weaken COVID Vaccine Protection--But Boosters Could Restore It]]></title>
+        <id>83F1BA2F-7A5F-4CD7-95CAA54625FDD57A</id>
+        <link href="https://www.scientificamerican.com/article/omicron-is-likely-to-weaken-covid-vaccine-protection-but-boosters-could-restore-it/"/>
+        <updated>2021-12-09T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The rapid spread of new variants such as Omicron offers clues to how SARS-CoV-2 is adapting and how the pandemic will play out over the next several months
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Ewen Callaway, Nature magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn JavaScript – Free JS Courses for Beginners]]></title>
+        <id>61b20925946db661defb946e</id>
+        <link href="https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/"/>
+        <updated>2021-12-09T17:41:53.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript is a popular programming language used for building web applications, among many other things.  In this article, I will provide a list of free online resources where you can start learning JavaScript. After you have learned the basics then you can start building beginner friendly projects.  JavaScript Algorithms and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Project – How to Build Tony Stark&#x27;s JARVIS with Python]]></title>
+        <id>61b081ab946db661defb8933</id>
+        <link href="https://www.freecodecamp.org/news/python-project-how-to-build-your-own-jarvis-using-python/"/>
+        <updated>2021-12-09T17:19:31.000Z</updated>
+        <summary type="html"><![CDATA[Do you remember J.A.R.V.I.S., Tony Stark's virtual personal assistant? If you've seen any of the Ironman or Avengers movies, I'm sure you do. Have you ever wondered whether you could create your own personal assistant? Yes? Tony Stark can help us with that!  Oops, did]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Merge Dictionaries in Python]]></title>
+        <id>61b1c763946db661defb9324</id>
+        <link href="https://www.freecodecamp.org/news/merge-dictionaries-in-python/"/>
+        <updated>2021-12-09T17:16:36.000Z</updated>
+        <summary type="html"><![CDATA[In Python, a dictionary is a collection you use to store data in {key:value} pairs. It is ordered and mutable, and it cannot store duplicate data.  We write a dictionary using curly brackets like this: my_dict = {     "id": 1,     "name": "Ashutosh",     "books": ["Python", "DSA"] } Sometimes, we need to merge]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wearable Sensor for Detecting Substance Use Disorder]]></title>
+        <id>https://hackaday.com/?p=424034</id>
+        <link href="https://hackaday.com/2021/12/09/wearable-sensor-for-detecting-substance-use-disorder/"/>
+        <updated>2021-12-09T16:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Oftentimes, the feature set for our typical fitness-focused wearables feels a bit empty. Push notifications on your wrist? OK, fine. Counting your steps? Sure, why not. But how useful are …read more]]></summary>
+        <author>
+            <name>Orlando Hoilett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spark Creativity with Thomas Edison's Napping Technique]]></title>
+        <id>CC83AF86-5D63-47F1-A8DA569DBA0256D4</id>
+        <link href="https://www.scientificamerican.com/article/thomas-edisons-naps-inspire-a-way-to-spark-your-own-creativity/"/>
+        <updated>2021-12-09T16:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Waking yourself from the twilight state just before sleep may help you to solve a challenging problem, a study shows
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Bret Stetka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Dark Mode Switcher With Tailwind CSS and Flowbite]]></title>
+        <id>61a5fd310c0c7407b2b3e650</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-dark-mode-switcher-with-tailwind-css-and-flowbite/"/>
+        <updated>2021-12-09T16:11:44.000Z</updated>
+        <summary type="html"><![CDATA[Dark mode is starting to become a requirement rather that a nice-to-have feature like it was back in the day. It gives users the option to choose a theme that's comfortable for them, whether they're working during the day or at night. If you haven't already heard, Tailwind CSS is]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Help Users Accomplish What They Came For]]></title>
+        <id>https://css-tricks.com/?p=357621</id>
+        <link href="https://css-tricks.com/help-users-accomplish-what-they-came-for/"/>
+        <updated>2021-12-09T16:02:36.000Z</updated>
+        <summary type="html"><![CDATA[From my perspective, the question of what one thing we can do to make a website better is not a technical one. The more I browse the internet, the more I realize that the biggest issue with a lot of …]]></summary>
+        <author>
+            <name>Anna Migas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn SQL – Free Relational Database Courses for Beginners]]></title>
+        <id>61b1393b946db661defb8dcd</id>
+        <link href="https://www.freecodecamp.org/news/learn-sql-free-relational-database-courses-for-beginners/"/>
+        <updated>2021-12-09T16:00:57.000Z</updated>
+        <summary type="html"><![CDATA[SQL (Structured Query Language) is a popular programming language used for relational databases. And there are many good free resources you can use to start learning it. In this article, I will list out 8 free online beginner-friendly resources to learn SQL, PostgreSQL, and MySQL. Free SQL CoursesRelational Database Curriculum]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cut through the noise with immediate visual feedback]]></title>
+        <id>https://css-tricks.com/?p=358312</id>
+        <link href="https://css-tricks.com/cut-through-the-noise-with-immediate-visual-feedback/"/>
+        <updated>2021-12-09T15:58:10.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+MarkUp is the leading visual commenting platform for images, PDFs, and live websites. It’s the perfect companion in your creative process to make your life easier. Manage and organize all web, PDF, and image …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathematicians Transcend Geometric Theory of Motion]]></title>
+        <id>https://www.quantamagazine.org/?p=111137</id>
+        <link href="https://www.quantamagazine.org/mathematicians-transcend-geometric-theory-of-motion-20211209/"/>
+        <updated>2021-12-09T15:23:48.000Z</updated>
+        <summary type="html"><![CDATA[More than 30 years ago, Andreas Floer changed geometry. Now, two mathematicians have finally figured out how to extend his revolutionary perspective.             
+The post Mathematicians Transcend Geometric Theory of Motion first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Kelsey Houston-Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Challenges Of Finding A Substitute For Human Blood]]></title>
+        <id>https://hackaday.com/?p=509397</id>
+        <link href="https://hackaday.com/2021/12/09/the-challenges-of-finding-a-substitute-for-human-blood/"/>
+        <updated>2021-12-09T15:01:32.000Z</updated>
+        <summary type="html"><![CDATA[Throughout history, the human body has been the subject of endless scrutiny and wonder. Many puzzled over the function of all these organs and fluids found inside. This included the …read more]]></summary>
+        <author>
+            <name>Maya Posch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking Out of the Box]]></title>
+        <id>https://alistapart.com/article/breaking-out-of-the-box/</id>
+        <link href="https://alistapart.com/article/breaking-out-of-the-box/"/>
+        <updated>2021-12-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CSS is about styling boxes. In fact, the whole web is made of boxes, from the browser viewport to elements on a page. But every once in a while a new feature comes along that makes us rethink our design approach.
+Round displays, for example, make it fun to play with circular clip areas. Mobile screen notches and virtual keyboards offer challenges to best organize content that stays clear of them. And dual screen or foldable devices make us rethink how to best use available space in a number of different device postures.
+Sketches of a round display, a common rectangular mobile display, and a device with a foldable display.
+
+
+
+These recent evolutions of the web platform made it both more challenging and more interesting to design products. They’re great opportunities for us to break out of o…]]></summary>
+        <author>
+            <name>by</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the Heels of a Light Beam]]></title>
+        <id>F8D3FA64-5187-44BB-A8D79BF7940E5ADF</id>
+        <link href="https://www.scientificamerican.com/article/on-the-heels-of-a-light-beam1/"/>
+        <updated>2021-12-09T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Andrea Gawrylewski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can you code on a phone?]]></title>
+        <id>61b20f09946db661defb94da</id>
+        <link href="https://www.freecodecamp.org/news/can-you-code-on-a-phone/"/>
+        <updated>2021-12-09T14:18:07.000Z</updated>
+        <summary type="html"><![CDATA[More than half of people worldwide access the internet using mobile devices instead of desktop computers. And if you only have a mobile device, you can still learn to code! We just published a tutorial on the freeCodeCamp.org YouTube channel that will teach you how to code on an]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vercel Acquires Turborepo to Gain Build System]]></title>
+        <id>https://devops.com/?p=148465</id>
+        <link href="https://devops.com/vercel-acquires-turborepo-to-gain-build-system/"/>
+        <updated>2021-12-09T14:07:34.000Z</updated>
+        <summary type="html"><![CDATA[Vercel today announced it has acquired Turborepo, a provider of a build system for JavaScript and TypeScript applications that provides developers with access to an easy-to-use monorepository for their code. In the wake of that acquisition, the command line interface (CLI) for accessing Turborepo will now be available under an open source license. Jared Palmer, […]
+The post Vercel Acquires Turborepo to Gain Build System appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Mike Vizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Outage Outrage | Rusty Linux | ARM Latest]]></title>
+        <id>https://devops.com/?p=148449</id>
+        <link href="https://devops.com/aws-outage-outrage-rusty-linux-arm-latest/"/>
+        <updated>2021-12-09T13:05:25.000Z</updated>
+        <summary type="html"><![CDATA[In this week’s The Long View: Amazon Web Services falls on its face, Linux’s move to Rust takes the next step, and the FTC stabs another fatal wound in the horrible Arm/Nvidia deal.
+The post AWS Outage Outrage | Rusty Linux | ARM Latest appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Richi Jennings</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What People Spend Most of Their Money On, By Income Group, Relatively Speaking]]></title>
+        <id>https://flowingdata.com/?p=66281</id>
+        <link href="https://flowingdata.com/2021/12/09/what-people-spend-most-of-their-money-on-by-income-group-relatively-speaking/"/>
+        <updated>2021-12-09T12:25:31.000Z</updated>
+        <summary type="html"><![CDATA[More money on average means bigger houses, more expensive cars, and fancier restaurants. But what if you look at relative spending instead of total dollars?
+Tags: spending]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Molding Complex Optics in a Completely Fluid System]]></title>
+        <id>https://hackaday.com/?p=510970</id>
+        <link href="https://hackaday.com/2021/12/09/molding-complex-optics-in-a-completely-fluid-system/"/>
+        <updated>2021-12-09T12:00:44.000Z</updated>
+        <summary type="html"><![CDATA[Traditional lensmaking is a grind — literally. One starts with a piece of glass, rubs it against an abrasive surface to wear away the excess bits, and eventually gets it …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COVID Variants Hint at How the Virus Will Evolve]]></title>
+        <id>54798BC2-F569-4502-9F78E8854B73F84E</id>
+        <link href="https://www.scientificamerican.com/article/covid-variants-hint-at-how-the-virus-will-evolve/"/>
+        <updated>2021-12-09T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The rapid spread of new variants such as Omicron offers clues to how SARS-CoV-2 is adapting and how the pandemic will play out over the next several months
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Ewen Callaway, Nature magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – Find Gene Mutation Groups via UnionFind Algorithm (Disjoint Set)]]></title>
+        <id>https://helloacm.com/?p=148010</id>
+        <link href="https://helloacm.com/teaching-kids-programming-find-gene-mutation-groups-via-unionfind-algorithm-disjoint-set/"/>
+        <updated>2021-12-09T09:20:47.000Z</updated>
+        <summary type="html"><![CDATA[You are given a list of unique strings genes where each element has the same length and contains characters “A”, “C”, “G” and/or “T”. If strings a and...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Literary Value]]></title>
+        <id>https://devops.com/?p=148444</id>
+        <link href="https://devops.com/literary-value/"/>
+        <updated>2021-12-09T07:00:29.000Z</updated>
+        <summary type="html"><![CDATA[The post Literary Value appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>ROELBOB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flip, Invert, and Reverse]]></title>
+        <id>https://css-tricks.com/?p=358554</id>
+        <link href="https://css-tricks.com/flip-invert-and-reverse/"/>
+        <updated>2021-12-09T00:27:11.000Z</updated>
+        <summary type="html"><![CDATA[The SVG <path> syntax is a beast. There are all sorts of commands that make up a mini-language all of its own — so powerful that it’s capable of drawing anything. Don’t be too scared of it, though, because some …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Getting Rid Of] The Ghost In the LED]]></title>
         <id>https://hackaday.com/?p=510226</id>
@@ -14,6 +421,86 @@
         <summary type="html"><![CDATA[Multiplexing is a very old technology in which control signals are intermixed for the sake of being able to control more devices than there are control signals. For [mihai.cuciuc], the …read more]]></summary>
         <author>
             <name>Ryan Flowers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scan Sensitive Data Using the Nightfall API in 40 Lines of Code]]></title>
+        <id>https://hackernoon.com/scan-sensitive-data-using-the-nightfall-api-in-40-lines-of-code?source=rss</id>
+        <link href="https://hackernoon.com/scan-sensitive-data-using-the-nightfall-api-in-40-lines-of-code?source=rss"/>
+        <updated>2021-12-08T23:47:36.000Z</updated>
+        <summary type="html"><![CDATA[Create and deploy a server that scans files for sensitive data (like credit card numbers) with Nightfall's data loss prevention APIs.]]></summary>
+        <author>
+            <name>Jillian L.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hiring Offshore Engineers for Startup Founders]]></title>
+        <id>https://hackernoon.com/hiring-offshore-engineers-for-startup-founders?source=rss</id>
+        <link href="https://hackernoon.com/hiring-offshore-engineers-for-startup-founders?source=rss"/>
+        <updated>2021-12-08T23:39:24.000Z</updated>
+        <summary type="html"><![CDATA[We’ve prepared a handy checklist that you can use as the basis of your selection process to land a quality vendor who will take your project and needs.]]></summary>
+        <author>
+            <name>Svitla Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction : Terra, its Goals and its Origins]]></title>
+        <id>https://hackernoon.com/introduction-terra-its-goals-and-its-origins?source=rss</id>
+        <link href="https://hackernoon.com/introduction-terra-its-goals-and-its-origins?source=rss"/>
+        <updated>2021-12-08T23:22:37.000Z</updated>
+        <summary type="html"><![CDATA[How did the Terra blockchain evolve from a small blockchain to an ecosystem of DeFi applications to create a new financial ecosystem?]]></summary>
+        <author>
+            <name>Michiel Mulders</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum High Transaction Fees Discourages New Participants From Entering the Ecosystem]]></title>
+        <id>https://hackernoon.com/ethereum-high-transaction-fees-discourages-new-participants-from-entering-the-ecosystem?source=rss</id>
+        <link href="https://hackernoon.com/ethereum-high-transaction-fees-discourages-new-participants-from-entering-the-ecosystem?source=rss"/>
+        <updated>2021-12-08T23:07:52.000Z</updated>
+        <summary type="html"><![CDATA[This article talks about blockchain, FATF and NFTs.]]></summary>
+        <author>
+            <name>Ishan Pandey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Interview With PowerShell Inventor Jeffrey Snover]]></title>
+        <id>https://hackernoon.com/an-interview-with-powershell-inventor-jeffrey-snover?source=rss</id>
+        <link href="https://hackernoon.com/an-interview-with-powershell-inventor-jeffrey-snover?source=rss"/>
+        <updated>2021-12-08T23:01:18.000Z</updated>
+        <summary type="html"><![CDATA[Snover is the inventor of Windows PowerShell, an object-based distributed automation engine, scripting language, and command line shell.]]></summary>
+        <author>
+            <name>Elizabeth Lvova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MomentJS Tutorial -The Ultimate Guide to Moment.JS]]></title>
+        <id>https://hackernoon.com/momentjs-tutorial-the-ultimate-guide-to-momentjs?source=rss</id>
+        <link href="https://hackernoon.com/momentjs-tutorial-the-ultimate-guide-to-momentjs?source=rss"/>
+        <updated>2021-12-08T22:58:39.000Z</updated>
+        <summary type="html"><![CDATA[Moment.js tutorial shows how to work with data and time in JavaScript with the Moment.js module.]]></summary>
+        <author>
+            <name>Bhylu.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Segment to Send Effortless Product Notifications]]></title>
+        <id>https://hackernoon.com/using-segment-to-send-effortless-product-notifications?source=rss</id>
+        <link href="https://hackernoon.com/using-segment-to-send-effortless-product-notifications?source=rss"/>
+        <updated>2021-12-08T22:53:24.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce that Courier now integrates easily with Segment, the leading customer data platform.]]></summary>
+        <author>
+            <name>Courier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Deserves Your Attention in the Release of Selenium 4 (And 4.1)]]></title>
+        <id>https://hackernoon.com/what-deserves-your-attention-in-the-release-of-selenium-4-and-41?source=rss</id>
+        <link href="https://hackernoon.com/what-deserves-your-attention-in-the-release-of-selenium-4-and-41?source=rss"/>
+        <updated>2021-12-08T22:41:18.000Z</updated>
+        <summary type="html"><![CDATA[The first-ever release of Selenium WebDriver 1.0 in 2007 has indented a lasting footprint in web automated testing. And through the years, the contributions of the Selenium project (WebDriver, Grid, and IDE) have truly transformed the way that we do quality assurance.]]></summary>
+        <author>
+            <name>Katalon</name>
         </author>
     </entry>
     <entry>
@@ -34,6 +521,36 @@
         <summary type="html"><![CDATA[Flashing LEDs are all well and good, but they’re even better if they can sync up with ambient sounds or music. [mircemk] has built the LUMAZOID visualizer to do just …read more]]></summary>
         <author>
             <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Forecast MRR Growth: A Streamlined Approach]]></title>
+        <id>https://hackernoon.com/how-to-forecast-mrr-growth-a-streamlined-approach?source=rss</id>
+        <link href="https://hackernoon.com/how-to-forecast-mrr-growth-a-streamlined-approach?source=rss"/>
+        <updated>2021-12-08T20:51:18.000Z</updated>
+        <summary type="html"><![CDATA[Probably 1001 ways to model out a forecast for MRR. We're going to suggest the very quick and dirty ways that seems to work best while pointing out the pitfalls]]></summary>
+        <author>
+            <name>ChartMogul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Your Own Toast With HTML, CSS and JS]]></title>
+        <id>https://hackernoon.com/make-a-toast-with-html-css-and-js?source=rss</id>
+        <link href="https://hackernoon.com/make-a-toast-with-html-css-and-js?source=rss"/>
+        <updated>2021-12-08T20:23:33.000Z</updated>
+        <summary type="html"><![CDATA[Toasts are extremely useful for any web application and in this post, we are going to see how to make a simple toast using HTML, CSS, and JS.]]></summary>
+        <author>
+            <name>Anish De</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python for Beginners, Part 3: The Turtle Module]]></title>
+        <id>https://hackernoon.com/python-for-beginners-part-3-the-turtle-module?source=rss</id>
+        <link href="https://hackernoon.com/python-for-beginners-part-3-the-turtle-module?source=rss"/>
+        <updated>2021-12-08T20:04:47.000Z</updated>
+        <summary type="html"><![CDATA[In this part of the Learn Python for Beginners series... We go over how to use the turtle module and learn computer programming in a fun visual way. Things like functions, variables, and more will start to make sense instantly.]]></summary>
+        <author>
+            <name>Clever Programmer</name>
         </author>
     </entry>
     <entry>
@@ -60,6 +577,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Check Your Privilege: Designing Cloud Infrastructures According to the Least Privilege Principle]]></title>
+        <id>https://hackernoon.com/check-your-privilege-designing-cloud-infrastructures-according-to-the-least-privilege-principle?source=rss</id>
+        <link href="https://hackernoon.com/check-your-privilege-designing-cloud-infrastructures-according-to-the-least-privilege-principle?source=rss"/>
+        <updated>2021-12-08T19:29:47.000Z</updated>
+        <summary type="html"><![CDATA[The Sunburst attacks relied on the Cloud model to work successfully. Experts believe that Dark Halo, the group responsible, used priviledges to do it.]]></summary>
+        <author>
+            <name>Check Point Software</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Abortion Doesn't Have to Be an Either-Or Conversation]]></title>
         <id>F9B8BCE4-0851-4459-928B691CBC45E103</id>
         <link href="https://www.scientificamerican.com/article/abortion-doesnt-have-to-be-an-either-or-conversation/"/>
@@ -83,6 +610,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA["If You Have a Goal, You Can Reach it" Nominee Nominee Yan Tsishko]]></title>
+        <id>https://hackernoon.com/if-you-have-a-goal-you-can-reach-it-nominee-nominee-yan-tsishko?source=rss</id>
+        <link href="https://hackernoon.com/if-you-have-a-goal-you-can-reach-it-nominee-nominee-yan-tsishko?source=rss"/>
+        <updated>2021-12-08T17:53:27.000Z</updated>
+        <summary type="html"><![CDATA[Yan Tsishko is a chief software engineer at Oxagile. He believes Javascript/TypeScript is the most exciting technology & that frontend is the future of tech.]]></summary>
+        <author>
+            <name>Yan Tsishko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Zeet to Take Your Devops from 0 to 100]]></title>
+        <id>https://hackernoon.com/how-to-use-zeet-to-take-your-devops-from-0-to-100?source=rss</id>
+        <link href="https://hackernoon.com/how-to-use-zeet-to-take-your-devops-from-0-to-100?source=rss"/>
+        <updated>2021-12-08T17:21:21.000Z</updated>
+        <summary type="html"><![CDATA[What happens when you combine an awesome idea with a driven leader? You get an exciting product, like Zeet, which automates your DevOps tasks.]]></summary>
+        <author>
+            <name>John Vester</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[There Was a Problem with Resetting Your PC [Reset PC Fixed on Windows 10]]]></title>
         <id>61b0ab56946db661defb8a16</id>
         <link href="https://www.freecodecamp.org/news/there-was-a-problem-with-resetting-your-pc-reset-pc-fixed-on-windows-10/"/>
@@ -90,6 +637,16 @@
         <summary type="html"><![CDATA[There are a number of reasons why you might want to reset your PC. From malware attacks to bad PC health, or maybe you just want to start afresh – the list goes on.  When you're resetting your PC, you might get the error "There was a problem resetting your]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's a corporation? What's a DAO? What's the big deal? A Law Student's View]]></title>
+        <id>https://hackernoon.com/whats-a-corporation-whats-a-dao-whats-the-big-deal-a-law-students-view?source=rss</id>
+        <link href="https://hackernoon.com/whats-a-corporation-whats-a-dao-whats-the-big-deal-a-law-students-view?source=rss"/>
+        <updated>2021-12-08T16:32:32.000Z</updated>
+        <summary type="html"><![CDATA[An easy to understand breakdown of what corporations, why they are being challenged, and what we are doing to change the way we do business.]]></summary>
+        <author>
+            <name>Sydney Forrest</name>
         </author>
     </entry>
     <entry>
@@ -176,6 +733,26 @@ The post Gravitational Waves Should Permanently Distort Space-Time first appeare
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Will We Ever Use Meme Coins for Payment in the Metaverse?]]></title>
+        <id>https://hackernoon.com/will-we-ever-use-meme-coins-for-payment-in-the-metaverse?source=rss</id>
+        <link href="https://hackernoon.com/will-we-ever-use-meme-coins-for-payment-in-the-metaverse?source=rss"/>
+        <updated>2021-12-08T14:57:30.000Z</updated>
+        <summary type="html"><![CDATA[Memecoins could be another driver in the new metaverse. Who knows?  Let's explore further.]]></summary>
+        <author>
+            <name>Anndy Lian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Ways to Protect Your Router From Hackers]]></title>
+        <id>https://hackernoon.com/7-ways-to-protect-your-router-from-hackers?source=rss</id>
+        <link href="https://hackernoon.com/7-ways-to-protect-your-router-from-hackers?source=rss"/>
+        <updated>2021-12-08T14:42:19.000Z</updated>
+        <summary type="html"><![CDATA[Since we are in the modern technological era, the internet has become an indispensable tool in our modern-day life. As we speak, we need it to communicate, work online, learn online and even do business online. When it comes to internet connectivity, there are many ways to get internet in your home. One of the best ways to access the internet at home or workplace is by investing in a router. With this device in place, you will be able to create a home network that can be used by wireless devices such as smart TVs, home appliances, IP cameras, and so much more.]]></summary>
+        <author>
+            <name>Nathan Jack</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Digital Business Transformation Driving More API Adoption]]></title>
         <id>https://devops.com/?p=148412</id>
         <link href="https://devops.com/digital-business-transformation-driving-more-api-adoption/"/>
@@ -197,6 +774,36 @@ The post Digital Business Transformation Driving More API Adoption appeared firs
 -- Read more on ScientificAmerican.com]]></summary>
         <author>
             <name>Chelsea Gohd, SPACE.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Students Learn More About Money in Games Than in School]]></title>
+        <id>https://hackernoon.com/students-learn-more-about-money-in-games-than-in-school?source=rss</id>
+        <link href="https://hackernoon.com/students-learn-more-about-money-in-games-than-in-school?source=rss"/>
+        <updated>2021-12-08T13:15:58.000Z</updated>
+        <summary type="html"><![CDATA[How many young people do you know who saved up their money to buy a game? Here's why people are learning more about money in games than at school.]]></summary>
+        <author>
+            <name>Mathew Georghiou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WTF is Transcoding?]]></title>
+        <id>https://hackernoon.com/wtf-is-transcoding?source=rss</id>
+        <link href="https://hackernoon.com/wtf-is-transcoding?source=rss"/>
+        <updated>2021-12-08T13:10:56.000Z</updated>
+        <summary type="html"><![CDATA[Transcoding is the process of converting audio or video files from one encoding format to another in order to increase the number of compatible target devices.]]></summary>
+        <author>
+            <name>Piyush Badkul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022's 10 Most Promising Startup Ideas]]></title>
+        <id>https://hackernoon.com/2022s-10-most-promising-startup-ideas?source=rss</id>
+        <link href="https://hackernoon.com/2022s-10-most-promising-startup-ideas?source=rss"/>
+        <updated>2021-12-08T13:01:17.000Z</updated>
+        <summary type="html"><![CDATA[Are you considering launching a startup in 2022? We’ve put together ten innovative startup ideas that will inspire you to get started on your new business!]]></summary>
+        <author>
+            <name>You are launched</name>
         </author>
     </entry>
     <entry>

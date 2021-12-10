@@ -40,6 +40,51 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=358203",
+          "author": "Chris Coyier",
+          "description": "Quick hits! There is a new web API called EyeDropper:\nif ('EyeDropper' in window) {\n  const eyeDropper = new EyeDropper();\n  try {\n    // This has gotta be triggered by a user interaction,\n    // so consider this pseudo-code.\n    const result \n…",
+          "link": "https://css-tricks.com/eye-droppin/",
+          "publishedOn": "2021-12-09T22:22:34.000Z",
+          "wordCount": 589,
+          "title": "Eye Droppin’"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358520",
+          "author": "Chris Coyier",
+          "description": "This is a fantastic article from Julia Evans about duking it out with modern front-end tooling. Julia was made a bunch of Vue projects and typically uses no build process at all:\n I usually have an index.html file, a script.js\n…",
+          "link": "https://css-tricks.com/some-notes-on-using-esbuild/",
+          "publishedOn": "2021-12-09T20:41:25.000Z",
+          "wordCount": 997,
+          "title": "Some notes on using esbuild"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357621",
+          "author": "Anna Migas",
+          "description": "From my perspective, the question of what one thing we can do to make a website better is not a technical one. The more I browse the internet, the more I realize that the biggest issue with a lot of …",
+          "link": "https://css-tricks.com/help-users-accomplish-what-they-came-for/",
+          "publishedOn": "2021-12-09T16:02:36.000Z",
+          "wordCount": 1195,
+          "title": "Help Users Accomplish What They Came For"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358312",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nMarkUp is the leading visual commenting platform for images, PDFs, and live websites. It’s the perfect companion in your creative process to make your life easier. Manage and organize all web, PDF, and image …",
+          "link": "https://css-tricks.com/cut-through-the-noise-with-immediate-visual-feedback/",
+          "publishedOn": "2021-12-09T15:58:10.000Z",
+          "wordCount": 458,
+          "title": "Cut through the noise with immediate visual feedback"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358554",
+          "author": "Chris Coyier",
+          "description": "The SVG <path> syntax is a beast. There are all sorts of commands that make up a mini-language all of its own — so powerful that it’s capable of drawing anything. Don’t be too scared of it, though, because some …",
+          "link": "https://css-tricks.com/flip-invert-and-reverse/",
+          "publishedOn": "2021-12-09T00:27:11.000Z",
+          "wordCount": 688,
+          "title": "Flip, Invert, and Reverse"
+        },
+        {
           "id": "https://css-tricks.com/?p=358344",
           "author": "Chris Coyier",
           "description": "I try to keep up with WordPress news because I’m a big WordPress user and have many production sites that run on it. WordPress has been good to me as a site builder for literally my entire career. So, like …",
@@ -1405,6 +1450,60 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61b20925946db661defb946e",
+          "author": null,
+          "description": "JavaScript is a popular programming language used for building web applications, among many other things.  In this article, I will provide a list of free online resources where you can start learning JavaScript. After you have learned the basics then you can start building beginner friendly projects.  JavaScript Algorithms and",
+          "link": "https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/",
+          "publishedOn": "2021-12-09T17:41:53.000Z",
+          "wordCount": 811,
+          "title": "Learn JavaScript – Free JS Courses for Beginners"
+        },
+        {
+          "id": "61b081ab946db661defb8933",
+          "author": null,
+          "description": "Do you remember J.A.R.V.I.S., Tony Stark's virtual personal assistant? If you've seen any of the Ironman or Avengers movies, I'm sure you do. Have you ever wondered whether you could create your own personal assistant? Yes? Tony Stark can help us with that!  Oops, did",
+          "link": "https://www.freecodecamp.org/news/python-project-how-to-build-your-own-jarvis-using-python/",
+          "publishedOn": "2021-12-09T17:19:31.000Z",
+          "wordCount": 4195,
+          "title": "Python Project – How to Build Tony Stark&#x27;s JARVIS with Python"
+        },
+        {
+          "id": "61b1c763946db661defb9324",
+          "author": null,
+          "description": "In Python, a dictionary is a collection you use to store data in {key:value} pairs. It is ordered and mutable, and it cannot store duplicate data.  We write a dictionary using curly brackets like this: my_dict = {     \"id\": 1,     \"name\": \"Ashutosh\",     \"books\": [\"Python\", \"DSA\"] } Sometimes, we need to merge",
+          "link": "https://www.freecodecamp.org/news/merge-dictionaries-in-python/",
+          "publishedOn": "2021-12-09T17:16:36.000Z",
+          "wordCount": 951,
+          "title": "How to Merge Dictionaries in Python"
+        },
+        {
+          "id": "61a5fd310c0c7407b2b3e650",
+          "author": null,
+          "description": "Dark mode is starting to become a requirement rather that a nice-to-have feature like it was back in the day. It gives users the option to choose a theme that's comfortable for them, whether they're working during the day or at night. If you haven't already heard, Tailwind CSS is",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-dark-mode-switcher-with-tailwind-css-and-flowbite/",
+          "publishedOn": "2021-12-09T16:11:44.000Z",
+          "wordCount": 2296,
+          "title": "How to Build a Dark Mode Switcher With Tailwind CSS and Flowbite"
+        },
+        {
+          "id": "61b1393b946db661defb8dcd",
+          "author": null,
+          "description": "SQL (Structured Query Language) is a popular programming language used for relational databases. And there are many good free resources you can use to start learning it. In this article, I will list out 8 free online beginner-friendly resources to learn SQL, PostgreSQL, and MySQL. Free SQL CoursesRelational Database Curriculum",
+          "link": "https://www.freecodecamp.org/news/learn-sql-free-relational-database-courses-for-beginners/",
+          "publishedOn": "2021-12-09T16:00:57.000Z",
+          "wordCount": 925,
+          "title": "Learn SQL – Free Relational Database Courses for Beginners"
+        },
+        {
+          "id": "61b20f09946db661defb94da",
+          "author": null,
+          "description": "More than half of people worldwide access the internet using mobile devices instead of desktop computers. And if you only have a mobile device, you can still learn to code! We just published a tutorial on the freeCodeCamp.org YouTube channel that will teach you how to code on an",
+          "link": "https://www.freecodecamp.org/news/can-you-code-on-a-phone/",
+          "publishedOn": "2021-12-09T14:18:07.000Z",
+          "wordCount": 7669,
+          "title": "Can you code on a phone?"
+        },
         {
           "id": "61b0ab56946db661defb8a16",
           "author": null,
@@ -3383,6 +3482,186 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/scan-sensitive-data-using-the-nightfall-api-in-40-lines-of-code?source=rss",
+          "author": "Jillian L.",
+          "description": "Create and deploy a server that scans files for sensitive data (like credit card numbers) with Nightfall's data loss prevention APIs.",
+          "link": "https://hackernoon.com/scan-sensitive-data-using-the-nightfall-api-in-40-lines-of-code?source=rss",
+          "publishedOn": "2021-12-08T23:47:36.000Z",
+          "wordCount": 935,
+          "title": "Scan Sensitive Data Using the Nightfall API in 40 Lines of Code"
+        },
+        {
+          "id": "https://hackernoon.com/hiring-offshore-engineers-for-startup-founders?source=rss",
+          "author": "Svitla Systems",
+          "description": "We’ve prepared a handy checklist that you can use as the basis of your selection process to land a quality vendor who will take your project and needs.",
+          "link": "https://hackernoon.com/hiring-offshore-engineers-for-startup-founders?source=rss",
+          "publishedOn": "2021-12-08T23:39:24.000Z",
+          "wordCount": 1029,
+          "title": "Hiring Offshore Engineers for Startup Founders"
+        },
+        {
+          "id": "https://hackernoon.com/introduction-terra-its-goals-and-its-origins?source=rss",
+          "author": "Michiel Mulders",
+          "description": "How did the Terra blockchain evolve from a small blockchain to an ecosystem of DeFi applications to create a new financial ecosystem?",
+          "link": "https://hackernoon.com/introduction-terra-its-goals-and-its-origins?source=rss",
+          "publishedOn": "2021-12-08T23:22:37.000Z",
+          "wordCount": 1008,
+          "title": "Introduction : Terra, its Goals and its Origins"
+        },
+        {
+          "id": "https://hackernoon.com/ethereum-high-transaction-fees-discourages-new-participants-from-entering-the-ecosystem?source=rss",
+          "author": "Ishan Pandey",
+          "description": "This article talks about blockchain, FATF and NFTs.",
+          "link": "https://hackernoon.com/ethereum-high-transaction-fees-discourages-new-participants-from-entering-the-ecosystem?source=rss",
+          "publishedOn": "2021-12-08T23:07:52.000Z",
+          "wordCount": 2790,
+          "title": "Ethereum High Transaction Fees Discourages New Participants From Entering the Ecosystem"
+        },
+        {
+          "id": "https://hackernoon.com/an-interview-with-powershell-inventor-jeffrey-snover?source=rss",
+          "author": "Elizabeth Lvova",
+          "description": "Snover is the inventor of Windows PowerShell, an object-based distributed automation engine, scripting language, and command line shell.",
+          "link": "https://hackernoon.com/an-interview-with-powershell-inventor-jeffrey-snover?source=rss",
+          "publishedOn": "2021-12-08T23:01:18.000Z",
+          "wordCount": 3150,
+          "title": "An Interview With PowerShell Inventor Jeffrey Snover"
+        },
+        {
+          "id": "https://hackernoon.com/momentjs-tutorial-the-ultimate-guide-to-momentjs?source=rss",
+          "author": "Bhylu.com",
+          "description": "Moment.js tutorial shows how to work with data and time in JavaScript with the Moment.js module.",
+          "link": "https://hackernoon.com/momentjs-tutorial-the-ultimate-guide-to-momentjs?source=rss",
+          "publishedOn": "2021-12-08T22:58:39.000Z",
+          "wordCount": 1009,
+          "title": "MomentJS Tutorial -The Ultimate Guide to Moment.JS"
+        },
+        {
+          "id": "https://hackernoon.com/using-segment-to-send-effortless-product-notifications?source=rss",
+          "author": "Courier",
+          "description": "We are excited to announce that Courier now integrates easily with Segment, the leading customer data platform.",
+          "link": "https://hackernoon.com/using-segment-to-send-effortless-product-notifications?source=rss",
+          "publishedOn": "2021-12-08T22:53:24.000Z",
+          "wordCount": 1015,
+          "title": "Using Segment to Send Effortless Product Notifications"
+        },
+        {
+          "id": "https://hackernoon.com/what-deserves-your-attention-in-the-release-of-selenium-4-and-41?source=rss",
+          "author": "Katalon",
+          "description": "The first-ever release of Selenium WebDriver 1.0 in 2007 has indented a lasting footprint in web automated testing. And through the years, the contributions of the Selenium project (WebDriver, Grid, and IDE) have truly transformed the way that we do quality assurance.",
+          "link": "https://hackernoon.com/what-deserves-your-attention-in-the-release-of-selenium-4-and-41?source=rss",
+          "publishedOn": "2021-12-08T22:41:18.000Z",
+          "wordCount": 1803,
+          "title": "What Deserves Your Attention in the Release of Selenium 4 (And 4.1)"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-forecast-mrr-growth-a-streamlined-approach?source=rss",
+          "author": "ChartMogul",
+          "description": "Probably 1001 ways to model out a forecast for MRR. We're going to suggest the very quick and dirty ways that seems to work best while pointing out the pitfalls",
+          "link": "https://hackernoon.com/how-to-forecast-mrr-growth-a-streamlined-approach?source=rss",
+          "publishedOn": "2021-12-08T20:51:18.000Z",
+          "wordCount": 1005,
+          "title": "How to Forecast MRR Growth: A Streamlined Approach"
+        },
+        {
+          "id": "https://hackernoon.com/make-a-toast-with-html-css-and-js?source=rss",
+          "author": "Anish De",
+          "description": "Toasts are extremely useful for any web application and in this post, we are going to see how to make a simple toast using HTML, CSS, and JS.",
+          "link": "https://hackernoon.com/make-a-toast-with-html-css-and-js?source=rss",
+          "publishedOn": "2021-12-08T20:23:33.000Z",
+          "wordCount": 967,
+          "title": "Build Your Own Toast With HTML, CSS and JS"
+        },
+        {
+          "id": "https://hackernoon.com/python-for-beginners-part-3-the-turtle-module?source=rss",
+          "author": "Clever Programmer",
+          "description": "In this part of the Learn Python for Beginners series... We go over how to use the turtle module and learn computer programming in a fun visual way. Things like functions, variables, and more will start to make sense instantly.",
+          "link": "https://hackernoon.com/python-for-beginners-part-3-the-turtle-module?source=rss",
+          "publishedOn": "2021-12-08T20:04:47.000Z",
+          "wordCount": 1936,
+          "title": "Python for Beginners, Part 3: The Turtle Module"
+        },
+        {
+          "id": "https://hackernoon.com/check-your-privilege-designing-cloud-infrastructures-according-to-the-least-privilege-principle?source=rss",
+          "author": "Check Point Software",
+          "description": "The Sunburst attacks relied on the Cloud model to work successfully. Experts believe that Dark Halo, the group responsible, used priviledges to do it.",
+          "link": "https://hackernoon.com/check-your-privilege-designing-cloud-infrastructures-according-to-the-least-privilege-principle?source=rss",
+          "publishedOn": "2021-12-08T19:29:47.000Z",
+          "wordCount": 1058,
+          "title": "Check Your Privilege: Designing Cloud Infrastructures According to the Least Privilege Principle"
+        },
+        {
+          "id": "https://hackernoon.com/if-you-have-a-goal-you-can-reach-it-nominee-nominee-yan-tsishko?source=rss",
+          "author": "Yan Tsishko",
+          "description": "Yan Tsishko is a chief software engineer at Oxagile. He believes Javascript/TypeScript is the most exciting technology & that frontend is the future of tech.",
+          "link": "https://hackernoon.com/if-you-have-a-goal-you-can-reach-it-nominee-nominee-yan-tsishko?source=rss",
+          "publishedOn": "2021-12-08T17:53:27.000Z",
+          "wordCount": 1026,
+          "title": "\"If You Have a Goal, You Can Reach it\" Nominee Nominee Yan Tsishko"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-use-zeet-to-take-your-devops-from-0-to-100?source=rss",
+          "author": "John Vester",
+          "description": "What happens when you combine an awesome idea with a driven leader? You get an exciting product, like Zeet, which automates your DevOps tasks.",
+          "link": "https://hackernoon.com/how-to-use-zeet-to-take-your-devops-from-0-to-100?source=rss",
+          "publishedOn": "2021-12-08T17:21:21.000Z",
+          "wordCount": 1034,
+          "title": "How to Use Zeet to Take Your Devops from 0 to 100"
+        },
+        {
+          "id": "https://hackernoon.com/whats-a-corporation-whats-a-dao-whats-the-big-deal-a-law-students-view?source=rss",
+          "author": "Sydney Forrest",
+          "description": "An easy to understand breakdown of what corporations, why they are being challenged, and what we are doing to change the way we do business.",
+          "link": "https://hackernoon.com/whats-a-corporation-whats-a-dao-whats-the-big-deal-a-law-students-view?source=rss",
+          "publishedOn": "2021-12-08T16:32:32.000Z",
+          "wordCount": 1032,
+          "title": "What's a corporation? What's a DAO? What's the big deal? A Law Student's View"
+        },
+        {
+          "id": "https://hackernoon.com/will-we-ever-use-meme-coins-for-payment-in-the-metaverse?source=rss",
+          "author": "Anndy Lian",
+          "description": "Memecoins could be another driver in the new metaverse. Who knows?  Let's explore further.",
+          "link": "https://hackernoon.com/will-we-ever-use-meme-coins-for-payment-in-the-metaverse?source=rss",
+          "publishedOn": "2021-12-08T14:57:30.000Z",
+          "wordCount": 1026,
+          "title": "Will We Ever Use Meme Coins for Payment in the Metaverse?"
+        },
+        {
+          "id": "https://hackernoon.com/7-ways-to-protect-your-router-from-hackers?source=rss",
+          "author": "Nathan Jack",
+          "description": "Since we are in the modern technological era, the internet has become an indispensable tool in our modern-day life. As we speak, we need it to communicate, work online, learn online and even do business online. When it comes to internet connectivity, there are many ways to get internet in your home. One of the best ways to access the internet at home or workplace is by investing in a router. With this device in place, you will be able to create a home network that can be used by wireless devices such as smart TVs, home appliances, IP cameras, and so much more.",
+          "link": "https://hackernoon.com/7-ways-to-protect-your-router-from-hackers?source=rss",
+          "publishedOn": "2021-12-08T14:42:19.000Z",
+          "wordCount": 2744,
+          "title": "7 Ways to Protect Your Router From Hackers"
+        },
+        {
+          "id": "https://hackernoon.com/students-learn-more-about-money-in-games-than-in-school?source=rss",
+          "author": "Mathew Georghiou",
+          "description": "How many young people do you know who saved up their money to buy a game? Here's why people are learning more about money in games than at school.",
+          "link": "https://hackernoon.com/students-learn-more-about-money-in-games-than-in-school?source=rss",
+          "publishedOn": "2021-12-08T13:15:58.000Z",
+          "wordCount": 970,
+          "title": "Students Learn More About Money in Games Than in School"
+        },
+        {
+          "id": "https://hackernoon.com/wtf-is-transcoding?source=rss",
+          "author": "Piyush Badkul",
+          "description": "Transcoding is the process of converting audio or video files from one encoding format to another in order to increase the number of compatible target devices.",
+          "link": "https://hackernoon.com/wtf-is-transcoding?source=rss",
+          "publishedOn": "2021-12-08T13:10:56.000Z",
+          "wordCount": 1014,
+          "title": "WTF is Transcoding?"
+        },
+        {
+          "id": "https://hackernoon.com/2022s-10-most-promising-startup-ideas?source=rss",
+          "author": "You are launched",
+          "description": "Are you considering launching a startup in 2022? We’ve put together ten innovative startup ideas that will inspire you to get started on your new business!",
+          "link": "https://hackernoon.com/2022s-10-most-promising-startup-ideas?source=rss",
+          "publishedOn": "2021-12-08T13:01:17.000Z",
+          "wordCount": 1027,
+          "title": "2022's 10 Most Promising Startup Ideas"
+        },
         {
           "id": "https://hackernoon.com/what-is-a-hard-fork-and-how-does-it-occur?source=rss",
           "author": "Bybit",
@@ -11624,6 +11903,15 @@
       "siteUrl": "https://alistapart.com",
       "articles": [
         {
+          "id": "https://alistapart.com/article/breaking-out-of-the-box/",
+          "author": "by",
+          "description": "CSS is about styling boxes. In fact, the whole web is made of boxes, from the browser viewport to elements on a page. But every once in a while a new feature comes along that makes us rethink our design approach.\nRound displays, for example, make it fun to play with circular clip areas. Mobile screen notches and virtual keyboards offer challenges to best organize content that stays clear of them. And dual screen or foldable devices make us rethink how to best use available space in a number of different device postures.\nSketches of a round display, a common rectangular mobile display, and a device with a foldable display.\n\n\n\nThese recent evolutions of the web platform made it both more challenging and more interesting to design products. They’re great opportunities for us to break out of o…",
+          "link": "https://alistapart.com/article/breaking-out-of-the-box/",
+          "publishedOn": "2021-12-09T15:00:00.000Z",
+          "wordCount": 3751,
+          "title": "Breaking Out of the Box"
+        },
+        {
           "id": "https://alistapart.com/article/how-to-sell-ux-research/",
           "author": "by",
           "description": "Do you find yourself designing screens with only a vague idea of how the things on the screen relate to the things elsewhere in the system? Do you leave stakeholder meetings with unclear directives that often seem to contradict previous conversations? You know a better understanding of user needs would help the team get clear on what you are actually trying to accomplish, but time and budget for research is tight. When it comes to asking for more direct contact with your users, you might feel like poor Oliver Twist, timidly asking, “Please, sir, I want some more.” \nHere’s the trick. You need to get stakeholders themselves to identify high-risk assumptions and hidden complexity, so that they become just as motivated as you to get answers from users. Basically, you need to make them think it…",
@@ -11648,6 +11936,26 @@
       "feedUrl": "http://feeds.feedburner.com/helloacm?format=xml",
       "siteUrl": "https://helloacm.com",
       "articles": [
+        {
+          "id": "https://helloacm.com/?p=148026",
+          "author": "ACMer",
+          "description": "Given a lowercase alphabet string s, return the index of the first recurring character in it. If there are no recurring characters, return -1. Constraints n ≤ 100,000 where n is the length of s...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-find-first-recurring-character-using-hash-table-set/",
+          "publishedOn": "2021-12-09T20:49:13.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Find First Recurring Character using Hash Table/Set",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=148010",
+          "author": "ACMer",
+          "description": "You are given a list of unique strings genes where each element has the same length and contains characters “A”, “C”, “G” and/or “T”. If strings a and...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-find-gene-mutation-groups-via-unionfind-algorithm-disjoint-set/",
+          "publishedOn": "2021-12-09T09:20:47.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Find Gene Mutation Groups via UnionFind Algorithm (Disjoint Set)",
+          "itunes": {}
+        },
         {
           "id": "https://helloacm.com/?p=147991",
           "author": "ACMer",
@@ -12435,6 +12743,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=510578",
+          "author": "Kristina Panos",
+          "description": "[NanoRobotGeek] had a single glorious weekend between the end of the term and the start of exams. Did they buy a keg and party it up? No, in fact, quite …read more",
+          "link": "https://hackaday.com/2021/12/09/beam-bird-pendant-really-chirps/",
+          "publishedOn": "2021-12-10T00:00:38.000Z",
+          "wordCount": 1174,
+          "title": "BEAM Bird Pendant Really Chirps"
+        },
+        {
+          "id": "https://hackaday.com/?p=510977",
+          "author": "Dan Maloney",
+          "description": "If you need a lens for a project, chances are pretty good that you pick up a catalog or look up an optics vendor online and just order something. Practical, …read more",
+          "link": "https://hackaday.com/2021/12/09/the-ins-and-outs-of-casting-lenses-from-epoxy/",
+          "publishedOn": "2021-12-09T21:00:54.000Z",
+          "wordCount": 1265,
+          "title": "The Ins and Outs of Casting Lenses from Epoxy"
+        },
+        {
+          "id": "https://hackaday.com/?p=509518",
+          "author": "Jenny List",
+          "description": "One of the hottest topics in the world of scientific publishing over the last couple of decades has been the growing pressure to release the fruits of public-funded scientific research …read more",
+          "link": "https://hackaday.com/2021/12/09/could-india-be-the-crucial-battleground-for-open-access-to-scientific-research/",
+          "publishedOn": "2021-12-09T19:30:46.000Z",
+          "wordCount": 1240,
+          "title": "Could India Be The Crucial Battleground For Open Access To Scientific Research?"
+        },
+        {
+          "id": "https://hackaday.com/?p=511193",
+          "author": "Mike Szczys",
+          "description": "The Laser Interferometer Gravitational-Wave Observatory (LIGO) is a huge installation measured in kilometers that is listening for wrinkles in space-time. Pulling this off is a true story of hardware and …read more",
+          "link": "https://hackaday.com/2021/12/09/keynote-video-dr-keith-thorne-explains-the-extreme-engineering-of-the-ligo-hardware/",
+          "publishedOn": "2021-12-09T18:01:17.000Z",
+          "wordCount": 1754,
+          "title": "Keynote Video: Dr. Keith Thorne Explains the Extreme Engineering of the LIGO Hardware"
+        },
+        {
+          "id": "https://hackaday.com/?p=424034",
+          "author": "Orlando Hoilett",
+          "description": "Oftentimes, the feature set for our typical fitness-focused wearables feels a bit empty. Push notifications on your wrist? OK, fine. Counting your steps? Sure, why not. But how useful are …read more",
+          "link": "https://hackaday.com/2021/12/09/wearable-sensor-for-detecting-substance-use-disorder/",
+          "publishedOn": "2021-12-09T16:30:14.000Z",
+          "wordCount": 1706,
+          "title": "Wearable Sensor for Detecting Substance Use Disorder"
+        },
+        {
+          "id": "https://hackaday.com/?p=509397",
+          "author": "Maya Posch",
+          "description": "Throughout history, the human body has been the subject of endless scrutiny and wonder. Many puzzled over the function of all these organs and fluids found inside. This included the …read more",
+          "link": "https://hackaday.com/2021/12/09/the-challenges-of-finding-a-substitute-for-human-blood/",
+          "publishedOn": "2021-12-09T15:01:32.000Z",
+          "wordCount": 3001,
+          "title": "The Challenges Of Finding A Substitute For Human Blood"
+        },
+        {
+          "id": "https://hackaday.com/?p=510970",
+          "author": "Dan Maloney",
+          "description": "Traditional lensmaking is a grind — literally. One starts with a piece of glass, rubs it against an abrasive surface to wear away the excess bits, and eventually gets it …read more",
+          "link": "https://hackaday.com/2021/12/09/molding-complex-optics-in-a-completely-fluid-system/",
+          "publishedOn": "2021-12-09T12:00:44.000Z",
+          "wordCount": 2490,
+          "title": "Molding Complex Optics in a Completely Fluid System"
+        },
         {
           "id": "https://hackaday.com/?p=510226",
           "author": "Ryan Flowers",
@@ -16835,6 +17206,76 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "E6C5759F-68B9-439B-94677946E27E86AE",
+          "author": "Heather Handley, The Conversation US",
+          "description": "External influences on volcanoes can make predicting unrest more difficult\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/deadly-indonesia-eruption-was-triggered-by-heavy-rains/",
+          "publishedOn": "2021-12-09T20:30:00.000Z",
+          "wordCount": null,
+          "title": "Deadly Indonesia Eruption Was Triggered by Heavy Rains",
+          "itunes": {}
+        },
+        {
+          "id": "4516B5FA-B5B2-4FB2-A659AB0B773FC531",
+          "author": "Sabine Hossenfelder, Tim Palmer",
+          "description": "A collaborative center will help climate scientists build better models for prevention and mitigation\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/an-international-institute-will-help-us-manage-climate-change/",
+          "publishedOn": "2021-12-09T20:00:00.000Z",
+          "wordCount": null,
+          "title": "An International Institute Will Help Us Manage Climate Change",
+          "itunes": {}
+        },
+        {
+          "id": "50E0A79B-D0D4-4D09-9DD4D12867343B61",
+          "author": "John Fialka, E&E News",
+          "description": "A major new report from the National Academies examines options to store carbon in the oceans\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/moving-co2-from-air-to-oceans-may-be-necessary-to-slow-warming/",
+          "publishedOn": "2021-12-09T19:30:00.000Z",
+          "wordCount": null,
+          "title": "Moving CO2 from Air to Oceans May Be Necessary to Slow Warming",
+          "itunes": {}
+        },
+        {
+          "id": "83F1BA2F-7A5F-4CD7-95CAA54625FDD57A",
+          "author": "Ewen Callaway, Nature magazine",
+          "description": "The rapid spread of new variants such as Omicron offers clues to how SARS-CoV-2 is adapting and how the pandemic will play out over the next several months\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/omicron-is-likely-to-weaken-covid-vaccine-protection-but-boosters-could-restore-it/",
+          "publishedOn": "2021-12-09T18:00:00.000Z",
+          "wordCount": null,
+          "title": "Omicron Is Likely to Weaken COVID Vaccine Protection--But Boosters Could Restore It",
+          "itunes": {}
+        },
+        {
+          "id": "CC83AF86-5D63-47F1-A8DA569DBA0256D4",
+          "author": "Bret Stetka",
+          "description": "Waking yourself from the twilight state just before sleep may help you to solve a challenging problem, a study shows\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/thomas-edisons-naps-inspire-a-way-to-spark-your-own-creativity/",
+          "publishedOn": "2021-12-09T16:15:00.000Z",
+          "wordCount": null,
+          "title": "Spark Creativity with Thomas Edison's Napping Technique",
+          "itunes": {}
+        },
+        {
+          "id": "F8D3FA64-5187-44BB-A8D79BF7940E5ADF",
+          "author": "Andrea Gawrylewski",
+          "description": "-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/on-the-heels-of-a-light-beam1/",
+          "publishedOn": "2021-12-09T14:30:00.000Z",
+          "wordCount": null,
+          "title": "On the Heels of a Light Beam",
+          "itunes": {}
+        },
+        {
+          "id": "54798BC2-F569-4502-9F78E8854B73F84E",
+          "author": "Ewen Callaway, Nature magazine",
+          "description": "The rapid spread of new variants such as Omicron offers clues to how SARS-CoV-2 is adapting and how the pandemic will play out over the next several months\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/covid-variants-hint-at-how-the-virus-will-evolve/",
+          "publishedOn": "2021-12-09T11:45:00.000Z",
+          "wordCount": null,
+          "title": "COVID Variants Hint at How the Virus Will Evolve",
+          "itunes": {}
+        },
+        {
           "id": "60F4DA87-ACF5-4266-BFE550B6ECF4BD65",
           "author": "Sara Schonhardt, E&E News",
           "description": "Those with higher incomes are also responsible for more emissions than those with lower incomes\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -20866,6 +21307,51 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=148483",
+          "author": "Mike Vizard",
+          "description": "Sentry this week announced it has acquired Specto, a provider of a set of tools for analyzing the performance of mobile applications. As the number of mobile applications being deployed continues to expand, developers are being asked to manage them as part of a general shift left that requires them to take on more accountability […]\nThe post Sentry Acquires Specto to Add Analytics Tool for Observability appeared first on DevOps.com.",
+          "link": "https://devops.com/sentry-acquires-specto-to-add-analytics-tool-for-observability/",
+          "publishedOn": "2021-12-09T19:01:37.000Z",
+          "wordCount": 992,
+          "title": "Sentry Acquires Specto to Add Analytics Tool for Observability"
+        },
+        {
+          "id": "https://devops.com/?p=148481",
+          "author": "Frank Ohlhorst",
+          "description": "The December 7, 2021 Amazon Web Services (AWS) outage severely disrupted services from a wide range of businesses for more than five hours and highlighted just how reliant businesses have become on internet-delivered services. The outage mostly impacted web services in the eastern U.S., yet the implications are universal: It’s a reminder that many businesses […]\nThe post AWS Outage Exposes Weaknesses of DevOps Resilience appeared first on DevOps.com.",
+          "link": "https://devops.com/aws-outage-exposes-weaknesses-of-devops-resilience/",
+          "publishedOn": "2021-12-09T18:11:21.000Z",
+          "wordCount": 1265,
+          "title": "AWS Outage Exposes Weaknesses of DevOps Resilience"
+        },
+        {
+          "id": "https://devops.com/?p=148465",
+          "author": "Mike Vizard",
+          "description": "Vercel today announced it has acquired Turborepo, a provider of a build system for JavaScript and TypeScript applications that provides developers with access to an easy-to-use monorepository for their code. In the wake of that acquisition, the command line interface (CLI) for accessing Turborepo will now be available under an open source license. Jared Palmer, […]\nThe post Vercel Acquires Turborepo to Gain Build System appeared first on DevOps.com.",
+          "link": "https://devops.com/vercel-acquires-turborepo-to-gain-build-system/",
+          "publishedOn": "2021-12-09T14:07:34.000Z",
+          "wordCount": 1048,
+          "title": "Vercel Acquires Turborepo to Gain Build System"
+        },
+        {
+          "id": "https://devops.com/?p=148449",
+          "author": "Richi Jennings",
+          "description": "In this week’s The Long View: Amazon Web Services falls on its face, Linux’s move to Rust takes the next step, and the FTC stabs another fatal wound in the horrible Arm/Nvidia deal.\nThe post AWS Outage Outrage | Rusty Linux | ARM Latest appeared first on DevOps.com.",
+          "link": "https://devops.com/aws-outage-outrage-rusty-linux-arm-latest/",
+          "publishedOn": "2021-12-09T13:05:25.000Z",
+          "wordCount": 1667,
+          "title": "AWS Outage Outrage | Rusty Linux | ARM Latest"
+        },
+        {
+          "id": "https://devops.com/?p=148444",
+          "author": "ROELBOB",
+          "description": "The post Literary Value appeared first on DevOps.com.",
+          "link": "https://devops.com/literary-value/",
+          "publishedOn": "2021-12-09T07:00:29.000Z",
+          "wordCount": 438,
+          "title": "Literary Value"
+        },
+        {
           "id": "https://devops.com/?p=148412",
           "author": "Mike Vizard",
           "description": "A global annual survey of 2,200 developers published today by RapidAPI, a provider of an application programming interface (API) hub, finds digital business transformation initiatives have led to an increase in reliance on external-facing APIs. According to the survey results, nearly three-quarters of developers (74%) are using APIs for internal applications. However, nearly half (49%) […]\nThe post Digital Business Transformation Driving More API Adoption appeared first on DevOps.com.",
@@ -22646,6 +23132,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=111137",
+          "author": "Kelsey Houston-Edwards",
+          "description": "More than 30 years ago, Andreas Floer changed geometry. Now, two mathematicians have finally figured out how to extend his revolutionary perspective.             \nThe post Mathematicians Transcend Geometric Theory of Motion first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/mathematicians-transcend-geometric-theory-of-motion-20211209/",
+          "publishedOn": "2021-12-09T15:23:48.000Z",
+          "wordCount": null,
+          "title": "Mathematicians Transcend Geometric Theory of Motion",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=111127",
           "author": "Katie McCormick",
           "description": "The “gravitational memory effect” predicts that a passing gravitational wave should forever alter the structure of space-time. Physicists have linked the phenomenon to fundamental cosmic symmetries and a potential solution to the black hole information paradox.            \nThe post Gravitational Waves Should Permanently Distort Space-Time first appeared on Quanta Magazine",
@@ -23092,6 +23588,24 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66290",
+          "author": "Nathan Yau",
+          "description": "What happens when you spend too much time with a dataset.\nTags: feedback",
+          "link": "https://flowingdata.com/2021/12/09/process-168-input/",
+          "publishedOn": "2021-12-09T19:30:18.000Z",
+          "wordCount": 281,
+          "title": "✚ Get Input – The Process 168"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66281",
+          "author": "Nathan Yau",
+          "description": "More money on average means bigger houses, more expensive cars, and fancier restaurants. But what if you look at relative spending instead of total dollars?\nTags: spending",
+          "link": "https://flowingdata.com/2021/12/09/what-people-spend-most-of-their-money-on-by-income-group-relatively-speaking/",
+          "publishedOn": "2021-12-09T12:25:31.000Z",
+          "wordCount": 481,
+          "title": "What People Spend Most of Their Money On, By Income Group, Relatively Speaking"
+        },
         {
           "id": "https://flowingdata.com/?p=66275",
           "author": "Nathan Yau",
