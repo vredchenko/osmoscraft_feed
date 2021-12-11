@@ -40,6 +40,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=356088",
+          "author": "Chris Coyier",
+          "description": "I wanted to write down what I think the reasons are here in December of 2021 so that we might revisit it from time to time in the future and see if these reasons are still relevant. I’m a web …",
+          "link": "https://css-tricks.com/why-would-a-business-push-a-native-app-over-a-website/",
+          "publishedOn": "2021-12-10T22:09:56.000Z",
+          "wordCount": 2224,
+          "title": "Why would a business push a native app over a website?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358575",
+          "author": "Chris Coyier",
+          "description": "Say you’ve got a two-column CSS grid and you want one of those columns to behave like position: sticky;. There is nothing stopping you from doing that. But the default height for those two columns is going to be …",
+          "link": "https://css-tricks.com/using-position-sticky-with-css-grid/",
+          "publishedOn": "2021-12-10T18:07:18.000Z",
+          "wordCount": 468,
+          "title": "Using Position Sticky With CSS Grid"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357373",
+          "author": "Stephanie Eckles",
+          "description": "Take two minutes right now and visit your current project in a browser. Then, using only the Tab key, you should be able to navigate between interactive elements including buttons, links, and form elements.\nIf you are sighted, you should…",
+          "link": "https://css-tricks.com/standardizing-focus-styles-with-css-custom-properties/",
+          "publishedOn": "2021-12-10T16:00:48.000Z",
+          "wordCount": 1187,
+          "title": "Standardizing Focus Styles With CSS Custom Properties"
+        },
+        {
           "id": "https://css-tricks.com/?p=358203",
           "author": "Chris Coyier",
           "description": "Quick hits! There is a new web API called EyeDropper:\nif ('EyeDropper' in window) {\n  const eyeDropper = new EyeDropper();\n  try {\n    // This has gotta be triggered by a user interaction,\n    // so consider this pseudo-code.\n    const result \n…",
@@ -1450,6 +1477,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "6170b9fdd48e1707b6d79422",
+          "author": null,
+          "description": "Building an app is a difficult task in itself. From conceptualization, to market research, design, and development, it takes a whole lot of resources. But if you are making something for the public, you know building it is only half of the work, right? If you want your app to",
+          "link": "https://www.freecodecamp.org/news/how-to-market-your-mobile-app-on-a-budget/",
+          "publishedOn": "2021-12-10T21:36:23.000Z",
+          "wordCount": 1543,
+          "title": "How to Market Your Mobile App On a Budget"
+        },
+        {
+          "id": "61b2b70f946db661defb9a67",
+          "author": null,
+          "description": "In this article, we'll learn to build a Graphical User Interface (GUI) Quiz Application using the Tkinter Python built-in module.  The task is to ask multiple-choice questions, collect user answers, and finally display the results.  Before coding the GUI, we'll first see how to fetch multiple-choice questions, their correct answers,",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-gui-quiz-application-using-tkinter-and-open-trivia-db/",
+          "publishedOn": "2021-12-10T21:29:54.000Z",
+          "wordCount": 3049,
+          "title": "How to Build a GUI Quiz App Using Tkinter and Open Trivia DB"
+        },
+        {
+          "id": "6165c56780d82d07c45a372a",
+          "author": null,
+          "description": "Have you ever needed an icon for your website, but you couldn't quite find the right one? Or perhaps you wanted to have a simple diagram, but didn't want to learn a whole new library just for that?  Well, good news – you can do all that and more without ever",
+          "link": "https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/",
+          "publishedOn": "2021-12-10T19:13:16.000Z",
+          "wordCount": 2547,
+          "title": "SVG Tutorial – How to Code Images with 7 Examples"
+        },
+        {
+          "id": "61b07e0b946db661defb8929",
+          "author": null,
+          "description": "How to print out information is one of the first things you learn as a beginner programmer.  This article goes over what you need to know about printing in Python, and we'll look at plenty of code examples along the way.  Let's get started!  What is print used for? Printing",
+          "link": "https://www.freecodecamp.org/news/print-statement-in-python-how-to-print-with-example-syntax-command/",
+          "publishedOn": "2021-12-10T17:45:08.000Z",
+          "wordCount": 1757,
+          "title": "Print Statement in Python – How to Print with Example Syntax Command"
+        },
         {
           "id": "61b20925946db661defb946e",
           "author": null,
@@ -3483,6 +3546,177 @@
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
         {
+          "id": "https://hackernoon.com/top-java-libraries-for-automation-testing-in-2022?source=rss",
+          "author": "Sergei Shaikin",
+          "description": "Automating your Java testing will help you become more efficient and effective. These Java Libraries are likely to be heavily used for automation testing.",
+          "link": "https://hackernoon.com/top-java-libraries-for-automation-testing-in-2022?source=rss",
+          "publishedOn": "2021-12-09T22:39:23.000Z",
+          "wordCount": 1012,
+          "title": "Top Java Libraries for Automation Testing in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/features-to-leverage-while-implementing-azure-devops-in-your-organization?source=rss",
+          "author": "sarrahpitaliya",
+          "description": "Do you know what's Azure DevOps and how can your business leverage its features while implementing them in your organization? Let's take a read at this blog.",
+          "link": "https://hackernoon.com/features-to-leverage-while-implementing-azure-devops-in-your-organization?source=rss",
+          "publishedOn": "2021-12-09T22:07:38.000Z",
+          "wordCount": 2137,
+          "title": "Features to Leverage While Implementing Azure DevOps in Your Organization"
+        },
+        {
+          "id": "https://hackernoon.com/what-programming-language-should-i-learn-first?source=rss",
+          "author": "Favour Amadi",
+          "description": "As an absolute beginner, which programming language should I learn first?",
+          "link": "https://hackernoon.com/what-programming-language-should-i-learn-first?source=rss",
+          "publishedOn": "2021-12-09T21:49:46.000Z",
+          "wordCount": 2085,
+          "title": "What Programming Language Should I Learn First?"
+        },
+        {
+          "id": "https://hackernoon.com/stream-and-display-data-in-realtime-with-materialize-and-adonis?source=rss",
+          "author": "Bobby Iliev",
+          "description": "In this tutorial, we are going to build a web application using AdonisJS and integrate it with Materialize to create a real-time dashboard",
+          "link": "https://hackernoon.com/stream-and-display-data-in-realtime-with-materialize-and-adonis?source=rss",
+          "publishedOn": "2021-12-09T20:17:49.000Z",
+          "wordCount": 930,
+          "title": "Stream and Display Data in Realtime with Materialize and Adonis"
+        },
+        {
+          "id": "https://hackernoon.com/implement-a-systemd-service-on-a-flask-api?source=rss",
+          "author": "Nuh Y.",
+          "description": "Create a systemd service for Flask API(for GNU/Linux distros)",
+          "link": "https://hackernoon.com/implement-a-systemd-service-on-a-flask-api?source=rss",
+          "publishedOn": "2021-12-09T20:07:12.000Z",
+          "wordCount": 1021,
+          "title": "Implement a Systemd Service on a Flask API"
+        },
+        {
+          "id": "https://hackernoon.com/build-your-next-ecommerce-store-on-nodejs?source=rss",
+          "author": "Katarina Harbuzava",
+          "description": "Top easiest ways to make an eCommerce store with Node.js. Shopify vs. buit-for-you solution.",
+          "link": "https://hackernoon.com/build-your-next-ecommerce-store-on-nodejs?source=rss",
+          "publishedOn": "2021-12-09T20:00:45.000Z",
+          "wordCount": 3183,
+          "title": "Build Your Next eCommerce Store on NodeJS"
+        },
+        {
+          "id": "https://hackernoon.com/granger-causality-and-the-principle-of-cause-and-effect-explained?source=rss",
+          "author": "Nikola O.",
+          "description": "... in a world full of data, we can understand the impact with clever methods. Meet Granger causality.",
+          "link": "https://hackernoon.com/granger-causality-and-the-principle-of-cause-and-effect-explained?source=rss",
+          "publishedOn": "2021-12-09T15:43:21.000Z",
+          "wordCount": 2022,
+          "title": "Granger Causality: Principle of Cause and Effect Explained"
+        },
+        {
+          "id": "https://hackernoon.com/token-transfers-using-ibc?source=rss",
+          "author": "Cosmos - Internet of Blockchains",
+          "description": "Passing of Proposal 41 marks a momentous milestone in the evolution of the Cosmos ecosystem & the vision to realize the IBC Protocol as foundation.",
+          "link": "https://hackernoon.com/token-transfers-using-ibc?source=rss",
+          "publishedOn": "2021-12-09T14:33:19.000Z",
+          "wordCount": 2303,
+          "title": "Token Transfers Using IBC"
+        },
+        {
+          "id": "https://hackernoon.com/tetris-atari-st-retro-game-review?source=rss",
+          "author": "Stefano Pavone",
+          "description": "Tetris hits the 16-bit computers... but can it surpass its 8-bit genesis and become something greater?",
+          "link": "https://hackernoon.com/tetris-atari-st-retro-game-review?source=rss",
+          "publishedOn": "2021-12-09T13:56:07.000Z",
+          "wordCount": 955,
+          "title": "Tetris (Atari ST) Retro Game Review"
+        },
+        {
+          "id": "https://hackernoon.com/facebook-vs-decentralized-projects-who-will-win-the-metaverse-war?source=rss",
+          "author": "Leo Cryptus",
+          "description": "Facebook's Upcoming Metaverse: the Caveats of Centralization and Why Decentralized Projects Will Dominate the Market in the Long Run",
+          "link": "https://hackernoon.com/facebook-vs-decentralized-projects-who-will-win-the-metaverse-war?source=rss",
+          "publishedOn": "2021-12-09T12:44:40.000Z",
+          "wordCount": 891,
+          "title": "Facebook vs. Decentralized Projects: Who Will Win the 'Metaverse War'?"
+        },
+        {
+          "id": "https://hackernoon.com/how-the-agi-interface-is-implemented-in-asterisk?source=rss",
+          "author": "Piyush Badkul",
+          "description": "Learn about the Asterisk Gateway Interface which allows the platform to make use of its unique properties as a telecommunications technology provider.",
+          "link": "https://hackernoon.com/how-the-agi-interface-is-implemented-in-asterisk?source=rss",
+          "publishedOn": "2021-12-09T12:38:31.000Z",
+          "wordCount": 1022,
+          "title": "How the AGI Interface Is Implemented in Asterisk"
+        },
+        {
+          "id": "https://hackernoon.com/how-i-built-a-spring-boot-application-that-handles-requests-for-a-telegram-bot?source=rss",
+          "author": "Viacheslav Aksenov",
+          "description": "I chose Spring Cloud for the architecture of my Kotlin pet project and it was right. What conclusions have I drawn?",
+          "link": "https://hackernoon.com/how-i-built-a-spring-boot-application-that-handles-requests-for-a-telegram-bot?source=rss",
+          "publishedOn": "2021-12-09T12:34:43.000Z",
+          "wordCount": 1014,
+          "title": "How I Built a Spring Boot Application that Handles Requests for a Telegram Bot"
+        },
+        {
+          "id": "https://hackernoon.com/how-offering-interim-staffing-positions-saves-businesses-time-and-money?source=rss",
+          "author": "SEO Club",
+          "description": "In the many walks of life, you may have heard of interim management recruitment or interim staffing. Whichever came to your ears, the discussion must have been relevant to what I want us to understand today.",
+          "link": "https://hackernoon.com/how-offering-interim-staffing-positions-saves-businesses-time-and-money?source=rss",
+          "publishedOn": "2021-12-09T12:27:17.000Z",
+          "wordCount": 1790,
+          "title": "How Offering Interim Staffing Positions Saves Businesses Time and Money"
+        },
+        {
+          "id": "https://hackernoon.com/on-fintech-trends-and-contactless-technology-startup-interview-with-daumantas-barauskas?source=rss",
+          "author": "Genome",
+          "description": "Daumantas Barauskas, COO of Genome, shares with us Genome's origin story, technology to be excited about and the future of fintech in the Startups interview.",
+          "link": "https://hackernoon.com/on-fintech-trends-and-contactless-technology-startup-interview-with-daumantas-barauskas?source=rss",
+          "publishedOn": "2021-12-09T12:10:47.000Z",
+          "wordCount": 905,
+          "title": "On Fintech Trends and Contactless Technology: Startup Interview with Daumantas Barauskas"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-reverse-a-sentence-using-recursion-in-c-and-java?source=rss",
+          "author": "Prashanth",
+          "description": "Understand how to reverse a string using recursion in C++ and Java",
+          "link": "https://hackernoon.com/how-to-reverse-a-sentence-using-recursion-in-c-and-java?source=rss",
+          "publishedOn": "2021-12-09T12:05:08.000Z",
+          "wordCount": 1022,
+          "title": "How to Reverse a Sentence Using Recursion in C++ and Java"
+        },
+        {
+          "id": "https://hackernoon.com/the-most-promising-ecommerce-business-ideas-for-2022?source=rss",
+          "author": "Purnima",
+          "description": "Considering the demand and opportunities to expand here are the top eCommerce business ideas to start with in the year 2022.",
+          "link": "https://hackernoon.com/the-most-promising-ecommerce-business-ideas-for-2022?source=rss",
+          "publishedOn": "2021-12-09T11:11:58.000Z",
+          "wordCount": 913,
+          "title": "The Most Promising eCommerce Business Ideas for 2022"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-use-consul-as-a-host-resolver-in-grpc?source=rss",
+          "author": "Vladislav Gukasov",
+          "description": "Recently, I faced with lack of documentation when I wanted to use Consul as a host resolver in gRPC connections. That’s why I wanted to write this story.",
+          "link": "https://hackernoon.com/how-to-use-consul-as-a-host-resolver-in-grpc?source=rss",
+          "publishedOn": "2021-12-09T10:57:54.000Z",
+          "wordCount": 906,
+          "title": "How to Use Consul as a Host Resolver in gRPC"
+        },
+        {
+          "id": "https://hackernoon.com/5-metrics-to-measure-the-effectiveness-of-your-affiliate-and-influencer-marketing-campaigns?source=rss",
+          "author": "Klara",
+          "description": "With billions of users joining social media platforms every day, influencers have a great chance to earn and create. How will you measure your campaign success?",
+          "link": "https://hackernoon.com/5-metrics-to-measure-the-effectiveness-of-your-affiliate-and-influencer-marketing-campaigns?source=rss",
+          "publishedOn": "2021-12-09T10:49:22.000Z",
+          "wordCount": 2050,
+          "title": "5+ Metrics to Measure the Effectiveness of Your Affiliate and Influencer Marketing Campaigns"
+        },
+        {
+          "id": "https://hackernoon.com/best-gaming-tablets?source=rss",
+          "author": "Top Tech Companies",
+          "description": "Interested in playing your favorite mobile games on a bigger screen? Get one of the best gaming tablets.",
+          "link": "https://hackernoon.com/best-gaming-tablets?source=rss",
+          "publishedOn": "2021-12-09T10:08:54.000Z",
+          "wordCount": 1054,
+          "title": "Play Your Favorite Games On the Go With the Best Gaming Tablets"
+        },
+        {
           "id": "https://hackernoon.com/scan-sensitive-data-using-the-nightfall-api-in-40-lines-of-code?source=rss",
           "author": "Jillian L.",
           "description": "Create and deploy a server that scans files for sensitive data (like credit card numbers) with Nightfall's data loss prevention APIs.",
@@ -3580,6 +3814,15 @@
           "publishedOn": "2021-12-08T20:04:47.000Z",
           "wordCount": 1936,
           "title": "Python for Beginners, Part 3: The Turtle Module"
+        },
+        {
+          "id": "https://hackernoon.com/python-for-beginners-part-4-interactive-shell-vs-script?source=rss",
+          "author": "Clever Programmer",
+          "description": "We will discuss the difference between an interactive python terminal vs. A python script.",
+          "link": "https://hackernoon.com/python-for-beginners-part-4-interactive-shell-vs-script?source=rss",
+          "publishedOn": "2021-12-08T20:04:20.000Z",
+          "wordCount": 2002,
+          "title": "Python for Beginners, Part 4: Interactive Shell vs. Script"
         },
         {
           "id": "https://hackernoon.com/check-your-privilege-designing-cloud-infrastructures-according-to-the-least-privilege-principle?source=rss",
@@ -11937,6 +12180,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=148040",
+          "author": "ACMer",
+          "description": "Given a list of integers nums, return the largest integer k where k and -k both exist in nums (they can be the same integer). If there’s no such integer, return -1. Constraints n ≤ 100,000...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-finding-largest-k-value-with-its-negative-in-array-using-hash-table-set-k-and-k/",
+          "publishedOn": "2021-12-10T14:27:29.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Finding Largest K Value with its Negative in Array using Hash Table/Set (K and -K)",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=148026",
           "author": "ACMer",
           "description": "Given a lowercase alphabet string s, return the index of the first recurring character in it. If there are no recurring characters, return -1. Constraints n ≤ 100,000 where n is the length of s...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -12725,16 +12978,6 @@
           "wordCount": null,
           "title": "Teaching Kids Programming – Dynamic Programming Algorithm to Calculate Largest Square Submatrix",
           "itunes": {}
-        },
-        {
-          "id": "https://helloacm.com/?p=146711",
-          "author": "ACMer",
-          "description": "You are given a list of list of integers intervals where each element contains the inclusive interval . Return the most frequently occurring number in the intervals. If there are ties, return the...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
-          "link": "https://helloacm.com/teaching-kids-programming-line-sweeping-algorithm-to-compute-the-most-frequent-number-in-intervals/",
-          "publishedOn": "2021-09-11T20:46:43.000Z",
-          "wordCount": null,
-          "title": "Teaching Kids Programming – Line Sweeping Algorithm to Compute the Most Frequent Number in Intervals",
-          "itunes": {}
         }
       ]
     },
@@ -12743,6 +12986,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=510360",
+          "author": "Orlando Hoilett",
+          "description": "This latest PCB artwork comes to you courtesy of [Arnov]. His Naruto nightlight is definitely going to get your anime-loving friends’ attention. The LED illumination styles are controlled by an …read more",
+          "link": "https://hackaday.com/2021/12/10/ninja-art-pcb-nightlight-jutsu/",
+          "publishedOn": "2021-12-11T00:00:51.000Z",
+          "wordCount": 1205,
+          "title": "Ninja Art: PCB Nightlight Jutsu!"
+        },
+        {
+          "id": "https://hackaday.com/?p=511046",
+          "author": "Al Williams",
+          "description": "There are many ways to create printed circuit boards, but one of the more traditional ways involves using boards coated with photoresist and exposing the desired artwork on the board, …read more",
+          "link": "https://hackaday.com/2021/12/10/lasers-make-pcbs-the-old-fashioned-way/",
+          "publishedOn": "2021-12-10T21:00:40.000Z",
+          "wordCount": 1814,
+          "title": "Lasers Make PCBs the Old Fashioned Way"
+        },
+        {
+          "id": "https://hackaday.com/?p=509915",
+          "author": "Jenny List",
+          "description": "Contactless payment by means of NFC-enabled bank cards has made our everyday transactions far more convenient over the last decade, but there still remains the tedious task of finding the …read more",
+          "link": "https://hackaday.com/2021/12/10/an-nfc-antenna-ring-with-a-chip-as-its-jewel/",
+          "publishedOn": "2021-12-10T19:30:42.000Z",
+          "wordCount": 1567,
+          "title": "An NFC Antenna Ring With A Chip As Its Jewel"
+        },
+        {
+          "id": "https://hackaday.com/?p=511008",
+          "author": "Mike Szczys",
+          "description": "I have decided to make a career move and have accepted a position as Developer Relations Engineer at Golioth.io. I’m happy to announce that Elliot Williams will be the next …read more",
+          "link": "https://hackaday.com/2021/12/10/today-is-my-last-day-at-hackaday-thanks-for-all-the-hacks/",
+          "publishedOn": "2021-12-10T18:01:50.000Z",
+          "wordCount": 3755,
+          "title": "Today Is My Last Day at Hackaday; Thanks for All the Hacks!"
+        },
+        {
+          "id": "https://hackaday.com/?p=511286&preview=true&preview_id=511286",
+          "author": "Mike Szczys",
+          "description": "Hackaday editors Elliot Williams and Mike Szczys get caught up on the week that was. People go to great lengths for video game saves, but this Pokemon hack that does …read more",
+          "link": "https://hackaday.com/2021/12/10/hackaday-podcast-148-pokemon-trades-anniversary-ipod-prototype-stupid-satellite-tricks-and-led-strip-sensors/",
+          "publishedOn": "2021-12-10T17:00:06.000Z",
+          "wordCount": 1308,
+          "title": "Hackaday Podcast 148: Pokemon Trades, Anniversary iPod Prototype, Stupid Satellite Tricks, and LED Strip Sensors"
+        },
+        {
+          "id": "https://hackaday.com/?p=509662",
+          "author": "Rich Hawkes",
+          "description": "The relative ease of building the individual components that make up an analog synth make it very tempting to DIY your own. That’s what [Albert Nyström] did and the result …read more",
+          "link": "https://hackaday.com/2021/12/10/diy-analog-synth-looks-like-fun/",
+          "publishedOn": "2021-12-10T16:00:00.000Z",
+          "wordCount": 1337,
+          "title": "DIY Analog Synth Looks Like Fun"
+        },
+        {
+          "id": "https://hackaday.com/?p=511188",
+          "author": "Jonathan Bennett",
+          "description": "Researchers at f-secure have developed an impressive new attack, leveraging HP printers as an unexpected attack surface. Printing Shellz (PDF) is a one-click attack, where simply visiting a malicious webpage …read more",
+          "link": "https://hackaday.com/2021/12/10/this-week-in-security-printing-shellz-ms-officecmd-and-ai-security/",
+          "publishedOn": "2021-12-10T15:00:10.000Z",
+          "wordCount": 2566,
+          "title": "This Week in Security: Printing Shellz, ms-officecmd, And AI Security"
+        },
         {
           "id": "https://hackaday.com/?p=510578",
           "author": "Kristina Panos",
@@ -17206,6 +17512,66 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "64CD515A-E1B3-4EB5-A6C6F089165078C8",
+          "author": "Avery Ellfeldt, E&E News",
+          "description": "Higher temperatures and a dearth of snow is extending the fire season\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/december-fires-raise-concerns-over-remarkable-colorado-drought/",
+          "publishedOn": "2021-12-10T22:00:00.000Z",
+          "wordCount": null,
+          "title": "December Fires Raise Concerns Over Remarkable Colorado Drought",
+          "itunes": {}
+        },
+        {
+          "id": "037AA572-5C6D-41BD-A2EC64EEEFB97EE0",
+          "author": "Naomi Oreskes",
+          "description": "Women are investigating critical climate crisis problems such as the stability of giant ice sheets\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/once-shunned-in-antarctica-female-scientists-are-now-doing-crucial-polar-research/",
+          "publishedOn": "2021-12-10T20:00:00.000Z",
+          "wordCount": null,
+          "title": "Once Shunned in Antarctica, Female Scientists Are Now Doing Crucial Polar Research",
+          "itunes": {}
+        },
+        {
+          "id": "C22D137B-CCD7-479F-8C6823374EE3BB8C",
+          "author": "Prachi Patel",
+          "description": "The virtual robots look weird, but they get the job done\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/evolution-gym-sculpts-novel-robot-bodies-and-brains/",
+          "publishedOn": "2021-12-10T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Evolution Gym Sculpts Novel Robot Bodies and Brains",
+          "itunes": {}
+        },
+        {
+          "id": "D346F91E-FB7F-4F85-86333D5B3DA57613",
+          "author": "Iris Berent",
+          "description": "Our fascination with brain-based explanations of psychology arises from intuitive ideas about the separation of mind and body—ideas unsupported by science\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/people-love-the-brain-for-the-wrong-reasons/",
+          "publishedOn": "2021-12-10T15:00:00.000Z",
+          "wordCount": null,
+          "title": "People Love the Brain for the Wrong Reasons",
+          "itunes": {}
+        },
+        {
+          "id": "49D1E31F-0901-4907-BB9A1F9675B3800D",
+          "author": "Amy Thompson, SPACE.com",
+          "description": "The Imaging X-ray Polarimetry Explorer will probe the physics behind black holes, neutron stars and other dynamic cosmic objects\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/nasa-launches-ixpe-a-new-x-ray-space-telescope/",
+          "publishedOn": "2021-12-10T14:00:00.000Z",
+          "wordCount": null,
+          "title": "NASA Launches IXPE, a New X-ray Space Telescope",
+          "itunes": {}
+        },
+        {
+          "id": "0BDEFDBC-7E53-4169-B31B87E4D092EF79",
+          "author": "Dhananjay Khadilkar",
+          "description": "A new type of satellite opens mobile possibilities\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/reprogrammable-eutelsat-quantum-satellite-shifts-missions-on-the-fly/",
+          "publishedOn": "2021-12-10T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Reprogrammable Eutelsat Quantum Satellite Shifts Missions on the Fly",
+          "itunes": {}
+        },
+        {
           "id": "E6C5759F-68B9-439B-94677946E27E86AE",
           "author": "Heather Handley, The Conversation US",
           "description": "External influences on volcanoes can make predicting unrest more difficult\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -21307,6 +21673,51 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=148509",
+          "author": "Mike Vizard",
+          "description": "Red Hat this week announced that a private preview of the Red Hat Ansible Automation Platform is now available on the Microsoft Azure Cloud. Tom Anderson, vice president of Red Hat Ansible automation, said making the Red Hat instance of the open source automation framework available on Azure is the first step toward making it […]\nThe post Red Hat Brings Ansible Automation to Microsoft Azure Cloud appeared first on DevOps.com.",
+          "link": "https://devops.com/red-hat-brings-ansible-automation-to-microsoft-azure-cloud/",
+          "publishedOn": "2021-12-10T16:06:33.000Z",
+          "wordCount": 1028,
+          "title": "Red Hat Brings Ansible Automation to Microsoft Azure Cloud"
+        },
+        {
+          "id": "https://devops.com/?p=148503",
+          "author": "Mike Vizard",
+          "description": "Stacklet has added collaboration capabilities to its security and compliance platform that automatically groups related notifications, routes them to the right stakeholders and integrates with existing workflows and collaboration tools. The Stacklet platform is based on Cloud Custodian, an open source project that provides access to a domain-specific language that enables an IT team to […]\nThe post Stacklet Embeds Collaboration in Compliance-as-Code Platform appeared first on DevOps.com.",
+          "link": "https://devops.com/stacklet-embeds-collaboration-in-compliance-as-code-platform/",
+          "publishedOn": "2021-12-10T13:24:17.000Z",
+          "wordCount": 826,
+          "title": "Stacklet Embeds Collaboration in Compliance-as-Code Platform"
+        },
+        {
+          "id": "https://devops.com/?p=148493",
+          "author": "Alan Shimel",
+          "description": "“Marley was dead, to begin with.” So begins my DevOps Christmas Carol. In this reflection, I am visited by the ghosts of DevOps past, present and future. I hope that, after hearing my story, you will have a better understanding of where DevOps is going based upon where it came from and where it is […]\nThe post Reflections: A DevOps Christmas Carol appeared first on DevOps.com.",
+          "link": "https://devops.com/reflections-a-devops-christmas-carol/",
+          "publishedOn": "2021-12-10T08:30:01.000Z",
+          "wordCount": 1369,
+          "title": "Reflections: A DevOps Christmas Carol"
+        },
+        {
+          "id": "https://devops.com/?p=148394",
+          "author": "Divyesh Kharade",
+          "description": "Organizations traditionally have struggled with build-versus-buy decisions when digitizing their internal operations and processes. While the build option offered the benefit of using internal teams or outsourcing to external vendors who could satisfy requirements, the downsides are a long wait, higher costs and the constant change and maintenance applications require. On the other hand, buying […]\nThe post 5 Ways Low-Code Accelerates Digital Transformation appeared first on DevOps.com.",
+          "link": "https://devops.com/5-ways-low-code-accelerates-digital-transformation/",
+          "publishedOn": "2021-12-10T08:00:41.000Z",
+          "wordCount": 1649,
+          "title": "5 Ways Low-Code Accelerates Digital Transformation"
+        },
+        {
+          "id": "https://devops.com/?p=148488",
+          "author": "Sharon Florentine",
+          "description": "A decade ago, if you were to ask developers what the biggest challenges in commercial banking were, they would likely cite the difficulty of accessing and collating high-quality data on the day-to-day operations of banking institutions. Today, that’s completely changed. Or it has to some extent, at least. Developers working in the banking industry certainly […]\nThe post How Developers Can Handle the FinServ Data Deluge appeared first on DevOps.com.",
+          "link": "https://devops.com/how-developers-can-handle-the-finserv-data-deluge/",
+          "publishedOn": "2021-12-10T07:30:38.000Z",
+          "wordCount": 1422,
+          "title": "How Developers Can Handle the FinServ Data Deluge"
+        },
+        {
           "id": "https://devops.com/?p=148483",
           "author": "Mike Vizard",
           "description": "Sentry this week announced it has acquired Specto, a provider of a set of tools for analyzing the performance of mobile applications. As the number of mobile applications being deployed continues to expand, developers are being asked to manage them as part of a general shift left that requires them to take on more accountability […]\nThe post Sentry Acquires Specto to Add Analytics Tool for Observability appeared first on DevOps.com.",
@@ -23588,6 +23999,24 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66310",
+          "author": "Nathan Yau",
+          "description": "Stephen Curry is about to break the record for number of three-pointers made…\nTags: basketball, record, Stephen Curry",
+          "link": "https://flowingdata.com/2021/12/10/stephen-curry-career-threes-compared-to-other-players/",
+          "publishedOn": "2021-12-10T19:39:01.000Z",
+          "wordCount": 288,
+          "title": "Stephen Curry career threes compared to other players"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66256",
+          "author": "Nathan Yau",
+          "description": "Using estimates based on satellite data, Joshua Stevens for NASA Earth Observatory mapped…\nTags: NASA, ocean, pollution",
+          "link": "https://flowingdata.com/2021/12/10/animated-map-of-microplastics-in-the-ocean/",
+          "publishedOn": "2021-12-10T11:59:35.000Z",
+          "wordCount": 354,
+          "title": "Animated map of microplastics in the ocean"
+        },
         {
           "id": "https://flowingdata.com/?p=66290",
           "author": "Nathan Yau",
