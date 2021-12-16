@@ -31,6 +31,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=359032",
+          "author": "Chris Coyier",
+          "description": "I was reading Jake’s “Cross-fading any two DOM elements is currently impossible” which is a wonderfully nerdy deep dive into how there is no real way to literally cross-fade elements. Yeah, you can animate both of their opacities, but even …",
+          "link": "https://css-tricks.com/maybe-there-kinda-is-background-opacity/",
+          "publishedOn": "2021-12-15T22:27:07.000Z",
+          "wordCount": 562,
+          "title": "Maybe there kinda is background-opacity?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359234",
+          "author": "Chris Coyier",
+          "description": "Matias Capeletto covers the breadth of Vite, from the technological shoulders it stands on, to the peers exploring similar territory, to the other technologies it supports, to the frameworks that now use it primarily, and more. The fact that …",
+          "link": "https://css-tricks.com/the-vite-ecosystem/",
+          "publishedOn": "2021-12-15T20:58:30.000Z",
+          "wordCount": 516,
+          "title": "The Vite Ecosystem"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358026",
+          "author": "Laura Kalbag",
+          "description": "Earlier this week, I tried out a starter theme for a blog platform. The theme had loads of nice default features: pretty typography, fancy navigation, dark mode widget… and a couple of default trackers I really don’t want just sitting …",
+          "link": "https://css-tricks.com/remove-trackers/",
+          "publishedOn": "2021-12-15T15:20:14.000Z",
+          "wordCount": 1258,
+          "title": "Remove Trackers"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359107",
+          "author": "Chris Coyier",
+          "description": "Google is handing out bucks for CSS-related projects, so you might as well know about it! Nicole Sullivan:\nAll of us who work on the web regularly benefit from the work of people who create specifications, tools, demos, tutorials, and \n…",
+          "link": "https://css-tricks.com/the-ui-fund/",
+          "publishedOn": "2021-12-15T15:18:29.000Z",
+          "wordCount": 540,
+          "title": "The UI fund"
+        },
+        {
           "id": "https://css-tricks.com/?p=356603",
           "author": "Geoff Graham",
           "description": "When’s the last time you read your website? Like out loud in the lobby of a Starbucks on a weekday afternoon, over the phone to your parents, or perhaps even as a bedtime story for your kids.\nNo worries, this …",
@@ -1549,6 +1585,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61ae2a2e946db661defb7dda",
+          "author": null,
+          "description": "As a frontend developer, it's your job to make sure that the user interface of a software program functions properly.  It's a difficult job because you have to make sure that every component works the way it's supposed to so that users have a good experience. Frontend development is in",
+          "link": "https://www.freecodecamp.org/news/top-skills-for-new-frontend-developers/",
+          "publishedOn": "2021-12-15T16:56:37.000Z",
+          "wordCount": 1551,
+          "title": "Top Skills All New Frontend Developers Should Have"
+        },
+        {
+          "id": "61b6846607222107a6c78d81",
+          "author": null,
+          "description": "JavaScript modules (also known as ES modules or ECMAScript modules) were created to help make JavaScript code more organized and maintainable. Understanding how ES modules work will help you become a better JavaScript developer. In this article, we'll cover: What is a module?What are ES modules? Why do we",
+          "link": "https://www.freecodecamp.org/news/javascript-modules-beginners-guide/",
+          "publishedOn": "2021-12-15T16:47:38.000Z",
+          "wordCount": 1838,
+          "title": "JavaScript Modules – A Beginner&#x27;s Guide"
+        },
+        {
+          "id": "61ba06ac07222107a6c7a6f4",
+          "author": null,
+          "description": "A linked list is a common data structure used in software development. It is also a frequent topic in technical coding interviews. We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about linked lists and prepare you to use them in coding interviews",
+          "link": "https://www.freecodecamp.org/news/linked-lists-in-technical-interviews/",
+          "publishedOn": "2021-12-15T15:22:28.000Z",
+          "wordCount": 366,
+          "title": "Linked Lists in Technical Interviews"
+        },
         {
           "id": "61b6941b07222107a6c78e39",
           "author": null,
@@ -3716,6 +3779,186 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "https://hackernoon.com",
       "articles": [
+        {
+          "id": "https://hackernoon.com/how-to-drive-startup-growth-using-cold-outreach?source=rss",
+          "author": "ChartMogul",
+          "description": "In a cruel world of startups you either grow or you die. And this often means trying every trick in the book, including less popular methods like cold outreach.",
+          "link": "https://hackernoon.com/how-to-drive-startup-growth-using-cold-outreach?source=rss",
+          "publishedOn": "2021-12-15T21:44:48.000Z",
+          "wordCount": 957,
+          "title": "How to Drive Startup Growth Using Cold Outreach"
+        },
+        {
+          "id": "https://hackernoon.com/an-introductory-guide-to-cloud-orchestration?source=rss",
+          "author": "Katalon",
+          "description": "The reasoning for why the cloud computing market is making its way to reach a monumental value of $623B by 2023 is simple – it’s the innovation that comes with it.",
+          "link": "https://hackernoon.com/an-introductory-guide-to-cloud-orchestration?source=rss",
+          "publishedOn": "2021-12-15T21:15:51.000Z",
+          "wordCount": 1723,
+          "title": "An Introductory Guide to Cloud Orchestration"
+        },
+        {
+          "id": "https://hackernoon.com/ransomware-attacks-how-to-protect-enterprises-and-critical-infrastructure?source=rss",
+          "author": "Check Point Software",
+          "description": "With Ransomware attacks increasing rapidly, it ahs become more important for companies to ensure that their network infrastructure is protected from attacks.",
+          "link": "https://hackernoon.com/ransomware-attacks-how-to-protect-enterprises-and-critical-infrastructure?source=rss",
+          "publishedOn": "2021-12-15T20:54:28.000Z",
+          "wordCount": 998,
+          "title": "Ransomware Attacks: How to Protect Enterprises and Critical Infrastructure"
+        },
+        {
+          "id": "https://hackernoon.com/only-xrp-and-bitcoin-will-be-safe-if-ripple-wins-sec-lawsuit?source=rss",
+          "author": "Tanveer Ahmad",
+          "description": "In December 2020, the Securities and Exchange Commission (SEC) filed a lawsuit against Ripple, leading to a chain of events that threatens XRP and Bitcoin.",
+          "link": "https://hackernoon.com/only-xrp-and-bitcoin-will-be-safe-if-ripple-wins-sec-lawsuit?source=rss",
+          "publishedOn": "2021-12-15T12:57:29.000Z",
+          "wordCount": 1827,
+          "title": "Only XRP and Bitcoin will be Safe if Ripple Wins SEC lawsuit"
+        },
+        {
+          "id": "https://hackernoon.com/how-holo-nft-blurs-the-line-between-traditional-and-contemporary-art?source=rss",
+          "author": "The Morpheus Project",
+          "description": "The contemporary art world is well known for pushing boundaries and getting people to ask, “What is Art?”.",
+          "link": "https://hackernoon.com/how-holo-nft-blurs-the-line-between-traditional-and-contemporary-art?source=rss",
+          "publishedOn": "2021-12-15T11:53:06.000Z",
+          "wordCount": 1002,
+          "title": "How Holo-NFT Blurs the Line Between Traditional and Contemporary Art"
+        },
+        {
+          "id": "https://hackernoon.com/log4j-vulnerability-a-legacy-of-cybersecurity-from-java-to-blockchain-and-minecraft?source=rss",
+          "author": "Sal Kimmich",
+          "description": "The who, what, where, why, and how to fix the Log4j vulnerability.",
+          "link": "https://hackernoon.com/log4j-vulnerability-a-legacy-of-cybersecurity-from-java-to-blockchain-and-minecraft?source=rss",
+          "publishedOn": "2021-12-15T06:45:48.000Z",
+          "wordCount": 993,
+          "title": "Log4J Vulnerability: A Legacy of Cybersecurity from Java to Blockchain and Minecraft"
+        },
+        {
+          "id": "https://hackernoon.com/the-rise-of-non-alcoholic-beverages-trends-to-keep-an-eye-on?source=rss",
+          "author": "Brian Wallace",
+          "description": "Sales of soda drinks in the U.S. have been declining for around a decade while non-alcoholic beverage sales reached $919 billion in just a single year.",
+          "link": "https://hackernoon.com/the-rise-of-non-alcoholic-beverages-trends-to-keep-an-eye-on?source=rss",
+          "publishedOn": "2021-12-15T06:35:21.000Z",
+          "wordCount": 1379,
+          "title": "The Rise of Non-Alcoholic Beverages: Trends to Keep an Eye On"
+        },
+        {
+          "id": "https://hackernoon.com/looking-at-the-startup-ecosystem-fundraising-market-map?source=rss",
+          "author": "Maximilian Fleitmann",
+          "description": "This map is a visual overview of every company that helps you get an investment for your startup, from pitch decks to captable management.",
+          "link": "https://hackernoon.com/looking-at-the-startup-ecosystem-fundraising-market-map?source=rss",
+          "publishedOn": "2021-12-15T06:23:32.000Z",
+          "wordCount": 947,
+          "title": "Looking at the Startup Ecosystem: Fundraising Market Map"
+        },
+        {
+          "id": "https://hackernoon.com/why-dynamics-365-is-a-good-fit-for-small-to-medium-sized-businesses?source=rss",
+          "author": "Bitscape",
+          "description": "Dynamics 365 Business Central is robust and scalable for company growth, making it a good choice for your small business.",
+          "link": "https://hackernoon.com/why-dynamics-365-is-a-good-fit-for-small-to-medium-sized-businesses?source=rss",
+          "publishedOn": "2021-12-15T06:07:03.000Z",
+          "wordCount": 2044,
+          "title": "Why Dynamics 365 is a Good Fit for Small to Medium-Sized Businesses"
+        },
+        {
+          "id": "https://hackernoon.com/badger-dao-interface-hack-do-we-need-to-panic?source=rss",
+          "author": "Dmitry Mishunin",
+          "description": "The Badger DAO attack was conceptually very different from the more traditional attack in DeFi. Those traditional ones are aimed at exploiting vulnerabilities in the code of smart contracts of the protocols, otherwise called bugs. We are familiar with flash loan attacks that use uncollateralised loans across a multitude of protocols to manipulate certain markets and pump-and-dump certain assets. We also know about reentrancy attacks that exploit the logic of execution of functions inside a smart contract. However, the Badger DAO exploit was both more and less ingenious at once.",
+          "link": "https://hackernoon.com/badger-dao-interface-hack-do-we-need-to-panic?source=rss",
+          "publishedOn": "2021-12-15T06:03:54.000Z",
+          "wordCount": 1625,
+          "title": "Badger Dao Interface Hack: Do We Need to Panic?"
+        },
+        {
+          "id": "https://hackernoon.com/how-jay-wey-amassed-millions-of-followers-on-tiktok-while-maintaining-a-full-time-job?source=rss",
+          "author": "Limarc Ambalina",
+          "description": "In this Slogging thread, we talk to Jay Wey the Co-founder of Ubiik and social media influencer behind jayandsharon.",
+          "link": "https://hackernoon.com/how-jay-wey-amassed-millions-of-followers-on-tiktok-while-maintaining-a-full-time-job?source=rss",
+          "publishedOn": "2021-12-15T05:58:11.000Z",
+          "wordCount": 3337,
+          "title": "How Jay Wey Amassed Millions of Followers on TikTok while Maintaining a Full-Time Job"
+        },
+        {
+          "id": "https://hackernoon.com/gold-backed-cryptocurrency-what-to-know-about-the-digital-token-assets-of-tomorrow?source=rss",
+          "author": "Emma Bonney",
+          "description": "Gold-backed cryptocurrency is something worth considering if you have doubts about the stability of any digital investments you might have. Or so it seems.",
+          "link": "https://hackernoon.com/gold-backed-cryptocurrency-what-to-know-about-the-digital-token-assets-of-tomorrow?source=rss",
+          "publishedOn": "2021-12-15T05:33:19.000Z",
+          "wordCount": 982,
+          "title": "Gold-Backed Cryptocurrency: What to Know About the Digital Token Assets of Tomorrow?"
+        },
+        {
+          "id": "https://hackernoon.com/introducing-dragos-what-it-means-to-be-a-fully-on-chain-nft?source=rss",
+          "author": "Ascend Agency",
+          "description": "2021 has been the year of NFTs. The space has risen from relative obscurity to experiencing rapid growth throughout the world.",
+          "link": "https://hackernoon.com/introducing-dragos-what-it-means-to-be-a-fully-on-chain-nft?source=rss",
+          "publishedOn": "2021-12-15T04:42:30.000Z",
+          "wordCount": 971,
+          "title": "Introducing Dragos: What it Means to be a Fully On-Chain NFT"
+        },
+        {
+          "id": "https://hackernoon.com/single-chain-vs-multi-chain-wallets-about-metamask-and-its-alternatives?source=rss",
+          "author": "Kadeem Clarke",
+          "description": "MetaMask is losing market share as the crypto wallet competition picks up. We're watching the following emerging wallets: Rabby, Coin98, XDEFI, and Frame.",
+          "link": "https://hackernoon.com/single-chain-vs-multi-chain-wallets-about-metamask-and-its-alternatives?source=rss",
+          "publishedOn": "2021-12-15T04:35:45.000Z",
+          "wordCount": 1988,
+          "title": "Single-Chain vs. Multi-Chain Wallets: About Metamask and its Alternatives"
+        },
+        {
+          "id": "https://hackernoon.com/the-game-awards-2021-recap-winners-and-new-announcements?source=rss",
+          "author": "Marc Magrini",
+          "description": "Check out all Game Awards 2021 winners and announcements here!",
+          "link": "https://hackernoon.com/the-game-awards-2021-recap-winners-and-new-announcements?source=rss",
+          "publishedOn": "2021-12-15T03:45:16.000Z",
+          "wordCount": 2221,
+          "title": "The Game Awards 2021 Recap: Winners and New Announcements"
+        },
+        {
+          "id": "https://hackernoon.com/the-virtual-machines-wars-wasm-vs-evm?source=rss",
+          "author": "Kadeem Clarke",
+          "description": "As we look towards a more streamlined #eth2  ecosystem, #EVM falls short when it comes to gas-fee efficiency and processing speeds.",
+          "link": "https://hackernoon.com/the-virtual-machines-wars-wasm-vs-evm?source=rss",
+          "publishedOn": "2021-12-15T03:39:28.000Z",
+          "wordCount": 1979,
+          "title": "The Virtual Machines Wars: WASM vs. EVM"
+        },
+        {
+          "id": "https://hackernoon.com/understanding-concurrent-collections-in-c?source=rss",
+          "author": "Anatoly Pashmorga",
+          "description": "A brief introduction to concurrent collections in c sharp.",
+          "link": "https://hackernoon.com/understanding-concurrent-collections-in-c?source=rss",
+          "publishedOn": "2021-12-15T03:34:48.000Z",
+          "wordCount": 936,
+          "title": "Understanding Concurrent Collections in C#"
+        },
+        {
+          "id": "https://hackernoon.com/the-difference-between-launchpads-and-equity-crowdfunding-platforms?source=rss",
+          "author": "DaoLaunch",
+          "description": "The difference between launchpads and equity crowdfunding platforms is often vague, but they're actually widely different. We share the full details here!",
+          "link": "https://hackernoon.com/the-difference-between-launchpads-and-equity-crowdfunding-platforms?source=rss",
+          "publishedOn": "2021-12-15T03:23:24.000Z",
+          "wordCount": 2028,
+          "title": "The Difference Between Launchpads and Equity Crowdfunding Platforms"
+        },
+        {
+          "id": "https://hackernoon.com/7-ways-to-turn-customers-into-brand-evangelists-with-examples?source=rss",
+          "author": "Nicholas Godwin",
+          "description": "Here are 7 ways to turn your customers into brand evangelists with real-world examples.",
+          "link": "https://hackernoon.com/7-ways-to-turn-customers-into-brand-evangelists-with-examples?source=rss",
+          "publishedOn": "2021-12-15T03:05:51.000Z",
+          "wordCount": 2635,
+          "title": "7 Ways to Turn Customers into Brand Evangelists (with Examples)"
+        },
+        {
+          "id": "https://hackernoon.com/the-machines-are-watching-you-top-10-computer-vision-applications?source=rss",
+          "author": "Farzal Khan",
+          "description": "Innovative Computer vision applications can be found in every industry these days. Here is the list of top 10 CV applications",
+          "link": "https://hackernoon.com/the-machines-are-watching-you-top-10-computer-vision-applications?source=rss",
+          "publishedOn": "2021-12-15T02:44:09.000Z",
+          "wordCount": 959,
+          "title": "The Machines Are Watching You: Top 10 Computer Vision Applications"
+        },
         {
           "id": "https://hackernoon.com/top-uiux-practices-to-help-your-mobile-application-retain-users?source=rss",
           "author": "[x]cube LABS",
@@ -12981,6 +13224,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=148125",
+          "author": "ACMer",
+          "description": "Given a binary tree root, consider deleting an edge in the tree so that the tree becomes disjoint with two trees. Then, take the sum of each subtree and multiply the two numbers. Return the largest...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-split-tree-to-maximize-product-recursive-depth-first-search-algorithm/",
+          "publishedOn": "2021-12-15T20:14:55.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Split Tree to Maximize Product (Recursive Depth First Search Algorithm)",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=148103",
           "author": "ACMer",
           "description": "Given a non-empty array nums containing only positive integers, find if the array can be partitioned into two subsets such that the sum of elements in both subsets is equal. Example 1: Input: nums = ...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -13759,16 +14012,6 @@
           "wordCount": null,
           "title": "Teaching Kids Programming – Leaderboard Algorithm: Compute the Ranking of Numbers",
           "itunes": {}
-        },
-        {
-          "id": "https://helloacm.com/?p=146804",
-          "author": "ACMer",
-          "description": "Evaluate the value of an arithmetic expression in Reverse Polish Notation. Valid operators are +, -, *, and /. Each operand may be an integer or another expression. Note that division between two...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
-          "link": "https://helloacm.com/teaching-kids-programming-evaluate-reverse-polish-notation/",
-          "publishedOn": "2021-09-16T19:12:24.000Z",
-          "wordCount": null,
-          "title": "Teaching Kids Programming – Evaluate Reverse Polish Notation",
-          "itunes": {}
         }
       ]
     },
@@ -13777,6 +14020,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=511273",
+          "author": "Arsenijs Picugins",
+          "description": "One of often encountered traits of a hacker is an ability to build devices into places where they don’t belong. Perhaps, [sonictimm]’s self-descriptive WiiinToaster was somewhat of an inevitability. Inspired …read more",
+          "link": "https://hackaday.com/2021/12/15/wii-meets-its-end-in-breadcrumb-jail/",
+          "publishedOn": "2021-12-16T00:00:15.000Z",
+          "wordCount": 1243,
+          "title": "Wii Meets Its End In Breadcrumb Jail"
+        },
+        {
+          "id": "https://hackaday.com/?p=511717",
+          "author": "Lewin Day",
+          "description": "Starter motors aren’t typically a great choice for motorized projects, as they’re designed to give engines a big strong kick for a few seconds. Driving them continuously can often quickly …read more",
+          "link": "https://hackaday.com/2021/12/15/heavy-duty-starter-motor-powers-an-awesome-drift-trike/",
+          "publishedOn": "2021-12-15T21:00:41.000Z",
+          "wordCount": 1274,
+          "title": "Heavy-Duty Starter Motor Powers An Awesome Drift Trike"
+        },
+        {
+          "id": "https://hackaday.com/?p=511713",
+          "author": "Lewin Day",
+          "description": "Typically, to improve one’s eyesight, we look to tools like corrective lenses or laser eye surgery to improve optical performance. However, [Casey Connor 2] came across another method, that uses …read more",
+          "link": "https://hackaday.com/2021/12/15/diy-glasses-aim-to-improve-color-vision/",
+          "publishedOn": "2021-12-15T19:30:31.000Z",
+          "wordCount": 1789,
+          "title": "DIY Glasses Aim To Improve Color Vision"
+        },
+        {
+          "id": "https://hackaday.com/?p=510713",
+          "author": "Steven Dufresne",
+          "description": "Among brain researchers there’s a truism that says the reason people underestimate how much unconscious processing goes on in your brain is because you’re not conscious of it. And while …read more",
+          "link": "https://hackaday.com/2021/12/15/the-real-science-not-armchair-science-of-consciousness/",
+          "publishedOn": "2021-12-15T18:00:57.000Z",
+          "wordCount": 4416,
+          "title": "The Real Science (Not Armchair Science) Of Consciousness"
+        },
+        {
+          "id": "https://hackaday.com/?p=511692",
+          "author": "Dan Maloney",
+          "description": "Notice: no vintage Hewlett Packard test equipment was harmed in the making of this overly complicated Nixie clock. In fact, if anything, the HP 5245L electronic counter came out better …read more",
+          "link": "https://hackaday.com/2021/12/15/a-nixie-clock-the-hard-way/",
+          "publishedOn": "2021-12-15T16:30:07.000Z",
+          "wordCount": 1552,
+          "title": "A Nixie Clock, the Hard Way"
+        },
+        {
+          "id": "https://hackaday.com/?p=509534",
+          "author": "Jenny List",
+          "description": "It’s dangerous for a hardware hacker to go into a second-hand store. I was looking for a bed frame for my new apartment, but of course I spent an age …read more",
+          "link": "https://hackaday.com/2021/12/15/the-seductive-pull-of-an-obsolete-home-movie-format/",
+          "publishedOn": "2021-12-15T15:00:58.000Z",
+          "wordCount": 4142,
+          "title": "The Seductive Pull Of An Obsolete Home Movie Format"
+        },
+        {
+          "id": "https://hackaday.com/?p=511606",
+          "author": "Jenny List",
+          "description": "It’s a constant of writing for Hackaday, that whenever a project appears using a 555 timer, someone will say “You could have used a microcontroller to do that!”. It’s something …read more",
+          "link": "https://hackaday.com/2021/12/15/you-can-always-use-an-attiny-instead-of-a-555/",
+          "publishedOn": "2021-12-15T12:00:12.000Z",
+          "wordCount": 2962,
+          "title": "You Can Always Use An ATtiny Instead Of A 555"
+        },
         {
           "id": "https://hackaday.com/?p=511635",
           "author": "Dan Maloney",
@@ -18555,6 +18861,76 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "D3C60F66-AF99-42C9-8342A5F7FB813ADA",
+          "author": "Alexandra Witze, Nature magazine",
+          "description": "The Parker Solar Probe has passed through a boundary and into the Sun’s atmosphere, gathering data that will help scientists better understand stars\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/nasa-spacecraft-touches-the-sun-for-the-first-time-ever/",
+          "publishedOn": "2021-12-15T20:00:00.000Z",
+          "wordCount": null,
+          "title": "NASA Spacecraft 'Touches' the Sun for the First Time Ever",
+          "itunes": {}
+        },
+        {
+          "id": "9625B166-FCF5-4893-84F2EF953475FF23",
+          "author": "Sophie Bushwick",
+          "description": "A cybersecurity expert explains how the widely used logging software is already making us more vulnerable\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-log4j-software-flaw-is-christmas-come-early-for-cybercriminals/",
+          "publishedOn": "2021-12-15T19:30:00.000Z",
+          "wordCount": null,
+          "title": "The Log4J Software Flaw Is 'Christmas Come Early' for Cybercriminals",
+          "itunes": {}
+        },
+        {
+          "id": "8E46DADA-55CF-4DF1-A425B91C8658ED0A",
+          "author": "Thomas Frank, E&E News",
+          "description": "Hurricane Ida and flooding in Europe topped the list of costliest disasters\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/global-weather-disasters-cost-101-billion-in-2021/",
+          "publishedOn": "2021-12-15T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Global Weather Disasters Cost $101 Billion in 2021",
+          "itunes": {}
+        },
+        {
+          "id": "4994D2E9-8C4B-473A-BC4C880E8F8D1F56",
+          "author": "Timothy Caulfield",
+          "description": "His brand of misinformation has already tarnished medicine. In the halls of Congress, he’d do much worse\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/dr-oz-shouldnt-be-a-senator-or-a-doctor/",
+          "publishedOn": "2021-12-15T18:15:00.000Z",
+          "wordCount": null,
+          "title": "Dr. Oz Shouldn't Be a Senator--or a Doctor",
+          "itunes": {}
+        },
+        {
+          "id": "FB610DA1-2BCB-42B6-BB4EC7D0F187413E",
+          "author": "Hanneke Weitering, SPACE.com",
+          "description": "A communications glitch between the observatory and its launch vehicle forced the delay, NASA officials say\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/james-webb-space-telescope-launch-delayed-to-christmas-eve-or-later/",
+          "publishedOn": "2021-12-15T16:45:00.000Z",
+          "wordCount": null,
+          "title": "James Webb Space Telescope Launch Delayed to Christmas Eve--or Later",
+          "itunes": {}
+        },
+        {
+          "id": "26CAD7A0-63C1-4FEB-BCE9A9EC2E0B66F4",
+          "author": "Nathaniel Hafer, The Conversation US",
+          "description": "An expert answers questions about when and how to use the tests\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/rapid-covid-tests-could-help-curb-infections-especially-during-the-holidays/",
+          "publishedOn": "2021-12-15T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Rapid COVID Tests Could Help Curb Infections--Especially During the Holidays",
+          "itunes": {}
+        },
+        {
+          "id": "9929F47A-C5F8-43FF-BE93784014921DCC",
+          "author": "Dominic Smith, Andrew Robinson",
+          "description": "The future of these guardians of the forest, some thousands of years old, is not assured\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/wildfires-are-putting-giant-sequoias-at-existential-risk/",
+          "publishedOn": "2021-12-15T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Wildfires Are Putting Giant Sequoias at Existential Risk",
+          "itunes": {}
+        },
+        {
           "id": "08FC2317-EDAD-45E7-AFE0E38FA31B8780",
           "author": "John Allen, The Conversation US",
           "description": "The role of climate change in such storms is difficult to discern but new research is offering clues\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -22880,6 +23256,33 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=148605",
+          "author": "Mike Vizard",
+          "description": "The Graph, a provider of indexing and query tools based on the GraphQL language designed for blockchain platforms, today announced it has given $48 million to The Guild, a group of developers advancing an open source application programming interface (API) platform to further development of GraphQL-based technologies. Administered via The Graph Foundation, a nonprofit consortium […]\nThe post The Graph Donates $48M to Advance GraphQL Platforms appeared first on DevOps.com.",
+          "link": "https://devops.com/the-graph-donates-48m-to-advance-graphql-platforms/",
+          "publishedOn": "2021-12-15T20:53:38.000Z",
+          "wordCount": 1005,
+          "title": "The Graph Donates $48M to Advance GraphQL Platforms"
+        },
+        {
+          "id": "https://devops.com/?p=148599",
+          "author": "Kristin Hazlewood",
+          "description": "News of the Apache Log4j vulnerability exploit is striking fear into the hearts of both software makers and users. Log4j is the most popular Java logging service used today, with over 400,000 GitHub downloads and has been embedded in most internet services and products from companies all over the world, including Apple, Amazon, Cloudflare, Steam, […]\nThe post Log4j Puts Effective IT Operations at Center Stage appeared first on DevOps.com.",
+          "link": "https://devops.com/log4j-puts-effective-it-operations-at-center-stage/",
+          "publishedOn": "2021-12-15T18:25:45.000Z",
+          "wordCount": 893,
+          "title": "Log4j Puts Effective IT Operations at Center Stage"
+        },
+        {
+          "id": "https://devops.com/?p=148564",
+          "author": "Richi Jennings",
+          "description": "In this week’s The Long View: Improving U.S. government CX, how much money Mozilla makes, and the latest on the Log4j/Log4Shell débâcle.\nThe post U.S. Govt. CX EO | Mozilla Revenue | Log4j Latest appeared first on DevOps.com.",
+          "link": "https://devops.com/u-s-govt-cx-eo-mozilla-revenue-log4j-latest/",
+          "publishedOn": "2021-12-15T14:47:20.000Z",
+          "wordCount": 1748,
+          "title": "U.S. Govt. CX EO | Mozilla Revenue | Log4j Latest"
+        },
+        {
           "id": "https://devops.com/?p=148552",
           "author": "Dan Kirsch",
           "description": "Canaries were once sent into coal mines as an early warning sign against danger—for me, it was my Roomba failing to automatically search out dog hair and clean the floor under my sons’ dining room chairs. Cloud-enabled apps also were acting “weird”. Some were down, while others were just slow—although, in my view, slow may […]\nThe post AWS Outage and App Resiliency: Did a Roomba Replace the Canary? appeared first on DevOps.com.",
@@ -24804,6 +25207,26 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=111195",
+          "author": "Erica Klarreich",
+          "description": "A new paper shows how to create longer disordered strings than mathematicians had thought possible, proving that a well-known recent conjecture is “spectacularly wrong.”            \nThe post Mathematician Hurls Structure and Disorder Into Century-Old Problem first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/oxford-mathematician-advances-century-old-combinatorics-problem-20211215/",
+          "publishedOn": "2021-12-15T15:57:33.000Z",
+          "wordCount": null,
+          "title": "Mathematician Hurls Structure and Disorder Into Century-Old Problem",
+          "itunes": {}
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=111192",
+          "author": "Rachel Crowell",
+          "description": "When scientists discover genes linked to dangerous illnesses in their samples, how should they convey that news to the study participants? The geneticist Cristen Willer had to tackle that challenge.            \nThe post When a Gene Illness Discovery Means Breaking Bad News first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/cristen-willer-on-the-right-to-not-know-about-genetic-disorders-20211214/",
+          "publishedOn": "2021-12-14T18:25:26.000Z",
+          "wordCount": null,
+          "title": "When a Gene Illness Discovery Means Breaking Bad News",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=111192",
           "author": "Rachel Crowell",
           "description": "When scientists discover genes linked to dangerous illnesses in their samples, how should they convey that news to the donors? The geneticist Cristen Willer had to tackle that challenge.            \nThe post When a Genetic Disorder Discovery Is Unwelcome News first appeared on Quanta Magazine",
@@ -25280,6 +25703,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66316",
+          "author": "Nathan Yau",
+          "description": "Vaccine supply is only part of the equation. For The New York Times,…\nTags: coronavirus, New York Times, vaccination",
+          "link": "https://flowingdata.com/2021/12/15/vaccination-rates-compared-against-country-wealth/",
+          "publishedOn": "2021-12-15T08:07:24.000Z",
+          "wordCount": 283,
+          "title": "Vaccination rates compared against country wealth"
+        },
         {
           "id": "https://flowingdata.com/?p=66320",
           "author": "Nathan Yau",
