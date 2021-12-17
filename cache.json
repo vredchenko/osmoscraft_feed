@@ -31,6 +31,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=358029",
+          "author": "Andy Bell",
+          "description": "When Chris first sent me this prompt, I was thinking about writing about progressive enhancement, but that subject is so wide-reaching to be one thing and all too predictable, especially for those already familiar with my writing. Saying that, what …",
+          "link": "https://css-tricks.com/consistent-fluidly-scaling-type-and-spacing/",
+          "publishedOn": "2021-12-16T22:06:03.000Z",
+          "wordCount": 1183,
+          "title": "Consistent, Fluidly Scaling Type and Spacing"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359260",
+          "author": "Chris Coyier",
+          "description": "Jordan Scales explores the computer science concept of topological sorting, and what it might look like if applied to the concept of  z-index in CSS. So, you don’t express what the z-index should be directly; instead, you say exactly …",
+          "link": "https://css-tricks.com/topological-sort/",
+          "publishedOn": "2021-12-16T22:04:07.000Z",
+          "wordCount": 571,
+          "title": "Topological sort"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359306",
+          "author": "Chris Coyier",
+          "description": "Three cheers for (draft stage) progress on a Sanitizer API! It’s gospel that you can’t trust user input. And indeed, any app I’ve ever worked on has dealt with bad actors trying to slip in and execute nefarious code …",
+          "link": "https://css-tricks.com/html-sanitizer-api/",
+          "publishedOn": "2021-12-16T18:21:31.000Z",
+          "wordCount": 841,
+          "title": "HTML Sanitizer API"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358576",
+          "author": "Farai Gandiya",
+          "description": "Between Google Chrome experimenting with “following” sites, along with a growing frustration of how social media platforms limit a creator’s reach to their fans through algorithmic feeds, there’s been renewed interest in RSS feeds and they’re primed for a …",
+          "link": "https://css-tricks.com/working-with-web-feeds-its-more-than-rss/",
+          "publishedOn": "2021-12-16T15:15:11.000Z",
+          "wordCount": 5268,
+          "title": "Working With Web Feeds: It’s More Than RSS"
+        },
+        {
           "id": "https://css-tricks.com/?p=359032",
           "author": "Chris Coyier",
           "description": "I was reading Jake’s “Cross-fading any two DOM elements is currently impossible” which is a wonderfully nerdy deep dive into how there is no real way to literally cross-fade elements. Yeah, you can animate both of their opacities, but even …",
@@ -1585,6 +1621,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61b8daa807222107a6c7a204",
+          "author": null,
+          "description": "As remote work becomes more and more popular, more and more people and companies are using video conferencing services such as Zoom.  Turning the built-in microphone on and off is one of the most useful features of Zoom.  In this quick guide you'll learn how to mute yourself with both",
+          "link": "https://www.freecodecamp.org/news/how-to-mute-and-unmute-on-zoom-keyboard-shortcut/",
+          "publishedOn": "2021-12-16T18:50:11.000Z",
+          "wordCount": 552,
+          "title": "How to Mute on Zoom – Mute Yourself with a Keyboard Shortcut or a Press of a Button"
+        },
+        {
+          "id": "61bb54db07222107a6c7acd9",
+          "author": null,
+          "description": "Asking for help on a forum is a great way to learn and grow as a developer. But it is important that you know how to ask good questions so people can effectively help you.  In this article, I will walk you through how to ask good questions on a",
+          "link": "https://www.freecodecamp.org/news/how-to-ask-a-question-on-a-forum/",
+          "publishedOn": "2021-12-16T17:39:57.000Z",
+          "wordCount": 700,
+          "title": "How to Ask a Question on a Forum"
+        },
+        {
+          "id": "61bb4ce307222107a6c7ac86",
+          "author": null,
+          "description": "I've been using Windows Subsystem for Linux (WSL) for my OS class for quite a while now. And I love how I can use Linux commands in Windows in a straightforward way without the added complexity of installing a virtual machine or dual booting.  By the end of this article,",
+          "link": "https://www.freecodecamp.org/news/how-to-run-linux-apps-on-windows-10-11-using-wsl/",
+          "publishedOn": "2021-12-16T17:33:23.000Z",
+          "wordCount": 844,
+          "title": "How to Run Linux Apps on Windows 10 and 11 Using WSL"
+        },
+        {
+          "id": "61bb192507222107a6c7aa8e",
+          "author": null,
+          "description": "Windows 10 has an incredible Graphics User Interface (GUI) that will often be enough for you to get things done.  But if your inner Oliver Twist wants more, then you should start learning about the Command Line.  With the command prompt, you get access to features that are not available",
+          "link": "https://www.freecodecamp.org/news/windows-10-command-line-tricks/",
+          "publishedOn": "2021-12-16T16:37:46.000Z",
+          "wordCount": 1596,
+          "title": "14 Windows 10 Command Line Tricks that Give You More Control Over Your PC"
+        },
         {
           "id": "61ae2a2e946db661defb7dda",
           "author": null,
@@ -3780,6 +3852,177 @@
       "siteUrl": "https://hackernoon.com",
       "articles": [
         {
+          "id": "https://hackernoon.com/wtf-is-a-codec?source=rss",
+          "author": "Piyush Badkul",
+          "description": "Codec comprises an integral part of our lives like the water we drink. They are continuously in action all around us without us realizing it.",
+          "link": "https://hackernoon.com/wtf-is-a-codec?source=rss",
+          "publishedOn": "2021-12-16T10:50:36.000Z",
+          "wordCount": 981,
+          "title": "WTF is a Codec?"
+        },
+        {
+          "id": "https://hackernoon.com/i-added-text-to-my-pure-icon-site-after-8-years-heres-why?source=rss",
+          "author": "Rosano",
+          "description": "After many years, I went from pure icons to adding descriptive text.",
+          "link": "https://hackernoon.com/i-added-text-to-my-pure-icon-site-after-8-years-heres-why?source=rss",
+          "publishedOn": "2021-12-16T10:39:58.000Z",
+          "wordCount": 1020,
+          "title": "I Added Text to My ‘Pure Icon’ Site after 8 Years. Here’s Why"
+        },
+        {
+          "id": "https://hackernoon.com/email-design-12-best-practices-to-increase-click-through-rates?source=rss",
+          "author": "Ashish Sharma",
+          "description": "A well-designed design can be a game-changer!",
+          "link": "https://hackernoon.com/email-design-12-best-practices-to-increase-click-through-rates?source=rss",
+          "publishedOn": "2021-12-16T10:13:56.000Z",
+          "wordCount": 967,
+          "title": "Email Design: 12 Best Practices to Increase Click-Through Rates"
+        },
+        {
+          "id": "https://hackernoon.com/non-fungible-sentiment-exploring-the-value-of-nfts?source=rss",
+          "author": "StevieSats",
+          "description": "NFTs designed and run by real world crypto women are setting the bar high for digital art and the diverse use cases for identity-driven PFPs.",
+          "link": "https://hackernoon.com/non-fungible-sentiment-exploring-the-value-of-nfts?source=rss",
+          "publishedOn": "2021-12-16T08:51:11.000Z",
+          "wordCount": 970,
+          "title": "Non-fungible Sentiment: Exploring the Value of NFTs"
+        },
+        {
+          "id": "https://hackernoon.com/the-data-revolution-green-accessible-and-fully-decentralized?source=rss",
+          "author": "Lucien Lecarme",
+          "description": "it's time to make data sexy again. Let's revive the dream of a truly neutral Internet, from the people for the people with wide accessibility and no censorship",
+          "link": "https://hackernoon.com/the-data-revolution-green-accessible-and-fully-decentralized?source=rss",
+          "publishedOn": "2021-12-16T08:28:56.000Z",
+          "wordCount": 1004,
+          "title": "The Data Revolution: Green, Accessible, and Fully-Decentralized"
+        },
+        {
+          "id": "https://hackernoon.com/whats-your-favorite-feature-in-the-sims-universe?source=rss",
+          "author": "Sara Pinto",
+          "description": "The HackerNoon gaming community discussed The Sims world, our favorite features, versions, and what is coming next for this game",
+          "link": "https://hackernoon.com/whats-your-favorite-feature-in-the-sims-universe?source=rss",
+          "publishedOn": "2021-12-16T08:23:32.000Z",
+          "wordCount": 1995,
+          "title": "What’s your Favorite Feature in The Sims Universe?"
+        },
+        {
+          "id": "https://hackernoon.com/fractionalized-nfts-are-the-future-of-fractionalized-assets?source=rss",
+          "author": "Ricky Rathore",
+          "description": "NFTs are the future of fractionalized assets because they are low cost, easily tradeable, secure, transparent, and decentralized.",
+          "link": "https://hackernoon.com/fractionalized-nfts-are-the-future-of-fractionalized-assets?source=rss",
+          "publishedOn": "2021-12-16T08:20:37.000Z",
+          "wordCount": 966,
+          "title": "Fractionalized NFTs are the Future of Fractionalized Assets"
+        },
+        {
+          "id": "https://hackernoon.com/5-best-defi-charity-projects-that-are-making-the-world-a-better-place?source=rss",
+          "author": "Crypto Unfolded",
+          "description": "DeFi charity projects have become stellar examples of consumer activism and social sustainability. Charity DeFi projects numbers have been growing exponentially",
+          "link": "https://hackernoon.com/5-best-defi-charity-projects-that-are-making-the-world-a-better-place?source=rss",
+          "publishedOn": "2021-12-16T07:49:03.000Z",
+          "wordCount": 2113,
+          "title": "5 Best DeFi Charity Projects that are Making the World a Better Place"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-create-an-employee-engagement-plan-the-key-to-a-happy-staff?source=rss",
+          "author": "Nidhi Kala",
+          "description": "Make your employee incentive plan focused on each team member because your staff can only succeed when the incentives resonate with them.",
+          "link": "https://hackernoon.com/how-to-create-an-employee-engagement-plan-the-key-to-a-happy-staff?source=rss",
+          "publishedOn": "2021-12-16T07:39:39.000Z",
+          "wordCount": 996,
+          "title": "How to Create an Employee Engagement Plan: The Key to a Happy Staff"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-boost-your-online-sales-via-seo-google-shopping-ads-analytics-and-content?source=rss",
+          "author": "WeDoWebApps LLC",
+          "description": "If you want to generate high revenue and sales from your eCommerce store, these online tactics will help you get your store on the top of the search engine.",
+          "link": "https://hackernoon.com/how-to-boost-your-online-sales-via-seo-google-shopping-ads-analytics-and-content?source=rss",
+          "publishedOn": "2021-12-16T07:30:12.000Z",
+          "wordCount": 971,
+          "title": "How to Boost your Online Sales via SEO, Google Shopping Ads, Analytics, and Content"
+        },
+        {
+          "id": "https://hackernoon.com/metaverse-the-future-of-digital-spaces?source=rss",
+          "author": "Lucas Andrew",
+          "description": "Metaverse is the future, it will step into various industries and make its presence all over the globe with different concepts.",
+          "link": "https://hackernoon.com/metaverse-the-future-of-digital-spaces?source=rss",
+          "publishedOn": "2021-12-16T07:15:38.000Z",
+          "wordCount": 969,
+          "title": "Metaverse: The Future of Digital Spaces"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-drive-early-time-to-value-through-customer-success?source=rss",
+          "author": "CustomerSuccessBox",
+          "description": "Time-To-Value is a Customer Success metric that is undervalued in SaaS but could be an advantage for a business. This article explains TTV and the types of TTV.",
+          "link": "https://hackernoon.com/how-to-drive-early-time-to-value-through-customer-success?source=rss",
+          "publishedOn": "2021-12-16T07:08:35.000Z",
+          "wordCount": 1009,
+          "title": "How to Drive Early 'Time-To-Value’ through Customer Success"
+        },
+        {
+          "id": "https://hackernoon.com/5-crucial-hr-practices-to-amplify-cyberattack-readiness-for-modern-businesses?source=rss",
+          "author": "NordLocker",
+          "description": "A cybersec expert lays out how security-oriented work culture is put into practice at NordLocker and encourages other companies to implement a similar approach.",
+          "link": "https://hackernoon.com/5-crucial-hr-practices-to-amplify-cyberattack-readiness-for-modern-businesses?source=rss",
+          "publishedOn": "2021-12-16T07:03:36.000Z",
+          "wordCount": 61,
+          "title": "5 Crucial HR Practices to Amplify Cyberattack Readiness for Modern Businesses"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-install-and-use-materialize-to-run-sql-queries-on-your-nginx-logs?source=rss",
+          "author": "Bobby Iliev",
+          "description": "In this tutorial, I will show you how Materialize works by using it to run SQL queries on continuously produced nginx logs. By the end of the tutorial, you will",
+          "link": "https://hackernoon.com/how-to-install-and-use-materialize-to-run-sql-queries-on-your-nginx-logs?source=rss",
+          "publishedOn": "2021-12-16T06:53:13.000Z",
+          "wordCount": 1000,
+          "title": "How to Install and Use Materialize to Run SQL Queries on your nginx Logs"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-get-started-in-cryptocurrency-investment-with-this-5-point-framework?source=rss",
+          "author": "Crypto Engineer",
+          "description": "End-to-End Evidence-Based Cryptocurrency Investment Framework. Portofolio Management | Investment Strategy | Investment Process | Investment Review | Skills",
+          "link": "https://hackernoon.com/how-to-get-started-in-cryptocurrency-investment-with-this-5-point-framework?source=rss",
+          "publishedOn": "2021-12-16T06:42:15.000Z",
+          "wordCount": 1900,
+          "title": "How to Get Started in Cryptocurrency Investment with this 5-Point Framework"
+        },
+        {
+          "id": "https://hackernoon.com/decentralized-internet-interview?source=rss",
+          "author": null,
+          "description": "",
+          "link": "https://hackernoon.com/decentralized-internet-interview?source=rss",
+          "publishedOn": "2021-12-16T01:14:20.000Z",
+          "wordCount": 846,
+          "title": "The Decentralized Internet is Here to Stay"
+        },
+        {
+          "id": "https://hackernoon.com/proven-metrics-and-important-kpis-for-startups-to-measure-success?source=rss",
+          "author": "Victoria Loskutova",
+          "description": "What are the most important KPIs for startups to measure success? Find your answer in this article and learn what key product metrics to track to enable growth.",
+          "link": "https://hackernoon.com/proven-metrics-and-important-kpis-for-startups-to-measure-success?source=rss",
+          "publishedOn": "2021-12-16T01:06:29.000Z",
+          "wordCount": 991,
+          "title": "Proven Metrics and Important KPIs for Startups to Measure Success"
+        },
+        {
+          "id": "https://hackernoon.com/dollar-cost-averaging-into-crypto-why-to-get-started-now?source=rss",
+          "author": "Nicholas Merten",
+          "description": "",
+          "link": "https://hackernoon.com/dollar-cost-averaging-into-crypto-why-to-get-started-now?source=rss",
+          "publishedOn": "2021-12-16T01:01:15.000Z",
+          "wordCount": 874,
+          "title": "Dollar-Cost Averaging Into Crypto: Why To Get Started Now"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-staff-a-pentest-the-importance-of-matching-resources-to-requirements?source=rss",
+          "author": "Jay Paz, Senior Director of Delivery at Cobalt",
+          "description": "",
+          "link": "https://hackernoon.com/how-to-staff-a-pentest-the-importance-of-matching-resources-to-requirements?source=rss",
+          "publishedOn": "2021-12-16T00:39:03.000Z",
+          "wordCount": 941,
+          "title": "How to Staff a Pentest: The Importance of Matching Resources to Requirements"
+        },
+        {
           "id": "https://hackernoon.com/how-to-drive-startup-growth-using-cold-outreach?source=rss",
           "author": "ChartMogul",
           "description": "In a cruel world of startups you either grow or you die. And this often means trying every trick in the book, including less popular methods like cold outreach.",
@@ -4057,6 +4300,15 @@
           "publishedOn": "2021-12-14T09:41:31.000Z",
           "wordCount": 988,
           "title": "Adding the Map Tomtom Component to an Angular Application"
+        },
+        {
+          "id": "https://hackernoon.com/shut-up-and-buidl-top-blockchain-ecosystem-grants-to-fund-your-project?source=rss",
+          "author": "Kadeem Clarke",
+          "description": "In an effort to gain dominance, blockchain ecosystems are providing free money and resources for devs that #BUIDL on their chain.",
+          "link": "https://hackernoon.com/shut-up-and-buidl-top-blockchain-ecosystem-grants-to-fund-your-project?source=rss",
+          "publishedOn": "2021-12-14T09:11:28.000Z",
+          "wordCount": 2620,
+          "title": "Shut Up and BUIDL: Top Blockchain Ecosystem Grants to Fund your Project"
         },
         {
           "id": "https://hackernoon.com/the-critical-log4j-java-vulnerability-how-to-detect-and-mitigate-it?source=rss",
@@ -13093,6 +13345,15 @@
       "siteUrl": "https://davidwalsh.name",
       "articles": [
         {
+          "id": "https://davidwalsh.name/?p=27500",
+          "author": "David Walsh",
+          "description": "There are a number of utilities required to really power a content management system and its users. One of the most important utilities is a performant, feature-rich WYSIWYG editor. We’ve always had to choose between the two exiting editors, CKEditor and TinyMCE, but now we have Froala, a next generation WYSIWYG editor from Sencha. Quick […]\nThe post Froala: The Next Generation WYSIWYG Editor (Sponsored) appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/froala-editor",
+          "publishedOn": "2021-12-16T15:01:32.000Z",
+          "wordCount": 554,
+          "title": "Froala: The Next Generation WYSIWYG Editor (Sponsored)"
+        },
+        {
           "id": "https://davidwalsh.name/?p=27503",
           "author": "David Walsh",
           "description": "Automation is a system administrator, support agent, and tech savvy person’s dream. Automating tasks via scripts remotely helps to get clients out of trouble or even the organization itself. Oftentimes big updates can require users log out. Logging a user out from command line is super easy on Macs! To log a user out of […]\nThe post Log a User Out from Command Line appeared first on David Walsh Blog.",
@@ -13172,15 +13433,6 @@
           "publishedOn": "2021-09-30T01:47:39.000Z",
           "wordCount": 602,
           "title": "How to Create a UUID in JavaScript"
-        },
-        {
-          "id": "https://davidwalsh.name/?p=27469",
-          "author": "David Walsh",
-          "description": "One of the big themes of the web these days is concurrency, which leads to accomplishing tasks asynchronously. In doing so, the possibility of multiple errors can occur. Instead of providing a generic error, optimally you’d provide a wealth of error information. TheAggregateError error lets developers throw multiple errors within one single Error. Let’s see […]\nThe post AggregateError appeared first on David Walsh Blog.",
-          "link": "https://davidwalsh.name/aggregateerror",
-          "publishedOn": "2021-09-17T15:12:17.000Z",
-          "wordCount": 573,
-          "title": "AggregateError"
         }
       ]
     },
@@ -13223,6 +13475,16 @@
       "feedUrl": "http://feeds.feedburner.com/helloacm?format=xml",
       "siteUrl": "https://helloacm.com",
       "articles": [
+        {
+          "id": "https://helloacm.com/?p=148139",
+          "author": "ACMer",
+          "description": "You are given a list of integers prices where prices represents the price to sell a rod of size i + 1, and an integer n which represents the current size of the rod. Given you can cut the rod into...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-max-profit-of-rod-cutting-unbounded-knapsack-via-top-down-dynamic-programming-algorithm/",
+          "publishedOn": "2021-12-16T22:12:13.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Max Profit of Rod Cutting (Unbounded Knapsack) via Top Down Dynamic Programming Algorithm",
+          "itunes": {}
+        },
         {
           "id": "https://helloacm.com/?p=148125",
           "author": "ACMer",
@@ -14002,16 +14264,6 @@
           "wordCount": null,
           "title": "Teaching Kids Programming – Count Number of Pairs With Absolute Difference K",
           "itunes": {}
-        },
-        {
-          "id": "https://helloacm.com/?p=146820",
-          "author": "ACMer",
-          "description": "You are given a list of integers nums, representing the number of chess matches each person has won. Return a relative ranking (0-indexed) of each person. If two players have won the same amount,...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
-          "link": "https://helloacm.com/teaching-kids-programming-leaderboard-algorithm-compute-the-ranking-of-numbers/",
-          "publishedOn": "2021-09-17T19:51:49.000Z",
-          "wordCount": null,
-          "title": "Teaching Kids Programming – Leaderboard Algorithm: Compute the Ranking of Numbers",
-          "itunes": {}
         }
       ]
     },
@@ -14020,6 +14272,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=511710",
+          "author": "Tom Nardi",
+          "description": "Despite the fact that we’re rapidly approaching the year 2022, there are still an incredible number of gadgets out there that you’re expected to power with disposable batteries. Sure you …read more",
+          "link": "https://hackaday.com/2021/12/16/weather-station-dumps-cr2032-cells-gains-18650/",
+          "publishedOn": "2021-12-17T00:00:48.000Z",
+          "wordCount": 1243,
+          "title": "Weather Station Dumps CR2032 Cells, Gains 18650"
+        },
+        {
+          "id": "https://hackaday.com/?p=511718",
+          "author": "Lewin Day",
+          "description": "High ceilings can make a residence feel open and airy, but they often come with difficult-to-reach light fittings. To better deal with that, [mattwach] built a motorized light bulb changer …read more",
+          "link": "https://hackaday.com/2021/12/16/motorized-device-helps-swap-out-hard-to-reach-light-bulbs/",
+          "publishedOn": "2021-12-16T21:00:48.000Z",
+          "wordCount": 1290,
+          "title": "Motorized Device Helps Swap Out Hard-To-Reach Light Bulbs"
+        },
+        {
+          "id": "https://hackaday.com/?p=511715",
+          "author": "Lewin Day",
+          "description": "Working on a breadboard, one can get used to the benefits of being able to readily plug and unplug jumper wires to reconfigure a project. One could only dream of …read more",
+          "link": "https://hackaday.com/2021/12/16/using-fishing-wire-to-hold-in-pin-headers-is-a-nifty-trick/",
+          "publishedOn": "2021-12-16T19:30:28.000Z",
+          "wordCount": 2481,
+          "title": "Using Fishing Wire To Hold In Pin Headers Is A Nifty Trick"
+        },
+        {
+          "id": "https://hackaday.com/?p=512038",
+          "author": "Elliot Williams",
+          "description": "If you dig microcontrollers, and you like to dig into how they work, Elecia White wants to help you navigate their innermost secrets with the help of memory map files. …read more",
+          "link": "https://hackaday.com/2021/12/16/keynote-video-elecia-white-finds-treasure-in-memory-map/",
+          "publishedOn": "2021-12-16T18:02:00.000Z",
+          "wordCount": 1631,
+          "title": "Keynote Video: Elecia White Finds Treasure in the Memory Map"
+        },
+        {
+          "id": "https://hackaday.com/?p=511727",
+          "author": "Donald Papp",
+          "description": "[Rob Cole] had an ambitious side project: to build an improved version of the Valve Index VR controllers. His effort, named Project Caliper, aims for optimal ergonomics and modularity for …read more",
+          "link": "https://hackaday.com/2021/12/16/a-hackers-journey-in-developing-a-new-vr-controller/",
+          "publishedOn": "2021-12-16T16:30:05.000Z",
+          "wordCount": 1292,
+          "title": "A Hacker’s Journey in Developing a New VR Controller"
+        },
+        {
+          "id": "https://hackaday.com/?p=511142",
+          "author": "Arsenijs Picugins",
+          "description": "On December 5th, someone by the IRC nickname of [ubuntu] joined the Pine64 Discord’s #pinephone channel through an IRC bridge. In the spirit of December gift-giving traditions, they have presented …read more",
+          "link": "https://hackaday.com/2021/12/16/pinephone-malware-surprises-users-raises-questions/",
+          "publishedOn": "2021-12-16T15:00:56.000Z",
+          "wordCount": 6096,
+          "title": "PinePhone Malware Surprises Users, Raises Questions"
+        },
+        {
+          "id": "https://hackaday.com/?p=512033",
+          "author": "Matthew Carlson",
+          "description": "Tesla is well known for making cars that can accelerate quickly, but there’s always room for improvement. [Warped Perception] decided that his Tesla Model S P85D needed that little bit …read more",
+          "link": "https://hackaday.com/2021/12/16/tesla-model-s-gets-boost-with-jet-engine-upgrade/",
+          "publishedOn": "2021-12-16T12:00:29.000Z",
+          "wordCount": 3534,
+          "title": "Tesla Model S Gets Boost with Jet Engine Upgrade"
+        },
         {
           "id": "https://hackaday.com/?p=511273",
           "author": "Arsenijs Picugins",
@@ -18861,6 +19176,76 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "4FFF7005-5B4B-4F2B-A80456043446E0E5",
+          "author": "Benjamin Storrow, E&E News",
+          "description": "Some groups worry a proposed tax credit could offer a lifeline to coal-powered plants\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/carbon-capture-provisions-in-reconciliation-bill-divide-environmentalists/",
+          "publishedOn": "2021-12-16T20:45:00.000Z",
+          "wordCount": null,
+          "title": "Carbon Capture Provisions in Reconciliation Bill Divide Environmentalists",
+          "itunes": {}
+        },
+        {
+          "id": "9DFC0813-6FC1-4AD0-B2A506D6F64E8184",
+          "author": "Andrea Thompson",
+          "description": "Population density and a prevalence of mobile homes make the region a hotspot for tornado deaths\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/tornadoes-at-night-and-in-the-southeast-are-especially-deadly/",
+          "publishedOn": "2021-12-16T20:15:00.000Z",
+          "wordCount": null,
+          "title": "Tornadoes at Night and in the Southeast Are Especially Deadly",
+          "itunes": {}
+        },
+        {
+          "id": "ADB545B1-90DC-441C-ADE0190650C37332",
+          "author": "Jennifer Frazer",
+          "description": "After my son got sick, I dived into the data, and it turns out vaccinated people can and do spread COVID\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-risk-of-vaccinated-covid-transmission-is-not-low/",
+          "publishedOn": "2021-12-16T17:00:00.000Z",
+          "wordCount": null,
+          "title": "The Risk of Vaccinated COVID Transmission Is Not Low",
+          "itunes": {}
+        },
+        {
+          "id": "DED22F97-9235-4D61-9078BDE2D1BCD821",
+          "author": "Andrea Gawrylewski",
+          "description": "Individuals often overestimate how harshly others judge a messy, chaotic life\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/embracing-the-mess/",
+          "publishedOn": "2021-12-16T14:30:00.000Z",
+          "wordCount": null,
+          "title": "Embracing the Mess",
+          "itunes": {}
+        },
+        {
+          "id": "B0F9A01F-2708-4F48-AE7AD10084D7FCB3",
+          "author": "Katharine Gammon",
+          "description": "New proof-of-concept research shows how environmental DNA (eDNA) technology could be used to assess what is buzzing by\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/dna-in-air-can-catalog-hidden-insects-all-around-us/",
+          "publishedOn": "2021-12-16T14:00:00.000Z",
+          "wordCount": null,
+          "title": "DNA in Air Can Catalog Hidden Insects All around Us",
+          "itunes": {}
+        },
+        {
+          "id": "0B9D294B-CF23-43E3-9434A03C6D6F545B",
+          "author": "Simon Makin",
+          "description": "An open-source approach downsizes today’s clunking behemoths with permanent magnets and deep-learning algorithms\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/a-portable-mri-makes-imaging-more-democratic/",
+          "publishedOn": "2021-12-16T13:00:00.000Z",
+          "wordCount": null,
+          "title": "A Portable MRI Makes Imaging More Democratic",
+          "itunes": {}
+        },
+        {
+          "id": "09663E91-D9A9-4DC1-82F2676D8DB5361A",
+          "author": "Sam Jones",
+          "description": "A performance with living and mechanical partners can teach researchers how to design more relatable bots\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/want-to-get-humans-to-trust-robots-let-them-dance/",
+          "publishedOn": "2021-12-16T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Want to Get Humans to Trust Robots? Let Them Dance",
+          "itunes": {}
+        },
+        {
           "id": "D3C60F66-AF99-42C9-8342A5F7FB813ADA",
           "author": "Alexandra Witze, Nature magazine",
           "description": "The Parker Solar Probe has passed through a boundary and into the Sun’s atmosphere, gathering data that will help scientists better understand stars\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -23256,6 +23641,60 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=148635",
+          "author": "Mike Vizard",
+          "description": "Hasura today unveiled a Data Hub repository for integrating application programming interfaces (APIs). The repository includes a connector that makes it easier for IT organizations to convert REST APIs into ones based on the GraphQL specification. Tanmai Gopal, Hasura CEO, said the connector eliminates the need to write custom code to connect existing REST endpoints […]\nThe post Hasura Adds Engine to Transform REST APIs to GraphQL appeared first on DevOps.com.",
+          "link": "https://devops.com/hasura-adds-engine-to-transform-rest-apis-to-graphql/",
+          "publishedOn": "2021-12-16T18:39:18.000Z",
+          "wordCount": 1015,
+          "title": "Hasura Adds Engine to Transform REST APIs to GraphQL"
+        },
+        {
+          "id": "https://devops.com/?p=148642",
+          "author": "Alan Shimel",
+          "description": "In 2021, the security story in DevOps and DevSecOps has been the supply chain. So, it’s only fitting that we are currently experiencing the mother of all supply chain issues with the Log4j Log4Shell RCE vulnerability to close out the year. I won’t waste your time rehashing what Log4j is, why it’s so dangerous and […]\nThe post Log4j: It’s All About the Supply Chain, Baby! appeared first on DevOps.com.",
+          "link": "https://devops.com/log4j-its-all-about-the-supply-chain-baby/",
+          "publishedOn": "2021-12-16T17:59:36.000Z",
+          "wordCount": 1233,
+          "title": "Log4j: It’s All About the Supply Chain, Baby!"
+        },
+        {
+          "id": "https://devops.com/?p=148628",
+          "author": "Mike Vizard",
+          "description": "Speedscale today announced it is making a free edition of its observability tool for application programming interfaces (APIs) available to developers. Ken Ahrens, Speedscale CEO, said the goal is to expose more developers to the company’s API testing tool that can be accessed on their local machine via a command line interface (CLI). Dubbed Speedscale […]\nThe post Speedscale Makes Free API Observability Tool Available appeared first on DevOps.com.",
+          "link": "https://devops.com/speedscale-makes-free-api-observability-tool-available/",
+          "publishedOn": "2021-12-16T15:50:53.000Z",
+          "wordCount": 1015,
+          "title": "Speedscale Makes Free API Observability Tool Available"
+        },
+        {
+          "id": "https://devops.com/?p=148596",
+          "author": "Julien Lemoine",
+          "description": "The developer role is changing. More and more often they are being rightfully viewed as key stakeholders who aid in setting company direction in this product-led world that we live in. For many technology vendors, earning the trust of developers is critical to their short-term and long-term success, but this presents a challenge. Developers have […]\nThe post When, How and Why to Build a Developer Relations Team appeared first on DevOps.com.",
+          "link": "https://devops.com/when-how-and-why-to-build-a-developer-relations-team/",
+          "publishedOn": "2021-12-16T07:30:53.000Z",
+          "wordCount": 1511,
+          "title": "When, How and Why to Build a Developer Relations Team"
+        },
+        {
+          "id": "https://devops.com/?p=148619",
+          "author": "ROELBOB",
+          "description": "The post Start Date appeared first on DevOps.com.",
+          "link": "https://devops.com/start-date/",
+          "publishedOn": "2021-12-16T07:00:13.000Z",
+          "wordCount": 447,
+          "title": "Start Date"
+        },
+        {
+          "id": "https://devops.com/?p=148614",
+          "author": "Mitch Ashley",
+          "description": "The Log4j vulnerability got me thinking: Is there such a thing as too much open source? Before anyone immediately fires off a flaming email, rage tweet or scathing blog post, hear me out for a moment. If you know me, you know that I am an open source fanatic. I’ve been asked many times, “Should […]\nThe post Log4j: Is There Such a Thing as ‘Too Much’ Open Source? appeared first on DevOps.com.",
+          "link": "https://devops.com/log4j-is-there-such-a-thing-as-too-much-open-source/",
+          "publishedOn": "2021-12-16T03:28:09.000Z",
+          "wordCount": 903,
+          "title": "Log4j: Is There Such a Thing as ‘Too Much’ Open Source?"
+        },
+        {
           "id": "https://devops.com/?p=148605",
           "author": "Mike Vizard",
           "description": "The Graph, a provider of indexing and query tools based on the GraphQL language designed for blockchain platforms, today announced it has given $48 million to The Guild, a group of developers advancing an open source application programming interface (API) platform to further development of GraphQL-based technologies. Administered via The Graph Foundation, a nonprofit consortium […]\nThe post The Graph Donates $48M to Advance GraphQL Platforms appeared first on DevOps.com.",
@@ -25207,6 +25646,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=111198",
+          "author": "Melanie Mitchell",
+          "description": "It’s simple enough for AI to seem to comprehend data, but devising a true test of a machine’s knowledge has proved difficult.            \nThe post What Does It Mean for AI to Understand? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/what-does-it-mean-for-ai-to-understand-20211216/",
+          "publishedOn": "2021-12-16T14:48:04.000Z",
+          "wordCount": null,
+          "title": "What Does It Mean for AI to Understand?",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=111195",
           "author": "Erica Klarreich",
           "description": "A new paper shows how to create longer disordered strings than mathematicians had thought possible, proving that a well-known recent conjecture is “spectacularly wrong.”            \nThe post Mathematician Hurls Structure and Disorder Into Century-Old Problem first appeared on Quanta Magazine",
@@ -25703,6 +26152,24 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66344",
+          "author": "Nathan Yau",
+          "description": "Hi,\nWelcome to issue #169 of The Process, the newsletter for FlowingData members…\nTags: sorting, steps",
+          "link": "https://flowingdata.com/2021/12/16/process-169-sort/",
+          "publishedOn": "2021-12-16T19:30:00.000Z",
+          "wordCount": 274,
+          "title": "✚ Sorting Usefully – The Process 169"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66352",
+          "author": "Nathan Yau",
+          "description": "{\"@context\":\"http:\\/\\/schema.org\\/\",\"@id\":\"https:\\/\\/flowingdata.com\\/2021\\/12\\/16\\/nasa-solar-probe-touched-the-sun\\/#arve-youtube-lkalfbub_6e61bbdaa1daf30547261497\",\"type\":\"VideoObject\",\"embedURL\":\"https:\\/\\/www.youtube-nocookie.com\\/embed\\/LkaLfbuB_6E?iv_load_policy=3&modestbranding=1&rel=0&autohide=1&playsinline=0&autoplay=0\"}\n\n\nNASA launched the Parker Solar Probe in 2018 in an effort to…\nTags: NASA, Parker, sun",
+          "link": "https://flowingdata.com/2021/12/16/nasa-solar-probe-touched-the-sun/",
+          "publishedOn": "2021-12-16T08:21:25.000Z",
+          "wordCount": 295,
+          "title": "NASA solar probe touched the sun"
+        },
         {
           "id": "https://flowingdata.com/?p=66316",
           "author": "Nathan Yau",
