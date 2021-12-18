@@ -31,6 +31,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=359489",
+          "author": "Chris Coyier",
+          "description": "Just the first sentence alone here from Stepanie Yee and Tony Chu is solid:\nIn machine learning, computers apply statistical learning techniques to automatically identify patterns in data. These techniques can be used to make highly accurate predictions.\n\n\n\n\nAnd what …",
+          "link": "https://css-tricks.com/a-visual-introduction-to-machine-learning/",
+          "publishedOn": "2021-12-17T21:17:31.000Z",
+          "wordCount": 568,
+          "title": "A visual introduction to machine learning"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357625",
+          "author": "Jenn Lukas",
+          "description": "What’s one thing we can do to make our site better? Maybe nothing at all!\nOur websites keep getting bigger and bigger! When we have a team with so many exciting ideas and such interesting technology, it can be easy …",
+          "link": "https://css-tricks.com/maybe-nothing/",
+          "publishedOn": "2021-12-17T15:21:15.000Z",
+          "wordCount": 857,
+          "title": "Maybe Nothing"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359430",
+          "author": "Chris Coyier",
+          "description": "Huh! I did not realize that CSS custom properties had their own resolution behavior for how !important works in their values. Uh, despite writing a guide about them. 😬 But hey it’s now updated.\nStefan Judis documents it clearly. …",
+          "link": "https://css-tricks.com/the-surprising-behavior-of-important-in-css-custom-property-values/",
+          "publishedOn": "2021-12-17T15:19:08.000Z",
+          "wordCount": 559,
+          "title": "The surprising behavior of !important in CSS custom property values"
+        },
+        {
           "id": "https://css-tricks.com/?p=358029",
           "author": "Andy Bell",
           "description": "When Chris first sent me this prompt, I was thinking about writing about progressive enhancement, but that subject is so wide-reaching to be one thing and all too predictable, especially for those already familiar with my writing. Saying that, what …",
@@ -1621,6 +1648,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61b9cd2a07222107a6c7a467",
+          "author": null,
+          "description": "Have you ever read your horoscope in the newspaper or seen it on television? Well, I'm not sure about other countries, but in my country of India, people still read their horoscopes.  And this is where I got the idea for this tutorial. It might sound a bit old-fashioned, but",
+          "link": "https://www.freecodecamp.org/news/python-project-build-an-api-with-beautiful-soup-and-flask/",
+          "publishedOn": "2021-12-17T18:29:53.000Z",
+          "wordCount": 2449,
+          "title": "Python Project – How to Create a Horoscope API with Beautiful Soup and Flask"
+        },
+        {
+          "id": "60c08960d3126007592d56fd",
+          "author": null,
+          "description": "HTML(Hyper Text Markup Language) is one of the languages we use to create web applications. It adds structure to your web pages. HTML has various tags we use to create elements. And multiple elements come together to create meaningful web pages and applications. The anchor tag is one of",
+          "link": "https://www.freecodecamp.org/news/the-html-a-tag-anchor-tag-example-code/",
+          "publishedOn": "2021-12-17T17:47:31.000Z",
+          "wordCount": 2077,
+          "title": "The HTML &lt;a&gt; Tag – Anchor Tag Example Code"
+        },
         {
           "id": "61b8daa807222107a6c7a204",
           "author": null,
@@ -3852,6 +3897,177 @@
       "siteUrl": "https://hackernoon.com",
       "articles": [
         {
+          "id": "https://hackernoon.com/heres-what-industry-insiders-say-about-music-nfts?source=rss",
+          "author": "Amanda Whitcroft",
+          "description": "The music industry is the next to be disrupted by NFTs.",
+          "link": "https://hackernoon.com/heres-what-industry-insiders-say-about-music-nfts?source=rss",
+          "publishedOn": "2021-12-17T08:40:21.000Z",
+          "wordCount": 1596,
+          "title": "Here's What Industry Insiders Say About Music NFTs"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-deploy-etl-and-ml-pipelines-in-the-fastest-cheapest-and-most-flexible-way-possible?source=rss",
+          "author": "Daniiar Abdiev",
+          "description": "Cost-Efficient and flexible ETL and ML pipelines deployment with a no-code solution.",
+          "link": "https://hackernoon.com/how-to-deploy-etl-and-ml-pipelines-in-the-fastest-cheapest-and-most-flexible-way-possible?source=rss",
+          "publishedOn": "2021-12-17T08:32:26.000Z",
+          "wordCount": 1494,
+          "title": "How to Deploy ETL and ML Pipelines in the Fastest, Cheapest and Most Flexible Way Possible"
+        },
+        {
+          "id": "https://hackernoon.com/gke-vs-eks-comparing-google-kubernetes-engine-and-amazon-elastic-kubernetes-service?source=rss",
+          "author": "Asad Faizi",
+          "description": "There are key differences between GKE and EKS. While EKS is a market leader, read more to find out why GKE can give EKS a run for its money.",
+          "link": "https://hackernoon.com/gke-vs-eks-comparing-google-kubernetes-engine-and-amazon-elastic-kubernetes-service?source=rss",
+          "publishedOn": "2021-12-17T08:25:10.000Z",
+          "wordCount": 1017,
+          "title": "GKE vs. EKS: Comparing Google Kubernetes Engine and Amazon Elastic Kubernetes Service"
+        },
+        {
+          "id": "https://hackernoon.com/a-guide-to-making-a-ble-enabled-smart-bulb-with-stm32?source=rss",
+          "author": "BleuIO",
+          "description": "The aim of this project is to control different home appliances using a web browser or smartphone.",
+          "link": "https://hackernoon.com/a-guide-to-making-a-ble-enabled-smart-bulb-with-stm32?source=rss",
+          "publishedOn": "2021-12-17T08:20:53.000Z",
+          "wordCount": 973,
+          "title": "A Guide to Making a BLE-Enabled Smart Bulb with STM32"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-bulk-distribute-spl-tokens-in-3-easy-steps-solana-based-tokens?source=rss",
+          "author": "Michael Song",
+          "description": "How to simply distribute SPL tokens in a couple of minutes using Solminter.",
+          "link": "https://hackernoon.com/how-to-bulk-distribute-spl-tokens-in-3-easy-steps-solana-based-tokens?source=rss",
+          "publishedOn": "2021-12-17T08:16:10.000Z",
+          "wordCount": 962,
+          "title": "How to Bulk Distribute SPL Tokens in 3 Easy Steps (Solana-based tokens)"
+        },
+        {
+          "id": "https://hackernoon.com/the-4-building-blocks-of-nft-value?source=rss",
+          "author": "Clout.art",
+          "description": "With a market cap of $43bn & a trading volume of $3.6bn as of last month, the NFT craze has hit an all–time high. But what really gives value to NFTs?",
+          "link": "https://hackernoon.com/the-4-building-blocks-of-nft-value?source=rss",
+          "publishedOn": "2021-12-17T08:12:04.000Z",
+          "wordCount": 988,
+          "title": "The 4 Building Blocks Of NFT Value"
+        },
+        {
+          "id": "https://hackernoon.com/halo-infinite-campaign-review-xbox-master-chief-is-back-in-action?source=rss",
+          "author": "Evgeny Kim",
+          "description": "343 Industries mastered the art of creating a visually stunning world that is captivating and engaging but lacks story cohesion.",
+          "link": "https://hackernoon.com/halo-infinite-campaign-review-xbox-master-chief-is-back-in-action?source=rss",
+          "publishedOn": "2021-12-17T08:01:59.000Z",
+          "wordCount": 2200,
+          "title": "Halo Infinite Campaign Review (Xbox): Master Chief is Back in Action"
+        },
+        {
+          "id": "https://hackernoon.com/is-cryptocurrency-the-salary-of-the-future?source=rss",
+          "author": "Sara Pinto",
+          "description": "In this slogging thread, our technology channel talked about companies starting to pay their employees with cryptocurrency and how this can be a new reality",
+          "link": "https://hackernoon.com/is-cryptocurrency-the-salary-of-the-future?source=rss",
+          "publishedOn": "2021-12-17T06:57:34.000Z",
+          "wordCount": 2444,
+          "title": "Is Cryptocurrency the Salary of the Future?"
+        },
+        {
+          "id": "https://hackernoon.com/gaming-lingo-for-dummies?source=rss",
+          "author": "Slogging (Slack Blogging)",
+          "description": "Gamers have their own language and jargon. In this thread, our community shared a concise guide on gaming lingo that will turn you from bot to pro in no time.",
+          "link": "https://hackernoon.com/gaming-lingo-for-dummies?source=rss",
+          "publishedOn": "2021-12-17T06:42:54.000Z",
+          "wordCount": 1587,
+          "title": "Gaming Lingo for Dummies"
+        },
+        {
+          "id": "https://hackernoon.com/web-design-mistakes-that-just-wont-die?source=rss",
+          "author": "Slogging (Slack Blogging)",
+          "description": "In this thread, the Slogging community discusses the most common web design mistakes that just won't die.",
+          "link": "https://hackernoon.com/web-design-mistakes-that-just-wont-die?source=rss",
+          "publishedOn": "2021-12-17T06:40:07.000Z",
+          "wordCount": 2000,
+          "title": "Web Design Mistakes that Just Won't Die"
+        },
+        {
+          "id": "https://hackernoon.com/protect-your-wealth-10-financial-predictions-for-2022?source=rss",
+          "author": "Ras Vasilisin",
+          "description": "Almost every government on Earth has started developing its own digital currency.",
+          "link": "https://hackernoon.com/protect-your-wealth-10-financial-predictions-for-2022?source=rss",
+          "publishedOn": "2021-12-17T06:07:06.000Z",
+          "wordCount": 1122,
+          "title": "Protect Your Wealth: 10 Financial Predictions for 2022"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-create-a-billion-dollar-business-on-a-budget?source=rss",
+          "author": "BostonTrading.co",
+          "description": "The lessons learned in business can make you happier, wealthier and give you more free time.",
+          "link": "https://hackernoon.com/how-to-create-a-billion-dollar-business-on-a-budget?source=rss",
+          "publishedOn": "2021-12-17T05:29:49.000Z",
+          "wordCount": 2281,
+          "title": "How to Create a Billion-Dollar Business on a Budget"
+        },
+        {
+          "id": "https://hackernoon.com/decentraland-tech-rave-meets-nft-art-drop-by-bjarne-melgaard?source=rss",
+          "author": "The Lightbulb Man",
+          "description": "Bjarne Melgaard takes the NFT world by the balls with an Industrial Tech Sandbox Rave and NFT Drop.",
+          "link": "https://hackernoon.com/decentraland-tech-rave-meets-nft-art-drop-by-bjarne-melgaard?source=rss",
+          "publishedOn": "2021-12-17T04:53:28.000Z",
+          "wordCount": 1052,
+          "title": "Decentraland Tech Rave Meets NFT Art Drop by Bjarne Melgaard"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-the-best-advice-for-first-time-managers?source=rss",
+          "author": "Lomit Patel",
+          "description": "Learning to lead and manage teams are essential skills for anyone looking to advance their career.",
+          "link": "https://hackernoon.com/what-is-the-best-advice-for-first-time-managers?source=rss",
+          "publishedOn": "2021-12-17T04:33:46.000Z",
+          "wordCount": 1966,
+          "title": "What is the Best Advice for First-Time Managers?"
+        },
+        {
+          "id": "https://hackernoon.com/the-pov-of-a-mechanical-engineer-on-artificial-limbs-and-exoskeletons?source=rss",
+          "author": "Davit Ayvazyan",
+          "description": "Modern prostheses and exoskeletons can be even more effective than actual human limbs. That’s what I call progress.",
+          "link": "https://hackernoon.com/the-pov-of-a-mechanical-engineer-on-artificial-limbs-and-exoskeletons?source=rss",
+          "publishedOn": "2021-12-17T03:47:04.000Z",
+          "wordCount": 983,
+          "title": "The POV of a Mechanical Engineer on Artificial Limbs and Exoskeletons"
+        },
+        {
+          "id": "https://hackernoon.com/these-are-the-tech-concepts-no-one-understands?source=rss",
+          "author": "Slogging (Slack Blogging)",
+          "description": "Many tech concepts still leave people rather confused.  In this thread, we relate to that.",
+          "link": "https://hackernoon.com/these-are-the-tech-concepts-no-one-understands?source=rss",
+          "publishedOn": "2021-12-17T02:55:36.000Z",
+          "wordCount": 2049,
+          "title": "These are the Tech Concepts No One Understands"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-include-open-source-code-in-your-product?source=rss",
+          "author": "Intetics Inc.",
+          "description": "Modern software development involves the increased use of open-source code as an essential part of tailoring product projects.",
+          "link": "https://hackernoon.com/how-to-include-open-source-code-in-your-product?source=rss",
+          "publishedOn": "2021-12-17T02:37:04.000Z",
+          "wordCount": 998,
+          "title": "How to Include Open Source Code in Your Product"
+        },
+        {
+          "id": "https://hackernoon.com/nfts-future-beyond-investment-the-7-types-of-nfts-available-today?source=rss",
+          "author": "Kadeem Clarke",
+          "description": "NFTs have a future beyond inflated #cryptopunks and #BoredApes",
+          "link": "https://hackernoon.com/nfts-future-beyond-investment-the-7-types-of-nfts-available-today?source=rss",
+          "publishedOn": "2021-12-16T23:40:11.000Z",
+          "wordCount": 2078,
+          "title": "NFTs' Future Beyond Investment: The 7 Types of NFTs Available Today"
+        },
+        {
+          "id": "https://hackernoon.com/aws-karpenter-autoscaler-and-how-it-stacks-up-against-cast-ai?source=rss",
+          "author": "CAST AI",
+          "description": "What exactly is AWS Karpenter, how does it work, and how does it differ from CAST AI autoscaling mechanisms? Here's the answer.",
+          "link": "https://hackernoon.com/aws-karpenter-autoscaler-and-how-it-stacks-up-against-cast-ai?source=rss",
+          "publishedOn": "2021-12-16T23:36:36.000Z",
+          "wordCount": 3250,
+          "title": "AWS' Karpenter Autoscaler and How it Stacks Up Against CAST AI"
+        },
+        {
           "id": "https://hackernoon.com/wtf-is-a-codec?source=rss",
           "author": "Piyush Badkul",
           "description": "Codec comprises an integral part of our lives like the water we drink. They are continuously in action all around us without us realizing it.",
@@ -4768,6 +4984,15 @@
           "publishedOn": "2021-12-10T09:25:55.000Z",
           "wordCount": 1017,
           "title": "Can Blockchains Overcome the Scalability Trilemma?"
+        },
+        {
+          "id": "https://hackernoon.com/the-best-podcasts-and-soundtracks-to-listen-to-during-your-workday?source=rss",
+          "author": "Limarc Ambalina",
+          "description": "The HackerNoon staff and community talk about their favorite tech podcasts, playlists, and even video game soundtracks that get them through the day",
+          "link": "https://hackernoon.com/the-best-podcasts-and-soundtracks-to-listen-to-during-your-workday?source=rss",
+          "publishedOn": "2021-12-10T08:05:25.000Z",
+          "wordCount": 1723,
+          "title": "The Best Podcasts and Soundtracks to Listen to During Your Workday"
         },
         {
           "id": "https://hackernoon.com/why-you-should-avoid-security-nihilism?source=rss",
@@ -13476,6 +13701,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=148158",
+          "author": "ACMer",
+          "description": "You are given a list of integers prices where prices represents the price to sell a rod of size i + 1, and an integer n which represents the current size of the rod. Given you can cut the rod into...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-max-profit-of-rod-cutting-unbounded-knapsack-via-bottom-up-dynamic-programming-algorithm/",
+          "publishedOn": "2021-12-17T20:45:16.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Max Profit of Rod Cutting (Unbounded Knapsack) via Bottom Up Dynamic Programming Algorithm",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=148139",
           "author": "ACMer",
           "description": "You are given a list of integers prices where prices represents the price to sell a rod of size i + 1, and an integer n which represents the current size of the rod. Given you can cut the rod into...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -14272,6 +14507,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=511859",
+          "author": "Dave Rowntree",
+          "description": "There is many a comment on these here pages along the lines of “Why did you use a microcontroller, when you could just have easily used a 555 timer!” And, …read more",
+          "link": "https://hackaday.com/2021/12/17/implementing-a-cpu-using-555-timers-and-logic-synthesis/",
+          "publishedOn": "2021-12-18T00:00:22.000Z",
+          "wordCount": 1426,
+          "title": "Implementing A CPU Using 555 Timers And Logic Synthesis"
+        },
+        {
+          "id": "https://hackaday.com/?p=511733",
+          "author": "Lewin Day",
+          "description": "[rctestflight] recently purchased a big CNC router, and that meant it was time to arrange for some dust extraction in the workshop. Naturally, he set about building this himself! Using …read more",
+          "link": "https://hackaday.com/2021/12/17/3d-printing-a-cyclonic-dust-seperator/",
+          "publishedOn": "2021-12-17T21:00:59.000Z",
+          "wordCount": 1167,
+          "title": "3D Printing A Cyclonic Dust Seperator"
+        },
+        {
+          "id": "https://hackaday.com/?p=511736",
+          "author": "Lewin Day",
+          "description": "Branding can be done on wood with just about any old bit of hot metal, but if you want to do it well, properly-crafted tooling will go a long way. …read more",
+          "link": "https://hackaday.com/2021/12/17/building-a-custom-branding-iron-with-swappable-date-blocks/",
+          "publishedOn": "2021-12-17T19:30:04.000Z",
+          "wordCount": 1275,
+          "title": "Building a Custom Branding Iron With Swappable Date Blocks"
+        },
+        {
+          "id": "https://hackaday.com/?p=509562",
+          "author": "Al Williams",
+          "description": "Do you know the law of least astonishment? I am not sure of its origin, but I first learned it from the excellent “Tao of Programming.” Simply put, it is …read more",
+          "link": "https://hackaday.com/2021/12/17/error-codes-and-the-law-of-least-astonishment/",
+          "publishedOn": "2021-12-17T18:00:39.000Z",
+          "wordCount": 3503,
+          "title": "Error Codes and the Law of Least Astonishment"
+        },
+        {
+          "id": "https://hackaday.com/?p=512169&preview=true&preview_id=512169",
+          "author": "Dan Maloney",
+          "description": "Newly ordained Hackaday editor-in-chief Elliot Williams and staff writer Dan Maloney jump behind the podcast mic to catch you up on all this week’s essential hacks. We’ll have a Bob …read more",
+          "link": "https://hackaday.com/2021/12/17/hackaday-podcast-149-ballerina-bot-balances-flexures-track-cat-food-pcb-goes-under-the-knife-and-an-attiny-does-the-555/",
+          "publishedOn": "2021-12-17T17:00:13.000Z",
+          "wordCount": 1446,
+          "title": "Hackaday Podcast 149: Ballerina Bot Balances, Flexures Track Cat Food, PCB Goes Under the Knife, and an ATtiny Does the 555"
+        },
+        {
+          "id": "https://hackaday.com/?p=511797",
+          "author": "Lewin Day",
+          "description": "The Gluggle Jug is an aptly-named thing – it’s a jug that makes loud, satisfying glugging noises when poured. But how does it work? [Steve Mould] set out to investigate.  …read more",
+          "link": "https://hackaday.com/2021/12/17/gluggle-jug-is-neat-application-of-hydrodynamics/",
+          "publishedOn": "2021-12-17T16:00:32.000Z",
+          "wordCount": 1269,
+          "title": "Gluggle Jug Is Neat Application of Hydrodynamics"
+        },
+        {
+          "id": "https://hackaday.com/?p=512070",
+          "author": "Jonathan Bennett",
+          "description": "The big news this week is Log4j, breaking just a few hours too late to be included in last week’s column. Folks are already asking if this is the most …read more",
+          "link": "https://hackaday.com/2021/12/17/this-week-in-security-log4j-pdf-cpu-and-i-hack-starlink/",
+          "publishedOn": "2021-12-17T15:00:59.000Z",
+          "wordCount": 3356,
+          "title": "This Week in Security: Log4j, PDF CPU, and I Hacked Starlink"
+        },
         {
           "id": "https://hackaday.com/?p=511710",
           "author": "Tom Nardi",
@@ -19176,6 +19474,93 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "66A58449-0E86-4F45-961E7D320B5CF28E",
+          "author": "Heidi Ledford, Nature magazine",
+          "description": "A rapidly spreading variant could dangerously strain health-care systems, even if the severe disease risk is relatively low for an individual\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-severe-are-omicron-infections/",
+          "publishedOn": "2021-12-17T21:30:00.000Z",
+          "wordCount": null,
+          "title": "How Severe Are Omicron Infections?",
+          "itunes": {}
+        },
+        {
+          "id": "025E1EFC-A375-4E5B-ADBD498CD5F99E97",
+          "author": "Chelsea Harvey, E&E News",
+          "description": "Several countries are looking to routinely look for the fingerprints of warming right after extreme weather events happen\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/emerging-services-aim-to-link-climate-to-disasters-in-real-time/",
+          "publishedOn": "2021-12-17T20:00:00.000Z",
+          "wordCount": null,
+          "title": "Emerging Services Aim to Link Climate to Disasters in Real Time",
+          "itunes": {}
+        },
+        {
+          "id": "1694336F-7B6D-4667-BB09AA41D0CB9EFB",
+          "author": "Josh Fischman, Jeffery DelViscio",
+          "description": "Today we bring you a new episode in our podcast series COVID, Quickly. Every two weeks, Scientific American’s senior health editors Tanya Lewis and Josh Fischman catch you up on the...\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/podcast/episode/covid-quickly-episode-21-vaccines-against-omicron-and-pandemic-progress/",
+          "publishedOn": "2021-12-17T18:30:00.000Z",
+          "wordCount": null,
+          "title": "COVID Quickly, Episode 21: Vaccines Against Omicron, and Pandemic Progress",
+          "itunes": {
+            "duration": "05:22"
+          },
+          "enclosure": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=71531289-6DB8-49E9-A9BB34137B7AF496",
+            "length": "7943395",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "9DC23B12-5FB8-4A09-9477B68592ECE85E",
+          "author": "Glenn R. McLaughlin",
+          "description": "Science in meter and verse\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/poem-the-scalar-nature-of-snow/",
+          "publishedOn": "2021-12-17T17:00:00.000Z",
+          "wordCount": null,
+          "title": "Poem: 'The Scalar Nature of Snow'",
+          "itunes": {}
+        },
+        {
+          "id": "57B29F82-A472-4291-91FBCD52A5B386E2",
+          "author": "Cameron Duke, LiveScience",
+          "description": "It’s a millipede, literally\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/newfound-millipede-breaks-world-record-for-the-most-legs/",
+          "publishedOn": "2021-12-17T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Newfound Millipede Breaks World Record for the Most Legs",
+          "itunes": {}
+        },
+        {
+          "id": "66491384-BB68-4301-90DCD826CE149DFB",
+          "author": "Maggie Andresen, Lydia Chain",
+          "description": "A guest podcast from Undark: As Nigeria’s mangrove forests are covered with sand, dredging threatens the livelihoods of local people\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/in-lagos-vulnerable-communities-are-buried-by-urbanization/",
+          "publishedOn": "2021-12-17T15:00:00.000Z",
+          "wordCount": null,
+          "title": "In Lagos, Vulnerable Communities Are Buried by Urbanization",
+          "itunes": {}
+        },
+        {
+          "id": "E0F14813-4800-436A-84B12F7CD7AA45D3",
+          "author": "Claudia Wallis",
+          "description": "The reasons for unequal patient outcomes may lie in implicit biases at the hospitals that treat them\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/black-children-as-well-as-other-minority-kids-fare-worse-than-white-children-in-common-surgeries/",
+          "publishedOn": "2021-12-17T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Black Children, as Well as Other Minority Kids, Fare Worse Than White Children in Common Surgeries",
+          "itunes": {}
+        },
+        {
+          "id": "E95709EF-3A93-4FD1-A87C5597A92D2FCA",
+          "author": "Charles Schmidt",
+          "description": "The new coronavirus variant may be better than other versions at avoiding human immune defenses—but that ability may change in different countries\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/why-is-omicron-so-contagious/",
+          "publishedOn": "2021-12-17T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Why Is Omicron So Contagious?",
+          "itunes": {}
+        },
+        {
           "id": "4FFF7005-5B4B-4F2B-A80456043446E0E5",
           "author": "Benjamin Storrow, E&E News",
           "description": "Some groups worry a proposed tax credit could offer a lifeline to coal-powered plants\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -23641,6 +24026,24 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=148659",
+          "author": "Mike Vizard",
+          "description": "Red Hat this week announced a public beta of an Image Builder service that streamlines the process of building customized instances of the Red Hat Enterprise Linux (RHEL) operating system. Scott Herold, director of product management for RHEL at Red Hat, said the Image Builder service enables an IT team to define a “gold” template […]\nThe post Red Hat Adds Service to Customize RHEL Images appeared first on DevOps.com.",
+          "link": "https://devops.com/red-hat-adds-service-to-customize-rhel-images/",
+          "publishedOn": "2021-12-17T17:28:34.000Z",
+          "wordCount": 1029,
+          "title": "Red Hat Adds Service to Customize RHEL Images"
+        },
+        {
+          "id": "https://devops.com/?p=148624",
+          "author": "Gary Robinson",
+          "description": "Research estimates that cybercrime is going to cost the world $10.5 trillion annually by 2025, so it is no surprise that cybersecurity has become a top priority for business leaders.  Today, security teams are striving to harden their systems against cyberattacks and improve their resilience through more employee security training, incident response programs and the […]\nThe post Bridging the AppSec and DevOps Disconnect appeared first on DevOps.com.",
+          "link": "https://devops.com/bridging-the-appsec-and-devops-disconnect/",
+          "publishedOn": "2021-12-17T07:30:04.000Z",
+          "wordCount": 1222,
+          "title": "Bridging the AppSec and DevOps Disconnect"
+        },
+        {
           "id": "https://devops.com/?p=148635",
           "author": "Mike Vizard",
           "description": "Hasura today unveiled a Data Hub repository for integrating application programming interfaces (APIs). The repository includes a connector that makes it easier for IT organizations to convert REST APIs into ones based on the GraphQL specification. Tanmai Gopal, Hasura CEO, said the connector eliminates the need to write custom code to connect existing REST endpoints […]\nThe post Hasura Adds Engine to Transform REST APIs to GraphQL appeared first on DevOps.com.",
@@ -26152,6 +26555,24 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66383",
+          "author": "Nathan Yau",
+          "description": "Steven L. Franconeri, Lace M. Padilla, Priti Shah, Jeffrey M. Zacks, and Jessica…\nTags: perception, research",
+          "link": "https://flowingdata.com/2021/12/17/what-works-in-visualization-scientifically-speaking/",
+          "publishedOn": "2021-12-17T10:49:31.000Z",
+          "wordCount": 437,
+          "title": "What works in visualization, scientifically speaking"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66333",
+          "author": "Nathan Yau",
+          "description": "You know it’s the holiday season when Mariah Carey starts singing about wanting…\nTags: Christmas, songs, Washington Post",
+          "link": "https://flowingdata.com/2021/12/17/why-we-listen-to-the-same-christmas-songs/",
+          "publishedOn": "2021-12-17T10:05:19.000Z",
+          "wordCount": 327,
+          "title": "Why we listen to the same Christmas songs"
+        },
         {
           "id": "https://flowingdata.com/?p=66344",
           "author": "Nathan Yau",

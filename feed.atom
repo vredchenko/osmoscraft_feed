@@ -2,10 +2,469 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2021-12-17T00:44:51.992Z</updated>
+    <updated>2021-12-18T00:45:34.849Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Implementing A CPU Using 555 Timers And Logic Synthesis]]></title>
+        <id>https://hackaday.com/?p=511859</id>
+        <link href="https://hackaday.com/2021/12/17/implementing-a-cpu-using-555-timers-and-logic-synthesis/"/>
+        <updated>2021-12-18T00:00:22.000Z</updated>
+        <summary type="html"><![CDATA[There is many a comment on these here pages along the lines of “Why did you use a microcontroller, when you could just have easily used a 555 timer!” And, …read more]]></summary>
+        <author>
+            <name>Dave Rowntree</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Severe Are Omicron Infections?]]></title>
+        <id>66A58449-0E86-4F45-961E7D320B5CF28E</id>
+        <link href="https://www.scientificamerican.com/article/how-severe-are-omicron-infections/"/>
+        <updated>2021-12-17T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A rapidly spreading variant could dangerously strain health-care systems, even if the severe disease risk is relatively low for an individual
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Heidi Ledford, Nature magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A visual introduction to machine learning]]></title>
+        <id>https://css-tricks.com/?p=359489</id>
+        <link href="https://css-tricks.com/a-visual-introduction-to-machine-learning/"/>
+        <updated>2021-12-17T21:17:31.000Z</updated>
+        <summary type="html"><![CDATA[Just the first sentence alone here from Stepanie Yee and Tony Chu is solid:
+In machine learning, computers apply statistical learning techniques to automatically identify patterns in data. These techniques can be used to make highly accurate predictions.
+
+
+
+
+And what …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printing A Cyclonic Dust Seperator]]></title>
+        <id>https://hackaday.com/?p=511733</id>
+        <link href="https://hackaday.com/2021/12/17/3d-printing-a-cyclonic-dust-seperator/"/>
+        <updated>2021-12-17T21:00:59.000Z</updated>
+        <summary type="html"><![CDATA[[rctestflight] recently purchased a big CNC router, and that meant it was time to arrange for some dust extraction in the workshop. Naturally, he set about building this himself! Using …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – Max Profit of Rod Cutting (Unbounded Knapsack) via Bottom Up Dynamic Programming Algorithm]]></title>
+        <id>https://helloacm.com/?p=148158</id>
+        <link href="https://helloacm.com/teaching-kids-programming-max-profit-of-rod-cutting-unbounded-knapsack-via-bottom-up-dynamic-programming-algorithm/"/>
+        <updated>2021-12-17T20:45:16.000Z</updated>
+        <summary type="html"><![CDATA[You are given a list of integers prices where prices represents the price to sell a rod of size i + 1, and an integer n which represents the current size of the rod. Given you can cut the rod into...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emerging Services Aim to Link Climate to Disasters in Real Time]]></title>
+        <id>025E1EFC-A375-4E5B-ADBD498CD5F99E97</id>
+        <link href="https://www.scientificamerican.com/article/emerging-services-aim-to-link-climate-to-disasters-in-real-time/"/>
+        <updated>2021-12-17T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Several countries are looking to routinely look for the fingerprints of warming right after extreme weather events happen
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Chelsea Harvey, E&amp;E News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Custom Branding Iron With Swappable Date Blocks]]></title>
+        <id>https://hackaday.com/?p=511736</id>
+        <link href="https://hackaday.com/2021/12/17/building-a-custom-branding-iron-with-swappable-date-blocks/"/>
+        <updated>2021-12-17T19:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Branding can be done on wood with just about any old bit of hot metal, but if you want to do it well, properly-crafted tooling will go a long way. …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COVID Quickly, Episode 21: Vaccines Against Omicron, and Pandemic Progress]]></title>
+        <id>1694336F-7B6D-4667-BB09AA41D0CB9EFB</id>
+        <link href="https://www.scientificamerican.com/podcast/episode/covid-quickly-episode-21-vaccines-against-omicron-and-pandemic-progress/"/>
+        <updated>2021-12-17T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Today we bring you a new episode in our podcast series COVID, Quickly. Every two weeks, Scientific American’s senior health editors Tanya Lewis and Josh Fischman catch you up on the...
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Josh Fischman, Jeffery DelViscio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Project – How to Create a Horoscope API with Beautiful Soup and Flask]]></title>
+        <id>61b9cd2a07222107a6c7a467</id>
+        <link href="https://www.freecodecamp.org/news/python-project-build-an-api-with-beautiful-soup-and-flask/"/>
+        <updated>2021-12-17T18:29:53.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever read your horoscope in the newspaper or seen it on television? Well, I'm not sure about other countries, but in my country of India, people still read their horoscopes.  And this is where I got the idea for this tutorial. It might sound a bit old-fashioned, but]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Error Codes and the Law of Least Astonishment]]></title>
+        <id>https://hackaday.com/?p=509562</id>
+        <link href="https://hackaday.com/2021/12/17/error-codes-and-the-law-of-least-astonishment/"/>
+        <updated>2021-12-17T18:00:39.000Z</updated>
+        <summary type="html"><![CDATA[Do you know the law of least astonishment? I am not sure of its origin, but I first learned it from the excellent “Tao of Programming.” Simply put, it is …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The HTML &lt;a&gt; Tag – Anchor Tag Example Code]]></title>
+        <id>60c08960d3126007592d56fd</id>
+        <link href="https://www.freecodecamp.org/news/the-html-a-tag-anchor-tag-example-code/"/>
+        <updated>2021-12-17T17:47:31.000Z</updated>
+        <summary type="html"><![CDATA[HTML(Hyper Text Markup Language) is one of the languages we use to create web applications. It adds structure to your web pages. HTML has various tags we use to create elements. And multiple elements come together to create meaningful web pages and applications. The anchor tag is one of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Hat Adds Service to Customize RHEL Images]]></title>
+        <id>https://devops.com/?p=148659</id>
+        <link href="https://devops.com/red-hat-adds-service-to-customize-rhel-images/"/>
+        <updated>2021-12-17T17:28:34.000Z</updated>
+        <summary type="html"><![CDATA[Red Hat this week announced a public beta of an Image Builder service that streamlines the process of building customized instances of the Red Hat Enterprise Linux (RHEL) operating system. Scott Herold, director of product management for RHEL at Red Hat, said the Image Builder service enables an IT team to define a “gold” template […]
+The post Red Hat Adds Service to Customize RHEL Images appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Mike Vizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackaday Podcast 149: Ballerina Bot Balances, Flexures Track Cat Food, PCB Goes Under the Knife, and an ATtiny Does the 555]]></title>
+        <id>https://hackaday.com/?p=512169&amp;preview=true&amp;preview_id=512169</id>
+        <link href="https://hackaday.com/2021/12/17/hackaday-podcast-149-ballerina-bot-balances-flexures-track-cat-food-pcb-goes-under-the-knife-and-an-attiny-does-the-555/"/>
+        <updated>2021-12-17T17:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Newly ordained Hackaday editor-in-chief Elliot Williams and staff writer Dan Maloney jump behind the podcast mic to catch you up on all this week’s essential hacks. We’ll have a Bob …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poem: 'The Scalar Nature of Snow']]></title>
+        <id>9DC23B12-5FB8-4A09-9477B68592ECE85E</id>
+        <link href="https://www.scientificamerican.com/article/poem-the-scalar-nature-of-snow/"/>
+        <updated>2021-12-17T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Science in meter and verse
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Glenn R. McLaughlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gluggle Jug Is Neat Application of Hydrodynamics]]></title>
+        <id>https://hackaday.com/?p=511797</id>
+        <link href="https://hackaday.com/2021/12/17/gluggle-jug-is-neat-application-of-hydrodynamics/"/>
+        <updated>2021-12-17T16:00:32.000Z</updated>
+        <summary type="html"><![CDATA[The Gluggle Jug is an aptly-named thing – it’s a jug that makes loud, satisfying glugging noises when poured. But how does it work? [Steve Mould] set out to investigate.  …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newfound Millipede Breaks World Record for the Most Legs]]></title>
+        <id>57B29F82-A472-4291-91FBCD52A5B386E2</id>
+        <link href="https://www.scientificamerican.com/article/newfound-millipede-breaks-world-record-for-the-most-legs/"/>
+        <updated>2021-12-17T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s a millipede, literally
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Cameron Duke, LiveScience</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maybe Nothing]]></title>
+        <id>https://css-tricks.com/?p=357625</id>
+        <link href="https://css-tricks.com/maybe-nothing/"/>
+        <updated>2021-12-17T15:21:15.000Z</updated>
+        <summary type="html"><![CDATA[What’s one thing we can do to make our site better? Maybe nothing at all!
+Our websites keep getting bigger and bigger! When we have a team with so many exciting ideas and such interesting technology, it can be easy …]]></summary>
+        <author>
+            <name>Jenn Lukas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The surprising behavior of !important in CSS custom property values]]></title>
+        <id>https://css-tricks.com/?p=359430</id>
+        <link href="https://css-tricks.com/the-surprising-behavior-of-important-in-css-custom-property-values/"/>
+        <updated>2021-12-17T15:19:08.000Z</updated>
+        <summary type="html"><![CDATA[Huh! I did not realize that CSS custom properties had their own resolution behavior for how !important works in their values. Uh, despite writing a guide about them. 😬 But hey it’s now updated.
+Stefan Judis documents it clearly. …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Week in Security: Log4j, PDF CPU, and I Hacked Starlink]]></title>
+        <id>https://hackaday.com/?p=512070</id>
+        <link href="https://hackaday.com/2021/12/17/this-week-in-security-log4j-pdf-cpu-and-i-hack-starlink/"/>
+        <updated>2021-12-17T15:00:59.000Z</updated>
+        <summary type="html"><![CDATA[The big news this week is Log4j, breaking just a few hours too late to be included in last week’s column. Folks are already asking if this is the most …read more]]></summary>
+        <author>
+            <name>Jonathan Bennett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Lagos, Vulnerable Communities Are Buried by Urbanization]]></title>
+        <id>66491384-BB68-4301-90DCD826CE149DFB</id>
+        <link href="https://www.scientificamerican.com/article/in-lagos-vulnerable-communities-are-buried-by-urbanization/"/>
+        <updated>2021-12-17T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A guest podcast from Undark: As Nigeria’s mangrove forests are covered with sand, dredging threatens the livelihoods of local people
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Maggie Andresen, Lydia Chain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black Children, as Well as Other Minority Kids, Fare Worse Than White Children in Common Surgeries]]></title>
+        <id>E0F14813-4800-436A-84B12F7CD7AA45D3</id>
+        <link href="https://www.scientificamerican.com/article/black-children-as-well-as-other-minority-kids-fare-worse-than-white-children-in-common-surgeries/"/>
+        <updated>2021-12-17T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The reasons for unequal patient outcomes may lie in implicit biases at the hospitals that treat them
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Claudia Wallis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Is Omicron So Contagious?]]></title>
+        <id>E95709EF-3A93-4FD1-A87C5597A92D2FCA</id>
+        <link href="https://www.scientificamerican.com/article/why-is-omicron-so-contagious/"/>
+        <updated>2021-12-17T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The new coronavirus variant may be better than other versions at avoiding human immune defenses—but that ability may change in different countries
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Charles Schmidt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What works in visualization, scientifically speaking]]></title>
+        <id>https://flowingdata.com/?p=66383</id>
+        <link href="https://flowingdata.com/2021/12/17/what-works-in-visualization-scientifically-speaking/"/>
+        <updated>2021-12-17T10:49:31.000Z</updated>
+        <summary type="html"><![CDATA[Steven L. Franconeri, Lace M. Padilla, Priti Shah, Jeffrey M. Zacks, and Jessica…
+Tags: perception, research]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why we listen to the same Christmas songs]]></title>
+        <id>https://flowingdata.com/?p=66333</id>
+        <link href="https://flowingdata.com/2021/12/17/why-we-listen-to-the-same-christmas-songs/"/>
+        <updated>2021-12-17T10:05:19.000Z</updated>
+        <summary type="html"><![CDATA[You know it’s the holiday season when Mariah Carey starts singing about wanting…
+Tags: Christmas, songs, Washington Post]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here's What Industry Insiders Say About Music NFTs]]></title>
+        <id>https://hackernoon.com/heres-what-industry-insiders-say-about-music-nfts?source=rss</id>
+        <link href="https://hackernoon.com/heres-what-industry-insiders-say-about-music-nfts?source=rss"/>
+        <updated>2021-12-17T08:40:21.000Z</updated>
+        <summary type="html"><![CDATA[The music industry is the next to be disrupted by NFTs.]]></summary>
+        <author>
+            <name>Amanda Whitcroft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy ETL and ML Pipelines in the Fastest, Cheapest and Most Flexible Way Possible]]></title>
+        <id>https://hackernoon.com/how-to-deploy-etl-and-ml-pipelines-in-the-fastest-cheapest-and-most-flexible-way-possible?source=rss</id>
+        <link href="https://hackernoon.com/how-to-deploy-etl-and-ml-pipelines-in-the-fastest-cheapest-and-most-flexible-way-possible?source=rss"/>
+        <updated>2021-12-17T08:32:26.000Z</updated>
+        <summary type="html"><![CDATA[Cost-Efficient and flexible ETL and ML pipelines deployment with a no-code solution.]]></summary>
+        <author>
+            <name>Daniiar Abdiev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GKE vs. EKS: Comparing Google Kubernetes Engine and Amazon Elastic Kubernetes Service]]></title>
+        <id>https://hackernoon.com/gke-vs-eks-comparing-google-kubernetes-engine-and-amazon-elastic-kubernetes-service?source=rss</id>
+        <link href="https://hackernoon.com/gke-vs-eks-comparing-google-kubernetes-engine-and-amazon-elastic-kubernetes-service?source=rss"/>
+        <updated>2021-12-17T08:25:10.000Z</updated>
+        <summary type="html"><![CDATA[There are key differences between GKE and EKS. While EKS is a market leader, read more to find out why GKE can give EKS a run for its money.]]></summary>
+        <author>
+            <name>Asad Faizi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide to Making a BLE-Enabled Smart Bulb with STM32]]></title>
+        <id>https://hackernoon.com/a-guide-to-making-a-ble-enabled-smart-bulb-with-stm32?source=rss</id>
+        <link href="https://hackernoon.com/a-guide-to-making-a-ble-enabled-smart-bulb-with-stm32?source=rss"/>
+        <updated>2021-12-17T08:20:53.000Z</updated>
+        <summary type="html"><![CDATA[The aim of this project is to control different home appliances using a web browser or smartphone.]]></summary>
+        <author>
+            <name>BleuIO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Bulk Distribute SPL Tokens in 3 Easy Steps (Solana-based tokens)]]></title>
+        <id>https://hackernoon.com/how-to-bulk-distribute-spl-tokens-in-3-easy-steps-solana-based-tokens?source=rss</id>
+        <link href="https://hackernoon.com/how-to-bulk-distribute-spl-tokens-in-3-easy-steps-solana-based-tokens?source=rss"/>
+        <updated>2021-12-17T08:16:10.000Z</updated>
+        <summary type="html"><![CDATA[How to simply distribute SPL tokens in a couple of minutes using Solminter.]]></summary>
+        <author>
+            <name>Michael Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 4 Building Blocks Of NFT Value]]></title>
+        <id>https://hackernoon.com/the-4-building-blocks-of-nft-value?source=rss</id>
+        <link href="https://hackernoon.com/the-4-building-blocks-of-nft-value?source=rss"/>
+        <updated>2021-12-17T08:12:04.000Z</updated>
+        <summary type="html"><![CDATA[With a market cap of $43bn & a trading volume of $3.6bn as of last month, the NFT craze has hit an all–time high. But what really gives value to NFTs?]]></summary>
+        <author>
+            <name>Clout.art</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Halo Infinite Campaign Review (Xbox): Master Chief is Back in Action]]></title>
+        <id>https://hackernoon.com/halo-infinite-campaign-review-xbox-master-chief-is-back-in-action?source=rss</id>
+        <link href="https://hackernoon.com/halo-infinite-campaign-review-xbox-master-chief-is-back-in-action?source=rss"/>
+        <updated>2021-12-17T08:01:59.000Z</updated>
+        <summary type="html"><![CDATA[343 Industries mastered the art of creating a visually stunning world that is captivating and engaging but lacks story cohesion.]]></summary>
+        <author>
+            <name>Evgeny Kim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bridging the AppSec and DevOps Disconnect]]></title>
+        <id>https://devops.com/?p=148624</id>
+        <link href="https://devops.com/bridging-the-appsec-and-devops-disconnect/"/>
+        <updated>2021-12-17T07:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Research estimates that cybercrime is going to cost the world $10.5 trillion annually by 2025, so it is no surprise that cybersecurity has become a top priority for business leaders.  Today, security teams are striving to harden their systems against cyberattacks and improve their resilience through more employee security training, incident response programs and the […]
+The post Bridging the AppSec and DevOps Disconnect appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Gary Robinson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Cryptocurrency the Salary of the Future?]]></title>
+        <id>https://hackernoon.com/is-cryptocurrency-the-salary-of-the-future?source=rss</id>
+        <link href="https://hackernoon.com/is-cryptocurrency-the-salary-of-the-future?source=rss"/>
+        <updated>2021-12-17T06:57:34.000Z</updated>
+        <summary type="html"><![CDATA[In this slogging thread, our technology channel talked about companies starting to pay their employees with cryptocurrency and how this can be a new reality]]></summary>
+        <author>
+            <name>Sara Pinto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gaming Lingo for Dummies]]></title>
+        <id>https://hackernoon.com/gaming-lingo-for-dummies?source=rss</id>
+        <link href="https://hackernoon.com/gaming-lingo-for-dummies?source=rss"/>
+        <updated>2021-12-17T06:42:54.000Z</updated>
+        <summary type="html"><![CDATA[Gamers have their own language and jargon. In this thread, our community shared a concise guide on gaming lingo that will turn you from bot to pro in no time.]]></summary>
+        <author>
+            <name>Slogging (Slack Blogging)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Design Mistakes that Just Won't Die]]></title>
+        <id>https://hackernoon.com/web-design-mistakes-that-just-wont-die?source=rss</id>
+        <link href="https://hackernoon.com/web-design-mistakes-that-just-wont-die?source=rss"/>
+        <updated>2021-12-17T06:40:07.000Z</updated>
+        <summary type="html"><![CDATA[In this thread, the Slogging community discusses the most common web design mistakes that just won't die.]]></summary>
+        <author>
+            <name>Slogging (Slack Blogging)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Protect Your Wealth: 10 Financial Predictions for 2022]]></title>
+        <id>https://hackernoon.com/protect-your-wealth-10-financial-predictions-for-2022?source=rss</id>
+        <link href="https://hackernoon.com/protect-your-wealth-10-financial-predictions-for-2022?source=rss"/>
+        <updated>2021-12-17T06:07:06.000Z</updated>
+        <summary type="html"><![CDATA[Almost every government on Earth has started developing its own digital currency.]]></summary>
+        <author>
+            <name>Ras Vasilisin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Billion-Dollar Business on a Budget]]></title>
+        <id>https://hackernoon.com/how-to-create-a-billion-dollar-business-on-a-budget?source=rss</id>
+        <link href="https://hackernoon.com/how-to-create-a-billion-dollar-business-on-a-budget?source=rss"/>
+        <updated>2021-12-17T05:29:49.000Z</updated>
+        <summary type="html"><![CDATA[The lessons learned in business can make you happier, wealthier and give you more free time.]]></summary>
+        <author>
+            <name>BostonTrading.co</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decentraland Tech Rave Meets NFT Art Drop by Bjarne Melgaard]]></title>
+        <id>https://hackernoon.com/decentraland-tech-rave-meets-nft-art-drop-by-bjarne-melgaard?source=rss</id>
+        <link href="https://hackernoon.com/decentraland-tech-rave-meets-nft-art-drop-by-bjarne-melgaard?source=rss"/>
+        <updated>2021-12-17T04:53:28.000Z</updated>
+        <summary type="html"><![CDATA[Bjarne Melgaard takes the NFT world by the balls with an Industrial Tech Sandbox Rave and NFT Drop.]]></summary>
+        <author>
+            <name>The Lightbulb Man</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the Best Advice for First-Time Managers?]]></title>
+        <id>https://hackernoon.com/what-is-the-best-advice-for-first-time-managers?source=rss</id>
+        <link href="https://hackernoon.com/what-is-the-best-advice-for-first-time-managers?source=rss"/>
+        <updated>2021-12-17T04:33:46.000Z</updated>
+        <summary type="html"><![CDATA[Learning to lead and manage teams are essential skills for anyone looking to advance their career.]]></summary>
+        <author>
+            <name>Lomit Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The POV of a Mechanical Engineer on Artificial Limbs and Exoskeletons]]></title>
+        <id>https://hackernoon.com/the-pov-of-a-mechanical-engineer-on-artificial-limbs-and-exoskeletons?source=rss</id>
+        <link href="https://hackernoon.com/the-pov-of-a-mechanical-engineer-on-artificial-limbs-and-exoskeletons?source=rss"/>
+        <updated>2021-12-17T03:47:04.000Z</updated>
+        <summary type="html"><![CDATA[Modern prostheses and exoskeletons can be even more effective than actual human limbs. That’s what I call progress.]]></summary>
+        <author>
+            <name>Davit Ayvazyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[These are the Tech Concepts No One Understands]]></title>
+        <id>https://hackernoon.com/these-are-the-tech-concepts-no-one-understands?source=rss</id>
+        <link href="https://hackernoon.com/these-are-the-tech-concepts-no-one-understands?source=rss"/>
+        <updated>2021-12-17T02:55:36.000Z</updated>
+        <summary type="html"><![CDATA[Many tech concepts still leave people rather confused.  In this thread, we relate to that.]]></summary>
+        <author>
+            <name>Slogging (Slack Blogging)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Include Open Source Code in Your Product]]></title>
+        <id>https://hackernoon.com/how-to-include-open-source-code-in-your-product?source=rss</id>
+        <link href="https://hackernoon.com/how-to-include-open-source-code-in-your-product?source=rss"/>
+        <updated>2021-12-17T02:37:04.000Z</updated>
+        <summary type="html"><![CDATA[Modern software development involves the increased use of open-source code as an essential part of tailoring product projects.]]></summary>
+        <author>
+            <name>Intetics Inc.</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weather Station Dumps CR2032 Cells, Gains 18650]]></title>
         <id>https://hackaday.com/?p=511710</id>
@@ -14,6 +473,26 @@
         <summary type="html"><![CDATA[Despite the fact that we’re rapidly approaching the year 2022, there are still an incredible number of gadgets out there that you’re expected to power with disposable batteries. Sure you …read more]]></summary>
         <author>
             <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFTs' Future Beyond Investment: The 7 Types of NFTs Available Today]]></title>
+        <id>https://hackernoon.com/nfts-future-beyond-investment-the-7-types-of-nfts-available-today?source=rss</id>
+        <link href="https://hackernoon.com/nfts-future-beyond-investment-the-7-types-of-nfts-available-today?source=rss"/>
+        <updated>2021-12-16T23:40:11.000Z</updated>
+        <summary type="html"><![CDATA[NFTs have a future beyond inflated #cryptopunks and #BoredApes]]></summary>
+        <author>
+            <name>Kadeem Clarke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS' Karpenter Autoscaler and How it Stacks Up Against CAST AI]]></title>
+        <id>https://hackernoon.com/aws-karpenter-autoscaler-and-how-it-stacks-up-against-cast-ai?source=rss</id>
+        <link href="https://hackernoon.com/aws-karpenter-autoscaler-and-how-it-stacks-up-against-cast-ai?source=rss"/>
+        <updated>2021-12-16T23:36:36.000Z</updated>
+        <summary type="html"><![CDATA[What exactly is AWS Karpenter, how does it work, and how does it differ from CAST AI autoscaling mechanisms? Here's the answer.]]></summary>
+        <author>
+            <name>CAST AI</name>
         </author>
     </entry>
     <entry>
@@ -2926,6 +3405,16 @@ Tags: NASA, ocean, pollution]]></summary>
 The post Reflections: A DevOps Christmas Carol appeared first on DevOps.com.]]></summary>
         <author>
             <name>Alan Shimel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Podcasts and Soundtracks to Listen to During Your Workday]]></title>
+        <id>https://hackernoon.com/the-best-podcasts-and-soundtracks-to-listen-to-during-your-workday?source=rss</id>
+        <link href="https://hackernoon.com/the-best-podcasts-and-soundtracks-to-listen-to-during-your-workday?source=rss"/>
+        <updated>2021-12-10T08:05:25.000Z</updated>
+        <summary type="html"><![CDATA[The HackerNoon staff and community talk about their favorite tech podcasts, playlists, and even video game soundtracks that get them through the day]]></summary>
+        <author>
+            <name>Limarc Ambalina</name>
         </author>
     </entry>
     <entry>
