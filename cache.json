@@ -31,6 +31,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=359017",
+          "author": "Chris Coyier",
+          "description": "There are a number of ways to approach a dark mode for your website, but essentially you get all the styles ready for it and then apply them when the user has indicated they want them, whether by direct …",
+          "link": "https://css-tricks.com/auto-dark-theme/",
+          "publishedOn": "2021-12-20T18:34:47.000Z",
+          "wordCount": 877,
+          "title": "Auto Dark Theme"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359201",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nWe’re going to go over details on how designer ↔️ developer collaboration in AWS Amplify Studio can make app building easier, but let’s cover one of those things right at the top here. \nSay …",
+          "link": "https://css-tricks.com/build-great-apps-designer-and-developer-collaboration-just-got-easier/",
+          "publishedOn": "2021-12-20T18:34:27.000Z",
+          "wordCount": 1723,
+          "title": "Build Great Apps: Designer and Developer Collaboration Just Got Easier"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358037",
+          "author": "Heather Migliorisi",
+          "description": "When I was working at my first “real” job in the field in the mid-2000s, it was hammered in the web dev field to build tiny websites (no more than 100KB per page), only use JavaScript for special effects, and …",
+          "link": "https://css-tricks.com/be-prepared-for-failure-and-handle-it-gracefully/",
+          "publishedOn": "2021-12-20T15:22:04.000Z",
+          "wordCount": 1478,
+          "title": "Be Prepared for Failure and Handle it Gracefully"
+        },
+        {
           "id": "https://css-tricks.com/?p=359489",
           "author": "Chris Coyier",
           "description": "Just the first sentence alone here from Stepanie Yee and Tony Chu is solid:\nIn machine learning, computers apply statistical learning techniques to automatically identify patterns in data. These techniques can be used to make highly accurate predictions.\n\n\n\n\nAnd what …",
@@ -1648,6 +1675,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61b9e89107222107a6c7a4bc",
+          "author": null,
+          "description": "JavaScript is a programming language that's used for a variety of purposes, including web development, web apps, game development, and more. JavaScript also lets you add dynamic features to web sites that you can't just achieve with HTML and CSS. Importance of JavaScriptJavaScript is the most important language you need",
+          "link": "https://www.freecodecamp.org/news/23-free-websites-to-learn-javascript/",
+          "publishedOn": "2021-12-20T20:25:00.000Z",
+          "wordCount": 1675,
+          "title": "23 Free Websites to Learn JavaScript in 2022"
+        },
+        {
+          "id": "61bf7907297c7107e8ad9091",
+          "author": null,
+          "description": "Transferring files between machines is a very common operational task that you'll do all the time as a developer.  Linux provides a number of utilities to transfer files. In this tutorial we will discuss FTP and SCP. Many automated scripts also deploy FTP or SCP to move files. What is",
+          "link": "https://www.freecodecamp.org/news/how-to-transfer-files-between-servers-in-linux-using-scp-and-ftp/",
+          "publishedOn": "2021-12-20T16:02:29.000Z",
+          "wordCount": 1029,
+          "title": "How to Transfer Files Between Servers in Linux using SCP and FTP"
+        },
+        {
+          "id": "61ba394407222107a6c7a7f3",
+          "author": null,
+          "description": "The impact of networks and technology continues to increase. Understanding technology makes it easier to function in an information-centric world. We just published a massive course about Internet history and technology on the freeCodeCamp.org YouTube channel. In this course you will learn how the Internet was created, who created",
+          "link": "https://www.freecodecamp.org/news/learn-the-history-of-the-internet-in-dr-chucks/",
+          "publishedOn": "2021-12-20T14:10:44.000Z",
+          "wordCount": 590,
+          "title": "Learn the History of the Internet in Dr. Chuck&#x27;s 9-Hour Course"
+        },
         {
           "id": "61b9cd2a07222107a6c7a467",
           "author": null,
@@ -3897,6 +3951,114 @@
       "siteUrl": "https://hackernoon.com",
       "articles": [
         {
+          "id": "https://hackernoon.com/cryptocurrency-technology-provides-a-higher-level-of-security-compared-to-widespread-credit-cards?source=rss",
+          "author": "Ishan Pandey",
+          "description": "This article talks about crypto, blockchain and DeFi solutions.",
+          "link": "https://hackernoon.com/cryptocurrency-technology-provides-a-higher-level-of-security-compared-to-widespread-credit-cards?source=rss",
+          "publishedOn": "2021-12-20T22:51:59.000Z",
+          "wordCount": 1918,
+          "title": "Cryptocurrency Technology Provides a Higher Level of Security Compared to Widespread Credit Cards"
+        },
+        {
+          "id": "https://hackernoon.com/ho-ho-ho-hackernoon-clever-holiday-gift-ideas-from-hackernoon?source=rss",
+          "author": "Ellen Stevens",
+          "description": "Sometimes a small gesture can go a long way in creating genuinely positive emotions for both gift giver, and gift receiver.",
+          "link": "https://hackernoon.com/ho-ho-ho-hackernoon-clever-holiday-gift-ideas-from-hackernoon?source=rss",
+          "publishedOn": "2021-12-20T22:29:13.000Z",
+          "wordCount": 992,
+          "title": "Ho, Ho, Ho, HackerNoon: Clever Holiday Gift Ideas From HackerNoon"
+        },
+        {
+          "id": "https://hackernoon.com/how-algorithms-respond-to-video-content?source=rss",
+          "author": "Hanna Lorenz",
+          "description": "Algorithms on different social platforms rank your content and recommend users across the board if it’s something the algorithm thinks that users want to see.",
+          "link": "https://hackernoon.com/how-algorithms-respond-to-video-content?source=rss",
+          "publishedOn": "2021-12-20T19:16:52.000Z",
+          "wordCount": 1695,
+          "title": "How Algorithms Respond To Video Content"
+        },
+        {
+          "id": "https://hackernoon.com/avoiding-data-tunnel-vision-and-achieving-human-machine-symbiosis?source=rss",
+          "author": "Yehuda Leibler",
+          "description": "We need to create human-machine teams that work together. The key to achieving that is recognizing that our we all suffer from data-tunnel-vision.",
+          "link": "https://hackernoon.com/avoiding-data-tunnel-vision-and-achieving-human-machine-symbiosis?source=rss",
+          "publishedOn": "2021-12-20T05:35:06.000Z",
+          "wordCount": 927,
+          "title": "Avoiding Data-Tunnel-Vision and Achieving Human-Machine Symbiosis"
+        },
+        {
+          "id": "https://hackernoon.com/what-are-unit-tests-and-why-should-you-write-them?source=rss",
+          "author": null,
+          "description": "Unit tests might seem like a waste of time to a junior programmer, but they bring significant advantages with them such as faster checks that makes better code.",
+          "link": "https://hackernoon.com/what-are-unit-tests-and-why-should-you-write-them?source=rss",
+          "publishedOn": "2021-12-20T05:22:44.000Z",
+          "wordCount": 958,
+          "title": "What are Unit Tests and Why Should You Write Them?"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-r-cnn-summarizing-regions-with-cnn-features?source=rss",
+          "author": "Dipankar Das",
+          "description": "This R-CNN Summary breaks down the research into Object Detection and Image Segmentation done to develop Computer Vision and improve ML learning speeds.",
+          "link": "https://hackernoon.com/what-is-r-cnn-summarizing-regions-with-cnn-features?source=rss",
+          "publishedOn": "2021-12-20T05:21:43.000Z",
+          "wordCount": 943,
+          "title": "What is R-CNN? - Summarizing Regions with CNN Features"
+        },
+        {
+          "id": "https://hackernoon.com/what-are-the-best-indie-games-on-switch?source=rss",
+          "author": "Jack Boreham",
+          "description": "Nintendo is one of the biggest video game publishers in the world. In this Slogging thread, the team at Hackernoon discuss the best indie games on Switch.",
+          "link": "https://hackernoon.com/what-are-the-best-indie-games-on-switch?source=rss",
+          "publishedOn": "2021-12-20T05:14:09.000Z",
+          "wordCount": 1803,
+          "title": "What are the Best Indie Games on Switch?"
+        },
+        {
+          "id": "https://hackernoon.com/who-are-the-best-video-game-villains?source=rss",
+          "author": "Jack Boreham",
+          "description": "In this slogging thread, the team at Hackernoon discuss the best video game villains and why they are their favourite.",
+          "link": "https://hackernoon.com/who-are-the-best-video-game-villains?source=rss",
+          "publishedOn": "2021-12-20T05:10:55.000Z",
+          "wordCount": 1815,
+          "title": "Who are The Best Video Game Villains?"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-prevent-ransomware-attacks-a-threat-thats-real?source=rss",
+          "author": "Abdul Majid Qureshi",
+          "description": "Ransomware works by encrypting the user’s data, making it unreadable. If a user wants their data back, a ransom must be paid. Keep reading to learn more",
+          "link": "https://hackernoon.com/how-to-prevent-ransomware-attacks-a-threat-thats-real?source=rss",
+          "publishedOn": "2021-12-19T19:14:10.000Z",
+          "wordCount": 992,
+          "title": "How To Prevent Ransomware Attacks: A Threat That’s Real"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-write-a-python-script-to-download-reddit-videos?source=rss",
+          "author": "Ajay Singh Rana",
+          "description": "This article is about coding a python script to download videos from Reddit with audio.",
+          "link": "https://hackernoon.com/how-to-write-a-python-script-to-download-reddit-videos?source=rss",
+          "publishedOn": "2021-12-19T19:08:19.000Z",
+          "wordCount": 918,
+          "title": "How to Write a Python Script to Download Reddit videos"
+        },
+        {
+          "id": "https://hackernoon.com/never-be-afraid-of-change-noonies-interview-with-farath?source=rss",
+          "author": "Farath Shba",
+          "description": "Noonies Interview with Farath, a cloud consultant and HackerNoon contributor.",
+          "link": "https://hackernoon.com/never-be-afraid-of-change-noonies-interview-with-farath?source=rss",
+          "publishedOn": "2021-12-19T17:11:44.000Z",
+          "wordCount": 956,
+          "title": "‘Never Be Afraid of Change’: Noonies Interview with Farath"
+        },
+        {
+          "id": "https://hackernoon.com/moving-beyond-the-physical-data-centers-decentralized-internet-interview?source=rss",
+          "author": "Tigerchops",
+          "description": "Tigerchop's views on Decentralized Internet.",
+          "link": "https://hackernoon.com/moving-beyond-the-physical-data-centers-decentralized-internet-interview?source=rss",
+          "publishedOn": "2021-12-19T12:15:41.000Z",
+          "wordCount": 1034,
+          "title": "Moving Beyond the Physical Data Centers: Decentralized Internet Interview"
+        },
+        {
           "id": "https://hackernoon.com/lacucina-cooks-up-a-recipe-to-bring-minnows-to-binance-smart-chain?source=rss",
           "author": "Stewart Rogers",
           "description": "LaCucina - recently came out of stealth and officially launched on the Binance Smart Chain to change the balance of power and make it easy for regular users to",
@@ -3904,6 +4066,24 @@
           "publishedOn": "2021-12-19T10:33:55.000Z",
           "wordCount": 1756,
           "title": "LaCucina cooks up a recipe to bring minnows to Binance Smart Chain"
+        },
+        {
+          "id": "https://hackernoon.com/cracking-the-aws-certified-solutions-architect-associate-exam?source=rss",
+          "author": "Abhishek Upadhyaya",
+          "description": "Tips to pass AWS Solutions Architect - Associate certificate exam",
+          "link": "https://hackernoon.com/cracking-the-aws-certified-solutions-architect-associate-exam?source=rss",
+          "publishedOn": "2021-12-19T07:34:18.000Z",
+          "wordCount": 61,
+          "title": "Cracking the AWS Certified Solutions Architect Associate Exam"
+        },
+        {
+          "id": "https://hackernoon.com/increase-your-teams-productivity-by-automating-through-apis?source=rss",
+          "author": "apilayer",
+          "description": "No matter what professional field you work in, higher productivity is likely one of the goals you aspire to. It can, however, be tricky. There is no single way to improve your productivity.",
+          "link": "https://hackernoon.com/increase-your-teams-productivity-by-automating-through-apis?source=rss",
+          "publishedOn": "2021-12-19T06:58:18.000Z",
+          "wordCount": 2112,
+          "title": "Increase your Team's Productivity by Automating Through APIs"
         },
         {
           "id": "https://hackernoon.com/dexs-are-winning-against-cexs-by-reducing-slippage-and-gas-costs?source=rss",
@@ -13980,6 +14160,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=148208",
+          "author": "ACMer",
+          "description": "You are given a list of floats chances and an integer target. Each element chances represents the probability that the ith coin lands heads on a flip. Given that we throw each coin once, return the...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-multiple-strange-coin-flips-toss-bottom-up-dynamic-programming-algorithm-knapsack-variant/",
+          "publishedOn": "2021-12-20T20:39:58.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Multiple Strange Coin Flips/Toss Bottom Up Dynamic Programming Algorithm (Knapsack Variant)",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=148193",
           "author": "ACMer",
           "description": "You are given a list of floats chances and an integer target. Each element chances represents the probability that the ith coin lands heads on a flip. Given that we throw each coin once, return the...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -14768,26 +14958,6 @@
           "wordCount": null,
           "title": "Teaching Kids Programming – All Odd Palindrome Substrings",
           "itunes": {}
-        },
-        {
-          "id": "https://helloacm.com/?p=146862",
-          "author": "ACMer",
-          "description": "There is a programming language with only four operations and one variable X: ++X and X++ increments the value of the variable X by 1. –X and X– decrements the value of the variable X by...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
-          "link": "https://helloacm.com/teaching-kids-programming-final-value-of-variable-after-performing-operations-via-reduce-function/",
-          "publishedOn": "2021-09-21T21:30:24.000Z",
-          "wordCount": null,
-          "title": "Teaching Kids Programming – Final Value of Variable After Performing Operations (via Reduce Function)",
-          "itunes": {}
-        },
-        {
-          "id": "https://helloacm.com/?p=146850",
-          "author": "ACMer",
-          "description": "On Steem Blockchain, we can either proxy a witness vote or cast a witness vote (out of 30 votes) to a steem witness. We can use the steemjs library to get account information which includes the...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
-          "link": "https://helloacm.com/javascript-nodejs-function-to-check-if-a-witness-has-been-voted-by-or-proxied-by-on-steem-blockchain/",
-          "publishedOn": "2021-09-21T18:56:38.000Z",
-          "wordCount": null,
-          "title": "Javascript (NodeJS) Function to Check if a Witness Has been Voted by or Proxied By on Steem Blockchain",
-          "itunes": {}
         }
       ]
     },
@@ -14796,6 +14966,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=512407",
+          "author": "Al Williams",
+          "description": "The latest 3D printing application?  Forming concrete. That’s according to a team at ETH Zurich who claims that construction with foam forms cuts concrete usage up to 70%. It also …read more",
+          "link": "https://hackaday.com/2021/12/20/concrete-with-3d-printed-foam-forms/",
+          "publishedOn": "2021-12-21T00:00:00.000Z",
+          "wordCount": 1132,
+          "title": "Concrete with 3D Printed Foam Forms"
+        },
+        {
+          "id": "https://hackaday.com/?p=512230",
+          "author": "Tom Nardi",
+          "description": "You asked for it, and now you’ve got it. It’s taken more than a decade of accumulated complaining, but this gigantic 555 timer IC has finally gathered enough psychokinetic energy …read more",
+          "link": "https://hackaday.com/2021/12/20/all-hail-your-new-giant-555-timer-overlord/",
+          "publishedOn": "2021-12-20T21:00:00.000Z",
+          "wordCount": 1749,
+          "title": "All Hail Your New Giant 555 Timer Overlord"
+        },
+        {
+          "id": "https://hackaday.com/?p=512480",
+          "author": "Robin Kearey",
+          "description": "For those who love travelling around the world, life hasn’t been great for the past two years. World-wide lockdowns and travel restrictions have kept many people stuck inside their own …read more",
+          "link": "https://hackaday.com/2021/12/20/window-to-the-world-brings-far-off-places-to-your-home/",
+          "publishedOn": "2021-12-20T19:30:15.000Z",
+          "wordCount": 1275,
+          "title": "“Window to the World” Brings Far-Off Places to Your Home"
+        },
+        {
+          "id": "https://hackaday.com/?p=510135",
+          "author": "Jenny List",
+          "description": "In our no-nonsense journey through the world of audio technology we’ve so far have looked at digital audio and the vinyl disk recording. What’s missing? Magnetic tape, the once-ubiquitous recording …read more",
+          "link": "https://hackaday.com/2021/12/20/know-audio-mixtapes-tape-loops-and-razor-blades/",
+          "publishedOn": "2021-12-20T18:00:50.000Z",
+          "wordCount": 3180,
+          "title": "Know Audio: Mixtapes, Tape Loops, And Razor Blades"
+        },
+        {
+          "id": "https://hackaday.com/?p=512490",
+          "author": "Robin Kearey",
+          "description": "Building a complete operating system by compiling its source code is not something for the faint-hearted; a modern Linux or BSD distribution contains thousands of packages with millions of lines …read more",
+          "link": "https://hackaday.com/2021/12/20/building-ms-dos-from-scratch-like-its-1983/",
+          "publishedOn": "2021-12-20T16:30:19.000Z",
+          "wordCount": 2940,
+          "title": "Building MS-DOS From Scratch Like It’s 1983"
+        },
+        {
+          "id": "https://hackaday.com/?p=511322",
+          "author": "Lewin Day",
+          "description": "The Chinese Communist Party celebrated its centenary on the 1st of July, 2021. For such a celebration, clear skies and clean air would be ideal. For the capable nation-state, however, …read more",
+          "link": "https://hackaday.com/2021/12/20/is-cloud-seeding-good-bad-or-ugly/",
+          "publishedOn": "2021-12-20T15:00:15.000Z",
+          "wordCount": 3194,
+          "title": "Is Cloud Seeding Good, Bad, or Ugly?"
+        },
+        {
+          "id": "https://hackaday.com/?p=512378",
+          "author": "Jenny List",
+          "description": "When a particular device or appliance is evoked, there comes with it a set of expectations over what it might look like. A toaster, a camera, a washing machine, or …read more",
+          "link": "https://hackaday.com/2021/12/20/an-all-in-one-cube-pc-for-a-1990s-that-never-quite-happened/",
+          "publishedOn": "2021-12-20T12:00:11.000Z",
+          "wordCount": 1726,
+          "title": "An All In One Cube PC For A 1990s That Never Quite Happened"
+        },
         {
           "id": "https://hackaday.com/?p=511950&preview=true&preview_id=511950",
           "author": "Dan Maloney",
@@ -19889,6 +20122,63 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "BB27ACDC-3D8A-4268-821A28A87738D1FB",
+          "author": "Anne C. Mulkern, E&E News",
+          "description": "The program will be the nation’s largest attempt to reduce methane emissions from rotting food in landfills\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/ca-law-aims-to-turn-food-waste-into-renewable-energy/",
+          "publishedOn": "2021-12-20T20:45:00.000Z",
+          "wordCount": null,
+          "title": "CA Law Aims to Turn Food Waste into Renewable Energy",
+          "itunes": {}
+        },
+        {
+          "id": "43DC88F9-917C-4349-AEAF680717ED1E74",
+          "author": "Megha Satyanarayana",
+          "description": "The federal testing strategy has tried to improve availability, but still puts the burden on people to find expensive tests that are often in short supply\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-biden-administration-should-offer-free-at-home-covid-testing/",
+          "publishedOn": "2021-12-20T19:45:00.000Z",
+          "wordCount": null,
+          "title": "The Biden Administration Should Offer Free, At-Home COVID testing",
+          "itunes": {}
+        },
+        {
+          "id": "26D2C392-C1F9-4E6C-94619408C2E340AB",
+          "author": "Christopher Intagliata",
+          "description": "A volcanologist says the eruption on the island of La Palma is a unique window into the \"personality\" of basaltic volcanoes. \n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/podcast/episode/canary-islands-eruption-resets-volcano-forecasts/",
+          "publishedOn": "2021-12-20T17:00:00.000Z",
+          "wordCount": null,
+          "title": "Canary Islands Eruption Resets Volcano Forecasts",
+          "itunes": {
+            "duration": "02:43"
+          },
+          "enclosure": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=D2127C1F-D345-4657-B6496405E2DE3429",
+            "length": "2609488",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "6A8402FE-F724-461B-A1550E88CBA55AE7",
+          "author": "Dominic Smith, Andrew Robinson",
+          "description": "In 2021 the search phrase “what precious metal is in a catalytic converter” saw a more than 5,000 percent increase in use. Here’s why.\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/video/did-your-catalytic-converter-get-stolen-the-pandemic-and-rhodium-could-share-some-blame/",
+          "publishedOn": "2021-12-20T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Did Your Catalytic Converter Get Stolen? The Pandemic--and Rhodium--Could Share Some Blame",
+          "itunes": {}
+        },
+        {
+          "id": "2568B744-B303-4401-9047F316D7F36794",
+          "author": "John McQuaid",
+          "description": "Tech companies now use AI to analyze your feelings in job interviews and public spaces. But the software seems prone to racial, cultural and gender bias\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/your-boss-wants-to-spy-on-your-inner-feelings/",
+          "publishedOn": "2021-12-20T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Your Boss Wants to Spy on Your Inner Feelings",
+          "itunes": {}
+        },
+        {
           "id": "4D1267B6-646C-4B21-B03F4208748B31B3",
           "author": null,
           "description": "Letters to the editor from the August 2021 issue of Scientific American\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -24461,6 +24751,51 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=148686",
+          "author": "Mike Vizard",
+          "description": "Quali has added a free tier of service to its Torque platform for automating infrastructure provisioning and application workload deployments. In addition, the company has updated the software-as-a-service (SaaS) platform to provide blueprints through which it provides tighter integration with Terraform, an open source infrastructure-as-code (IaC) tool, along with support for custom tags to make […]\nThe post Quali Adds Free Tier to DevOps Automation Platform appeared first on DevOps.com.",
+          "link": "https://devops.com/quali-adds-free-tier-to-devops-automation-platform/",
+          "publishedOn": "2021-12-20T13:41:15.000Z",
+          "wordCount": 1014,
+          "title": "Quali Adds Free Tier to DevOps Automation Platform"
+        },
+        {
+          "id": "https://devops.com/?p=148676",
+          "author": "Frank Ohlhorst",
+          "description": "The recent discovery of the Apache Log4j vulnerability has wide-ranging implications for anyone who develops software, especially for those in the DevOps realm. What’s most troubling about the vulnerability (CVE-2021-44228) is how prevalent the use of Log4j is. The vulnerability is reported in a vast array of applications and directly impacts numerous Apache projects, including […]\nThe post How Log4j Becomes a Serious DevOps Problem appeared first on DevOps.com.",
+          "link": "https://devops.com/how-log4j-becomes-a-serious-devops-problem/",
+          "publishedOn": "2021-12-20T11:01:07.000Z",
+          "wordCount": 1087,
+          "title": "How Log4j Becomes a Serious DevOps Problem"
+        },
+        {
+          "id": "https://devops.com/?p=144691",
+          "author": "Don Macvittie",
+          "description": "As we close out 2021, we at DevOps.com wanted to highlight the most popular articles of the year. Following is the first in our series of the Best of 2021. We’ve got decades of experience in programming and language adoption under our belt at this point, and there are a few things we can say […]\nThe post Best of 2021 – Programming Languages: Choose Wisely? appeared first on DevOps.com.",
+          "link": "https://devops.com/programming-languages-choose-wisely/",
+          "publishedOn": "2021-12-20T07:30:13.000Z",
+          "wordCount": 1161,
+          "title": "Best of 2021 – Programming Languages: Choose Wisely?"
+        },
+        {
+          "id": "https://devops.com/?p=142691",
+          "author": "ROELBOB",
+          "description": "The post Best of 2021 – Learning Curve: Computer Programming Languages appeared first on DevOps.com.",
+          "link": "https://devops.com/learning-curve-computer-programming-languages/",
+          "publishedOn": "2021-12-20T07:00:28.000Z",
+          "wordCount": 462,
+          "title": "Best of 2021 – Learning Curve: Computer Programming Languages"
+        },
+        {
+          "id": "https://devops.com/?p=148680",
+          "author": "ROELBOB",
+          "description": "The post Certificate Authority appeared first on DevOps.com.",
+          "link": "https://devops.com/certificate-authority/",
+          "publishedOn": "2021-12-20T07:00:27.000Z",
+          "wordCount": 439,
+          "title": "Certificate Authority"
+        },
+        {
           "id": "https://devops.com/?p=148659",
           "author": "Mike Vizard",
           "description": "Red Hat this week announced a public beta of an Image Builder service that streamlines the process of building customized instances of the Red Hat Enterprise Linux (RHEL) operating system. Scott Herold, director of product management for RHEL at Red Hat, said the Image Builder service enables an IT team to define a “gold” template […]\nThe post Red Hat Adds Service to Customize RHEL Images appeared first on DevOps.com.",
@@ -26484,6 +26819,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=111380",
+          "author": "Thomas Lewton",
+          "description": "Scientists have never been able to adequately explain where lightning comes from. Now the first detailed observations of its emergence inside a cloud have exposed how electric fields grow strong enough to let bolts fly.            \nThe post Detailed Footage Finally Reveals What Triggers Lightning first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/radio-telescope-reveals-how-lightning-begins-20211220/",
+          "publishedOn": "2021-12-20T14:45:22.000Z",
+          "wordCount": null,
+          "title": "Detailed Footage Finally Reveals What Triggers Lightning",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=111198",
           "author": "Melanie Mitchell",
           "description": "It’s simple enough for AI to seem to comprehend data, but devising a true test of a machine’s knowledge has proved difficult.            \nThe post What Does It Mean for AI to Understand? first appeared on Quanta Magazine",
@@ -26990,6 +27335,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66357",
+          "author": "Nathan Yau",
+          "description": "Zach Levitt and Bonnie Berkowitz for The Washington Post mapped and animated the…\nTags: climate change, disaster, Washington Post",
+          "link": "https://flowingdata.com/2021/12/20/mapping-the-weather-disasters-of-2021/",
+          "publishedOn": "2021-12-20T10:10:47.000Z",
+          "wordCount": 304,
+          "title": "Mapping the weather disasters of 2021"
+        },
         {
           "id": "https://flowingdata.com/?p=66383",
           "author": "Nathan Yau",
