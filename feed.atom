@@ -2,10 +2,330 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2021-12-23T00:43:40.881Z</updated>
+    <updated>2021-12-24T00:42:48.105Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fixing A Freezer Design Flaw With A Little Bit Of Heat]]></title>
+        <id>https://hackaday.com/?p=513041</id>
+        <link href="https://hackaday.com/2021/12/23/fixing-a-freezer-design-flaw-with-a-little-bit-of-heat/"/>
+        <updated>2021-12-24T00:00:51.000Z</updated>
+        <summary type="html"><![CDATA[As a shining example of the law of unintended consequences, [Lou] demonstrates how certain types of freezer/refrigerator combinations fail to work in a cold environment, such as a garage during …read more]]></summary>
+        <author>
+            <name>Maya Posch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java Log4JShell Vulnerability – What I Learned About it This Week]]></title>
+        <id>61c3b72d755c160824909987</id>
+        <link href="https://www.freecodecamp.org/news/java-log4jshell-vulnerability/"/>
+        <updated>2021-12-23T21:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Last Thursday, a vulnerability was disclosed in the Log4J logging library affecting many Java applications worldwide.  The vulnerability is called Log4Shell (CVE-2021–44228). It allows an attacker to inject a crafted payload anywhere in the requests that get parsed and executed by the vulnerable application. There are a lot of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WS2812s on a 6502]]></title>
+        <id>https://hackaday.com/?p=513023&amp;preview=true&amp;preview_id=513023</id>
+        <link href="https://hackaday.com/2021/12/23/ws2182s-on-a-6502/"/>
+        <updated>2021-12-23T21:00:10.000Z</updated>
+        <summary type="html"><![CDATA[We can still remember when the WS2812 LED first came into ourconsciousness, way back in the mists of time. The timing diagrams in the datasheet-of-questionable-veracity made it sound quite tricky, …read more]]></summary>
+        <author>
+            <name>Elliot Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State Climate Action Raced Forward in 2021]]></title>
+        <id>B2D422C0-2B6F-4638-990687167501AD17</id>
+        <link href="https://www.scientificamerican.com/article/state-climate-action-raced-forward-in-2021/"/>
+        <updated>2021-12-23T20:45:00.000Z</updated>
+        <summary type="html"><![CDATA[A raft of laws and regulations have included limits on power-sector emissions and cap-and-trade provisions
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Benjamin Storrow, E&amp;E News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remember You Are Not the User]]></title>
+        <id>https://css-tricks.com/?p=358936</id>
+        <link href="https://css-tricks.com/remember-you-are-not-the-user/"/>
+        <updated>2021-12-23T19:31:04.000Z</updated>
+        <summary type="html"><![CDATA[One thing people can do to make their websites better is to remember that you are not representative of all your users. Our life experiences and how we interact with the web are not indicative of how everyone interacts with …]]></summary>
+        <author>
+            <name>Emma Bostian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simple Upgrades Make an Old Industrial Sewing Machine New Again]]></title>
+        <id>https://hackaday.com/?p=512757</id>
+        <link href="https://hackaday.com/2021/12/23/simple-upgrades-make-an-old-industrial-sewing-machine-new-again/"/>
+        <updated>2021-12-23T19:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Well, this is a pleasant surprise: it seems that industrial designer [Eric Strebel] recently got a hold of an industrial sewing machine to tackle the softer side of prototyping. What …read more]]></summary>
+        <author>
+            <name>Kristina Panos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global Vaccine Equity Is Much More Important Than 'Vaccine Passports']]></title>
+        <id>6EDCE4B5-891E-45D3-A4DA8878224777C8</id>
+        <link href="https://www.scientificamerican.com/article/global-vaccine-equity-is-much-more-important-than-vaccine-passports/"/>
+        <updated>2021-12-23T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We need to suppress the level of SARS-CoV-2 in as many humans as possible as quickly as possible
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Steven W. Thrasher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn to Code RPG – Full Soundtrack + How I Made It]]></title>
+        <id>61c49108755c160824909f76</id>
+        <link href="https://www.freecodecamp.org/news/learn-to-code-rpg-soundtrack/"/>
+        <updated>2021-12-23T18:53:07.000Z</updated>
+        <summary type="html"><![CDATA[First: what you probably came here for. Here's the full soundtrack to Learn to Code RPG. 36 minutes of jazz. If you dig it, subscribe to my new music channel and leave a comment with feedback or your favorite track. I am currently uploading this to Spotify. How I Made]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 Roundup of Web Research]]></title>
+        <id>https://css-tricks.com/?p=359205</id>
+        <link href="https://css-tricks.com/2021-roundup-of-web-research/"/>
+        <updated>2021-12-23T18:34:04.000Z</updated>
+        <summary type="html"><![CDATA[Last year, we kicked out a roundup of published surveys, research, and other findings from around the web. There were some nice nuggets in there, like a general sentiment that the web needs more documentation, Tailwind CSS dun …]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keynote Video: Jeremy Fielding Wants To Help You Get Moving]]></title>
+        <id>https://hackaday.com/?p=512955</id>
+        <link href="https://hackaday.com/2021/12/23/keynote-video-jeremy-fielding-wants-to-help-you-get-moving/"/>
+        <updated>2021-12-23T18:05:49.000Z</updated>
+        <summary type="html"><![CDATA[For many DIY hardware projects, the most movement it’s likely to see is when we pick the assembled unit up off the workbench and carry it to wherever it’s destined …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Year in Math and Computer Science]]></title>
+        <id>https://www.quantamagazine.org/?p=111258</id>
+        <link href="https://www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/"/>
+        <updated>2021-12-23T17:28:50.000Z</updated>
+        <summary type="html"><![CDATA[Mathematicians and computer scientists answered major questions in topology, set theory and even physics, even as computers continued to grow more capable.            
+The post The Year in Math and Computer Science first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Bill Andrews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVG + JavaScript Tutorial – How to Code an Animated Watch]]></title>
+        <id>61c1fc40755c160824908ad5</id>
+        <link href="https://www.freecodecamp.org/news/svg-javascript-tutorial/"/>
+        <updated>2021-12-23T17:19:15.000Z</updated>
+        <summary type="html"><![CDATA[Since SVG images can be inlined in HTML, we can manipulate them with JavaScript. This means that we can animate parts of an image from code, make it interactive, or turn things around and generate graphics from data. In this example, we are going to create a watch. We will]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – Minimum Starting Nodes to Visit Graph (Topological Sort, Indegree)]]></title>
+        <id>https://helloacm.com/?p=148255</id>
+        <link href="https://helloacm.com/teaching-kids-programming-minimum-starting-nodes-to-visit-graph-topological-sort-indegree/"/>
+        <updated>2021-12-23T17:05:56.000Z</updated>
+        <summary type="html"><![CDATA[You are given a two-dimensional list of integers edges representing a connected, directed, acyclic graph. Each element in edges contains  meaning there is an edge from u to v. Return the minimum list...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Did Neanderthals and Other Ancient Humans Learn to Count?]]></title>
+        <id>EE0B94DC-C391-428C-B427755B2125B1CF</id>
+        <link href="https://www.scientificamerican.com/article/how-did-neanderthals-and-other-ancient-humans-learn-to-count/"/>
+        <updated>2021-12-23T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Archaeological finds suggest that people developed numbers tens of thousands of years ago. Scholars are now exploring the first detailed hypotheses about this life-changing invention
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Colin Barras, Nature magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Dual Boot Any Linux Distribution With Windows – and Get Rid of It When You Need To]]></title>
+        <id>61c3059b755c1608249092e9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-dual-boot-any-linux-distribution-with-windows/"/>
+        <updated>2021-12-23T16:32:46.000Z</updated>
+        <summary type="html"><![CDATA[Gone are the days when Linux and Windows were like two opposing forces. Microsoft has embraced the open-source community quite cordially in recent years, and as a result we have things like Windows Subsystem for Linux baked right into our Windows installations. That doesn't mean that we no longer need]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenCV Knows Where Your Hand Is]]></title>
+        <id>https://hackaday.com/?p=512742</id>
+        <link href="https://hackaday.com/2021/12/23/opencv-knows-where-your-hand-is/"/>
+        <updated>2021-12-23T16:30:52.000Z</updated>
+        <summary type="html"><![CDATA[We have to say, [Murtaza]’s example game in his latest video isn’t very exciting. However, the OpenCV technique he uses to track a hand and determine its distance from a …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Get Into Cars: E85 Fuel]]></title>
+        <id>https://hackaday.com/?p=512130</id>
+        <link href="https://hackaday.com/2021/12/23/how-to-get-into-cars-e85-fuel/"/>
+        <updated>2021-12-23T15:00:34.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve spent any time around the modified car scene in the last few years, you’ve probably heard about E85. Maybe you’ve even noticed a sweet smell emanating from the …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happens to White Christmases as the World Warms?]]></title>
+        <id>BD4B49C5-049C-48A0-98E5072A64DCB8A4</id>
+        <link href="https://www.scientificamerican.com/article/what-happens-to-white-christmases-as-the-world-warms1/"/>
+        <updated>2021-12-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Although more winter precipitation will fall as rain because of climate change, don’t say goodbye to snow just yet
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Andrea Thompson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is a Lagrange Point?]]></title>
+        <id>87153ADF-F526-475B-AA0E0AB8BBF96DA7</id>
+        <link href="https://www.scientificamerican.com/article/what-is-a-lagrange-point/"/>
+        <updated>2021-12-23T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NASA’s James Webb Space Telescope will travel to a special spot where the gravity from Earth and the sun is balanced
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Clara Moskowitz, Matthew Twombly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show, Don’t Tell]]></title>
+        <id>https://css-tricks.com/?p=357692</id>
+        <link href="https://css-tricks.com/show-dont-tell/"/>
+        <updated>2021-12-23T13:29:14.000Z</updated>
+        <summary type="html"><![CDATA[How much time do you spend designing the content presentation for your websites? When you write a new blog post or create a new page, are you thinking about just the words, or how your readers will engage with those …]]></summary>
+        <author>
+            <name>Mel Choyce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lost Women of Science Podcast, Bonus Episode: The Resignation]]></title>
+        <id>2C288073-9BA0-4696-81102064BC11BBCE</id>
+        <link href="https://www.scientificamerican.com/article/lost-women-of-science-podcast-bonus-episode-the-resignation/"/>
+        <updated>2021-12-23T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We investigate the curious, charged circumstances surrounding the resignation of the director of pediatrics at Columbia University’s Babies Hospital and one pathologist at the center of it...
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Katie Hafner, The Lost Women of Science Initiative</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omicron's Effect Won't Be as Mild as Hoped]]></title>
+        <id>FEF362C8-10B9-4003-A8EE327252FACAE9</id>
+        <link href="https://www.scientificamerican.com/article/milder-or-not-omicron-could-still-overwhelm-hospitals/"/>
+        <updated>2021-12-23T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s too soon to know if the variant causes milder COVID, but its transmissibility and ability to evade vaccines are still cause for concern
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Tanya Lewis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Back-to-Back Belts Drive Filament in This Unique Extruder Design]]></title>
+        <id>https://hackaday.com/?p=512925</id>
+        <link href="https://hackaday.com/2021/12/23/back-to-back-belts-drive-filament-in-this-unique-extruder-design/"/>
+        <updated>2021-12-23T12:00:26.000Z</updated>
+        <summary type="html"><![CDATA[It’s hard to say when inspiration will strike, or what form it’ll take. But we do know that when you get that itch, it’s a good idea to scratch it, …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3-D-Printed Chicken Dinner Cooked by Lasers]]></title>
+        <id>D2444DD6-4407-44FC-8BCD6BBE78B226FC</id>
+        <link href="https://www.scientificamerican.com/article/3-d-printed-chicken-dinner-cooked-by-lasers/"/>
+        <updated>2021-12-23T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[A laser-focused chef prints and cooks complex designs
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Huanjia Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shifting currents and melting ice in the Antarctic]]></title>
+        <id>https://flowingdata.com/?p=66371</id>
+        <link href="https://flowingdata.com/2021/12/23/shifting-currents-and-melting-ice-in-the-antarctic/"/>
+        <updated>2021-12-23T08:54:21.000Z</updated>
+        <summary type="html"><![CDATA[Based on data from autonomous sensors floating in the oceans, researchers are able…
+Tags: Antarctic, climate change, ice, New York, scrollytelling, water]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best of 2021 – 11 Open Source DevOps Tools We Love For 2021]]></title>
+        <id>https://devops.com/?p=142387</id>
+        <link href="https://devops.com/11-open-source-devops-tools-we-love-for-2021/"/>
+        <updated>2021-12-23T08:00:54.000Z</updated>
+        <summary type="html"><![CDATA[As we close out 2021, we at DevOps.com wanted to highlight the most popular articles of the year. Following is the eighth in our series of the Best of 2021. DevOps isn’t just a cultural shift — it requires great tools to come to fruition. Below, we’ve pulled together a list of some of the […]
+The post Best of 2021 – 11 Open Source DevOps Tools We Love For 2021 appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Bill Doerrfeld</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seasons Greetings 2021]]></title>
+        <id>https://devops.com/?p=148742</id>
+        <link href="https://devops.com/seasons-greetings-2021/"/>
+        <updated>2021-12-23T07:00:26.000Z</updated>
+        <summary type="html"><![CDATA[The post Seasons Greetings 2021 appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>ROELBOB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a BinaryTreeViewer using C#, CSS, &amp; HTML (Code &amp; Algorithm Walkthrough)]]></title>
+        <id>61bd9cd6297c7107e8ad892a</id>
+        <link href="https://www.freecodecamp.org/news/binarytreeviewer-with-c-c-css-html-by-gilad-bar-ilan/"/>
+        <updated>2021-12-23T01:12:43.000Z</updated>
+        <summary type="html"><![CDATA[Binary trees are one of the most complicated data structures out there. And one of the reasons they're so difficult is that it's hard to actually visualize them in a simple way. In this tutorial, I'll show you how to create your own BinaryTreeViewer which will allow you to watch]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Personalize it!]]></title>
+        <id>https://css-tricks.com/?p=359033</id>
+        <link href="https://css-tricks.com/personalize-it/"/>
+        <updated>2021-12-23T00:10:06.000Z</updated>
+        <summary type="html"><![CDATA[Ensuring accessibility is a clear path to making your website better. When you make your site accessible, you grow your audience, improve the experience for all people using it (not just those with accessibility needs), and you get SEO benefits…]]></summary>
+        <author>
+            <name>Una Kravets</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Frame Antenna Works the Low Bands]]></title>
         <id>https://hackaday.com/?p=512719</id>
@@ -33669,42 +33989,6 @@ Thank you: @CaptNo1]]></summary>
 [[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
         <author>
             <name>ACMer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Systems for z-index]]></title>
-        <id>https://css-tricks.com/?p=352287</id>
-        <link href="https://css-tricks.com/systems-for-z-index/"/>
-        <updated>2021-09-24T21:19:49.000Z</updated>
-        <summary type="html"><![CDATA[Say you have a z-index bug. Something is being covered up by something else. In my experience, a typical solution is to put position: relative on the thing so z-index works in the first place, and maybe rejigger the z-index…
-The post Systems for z-index appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Self Provisioning Runtime]]></title>
-        <id>https://css-tricks.com/?p=352533</id>
-        <link href="https://www.swyx.io/self-provisioning-runtime/"/>
-        <updated>2021-09-24T18:56:43.000Z</updated>
-        <summary type="html"><![CDATA[Big thoughts on where the industry is headed from Shawn Wang:
-Advancements in two fields — programming languages and cloud infrastructure — will converge in a single paradigm: where all resources required by a program will be automatically provisioned, and 
-…
-The post The Self Provisioning Runtime appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comparing Methods for Appending and Inserting With JavaScript]]></title>
-        <id>https://css-tricks.com/?p=352342</id>
-        <link href="https://css-tricks.com/comparing-methods-for-appending-and-inserting-with-javascript/"/>
-        <updated>2021-09-24T14:34:59.000Z</updated>
-        <summary type="html"><![CDATA[Let’s say we want to add something to a webpage after the initial load. JavaScript gives us a variety of tools. Perhaps you’ve used some of them, like append, appendChild, insertAdjacentHTML, or innerHTML.
-The difficult thing …
-The post Comparing Methods for Appending and Inserting With JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Eric Markfield</name>
         </author>
     </entry>
 </feed>

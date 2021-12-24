@@ -31,6 +31,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=358936",
+          "author": "Emma Bostian",
+          "description": "One thing people can do to make their websites better is to remember that you are not representative of all your users. Our life experiences and how we interact with the web are not indicative of how everyone interacts with …",
+          "link": "https://css-tricks.com/remember-you-are-not-the-user/",
+          "publishedOn": "2021-12-23T19:31:04.000Z",
+          "wordCount": 499,
+          "title": "Remember You Are Not the User"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359205",
+          "author": "Geoff Graham",
+          "description": "Last year, we kicked out a roundup of published surveys, research, and other findings from around the web. There were some nice nuggets in there, like a general sentiment that the web needs more documentation, Tailwind CSS dun …",
+          "link": "https://css-tricks.com/2021-roundup-of-web-research/",
+          "publishedOn": "2021-12-23T18:34:04.000Z",
+          "wordCount": 4654,
+          "title": "2021 Roundup of Web Research"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357692",
+          "author": "Mel Choyce",
+          "description": "How much time do you spend designing the content presentation for your websites? When you write a new blog post or create a new page, are you thinking about just the words, or how your readers will engage with those …",
+          "link": "https://css-tricks.com/show-dont-tell/",
+          "publishedOn": "2021-12-23T13:29:14.000Z",
+          "wordCount": 1717,
+          "title": "Show, Don’t Tell"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359033",
+          "author": "Una Kravets",
+          "description": "Ensuring accessibility is a clear path to making your website better. When you make your site accessible, you grow your audience, improve the experience for all people using it (not just those with accessibility needs), and you get SEO benefits…",
+          "link": "https://css-tricks.com/personalize-it/",
+          "publishedOn": "2021-12-23T00:10:06.000Z",
+          "wordCount": 818,
+          "title": "Personalize it!"
+        },
+        {
           "id": "https://css-tricks.com/?p=359675",
           "author": "Chris Coyier",
           "description": "There was a time when I’d write React, Angular, and Ember as a kind of generic grouping of three major JavaScript frameworks. And maybe just because three is a nice number, that became React, Vue, and Angular over time, thanks …",
@@ -1676,33 +1712,6 @@
           "publishedOn": "2021-09-27T15:26:01.000Z",
           "wordCount": 4239,
           "title": "Collecting Email Signups With the Notion API"
-        },
-        {
-          "id": "https://css-tricks.com/?p=352287",
-          "author": "Chris Coyier",
-          "description": "Say you have a z-index bug. Something is being covered up by something else. In my experience, a typical solution is to put position: relative on the thing so z-index works in the first place, and maybe rejigger the z-index…\nThe post Systems for z-index appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/systems-for-z-index/",
-          "publishedOn": "2021-09-24T21:19:49.000Z",
-          "wordCount": 1257,
-          "title": "Systems for z-index"
-        },
-        {
-          "id": "https://css-tricks.com/?p=352533",
-          "author": "Chris Coyier",
-          "description": "Big thoughts on where the industry is headed from Shawn Wang:\nAdvancements in two fields — programming languages and cloud infrastructure — will converge in a single paradigm: where all resources required by a program will be automatically provisioned, and \n…\nThe post The Self Provisioning Runtime appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.swyx.io/self-provisioning-runtime/",
-          "publishedOn": "2021-09-24T18:56:43.000Z",
-          "wordCount": 2153,
-          "title": "The Self Provisioning Runtime"
-        },
-        {
-          "id": "https://css-tricks.com/?p=352342",
-          "author": "Eric Markfield",
-          "description": "Let’s say we want to add something to a webpage after the initial load. JavaScript gives us a variety of tools. Perhaps you’ve used some of them, like append, appendChild, insertAdjacentHTML, or innerHTML.\nThe difficult thing …\nThe post Comparing Methods for Appending and Inserting With JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/comparing-methods-for-appending-and-inserting-with-javascript/",
-          "publishedOn": "2021-09-24T14:34:59.000Z",
-          "wordCount": 2554,
-          "title": "Comparing Methods for Appending and Inserting With JavaScript"
         }
       ]
     },
@@ -1711,6 +1720,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61c3b72d755c160824909987",
+          "author": null,
+          "description": "Last Thursday, a vulnerability was disclosed in the Log4J logging library affecting many Java applications worldwide.  The vulnerability is called Log4Shell (CVE-2021–44228). It allows an attacker to inject a crafted payload anywhere in the requests that get parsed and executed by the vulnerable application. There are a lot of",
+          "link": "https://www.freecodecamp.org/news/java-log4jshell-vulnerability/",
+          "publishedOn": "2021-12-23T21:01:00.000Z",
+          "wordCount": 1376,
+          "title": "Java Log4JShell Vulnerability – What I Learned About it This Week"
+        },
+        {
+          "id": "61c49108755c160824909f76",
+          "author": null,
+          "description": "First: what you probably came here for. Here's the full soundtrack to Learn to Code RPG. 36 minutes of jazz. If you dig it, subscribe to my new music channel and leave a comment with feedback or your favorite track. I am currently uploading this to Spotify. How I Made",
+          "link": "https://www.freecodecamp.org/news/learn-to-code-rpg-soundtrack/",
+          "publishedOn": "2021-12-23T18:53:07.000Z",
+          "wordCount": 840,
+          "title": "Learn to Code RPG – Full Soundtrack + How I Made It"
+        },
+        {
+          "id": "61c1fc40755c160824908ad5",
+          "author": null,
+          "description": "Since SVG images can be inlined in HTML, we can manipulate them with JavaScript. This means that we can animate parts of an image from code, make it interactive, or turn things around and generate graphics from data. In this example, we are going to create a watch. We will",
+          "link": "https://www.freecodecamp.org/news/svg-javascript-tutorial/",
+          "publishedOn": "2021-12-23T17:19:15.000Z",
+          "wordCount": 2390,
+          "title": "SVG + JavaScript Tutorial – How to Code an Animated Watch"
+        },
+        {
+          "id": "61c3059b755c1608249092e9",
+          "author": null,
+          "description": "Gone are the days when Linux and Windows were like two opposing forces. Microsoft has embraced the open-source community quite cordially in recent years, and as a result we have things like Windows Subsystem for Linux baked right into our Windows installations. That doesn't mean that we no longer need",
+          "link": "https://www.freecodecamp.org/news/how-to-dual-boot-any-linux-distribution-with-windows/",
+          "publishedOn": "2021-12-23T16:32:46.000Z",
+          "wordCount": 3744,
+          "title": "How to Dual Boot Any Linux Distribution With Windows – and Get Rid of It When You Need To"
+        },
+        {
+          "id": "61bd9cd6297c7107e8ad892a",
+          "author": null,
+          "description": "Binary trees are one of the most complicated data structures out there. And one of the reasons they're so difficult is that it's hard to actually visualize them in a simple way. In this tutorial, I'll show you how to create your own BinaryTreeViewer which will allow you to watch",
+          "link": "https://www.freecodecamp.org/news/binarytreeviewer-with-c-c-css-html-by-gilad-bar-ilan/",
+          "publishedOn": "2021-12-23T01:12:43.000Z",
+          "wordCount": 2104,
+          "title": "How to Create a BinaryTreeViewer using C#, CSS, &amp; HTML (Code &amp; Algorithm Walkthrough)"
+        },
         {
           "id": "5fc5badb49c47664ed827efe",
           "author": null,
@@ -14457,6 +14511,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=148255",
+          "author": "ACMer",
+          "description": "You are given a two-dimensional list of integers edges representing a connected, directed, acyclic graph. Each element in edges contains  meaning there is an edge from u to v. Return the minimum list...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-minimum-starting-nodes-to-visit-graph-topological-sort-indegree/",
+          "publishedOn": "2021-12-23T17:05:56.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Minimum Starting Nodes to Visit Graph (Topological Sort, Indegree)",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=148242",
           "author": "ACMer",
           "description": "Given an array of distinct integers arr, find all pairs of elements with the minimum absolute difference of any two elements. Return a list of pairs in ascending order(with respect to pairs), each...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -15273,6 +15337,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=513041",
+          "author": "Maya Posch",
+          "description": "As a shining example of the law of unintended consequences, [Lou] demonstrates how certain types of freezer/refrigerator combinations fail to work in a cold environment, such as a garage during …read more",
+          "link": "https://hackaday.com/2021/12/23/fixing-a-freezer-design-flaw-with-a-little-bit-of-heat/",
+          "publishedOn": "2021-12-24T00:00:51.000Z",
+          "wordCount": 1171,
+          "title": "Fixing A Freezer Design Flaw With A Little Bit Of Heat"
+        },
+        {
+          "id": "https://hackaday.com/?p=513023&preview=true&preview_id=513023",
+          "author": "Elliot Williams",
+          "description": "We can still remember when the WS2812 LED first came into ourconsciousness, way back in the mists of time. The timing diagrams in the datasheet-of-questionable-veracity made it sound quite tricky, …read more",
+          "link": "https://hackaday.com/2021/12/23/ws2182s-on-a-6502/",
+          "publishedOn": "2021-12-23T21:00:10.000Z",
+          "wordCount": 1300,
+          "title": "WS2812s on a 6502"
+        },
+        {
+          "id": "https://hackaday.com/?p=512757",
+          "author": "Kristina Panos",
+          "description": "Well, this is a pleasant surprise: it seems that industrial designer [Eric Strebel] recently got a hold of an industrial sewing machine to tackle the softer side of prototyping. What …read more",
+          "link": "https://hackaday.com/2021/12/23/simple-upgrades-make-an-old-industrial-sewing-machine-new-again/",
+          "publishedOn": "2021-12-23T19:30:10.000Z",
+          "wordCount": 1700,
+          "title": "Simple Upgrades Make an Old Industrial Sewing Machine New Again"
+        },
+        {
+          "id": "https://hackaday.com/?p=512955",
+          "author": "Tom Nardi",
+          "description": "For many DIY hardware projects, the most movement it’s likely to see is when we pick the assembled unit up off the workbench and carry it to wherever it’s destined …read more",
+          "link": "https://hackaday.com/2021/12/23/keynote-video-jeremy-fielding-wants-to-help-you-get-moving/",
+          "publishedOn": "2021-12-23T18:05:49.000Z",
+          "wordCount": 2127,
+          "title": "Keynote Video: Jeremy Fielding Wants To Help You Get Moving"
+        },
+        {
+          "id": "https://hackaday.com/?p=512742",
+          "author": "Al Williams",
+          "description": "We have to say, [Murtaza]’s example game in his latest video isn’t very exciting. However, the OpenCV technique he uses to track a hand and determine its distance from a …read more",
+          "link": "https://hackaday.com/2021/12/23/opencv-knows-where-your-hand-is/",
+          "publishedOn": "2021-12-23T16:30:52.000Z",
+          "wordCount": 1110,
+          "title": "OpenCV Knows Where Your Hand Is"
+        },
+        {
+          "id": "https://hackaday.com/?p=512130",
+          "author": "Lewin Day",
+          "description": "If you’ve spent any time around the modified car scene in the last few years, you’ve probably heard about E85. Maybe you’ve even noticed a sweet smell emanating from the …read more",
+          "link": "https://hackaday.com/2021/12/23/how-to-get-into-cars-e85-fuel/",
+          "publishedOn": "2021-12-23T15:00:34.000Z",
+          "wordCount": 3426,
+          "title": "How To Get Into Cars: E85 Fuel"
+        },
+        {
+          "id": "https://hackaday.com/?p=512925",
+          "author": "Dan Maloney",
+          "description": "It’s hard to say when inspiration will strike, or what form it’ll take. But we do know that when you get that itch, it’s a good idea to scratch it, …read more",
+          "link": "https://hackaday.com/2021/12/23/back-to-back-belts-drive-filament-in-this-unique-extruder-design/",
+          "publishedOn": "2021-12-23T12:00:26.000Z",
+          "wordCount": 1664,
+          "title": "Back-to-Back Belts Drive Filament in This Unique Extruder Design"
+        },
         {
           "id": "https://hackaday.com/?p=512719",
           "author": "Al Williams",
@@ -20555,6 +20682,86 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "B2D422C0-2B6F-4638-990687167501AD17",
+          "author": "Benjamin Storrow, E&E News",
+          "description": "A raft of laws and regulations have included limits on power-sector emissions and cap-and-trade provisions\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/state-climate-action-raced-forward-in-2021/",
+          "publishedOn": "2021-12-23T20:45:00.000Z",
+          "wordCount": null,
+          "title": "State Climate Action Raced Forward in 2021",
+          "itunes": {}
+        },
+        {
+          "id": "6EDCE4B5-891E-45D3-A4DA8878224777C8",
+          "author": "Steven W. Thrasher",
+          "description": "We need to suppress the level of SARS-CoV-2 in as many humans as possible as quickly as possible\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/global-vaccine-equity-is-much-more-important-than-vaccine-passports/",
+          "publishedOn": "2021-12-23T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Global Vaccine Equity Is Much More Important Than 'Vaccine Passports'",
+          "itunes": {}
+        },
+        {
+          "id": "EE0B94DC-C391-428C-B427755B2125B1CF",
+          "author": "Colin Barras, Nature magazine",
+          "description": "Archaeological finds suggest that people developed numbers tens of thousands of years ago. Scholars are now exploring the first detailed hypotheses about this life-changing invention\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-did-neanderthals-and-other-ancient-humans-learn-to-count/",
+          "publishedOn": "2021-12-23T17:00:00.000Z",
+          "wordCount": null,
+          "title": "How Did Neanderthals and Other Ancient Humans Learn to Count?",
+          "itunes": {}
+        },
+        {
+          "id": "BD4B49C5-049C-48A0-98E5072A64DCB8A4",
+          "author": "Andrea Thompson",
+          "description": "Although more winter precipitation will fall as rain because of climate change, don’t say goodbye to snow just yet\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/what-happens-to-white-christmases-as-the-world-warms1/",
+          "publishedOn": "2021-12-23T15:00:00.000Z",
+          "wordCount": null,
+          "title": "What Happens to White Christmases as the World Warms?",
+          "itunes": {}
+        },
+        {
+          "id": "87153ADF-F526-475B-AA0E0AB8BBF96DA7",
+          "author": "Clara Moskowitz, Matthew Twombly",
+          "description": "NASA’s James Webb Space Telescope will travel to a special spot where the gravity from Earth and the sun is balanced\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/what-is-a-lagrange-point/",
+          "publishedOn": "2021-12-23T14:00:00.000Z",
+          "wordCount": null,
+          "title": "What Is a Lagrange Point?",
+          "itunes": {}
+        },
+        {
+          "id": "2C288073-9BA0-4696-81102064BC11BBCE",
+          "author": "Katie Hafner, The Lost Women of Science Initiative",
+          "description": "We investigate the curious, charged circumstances surrounding the resignation of the director of pediatrics at Columbia University’s Babies Hospital and one pathologist at the center of it...\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/lost-women-of-science-podcast-bonus-episode-the-resignation/",
+          "publishedOn": "2021-12-23T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Lost Women of Science Podcast, Bonus Episode: The Resignation",
+          "itunes": {}
+        },
+        {
+          "id": "FEF362C8-10B9-4003-A8EE327252FACAE9",
+          "author": "Tanya Lewis",
+          "description": "It’s too soon to know if the variant causes milder COVID, but its transmissibility and ability to evade vaccines are still cause for concern\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/milder-or-not-omicron-could-still-overwhelm-hospitals/",
+          "publishedOn": "2021-12-23T12:30:00.000Z",
+          "wordCount": null,
+          "title": "Omicron's Effect Won't Be as Mild as Hoped",
+          "itunes": {}
+        },
+        {
+          "id": "D2444DD6-4407-44FC-8BCD6BBE78B226FC",
+          "author": "Huanjia Zhang",
+          "description": "A laser-focused chef prints and cooks complex designs\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/3-d-printed-chicken-dinner-cooked-by-lasers/",
+          "publishedOn": "2021-12-23T11:45:00.000Z",
+          "wordCount": null,
+          "title": "3-D-Printed Chicken Dinner Cooked by Lasers",
+          "itunes": {}
+        },
+        {
           "id": "755EC1DA-8EAB-4E7A-8A0877E8E9FC7D8B",
           "author": "Daniel Cusick, E&E News",
           "description": "The plan places a particular focus on considerations of social and economic justice\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -25361,6 +25568,24 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=142387",
+          "author": "Bill Doerrfeld",
+          "description": "As we close out 2021, we at DevOps.com wanted to highlight the most popular articles of the year. Following is the eighth in our series of the Best of 2021. DevOps isn’t just a cultural shift — it requires great tools to come to fruition. Below, we’ve pulled together a list of some of the […]\nThe post Best of 2021 – 11 Open Source DevOps Tools We Love For 2021 appeared first on DevOps.com.",
+          "link": "https://devops.com/11-open-source-devops-tools-we-love-for-2021/",
+          "publishedOn": "2021-12-23T08:00:54.000Z",
+          "wordCount": 1905,
+          "title": "Best of 2021 – 11 Open Source DevOps Tools We Love For 2021"
+        },
+        {
+          "id": "https://devops.com/?p=148742",
+          "author": "ROELBOB",
+          "description": "The post Seasons Greetings 2021 appeared first on DevOps.com.",
+          "link": "https://devops.com/seasons-greetings-2021/",
+          "publishedOn": "2021-12-23T07:00:26.000Z",
+          "wordCount": 484,
+          "title": "Seasons Greetings 2021"
+        },
+        {
           "id": "https://devops.com/?p=125317",
           "author": "Sridhar Asvathanarayanan",
           "description": "As we close out 2021, we at DevOps.com wanted to highlight the most popular articles of the year. Following is the sixth in our series of the Best of 2021. We all surf the internet mostly on our mobile devices because they are so handy and easily accessible. A vast majority of mobile device users […]\nThe post Best of 2021 – How to Scale Your Website to Perform on Mobile Devices appeared first on DevOps.com.",
@@ -27483,6 +27708,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=111258",
+          "author": "Bill Andrews",
+          "description": "Mathematicians and computer scientists answered major questions in topology, set theory and even physics, even as computers continued to grow more capable.            \nThe post The Year in Math and Computer Science first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/",
+          "publishedOn": "2021-12-23T17:28:50.000Z",
+          "wordCount": null,
+          "title": "The Year in Math and Computer Science",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=111255",
           "author": "Michael Moyer",
           "description": "Puzzling particles, quirky (and controversial) quantum computers, and one of the most ambitious science experiments in history marked the year’s milestones.            \nThe post The Year in Physics first appeared on Quanta Magazine",
@@ -28009,6 +28244,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66371",
+          "author": "Nathan Yau",
+          "description": "Based on data from autonomous sensors floating in the oceans, researchers are able…\nTags: Antarctic, climate change, ice, New York, scrollytelling, water",
+          "link": "https://flowingdata.com/2021/12/23/shifting-currents-and-melting-ice-in-the-antarctic/",
+          "publishedOn": "2021-12-23T08:54:21.000Z",
+          "wordCount": 300,
+          "title": "Shifting currents and melting ice in the Antarctic"
+        },
         {
           "id": "https://flowingdata.com/?p=66192",
           "author": "Jorge Camoes",
