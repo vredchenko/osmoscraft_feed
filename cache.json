@@ -13,15 +13,6 @@
           "publishedOn": "2021-10-16T00:01:47.000Z",
           "wordCount": 292,
           "title": "v1.11.3"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2",
-          "author": null,
-          "description": "Fixed: unicode characters in URL caused download error\nFixed: project root npm install error\nAdded: unit test library\nChore: Dependency updates\nThank you: @CaptNo1",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2",
-          "publishedOn": "2021-09-26T18:45:39.000Z",
-          "wordCount": 323,
-          "title": "v1.11.2"
         }
       ]
     },
@@ -1738,6 +1729,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61c4e1e6755c16082490a3fe",
+          "author": null,
+          "description": "A Three-tier web applications has a presentation layer, an application layer, and a database layer.  This familiar pattern is fertile ground for learning new technologies like the AWS Cloud Development Kit (CDK).  In this tutorial, we will create a simple note-taking application using a DynamoDB table, HTTP API endpoints, Lambda",
+          "link": "https://www.freecodecamp.org/news/aws-cdk-v2-three-tier-serverless-application/",
+          "publishedOn": "2021-12-25T21:32:22.000Z",
+          "wordCount": 4026,
+          "title": "AWS CDK v2 Tutorial – How to Create a Three-Tier Serverless Application"
+        },
         {
           "id": "61c3b72d755c160824909987",
           "author": null,
@@ -4149,6 +4149,177 @@
       "siteUrl": "https://hackernoon.com",
       "articles": [
         {
+          "id": "https://hackernoon.com/secure-the-distance-how-to-protect-the-personal-data-of-students-enrolled-in-online-education?source=rss",
+          "author": "Shariy Ivan",
+          "description": "The International Telecommunication Union provides security recommendations for schools.",
+          "link": "https://hackernoon.com/secure-the-distance-how-to-protect-the-personal-data-of-students-enrolled-in-online-education?source=rss",
+          "publishedOn": "2021-12-25T03:11:51.000Z",
+          "wordCount": 1040,
+          "title": "Secure the Distance: How to Protect the Personal Data of Students Enrolled in Online Education"
+        },
+        {
+          "id": "https://hackernoon.com/decipher-your-mind-gamification-the-octalysis-framework-and-the-psychology-of-motivation?source=rss",
+          "author": "Upshot.ai",
+          "description": "People do things for a reason. If we look deeper within ourselves and the world around us, we realize that we are all motivated by a myriad of drivers.",
+          "link": "https://hackernoon.com/decipher-your-mind-gamification-the-octalysis-framework-and-the-psychology-of-motivation?source=rss",
+          "publishedOn": "2021-12-25T02:23:42.000Z",
+          "wordCount": 3075,
+          "title": "Decipher Your Mind: Gamification, the Octalysis Framework, and the Psychology of Motivation"
+        },
+        {
+          "id": "https://hackernoon.com/uncover-the-secret-to-hiring-the-right-mobile-app-developer?source=rss",
+          "author": "Jay.devs",
+          "description": "The cost of mobile app development pretty much depends on the geographical location of a developer.",
+          "link": "https://hackernoon.com/uncover-the-secret-to-hiring-the-right-mobile-app-developer?source=rss",
+          "publishedOn": "2021-12-25T02:23:02.000Z",
+          "wordCount": 2531,
+          "title": "Uncover the Secret to Hiring the Right Mobile App Developer"
+        },
+        {
+          "id": "https://hackernoon.com/best-practices-in-account-management-for-key-clients-in-2022-new-year-stronger-partnerships?source=rss",
+          "author": "Emissary",
+          "description": "Key Account Management is a strategy to help you serve your most important clients.",
+          "link": "https://hackernoon.com/best-practices-in-account-management-for-key-clients-in-2022-new-year-stronger-partnerships?source=rss",
+          "publishedOn": "2021-12-25T02:16:52.000Z",
+          "wordCount": 1136,
+          "title": "Best Practices in Account Management for Key Clients in 2022: New Year, Stronger Partnerships"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-choose-a-technical-partner-for-your-business?source=rss",
+          "author": "SoftFormance",
+          "description": "A golden rule is: “Don’t start a partnership before you plan an exit plan.”",
+          "link": "https://hackernoon.com/how-to-choose-a-technical-partner-for-your-business?source=rss",
+          "publishedOn": "2021-12-25T01:20:20.000Z",
+          "wordCount": 1019,
+          "title": "How to Choose a Technical Partner for Your Business"
+        },
+        {
+          "id": "https://hackernoon.com/angular-vs-react-choosing-a-front-end-web-stack?source=rss",
+          "author": "Trantor Inc",
+          "description": "Web development is an Art.",
+          "link": "https://hackernoon.com/angular-vs-react-choosing-a-front-end-web-stack?source=rss",
+          "publishedOn": "2021-12-25T00:31:32.000Z",
+          "wordCount": 3313,
+          "title": "Angular Vs. React: Choosing a Front-End Web Stack"
+        },
+        {
+          "id": "https://hackernoon.com/the-magic-of-component-based-frontend-development?source=rss",
+          "author": "vsvconsult@gmail.com",
+          "description": "",
+          "link": "https://hackernoon.com/the-magic-of-component-based-frontend-development?source=rss",
+          "publishedOn": "2021-12-25T00:04:29.000Z",
+          "wordCount": 948,
+          "title": "The Magic of Component-based Frontend Development"
+        },
+        {
+          "id": "https://hackernoon.com/defi-mobile-first-and-biometrics-will-change-the-shape-of-finance-in-2022?source=rss",
+          "author": "UppLabs",
+          "description": "Read about the most important trends coming to Fintech in 2022. DeFi, mobile-first and biometrics are one of them.",
+          "link": "https://hackernoon.com/defi-mobile-first-and-biometrics-will-change-the-shape-of-finance-in-2022?source=rss",
+          "publishedOn": "2021-12-24T22:14:25.000Z",
+          "wordCount": 951,
+          "title": "DeFi, Mobile-first, and Biometrics will Change the Shape of Finance in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/my-picks-five-top-performing-cryptos-in-2021?source=rss",
+          "author": "Jenny Zheng",
+          "description": "My Five top-performing cryptos in 2021: Bitcoin, Axie Infinity, The Sandbox, Dogecoin and Solana. What's yours?",
+          "link": "https://hackernoon.com/my-picks-five-top-performing-cryptos-in-2021?source=rss",
+          "publishedOn": "2021-12-24T22:11:30.000Z",
+          "wordCount": 1007,
+          "title": "My Picks: Five Top-Performing Cryptos in 2021"
+        },
+        {
+          "id": "https://hackernoon.com/what-are-the-greatest-shows-on-tv-at-the-moment?source=rss",
+          "author": "Jack Boreham",
+          "description": "This Slogging thread by Jack Boreham, Mónica Freitas, Sara Pinto, Ellen Stevens and Amy Shah occurred in slogging's official #random channel, and has been edited for readability.",
+          "link": "https://hackernoon.com/what-are-the-greatest-shows-on-tv-at-the-moment?source=rss",
+          "publishedOn": "2021-12-24T22:01:15.000Z",
+          "wordCount": 1771,
+          "title": "What are the Greatest Shows on TV at the Moment?"
+        },
+        {
+          "id": "https://hackernoon.com/how-customer-experience-drives-business-growth-in-2022?source=rss",
+          "author": "Olivia Jones",
+          "description": "Learn here how customer experience drives business growth in 2022. Read out this blog to explore ultimate tips and tricks.",
+          "link": "https://hackernoon.com/how-customer-experience-drives-business-growth-in-2022?source=rss",
+          "publishedOn": "2021-12-24T21:26:00.000Z",
+          "wordCount": 3268,
+          "title": "How Customer Experience Drives Business Growth in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-convince-your-cfo-to-use-application-modernization?source=rss",
+          "author": "Lansa",
+          "description": "At the end of 2021, digital transformation and the need to modernize business applications in the light of new generation enterprise technologies is hardly new. In fact, it’s a topic that has been kicking around for the last ten years. For many it may even seem like application modernization strategies are no longer relevant. After all, companies have been aware of technology shifts and the need to modernize legacy apps for years — the majority of them must have already moved on from their 5250 green-screens by now.",
+          "link": "https://hackernoon.com/how-to-convince-your-cfo-to-use-application-modernization?source=rss",
+          "publishedOn": "2021-12-24T21:06:00.000Z",
+          "wordCount": 2068,
+          "title": "How To Convince Your CFO to Use Application Modernization"
+        },
+        {
+          "id": "https://hackernoon.com/modern-pr-results-driven-brand-awareness-and-demand-generation?source=rss",
+          "author": "Omri Hurwitz",
+          "description": "Modern PR: The Next Generation Of Brand Awareness & Demand Generation",
+          "link": "https://hackernoon.com/modern-pr-results-driven-brand-awareness-and-demand-generation?source=rss",
+          "publishedOn": "2021-12-24T21:01:32.000Z",
+          "wordCount": 1009,
+          "title": "Modern PR: Results Driven Brand Awareness & Demand Generation"
+        },
+        {
+          "id": "https://hackernoon.com/build-a-startup-program-for-your-saas-business-a-how-to-guide?source=rss",
+          "author": "ChartMogul",
+          "description": "Many SaaS startups offer their service at a discount to customers that are part of an incubator or accelerator which has become known as a startup program.",
+          "link": "https://hackernoon.com/build-a-startup-program-for-your-saas-business-a-how-to-guide?source=rss",
+          "publishedOn": "2021-12-24T17:38:58.000Z",
+          "wordCount": 1007,
+          "title": "Build a Startup Program for Your SaaS Business: A How to Guide"
+        },
+        {
+          "id": "https://hackernoon.com/hackernoon-the-beloved-pixel-font-now-coming-to-you-in-20?source=rss",
+          "author": "Kien Dao",
+          "description": "HackerNoon Font 2.0 is now open-sourced on brand.hackernoon.com and GitHub.",
+          "link": "https://hackernoon.com/hackernoon-the-beloved-pixel-font-now-coming-to-you-in-20?source=rss",
+          "publishedOn": "2021-12-24T17:09:17.000Z",
+          "wordCount": 1427,
+          "title": "HackerNoon The Beloved Pixel Font - Now Coming To You in 2.0"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-modernize-ibm-i-applications?source=rss",
+          "author": "Lansa",
+          "description": "If you’re like most IBM i users, you know how much value your IBM i data and applications bring to your business. Your end-users, however, may not. In today’s world of rich user experience, fast-paced application development, and constantly evolving customer expectations, IBM i applications are under increasing pressure to get with the times.",
+          "link": "https://hackernoon.com/how-to-modernize-ibm-i-applications?source=rss",
+          "publishedOn": "2021-12-24T08:04:10.000Z",
+          "wordCount": 1909,
+          "title": "How to Modernize IBM i Applications"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-regulate-deregulation-a-wicked-problem-indeed?source=rss",
+          "author": "Mainak Mukherjee",
+          "description": "There is little clarity around who is responsible for ensuring that DeFi applications and dApps adhere to the existing regulations and protocols.",
+          "link": "https://hackernoon.com/how-to-regulate-deregulation-a-wicked-problem-indeed?source=rss",
+          "publishedOn": "2021-12-24T07:33:50.000Z",
+          "wordCount": 1047,
+          "title": "How to Regulate Deregulation: A 'Wicked Problem' Indeed"
+        },
+        {
+          "id": "https://hackernoon.com/why-do-people-say-developers-are-lazy?source=rss",
+          "author": "Aga Wozniak",
+          "description": "The saying “work smart, not hard” is applicable for programmers.",
+          "link": "https://hackernoon.com/why-do-people-say-developers-are-lazy?source=rss",
+          "publishedOn": "2021-12-24T05:52:56.000Z",
+          "wordCount": 1088,
+          "title": "Why do People Say: \"Developers are Lazy\"?"
+        },
+        {
+          "id": "https://hackernoon.com/gaming-power-supply-units?source=rss",
+          "author": "Top Tech Companies",
+          "description": "Check out our top picks for the best gaming power supply units in 2021, along with valuable tips on selecting the best one for your gaming rig.",
+          "link": "https://hackernoon.com/gaming-power-supply-units?source=rss",
+          "publishedOn": "2021-12-24T05:51:59.000Z",
+          "wordCount": 991,
+          "title": "Reviewing The Best Gaming Power Supply Units"
+        },
+        {
           "id": "https://hackernoon.com/how-to-scrape-data-from-google-search-using-python-and-scrapy?source=rss",
           "author": "Scraper API",
           "description": "Scraping Google SERPs (search engine result pages) is as straightforward or as complicated as the tools we use.",
@@ -4444,6 +4615,15 @@
           "publishedOn": "2021-12-22T13:40:25.000Z",
           "wordCount": 982,
           "title": "What is Yield Farming and Why is it So Popular?"
+        },
+        {
+          "id": "https://hackernoon.com/one-click-trial-on-tyk-api-gateway-with-tin?source=rss",
+          "author": "Trystan",
+          "description": "What is the difference between using a traditional way to installation environment for Tyk and using Tin?",
+          "link": "https://hackernoon.com/one-click-trial-on-tyk-api-gateway-with-tin?source=rss",
+          "publishedOn": "2021-12-22T13:34:53.000Z",
+          "wordCount": 1051,
+          "title": "One-Click Trial on TYK API Gateway with Tin"
         },
         {
           "id": "https://hackernoon.com/new-sota-image-captioning-clipcap?source=rss",
@@ -14709,6 +14889,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=148285",
+          "author": "ACMer",
+          "description": "Given a integer, we want to find out if it is divisible by 3. We can sum up the digits and check if the sum is divisble by three. For example, 12345, the digits sum is 1+2+3+4+5 which is 15 and 15...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-proof-of-rule-integer-divisible-by-3/",
+          "publishedOn": "2021-12-25T19:54:19.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Proof of Rule: Integer Divisible By 3",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=148272",
           "author": "ACMer",
           "description": "You are given a two-dimensional integer list courses representing an adjacency list where courses is the list of prerequisite courses needed to take course i. Return whether it’s possible to...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -15535,6 +15725,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=513082",
+          "author": "Robin Kearey",
+          "description": "When [Mahesh Venkitachalam] was experimenting with machine learning for audio applications on a Raspberry Pi, he found himself looking for a simple USB microphone. A cheap one was easy to …read more",
+          "link": "https://hackaday.com/2021/12/25/mico-is-a-usb-microphone-based-on-a-pi-pico/",
+          "publishedOn": "2021-12-26T00:00:12.000Z",
+          "wordCount": 1092,
+          "title": "Mico is a USB Microphone Based on a Pi Pico"
+        },
+        {
+          "id": "https://hackaday.com/?p=512963",
+          "author": "Al Williams",
+          "description": "Using a process akin to electroplating, researchers at the University of Oldenburg have 3D printed structures at the 25 nanometer scale. A human hair, of course, is thousands of time …read more",
+          "link": "https://hackaday.com/2021/12/25/3d-printing-gets-tiny/",
+          "publishedOn": "2021-12-25T21:00:00.000Z",
+          "wordCount": 1045,
+          "title": "3D Printing Gets Tiny"
+        },
+        {
+          "id": "https://hackaday.com/?p=512915",
+          "author": "Jenny List",
+          "description": "For many years now a source for some of the smallest and cheapest home made CNC mechanisms has been the seemingly never-ending supply of surplus CD and DVD-ROM drives. The …read more",
+          "link": "https://hackaday.com/2021/12/25/mini-linear-actuators-from-dvd-drive-parts/",
+          "publishedOn": "2021-12-25T18:00:00.000Z",
+          "wordCount": 1163,
+          "title": "Mini Linear Actuators From DVD Drive Parts"
+        },
+        {
+          "id": "https://hackaday.com/?p=513044&preview=true&preview_id=513044",
+          "author": "Elliot Williams",
+          "description": "[Leandro Felipe] is no stranger to the dirty hack, and this video of his conversion of a blender into a handheld rotary grinding tool is no exception. (Embedded below.) But …read more",
+          "link": "https://hackaday.com/2021/12/25/blender-no-grinder/",
+          "publishedOn": "2021-12-25T15:00:00.000Z",
+          "wordCount": 1285,
+          "title": "Blender? No, Grinder"
+        },
+        {
+          "id": "https://hackaday.com/?p=513056",
+          "author": "Matthew Carlson",
+          "description": "As anyone who has used a 3D printer before knows, what comes off the bed of your regular FSD printer is by no means a mirror finish. There are layers …read more",
+          "link": "https://hackaday.com/2021/12/25/3d-prints-with-a-mirror-finish/",
+          "publishedOn": "2021-12-25T12:00:00.000Z",
+          "wordCount": 1559,
+          "title": "3D Prints With A Mirror Finish"
+        },
+        {
+          "id": "https://hackaday.com/?p=513027&preview=true&preview_id=513027",
+          "author": "Elliot Williams",
+          "description": "A cycloidal gear drive is one of the most mesmerizing reduction gears to watch when it is running, but it’s not all just eye-candy. Cycloidals give decent gearing, are relatively …read more",
+          "link": "https://hackaday.com/2021/12/25/do-you-need-a-cycloidal-drive/",
+          "publishedOn": "2021-12-25T09:00:00.000Z",
+          "wordCount": 1389,
+          "title": "Do You Need a Cycloidal Drive?"
+        },
+        {
+          "id": "https://hackaday.com/?p=512824",
+          "author": "Al Williams",
+          "description": "Years ago, doing your own darkroom work was the only way to really control what your pictures looked like. In those days, coffee was what kept you going while you …read more",
+          "link": "https://hackaday.com/2021/12/24/hacking-film-processing-with-coffee/",
+          "publishedOn": "2021-12-25T06:00:00.000Z",
+          "wordCount": 2799,
+          "title": "Hacking Film Processing with Coffee"
+        },
         {
           "id": "https://hackaday.com/?p=512797",
           "author": "Al Williams",
@@ -20943,6 +21196,16 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "14636B86-9FFA-4A5E-A1DA9CE309FC4FA7",
+          "author": "Richard Panek",
+          "description": "After years of delay, the most ambitious observatory ever built has at last left Earth. It now faces a high-stakes series of deployments in deep space\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-james-webb-space-telescope-has-launched-now-comes-the-hard-part1/",
+          "publishedOn": "2021-12-25T12:21:00.000Z",
+          "wordCount": null,
+          "title": "The James Webb Space Telescope Has Launched: Now Comes the Hard Part",
+          "itunes": {}
+        },
+        {
           "id": "78555700-D36D-4BEA-8AE2CAD5F1F608DF",
           "author": "Claudia Wallis",
           "description": "Public health specialist and physician Camara Phyllis Jones talks about ways that jobs, communities and health care leave Black Americans more exposed and less protected\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -25878,6 +26141,24 @@
       "feedUrl": "https://devops.com/feed/",
       "siteUrl": "https://devops.com",
       "articles": [
+        {
+          "id": "https://devops.com/?p=142998",
+          "author": "Uri Zaidenwerg",
+          "description": "As we close out 2021, we at DevOps.com wanted to highlight the most popular articles of the year. Following is the twelfth in our series of the Best of 2021. Nowadays I feel like there is no need to explain why DevOps as a methodology exists, as it is widely understood and accepted. But the […]\nThe post Best of 2021 – Why DevOps Will Cease to Exist appeared first on DevOps.com.",
+          "link": "https://devops.com/why-devops-will-cease-to-exist/",
+          "publishedOn": "2021-12-25T08:00:57.000Z",
+          "wordCount": 1532,
+          "title": "Best of 2021 – Why DevOps Will Cease to Exist"
+        },
+        {
+          "id": "https://devops.com/?p=143545",
+          "author": "ROELBOB",
+          "description": "As we close out 2021, we at DevOps.com wanted to highlight the most popular articles of the year. Following is the eleventh in our series of the Best of 2021.\nThe post Best of 2021 – Software Developer Life Cycle appeared first on DevOps.com.",
+          "link": "https://devops.com/software-developer-life-cycle/",
+          "publishedOn": "2021-12-25T07:00:10.000Z",
+          "wordCount": 536,
+          "title": "Best of 2021 – Software Developer Life Cycle"
+        },
         {
           "id": "https://devops.com/?p=141761",
           "author": "Gary Stevens",

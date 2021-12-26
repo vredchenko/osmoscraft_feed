@@ -2,10 +2,207 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2021-12-25T00:42:17.254Z</updated>
+    <updated>2021-12-26T00:46:37.888Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mico is a USB Microphone Based on a Pi Pico]]></title>
+        <id>https://hackaday.com/?p=513082</id>
+        <link href="https://hackaday.com/2021/12/25/mico-is-a-usb-microphone-based-on-a-pi-pico/"/>
+        <updated>2021-12-26T00:00:12.000Z</updated>
+        <summary type="html"><![CDATA[When [Mahesh Venkitachalam] was experimenting with machine learning for audio applications on a Raspberry Pi, he found himself looking for a simple USB microphone. A cheap one was easy to …read more]]></summary>
+        <author>
+            <name>Robin Kearey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS CDK v2 Tutorial – How to Create a Three-Tier Serverless Application]]></title>
+        <id>61c4e1e6755c16082490a3fe</id>
+        <link href="https://www.freecodecamp.org/news/aws-cdk-v2-three-tier-serverless-application/"/>
+        <updated>2021-12-25T21:32:22.000Z</updated>
+        <summary type="html"><![CDATA[A Three-tier web applications has a presentation layer, an application layer, and a database layer.  This familiar pattern is fertile ground for learning new technologies like the AWS Cloud Development Kit (CDK).  In this tutorial, we will create a simple note-taking application using a DynamoDB table, HTTP API endpoints, Lambda]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printing Gets Tiny]]></title>
+        <id>https://hackaday.com/?p=512963</id>
+        <link href="https://hackaday.com/2021/12/25/3d-printing-gets-tiny/"/>
+        <updated>2021-12-25T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Using a process akin to electroplating, researchers at the University of Oldenburg have 3D printed structures at the 25 nanometer scale. A human hair, of course, is thousands of time …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – Proof of Rule: Integer Divisible By 3]]></title>
+        <id>https://helloacm.com/?p=148285</id>
+        <link href="https://helloacm.com/teaching-kids-programming-proof-of-rule-integer-divisible-by-3/"/>
+        <updated>2021-12-25T19:54:19.000Z</updated>
+        <summary type="html"><![CDATA[Given a integer, we want to find out if it is divisible by 3. We can sum up the digits and check if the sum is divisble by three. For example, 12345, the digits sum is 1+2+3+4+5 which is 15 and 15...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mini Linear Actuators From DVD Drive Parts]]></title>
+        <id>https://hackaday.com/?p=512915</id>
+        <link href="https://hackaday.com/2021/12/25/mini-linear-actuators-from-dvd-drive-parts/"/>
+        <updated>2021-12-25T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For many years now a source for some of the smallest and cheapest home made CNC mechanisms has been the seemingly never-ending supply of surplus CD and DVD-ROM drives. The …read more]]></summary>
+        <author>
+            <name>Jenny List</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender? No, Grinder]]></title>
+        <id>https://hackaday.com/?p=513044&amp;preview=true&amp;preview_id=513044</id>
+        <link href="https://hackaday.com/2021/12/25/blender-no-grinder/"/>
+        <updated>2021-12-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[Leandro Felipe] is no stranger to the dirty hack, and this video of his conversion of a blender into a handheld rotary grinding tool is no exception. (Embedded below.) But …read more]]></summary>
+        <author>
+            <name>Elliot Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The James Webb Space Telescope Has Launched: Now Comes the Hard Part]]></title>
+        <id>14636B86-9FFA-4A5E-A1DA9CE309FC4FA7</id>
+        <link href="https://www.scientificamerican.com/article/the-james-webb-space-telescope-has-launched-now-comes-the-hard-part1/"/>
+        <updated>2021-12-25T12:21:00.000Z</updated>
+        <summary type="html"><![CDATA[After years of delay, the most ambitious observatory ever built has at last left Earth. It now faces a high-stakes series of deployments in deep space
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Richard Panek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Prints With A Mirror Finish]]></title>
+        <id>https://hackaday.com/?p=513056</id>
+        <link href="https://hackaday.com/2021/12/25/3d-prints-with-a-mirror-finish/"/>
+        <updated>2021-12-25T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As anyone who has used a 3D printer before knows, what comes off the bed of your regular FSD printer is by no means a mirror finish. There are layers …read more]]></summary>
+        <author>
+            <name>Matthew Carlson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do You Need a Cycloidal Drive?]]></title>
+        <id>https://hackaday.com/?p=513027&amp;preview=true&amp;preview_id=513027</id>
+        <link href="https://hackaday.com/2021/12/25/do-you-need-a-cycloidal-drive/"/>
+        <updated>2021-12-25T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A cycloidal gear drive is one of the most mesmerizing reduction gears to watch when it is running, but it’s not all just eye-candy. Cycloidals give decent gearing, are relatively …read more]]></summary>
+        <author>
+            <name>Elliot Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best of 2021 – Why DevOps Will Cease to Exist]]></title>
+        <id>https://devops.com/?p=142998</id>
+        <link href="https://devops.com/why-devops-will-cease-to-exist/"/>
+        <updated>2021-12-25T08:00:57.000Z</updated>
+        <summary type="html"><![CDATA[As we close out 2021, we at DevOps.com wanted to highlight the most popular articles of the year. Following is the twelfth in our series of the Best of 2021. Nowadays I feel like there is no need to explain why DevOps as a methodology exists, as it is widely understood and accepted. But the […]
+The post Best of 2021 – Why DevOps Will Cease to Exist appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Uri Zaidenwerg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best of 2021 – Software Developer Life Cycle]]></title>
+        <id>https://devops.com/?p=143545</id>
+        <link href="https://devops.com/software-developer-life-cycle/"/>
+        <updated>2021-12-25T07:00:10.000Z</updated>
+        <summary type="html"><![CDATA[As we close out 2021, we at DevOps.com wanted to highlight the most popular articles of the year. Following is the eleventh in our series of the Best of 2021.
+The post Best of 2021 – Software Developer Life Cycle appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>ROELBOB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacking Film Processing with Coffee]]></title>
+        <id>https://hackaday.com/?p=512824</id>
+        <link href="https://hackaday.com/2021/12/24/hacking-film-processing-with-coffee/"/>
+        <updated>2021-12-25T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Years ago, doing your own darkroom work was the only way to really control what your pictures looked like. In those days, coffee was what kept you going while you …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secure the Distance: How to Protect the Personal Data of Students Enrolled in Online Education]]></title>
+        <id>https://hackernoon.com/secure-the-distance-how-to-protect-the-personal-data-of-students-enrolled-in-online-education?source=rss</id>
+        <link href="https://hackernoon.com/secure-the-distance-how-to-protect-the-personal-data-of-students-enrolled-in-online-education?source=rss"/>
+        <updated>2021-12-25T03:11:51.000Z</updated>
+        <summary type="html"><![CDATA[The International Telecommunication Union provides security recommendations for schools.]]></summary>
+        <author>
+            <name>Shariy Ivan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decipher Your Mind: Gamification, the Octalysis Framework, and the Psychology of Motivation]]></title>
+        <id>https://hackernoon.com/decipher-your-mind-gamification-the-octalysis-framework-and-the-psychology-of-motivation?source=rss</id>
+        <link href="https://hackernoon.com/decipher-your-mind-gamification-the-octalysis-framework-and-the-psychology-of-motivation?source=rss"/>
+        <updated>2021-12-25T02:23:42.000Z</updated>
+        <summary type="html"><![CDATA[People do things for a reason. If we look deeper within ourselves and the world around us, we realize that we are all motivated by a myriad of drivers.]]></summary>
+        <author>
+            <name>Upshot.ai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uncover the Secret to Hiring the Right Mobile App Developer]]></title>
+        <id>https://hackernoon.com/uncover-the-secret-to-hiring-the-right-mobile-app-developer?source=rss</id>
+        <link href="https://hackernoon.com/uncover-the-secret-to-hiring-the-right-mobile-app-developer?source=rss"/>
+        <updated>2021-12-25T02:23:02.000Z</updated>
+        <summary type="html"><![CDATA[The cost of mobile app development pretty much depends on the geographical location of a developer.]]></summary>
+        <author>
+            <name>Jay.devs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Practices in Account Management for Key Clients in 2022: New Year, Stronger Partnerships]]></title>
+        <id>https://hackernoon.com/best-practices-in-account-management-for-key-clients-in-2022-new-year-stronger-partnerships?source=rss</id>
+        <link href="https://hackernoon.com/best-practices-in-account-management-for-key-clients-in-2022-new-year-stronger-partnerships?source=rss"/>
+        <updated>2021-12-25T02:16:52.000Z</updated>
+        <summary type="html"><![CDATA[Key Account Management is a strategy to help you serve your most important clients.]]></summary>
+        <author>
+            <name>Emissary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Choose a Technical Partner for Your Business]]></title>
+        <id>https://hackernoon.com/how-to-choose-a-technical-partner-for-your-business?source=rss</id>
+        <link href="https://hackernoon.com/how-to-choose-a-technical-partner-for-your-business?source=rss"/>
+        <updated>2021-12-25T01:20:20.000Z</updated>
+        <summary type="html"><![CDATA[A golden rule is: “Don’t start a partnership before you plan an exit plan.”]]></summary>
+        <author>
+            <name>SoftFormance</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular Vs. React: Choosing a Front-End Web Stack]]></title>
+        <id>https://hackernoon.com/angular-vs-react-choosing-a-front-end-web-stack?source=rss</id>
+        <link href="https://hackernoon.com/angular-vs-react-choosing-a-front-end-web-stack?source=rss"/>
+        <updated>2021-12-25T00:31:32.000Z</updated>
+        <summary type="html"><![CDATA[Web development is an Art.]]></summary>
+        <author>
+            <name>Trantor Inc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Magic of Component-based Frontend Development]]></title>
+        <id>https://hackernoon.com/the-magic-of-component-based-frontend-development?source=rss</id>
+        <link href="https://hackernoon.com/the-magic-of-component-based-frontend-development?source=rss"/>
+        <updated>2021-12-25T00:04:29.000Z</updated>
+        <author>
+            <name>vsvconsult@gmail.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tiny 3D Printed Magnets Show Patterns]]></title>
         <id>https://hackaday.com/?p=512797</id>
@@ -28,6 +225,26 @@ I didn’t know you could do that on …]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DeFi, Mobile-first, and Biometrics will Change the Shape of Finance in 2022]]></title>
+        <id>https://hackernoon.com/defi-mobile-first-and-biometrics-will-change-the-shape-of-finance-in-2022?source=rss</id>
+        <link href="https://hackernoon.com/defi-mobile-first-and-biometrics-will-change-the-shape-of-finance-in-2022?source=rss"/>
+        <updated>2021-12-24T22:14:25.000Z</updated>
+        <summary type="html"><![CDATA[Read about the most important trends coming to Fintech in 2022. DeFi, mobile-first and biometrics are one of them.]]></summary>
+        <author>
+            <name>UppLabs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Picks: Five Top-Performing Cryptos in 2021]]></title>
+        <id>https://hackernoon.com/my-picks-five-top-performing-cryptos-in-2021?source=rss</id>
+        <link href="https://hackernoon.com/my-picks-five-top-performing-cryptos-in-2021?source=rss"/>
+        <updated>2021-12-24T22:11:30.000Z</updated>
+        <summary type="html"><![CDATA[My Five top-performing cryptos in 2021: Bitcoin, Axie Infinity, The Sandbox, Dogecoin and Solana. What's yours?]]></summary>
+        <author>
+            <name>Jenny Zheng</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Teaching Kids Programming – Topological Sort Algorithm on Directed Graphs (Course Schedule, BFS)]]></title>
         <id>https://helloacm.com/?p=148272</id>
         <link href="https://helloacm.com/teaching-kids-programming-topological-sort-algorithm-on-directed-graphs-course-schedule-bfs/"/>
@@ -38,6 +255,46 @@ I didn’t know you could do that on …]]></summary>
 [[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
         <author>
             <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are the Greatest Shows on TV at the Moment?]]></title>
+        <id>https://hackernoon.com/what-are-the-greatest-shows-on-tv-at-the-moment?source=rss</id>
+        <link href="https://hackernoon.com/what-are-the-greatest-shows-on-tv-at-the-moment?source=rss"/>
+        <updated>2021-12-24T22:01:15.000Z</updated>
+        <summary type="html"><![CDATA[This Slogging thread by Jack Boreham, Mónica Freitas, Sara Pinto, Ellen Stevens and Amy Shah occurred in slogging's official #random channel, and has been edited for readability.]]></summary>
+        <author>
+            <name>Jack Boreham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Customer Experience Drives Business Growth in 2022]]></title>
+        <id>https://hackernoon.com/how-customer-experience-drives-business-growth-in-2022?source=rss</id>
+        <link href="https://hackernoon.com/how-customer-experience-drives-business-growth-in-2022?source=rss"/>
+        <updated>2021-12-24T21:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn here how customer experience drives business growth in 2022. Read out this blog to explore ultimate tips and tricks.]]></summary>
+        <author>
+            <name>Olivia Jones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Convince Your CFO to Use Application Modernization]]></title>
+        <id>https://hackernoon.com/how-to-convince-your-cfo-to-use-application-modernization?source=rss</id>
+        <link href="https://hackernoon.com/how-to-convince-your-cfo-to-use-application-modernization?source=rss"/>
+        <updated>2021-12-24T21:06:00.000Z</updated>
+        <summary type="html"><![CDATA[At the end of 2021, digital transformation and the need to modernize business applications in the light of new generation enterprise technologies is hardly new. In fact, it’s a topic that has been kicking around for the last ten years. For many it may even seem like application modernization strategies are no longer relevant. After all, companies have been aware of technology shifts and the need to modernize legacy apps for years — the majority of them must have already moved on from their 5250 green-screens by now.]]></summary>
+        <author>
+            <name>Lansa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern PR: Results Driven Brand Awareness & Demand Generation]]></title>
+        <id>https://hackernoon.com/modern-pr-results-driven-brand-awareness-and-demand-generation?source=rss</id>
+        <link href="https://hackernoon.com/modern-pr-results-driven-brand-awareness-and-demand-generation?source=rss"/>
+        <updated>2021-12-24T21:01:32.000Z</updated>
+        <summary type="html"><![CDATA[Modern PR: The Next Generation Of Brand Awareness & Demand Generation]]></summary>
+        <author>
+            <name>Omri Hurwitz</name>
         </author>
     </entry>
     <entry>
@@ -71,6 +328,26 @@ I didn’t know you could do that on …]]></summary>
 -- Read more on ScientificAmerican.com]]></summary>
         <author>
             <name>Claudia Wallis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Startup Program for Your SaaS Business: A How to Guide]]></title>
+        <id>https://hackernoon.com/build-a-startup-program-for-your-saas-business-a-how-to-guide?source=rss</id>
+        <link href="https://hackernoon.com/build-a-startup-program-for-your-saas-business-a-how-to-guide?source=rss"/>
+        <updated>2021-12-24T17:38:58.000Z</updated>
+        <summary type="html"><![CDATA[Many SaaS startups offer their service at a discount to customers that are part of an incubator or accelerator which has become known as a startup program.]]></summary>
+        <author>
+            <name>ChartMogul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HackerNoon The Beloved Pixel Font - Now Coming To You in 2.0]]></title>
+        <id>https://hackernoon.com/hackernoon-the-beloved-pixel-font-now-coming-to-you-in-20?source=rss</id>
+        <link href="https://hackernoon.com/hackernoon-the-beloved-pixel-font-now-coming-to-you-in-20?source=rss"/>
+        <updated>2021-12-24T17:09:17.000Z</updated>
+        <summary type="html"><![CDATA[HackerNoon Font 2.0 is now open-sourced on brand.hackernoon.com and GitHub.]]></summary>
+        <author>
+            <name>Kien Dao</name>
         </author>
     </entry>
     <entry>
@@ -187,6 +464,26 @@ Tags: bias, privacy, proctoring, YR Media]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Modernize IBM i Applications]]></title>
+        <id>https://hackernoon.com/how-to-modernize-ibm-i-applications?source=rss</id>
+        <link href="https://hackernoon.com/how-to-modernize-ibm-i-applications?source=rss"/>
+        <updated>2021-12-24T08:04:10.000Z</updated>
+        <summary type="html"><![CDATA[If you’re like most IBM i users, you know how much value your IBM i data and applications bring to your business. Your end-users, however, may not. In today’s world of rich user experience, fast-paced application development, and constantly evolving customer expectations, IBM i applications are under increasing pressure to get with the times.]]></summary>
+        <author>
+            <name>Lansa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Regulate Deregulation: A 'Wicked Problem' Indeed]]></title>
+        <id>https://hackernoon.com/how-to-regulate-deregulation-a-wicked-problem-indeed?source=rss</id>
+        <link href="https://hackernoon.com/how-to-regulate-deregulation-a-wicked-problem-indeed?source=rss"/>
+        <updated>2021-12-24T07:33:50.000Z</updated>
+        <summary type="html"><![CDATA[There is little clarity around who is responsible for ensuring that DeFi applications and dApps adhere to the existing regulations and protocols.]]></summary>
+        <author>
+            <name>Mainak Mukherjee</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Best of 2021 – From Agile to DevOps to DevSecOps: The Next Evolution]]></title>
         <id>https://devops.com/?p=141761</id>
         <link href="https://devops.com/from-agile-to-devops-to-devsecops-the-next-evolution/"/>
@@ -195,6 +492,26 @@ Tags: bias, privacy, proctoring, YR Media]]></summary>
 The post Best of 2021 – From Agile to DevOps to DevSecOps: The Next Evolution appeared first on DevOps.com.]]></summary>
         <author>
             <name>Gary Stevens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why do People Say: "Developers are Lazy"?]]></title>
+        <id>https://hackernoon.com/why-do-people-say-developers-are-lazy?source=rss</id>
+        <link href="https://hackernoon.com/why-do-people-say-developers-are-lazy?source=rss"/>
+        <updated>2021-12-24T05:52:56.000Z</updated>
+        <summary type="html"><![CDATA[The saying “work smart, not hard” is applicable for programmers.]]></summary>
+        <author>
+            <name>Aga Wozniak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reviewing The Best Gaming Power Supply Units]]></title>
+        <id>https://hackernoon.com/gaming-power-supply-units?source=rss</id>
+        <link href="https://hackernoon.com/gaming-power-supply-units?source=rss"/>
+        <updated>2021-12-24T05:51:59.000Z</updated>
+        <summary type="html"><![CDATA[Check out our top picks for the best gaming power supply units in 2021, along with valuable tips on selecting the best one for your gaming rig.]]></summary>
+        <author>
+            <name>Top Tech Companies</name>
         </author>
     </entry>
     <entry>
@@ -1128,6 +1445,16 @@ The short answer: it varies completely. Even within the same organization, diffe
         <summary type="html"><![CDATA[In this article, I'll tell you what Yield Farming is, what benefits it has, and what risks you're exposing your investments.]]></summary>
         <author>
             <name>Shariy Ivan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One-Click Trial on TYK API Gateway with Tin]]></title>
+        <id>https://hackernoon.com/one-click-trial-on-tyk-api-gateway-with-tin?source=rss</id>
+        <link href="https://hackernoon.com/one-click-trial-on-tyk-api-gateway-with-tin?source=rss"/>
+        <updated>2021-12-22T13:34:53.000Z</updated>
+        <summary type="html"><![CDATA[What is the difference between using a traditional way to installation environment for Tyk and using Tin?]]></summary>
+        <author>
+            <name>Trystan</name>
         </author>
     </entry>
     <entry>
@@ -34353,20 +34680,6 @@ The post Collecting Email Signups With the Notion API appeared first on CSS-Tric
 The post ‘Impossible’ Particle Discovery Adds Key Piece to the Strong Force Puzzle first appeared on Quanta Magazine]]></summary>
         <author>
             <name>Charlie Wood</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.11.2]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2"/>
-        <updated>2021-09-26T18:45:39.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: unicode characters in URL caused download error
-Fixed: project root npm install error
-Added: unit test library
-Chore: Dependency updates
-Thank you: @CaptNo1]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
 </feed>
