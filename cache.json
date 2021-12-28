@@ -22,6 +22,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=359044",
+          "author": "Jeremy Wagner",
+          "description": "One of the coolest things I’ve been messing with in the last couple years is the CSS Paint API. I love it. I did a talk on it, and made a little gallery of my own paint worklets…",
+          "link": "https://css-tricks.com/honor-prefers-color-scheme-in-the-css-paint-api-with-custom-properties/",
+          "publishedOn": "2021-12-27T14:39:00.000Z",
+          "wordCount": 1681,
+          "title": "Honor prefers-color-scheme in the CSS Paint API with Custom Properties"
+        },
+        {
           "id": "https://css-tricks.com/?p=358956",
           "author": "Shawn Wang",
           "description": "The first time I had my breath taken away by a humble scrollbar was on this very site. When CSS-Tricks v17 rolled out with its FAT CHONKY BOI, my jaw dropped.\nI didn’t know you could do that on …",
@@ -1676,51 +1685,6 @@
           "publishedOn": "2021-09-29T14:51:22.000Z",
           "wordCount": 1217,
           "title": "Front-End Dev Shortcuts in iOS 15"
-        },
-        {
-          "id": "https://css-tricks.com/?p=352669",
-          "author": "Chris Coyier",
-          "description": "I had one of those little single-serving designer helper sites bookmarked the other day: getwaves.io. Randomized SVG waves! Lots of cool options! Easy to customize! Easy to copy and paste! Well played, z creative labs. \n\nBut then I …\nThe post So many little design helper sites! appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/so-many-little-design-helper-sites/",
-          "publishedOn": "2021-09-28T21:00:04.000Z",
-          "wordCount": 651,
-          "title": "So many little design helper sites!"
-        },
-        {
-          "id": "https://css-tricks.com/?p=352681",
-          "author": "Chris Coyier",
-          "description": "Just last week I got one of those really?! 🤨 faces when this fact came up in conversation amongst smart and engaged fellow web developers: there is no browser choice on iOS. It’s all Safari. You can download apps that …\nThe post iOS Browser Choice appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/ios-browser-choice/",
-          "publishedOn": "2021-09-28T14:26:23.000Z",
-          "wordCount": 1798,
-          "title": "iOS Browser Choice"
-        },
-        {
-          "id": "https://css-tricks.com/?p=352073",
-          "author": "Chris Coyier",
-          "description": "(This is a sponsored post.)\nNow in its tenth year (!!!), Web Unleashed is one of the top events for web devs. It’s coming up quick: October 20-22, 2021. \nThe lineup is amazing. You’ll hear from leaders in …\nThe post Web Unleashed is Back! (Use Coupon Code “CSS-Tricks” for 50% Off) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://fitc.ca/event/webu21/",
-          "publishedOn": "2021-09-28T14:24:34.000Z",
-          "wordCount": 1491,
-          "title": "Web Unleashed is Back! (Use Coupon Code “CSS-Tricks” for 50% Off)"
-        },
-        {
-          "id": "https://css-tricks.com/?p=352621",
-          "author": "Chris Coyier",
-          "description": "I enjoy little frameworks like Tonic. It’s essentially syntactic sugar over <web-components /> to make them feel easier to use. Define a Class, template literal an HTML template, probably some other fancy helpers, and you’ve got a component …\nThe post Tonic (Component Framework) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/tonic-component-framework/",
-          "publishedOn": "2021-09-27T18:52:46.000Z",
-          "wordCount": 636,
-          "title": "Tonic (Component Framework)"
-        },
-        {
-          "id": "https://css-tricks.com/?p=352211",
-          "author": "Ravgeet Dhillon",
-          "description": "A lot of people these days are setting up their own newsletters. You’ve got the current big names like Substack and MailChimp, companies like Twitter are getting into it with Revue, and even Facebook is getting into the …\nThe post Collecting Email Signups With the Notion API appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/collecting-email-signups-with-the-notion-api/",
-          "publishedOn": "2021-09-27T15:26:01.000Z",
-          "wordCount": 4239,
-          "title": "Collecting Email Signups With the Notion API"
         }
       ]
     },
@@ -1729,6 +1693,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61c9fcdc755c16082490bbcb",
+          "author": null,
+          "description": "We just published a significant overhaul of our Responsive Web Design Certification (the first of freeCodeCamp's 10 currently-live certifications). We also updated our code editor. Instead of coding lessons, you'll learn concepts and syntax through a series of 15 practice projects + 5 certification projects. Here is the full certification, which",
+          "link": "https://www.freecodecamp.org/news/responsive-web-design-certification-redesigned/",
+          "publishedOn": "2021-12-27T22:16:19.000Z",
+          "wordCount": 1378,
+          "title": "Learn Responsive Web Design by Building 20 Projects – a Major freeCodeCamp Curriculum Update"
+        },
+        {
+          "id": "61c71ca4755c16082490adbc",
+          "author": null,
+          "description": "Julia is a high-level, dynamic programming language, designed to give users the speed of C/C++ while remaining as easy to use as Python. This means that developers can solve problems faster and more effectively. Julia is great for computational complex problems. Many early adopters of Julia were concentrated in",
+          "link": "https://www.freecodecamp.org/news/learn-julia-programming-language/",
+          "publishedOn": "2021-12-27T17:13:56.000Z",
+          "wordCount": 3344,
+          "title": "Learn Julia For Beginners – The Future Programming Language of  Data Science and Machine Learning Explained"
+        },
         {
           "id": "61c4e1e6755c16082490a3fe",
           "author": null,
@@ -4122,24 +4104,6 @@
           "publishedOn": "2021-09-29T17:03:35.000Z",
           "wordCount": 1170,
           "title": "HTML Comment – How to Comment Out a Line or Tag in HTML"
-        },
-        {
-          "id": "614e7e50ccc97307eb2bc3e5",
-          "author": null,
-          "description": "Flexbox can help you simplify the process of creating both basic and advanced layouts. And it's pretty straightforward to create side and bottom navigation menus with CSS flexbox or Grid. These layouts are so popular that they appear almost everywhere on the web. For example, check out Twitter's sidebar, which",
-          "link": "https://www.freecodecamp.org/news/fixed-side-and-bottom-navbar-with-css-flexbox/",
-          "publishedOn": "2021-09-28T21:41:48.000Z",
-          "wordCount": 783,
-          "title": "CSS Flexbox Tutorial – How to Build a Fixed Side and Bottom Navbar"
-        },
-        {
-          "id": "6153616d64aefe07d3fa049a",
-          "author": null,
-          "description": "Building projects is a great way to build your skills, especially when it comes to web development. We just published an HTML & CSS course on the freeCodeCamp.org YouTube channel that will teach you how to build a recipe website. John Smilga developed this course. He is one of",
-          "link": "https://www.freecodecamp.org/news/html-css-tutorial-build-a-recipe-website/",
-          "publishedOn": "2021-09-28T18:56:03.000Z",
-          "wordCount": 22805,
-          "title": "HTML / CSS Tutorial - Build a Recipe Website"
         }
       ]
     },
@@ -4148,6 +4112,177 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "https://hackernoon.com",
       "articles": [
+        {
+          "id": "https://hackernoon.com/the-top-5-technologies-to-watch-out-for-in-2022?source=rss",
+          "author": "Aliha Tanveer",
+          "description": "The future lies in its convergence, as Artificial Intelligence of Things (AIoT) will impact every industry vertical in 2022 and in the approaching years.",
+          "link": "https://hackernoon.com/the-top-5-technologies-to-watch-out-for-in-2022?source=rss",
+          "publishedOn": "2021-12-26T22:19:18.000Z",
+          "wordCount": 2143,
+          "title": "The Top 5 Technologies to Watch out For in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/research-the-misconfiguration-of-real-time-databases-in-mobile-app-development?source=rss",
+          "author": "Check Point Software",
+          "description": "Mobile App Development is a hugely useful tool but it does come with significant security risks, as the Checkpoint found out when researching threats.",
+          "link": "https://hackernoon.com/research-the-misconfiguration-of-real-time-databases-in-mobile-app-development?source=rss",
+          "publishedOn": "2021-12-26T22:08:43.000Z",
+          "wordCount": 1030,
+          "title": "Research: The Misconfiguration of Real Time Databases in Mobile App Development"
+        },
+        {
+          "id": "https://hackernoon.com/how-cosmos-proof-of-stake-helps-create-a-more-sustainable-blockchain-environment?source=rss",
+          "author": "Cosmos - Internet of Blockchains",
+          "description": "At the heart of the mission was the need to address the throughput, scalability, and importantly, environmental issues associated with Proof of Work blockchain.",
+          "link": "https://hackernoon.com/how-cosmos-proof-of-stake-helps-create-a-more-sustainable-blockchain-environment?source=rss",
+          "publishedOn": "2021-12-26T20:06:32.000Z",
+          "wordCount": 998,
+          "title": "How Cosmos Proof-Of-Stake Helps Create a More Sustainable Blockchain Environment"
+        },
+        {
+          "id": "https://hackernoon.com/defi-definancializing-productive-activity?source=rss",
+          "author": "Christian Kameir",
+          "description": "As software and hardware engineers around the world are untangling the centralization of the internet, a vocal portion within the enclave of blockchain-based solutions - generally referred to as decentralized finance - or DeFi for short - has emerged. While blockchains provide the building blocks for reliable information and - to a lesser extend value - transport functions  - a layer of middleware to the larger concept of cryptographic primitives mapped by protocols, current developments are largely focused on digitally native assets, and their derivatives. However, a first-principles view on the innovation of financial services will focus on the central tenet of technology: the increase of productivity of human activity, freeing up individuals’ attention — measured in time — that these can assign to leisure activities or higher-order pursuits, such as the accumulation of knowledge. To that end, network technologies, in particular, the internet and consequent emergence of the World Wide Web, amplified human productivity by fueling a surge of synchronous and asynchronous coordination methods of human fecundity, as well as the wider distribution of economic activity in general.",
+          "link": "https://hackernoon.com/defi-definancializing-productive-activity?source=rss",
+          "publishedOn": "2021-12-26T15:57:11.000Z",
+          "wordCount": 2044,
+          "title": "DeFi - Definancializing Productive Activity"
+        },
+        {
+          "id": "https://hackernoon.com/shielded-tokens-to-make-your-polygon-transactions-completely-anonymous-instead-of-pseudonymous?source=rss",
+          "author": "ZMATIC",
+          "description": "We are the fans by Polygon network, that outpacing Ethereum in terms of growth. Yes, layer-two scaling solution is growing faster than the platform. Polygon PoS chain is a hybrid between a sidechain and a Layer 2. It recently passed the milestone of having more daily active addresses than Ethereum! I personally see Polygon as the future of scaling because Ethereum’s proof of stake will not solve scaling issues, and that Ethereum 2.0 will not make the platform infinitely scalable. Instead it will continue to have a limited capacity and will require layer two solutions like Polygon.",
+          "link": "https://hackernoon.com/shielded-tokens-to-make-your-polygon-transactions-completely-anonymous-instead-of-pseudonymous?source=rss",
+          "publishedOn": "2021-12-26T15:54:37.000Z",
+          "wordCount": 1794,
+          "title": "Shielded Tokens To Make Your Polygon Transactions Completely Anonymous Instead of Pseudonymous"
+        },
+        {
+          "id": "https://hackernoon.com/poland-vs-ukraine-vs-russia-popular-eastern-european-outsourcing-destinations-compared?source=rss",
+          "author": "Rocketech",
+          "description": "Outsourcing destinations like Eastern Europe have plenty of talented developers. Countries like Poland, Ukraine and Russia are notable for having many devs.",
+          "link": "https://hackernoon.com/poland-vs-ukraine-vs-russia-popular-eastern-european-outsourcing-destinations-compared?source=rss",
+          "publishedOn": "2021-12-26T15:40:45.000Z",
+          "wordCount": 1136,
+          "title": "Poland vs. Ukraine vs. Russia: Popular Eastern European Outsourcing Destinations Compared"
+        },
+        {
+          "id": "https://hackernoon.com/6-ways-a-node-developer-can-drastically-boost-their-productivity?source=rss",
+          "author": "Robbie Cahill",
+          "description": "These six productivity tips will supercharge your productivity as a Node developer. You'll save hours of time which you can then invest in other activities.",
+          "link": "https://hackernoon.com/6-ways-a-node-developer-can-drastically-boost-their-productivity?source=rss",
+          "publishedOn": "2021-12-26T15:36:45.000Z",
+          "wordCount": 1022,
+          "title": "6 Ways A Node Developer Can Drastically Boost Their Productivity"
+        },
+        {
+          "id": "https://hackernoon.com/5-stats-to-consider-before-building-your-web-based-product?source=rss",
+          "author": "Doga Budak",
+          "description": "Helpful statistics to consider when you decide to write your own product",
+          "link": "https://hackernoon.com/5-stats-to-consider-before-building-your-web-based-product?source=rss",
+          "publishedOn": "2021-12-26T15:28:05.000Z",
+          "wordCount": 990,
+          "title": "5 Stats To Consider Before Building Your Web-based Product"
+        },
+        {
+          "id": "https://hackernoon.com/debunked-4-common-myths-about-nfts?source=rss",
+          "author": "Robert Williams",
+          "description": "NFTs are the digitized form of any artwork, and the people interested in these artworks can buy them from NFT marketplaces.",
+          "link": "https://hackernoon.com/debunked-4-common-myths-about-nfts?source=rss",
+          "publishedOn": "2021-12-26T15:22:50.000Z",
+          "wordCount": 1519,
+          "title": "#Debunked - 4 Common Myths About NFTs"
+        },
+        {
+          "id": "https://hackernoon.com/10-best-web-dev-tools-of-2021?source=rss",
+          "author": "MV",
+          "description": "Top 10 Web Dev Tools in 2021",
+          "link": "https://hackernoon.com/10-best-web-dev-tools-of-2021?source=rss",
+          "publishedOn": "2021-12-26T15:17:10.000Z",
+          "wordCount": 872,
+          "title": "10 Best Web Dev Tools of 2021"
+        },
+        {
+          "id": "https://hackernoon.com/twenty-years-of-my-gaming-history-ruined-bit-by-bit-by-blizzard?source=rss",
+          "author": "Nebojsa \"Nesha\" Todorovic",
+          "description": "“We don't stop playing because we grow old. We grow old because we stop playing.”",
+          "link": "https://hackernoon.com/twenty-years-of-my-gaming-history-ruined-bit-by-bit-by-blizzard?source=rss",
+          "publishedOn": "2021-12-26T15:04:33.000Z",
+          "wordCount": 2496,
+          "title": "Twenty Years of My Gaming History Ruined Bit By Bit By Blizzard"
+        },
+        {
+          "id": "https://hackernoon.com/e-invoicing-automation-key-concepts-for-doing-it-right?source=rss",
+          "author": "Unimaze Sotfware",
+          "description": "Are you new to e-invoicing? Click here to discover how you can implement e-invoicing for your business.",
+          "link": "https://hackernoon.com/e-invoicing-automation-key-concepts-for-doing-it-right?source=rss",
+          "publishedOn": "2021-12-26T14:53:19.000Z",
+          "wordCount": 991,
+          "title": "e-Invoicing Automation: Key Concepts For Doing It Right"
+        },
+        {
+          "id": "https://hackernoon.com/taking-away-metaverse-from-mark-zuckerberg-billionaire-brothers-strike-back?source=rss",
+          "author": "ExtraChain",
+          "description": "Mark Zuckerberg and brothers Winklevoss are fighting for their vision of Web3.0 - or is it just the next stage of old rivalry?",
+          "link": "https://hackernoon.com/taking-away-metaverse-from-mark-zuckerberg-billionaire-brothers-strike-back?source=rss",
+          "publishedOn": "2021-12-25T20:35:00.000Z",
+          "wordCount": 1011,
+          "title": "Taking Away Metaverse from Mark Zuckerberg: Billionaire Brothers Strike Back"
+        },
+        {
+          "id": "https://hackernoon.com/nfts-and-the-cosmos-ecosystem-an-overview?source=rss",
+          "author": "Odesanmi Temitope",
+          "description": "See why and how the NFT market is valued at $7 billion. However, experts believe that the market is heading to a trillion-dollar valuation.",
+          "link": "https://hackernoon.com/nfts-and-the-cosmos-ecosystem-an-overview?source=rss",
+          "publishedOn": "2021-12-25T20:24:52.000Z",
+          "wordCount": 976,
+          "title": "NFTs And the COSMOS Ecosystem: An Overview"
+        },
+        {
+          "id": "https://hackernoon.com/the-ultimate-ido-marketing-toolbox-for-p2e-projects?source=rss",
+          "author": "ilya romanov",
+          "description": "Play-to-Earn and GameFi IDO campaigns are happening every day. What marketing should these projects do to set themselves apart? Here's the ultimate guide.",
+          "link": "https://hackernoon.com/the-ultimate-ido-marketing-toolbox-for-p2e-projects?source=rss",
+          "publishedOn": "2021-12-25T20:21:55.000Z",
+          "wordCount": 990,
+          "title": "The Ultimate IDO Marketing Toolbox for P2E Projects"
+        },
+        {
+          "id": "https://hackernoon.com/5-crypto-resolutions-for-2022-decentralizing-my-life?source=rss",
+          "author": "StevieSats",
+          "description": "Make an NFT. Explore the metaverse. Join decentralized and women-run crypto orgs and platforms. These are some of my resolutions for 2022.",
+          "link": "https://hackernoon.com/5-crypto-resolutions-for-2022-decentralizing-my-life?source=rss",
+          "publishedOn": "2021-12-25T20:19:07.000Z",
+          "wordCount": 966,
+          "title": "5 Crypto Resolutions for 2022: Decentralizing My Life"
+        },
+        {
+          "id": "https://hackernoon.com/should-you-block-all-monero-related-domains-crypto-scams-set-to-rise-in-2022?source=rss",
+          "author": "Ken Carnesi",
+          "description": "Crypto-related cyber attacks will increase in 2022, and outpacing what we've seen in 2021. In particular, Monero cryptocurrency is used often by cybercriminals.",
+          "link": "https://hackernoon.com/should-you-block-all-monero-related-domains-crypto-scams-set-to-rise-in-2022?source=rss",
+          "publishedOn": "2021-12-25T20:08:25.000Z",
+          "wordCount": 1033,
+          "title": "Should You Block All Monero-Related Domains? Crypto Scams Set To Rise in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/web-30-for-businesses-a-beginners-guide?source=rss",
+          "author": "Emmanuel Awosika",
+          "description": "Web 3.0 may be the next frontier of the Internet, but many know little about it. Read to learn everything about Web 3.0 and its implications for businesses.",
+          "link": "https://hackernoon.com/web-30-for-businesses-a-beginners-guide?source=rss",
+          "publishedOn": "2021-12-25T20:06:04.000Z",
+          "wordCount": 961,
+          "title": "Web 3.0 For Businesses: A Beginner's Guide"
+        },
+        {
+          "id": "https://hackernoon.com/cryptocurrencies-what-even-are-they?source=rss",
+          "author": "Lucien Lecarme",
+          "description": "Sometimes we forget that more than 95% of the world's population doesn't own crypto. It's time to do some more education and dive into what crypto is in 2021",
+          "link": "https://hackernoon.com/cryptocurrencies-what-even-are-they?source=rss",
+          "publishedOn": "2021-12-25T19:58:49.000Z",
+          "wordCount": 1003,
+          "title": "Cryptocurrencies: What Even Are They?"
+        },
         {
           "id": "https://hackernoon.com/secure-the-distance-how-to-protect-the-personal-data-of-students-enrolled-in-online-education?source=rss",
           "author": "Shariy Ivan",
@@ -4597,6 +4732,15 @@
           "publishedOn": "2021-12-22T14:16:42.000Z",
           "wordCount": 2198,
           "title": "5 Benefits of Implementing AR in the Tourism Industry"
+        },
+        {
+          "id": "https://hackernoon.com/getting-started-with-customer-testimonials-a-beginners-guide?source=rss",
+          "author": "Vincent Otieno",
+          "description": "Including testimonials in your content makes your company more authoritative because your readers will perceive your product as valuable.",
+          "link": "https://hackernoon.com/getting-started-with-customer-testimonials-a-beginners-guide?source=rss",
+          "publishedOn": "2021-12-22T13:59:08.000Z",
+          "wordCount": 3765,
+          "title": "Getting Started with Customer Testimonials: A Beginner's Guide"
         },
         {
           "id": "https://hackernoon.com/how-to-use-gulp-to-protect-your-code?source=rss",
@@ -14740,24 +14884,6 @@
           "publishedOn": "2021-10-01T08:51:11.000Z",
           "wordCount": 786,
           "title": "How to Participate in Hacktoberfest 2021: Ultimate Beginner's Guide"
-        },
-        {
-          "id": "https://hackernoon.com/hackernoon-contributor-davis-david-builds-datasets-for-african-languages?source=rss",
-          "author": "Davis David",
-          "description": "Davis' latest HackerNoon top story is the development of the Swahili news dataset for topic classification tasks in machine learning.",
-          "link": "https://hackernoon.com/hackernoon-contributor-davis-david-builds-datasets-for-african-languages?source=rss",
-          "publishedOn": "2021-09-28T13:28:57.000Z",
-          "wordCount": 807,
-          "title": "HackerNoon Contributor Davis David Builds Datasets for African Languages"
-        },
-        {
-          "id": "https://hackernoon.com/the-ultimate-guide-to-web-30-the-history-and-future-of-the-web?source=rss",
-          "author": "Suhail Kakar",
-          "description": "Web3 is the next stage of the internet, building on the past two iterations and addressing its current flaws and adding new features for users to make use of.",
-          "link": "https://hackernoon.com/the-ultimate-guide-to-web-30-the-history-and-future-of-the-web?source=rss",
-          "publishedOn": "2021-09-28T06:41:34.000Z",
-          "wordCount": 808,
-          "title": "The Ultimate Guide to Web 3.0 - The History and Future of the Web"
         }
       ]
     },
@@ -14766,6 +14892,15 @@
       "feedUrl": "https://davidwalsh.name/feed",
       "siteUrl": "https://davidwalsh.name",
       "articles": [
+        {
+          "id": "https://davidwalsh.name/?p=27506",
+          "author": "David Walsh",
+          "description": "Replacing a substring of text within a larger string has always been misleading in JavaScript. I wrote Replace All Occurrences of a String in JavaScript years ago and it’s still one of my most read articles. The confusion lies in that replace only replaces the first occurrence of a substring, not all occurrences. For example: […]\nThe post JavaScript String replaceAll appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/javascript-s",
+          "publishedOn": "2021-12-27T22:10:20.000Z",
+          "wordCount": 565,
+          "title": "JavaScript String replaceAll"
+        },
         {
           "id": "https://davidwalsh.name/?p=27500",
           "author": "David Walsh",
@@ -14888,6 +15023,16 @@
       "feedUrl": "http://feeds.feedburner.com/helloacm?format=xml",
       "siteUrl": "https://helloacm.com",
       "articles": [
+        {
+          "id": "https://helloacm.com/?p=148299",
+          "author": "ACMer",
+          "description": "You are given two lists of integers weights and values which have the same length and an integer capacity. weights and values represent the weight and value of the ith item. Given that you can take...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-0-1-knapsack-problem-via-top-down-dynamic-programming-algorithm/",
+          "publishedOn": "2021-12-27T18:47:32.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – 0/1 Knapsack Problem via Top Down Dynamic Programming Algorithm",
+          "itunes": {}
+        },
         {
           "id": "https://helloacm.com/?p=148285",
           "author": "ACMer",
@@ -15697,26 +15842,6 @@
           "wordCount": null,
           "title": "Teaching Kids Programming – Compute the Maximal Perimeter by Forming a Rectangle from N squares",
           "itunes": {}
-        },
-        {
-          "id": "https://helloacm.com/?p=146917",
-          "author": "ACMer",
-          "description": "Eric wants to build a Rectangle Fence against an old wall using length of bricks (all 32), see below: -------------------------- // old wall | | | | L____J // new wall Eric wants...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
-          "link": "https://helloacm.com/teaching-kids-programming-compute-the-max-fence-area-via-bruteforce-algorithm-or-parabola-quadratic-equation/",
-          "publishedOn": "2021-09-28T20:57:23.000Z",
-          "wordCount": null,
-          "title": "Teaching Kids Programming – Compute the Max Fence Area via Bruteforce Algorithm or Parabola Quadratic Equation",
-          "itunes": {}
-        },
-        {
-          "id": "https://helloacm.com/?p=146901",
-          "author": "ACMer",
-          "description": "Every valid email consists of a local name and a domain name, separated by the ‘@’ sign. Besides lowercase letters, the email may contain one or more ‘.’ or ‘+’....\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
-          "link": "https://helloacm.com/teaching-kids-programming-number-of-unique-email-addresses/",
-          "publishedOn": "2021-09-27T20:39:45.000Z",
-          "wordCount": null,
-          "title": "Teaching Kids Programming – Number of Unique Email Addresses",
-          "itunes": {}
         }
       ]
     },
@@ -15725,6 +15850,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=513305",
+          "author": "Chris Lott",
+          "description": "Culminating a year-long project, [Usagi Electric] aka [David] has just wrapped up his single-bit vacuum tube computer. It is based on the Motorola MC14500 1-bit industrial controller, but since [David] changed …read more",
+          "link": "https://hackaday.com/2021/12/27/single-bit-computer-from-vacuum-tubes/",
+          "publishedOn": "2021-12-28T00:00:41.000Z",
+          "wordCount": 1309,
+          "title": "Single Bit Computer from Vacuum Tubes"
+        },
+        {
+          "id": "https://hackaday.com/?p=513317",
+          "author": "Chris Lott",
+          "description": "Associate Professor [Homei Miyashita] from Meiji University’s School of Science and Technology in Tokyo has developed a new technology for reproducing taste on a television or monitor, a system called Taste the …read more",
+          "link": "https://hackaday.com/2021/12/27/taste-the-television-tttv/",
+          "publishedOn": "2021-12-27T21:00:00.000Z",
+          "wordCount": 1356,
+          "title": "Taste the Television: TTTV"
+        },
+        {
+          "id": "https://hackaday.com/?p=513266",
+          "author": "Matthew Carlson",
+          "description": "When you hear raytracing, you might think of complex dark algorithms that to stare too long at their source code invites the beginning of madness. And you’re technically not far …read more",
+          "link": "https://hackaday.com/2021/12/27/whipping-together-a-little-ray-tracer-racer/",
+          "publishedOn": "2021-12-27T19:30:00.000Z",
+          "wordCount": 1190,
+          "title": "Whipping Together A Little Ray Tracer Racer"
+        },
+        {
+          "id": "https://hackaday.com/?p=510607",
+          "author": "Kristina Panos",
+          "description": "Well, whaddya know? It seems that E. coli, the bane of Romaine and spinach everywhere, has at least one practical use. Researchers at Harvard have created a kind of 3D-printable …read more",
+          "link": "https://hackaday.com/2021/12/27/its-printable-its-programmable-its-e-coli/",
+          "publishedOn": "2021-12-27T18:00:41.000Z",
+          "wordCount": 1570,
+          "title": "It’s Printable, It’s Programmable, It’s E. coli"
+        },
+        {
+          "id": "https://hackaday.com/?p=513430&preview=true&preview_id=513430",
+          "author": "Elliot Williams",
+          "description": "The annual meeting of the Chaos Computer Club, Germany’s giant hacker group, is online again this year. While those of us here are sad that we don’t get to see …read more",
+          "link": "https://hackaday.com/2021/12/27/rc3-2021-now-here-nowhere/",
+          "publishedOn": "2021-12-27T16:30:10.000Z",
+          "wordCount": 1141,
+          "title": "rC3 2021: Now Here, Nowhere"
+        },
+        {
+          "id": "https://hackaday.com/?p=512767",
+          "author": "Lewin Day",
+          "description": "Technology moves quickly these days as consumers continue to demand more data and more pixels. We see regular updates to standards for USB and RAM continually coming down the pipeline …read more",
+          "link": "https://hackaday.com/2021/12/27/the-label-says-hdmi-2-1-but-that-doesnt-mean-youll-get-it/",
+          "publishedOn": "2021-12-27T15:00:46.000Z",
+          "wordCount": 3420,
+          "title": "The Label Says HDMI 2.1 But That Doesn’t Mean You’ll Get It"
+        },
+        {
+          "id": "https://hackaday.com/?p=513090",
+          "author": "Jenny List",
+          "description": "Aside from being the focus of a series of bizarre conspiracy theories, 5G cellular networks offer the promise of ultra-fast Internet access anywhere within their range. To that end there …read more",
+          "link": "https://hackaday.com/2021/12/27/first-hacks-the-brand-new-nokia-5g-gateway-router/",
+          "publishedOn": "2021-12-27T12:00:00.000Z",
+          "wordCount": 2750,
+          "title": "First Hacks: The Brand New Nokia 5G Gateway Router"
+        },
         {
           "id": "https://hackaday.com/?p=513082",
           "author": "Robin Kearey",
@@ -21196,6 +21384,103 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "3AE813D7-95C3-4FA4-A267224F35F3E97F",
+          "author": "Zolelwa Sifumba",
+          "description": "A physician in hard-hit South Africa points out that squelching the disease in one place means nothing if it’s raging elsewhere\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/we-cant-fight-covid-19-on-a-country-by-country-basis/",
+          "publishedOn": "2021-12-27T19:00:00.000Z",
+          "wordCount": null,
+          "title": "We Can't Fight COVID-19 on a Country-by-Country Basis",
+          "itunes": {}
+        },
+        {
+          "id": "0800103B-00CE-431C-978DD1B73555E2E5",
+          "author": "Emily Schwing",
+          "description": "Wildfires, appearing dead in winter, are actually smoldering, then bouncing back to life in spring to consume increasingly more land in the Far North.\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/podcast/episode/a-growing-force-of-fiery-zombies-threatens-cold-northern-forests/",
+          "publishedOn": "2021-12-27T16:00:00.000Z",
+          "wordCount": null,
+          "title": "A Growing Force of Fiery Zombies Threatens Cold Northern Forests",
+          "itunes": {
+            "duration": "10:21"
+          },
+          "enclosure": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=31384C50-710F-42A9-91714668015AC39C",
+            "length": "8722331",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "D1A1844A-509F-485D-BA2EEC80DAD54C3E",
+          "author": "Aniket Aga, Maywa Montenegro de Wit",
+          "description": "The U.N. Food Systems Summit put biotechnology at center stage, although agroecological innovations offer greater promise for sustainability\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-biotech-crops-can-crash-and-still-never-fail/",
+          "publishedOn": "2021-12-27T15:00:00.000Z",
+          "wordCount": null,
+          "title": "How Biotech Crops Can Crash--and Still Never Fail",
+          "itunes": {}
+        },
+        {
+          "id": "39543265-3AD2-4A1F-ACF9B256342CE1BF",
+          "author": "Ans Irfan, Christopher Jackson, Ankita Arora",
+          "description": "The U.S. can rebuild its role in the global health landscape on the basis of equitable policies rather than exploitative ones\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/we-must-enhance-mdash-but-also-decolonize-mdash-americas-global-health-diplomacy/",
+          "publishedOn": "2021-12-27T14:30:00.000Z",
+          "wordCount": null,
+          "title": "We Must Enhance--but Also Decolonize--America's Global Health Diplomacy",
+          "itunes": {}
+        },
+        {
+          "id": "7A785799-8472-4A4A-9253549747C8B70A",
+          "author": "Claudia Wallis",
+          "description": "Research suggests virtual sessions can be as effective as in-person meetings\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-pandemic-has-created-a-zoom-boom-in-remote-psychotherapy/",
+          "publishedOn": "2021-12-27T14:00:00.000Z",
+          "wordCount": null,
+          "title": "The Pandemic Has Created a 'Zoom Boom' in Remote Psychotherapy",
+          "itunes": {}
+        },
+        {
+          "id": "1455E0D0-0716-4785-B377BE9B5F5B591D",
+          "author": "Ramesh Kaipa, The Conversation US",
+          "description": "This style of speech helps infants learn, but romantic adults use it as a way to show affection\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/why-do-couples-use-baby-talk-with-one-another/",
+          "publishedOn": "2021-12-27T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Why Do Couples Use Baby Talk with One Another?",
+          "itunes": {}
+        },
+        {
+          "id": "33BDE75F-6FF1-49C4-97FCF618D3FFB0D1",
+          "author": "Andrea Thompson, Sarah Lewin Frasier, Sophie Bushwick, Jeffery DelViscio, Lee Billings",
+          "description": "Check out the weird and wonderful stories that delighted us this year\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-best-fun-science-stories-of-2021-rhythmic-lemurs-a-marscopter-and-sex-obsessed-insect-zombies/",
+          "publishedOn": "2021-12-27T11:45:00.000Z",
+          "wordCount": null,
+          "title": "The Best Fun Science Stories of 2021: Rhythmic Lemurs, a Marscopter and Sex-Obsessed Insect Zombies",
+          "itunes": {}
+        },
+        {
+          "id": "3B5A98C0-5638-4A93-A827BBA8FA0F57A6",
+          "author": "Christie Aschwanden, Nature magazine",
+          "description": "The pandemic is teaching us key lessons about how people respond to crisis and misinformation, and it is spurring changes in the way scientists study public health questions\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-covid-is-changing-the-study-of-human-behavior/",
+          "publishedOn": "2021-12-26T15:00:00.000Z",
+          "wordCount": null,
+          "title": "How COVID Is Changing the Study of Human Behavior",
+          "itunes": {}
+        },
+        {
+          "id": "616FCAAA-95F5-4C7B-8AB02738E9CA9D80",
+          "author": "Amy Brady",
+          "description": "Recommendations from the editors of Scientific American\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/rachel-carsons-explorations-of-the-sea-the-human-relationship-with-elephants-and-more/",
+          "publishedOn": "2021-12-26T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Rachel Carson's Explorations of the Sea, the Human Relationship with Elephants, and More",
+          "itunes": {}
+        },
+        {
           "id": "14636B86-9FFA-4A5E-A1DA9CE309FC4FA7",
           "author": "Richard Panek",
           "description": "After years of delay, the most ambitious observatory ever built has at last left Earth. It now faces a high-stakes series of deployments in deep space\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -26026,113 +26311,6 @@
           "wordCount": null,
           "title": "What Is Machine Learning, and How Does It Work? Here's a Short Video Primer",
           "itunes": {}
-        },
-        {
-          "id": "F86269F3-3DE3-400B-91FED080126F1EBE",
-          "author": "Melinda Wenner Moyer",
-          "description": "Multiple causes underlie a disturbing trend. The increase for girls is more than double that for boys\n\r\n\r\n-- Read more on ScientificAmerican.com",
-          "link": "https://www.scientificamerican.com/article/suicide-rates-rise-in-a-generation-of-black-youth/",
-          "publishedOn": "2021-09-29T12:00:00.000Z",
-          "wordCount": null,
-          "title": "Suicide Rates Rise in a Generation of Black Youth",
-          "itunes": {}
-        },
-        {
-          "id": "26B9612A-84D4-4041-A244361BC142DF9C",
-          "author": "Christina Szalinski",
-          "description": "The organizations touting unproved protocols for the antiparasitic drug may be harming vaccination efforts\n\r\n\r\n-- Read more on ScientificAmerican.com",
-          "link": "https://www.scientificamerican.com/article/fringe-doctors-groups-promote-ivermectin-for-covid-despite-a-lack-of-evidence/",
-          "publishedOn": "2021-09-29T10:45:00.000Z",
-          "wordCount": null,
-          "title": "Fringe Doctors' Groups Promote Ivermectin for COVID despite a Lack of Evidence",
-          "itunes": {}
-        },
-        {
-          "id": "26DB804D-69C6-4B9D-AAE6C22D828369BE",
-          "author": "Michael Latner, Jean Schroedel",
-          "description": "National Voter Registration Day reminds us of the urgent need to protect electoral integrity\n\r\n\r\n-- Read more on ScientificAmerican.com",
-          "link": "https://www.scientificamerican.com/article/we-must-fight-restrictions-on-voting-rights/",
-          "publishedOn": "2021-09-28T20:30:00.000Z",
-          "wordCount": null,
-          "title": "We Must Fight Restrictions on Voting Rights",
-          "itunes": {}
-        },
-        {
-          "id": "BE06728C-49EF-46D7-B8A56E19FC405990",
-          "author": "Leonard David, SPACE.com",
-          "description": "The concepts include souped-up Mars helicopters and inexpensive orbiters and landers\n\r\n\r\n-- Read more on ScientificAmerican.com",
-          "link": "https://www.scientificamerican.com/article/mars-on-the-cheap-scientists-are-working-to-revolutionize-access-to-the-red-planet/",
-          "publishedOn": "2021-09-28T19:00:00.000Z",
-          "wordCount": null,
-          "title": "Mars on the Cheap: Scientists Are Working to Revolutionize Access to the Red Planet",
-          "itunes": {}
-        },
-        {
-          "id": "2A32D320-BDCD-4006-83FD861B92AA4850",
-          "author": "Thomas Frank, E&E News",
-          "description": "The severe dry conditions have left critical reservoirs depleted and helped fuel intense wildfires\n\r\n\r\n-- Read more on ScientificAmerican.com",
-          "link": "https://www.scientificamerican.com/article/historical-western-drought-is-likely-to-persist/",
-          "publishedOn": "2021-09-28T18:00:00.000Z",
-          "wordCount": null,
-          "title": "'Historical' Western Drought Is Likely to Persist",
-          "itunes": {}
-        },
-        {
-          "id": "D89C03E7-3C30-454B-843E44D5A4D6DC32",
-          "author": "Matthew Schneider-Mayerson",
-          "description": "We also need to talk about emotions and discuss pathways to action\n\r\n\r\n-- Read more on ScientificAmerican.com",
-          "link": "https://www.scientificamerican.com/article/to-teach-students-about-climate-change-lsquo-just-the-facts-rsquo-isn-rsquo-t-enough/",
-          "publishedOn": "2021-09-28T17:00:00.000Z",
-          "wordCount": null,
-          "title": "To Teach Students about Climate Change, 'Just the Facts' Isn't Enough",
-          "itunes": {}
-        },
-        {
-          "id": "A9B20752-2287-45EA-ABF7506FC39D88B4",
-          "author": "Chad Frischmann, Mamta Mehra",
-          "description": "It would also greatly cut greenhouse gas emissions\n\r\n\r\n-- Read more on ScientificAmerican.com",
-          "link": "https://www.scientificamerican.com/article/massively-reducing-food-waste-could-feed-the-world/",
-          "publishedOn": "2021-09-28T16:30:00.000Z",
-          "wordCount": null,
-          "title": "Massively Reducing Food Waste Could Feed the World",
-          "itunes": {}
-        },
-        {
-          "id": "2658B290-6E7D-442C-92D424E0C2AFD104",
-          "author": "Pakinam Amer",
-          "description": "It is a tale of sound: the song of a solitary whale that vocalizes at a unique frequency of 52 hertz, which no other whale—as the story goes—can seemingly understand.\r\n\r\n\r\nIt is also a tale...\n\r\n\r\n-- Read more on ScientificAmerican.com",
-          "link": "https://www.scientificamerican.com/podcast/episode/inside-the-nail-biting-quest-to-find-the-loneliest-whale/",
-          "publishedOn": "2021-09-28T16:00:00.000Z",
-          "wordCount": null,
-          "title": "Inside the Nail-Biting Quest to Find the 'Loneliest Whale'",
-          "itunes": {
-            "duration": "18:34"
-          },
-          "enclosure": {
-            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=A127C7AE-3EDC-46E5-9D12518319A3D8FC",
-            "length": "13390510",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "513FAD30-1F2C-4886-9DAAA2C5C74CC878",
-          "author": "Smriti Mallapaty, Nature magazine",
-          "description": "Studies of bats in China and Laos show southeast Asia is a hotspot for potentially dangerous viruses similar to SARS-CoV-2\n\r\n\r\n-- Read more on ScientificAmerican.com",
-          "link": "https://www.scientificamerican.com/article/closest-known-relatives-of-virus-behind-covid-19-found-in-laos/",
-          "publishedOn": "2021-09-28T15:00:00.000Z",
-          "wordCount": null,
-          "title": "Closest Known Relatives of Virus Behind COVID-19 Found in Laos",
-          "itunes": {}
-        },
-        {
-          "id": "760BB005-B0CE-4440-8C35040BCA53354A",
-          "author": "Christopher Lyon, Alex Dunhill, Andrew P. Beckerman, Ariane Burke, Bethany Allen, Chris Smith, Daniel J. Hill, Erin Saupe, James McKay, Julien Riel-Salvatore, Lindsay C. Stringer, Rob Marchant, Tracy Aze, The Conversation US",
-          "description": "Unless greenhouse gas emissions drop significantly, warming by 2500 will make the Amazon barren, Iowa tropical and India too hot to live in\n\r\n\r\n-- Read more on ScientificAmerican.com",
-          "link": "https://www.scientificamerican.com/article/earth-could-be-alien-to-humans-by-2500/",
-          "publishedOn": "2021-09-28T14:30:00.000Z",
-          "wordCount": null,
-          "title": "Earth Could Be Alien to Humans by 2500",
-          "itunes": {}
         }
       ]
     },
@@ -26141,6 +26319,33 @@
       "feedUrl": "https://devops.com/feed/",
       "siteUrl": "https://devops.com",
       "articles": [
+        {
+          "id": "https://devops.com/?p=141524",
+          "author": "Frank Ohlhorst",
+          "description": "As we close out 2021, we at DevOps.com wanted to highlight the most popular articles of the year. Following is the sixteenth in our series of the Best of 2021. Velocity is one of the major tenets of DevOps, and anything that maintains or improves velocity benefits the overall process. Yet, there are still many […]\nThe post Best of 2021 – Transform Legacy Java Apps to Microservices appeared first on DevOps.com.",
+          "link": "https://devops.com/transform-legacy-java-apps-to-microservices/",
+          "publishedOn": "2021-12-27T08:00:22.000Z",
+          "wordCount": 1298,
+          "title": "Best of 2021 – Transform Legacy Java Apps to Microservices"
+        },
+        {
+          "id": "https://devops.com/?p=142706",
+          "author": "Marc Hornbeek",
+          "description": "As we close out 2021, we at DevOps.com wanted to highlight the most popular articles of the year. Following is the fourteenth in our series of the Best of 2021. In a prior blog I explained my 27-factor DevOps assessment model which includes nine pillars of DevOps and three dimensions of people, process and technology. […]\nThe post Best of 2021 – Nine Pillars of DevOps Best Practices appeared first on DevOps.com.",
+          "link": "https://devops.com/nine-pillars-of-devops-best-practices/",
+          "publishedOn": "2021-12-26T08:00:49.000Z",
+          "wordCount": 2622,
+          "title": "Best of 2021 – Nine Pillars of DevOps Best Practices"
+        },
+        {
+          "id": "https://devops.com/?p=133794",
+          "author": "Slava Vaniukov",
+          "description": "As we close out 2021, we at DevOps.com wanted to highlight the most popular articles of the year. Following is the thirteenth in our series of the Best of 2021. In recent years, application development and deployment have become an increasingly critical part of business operations. Because of this, various entities have sought to optimize […]\nThe post Best of 2021 – How to Combine DevOps and Agile appeared first on DevOps.com.",
+          "link": "https://devops.com/how-to-combine-devops-and-agile/",
+          "publishedOn": "2021-12-26T07:30:38.000Z",
+          "wordCount": 1602,
+          "title": "Best of 2021 – How to Combine DevOps and Agile"
+        },
         {
           "id": "https://devops.com/?p=142998",
           "author": "Uri Zaidenwerg",
@@ -28282,24 +28487,6 @@
           "publishedOn": "2021-09-29T13:00:44.000Z",
           "wordCount": 1074,
           "title": "Red Hat Extends Scope of Ansible Automation Ambitions"
-        },
-        {
-          "id": "https://devops.com/?p=145677",
-          "author": "Don Macvittie",
-          "description": "The API economy and microservices architectures, led by Agile and DevOps, have introduced a massive amount of hidden complexity. I call it hidden complexity because we have a tendency in IT to focus on the problems in front of us, resolve them, then focus on the new problem in front of us. This leaves technical […]\nThe post The New(ish) Complexity appeared first on DevOps.com.",
-          "link": "https://devops.com/the-newish-complexity/",
-          "publishedOn": "2021-09-29T06:30:04.000Z",
-          "wordCount": 1090,
-          "title": "The New(ish) Complexity"
-        },
-        {
-          "id": "https://devops.com/?p=145711",
-          "author": "Eveline Oehrlich",
-          "description": "IT SKILLS IN FOCUS By Eveline Oehrlich, DevOps Institute According to McKinsey, nine out of 10 global executives and leaders are saying that their organizations are facing a skill gap or expect to develop additional skill gaps in the next three to five years. During the past few years, IT organizations, in particular, have already […]\nThe post THE UPSKILLING IT 2022 SURVEY IS NOW OPEN appeared first on DevOps.com.",
-          "link": "https://devops.com/the-upskilling-it-2022-survey-is-now-open/",
-          "publishedOn": "2021-09-28T19:45:00.000Z",
-          "wordCount": 1159,
-          "title": "THE UPSKILLING IT 2022 SURVEY IS NOW OPEN"
         }
       ]
     },
@@ -28817,26 +29004,6 @@
           "wordCount": null,
           "title": "Major Quantum Computing Strategy Suffers Serious Setbacks",
           "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=109000",
-          "author": "Kevin Hartnett",
-          "description": "As topologists seek to classify shapes, the effort hinges on how to define a manifold and what it means for two of them to be equivalent.            \nThe post In Topology, When Are Two Shapes the Same? first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/in-topology-when-are-two-shapes-the-same-20210928/",
-          "publishedOn": "2021-09-28T14:15:04.000Z",
-          "wordCount": null,
-          "title": "In Topology, When Are Two Shapes the Same?",
-          "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=108997",
-          "author": "Charlie Wood",
-          "description": "The unexpected discovery of the double-charm tetraquark has given physicists a new tool with which to hone their understanding of the strongest of nature’s fundamental forces.            \nThe post ‘Impossible’ Particle Discovery Adds Key Piece to the Strong Force Puzzle first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/impossible-particle-discovery-adds-key-piece-to-the-strong-force-puzzle-20210927/",
-          "publishedOn": "2021-09-27T14:36:02.000Z",
-          "wordCount": null,
-          "title": "‘Impossible’ Particle Discovery Adds Key Piece to the Strong Force Puzzle",
-          "itunes": {}
         }
       ]
     },
@@ -28845,6 +29012,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66392",
+          "author": "Nathan Yau",
+          "description": "Magnus Carlsen continued to assert his dominance at the World Chess Championship. FiveThirtyEight…\nTags: chess, FiveThirtyEight, Magnus Carlsen",
+          "link": "https://flowingdata.com/2021/12/27/world-chess-championship-in-charts/",
+          "publishedOn": "2021-12-27T11:19:19.000Z",
+          "wordCount": 310,
+          "title": "World Chess Championship in charts"
+        },
         {
           "id": "https://flowingdata.com/?p=66323",
           "author": "Nathan Yau",
@@ -29681,33 +29857,6 @@
           "publishedOn": "2021-09-29T19:15:06.000Z",
           "wordCount": 325,
           "title": "Mapping climate change in the Arctic"
-        },
-        {
-          "id": "https://flowingdata.com/?p=65667",
-          "author": "Nathan Yau",
-          "description": "Before you get into analysis and visualizing data with R, you need to…\nTags: R, Steve Haroz",
-          "link": "https://flowingdata.com/2021/09/29/a-succinct-intro-to-r/",
-          "publishedOn": "2021-09-29T10:39:55.000Z",
-          "wordCount": 346,
-          "title": "A Succinct Intro to R"
-        },
-        {
-          "id": "https://flowingdata.com/?p=65661",
-          "author": "Nathan Yau",
-          "description": "[via]…\nTags: humor",
-          "link": "https://flowingdata.com/2021/09/28/this-is-a-good-venn-diagram/",
-          "publishedOn": "2021-09-28T15:59:31.000Z",
-          "wordCount": 226,
-          "title": "This is a good Venn diagram."
-        },
-        {
-          "id": "https://flowingdata.com/?p=65656",
-          "author": "Nathan Yau",
-          "description": "Researchers evaluated 158 Covid-19 dashboards, assessing design, implementation, and usefulness. Marie Patino for…\nTags: Bloomberg, coronavirus, dashboard",
-          "link": "https://flowingdata.com/2021/09/27/assessment-of-the-covid-19-dashboards/",
-          "publishedOn": "2021-09-27T15:34:45.000Z",
-          "wordCount": 386,
-          "title": "Assessment of the Covid-19 dashboards"
         }
       ]
     },

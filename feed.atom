@@ -2,10 +2,415 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2021-12-26T00:46:37.888Z</updated>
+    <updated>2021-12-28T00:43:29.634Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Single Bit Computer from Vacuum Tubes]]></title>
+        <id>https://hackaday.com/?p=513305</id>
+        <link href="https://hackaday.com/2021/12/27/single-bit-computer-from-vacuum-tubes/"/>
+        <updated>2021-12-28T00:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Culminating a year-long project, [Usagi Electric] aka [David] has just wrapped up his single-bit vacuum tube computer. It is based on the Motorola MC14500 1-bit industrial controller, but since [David] changed …read more]]></summary>
+        <author>
+            <name>Chris Lott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Responsive Web Design by Building 20 Projects – a Major freeCodeCamp Curriculum Update]]></title>
+        <id>61c9fcdc755c16082490bbcb</id>
+        <link href="https://www.freecodecamp.org/news/responsive-web-design-certification-redesigned/"/>
+        <updated>2021-12-27T22:16:19.000Z</updated>
+        <summary type="html"><![CDATA[We just published a significant overhaul of our Responsive Web Design Certification (the first of freeCodeCamp's 10 currently-live certifications). We also updated our code editor. Instead of coding lessons, you'll learn concepts and syntax through a series of 15 practice projects + 5 certification projects. Here is the full certification, which]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript String replaceAll]]></title>
+        <id>https://davidwalsh.name/?p=27506</id>
+        <link href="https://davidwalsh.name/javascript-s"/>
+        <updated>2021-12-27T22:10:20.000Z</updated>
+        <summary type="html"><![CDATA[Replacing a substring of text within a larger string has always been misleading in JavaScript. I wrote Replace All Occurrences of a String in JavaScript years ago and it’s still one of my most read articles. The confusion lies in that replace only replaces the first occurrence of a substring, not all occurrences. For example: […]
+The post JavaScript String replaceAll appeared first on David Walsh Blog.]]></summary>
+        <author>
+            <name>David Walsh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taste the Television: TTTV]]></title>
+        <id>https://hackaday.com/?p=513317</id>
+        <link href="https://hackaday.com/2021/12/27/taste-the-television-tttv/"/>
+        <updated>2021-12-27T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Associate Professor [Homei Miyashita] from Meiji University’s School of Science and Technology in Tokyo has developed a new technology for reproducing taste on a television or monitor, a system called Taste the …read more]]></summary>
+        <author>
+            <name>Chris Lott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whipping Together A Little Ray Tracer Racer]]></title>
+        <id>https://hackaday.com/?p=513266</id>
+        <link href="https://hackaday.com/2021/12/27/whipping-together-a-little-ray-tracer-racer/"/>
+        <updated>2021-12-27T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[When you hear raytracing, you might think of complex dark algorithms that to stare too long at their source code invites the beginning of madness. And you’re technically not far …read more]]></summary>
+        <author>
+            <name>Matthew Carlson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Can't Fight COVID-19 on a Country-by-Country Basis]]></title>
+        <id>3AE813D7-95C3-4FA4-A267224F35F3E97F</id>
+        <link href="https://www.scientificamerican.com/article/we-cant-fight-covid-19-on-a-country-by-country-basis/"/>
+        <updated>2021-12-27T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A physician in hard-hit South Africa points out that squelching the disease in one place means nothing if it’s raging elsewhere
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Zolelwa Sifumba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – 0/1 Knapsack Problem via Top Down Dynamic Programming Algorithm]]></title>
+        <id>https://helloacm.com/?p=148299</id>
+        <link href="https://helloacm.com/teaching-kids-programming-0-1-knapsack-problem-via-top-down-dynamic-programming-algorithm/"/>
+        <updated>2021-12-27T18:47:32.000Z</updated>
+        <summary type="html"><![CDATA[You are given two lists of integers weights and values which have the same length and an integer capacity. weights and values represent the weight and value of the ith item. Given that you can take...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s Printable, It’s Programmable, It’s E. coli]]></title>
+        <id>https://hackaday.com/?p=510607</id>
+        <link href="https://hackaday.com/2021/12/27/its-printable-its-programmable-its-e-coli/"/>
+        <updated>2021-12-27T18:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Well, whaddya know? It seems that E. coli, the bane of Romaine and spinach everywhere, has at least one practical use. Researchers at Harvard have created a kind of 3D-printable …read more]]></summary>
+        <author>
+            <name>Kristina Panos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Julia For Beginners – The Future Programming Language of  Data Science and Machine Learning Explained]]></title>
+        <id>61c71ca4755c16082490adbc</id>
+        <link href="https://www.freecodecamp.org/news/learn-julia-programming-language/"/>
+        <updated>2021-12-27T17:13:56.000Z</updated>
+        <summary type="html"><![CDATA[Julia is a high-level, dynamic programming language, designed to give users the speed of C/C++ while remaining as easy to use as Python. This means that developers can solve problems faster and more effectively. Julia is great for computational complex problems. Many early adopters of Julia were concentrated in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rC3 2021: Now Here, Nowhere]]></title>
+        <id>https://hackaday.com/?p=513430&amp;preview=true&amp;preview_id=513430</id>
+        <link href="https://hackaday.com/2021/12/27/rc3-2021-now-here-nowhere/"/>
+        <updated>2021-12-27T16:30:10.000Z</updated>
+        <summary type="html"><![CDATA[The annual meeting of the Chaos Computer Club, Germany’s giant hacker group, is online again this year. While those of us here are sad that we don’t get to see …read more]]></summary>
+        <author>
+            <name>Elliot Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Growing Force of Fiery Zombies Threatens Cold Northern Forests]]></title>
+        <id>0800103B-00CE-431C-978DD1B73555E2E5</id>
+        <link href="https://www.scientificamerican.com/podcast/episode/a-growing-force-of-fiery-zombies-threatens-cold-northern-forests/"/>
+        <updated>2021-12-27T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Wildfires, appearing dead in winter, are actually smoldering, then bouncing back to life in spring to consume increasingly more land in the Far North.
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Emily Schwing</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Label Says HDMI 2.1 But That Doesn’t Mean You’ll Get It]]></title>
+        <id>https://hackaday.com/?p=512767</id>
+        <link href="https://hackaday.com/2021/12/27/the-label-says-hdmi-2-1-but-that-doesnt-mean-youll-get-it/"/>
+        <updated>2021-12-27T15:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Technology moves quickly these days as consumers continue to demand more data and more pixels. We see regular updates to standards for USB and RAM continually coming down the pipeline …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Biotech Crops Can Crash--and Still Never Fail]]></title>
+        <id>D1A1844A-509F-485D-BA2EEC80DAD54C3E</id>
+        <link href="https://www.scientificamerican.com/article/how-biotech-crops-can-crash-and-still-never-fail/"/>
+        <updated>2021-12-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.N. Food Systems Summit put biotechnology at center stage, although agroecological innovations offer greater promise for sustainability
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Aniket Aga, Maywa Montenegro de Wit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Honor prefers-color-scheme in the CSS Paint API with Custom Properties]]></title>
+        <id>https://css-tricks.com/?p=359044</id>
+        <link href="https://css-tricks.com/honor-prefers-color-scheme-in-the-css-paint-api-with-custom-properties/"/>
+        <updated>2021-12-27T14:39:00.000Z</updated>
+        <summary type="html"><![CDATA[One of the coolest things I’ve been messing with in the last couple years is the CSS Paint API. I love it. I did a talk on it, and made a little gallery of my own paint worklets…]]></summary>
+        <author>
+            <name>Jeremy Wagner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Must Enhance--but Also Decolonize--America's Global Health Diplomacy]]></title>
+        <id>39543265-3AD2-4A1F-ACF9B256342CE1BF</id>
+        <link href="https://www.scientificamerican.com/article/we-must-enhance-mdash-but-also-decolonize-mdash-americas-global-health-diplomacy/"/>
+        <updated>2021-12-27T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. can rebuild its role in the global health landscape on the basis of equitable policies rather than exploitative ones
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Ans Irfan, Christopher Jackson, Ankita Arora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pandemic Has Created a 'Zoom Boom' in Remote Psychotherapy]]></title>
+        <id>7A785799-8472-4A4A-9253549747C8B70A</id>
+        <link href="https://www.scientificamerican.com/article/the-pandemic-has-created-a-zoom-boom-in-remote-psychotherapy/"/>
+        <updated>2021-12-27T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Research suggests virtual sessions can be as effective as in-person meetings
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Claudia Wallis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Do Couples Use Baby Talk with One Another?]]></title>
+        <id>1455E0D0-0716-4785-B377BE9B5F5B591D</id>
+        <link href="https://www.scientificamerican.com/article/why-do-couples-use-baby-talk-with-one-another/"/>
+        <updated>2021-12-27T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This style of speech helps infants learn, but romantic adults use it as a way to show affection
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Ramesh Kaipa, The Conversation US</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Hacks: The Brand New Nokia 5G Gateway Router]]></title>
+        <id>https://hackaday.com/?p=513090</id>
+        <link href="https://hackaday.com/2021/12/27/first-hacks-the-brand-new-nokia-5g-gateway-router/"/>
+        <updated>2021-12-27T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Aside from being the focus of a series of bizarre conspiracy theories, 5G cellular networks offer the promise of ultra-fast Internet access anywhere within their range. To that end there …read more]]></summary>
+        <author>
+            <name>Jenny List</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Fun Science Stories of 2021: Rhythmic Lemurs, a Marscopter and Sex-Obsessed Insect Zombies]]></title>
+        <id>33BDE75F-6FF1-49C4-97FCF618D3FFB0D1</id>
+        <link href="https://www.scientificamerican.com/article/the-best-fun-science-stories-of-2021-rhythmic-lemurs-a-marscopter-and-sex-obsessed-insect-zombies/"/>
+        <updated>2021-12-27T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Check out the weird and wonderful stories that delighted us this year
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Andrea Thompson, Sarah Lewin Frasier, Sophie Bushwick, Jeffery DelViscio, Lee Billings</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World Chess Championship in charts]]></title>
+        <id>https://flowingdata.com/?p=66392</id>
+        <link href="https://flowingdata.com/2021/12/27/world-chess-championship-in-charts/"/>
+        <updated>2021-12-27T11:19:19.000Z</updated>
+        <summary type="html"><![CDATA[Magnus Carlsen continued to assert his dominance at the World Chess Championship. FiveThirtyEight…
+Tags: chess, FiveThirtyEight, Magnus Carlsen]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best of 2021 – Transform Legacy Java Apps to Microservices]]></title>
+        <id>https://devops.com/?p=141524</id>
+        <link href="https://devops.com/transform-legacy-java-apps-to-microservices/"/>
+        <updated>2021-12-27T08:00:22.000Z</updated>
+        <summary type="html"><![CDATA[As we close out 2021, we at DevOps.com wanted to highlight the most popular articles of the year. Following is the sixteenth in our series of the Best of 2021. Velocity is one of the major tenets of DevOps, and anything that maintains or improves velocity benefits the overall process. Yet, there are still many […]
+The post Best of 2021 – Transform Legacy Java Apps to Microservices appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Frank Ohlhorst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Top 5 Technologies to Watch out For in 2022]]></title>
+        <id>https://hackernoon.com/the-top-5-technologies-to-watch-out-for-in-2022?source=rss</id>
+        <link href="https://hackernoon.com/the-top-5-technologies-to-watch-out-for-in-2022?source=rss"/>
+        <updated>2021-12-26T22:19:18.000Z</updated>
+        <summary type="html"><![CDATA[The future lies in its convergence, as Artificial Intelligence of Things (AIoT) will impact every industry vertical in 2022 and in the approaching years.]]></summary>
+        <author>
+            <name>Aliha Tanveer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research: The Misconfiguration of Real Time Databases in Mobile App Development]]></title>
+        <id>https://hackernoon.com/research-the-misconfiguration-of-real-time-databases-in-mobile-app-development?source=rss</id>
+        <link href="https://hackernoon.com/research-the-misconfiguration-of-real-time-databases-in-mobile-app-development?source=rss"/>
+        <updated>2021-12-26T22:08:43.000Z</updated>
+        <summary type="html"><![CDATA[Mobile App Development is a hugely useful tool but it does come with significant security risks, as the Checkpoint found out when researching threats.]]></summary>
+        <author>
+            <name>Check Point Software</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Cosmos Proof-Of-Stake Helps Create a More Sustainable Blockchain Environment]]></title>
+        <id>https://hackernoon.com/how-cosmos-proof-of-stake-helps-create-a-more-sustainable-blockchain-environment?source=rss</id>
+        <link href="https://hackernoon.com/how-cosmos-proof-of-stake-helps-create-a-more-sustainable-blockchain-environment?source=rss"/>
+        <updated>2021-12-26T20:06:32.000Z</updated>
+        <summary type="html"><![CDATA[At the heart of the mission was the need to address the throughput, scalability, and importantly, environmental issues associated with Proof of Work blockchain.]]></summary>
+        <author>
+            <name>Cosmos - Internet of Blockchains</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi - Definancializing Productive Activity]]></title>
+        <id>https://hackernoon.com/defi-definancializing-productive-activity?source=rss</id>
+        <link href="https://hackernoon.com/defi-definancializing-productive-activity?source=rss"/>
+        <updated>2021-12-26T15:57:11.000Z</updated>
+        <summary type="html"><![CDATA[As software and hardware engineers around the world are untangling the centralization of the internet, a vocal portion within the enclave of blockchain-based solutions - generally referred to as decentralized finance - or DeFi for short - has emerged. While blockchains provide the building blocks for reliable information and - to a lesser extend value - transport functions  - a layer of middleware to the larger concept of cryptographic primitives mapped by protocols, current developments are largely focused on digitally native assets, and their derivatives. However, a first-principles view on the innovation of financial services will focus on the central tenet of technology: the increase of productivity of human activity, freeing up individuals’ attention — measured in time — that these can assign to leisure activities or higher-order pursuits, such as the accumulation of knowledge. To that end, network technologies, in particular, the internet and consequent emergence of the World Wide Web, amplified human productivity by fueling a surge of synchronous and asynchronous coordination methods of human fecundity, as well as the wider distribution of economic activity in general.]]></summary>
+        <author>
+            <name>Christian Kameir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shielded Tokens To Make Your Polygon Transactions Completely Anonymous Instead of Pseudonymous]]></title>
+        <id>https://hackernoon.com/shielded-tokens-to-make-your-polygon-transactions-completely-anonymous-instead-of-pseudonymous?source=rss</id>
+        <link href="https://hackernoon.com/shielded-tokens-to-make-your-polygon-transactions-completely-anonymous-instead-of-pseudonymous?source=rss"/>
+        <updated>2021-12-26T15:54:37.000Z</updated>
+        <summary type="html"><![CDATA[We are the fans by Polygon network, that outpacing Ethereum in terms of growth. Yes, layer-two scaling solution is growing faster than the platform. Polygon PoS chain is a hybrid between a sidechain and a Layer 2. It recently passed the milestone of having more daily active addresses than Ethereum! I personally see Polygon as the future of scaling because Ethereum’s proof of stake will not solve scaling issues, and that Ethereum 2.0 will not make the platform infinitely scalable. Instead it will continue to have a limited capacity and will require layer two solutions like Polygon.]]></summary>
+        <author>
+            <name>ZMATIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poland vs. Ukraine vs. Russia: Popular Eastern European Outsourcing Destinations Compared]]></title>
+        <id>https://hackernoon.com/poland-vs-ukraine-vs-russia-popular-eastern-european-outsourcing-destinations-compared?source=rss</id>
+        <link href="https://hackernoon.com/poland-vs-ukraine-vs-russia-popular-eastern-european-outsourcing-destinations-compared?source=rss"/>
+        <updated>2021-12-26T15:40:45.000Z</updated>
+        <summary type="html"><![CDATA[Outsourcing destinations like Eastern Europe have plenty of talented developers. Countries like Poland, Ukraine and Russia are notable for having many devs.]]></summary>
+        <author>
+            <name>Rocketech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Ways A Node Developer Can Drastically Boost Their Productivity]]></title>
+        <id>https://hackernoon.com/6-ways-a-node-developer-can-drastically-boost-their-productivity?source=rss</id>
+        <link href="https://hackernoon.com/6-ways-a-node-developer-can-drastically-boost-their-productivity?source=rss"/>
+        <updated>2021-12-26T15:36:45.000Z</updated>
+        <summary type="html"><![CDATA[These six productivity tips will supercharge your productivity as a Node developer. You'll save hours of time which you can then invest in other activities.]]></summary>
+        <author>
+            <name>Robbie Cahill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Stats To Consider Before Building Your Web-based Product]]></title>
+        <id>https://hackernoon.com/5-stats-to-consider-before-building-your-web-based-product?source=rss</id>
+        <link href="https://hackernoon.com/5-stats-to-consider-before-building-your-web-based-product?source=rss"/>
+        <updated>2021-12-26T15:28:05.000Z</updated>
+        <summary type="html"><![CDATA[Helpful statistics to consider when you decide to write your own product]]></summary>
+        <author>
+            <name>Doga Budak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Debunked - 4 Common Myths About NFTs]]></title>
+        <id>https://hackernoon.com/debunked-4-common-myths-about-nfts?source=rss</id>
+        <link href="https://hackernoon.com/debunked-4-common-myths-about-nfts?source=rss"/>
+        <updated>2021-12-26T15:22:50.000Z</updated>
+        <summary type="html"><![CDATA[NFTs are the digitized form of any artwork, and the people interested in these artworks can buy them from NFT marketplaces.]]></summary>
+        <author>
+            <name>Robert Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Best Web Dev Tools of 2021]]></title>
+        <id>https://hackernoon.com/10-best-web-dev-tools-of-2021?source=rss</id>
+        <link href="https://hackernoon.com/10-best-web-dev-tools-of-2021?source=rss"/>
+        <updated>2021-12-26T15:17:10.000Z</updated>
+        <summary type="html"><![CDATA[Top 10 Web Dev Tools in 2021]]></summary>
+        <author>
+            <name>MV</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twenty Years of My Gaming History Ruined Bit By Bit By Blizzard]]></title>
+        <id>https://hackernoon.com/twenty-years-of-my-gaming-history-ruined-bit-by-bit-by-blizzard?source=rss</id>
+        <link href="https://hackernoon.com/twenty-years-of-my-gaming-history-ruined-bit-by-bit-by-blizzard?source=rss"/>
+        <updated>2021-12-26T15:04:33.000Z</updated>
+        <summary type="html"><![CDATA[“We don't stop playing because we grow old. We grow old because we stop playing.”]]></summary>
+        <author>
+            <name>Nebojsa "Nesha" Todorovic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How COVID Is Changing the Study of Human Behavior]]></title>
+        <id>3B5A98C0-5638-4A93-A827BBA8FA0F57A6</id>
+        <link href="https://www.scientificamerican.com/article/how-covid-is-changing-the-study-of-human-behavior/"/>
+        <updated>2021-12-26T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The pandemic is teaching us key lessons about how people respond to crisis and misinformation, and it is spurring changes in the way scientists study public health questions
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Christie Aschwanden, Nature magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[e-Invoicing Automation: Key Concepts For Doing It Right]]></title>
+        <id>https://hackernoon.com/e-invoicing-automation-key-concepts-for-doing-it-right?source=rss</id>
+        <link href="https://hackernoon.com/e-invoicing-automation-key-concepts-for-doing-it-right?source=rss"/>
+        <updated>2021-12-26T14:53:19.000Z</updated>
+        <summary type="html"><![CDATA[Are you new to e-invoicing? Click here to discover how you can implement e-invoicing for your business.]]></summary>
+        <author>
+            <name>Unimaze Sotfware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rachel Carson's Explorations of the Sea, the Human Relationship with Elephants, and More]]></title>
+        <id>616FCAAA-95F5-4C7B-8AB02738E9CA9D80</id>
+        <link href="https://www.scientificamerican.com/article/rachel-carsons-explorations-of-the-sea-the-human-relationship-with-elephants-and-more/"/>
+        <updated>2021-12-26T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Recommendations from the editors of Scientific American
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Amy Brady</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best of 2021 – Nine Pillars of DevOps Best Practices]]></title>
+        <id>https://devops.com/?p=142706</id>
+        <link href="https://devops.com/nine-pillars-of-devops-best-practices/"/>
+        <updated>2021-12-26T08:00:49.000Z</updated>
+        <summary type="html"><![CDATA[As we close out 2021, we at DevOps.com wanted to highlight the most popular articles of the year. Following is the fourteenth in our series of the Best of 2021. In a prior blog I explained my 27-factor DevOps assessment model which includes nine pillars of DevOps and three dimensions of people, process and technology. […]
+The post Best of 2021 – Nine Pillars of DevOps Best Practices appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Marc Hornbeek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best of 2021 – How to Combine DevOps and Agile]]></title>
+        <id>https://devops.com/?p=133794</id>
+        <link href="https://devops.com/how-to-combine-devops-and-agile/"/>
+        <updated>2021-12-26T07:30:38.000Z</updated>
+        <summary type="html"><![CDATA[As we close out 2021, we at DevOps.com wanted to highlight the most popular articles of the year. Following is the thirteenth in our series of the Best of 2021. In recent years, application development and deployment have become an increasingly critical part of business operations. Because of this, various entities have sought to optimize […]
+The post Best of 2021 – How to Combine DevOps and Agile appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Slava Vaniukov</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mico is a USB Microphone Based on a Pi Pico]]></title>
         <id>https://hackaday.com/?p=513082</id>
@@ -34,6 +439,76 @@
         <summary type="html"><![CDATA[Using a process akin to electroplating, researchers at the University of Oldenburg have 3D printed structures at the 25 nanometer scale. A human hair, of course, is thousands of time …read more]]></summary>
         <author>
             <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taking Away Metaverse from Mark Zuckerberg: Billionaire Brothers Strike Back]]></title>
+        <id>https://hackernoon.com/taking-away-metaverse-from-mark-zuckerberg-billionaire-brothers-strike-back?source=rss</id>
+        <link href="https://hackernoon.com/taking-away-metaverse-from-mark-zuckerberg-billionaire-brothers-strike-back?source=rss"/>
+        <updated>2021-12-25T20:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Mark Zuckerberg and brothers Winklevoss are fighting for their vision of Web3.0 - or is it just the next stage of old rivalry?]]></summary>
+        <author>
+            <name>ExtraChain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFTs And the COSMOS Ecosystem: An Overview]]></title>
+        <id>https://hackernoon.com/nfts-and-the-cosmos-ecosystem-an-overview?source=rss</id>
+        <link href="https://hackernoon.com/nfts-and-the-cosmos-ecosystem-an-overview?source=rss"/>
+        <updated>2021-12-25T20:24:52.000Z</updated>
+        <summary type="html"><![CDATA[See why and how the NFT market is valued at $7 billion. However, experts believe that the market is heading to a trillion-dollar valuation.]]></summary>
+        <author>
+            <name>Odesanmi Temitope</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate IDO Marketing Toolbox for P2E Projects]]></title>
+        <id>https://hackernoon.com/the-ultimate-ido-marketing-toolbox-for-p2e-projects?source=rss</id>
+        <link href="https://hackernoon.com/the-ultimate-ido-marketing-toolbox-for-p2e-projects?source=rss"/>
+        <updated>2021-12-25T20:21:55.000Z</updated>
+        <summary type="html"><![CDATA[Play-to-Earn and GameFi IDO campaigns are happening every day. What marketing should these projects do to set themselves apart? Here's the ultimate guide.]]></summary>
+        <author>
+            <name>ilya romanov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Crypto Resolutions for 2022: Decentralizing My Life]]></title>
+        <id>https://hackernoon.com/5-crypto-resolutions-for-2022-decentralizing-my-life?source=rss</id>
+        <link href="https://hackernoon.com/5-crypto-resolutions-for-2022-decentralizing-my-life?source=rss"/>
+        <updated>2021-12-25T20:19:07.000Z</updated>
+        <summary type="html"><![CDATA[Make an NFT. Explore the metaverse. Join decentralized and women-run crypto orgs and platforms. These are some of my resolutions for 2022.]]></summary>
+        <author>
+            <name>StevieSats</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should You Block All Monero-Related Domains? Crypto Scams Set To Rise in 2022]]></title>
+        <id>https://hackernoon.com/should-you-block-all-monero-related-domains-crypto-scams-set-to-rise-in-2022?source=rss</id>
+        <link href="https://hackernoon.com/should-you-block-all-monero-related-domains-crypto-scams-set-to-rise-in-2022?source=rss"/>
+        <updated>2021-12-25T20:08:25.000Z</updated>
+        <summary type="html"><![CDATA[Crypto-related cyber attacks will increase in 2022, and outpacing what we've seen in 2021. In particular, Monero cryptocurrency is used often by cybercriminals.]]></summary>
+        <author>
+            <name>Ken Carnesi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web 3.0 For Businesses: A Beginner's Guide]]></title>
+        <id>https://hackernoon.com/web-30-for-businesses-a-beginners-guide?source=rss</id>
+        <link href="https://hackernoon.com/web-30-for-businesses-a-beginners-guide?source=rss"/>
+        <updated>2021-12-25T20:06:04.000Z</updated>
+        <summary type="html"><![CDATA[Web 3.0 may be the next frontier of the Internet, but many know little about it. Read to learn everything about Web 3.0 and its implications for businesses.]]></summary>
+        <author>
+            <name>Emmanuel Awosika</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cryptocurrencies: What Even Are They?]]></title>
+        <id>https://hackernoon.com/cryptocurrencies-what-even-are-they?source=rss</id>
+        <link href="https://hackernoon.com/cryptocurrencies-what-even-are-they?source=rss"/>
+        <updated>2021-12-25T19:58:49.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes we forget that more than 95% of the world's population doesn't own crypto. It's time to do some more education and dive into what crypto is in 2021]]></summary>
+        <author>
+            <name>Lucien Lecarme</name>
         </author>
     </entry>
     <entry>
@@ -1425,6 +1900,16 @@ The short answer: it varies completely. Even within the same organization, diffe
 -- Read more on ScientificAmerican.com]]></summary>
         <author>
             <name>Mariana Lenharo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started with Customer Testimonials: A Beginner's Guide]]></title>
+        <id>https://hackernoon.com/getting-started-with-customer-testimonials-a-beginners-guide?source=rss</id>
+        <link href="https://hackernoon.com/getting-started-with-customer-testimonials-a-beginners-guide?source=rss"/>
+        <updated>2021-12-22T13:59:08.000Z</updated>
+        <summary type="html"><![CDATA[Including testimonials in your content makes your company more authoritative because your readers will perceive your product as valuable.]]></summary>
+        <author>
+            <name>Vincent Otieno</name>
         </author>
     </entry>
     <entry>
@@ -34345,341 +34830,6 @@ The post CloudBees Acquires Neuralprints to Shift Compliance Left appeared first
 The post Red Hat Extends Scope of Ansible Automation Ambitions appeared first on DevOps.com.]]></summary>
         <author>
             <name>Mike Vizard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suicide Rates Rise in a Generation of Black Youth]]></title>
-        <id>F86269F3-3DE3-400B-91FED080126F1EBE</id>
-        <link href="https://www.scientificamerican.com/article/suicide-rates-rise-in-a-generation-of-black-youth/"/>
-        <updated>2021-09-29T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Multiple causes underlie a disturbing trend. The increase for girls is more than double that for boys
-
-
--- Read more on ScientificAmerican.com]]></summary>
-        <author>
-            <name>Melinda Wenner Moyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fringe Doctors' Groups Promote Ivermectin for COVID despite a Lack of Evidence]]></title>
-        <id>26B9612A-84D4-4041-A244361BC142DF9C</id>
-        <link href="https://www.scientificamerican.com/article/fringe-doctors-groups-promote-ivermectin-for-covid-despite-a-lack-of-evidence/"/>
-        <updated>2021-09-29T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[The organizations touting unproved protocols for the antiparasitic drug may be harming vaccination efforts
-
-
--- Read more on ScientificAmerican.com]]></summary>
-        <author>
-            <name>Christina Szalinski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Succinct Intro to R]]></title>
-        <id>https://flowingdata.com/?p=65667</id>
-        <link href="https://flowingdata.com/2021/09/29/a-succinct-intro-to-r/"/>
-        <updated>2021-09-29T10:39:55.000Z</updated>
-        <summary type="html"><![CDATA[Before you get into analysis and visualizing data with R, you need to…
-Tags: R, Steve Haroz]]></summary>
-        <author>
-            <name>Nathan Yau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The New(ish) Complexity]]></title>
-        <id>https://devops.com/?p=145677</id>
-        <link href="https://devops.com/the-newish-complexity/"/>
-        <updated>2021-09-29T06:30:04.000Z</updated>
-        <summary type="html"><![CDATA[The API economy and microservices architectures, led by Agile and DevOps, have introduced a massive amount of hidden complexity. I call it hidden complexity because we have a tendency in IT to focus on the problems in front of us, resolve them, then focus on the new problem in front of us. This leaves technical […]
-The post The New(ish) Complexity appeared first on DevOps.com.]]></summary>
-        <author>
-            <name>Don Macvittie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Flexbox Tutorial – How to Build a Fixed Side and Bottom Navbar]]></title>
-        <id>614e7e50ccc97307eb2bc3e5</id>
-        <link href="https://www.freecodecamp.org/news/fixed-side-and-bottom-navbar-with-css-flexbox/"/>
-        <updated>2021-09-28T21:41:48.000Z</updated>
-        <summary type="html"><![CDATA[Flexbox can help you simplify the process of creating both basic and advanced layouts. And it's pretty straightforward to create side and bottom navigation menus with CSS flexbox or Grid. These layouts are so popular that they appear almost everywhere on the web. For example, check out Twitter's sidebar, which]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[So many little design helper sites!]]></title>
-        <id>https://css-tricks.com/?p=352669</id>
-        <link href="https://css-tricks.com/so-many-little-design-helper-sites/"/>
-        <updated>2021-09-28T21:00:04.000Z</updated>
-        <summary type="html"><![CDATA[I had one of those little single-serving designer helper sites bookmarked the other day: getwaves.io. Randomized SVG waves! Lots of cool options! Easy to customize! Easy to copy and paste! Well played, z creative labs. 
-
-But then I …
-The post So many little design helper sites! appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teaching Kids Programming – Compute the Max Fence Area via Bruteforce Algorithm or Parabola Quadratic Equation]]></title>
-        <id>https://helloacm.com/?p=146917</id>
-        <link href="https://helloacm.com/teaching-kids-programming-compute-the-max-fence-area-via-bruteforce-algorithm-or-parabola-quadratic-equation/"/>
-        <updated>2021-09-28T20:57:23.000Z</updated>
-        <summary type="html"><![CDATA[Eric wants to build a Rectangle Fence against an old wall using length of bricks (all 32), see below: -------------------------- // old wall | | | | L____J // new wall Eric wants...
-
-
-[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
-        <author>
-            <name>ACMer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Must Fight Restrictions on Voting Rights]]></title>
-        <id>26DB804D-69C6-4B9D-AAE6C22D828369BE</id>
-        <link href="https://www.scientificamerican.com/article/we-must-fight-restrictions-on-voting-rights/"/>
-        <updated>2021-09-28T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[National Voter Registration Day reminds us of the urgent need to protect electoral integrity
-
-
--- Read more on ScientificAmerican.com]]></summary>
-        <author>
-            <name>Michael Latner, Jean Schroedel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE UPSKILLING IT 2022 SURVEY IS NOW OPEN]]></title>
-        <id>https://devops.com/?p=145711</id>
-        <link href="https://devops.com/the-upskilling-it-2022-survey-is-now-open/"/>
-        <updated>2021-09-28T19:45:00.000Z</updated>
-        <summary type="html"><![CDATA[IT SKILLS IN FOCUS By Eveline Oehrlich, DevOps Institute According to McKinsey, nine out of 10 global executives and leaders are saying that their organizations are facing a skill gap or expect to develop additional skill gaps in the next three to five years. During the past few years, IT organizations, in particular, have already […]
-The post THE UPSKILLING IT 2022 SURVEY IS NOW OPEN appeared first on DevOps.com.]]></summary>
-        <author>
-            <name>Eveline Oehrlich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mars on the Cheap: Scientists Are Working to Revolutionize Access to the Red Planet]]></title>
-        <id>BE06728C-49EF-46D7-B8A56E19FC405990</id>
-        <link href="https://www.scientificamerican.com/article/mars-on-the-cheap-scientists-are-working-to-revolutionize-access-to-the-red-planet/"/>
-        <updated>2021-09-28T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The concepts include souped-up Mars helicopters and inexpensive orbiters and landers
-
-
--- Read more on ScientificAmerican.com]]></summary>
-        <author>
-            <name>Leonard David, SPACE.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML / CSS Tutorial - Build a Recipe Website]]></title>
-        <id>6153616d64aefe07d3fa049a</id>
-        <link href="https://www.freecodecamp.org/news/html-css-tutorial-build-a-recipe-website/"/>
-        <updated>2021-09-28T18:56:03.000Z</updated>
-        <summary type="html"><![CDATA[Building projects is a great way to build your skills, especially when it comes to web development. We just published an HTML & CSS course on the freeCodeCamp.org YouTube channel that will teach you how to build a recipe website. John Smilga developed this course. He is one of]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Historical' Western Drought Is Likely to Persist]]></title>
-        <id>2A32D320-BDCD-4006-83FD861B92AA4850</id>
-        <link href="https://www.scientificamerican.com/article/historical-western-drought-is-likely-to-persist/"/>
-        <updated>2021-09-28T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The severe dry conditions have left critical reservoirs depleted and helped fuel intense wildfires
-
-
--- Read more on ScientificAmerican.com]]></summary>
-        <author>
-            <name>Thomas Frank, E&amp;E News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To Teach Students about Climate Change, 'Just the Facts' Isn't Enough]]></title>
-        <id>D89C03E7-3C30-454B-843E44D5A4D6DC32</id>
-        <link href="https://www.scientificamerican.com/article/to-teach-students-about-climate-change-lsquo-just-the-facts-rsquo-isn-rsquo-t-enough/"/>
-        <updated>2021-09-28T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We also need to talk about emotions and discuss pathways to action
-
-
--- Read more on ScientificAmerican.com]]></summary>
-        <author>
-            <name>Matthew Schneider-Mayerson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Massively Reducing Food Waste Could Feed the World]]></title>
-        <id>A9B20752-2287-45EA-ABF7506FC39D88B4</id>
-        <link href="https://www.scientificamerican.com/article/massively-reducing-food-waste-could-feed-the-world/"/>
-        <updated>2021-09-28T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[It would also greatly cut greenhouse gas emissions
-
-
--- Read more on ScientificAmerican.com]]></summary>
-        <author>
-            <name>Chad Frischmann, Mamta Mehra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside the Nail-Biting Quest to Find the 'Loneliest Whale']]></title>
-        <id>2658B290-6E7D-442C-92D424E0C2AFD104</id>
-        <link href="https://www.scientificamerican.com/podcast/episode/inside-the-nail-biting-quest-to-find-the-loneliest-whale/"/>
-        <updated>2021-09-28T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It is a tale of sound: the song of a solitary whale that vocalizes at a unique frequency of 52 hertz, which no other whale—as the story goes—can seemingly understand.
-
-
-It is also a tale...
-
-
--- Read more on ScientificAmerican.com]]></summary>
-        <author>
-            <name>Pakinam Amer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is a good Venn diagram.]]></title>
-        <id>https://flowingdata.com/?p=65661</id>
-        <link href="https://flowingdata.com/2021/09/28/this-is-a-good-venn-diagram/"/>
-        <updated>2021-09-28T15:59:31.000Z</updated>
-        <summary type="html"><![CDATA[[via]…
-Tags: humor]]></summary>
-        <author>
-            <name>Nathan Yau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Closest Known Relatives of Virus Behind COVID-19 Found in Laos]]></title>
-        <id>513FAD30-1F2C-4886-9DAAA2C5C74CC878</id>
-        <link href="https://www.scientificamerican.com/article/closest-known-relatives-of-virus-behind-covid-19-found-in-laos/"/>
-        <updated>2021-09-28T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Studies of bats in China and Laos show southeast Asia is a hotspot for potentially dangerous viruses similar to SARS-CoV-2
-
-
--- Read more on ScientificAmerican.com]]></summary>
-        <author>
-            <name>Smriti Mallapaty, Nature magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Earth Could Be Alien to Humans by 2500]]></title>
-        <id>760BB005-B0CE-4440-8C35040BCA53354A</id>
-        <link href="https://www.scientificamerican.com/article/earth-could-be-alien-to-humans-by-2500/"/>
-        <updated>2021-09-28T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Unless greenhouse gas emissions drop significantly, warming by 2500 will make the Amazon barren, Iowa tropical and India too hot to live in
-
-
--- Read more on ScientificAmerican.com]]></summary>
-        <author>
-            <name>Christopher Lyon, Alex Dunhill, Andrew P. Beckerman, Ariane Burke, Bethany Allen, Chris Smith, Daniel J. Hill, Erin Saupe, James McKay, Julien Riel-Salvatore, Lindsay C. Stringer, Rob Marchant, Tracy Aze, The Conversation US</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS Browser Choice]]></title>
-        <id>https://css-tricks.com/?p=352681</id>
-        <link href="https://css-tricks.com/ios-browser-choice/"/>
-        <updated>2021-09-28T14:26:23.000Z</updated>
-        <summary type="html"><![CDATA[Just last week I got one of those really?! 🤨 faces when this fact came up in conversation amongst smart and engaged fellow web developers: there is no browser choice on iOS. It’s all Safari. You can download apps that …
-The post iOS Browser Choice appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Unleashed is Back! (Use Coupon Code “CSS-Tricks” for 50% Off)]]></title>
-        <id>https://css-tricks.com/?p=352073</id>
-        <link href="https://fitc.ca/event/webu21/"/>
-        <updated>2021-09-28T14:24:34.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-Now in its tenth year (!!!), Web Unleashed is one of the top events for web devs. It’s coming up quick: October 20-22, 2021. 
-The lineup is amazing. You’ll hear from leaders in …
-The post Web Unleashed is Back! (Use Coupon Code “CSS-Tricks” for 50% Off) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Topology, When Are Two Shapes the Same?]]></title>
-        <id>https://www.quantamagazine.org/?p=109000</id>
-        <link href="https://www.quantamagazine.org/in-topology-when-are-two-shapes-the-same-20210928/"/>
-        <updated>2021-09-28T14:15:04.000Z</updated>
-        <summary type="html"><![CDATA[As topologists seek to classify shapes, the effort hinges on how to define a manifold and what it means for two of them to be equivalent.            
-The post In Topology, When Are Two Shapes the Same? first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Kevin Hartnett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HackerNoon Contributor Davis David Builds Datasets for African Languages]]></title>
-        <id>https://hackernoon.com/hackernoon-contributor-davis-david-builds-datasets-for-african-languages?source=rss</id>
-        <link href="https://hackernoon.com/hackernoon-contributor-davis-david-builds-datasets-for-african-languages?source=rss"/>
-        <updated>2021-09-28T13:28:57.000Z</updated>
-        <summary type="html"><![CDATA[Davis' latest HackerNoon top story is the development of the Swahili news dataset for topic classification tasks in machine learning.]]></summary>
-        <author>
-            <name>Davis David</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ultimate Guide to Web 3.0 - The History and Future of the Web]]></title>
-        <id>https://hackernoon.com/the-ultimate-guide-to-web-30-the-history-and-future-of-the-web?source=rss</id>
-        <link href="https://hackernoon.com/the-ultimate-guide-to-web-30-the-history-and-future-of-the-web?source=rss"/>
-        <updated>2021-09-28T06:41:34.000Z</updated>
-        <summary type="html"><![CDATA[Web3 is the next stage of the internet, building on the past two iterations and addressing its current flaws and adding new features for users to make use of.]]></summary>
-        <author>
-            <name>Suhail Kakar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teaching Kids Programming – Number of Unique Email Addresses]]></title>
-        <id>https://helloacm.com/?p=146901</id>
-        <link href="https://helloacm.com/teaching-kids-programming-number-of-unique-email-addresses/"/>
-        <updated>2021-09-27T20:39:45.000Z</updated>
-        <summary type="html"><![CDATA[Every valid email consists of a local name and a domain name, separated by the ‘@’ sign. Besides lowercase letters, the email may contain one or more ‘.’ or ‘+’....
-
-
-[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
-        <author>
-            <name>ACMer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tonic (Component Framework)]]></title>
-        <id>https://css-tricks.com/?p=352621</id>
-        <link href="https://css-tricks.com/tonic-component-framework/"/>
-        <updated>2021-09-27T18:52:46.000Z</updated>
-        <summary type="html"><![CDATA[I enjoy little frameworks like Tonic. It’s essentially syntactic sugar over <web-components /> to make them feel easier to use. Define a Class, template literal an HTML template, probably some other fancy helpers, and you’ve got a component …
-The post Tonic (Component Framework) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Assessment of the Covid-19 dashboards]]></title>
-        <id>https://flowingdata.com/?p=65656</id>
-        <link href="https://flowingdata.com/2021/09/27/assessment-of-the-covid-19-dashboards/"/>
-        <updated>2021-09-27T15:34:45.000Z</updated>
-        <summary type="html"><![CDATA[Researchers evaluated 158 Covid-19 dashboards, assessing design, implementation, and usefulness. Marie Patino for…
-Tags: Bloomberg, coronavirus, dashboard]]></summary>
-        <author>
-            <name>Nathan Yau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collecting Email Signups With the Notion API]]></title>
-        <id>https://css-tricks.com/?p=352211</id>
-        <link href="https://css-tricks.com/collecting-email-signups-with-the-notion-api/"/>
-        <updated>2021-09-27T15:26:01.000Z</updated>
-        <summary type="html"><![CDATA[A lot of people these days are setting up their own newsletters. You’ve got the current big names like Substack and MailChimp, companies like Twitter are getting into it with Revue, and even Facebook is getting into the …
-The post Collecting Email Signups With the Notion API appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Ravgeet Dhillon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Impossible’ Particle Discovery Adds Key Piece to the Strong Force Puzzle]]></title>
-        <id>https://www.quantamagazine.org/?p=108997</id>
-        <link href="https://www.quantamagazine.org/impossible-particle-discovery-adds-key-piece-to-the-strong-force-puzzle-20210927/"/>
-        <updated>2021-09-27T14:36:02.000Z</updated>
-        <summary type="html"><![CDATA[The unexpected discovery of the double-charm tetraquark has given physicists a new tool with which to hone their understanding of the strongest of nature’s fundamental forces.            
-The post ‘Impossible’ Particle Discovery Adds Key Piece to the Strong Force Puzzle first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Charlie Wood</name>
         </author>
     </entry>
 </feed>
