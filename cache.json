@@ -22,6 +22,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=359055",
+          "author": "Chris Ferdinandi",
+          "description": "One of the best things you can do for your website in 2022 is add a service worker, if you don’t have one in place already. Service workers give your website super powers. Today, I want to show you some …",
+          "link": "https://css-tricks.com/add-a-service-worker-to-your-site/",
+          "publishedOn": "2021-12-28T16:14:23.000Z",
+          "wordCount": 2487,
+          "title": "Add a Service Worker to Your Site"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359860",
+          "author": "Chris Coyier",
+          "description": "I hadn’t heard of most of the Chrome extensions that Sarem Gizaw lists as 2021 favorites. Here are my hot takes on all of them, except the virtual learning specific ones that aren’t very relevant to me.\nLoomOh that’s \n…",
+          "link": "https://css-tricks.com/our-favorite-chrome-extensions-of-2021/",
+          "publishedOn": "2021-12-28T16:11:35.000Z",
+          "wordCount": 949,
+          "title": "Our favorite Chrome extensions of 2021"
+        },
+        {
           "id": "https://css-tricks.com/?p=359044",
           "author": "Jeremy Wagner",
           "description": "One of the coolest things I’ve been messing with in the last couple years is the CSS Paint API. I love it. I did a talk on it, and made a little gallery of my own paint worklets…",
@@ -1667,24 +1685,6 @@
           "publishedOn": "2021-09-30T14:00:00.000Z",
           "wordCount": 2416,
           "title": "Comparing HTML Preprocessor Features"
-        },
-        {
-          "id": "https://css-tricks.com/?p=352723",
-          "author": "Ollie Williams",
-          "description": "Chrome developer advocate Jake Archibald called 2016 “the year of web streams.” Clearly, his prediction was somewhat premature. The Streams Standard was announced back in 2014. It’s taken a while, but there’s now a consistent streaming API implemented …\nThe post Web Streams Everywhere (and Fetch for Node.js) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/web-streams-everywhere-and-fetch-for-node-js/",
-          "publishedOn": "2021-09-29T14:51:25.000Z",
-          "wordCount": 2250,
-          "title": "Web Streams Everywhere (and Fetch for Node.js)"
-        },
-        {
-          "id": "https://css-tricks.com/?p=352627",
-          "author": "Geoff Graham",
-          "description": "I was pretty stoked when Chris shared a way to “View Source” on mobile. Sure, it’s not the same as a built-in feature but it allows iOS users like myself a way to peek at a site’s code the …\nThe post Front-End Dev Shortcuts in iOS 15 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/front-end-dev-shortcuts-in-ios-15/",
-          "publishedOn": "2021-09-29T14:51:22.000Z",
-          "wordCount": 1217,
-          "title": "Front-End Dev Shortcuts in iOS 15"
         }
       ]
     },
@@ -4077,33 +4077,6 @@
           "publishedOn": "2021-09-30T15:29:20.000Z",
           "wordCount": 5941,
           "title": "Git for Professionals – Free Version Control Course"
-        },
-        {
-          "id": "612cbfe4b5177808226d4a4b",
-          "author": null,
-          "description": "In SQL, there are two built-in functions to sum or average the data in your table.  In this article I will show you how to use the SUM and AVG functions in SQL using code examples.  How to use the SUM function in SQLIf you need to add a group",
-          "link": "https://www.freecodecamp.org/news/sql-count-how-to-select-sum-and-average-rows-in-sql/",
-          "publishedOn": "2021-09-29T20:04:04.000Z",
-          "wordCount": 845,
-          "title": "SQL Count – How to Select, Sum, and Average Rows in SQL"
-        },
-        {
-          "id": "615440ac64aefe07d3fa0855",
-          "author": null,
-          "description": "You can use HTML, CSS and JavaScript to create stylish and dynamic web elements. And one useful element you can build is an accordion menu. Accordion menus expand and collapse when a user clicks a button. It's a great way to not have to show all the info about a",
-          "link": "https://www.freecodecamp.org/news/build-an-accordion-menu-using-html-css-and-javascript/",
-          "publishedOn": "2021-09-29T19:45:33.000Z",
-          "wordCount": 1718,
-          "title": "How to Build an Accordion Menu Using HTML, CSS and JavaScript"
-        },
-        {
-          "id": "6154412664aefe07d3fa085b",
-          "author": null,
-          "description": "In this article, you'll learn how to add single and multi-line comments to your HTML documents.  You'll also see why comments are considered a good practice when writing HTML code.  Let's get started!  The HTML Comment Tag The general syntax for an HTML comment looks like this:  <!-- I",
-          "link": "https://www.freecodecamp.org/news/html-comment-how-to-comment-out-a-line-or-tag-in-html/",
-          "publishedOn": "2021-09-29T17:03:35.000Z",
-          "wordCount": 1170,
-          "title": "HTML Comment – How to Comment Out a Line or Tag in HTML"
         }
       ]
     },
@@ -4112,6 +4085,150 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "https://hackernoon.com",
       "articles": [
+        {
+          "id": "https://hackernoon.com/how-ai-vr-and-dlt-can-clean-up-the-adult-entertainment-industry?source=rss",
+          "author": "Masha Prusso",
+          "description": "Although it is one of the largest industries in the world, there are many pitfalls to working in the adult content industry. Crypto and NFTs will change that.",
+          "link": "https://hackernoon.com/how-ai-vr-and-dlt-can-clean-up-the-adult-entertainment-industry?source=rss",
+          "publishedOn": "2021-12-28T10:58:43.000Z",
+          "wordCount": 1018,
+          "title": "How AI, VR, And DLT Can Clean Up The Adult Entertainment Industry"
+        },
+        {
+          "id": "https://hackernoon.com/add-video-conferencing-to-your-react-app-with-100ms?source=rss",
+          "author": "Dhaiwat Pandya",
+          "description": "What is the better Agora alternative for video conferencing? What other solutions bring on the table when compared to Agora. Read how I created an app.",
+          "link": "https://hackernoon.com/add-video-conferencing-to-your-react-app-with-100ms?source=rss",
+          "publishedOn": "2021-12-28T09:31:45.000Z",
+          "wordCount": 2309,
+          "title": "Add video conferencing to your React App with 100ms"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-the-xfinity-status-code-222-how-do-i-fix-it?source=rss",
+          "author": "Pegasus",
+          "description": "Let's fix things together.",
+          "link": "https://hackernoon.com/what-is-the-xfinity-status-code-222-how-do-i-fix-it?source=rss",
+          "publishedOn": "2021-12-28T06:31:00.000Z",
+          "wordCount": 1066,
+          "title": "What is the Xfinity Status Code 222? How do I fix it?"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-launch-a-successful-startup-and-keep-it-blooming-25-great-tips?source=rss",
+          "author": "Checkaso",
+          "description": "Learn to think critically about your ideas",
+          "link": "https://hackernoon.com/how-to-launch-a-successful-startup-and-keep-it-blooming-25-great-tips?source=rss",
+          "publishedOn": "2021-12-28T05:56:44.000Z",
+          "wordCount": 3052,
+          "title": "How to Launch a Successful Startup and Keep it Blooming: 25 Great Tips"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-think-like-a-winner-developing-a-growth-mindset?source=rss",
+          "author": null,
+          "description": "People often perceive changes and challenges as threats. When a threat is present, a person’s ability to think, learn, adapt, and recover is limited.",
+          "link": "https://hackernoon.com/how-to-think-like-a-winner-developing-a-growth-mindset?source=rss",
+          "publishedOn": "2021-12-28T03:42:50.000Z",
+          "wordCount": 1022,
+          "title": "How to Think Like a Winner: Developing a Growth Mindset"
+        },
+        {
+          "id": "https://hackernoon.com/what-2021-scientific-discovery-excited-you-the-most?source=rss",
+          "author": "Slogging (Slack Blogging)",
+          "description": "In this slogging thread, our community shared their favorite scientific discoveries of the year.",
+          "link": "https://hackernoon.com/what-2021-scientific-discovery-excited-you-the-most?source=rss",
+          "publishedOn": "2021-12-28T03:23:20.000Z",
+          "wordCount": 2189,
+          "title": "What 2021 Scientific Discovery Excited You the Most?"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-implement-qa-testing-in-a-confidential-and-secure-manner?source=rss",
+          "author": "Tania Zhydkova",
+          "description": "‘Privacy’ and ‘Confidentiality’ are often used interchangeably but they are not the same.",
+          "link": "https://hackernoon.com/how-to-implement-qa-testing-in-a-confidential-and-secure-manner?source=rss",
+          "publishedOn": "2021-12-28T02:46:22.000Z",
+          "wordCount": 1085,
+          "title": "How to Implement QA Testing in a Confidential and Secure Manner"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-make-devtestops-orchestration-for-agile-teams-work?source=rss",
+          "author": "Katalon",
+          "description": "The three key positions in a software development team are developer, tester, and operations. Required tasks among these positions are continuously reinvented.",
+          "link": "https://hackernoon.com/how-to-make-devtestops-orchestration-for-agile-teams-work?source=rss",
+          "publishedOn": "2021-12-27T18:39:12.000Z",
+          "wordCount": 1030,
+          "title": "How to Make DevTestOps Orchestration for Agile Teams Work"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-tiktok-kitchen-and-how-does-it-work?source=rss",
+          "author": "Ian",
+          "description": "I look into the new restaurant concept, TikTok's motivations, and how it will work.",
+          "link": "https://hackernoon.com/what-is-tiktok-kitchen-and-how-does-it-work?source=rss",
+          "publishedOn": "2021-12-27T14:22:26.000Z",
+          "wordCount": 1038,
+          "title": "What is TikTok Kitchen and How Does it Work?"
+        },
+        {
+          "id": "https://hackernoon.com/0-day-log4shell-is-serious-but-its-just-the-tip-of-the-iceberg?source=rss",
+          "author": "Zen Chan",
+          "description": "CVE 2021–45046, says the fix to address CVE-2021–44228 in Apache Log4j 2.15.0 was \"incomplete in certain non-default configurations.\"",
+          "link": "https://hackernoon.com/0-day-log4shell-is-serious-but-its-just-the-tip-of-the-iceberg?source=rss",
+          "publishedOn": "2021-12-27T14:18:10.000Z",
+          "wordCount": 2960,
+          "title": "Time Bombs Inside Software: 0-Day Log4Shell is Just the Tip of The Iceberg"
+        },
+        {
+          "id": "https://hackernoon.com/ethical-hacking-for-beginners-penetration-testing-101?source=rss",
+          "author": "Testhouse Ltd",
+          "description": "Penetration testing or ethical hacking is used to get access to resources. Hackers carry out attacks to uncover security vulnerabilities & assess their strength",
+          "link": "https://hackernoon.com/ethical-hacking-for-beginners-penetration-testing-101?source=rss",
+          "publishedOn": "2021-12-27T10:08:55.000Z",
+          "wordCount": 1013,
+          "title": "Ethical Hacking for Beginners: Penetration Testing 101"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-translate-feedback-to-actionable-plan-with-examples?source=rss",
+          "author": "Nikola O.",
+          "description": "In an ideal world, the feedback you receive would come with an action plan. In reality, it is up to you to translate constructive criticism into improvement.",
+          "link": "https://hackernoon.com/how-to-translate-feedback-to-actionable-plan-with-examples?source=rss",
+          "publishedOn": "2021-12-27T09:43:29.000Z",
+          "wordCount": 1962,
+          "title": "How to Translate Feedback to Actionable Plan (with Examples)"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-improve-online-shopping-slogging-insights?source=rss",
+          "author": "Sara Pinto",
+          "description": "Technology has an impact in many fields. In this slogging thread, we approached this impact in shopping and discussed how it can be advantageous for us.",
+          "link": "https://hackernoon.com/how-to-improve-online-shopping-slogging-insights?source=rss",
+          "publishedOn": "2021-12-27T02:39:26.000Z",
+          "wordCount": 2032,
+          "title": "How to Improve Online Shopping (Slogging Insights)"
+        },
+        {
+          "id": "https://hackernoon.com/does-usb-tethering-use-hotspot-data-of-verizon-atandt-and-t-mobile?source=rss",
+          "author": "Pegasus",
+          "description": "What is USB Tethering? A Universal Serial Bus cable is one of the known kinds of cables used to connect computers to peripheral devices such as your keyboard, mouse, and speakers to feed your computer with information for data processing. Tethering is the act of connecting your laptop to your smartphone to transmit the internet. USB tethering means linking your phone to your computer using a USB cable for internet connection",
+          "link": "https://hackernoon.com/does-usb-tethering-use-hotspot-data-of-verizon-atandt-and-t-mobile?source=rss",
+          "publishedOn": "2021-12-27T00:48:43.000Z",
+          "wordCount": 1948,
+          "title": "Does USB Tethering Use Hotspot Data of Verizon, AT&T And T-Mobile?"
+        },
+        {
+          "id": "https://hackernoon.com/a-new-communication-tool-starts-the-next-chapter-for-the-global-telecom?source=rss",
+          "author": "Petr Malyukov",
+          "description": "We’ve built a tool enabling everyone to understand and speak without any language barriers within just one app",
+          "link": "https://hackernoon.com/a-new-communication-tool-starts-the-next-chapter-for-the-global-telecom?source=rss",
+          "publishedOn": "2021-12-27T00:44:58.000Z",
+          "wordCount": 966,
+          "title": "A New Communication Tool Starts the Next Chapter for The Global Telecom"
+        },
+        {
+          "id": "https://hackernoon.com/all-the-coolest-trends-coming-to-the-agile-methodology-in-2022?source=rss",
+          "author": "Rajneesh Kumar",
+          "description": "Agile Software Development can give companies versatility and help them navigate through change and complexities of the software space, improving efficiency.",
+          "link": "https://hackernoon.com/all-the-coolest-trends-coming-to-the-agile-methodology-in-2022?source=rss",
+          "publishedOn": "2021-12-27T00:36:19.000Z",
+          "wordCount": 1005,
+          "title": "All the Coolest Trends Coming to the Agile Methodology in 2022"
+        },
         {
           "id": "https://hackernoon.com/the-top-5-technologies-to-watch-out-for-in-2022?source=rss",
           "author": "Aliha Tanveer",
@@ -4129,6 +4246,15 @@
           "publishedOn": "2021-12-26T22:08:43.000Z",
           "wordCount": 1030,
           "title": "Research: The Misconfiguration of Real Time Databases in Mobile App Development"
+        },
+        {
+          "id": "https://hackernoon.com/what-the-interchain-sustainability-mission-is-about?source=rss",
+          "author": "Cosmos - Internet of Blockchains",
+          "description": "The future of humanity is being decided by the actions we are taking today and by our impacts on the ecological state of the planet.",
+          "link": "https://hackernoon.com/what-the-interchain-sustainability-mission-is-about?source=rss",
+          "publishedOn": "2021-12-26T20:48:55.000Z",
+          "wordCount": 2072,
+          "title": "What The Interchain Sustainability Mission is About"
         },
         {
           "id": "https://hackernoon.com/how-cosmos-proof-of-stake-helps-create-a-more-sustainable-blockchain-environment?source=rss",
@@ -4626,6 +4752,24 @@
           "title": "The Stories we Keep Coming Back to Every Year"
         },
         {
+          "id": "https://hackernoon.com/portable-gaming-monitors?source=rss",
+          "author": "Games Harden",
+          "description": "Isn’t it sad that you have to pause your gaming adventures just because you are traveling? No more! Here are the best portable gaming monitors in 2021.",
+          "link": "https://hackernoon.com/portable-gaming-monitors?source=rss",
+          "publishedOn": "2021-12-23T05:37:32.000Z",
+          "wordCount": 982,
+          "title": "Portable Gaming Monitors"
+        },
+        {
+          "id": "https://hackernoon.com/key-switches-for-gaming?source=rss",
+          "author": "Games Harden",
+          "description": "We have reviewed some of the best key switches for gaming in 2021 and developed a detailed buying guide so you can make an informed purchase decision.",
+          "link": "https://hackernoon.com/key-switches-for-gaming?source=rss",
+          "publishedOn": "2021-12-23T04:05:29.000Z",
+          "wordCount": 984,
+          "title": "Key Switches For Gaming"
+        },
+        {
           "id": "https://hackernoon.com/5-best-practices-to-follow-for-nodejs-development?source=rss",
           "author": "Hiren Dhaduk",
           "description": "An extensive library of JavaScript, Node.js has become popular among developers globally.",
@@ -4732,6 +4876,15 @@
           "publishedOn": "2021-12-22T14:16:42.000Z",
           "wordCount": 2198,
           "title": "5 Benefits of Implementing AR in the Tourism Industry"
+        },
+        {
+          "id": "https://hackernoon.com/get-referrals-for-your-saas-product-easily-by-following-this-guide?source=rss",
+          "author": "Vincent Otieno",
+          "description": "Get referrals for your product without asking by leveraging word of mouth marketing. Focus on creating customer evangelists.",
+          "link": "https://hackernoon.com/get-referrals-for-your-saas-product-easily-by-following-this-guide?source=rss",
+          "publishedOn": "2021-12-22T14:02:49.000Z",
+          "wordCount": 3138,
+          "title": "Get Referrals for your SaaS Product Easily by Following this Guide"
         },
         {
           "id": "https://hackernoon.com/getting-started-with-customer-testimonials-a-beginners-guide?source=rss",
@@ -14981,15 +15134,6 @@
           "publishedOn": "2021-10-04T08:08:36.000Z",
           "wordCount": 550,
           "title": "CSS accent-color"
-        },
-        {
-          "id": "https://davidwalsh.name/?p=27474",
-          "author": "David Walsh",
-          "description": "The UUID identifier has been used in programming since the days a baby-faced David Walsh became a professional software engineer. My first exposure to UUIDs was via a ColdFusion app I inherited and … the less we say about that the better. In any event, I was recently surprised to see that JavaScript has the […]\nThe post How to Create a UUID in JavaScript appeared first on David Walsh Blog.",
-          "link": "https://davidwalsh.name/javascript-uuid",
-          "publishedOn": "2021-09-30T01:47:39.000Z",
-          "wordCount": 602,
-          "title": "How to Create a UUID in JavaScript"
         }
       ]
     },
@@ -15023,6 +15167,16 @@
       "feedUrl": "http://feeds.feedburner.com/helloacm?format=xml",
       "siteUrl": "https://helloacm.com",
       "articles": [
+        {
+          "id": "https://helloacm.com/?p=148317",
+          "author": "ACMer",
+          "description": "You are given two lists of integers weights and values which have the same length and an integer capacity. weights and values represent the weight and value of the ith item. Given that you can take...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-0-1-knapsack-problem-via-bottom-up-dynamic-programming-algorithm/",
+          "publishedOn": "2021-12-28T15:35:55.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Using Bottom Up Dynamic Programming Algorithm to Solve 0/1 Knapsack Problem",
+          "itunes": {}
+        },
         {
           "id": "https://helloacm.com/?p=148299",
           "author": "ACMer",
@@ -15832,16 +15986,6 @@
           "wordCount": null,
           "title": "Teaching Kids Programming – Finding Real Roots of a Quadratic Equation",
           "itunes": {}
-        },
-        {
-          "id": "https://helloacm.com/?p=146933",
-          "author": "ACMer",
-          "description": "Given N squares which side is M, we want to re-arrange it to form a larger rectangle. We want to maximize the Perimeter. Algorithm to Compute Maximal Perimeter by Forming a Rectangle from N squares...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
-          "link": "https://helloacm.com/teaching-kids-programming-compute-the-maximal-perimeter-by-forming-a-rectangle-from-n-squares/",
-          "publishedOn": "2021-09-29T20:38:27.000Z",
-          "wordCount": null,
-          "title": "Teaching Kids Programming – Compute the Maximal Perimeter by Forming a Rectangle from N squares",
-          "itunes": {}
         }
       ]
     },
@@ -15850,6 +15994,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=513075",
+          "author": "Kristina Panos",
+          "description": "Like many of us, [BuildXYZ] has always wanted to own a pinball machine, but doesn’t have the space to justify buying such a big and heavy toy. But where there’s …read more",
+          "link": "https://hackaday.com/2021/12/28/clear-off-the-coffee-table-its-pinball-time/",
+          "publishedOn": "2021-12-29T00:00:00.000Z",
+          "wordCount": 1317,
+          "title": "Clear Off the Coffee Table, It’s Pinball Time"
+        },
+        {
+          "id": "https://hackaday.com/?p=513219",
+          "author": "Tom Nardi",
+          "description": "With a new Matrix movie out now, it’s hardly a surprise that we’re starting to see more and more projects centered around the franchise’s iconic “Digital Rain” effect. A few …read more",
+          "link": "https://hackaday.com/2021/12/28/enter-the-matrix-with-this-custom-pc-side-panel/",
+          "publishedOn": "2021-12-28T21:00:43.000Z",
+          "wordCount": 1358,
+          "title": "Enter the Matrix with This Custom PC Side Panel"
+        },
+        {
+          "id": "https://hackaday.com/?p=513576",
+          "author": "Chris Lott",
+          "description": "[Ziggurat29] had been playing around with infrared protocols, and realized he had a spare point-of-sale printer kicking around in his junk box. So he decided to whip up his own …read more",
+          "link": "https://hackaday.com/2021/12/28/diy-infrared-calculator-printer/",
+          "publishedOn": "2021-12-28T19:30:00.000Z",
+          "wordCount": 1338,
+          "title": "DIY Infrared Calculator Printer"
+        },
+        {
+          "id": "https://hackaday.com/?p=511121",
+          "author": "Al Williams",
+          "description": "In kindergarten, you learn that you should share. But for computer security, sharing is often a bad thing. The Linux kernel introduced the concept of namespaces starting with version 2.6.24. …read more",
+          "link": "https://hackaday.com/2021/12/28/linux-fu-dont-share-well-with-others/",
+          "publishedOn": "2021-12-28T18:00:39.000Z",
+          "wordCount": 2721,
+          "title": "Linux Fu: Don’t Share Well With Others"
+        },
+        {
+          "id": "https://hackaday.com/?p=513589",
+          "author": "Tom Nardi",
+          "description": "Updates from the enigmatic [NODE] are unfortunately few and far between these days. In fact his latest post is only the second time we’ve heard from the hacker in 2021. …read more",
+          "link": "https://hackaday.com/2021/12/28/the-pinouts-book-is-here-and-its-just-what-you-need/",
+          "publishedOn": "2021-12-28T16:30:00.000Z",
+          "wordCount": 2331,
+          "title": "The Pinouts Book is Here, and It’s Just What You Need"
+        },
+        {
+          "id": "https://hackaday.com/?p=508307",
+          "author": "Dave Rowntree",
+          "description": "The current state of the art of embedded motion sensing is based around micro-electromechanical systems (MEMS) devices. These miracles of microfabrication use tiny silicon structures, configured to detect acceleration and …read more",
+          "link": "https://hackaday.com/2021/12/28/quantum-atomic-interferometer-for-precision-motion-sensing/",
+          "publishedOn": "2021-12-28T15:00:22.000Z",
+          "wordCount": 3122,
+          "title": "Quantum Atomic Interferometer For Precision Motion Sensing"
+        },
+        {
+          "id": "https://hackaday.com/?p=513503",
+          "author": "Dan Maloney",
+          "description": "It’s a pity that more electronics enthusiasts haven’t taken the hobby to its ultimate level: making your own semiconductors. There are plenty of good reasons for that: chief among them …read more",
+          "link": "https://hackaday.com/2021/12/28/laser-doping-his-way-to-homemade-silicon-chips/",
+          "publishedOn": "2021-12-28T12:00:00.000Z",
+          "wordCount": 1453,
+          "title": "Laser Doping His Way to Homemade Silicon Chips"
+        },
         {
           "id": "https://hackaday.com/?p=513305",
           "author": "Chris Lott",
@@ -21384,6 +21591,56 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "655DED12-7941-4740-AA3D95933DA102CA",
+          "author": "Melba Newsome",
+          "description": "It’s understandable that Black Americans are wary of vaccines, but that despicable episode involved the withholding of treatment, whereas vaccines actively prevent disease\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/we-learned-the-wrong-lessons-from-the-tuskegee-experiment/",
+          "publishedOn": "2021-12-28T18:00:00.000Z",
+          "wordCount": null,
+          "title": "We Learned the Wrong Lessons from the Tuskegee 'Experiment'",
+          "itunes": {}
+        },
+        {
+          "id": "1ACA791E-E08F-45C3-9519991AAED796E0",
+          "author": "Senator Chris Coons, Senator Jerry Moran",
+          "description": "The organization’s underfunding means critical research is not being done\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/a-1-billion-boost-to-the-nci-will-help-us-beat-cancer/",
+          "publishedOn": "2021-12-28T17:00:00.000Z",
+          "wordCount": null,
+          "title": "A $1-Billion Boost to the NCI Will Help Us Beat Cancer",
+          "itunes": {}
+        },
+        {
+          "id": "88D73C3B-8036-4754-9DE2700CB21B3BE0",
+          "author": "Chelsea Harvey, E&E News",
+          "description": "Blazes from California to Siberia spewed more than 1.7 billion metric tons of carbon dioxide into the atmosphere\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/wildfires-broke-records-around-the-world-in-2021/",
+          "publishedOn": "2021-12-28T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Wildfires Broke Records around the World in 2021",
+          "itunes": {}
+        },
+        {
+          "id": "11A0D7FC-6E4A-4C80-9C6A0896BDF803D1",
+          "author": "Andrea Thompson",
+          "description": "Climate-fueled disasters raged around the globe while international action fell short of ambitions\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-five-biggest-climate-stories-of-2021/",
+          "publishedOn": "2021-12-28T12:30:00.000Z",
+          "wordCount": null,
+          "title": "The Five Biggest Climate Stories of 2021",
+          "itunes": {}
+        },
+        {
+          "id": "0E4204EE-9B6D-466E-A84978764DAEF958",
+          "author": "Nikk Ogasa",
+          "description": "A bacteria-produced protein could help snag, detect or filter radioactive particles\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/soil-microbe-could-clean-up-nuclear-waste/",
+          "publishedOn": "2021-12-28T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Soil Microbe Could Clean Up Nuclear Waste",
+          "itunes": {}
+        },
+        {
           "id": "3AE813D7-95C3-4FA4-A267224F35F3E97F",
           "author": "Zolelwa Sifumba",
           "description": "A physician in hard-hit South Africa points out that squelching the disease in one place means nothing if it’s raging elsewhere\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -26251,66 +26508,6 @@
           "wordCount": null,
           "title": "The Lab-Leak Theory of COVID's Origin Is Not Totally Irrational",
           "itunes": {}
-        },
-        {
-          "id": "16E1C033-3E56-4E0D-A143A7969A2DCAAB",
-          "author": "Tess Joosse",
-          "description": "Scientists silenced CO2-sensing genes to determine how the destructive pests find their food\n\r\n\r\n-- Read more on ScientificAmerican.com",
-          "link": "https://www.scientificamerican.com/article/how-rootworms-sniff-carbon-dioxide-to-devastate-corn-crops/",
-          "publishedOn": "2021-09-30T12:30:00.000Z",
-          "wordCount": null,
-          "title": "How Rootworms Sniff Carbon Dioxide to Devastate Corn Crops",
-          "itunes": {}
-        },
-        {
-          "id": "154F31A6-821B-4195-A661F7996E285453",
-          "author": "Tanya Lewis",
-          "description": "High-quality respirators such as N95s and K95s are now widely available and provide the best protection against COVID, according to experts. Why aren’t more people wearing them?\n\r\n\r\n-- Read more on ScientificAmerican.com",
-          "link": "https://www.scientificamerican.com/article/why-we-need-to-upgrade-our-face-masks-and-where-to-get-them/",
-          "publishedOn": "2021-09-30T12:00:00.000Z",
-          "wordCount": null,
-          "title": "Why We Need to Upgrade Our Face Masks--and Where to Get Them",
-          "itunes": {}
-        },
-        {
-          "id": "B7B658E9-0A16-45AC-B39DA75A473D2F95",
-          "author": "Troy Farah",
-          "description": "LSD and psilocybin increasingly show promise as mental health treatments. Now universities and companies are exploring their use in pain management\n\r\n\r\n-- Read more on ScientificAmerican.com",
-          "link": "https://www.scientificamerican.com/article/can-psychedelic-drugs-treat-physical-pain/",
-          "publishedOn": "2021-09-30T10:45:00.000Z",
-          "wordCount": null,
-          "title": "Can Psychedelic Drugs Treat Physical Pain?",
-          "itunes": {}
-        },
-        {
-          "id": "F049BA66-262D-44BE-9A189FA7C3C84824",
-          "author": "Virginia Grant",
-          "description": "A mid-20th-century computer experiment created a new field of science—and programmer Mary Tsingou Menzel is finally being given credit for her role in making it happen\n\r\n\r\n-- Read more on ScientificAmerican.com",
-          "link": "https://www.scientificamerican.com/article/an-unsung-female-pioneer-of-computer-simulation/",
-          "publishedOn": "2021-09-29T19:00:00.000Z",
-          "wordCount": null,
-          "title": "An Unsung Female Pioneer of Computer Simulation",
-          "itunes": {}
-        },
-        {
-          "id": "7F6033CF-DA2F-4A0B-BF7A758D4C16FE2B",
-          "author": "Ariel Wittenberg, E&E News",
-          "description": "The strain from COVID will mean fewer resources and less attention on reducing carbon footprints\n\r\n\r\n-- Read more on ScientificAmerican.com",
-          "link": "https://www.scientificamerican.com/article/pandemic-could-stymie-effort-to-cut-health-care-emissions/",
-          "publishedOn": "2021-09-29T18:30:00.000Z",
-          "wordCount": null,
-          "title": "Pandemic Could Stymie Effort to Cut Health Care Emissions",
-          "itunes": {}
-        },
-        {
-          "id": "E5443A21-FD7F-467C-A364158B2CD86F78",
-          "author": "Michael Tabb, Jeffery DelViscio, Andrea Gawrylewski",
-          "description": "Deep learning, neural networks, imitation games—what does any of this have to do with teaching computers to “learn”?\n\r\n\r\n-- Read more on ScientificAmerican.com",
-          "link": "https://www.scientificamerican.com/video/what-is-machine-learning-and-how-does-it-work-heres-a-short-video-primer/",
-          "publishedOn": "2021-09-29T14:00:00.000Z",
-          "wordCount": null,
-          "title": "What Is Machine Learning, and How Does It Work? Here's a Short Video Primer",
-          "itunes": {}
         }
       ]
     },
@@ -26319,6 +26516,24 @@
       "feedUrl": "https://devops.com/feed/",
       "siteUrl": "https://devops.com",
       "articles": [
+        {
+          "id": "https://devops.com/?p=140834",
+          "author": "Alex Weiss",
+          "description": "As we close out 2021, we at DevOps.com wanted to highlight the most popular articles of the year. Following is the eighteenth in our series of the Best of 2021. When done properly, software application performance testing determines if a system meets certain acceptable criteria for both responsiveness and robustness. Before you jump in to […]\nThe post Best of 2021 – Best Practices for Application Performance Testing appeared first on DevOps.com.",
+          "link": "https://devops.com/best-practices-for-application-performance-testing/",
+          "publishedOn": "2021-12-28T08:00:49.000Z",
+          "wordCount": 1538,
+          "title": "Best of 2021 – Best Practices for Application Performance Testing"
+        },
+        {
+          "id": "https://devops.com/?p=144233",
+          "author": "Brian Pontarelli",
+          "description": "As we close out 2021, we at DevOps.com wanted to highlight the most popular articles of the year. Following is the seventeenth in our series of the Best of 2021. One of the most common questions about JSON Web Tokens (JWTs): Once they’re issued, how can they be revoked? What Are JWTs? JSON Web Tokens […]\nThe post Best of 2021 – How to Revoke JSON Web Tokens (JWTs) appeared first on DevOps.com.",
+          "link": "https://devops.com/how-to-revoke-json-web-tokens-jwts/",
+          "publishedOn": "2021-12-28T07:30:44.000Z",
+          "wordCount": 1506,
+          "title": "Best of 2021 – How to Revoke JSON Web Tokens (JWTs)"
+        },
         {
           "id": "https://devops.com/?p=141524",
           "author": "Frank Ohlhorst",
@@ -28442,51 +28657,6 @@
           "publishedOn": "2021-10-01T02:25:19.000Z",
           "wordCount": 509,
           "title": "A New Era of Observability, Monitoring and Analytics for DevOps"
-        },
-        {
-          "id": "https://devops.com/?p=145657",
-          "author": "Bill Doerrfeld",
-          "description": "Technical talent is few and far between. The programming world faces a developer shortage, and with this shortage comes a lack of cloud know-how. By now, most organizations have become multi-cloud, yet 86% of IT professionals believe a lack of these skills will slow down cloud projects. As more teams transition from older architectures to […]\nThe post 4 Tips To Plug The Cloud IT Skills Gap appeared first on DevOps.com.",
-          "link": "https://devops.com/4-tips-to-plug-the-cloud-it-skills-gap/",
-          "publishedOn": "2021-09-30T06:30:20.000Z",
-          "wordCount": 1487,
-          "title": "4 Tips To Plug The Cloud IT Skills Gap"
-        },
-        {
-          "id": "https://devops.com/?p=145805",
-          "author": "ROELBOB",
-          "description": "The post Value Stream 2021 appeared first on DevOps.com.",
-          "link": "https://devops.com/value-stream-2021/",
-          "publishedOn": "2021-09-30T06:00:58.000Z",
-          "wordCount": 473,
-          "title": "Value Stream 2021"
-        },
-        {
-          "id": "https://devops.com/?p=145696",
-          "author": "Mike Vizard",
-          "description": "During the online Illuminate user conference, Sumo Logic revealed how it is integrating capabilities it gained with the June 2021 acquisition of Sensu, a provider of open source monitoring tools, with its continuous intelligence platform in addition to adding support for data collected via open source OpenTelemetry software. Sensu Go, a set of tools for […]\nThe post Sumo Logic Extends Observability Scope and Reach appeared first on DevOps.com.",
-          "link": "https://devops.com/sumo-logic-extends-observability-scope-and-reach/",
-          "publishedOn": "2021-09-29T16:00:20.000Z",
-          "wordCount": 1072,
-          "title": "Sumo Logic Extends Observability Scope and Reach"
-        },
-        {
-          "id": "https://devops.com/?p=145733",
-          "author": "Mike Vizard",
-          "description": "At the online DevOps World 2021 conference today, CloudBees revealed it has acquired Neuralprints to provide the core technology for CloudBees Compliance, a real-time compliance and risk analysis platform that it will roll out in the first quarter of 2022. At the same time, CloudBees has enhanced the feature management capabilities of its namesake continuous […]\nThe post CloudBees Acquires Neuralprints to Shift Compliance Left appeared first on DevOps.com.",
-          "link": "https://devops.com/cloudbees-acquires-neuralprints-to-shift-compliance-left/",
-          "publishedOn": "2021-09-29T14:37:06.000Z",
-          "wordCount": 933,
-          "title": "CloudBees Acquires Neuralprints to Shift Compliance Left"
-        },
-        {
-          "id": "https://devops.com/?p=145728",
-          "author": "Mike Vizard",
-          "description": "During the online Ansiblefest, Red Hat announced the availability of a preview edition of Red Hat Ansible Automation Platform 2 that is intended to make it easier to automate IT processes at scale. Richard Henshall, senior manager for Ansible product management at Red Hat, said previously most IT teams have been automating individual processes, but […]\nThe post Red Hat Extends Scope of Ansible Automation Ambitions appeared first on DevOps.com.",
-          "link": "https://devops.com/red-hat-extends-scope-of-ansible-automation-ambitions/",
-          "publishedOn": "2021-09-29T13:00:44.000Z",
-          "wordCount": 1074,
-          "title": "Red Hat Extends Scope of Ansible Automation Ambitions"
         }
       ]
     },
@@ -28994,16 +29164,6 @@
           "wordCount": null,
           "title": "Anil Seth Finds Consciousness in Life’s Push Against Entropy",
           "itunes": {}
-        },
-        {
-          "id": "https://www.quantamagazine.org/?p=109003",
-          "author": "Philip Ball",
-          "description": "So-called topological quantum computing would avoid many of the problems that stand in the way of full-scale quantum computers. But high-profile missteps have led some experts to question whether the field is fooling itself.            \nThe post Major Quantum Computing Strategy Suffers Serious Setbacks first appeared on Quanta Magazine",
-          "link": "https://www.quantamagazine.org/major-quantum-computing-strategy-suffers-serious-setbacks-20210929/",
-          "publishedOn": "2021-09-29T16:52:52.000Z",
-          "wordCount": null,
-          "title": "Major Quantum Computing Strategy Suffers Serious Setbacks",
-          "itunes": {}
         }
       ]
     },
@@ -29012,6 +29172,24 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66405",
+          "author": "Nathan Yau",
+          "description": "Denise Lu and Albert Sun for The New York Times show the shifts…\nTags: coronavirus, New York Times",
+          "link": "https://flowingdata.com/2021/12/28/covid-19-mortality-before-and-after-vaccine-eligibility/",
+          "publishedOn": "2021-12-28T17:59:38.000Z",
+          "wordCount": 305,
+          "title": "Covid-19 mortality before and after vaccine eligibility"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66398",
+          "author": "Nathan Yau",
+          "description": "xkcd makes Statistics so fulfilling. George E. P. Box comes to mind.…\nTags: humor, xkcd",
+          "link": "https://flowingdata.com/2021/12/28/xkcd-unknowable-truth/",
+          "publishedOn": "2021-12-28T17:21:01.000Z",
+          "wordCount": 219,
+          "title": "xkcd: Unknowable truth"
+        },
         {
           "id": "https://flowingdata.com/?p=66392",
           "author": "Nathan Yau",
@@ -29839,24 +30017,6 @@
           "publishedOn": "2021-09-30T18:30:59.000Z",
           "wordCount": 283,
           "title": "✚ Backwards Visualization Critique – The Process 159"
-        },
-        {
-          "id": "https://flowingdata.com/?p=65675",
-          "author": "Nathan Yau",
-          "description": "Whether it’s because of experience, physical ability, or education level, some jobs tend towards a certain age of worker more than others.\nTags: age, work",
-          "link": "https://flowingdata.com/2021/09/30/age-and-occupation/",
-          "publishedOn": "2021-09-30T11:02:47.000Z",
-          "wordCount": 292,
-          "title": "Age and Occupation"
-        },
-        {
-          "id": "https://flowingdata.com/?p=65670",
-          "author": "Nathan Yau",
-          "description": "UnstableGround is a project from the Woodwell Climate Research Center that focuses on…\nTags: Arctic, climate change",
-          "link": "https://flowingdata.com/2021/09/29/mapping-climate-change-in-the-arctic/",
-          "publishedOn": "2021-09-29T19:15:06.000Z",
-          "wordCount": 325,
-          "title": "Mapping climate change in the Arctic"
         }
       ]
     },
@@ -30060,15 +30220,6 @@
           "publishedOn": "2021-10-31T00:00:00.000Z",
           "wordCount": 1100,
           "title": "Luau Recap: October 2021"
-        },
-        {
-          "id": "https://luau-lang.org/2021/09/30/luau-recap-september-2021.html",
-          "author": null,
-          "description": "Luau is our new language that you can read more about at https://luau-lang.org.",
-          "link": "https://luau-lang.org/2021/09/30/luau-recap-september-2021.html",
-          "publishedOn": "2021-09-30T00:00:00.000Z",
-          "wordCount": 951,
-          "title": "Luau Recap: September 2021"
         }
       ]
     },
