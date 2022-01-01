@@ -22,6 +22,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=360073",
+          "author": "Chris Coyier",
+          "description": "Ahmad Shadeed nails it again with “Defensive CSS.” The idea is that you should write CSS to be ready for issues caused by dynamic content. \nMore items than you thought would be there? No problem, the area can expand or …\nDefensive CSS originally published on CSS-Tricks",
+          "link": "https://css-tricks.com/defensive-css/",
+          "publishedOn": "2021-12-31T18:41:47.000Z",
+          "wordCount": 447,
+          "title": "Defensive CSS"
+        },
+        {
           "id": "https://css-tricks.com/?p=359941",
           "author": "Chris Coyier",
           "description": "I’m actually working on a talk (whew! been a while! kinda feels good!) about just how good the world of building websites has gotten. I plan to cover a wide swath of web tech, on purpose, because I …\nThe Web is More Gooder, and Other Observations on Today’s Web Tech originally published on CSS-Tricks",
@@ -1693,6 +1702,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61cb5f2f755c16082490be2f",
+          "author": null,
+          "description": "2021 has been a big year for the freeCodeCamp community: We provided more than 2.1 billion minutes of learning to millions of people around the world.We published our 300-hour Relational Database Certification teaching SQL, Linux, and Git interactively – right inside VS Code.We shipped a project-oriented learning overhaul",
+          "link": "https://www.freecodecamp.org/news/free-accredited-bachelors-degrees-in-computer-science-how-do-we-get-there/",
+          "publishedOn": "2021-12-31T16:26:19.000Z",
+          "wordCount": 1555,
+          "title": "A Free Accredited Bachelor&#x27;s Degree in Computer Science – How Do We Get There?"
+        },
         {
           "id": "61cdc903a700150888933394",
           "author": null,
@@ -4041,15 +4059,6 @@
           "publishedOn": "2021-10-04T16:21:30.000Z",
           "wordCount": 1195,
           "title": "What is UX Design? User Experience Design Explained in Plain English"
-        },
-        {
-          "id": "5f9c98a3740569d1a4ca1b33",
-          "author": null,
-          "description": "Every year Class Central releases a list of the Best Free Online Courses Of All Time, based on tens of thousands of user reviews. This year, thanks to a growing number of reviews, I've expanded the list from 200 to 250 courses. For close to ten years, well-known and well-respected",
-          "link": "https://www.freecodecamp.org/news/best-online-courses/",
-          "publishedOn": "2021-10-03T04:21:00.000Z",
-          "wordCount": 11998,
-          "title": "The 250 Best Free Online Courses of All Time – A Data-Driven Analysis [2021 Edition]"
         }
       ]
     },
@@ -4058,6 +4067,177 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "https://hackernoon.com",
       "articles": [
+        {
+          "id": "https://hackernoon.com/10-reasons-to-choose-sencha-ext-js-for-your-data-driven-web-applications?source=rss",
+          "author": "Sencha",
+          "description": "",
+          "link": "https://hackernoon.com/10-reasons-to-choose-sencha-ext-js-for-your-data-driven-web-applications?source=rss",
+          "publishedOn": "2021-12-31T20:34:20.000Z",
+          "wordCount": 1013,
+          "title": "10 Reasons to Choose Sencha Ext JS for Your Data Driven Web Applications"
+        },
+        {
+          "id": "https://hackernoon.com/what-we-can-learn-from-facebooks-latest-outage?source=rss",
+          "author": "Bugsnag",
+          "description": "A GitHub issue reported a change to the Facebook API causing crashes to happen on many request made from Facebook’s iOS SDK.",
+          "link": "https://hackernoon.com/what-we-can-learn-from-facebooks-latest-outage?source=rss",
+          "publishedOn": "2021-12-31T10:45:03.000Z",
+          "wordCount": 993,
+          "title": "What We Can Learn From Facebook’s Latest Outage"
+        },
+        {
+          "id": "https://hackernoon.com/bringing-defi-to-cosmos-how-the-gravity-dex-protocol-came-to-be?source=rss",
+          "author": "Cosmos - Internet of Blockchains",
+          "description": "The Gravity DEX protocol is finally live. Users will be able to experience the protocol when Emeris, the first platform to support it, launches in beta.",
+          "link": "https://hackernoon.com/bringing-defi-to-cosmos-how-the-gravity-dex-protocol-came-to-be?source=rss",
+          "publishedOn": "2021-12-31T10:23:52.000Z",
+          "wordCount": 1698,
+          "title": "Bringing DeFi to Cosmos: How the Gravity DEX Protocol Came to be"
+        },
+        {
+          "id": "https://hackernoon.com/how-agile-teams-shorten-sdlc-using-devtestops?source=rss",
+          "author": "Katalon",
+          "description": "Moreover, the duty of code quality can slowly be forgotten in the developers’ minds as they know their work would be tested either way.",
+          "link": "https://hackernoon.com/how-agile-teams-shorten-sdlc-using-devtestops?source=rss",
+          "publishedOn": "2021-12-31T10:09:15.000Z",
+          "wordCount": 994,
+          "title": "How Agile Teams Shorten SDLC Using DevTestOps"
+        },
+        {
+          "id": "https://hackernoon.com/how-united-nations-documents-and-human-rights-websites-were-used-in-spreading-malware?source=rss",
+          "author": "Check Point Software",
+          "description": "The Uyghurs, an ethnic minority in China have been targeted by fake human rights documents and websites intended to take advantage of their persecution in China",
+          "link": "https://hackernoon.com/how-united-nations-documents-and-human-rights-websites-were-used-in-spreading-malware?source=rss",
+          "publishedOn": "2021-12-31T09:44:47.000Z",
+          "wordCount": 1038,
+          "title": "How United Nations Documents and Human Rights Websites Were Used in Spreading Malware"
+        },
+        {
+          "id": "https://hackernoon.com/now-is-the-right-time-for-entrepreneurs-to-embrace-web-30?source=rss",
+          "author": "API3",
+          "description": "Web 3.0 democratizes the ability to build businesses that hold value, so entrepreneurs can offer services like finance, insurance and banking solutions",
+          "link": "https://hackernoon.com/now-is-the-right-time-for-entrepreneurs-to-embrace-web-30?source=rss",
+          "publishedOn": "2021-12-31T09:28:46.000Z",
+          "wordCount": 2062,
+          "title": "Now Is the Right Time for Entrepreneurs to Embrace Web 3.0"
+        },
+        {
+          "id": "https://hackernoon.com/emotions-make-your-mind-dumb-and-kill-logic-a-blunt-perspective-on-how-to-live?source=rss",
+          "author": "Leela Krishna Kumar",
+          "description": "You only have one life, make it big!",
+          "link": "https://hackernoon.com/emotions-make-your-mind-dumb-and-kill-logic-a-blunt-perspective-on-how-to-live?source=rss",
+          "publishedOn": "2021-12-31T07:20:08.000Z",
+          "wordCount": 1514,
+          "title": "\"Emotions make your mind dumb and kill logic\": A Blunt Perspective on How to Live"
+        },
+        {
+          "id": "https://hackernoon.com/the-rtk-query-api-splitting-approach-and-the-nuances-of-making-life-simpler?source=rss",
+          "author": "Anatolii Kabanov",
+          "description": "RTK Query is definitely a cool library however it’s sadly not applicable to all of the use cases possible with an API.",
+          "link": "https://hackernoon.com/the-rtk-query-api-splitting-approach-and-the-nuances-of-making-life-simpler?source=rss",
+          "publishedOn": "2021-12-31T06:29:32.000Z",
+          "wordCount": 1024,
+          "title": "The RTK Query, API Splitting Approach, and the Nuances of \"Making Life Simpler\""
+        },
+        {
+          "id": "https://hackernoon.com/what-is-dwell-time-and-why-does-it-matter-for-an-seo-strategy?source=rss",
+          "author": "Clay Kramer",
+          "description": "Take your SEO efforts to a new level in 2022!",
+          "link": "https://hackernoon.com/what-is-dwell-time-and-why-does-it-matter-for-an-seo-strategy?source=rss",
+          "publishedOn": "2021-12-31T04:09:17.000Z",
+          "wordCount": 2055,
+          "title": "What is 'Dwell Time' and Why Does it Matter for an SEO Strategy?"
+        },
+        {
+          "id": "https://hackernoon.com/when-to-use-a-relational-non-relational-or-graph-database?source=rss",
+          "author": "Tetiana Stoyko",
+          "description": "Graph databases are anticipated to surpass other types of databases, especially the still-dominant relational database.",
+          "link": "https://hackernoon.com/when-to-use-a-relational-non-relational-or-graph-database?source=rss",
+          "publishedOn": "2021-12-31T04:04:23.000Z",
+          "wordCount": 1090,
+          "title": "When to Use a Relational, Non-Relational, or Graph Database"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-write-smart-contracts-on-bitcoin?source=rss",
+          "author": "Allan Mang'eni",
+          "description": "How smart are 'smart contracts,' really?",
+          "link": "https://hackernoon.com/how-to-write-smart-contracts-on-bitcoin?source=rss",
+          "publishedOn": "2021-12-31T02:49:49.000Z",
+          "wordCount": 1068,
+          "title": "How to Write Smart Contracts on Bitcoin"
+        },
+        {
+          "id": "https://hackernoon.com/is-remote-tech-talent-a-solution-to-the-great-resignation?source=rss",
+          "author": "Kate Tsurkan",
+          "description": "The American workforce is leaving in droves, and companies are struggling to adapt.",
+          "link": "https://hackernoon.com/is-remote-tech-talent-a-solution-to-the-great-resignation?source=rss",
+          "publishedOn": "2021-12-31T02:16:02.000Z",
+          "wordCount": 2112,
+          "title": "Is Remote Tech Talent a Solution to 'The Great Resignation'?"
+        },
+        {
+          "id": "https://hackernoon.com/top-15-ideas-for-react-apps-that-web-devs-can-build-in-2022?source=rss",
+          "author": "kat",
+          "description": "Choose one of these React project ideas and build your next React application in 2022!",
+          "link": "https://hackernoon.com/top-15-ideas-for-react-apps-that-web-devs-can-build-in-2022?source=rss",
+          "publishedOn": "2021-12-30T23:58:59.000Z",
+          "wordCount": 2958,
+          "title": "Top 15 Ideas for React Apps that Web Devs Can Build in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/a-russian-degens-guide-to-making-moni?source=rss",
+          "author": "Crypto Fireside",
+          "description": "In this most recent Crypto Fireside interview, we chat to Garri Gabrelian from Moni about startups, his startup, defi degen stuff, and a whole lot more...",
+          "link": "https://hackernoon.com/a-russian-degens-guide-to-making-moni?source=rss",
+          "publishedOn": "2021-12-30T23:50:13.000Z",
+          "wordCount": 972,
+          "title": "A Russian Degen's Guide to Making Moni"
+        },
+        {
+          "id": "https://hackernoon.com/why-layer-2-solutions-will-take-over-in-2022?source=rss",
+          "author": "Ekijah Jonah",
+          "description": "Ethereum traded off decentralization for security and scalability. Developers came up with a slew of innovations collectively known as layer two solutions.",
+          "link": "https://hackernoon.com/why-layer-2-solutions-will-take-over-in-2022?source=rss",
+          "publishedOn": "2021-12-30T23:47:24.000Z",
+          "wordCount": 1001,
+          "title": "Why Layer 2 Solutions Will Take Over in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/the-developers-new-best-friend-codiga-coding-assistant?source=rss",
+          "author": "Julien",
+          "description": "How to share and import safe and secure code recipes within your IDE with the help of a Coding Assistant, making it easier for programmers to do their work.",
+          "link": "https://hackernoon.com/the-developers-new-best-friend-codiga-coding-assistant?source=rss",
+          "publishedOn": "2021-12-30T23:45:59.000Z",
+          "wordCount": 981,
+          "title": "The Developer's New Best Friend: Codiga Coding Assistant"
+        },
+        {
+          "id": "https://hackernoon.com/meet-the-496-year-old-vampire-that-started-selling-nfts?source=rss",
+          "author": "Crypto Fireside",
+          "description": "In this latest Crypto Fireside chat (12) we talk to artistic legend Smokey Robert Miles AKA Count Smokula about his life and his most recent venture, NFTs.",
+          "link": "https://hackernoon.com/meet-the-496-year-old-vampire-that-started-selling-nfts?source=rss",
+          "publishedOn": "2021-12-30T23:45:04.000Z",
+          "wordCount": 966,
+          "title": "Meet The 496 Year Old Vampire That Started Selling NFTs"
+        },
+        {
+          "id": "https://hackernoon.com/a-timeless-business-lesson-about-nepotism-and-meritocracy?source=rss",
+          "author": "Michael Brooks",
+          "description": "I’ve been an entrepreneur all my life, and I teach my children by personal example. Here's how?",
+          "link": "https://hackernoon.com/a-timeless-business-lesson-about-nepotism-and-meritocracy?source=rss",
+          "publishedOn": "2021-12-30T23:41:26.000Z",
+          "wordCount": 1964,
+          "title": "A Timeless Business Lesson About Nepotism and Meritocracy"
+        },
+        {
+          "id": "https://hackernoon.com/why-are-cryptopunks-so-expensive-and-what-will-happen-to-them-in-2022?source=rss",
+          "author": "Sergei Khitrov",
+          "description": "In 2021, NFTs' popularity skyrocketed. One of the most popular NFT collections is CryptoPunks. But why it's so expensive, and what will happen to them in 2022?",
+          "link": "https://hackernoon.com/why-are-cryptopunks-so-expensive-and-what-will-happen-to-them-in-2022?source=rss",
+          "publishedOn": "2021-12-30T23:38:58.000Z",
+          "wordCount": 2057,
+          "title": "Why Are CryptoPunks So Expensive and What Will Happen to Them in 2022?"
+        },
         {
           "id": "https://hackernoon.com/forza-horizon-5-cars-guide-how-to-build-and-tune-for-optimal-road-race-performance?source=rss",
           "author": "Matt Skilton",
@@ -4984,6 +5164,15 @@
           "publishedOn": "2021-12-23T05:37:32.000Z",
           "wordCount": 982,
           "title": "Portable Gaming Monitors"
+        },
+        {
+          "id": "https://hackernoon.com/budget-gaming-laptops?source=rss",
+          "author": "Games Harden",
+          "description": "Check out these top reviews of the best budget gaming laptops in 2021, accompanied by a buying guide to ensure that you choose the right one for your needs.",
+          "link": "https://hackernoon.com/budget-gaming-laptops?source=rss",
+          "publishedOn": "2021-12-23T05:19:08.000Z",
+          "wordCount": 969,
+          "title": "Budget Gaming Laptops"
         },
         {
           "id": "https://hackernoon.com/video-game-consoles?source=rss",
@@ -14758,213 +14947,6 @@
           "publishedOn": "2021-10-03T16:20:21.000Z",
           "wordCount": 1208,
           "title": "My Development Proposals For TheNewBoston: Payment Gateway and  Sidechain"
-        },
-        {
-          "id": "https://hackernoon.com/unlocking-the-power-of-artificial-intelligence-in-the-insurance-industry?source=rss",
-          "author": "Henry Bell",
-          "description": "Today, artificial intelligence (AI) has barely begun to scratch the surface of the insurance sector. Here are a few of the most AI-friendly applications.",
-          "link": "https://hackernoon.com/unlocking-the-power-of-artificial-intelligence-in-the-insurance-industry?source=rss",
-          "publishedOn": "2021-10-03T09:28:54.000Z",
-          "wordCount": 1731,
-          "title": "Unlocking the Power of Artificial Intelligence in the Insurance Industry"
-        },
-        {
-          "id": "https://hackernoon.com/attandck-vs-d3fend-get-everyone-on-the-same-page?source=rss",
-          "author": "Zen Chan",
-          "description": "Recently MITRE Engenuity announced significant innovations helping cybersecurity professionals to work under the same language.",
-          "link": "https://hackernoon.com/attandck-vs-d3fend-get-everyone-on-the-same-page?source=rss",
-          "publishedOn": "2021-10-03T09:24:49.000Z",
-          "wordCount": 1811,
-          "title": "ATT&CK vs. D3FEND - Get Everyone On the Same Page"
-        },
-        {
-          "id": "https://hackernoon.com/store-api-credentials-safely-obfuscation-before-encryption-is-key?source=rss",
-          "author": "Miguel",
-          "description": "How to keep API secrets and keep peace of mind.",
-          "link": "https://hackernoon.com/store-api-credentials-safely-obfuscation-before-encryption-is-key?source=rss",
-          "publishedOn": "2021-10-03T08:35:51.000Z",
-          "wordCount": 794,
-          "title": "Store API Credentials Safely: Obfuscation Before Encryption is Key"
-        },
-        {
-          "id": "https://hackernoon.com/create-zoom-transition-animations-in-react-and-framer-motion-a-how-to-guide?source=rss",
-          "author": "Parmeet Singh Asija",
-          "description": "This article aims to explain, how we could create a zoom page transition animation effect for a gallery web application using React & Framer Motion.",
-          "link": "https://hackernoon.com/create-zoom-transition-animations-in-react-and-framer-motion-a-how-to-guide?source=rss",
-          "publishedOn": "2021-10-03T08:31:40.000Z",
-          "wordCount": 790,
-          "title": "Create Zoom Transition Animations in React and Framer Motion: A How-To Guide"
-        },
-        {
-          "id": "https://hackernoon.com/graphql-vs-rest-how-to-choose-one-over-the-other?source=rss",
-          "author": "Fedor Yaremenko",
-          "description": "We will look at REST and GraphQL, consider their principles and weigh the pros and cons of both technologies.",
-          "link": "https://hackernoon.com/graphql-vs-rest-how-to-choose-one-over-the-other?source=rss",
-          "publishedOn": "2021-10-03T08:29:00.000Z",
-          "wordCount": 852,
-          "title": "GraphQL vs REST: How To Choose One Over The Other"
-        },
-        {
-          "id": "https://hackernoon.com/how-to-connect-event-bridges-across-2-aws-accounts?source=rss",
-          "author": "Ben Force",
-          "description": "Connecting Event Bridges Across AWS Accounts: A How-To Guide",
-          "link": "https://hackernoon.com/how-to-connect-event-bridges-across-2-aws-accounts?source=rss",
-          "publishedOn": "2021-10-03T08:26:14.000Z",
-          "wordCount": 808,
-          "title": "Connecting Event Bridges Across AWS Accounts: A How-To Guide"
-        },
-        {
-          "id": "https://hackernoon.com/python-cheatsheet-mock-object-library?source=rss",
-          "author": "Rodolfo Campos",
-          "description": "Python's simplicity permeates it all, and tests are not an exception. I left behind -temporarily- my JUnit and Mockito days by pytest and unittest.",
-          "link": "https://hackernoon.com/python-cheatsheet-mock-object-library?source=rss",
-          "publishedOn": "2021-10-03T08:19:24.000Z",
-          "wordCount": 1149,
-          "title": "Python Cheatsheet: Mock Object Library"
-        },
-        {
-          "id": "https://hackernoon.com/the-all-purpose-programmer-episode-1-hello-world?source=rss",
-          "author": "Jacob Landry",
-          "description": "I love to learn, I love to code. I'm on a journey to learn (at least the basics of) several new languages to enhance my resume. Join me!",
-          "link": "https://hackernoon.com/the-all-purpose-programmer-episode-1-hello-world?source=rss",
-          "publishedOn": "2021-10-03T08:15:40.000Z",
-          "wordCount": 851,
-          "title": "The All-Purpose Programmer: Episode 1 - \"Hello World\""
-        },
-        {
-          "id": "https://hackernoon.com/learn-the-blockchain-basics-part-9-blockchain-around-the-world?source=rss",
-          "author": "Mickey Maler",
-          "description": "The blockchain is a cryptography-focused architecture based on the internet protocol, powered by networked computer servers that do not need to be set up by developers.",
-          "link": "https://hackernoon.com/learn-the-blockchain-basics-part-9-blockchain-around-the-world?source=rss",
-          "publishedOn": "2021-10-03T08:11:56.000Z",
-          "wordCount": 4991,
-          "title": "Learn the Blockchain Basics - Part 9: Blockchain Around the World"
-        },
-        {
-          "id": "https://hackernoon.com/how-to-find-your-number-in-a-sorted-list-binary-search-explained?source=rss",
-          "author": "Icodes",
-          "description": "Binary search works exactly like finding a word in a dictionary.",
-          "link": "https://hackernoon.com/how-to-find-your-number-in-a-sorted-list-binary-search-explained?source=rss",
-          "publishedOn": "2021-10-03T08:02:27.000Z",
-          "wordCount": 820,
-          "title": "How to Find Your Number in a Sorted List: Binary Search Explained"
-        },
-        {
-          "id": "https://hackernoon.com/stablecoins-an-introduction?source=rss",
-          "author": "Shubham Dusane",
-          "description": "You might have heard about stable coins. Here's a first look at how they are designed relative to other kinds of cryptocurrencies, how they work and more.",
-          "link": "https://hackernoon.com/stablecoins-an-introduction?source=rss",
-          "publishedOn": "2021-10-03T07:41:58.000Z",
-          "wordCount": 770,
-          "title": "Stablecoins: An Introduction"
-        },
-        {
-          "id": "https://hackernoon.com/how-machines-see-the-world-7-use-cases-of-object-detection?source=rss",
-          "author": "Algoscale",
-          "description": "Object detection is a product of Computer Vision and is a very effective technique to precisely locate items of different shapes and sizes and label them.",
-          "link": "https://hackernoon.com/how-machines-see-the-world-7-use-cases-of-object-detection?source=rss",
-          "publishedOn": "2021-10-03T07:12:03.000Z",
-          "wordCount": 777,
-          "title": "How Machines See the World: 7 Use Cases of Object Detection"
-        },
-        {
-          "id": "https://hackernoon.com/meet-the-blockchain-looking-to-put-an-end-to-resource-exhaustion?source=rss",
-          "author": "Ray Wu",
-          "description": "Network resource exhaustion can grind the entire blockchain down to a halt. As more people begin to rely on and use blockchain technology in their everyday live",
-          "link": "https://hackernoon.com/meet-the-blockchain-looking-to-put-an-end-to-resource-exhaustion?source=rss",
-          "publishedOn": "2021-10-03T05:57:48.000Z",
-          "wordCount": 776,
-          "title": "Meet The Blockchain Looking To Put An End to Resource Exhaustion"
-        },
-        {
-          "id": "https://hackernoon.com/battletabs-proves-the-potential-of-browser-based-games?source=rss",
-          "author": "Limarc Ambalina",
-          "description": "BattleTabs is a video game that started as a Chrome plugin, which shows the potential of browser-based games in today's market.",
-          "link": "https://hackernoon.com/battletabs-proves-the-potential-of-browser-based-games?source=rss",
-          "publishedOn": "2021-10-03T05:03:59.000Z",
-          "wordCount": 2908,
-          "title": "BattleTabs Proves the Potential of Browser-Based Games"
-        },
-        {
-          "id": "https://hackernoon.com/api-development-build-a-predictive-machine-learning-site-with-react-and-python-part-2?source=rss",
-          "author": "Darlington Gospel",
-          "description": "Sequel to the last article: We will be building a machine learning API that will predict whether a candidate will or will not be hired.",
-          "link": "https://hackernoon.com/api-development-build-a-predictive-machine-learning-site-with-react-and-python-part-2?source=rss",
-          "publishedOn": "2021-10-03T02:38:46.000Z",
-          "wordCount": 841,
-          "title": "API Development: Build a Predictive Machine Learning Site With React and Python (Part 2)"
-        },
-        {
-          "id": "https://hackernoon.com/model-development-build-a-predictive-machine-learning-site-with-react-and-python-part-1?source=rss",
-          "author": "Darlington Gospel",
-          "description": "We will be building a machine learning model that will predict whether a candidate will or will not be hired based on his or her credentials.",
-          "link": "https://hackernoon.com/model-development-build-a-predictive-machine-learning-site-with-react-and-python-part-1?source=rss",
-          "publishedOn": "2021-10-03T02:06:39.000Z",
-          "wordCount": 842,
-          "title": "Model Development: Build a Predictive Machine Learning Site With React and Python [Part 1]"
-        },
-        {
-          "id": "https://hackernoon.com/top-devops-myths-debunked-devoops-part-2?source=rss",
-          "author": "newsletters",
-          "description": "This is the second part of our series related to popular DevOps misconceptions and falsehoods.",
-          "link": "https://hackernoon.com/top-devops-myths-debunked-devoops-part-2?source=rss",
-          "publishedOn": "2021-10-03T01:26:29.000Z",
-          "wordCount": 809,
-          "title": "Top DevOps Myths Debunked\n[DevOops - Part 2]"
-        },
-        {
-          "id": "https://hackernoon.com/top-devops-myths-debunked-devoops-part-1?source=rss",
-          "author": "newsletters",
-          "description": "Today, we are debunking some of the most popular myths about DevOps.",
-          "link": "https://hackernoon.com/top-devops-myths-debunked-devoops-part-1?source=rss",
-          "publishedOn": "2021-10-03T01:19:29.000Z",
-          "wordCount": 774,
-          "title": "Top DevOps Myths Debunked - [DevOops Part 1]"
-        },
-        {
-          "id": "https://hackernoon.com/how-to-effectively-deliver-feedback-to-your-team-members?source=rss",
-          "author": "Patrick McCarthy",
-          "description": "Make feedback normal. Not a performance review. Delivering relevant feedback in the right manner is a top skill. Once mastered, it benefits the entire team.",
-          "link": "https://hackernoon.com/how-to-effectively-deliver-feedback-to-your-team-members?source=rss",
-          "publishedOn": "2021-10-02T20:15:33.000Z",
-          "wordCount": 2057,
-          "title": "How to Effectively Deliver Feedback to Your Team Members"
-        },
-        {
-          "id": "https://hackernoon.com/how-to-increase-instagram-engagement-through-meaningful-interaction?source=rss",
-          "author": "Danie Green",
-          "description": "This Article Is About How To Optimize your Instagram Profile And Get More Engagement",
-          "link": "https://hackernoon.com/how-to-increase-instagram-engagement-through-meaningful-interaction?source=rss",
-          "publishedOn": "2021-10-02T17:36:39.000Z",
-          "wordCount": 1667,
-          "title": "How to Increase Instagram Engagement Through Meaningful Interaction"
-        },
-        {
-          "id": "https://hackernoon.com/on-building-a-crypto-trading-platform-with-jennifer-co-founder-of-coinstore?source=rss",
-          "author": null,
-          "description": "In with the new, out with the old. Coinstore is the crypto exchange for the new generation. Learn what their co-founder, Jennifer, has to say.",
-          "link": "https://hackernoon.com/on-building-a-crypto-trading-platform-with-jennifer-co-founder-of-coinstore?source=rss",
-          "publishedOn": "2021-10-02T16:46:34.000Z",
-          "wordCount": 740,
-          "title": "On Building a Crypto Trading Platform with Jennifer, Co-founder of Coinstore"
-        },
-        {
-          "id": "https://hackernoon.com/how-to-navigate-digital-transformation-as-a-mid-cap-bank?source=rss",
-          "author": "Andrey Koptelov",
-          "description": "In the banking sector, digital transformation is long overdue. It’s the pandemic that caused a rapid spike in customers’ demand for digital channels.",
-          "link": "https://hackernoon.com/how-to-navigate-digital-transformation-as-a-mid-cap-bank?source=rss",
-          "publishedOn": "2021-10-02T14:13:01.000Z",
-          "wordCount": 1632,
-          "title": "How to Navigate Digital Transformation as a Mid-Cap Bank"
-        },
-        {
-          "id": "https://hackernoon.com/improving-iot-device-security-prevention-from-zero-day-attacks?source=rss",
-          "author": "Check Point Software",
-          "description": "Security for the “Internet of Things” (or IoT) is still relatively new to a majority of organizations.",
-          "link": "https://hackernoon.com/improving-iot-device-security-prevention-from-zero-day-attacks?source=rss",
-          "publishedOn": "2021-10-02T13:52:16.000Z",
-          "wordCount": 2277,
-          "title": "Improving IoT Device Security Prevention from Zero-Day Attacks"
         }
       ]
     },
@@ -15904,16 +15886,6 @@
           "wordCount": null,
           "title": "Teaching Kids Programming – Introduction to Hashing Function",
           "itunes": {}
-        },
-        {
-          "id": "https://helloacm.com/?p=146964",
-          "author": "ACMer",
-          "description": "You are given a 0-indexed 1-dimensional (1D) integer array original, and two integers, m and n. You are tasked with creating a 2-dimensional (2D) array with m rows and n columns using all the...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
-          "link": "https://helloacm.com/teaching-kids-programming-convert-1-d-array-to-2d-matrix-reshape-algorithm/",
-          "publishedOn": "2021-10-02T20:00:52.000Z",
-          "wordCount": null,
-          "title": "Teaching Kids Programming – Convert 1-D Array to 2D Matrix (Reshape Algorithm)",
-          "itunes": {}
         }
       ]
     },
@@ -15922,6 +15894,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=513786",
+          "author": "Dan Maloney",
+          "description": "Bicycle generator technology has advanced far beyond the bottle dynamos of years past, which as often as not would introduce enough drag when engaged to stall the bike. Granted, it’s …read more",
+          "link": "https://hackaday.com/2021/12/31/battery-less-bike-computer-gets-power-and-data-from-the-wheels/",
+          "publishedOn": "2022-01-01T00:00:00.000Z",
+          "wordCount": 1232,
+          "title": "Battery-less Bike Computer Gets Power and Data from the Wheels"
+        },
+        {
+          "id": "https://hackaday.com/?p=513828",
+          "author": "Jonathan Bennett",
+          "description": "In the past two weeks, Log4j has continued to drive security news, with more vulnerable platforms being found, and additional CVEs coming out. First up is work done by TrendMicro, …read more",
+          "link": "https://hackaday.com/2021/12/31/this-week-in-security-the-log4j-that-wont-go-away-webos-and-more/",
+          "publishedOn": "2021-12-31T21:00:22.000Z",
+          "wordCount": 2690,
+          "title": "This Week in Security: The Log4j That Won’t Go Away, WebOS, and More"
+        },
+        {
+          "id": "https://hackaday.com/?p=513831",
+          "author": "Dave Rowntree",
+          "description": "[Renzo Mischianti] got himself a Chinese 3D printer, specifically a FlyingBear Ghost 5. (Cracking name, huh?) He was more than a little irritated with the fact that whilst the controller, …read more",
+          "link": "https://hackaday.com/2021/12/31/3d-printering-adding-a-web-interface-where-there-was-none-before/",
+          "publishedOn": "2021-12-31T18:00:00.000Z",
+          "wordCount": 1309,
+          "title": "3D Printering: Adding A Web Interface Where There Was None Before"
+        },
+        {
+          "id": "https://hackaday.com/?p=513960",
+          "author": "Elliot Williams",
+          "description": "Our two-week-long winter hibernation continues on the Podcast, but we’ll be coming at you next week with guest host Tom Nardi. We’ve got two weeks full of hacks to cover, …read more",
+          "link": "https://hackaday.com/2021/12/31/hackaday-podcast-wishes-you-happy-new-year/",
+          "publishedOn": "2021-12-31T17:00:31.000Z",
+          "wordCount": 997,
+          "title": "Hackaday Podcast Wishes You Happy New Year"
+        },
+        {
+          "id": "https://hackaday.com/?p=513337",
+          "author": "Jenny List",
+          "description": "The cyberdeck  trend has evolved to a relatively straightforward formula: take a desktop computer and strip it to its barest essentials of screen , PCB, and input device, before clothing …read more",
+          "link": "https://hackaday.com/2021/12/31/a-tidy-cyberdeck-that-you-could-take-anywhere/",
+          "publishedOn": "2021-12-31T12:00:00.000Z",
+          "wordCount": 1373,
+          "title": "A Tidy Cyberdeck That You Could Take Anywhere."
+        },
+        {
+          "id": "https://hackaday.com/?p=513904",
+          "author": "Jenny List",
+          "description": "The default for any control project here in 2019 was to reach for a microcontroller. Such are their low cost and ubiquity that they can be used to replicate what …read more",
+          "link": "https://hackaday.com/2021/12/31/the-no-mcu-fan-controller/",
+          "publishedOn": "2021-12-31T09:00:00.000Z",
+          "wordCount": 2761,
+          "title": "The No-MCU Fan Controller"
+        },
+        {
+          "id": "https://hackaday.com/?p=513866",
+          "author": "Chris Lott",
+          "description": "If you thought programming your 1990s VCR was rough, wait until you see this Russian telephone autodialer that [Mike] took apart over on the mikeselectricalstuff YouTube channel (video below the break). [Mike] …read more",
+          "link": "https://hackaday.com/2021/12/30/threaded-wires-save-phone-numbers/",
+          "publishedOn": "2021-12-31T06:00:20.000Z",
+          "wordCount": 2488,
+          "title": "Threaded Wires Save Phone Numbers"
+        },
         {
           "id": "https://hackaday.com/?p=513792",
           "author": "Ryan Flowers",
@@ -21492,69 +21527,6 @@
           "publishedOn": "2021-10-03T14:00:49.000Z",
           "wordCount": 2224,
           "title": "Supercapacitor E-Bike With DIY Motor"
-        },
-        {
-          "id": "https://hackaday.com/?p=497022",
-          "author": "Jenny List",
-          "description": "When we use an electronic component, we have some idea of what goes on inside it. We know that inside a transistor there’s a little piece of semiconductor with a …read more",
-          "link": "https://hackaday.com/2021/10/03/what-goes-into-a-high-voltage-diode/",
-          "publishedOn": "2021-10-03T11:00:47.000Z",
-          "wordCount": 1493,
-          "title": "What Goes Into a High Voltage Diode?"
-        },
-        {
-          "id": "https://hackaday.com/?p=497348",
-          "author": "Lewin Day",
-          "description": "These days, supply chain factors and high demand have made it incredibly difficult to lay one’s hands on a GPU. However, if you’re into older computers, you might find it …read more",
-          "link": "https://hackaday.com/2021/10/03/some-pleasing-experiments-in-8-bit-video-cards/",
-          "publishedOn": "2021-10-03T08:00:48.000Z",
-          "wordCount": 1744,
-          "title": "Some Pleasing Experiments in 8-Bit Video Cards"
-        },
-        {
-          "id": "https://hackaday.com/?p=499240",
-          "author": "Kristina Panos",
-          "description": "Got a couple of old DVD-RW drives lying around, just collecting dust? Of course you do. If not, you likely know where to find a pair so you can build …read more",
-          "link": "https://hackaday.com/2021/10/02/mini-laser-engraver-could-carve-out-a-place-on-your-desk/",
-          "publishedOn": "2021-10-03T05:00:15.000Z",
-          "wordCount": 1598,
-          "title": "Mini Laser Engraver Could Carve Out a Place on Your Desk"
-        },
-        {
-          "id": "https://hackaday.com/?p=498975",
-          "author": "Jenny List",
-          "description": "Over the last couple few decades there has been a great shift in electric lighting, first towards more compact and efficient fluorescent lights, and then towards LED bulbs. The old …read more",
-          "link": "https://hackaday.com/2021/10/02/a-glowing-potato-peeler-makes-a-nernst-lamp/",
-          "publishedOn": "2021-10-02T23:00:05.000Z",
-          "wordCount": 1121,
-          "title": "A Glowing Potato Peeler Makes A Nernst Lamp"
-        },
-        {
-          "id": "https://hackaday.com/?p=499730",
-          "author": "Jenny List",
-          "description": "With mass vaccination programmes and careful application of public health measures it almost feels for some of us as though the pandemic is under control. Any thoughts of it being …read more",
-          "link": "https://hackaday.com/2021/10/02/2021-chaos-communication-congress-cancelled/",
-          "publishedOn": "2021-10-02T20:00:14.000Z",
-          "wordCount": 1239,
-          "title": "2021 Chaos Communication Congress Cancelled"
-        },
-        {
-          "id": "https://hackaday.com/?p=499202",
-          "author": "Danie Conradie",
-          "description": "For a long time fixed wing VTOL drones were tricky to work with, but with the availability of open source flight control and autopilot software this has changed. To make …read more",
-          "link": "https://hackaday.com/2021/10/02/3d-printed-vtol-craft-can-land-and-recharge-itself-and-team-up-with-other-drones/",
-          "publishedOn": "2021-10-02T17:01:50.000Z",
-          "wordCount": 1453,
-          "title": "3D Printed VTOL Craft Can Land And Recharge Itself, And Team Up With Other Drones"
-        },
-        {
-          "id": "https://hackaday.com/?p=499610",
-          "author": "Elliot Williams",
-          "description": "Halloween is basically built for the hacker. Besides the obvious fabrication of absurd costumes, there’s also the chance to showcase your skills, be they mechanical, audio, or video. It’s also …read more",
-          "link": "https://hackaday.com/2021/10/02/get-yer-halloween-on/",
-          "publishedOn": "2021-10-02T14:00:47.000Z",
-          "wordCount": 1346,
-          "title": "Get Yer Halloween On!"
         }
       ]
     },
@@ -21563,6 +21535,46 @@
       "feedUrl": "http://rss.sciam.com/scientificamerican-global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "CB01E235-0DEC-46C7-B8D8568851E65C05",
+          "author": "Michael D. Lemonick",
+          "description": "Research is a self-correcting process, but that fact is often lost on the public\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/sometimes-science-is-wrong/",
+          "publishedOn": "2021-12-31T17:00:00.000Z",
+          "wordCount": null,
+          "title": "Sometimes Science Is Wrong",
+          "itunes": {}
+        },
+        {
+          "id": "047022F9-BC54-499D-B9B8045E09FCA523",
+          "author": "Charles F. Zorumski",
+          "description": "In search of answers, a neurobiologist looks to rodents\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/what-causes-alcohol-induced-blackouts/",
+          "publishedOn": "2021-12-31T16:00:00.000Z",
+          "wordCount": null,
+          "title": "What Causes Alcohol-Induced Blackouts?",
+          "itunes": {}
+        },
+        {
+          "id": "103ECF7A-035B-4F3A-88AB3BB556E55CA4",
+          "author": "Amy Brady",
+          "description": "Recommendations from the editors of Scientific American\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/a-near-future-plague-the-neuroscience-of-navigation-and-more/",
+          "publishedOn": "2021-12-31T14:00:00.000Z",
+          "wordCount": null,
+          "title": "A Near-Future Plague, the Neuroscience of Navigation, and More",
+          "itunes": {}
+        },
+        {
+          "id": "6DF6383C-E6E9-4FDB-947E9CFC77D40B42",
+          "author": "Connie Chang",
+          "description": "Such proteins can be woven into resilient fibers\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/bacterial-builders-churn-out-lengthy-muscle-proteins/",
+          "publishedOn": "2021-12-31T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Bacterial Builders Churn Out Lengthy Muscle Proteins",
+          "itunes": {}
+        },
         {
           "id": "BD3626C2-EEDE-4F43-B14C395D2176DC32",
           "author": "Jim Daley",
@@ -26484,26 +26496,6 @@
           "wordCount": null,
           "title": "To Beat the Heat, Phoenix Paints Its Streets Gray",
           "itunes": {}
-        },
-        {
-          "id": "BCD48FCF-8F7F-4943-AE4912CAD0955012",
-          "author": "Avi Loeb",
-          "description": "Humanity’s greatest achievement might be building our successors\n\r\n\r\n-- Read more on ScientificAmerican.com",
-          "link": "https://www.scientificamerican.com/article/microbes-natural-intelligence-and-artificial-intelligence/",
-          "publishedOn": "2021-10-02T14:00:00.000Z",
-          "wordCount": null,
-          "title": "Microbes, Natural Intelligence and Artificial Intelligence",
-          "itunes": {}
-        },
-        {
-          "id": "67BF1D25-AB64-45AC-ACB252B1938A7A93",
-          "author": "Tess Joosse",
-          "description": "Top news from around the world\n\r\n\r\n-- Read more on ScientificAmerican.com",
-          "link": "https://www.scientificamerican.com/article/in-case-you-missed-it52/",
-          "publishedOn": "2021-10-02T13:00:00.000Z",
-          "wordCount": null,
-          "title": "In Case You Missed It",
-          "itunes": {}
         }
       ]
     },
@@ -26512,6 +26504,15 @@
       "feedUrl": "https://devops.com/feed/",
       "siteUrl": "https://devops.com",
       "articles": [
+        {
+          "id": "https://devops.com/?p=141015",
+          "author": "ROELBOB",
+          "description": "As we close out 2021, we at DevOps.com wanted to highlight the most popular articles of the year. Following is the twenty-second in our series of the Best of 2021.\nThe post Best of 2021 – Scopes of Knowledge appeared first on DevOps.com.",
+          "link": "https://devops.com/scopes-of-knowledge/",
+          "publishedOn": "2021-12-31T07:00:30.000Z",
+          "wordCount": 504,
+          "title": "Best of 2021 – Scopes of Knowledge"
+        },
         {
           "id": "https://devops.com/?p=141387",
           "author": "Martin Soto",
@@ -29140,6 +29141,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66435",
+          "author": "Nathan Yau",
+          "description": "I looked back and picked my favorite projects for 2021. It was a long year.\nTags: best-of",
+          "link": "https://flowingdata.com/2021/12/31/best-of-2021/",
+          "publishedOn": "2021-12-31T09:30:35.000Z",
+          "wordCount": 999,
+          "title": "Best Data Visualization Projects of 2021"
+        },
         {
           "id": "https://flowingdata.com/?p=66419",
           "author": "Nathan Yau",
