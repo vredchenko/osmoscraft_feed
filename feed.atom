@@ -2,10 +2,314 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2022-01-04T00:45:06.037Z</updated>
+    <updated>2022-01-05T00:47:13.568Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UV Resin Perfects 3D Print, But Not How You Think]]></title>
+        <id>https://hackaday.com/?p=514045</id>
+        <link href="https://hackaday.com/2022/01/04/uv-resin-perfects-3d-print-but-not-how-you-think/"/>
+        <updated>2022-01-05T00:00:45.000Z</updated>
+        <summary type="html"><![CDATA[At this point, everyone knows that the print quality you’ll get from even an entry level UV resin printer far exceeds what’s possible for filament-based fused deposition modeling (FDM) machines. …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Handle Async Callbacks in JavaScript...Without Callbacks?]]></title>
+        <id>61d392f6d2d9de084285b76f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-handle-async-callbacks-in-javascript/"/>
+        <updated>2022-01-04T23:38:48.000Z</updated>
+        <summary type="html"><![CDATA[Noodling about on Discord today, the same question came up a few times on a few different servers. I thought it was a great question, and it seems my brain doesn't work quite the way others might expect.  Here's the question: "So I have a fetch function, and I'm doing]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Better Git Commit Messages – A Step-By-Step Guide]]></title>
+        <id>61d1c911a700150888933fb8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/"/>
+        <updated>2022-01-04T22:34:45.000Z</updated>
+        <summary type="html"><![CDATA[When first introduced to Git, it's typical for developers to feel uncomfortable with the process.  You might feel uncertainty when encountering the Git commit message, unsure how to properly summarize the changes you've made and why you've made them. But the earlier in your career you can develop good committing]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Open Visual Studio Code From Your Terminal]]></title>
+        <id>61d3917cd2d9de084285b707</id>
+        <link href="https://www.freecodecamp.org/news/how-to-open-visual-studio-code-from-your-terminal/"/>
+        <updated>2022-01-04T21:13:11.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we'll go over how you can open the VS Code text editor (Visual Studio Code) from your Mac terminal.  Opening your text editor from your terminal is a quick, easy way to open up new projects and begin coding faster.  How to Download and Open VS CodeThe]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Growing Spectacular Gem-Like Crystals from Rust and Simple Ingredients]]></title>
+        <id>https://hackaday.com/?p=514442</id>
+        <link href="https://hackaday.com/2022/01/04/growing-spectacular-gem-like-crystals-from-rust-and-simple-ingredients/"/>
+        <updated>2022-01-04T21:00:30.000Z</updated>
+        <summary type="html"><![CDATA[When we talk about crystals around here, we’re generally talking about the quartz variety used to make oscillators more stable, or perhaps ruby crystals used to make a laser. We …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should CSS Override Default Browser Styles?]]></title>
+        <id>https://css-tricks.com/?p=359880</id>
+        <link href="https://css-tricks.com/should-css-override-default-styles/"/>
+        <updated>2022-01-04T19:50:18.000Z</updated>
+        <summary type="html"><![CDATA[CSS overrides can change the default look of almost anything:
+You can use CSS to override what a checkbox or radio button looks like, but if you don’t, the checkbox will look like a default checkbox on your operating system 
+…
+Should CSS Override Default Browser Styles? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modular Design Enables Huge Ping-Pong Ball LED Displays]]></title>
+        <id>https://hackaday.com/?p=514227</id>
+        <link href="https://hackaday.com/2022/01/04/modular-design-enables-huge-ping-pong-ball-led-displays/"/>
+        <updated>2022-01-04T19:30:49.000Z</updated>
+        <summary type="html"><![CDATA[Ping-pong balls have many uses: apart from playing table tennis, they have been used for countless art projects, science experiments, and even to raise ships from the bottom of the …read more]]></summary>
+        <author>
+            <name>Robin Kearey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Germany Lays a Path to Quitting Coal, But the U.S. May Not Follow]]></title>
+        <id>24317230-ED46-4148-AF7008E838559D41</id>
+        <link href="https://www.scientificamerican.com/article/germany-lays-a-path-to-quitting-coal-but-the-u-s-may-not-follow/"/>
+        <updated>2022-01-04T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The country has focused on economic support for coal-dependent communities to end mining by 2030
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Sara Schonhardt, E&amp;E News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Tag in HTML – What is Metadata and Meta Description Example]]></title>
+        <id>61c1ad52755c160824908a23</id>
+        <link href="https://www.freecodecamp.org/news/meta-tag-in-html-what-is-metadata-and-meta-description-example/"/>
+        <updated>2022-01-04T18:52:11.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn what meta tags are in HTML and how to use them. Then we'll go over some of the most important meta tags that you need to include in every new HTML project.  Let's get started!  How to set up an HTML project When setting up]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analysis of Facebook groups before January 6]]></title>
+        <id>https://flowingdata.com/?p=66460</id>
+        <link href="https://flowingdata.com/2022/01/04/analysis-of-facebook-groups-before-january-6/"/>
+        <updated>2022-01-04T18:22:09.000Z</updated>
+        <summary type="html"><![CDATA[The Washington Post and ProPublica analyzed Facebook group posts that disputed election results:…
+Tags: facebook, insurrection, machine learning, ProPublica, Washington Post]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LogDNA Survey Surfaces Observability ROI Concerns]]></title>
+        <id>https://devops.com/?p=148835</id>
+        <link href="https://devops.com/logdna-survey-surfaces-observability-roi-concerns/"/>
+        <updated>2022-01-04T18:01:43.000Z</updated>
+        <summary type="html"><![CDATA[A Harris Poll of 200 senior engineering professionals suggests it may be a while before most DevOps teams are able to achieve true observability in their IT environments. The survey was conducted on behalf of LogDNA, a provider of an observability platform, and found nearly three-quarters of respondents (74%) are struggling to achieve their observability […]
+The post LogDNA Survey Surfaces Observability ROI Concerns appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Mike Vizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What You Should Know Before Buying An Industrial Sewing Machine]]></title>
+        <id>https://hackaday.com/?p=512975</id>
+        <link href="https://hackaday.com/2022/01/04/what-you-should-know-before-buying-an-industrial-sewing-machine/"/>
+        <updated>2022-01-04T18:00:05.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been sewing off and on since I was a kid, and I really started to get into it about ten years ago. Even though I technically outgrew my little …read more]]></summary>
+        <author>
+            <name>Kristina Panos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Types of Software Development Training – New Data for Choosing the Best IT Career Training Resource]]></title>
+        <id>61d22dd0a700150888934505</id>
+        <link href="https://www.freecodecamp.org/news/types-of-software-development-training-new-data-for-choosing-the-best-it-career-training-resource/"/>
+        <updated>2022-01-04T17:59:53.000Z</updated>
+        <summary type="html"><![CDATA[A long, long time ago – back in late November, 2021 to be precise – I wrote "A Data Analysis of IT Career Training Tool Efficacy" to help with the difficult task of making smart career education choices.  Believe it or not, there have already been some important updates. That article began]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Beautiful Box Shadows in HTML and CSS]]></title>
+        <id>61d1a886a700150888933e3c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-beautiful-box-shadows-in-html-and-css/"/>
+        <updated>2022-01-04T16:57:11.000Z</updated>
+        <summary type="html"><![CDATA[Whenever you're designing a card in HTML, box shadows play a vital role in making the cards stand out.  Whether its a pricing page card or even an e-commerce product listing card, box shadows can make or break the look and the entire message that that cards need to convey.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Git Works Under the Hood]]></title>
+        <id>6176cded33422e07df363fa2</id>
+        <link href="https://www.freecodecamp.org/news/git-under-the-hood/"/>
+        <updated>2022-01-04T16:34:00.000Z</updated>
+        <summary type="html"><![CDATA[As developers, we all use some form of version control system, and the most popular one is Git.  A lot of us use Git, but very few know how it really works under the hood. We mostly just use it with a GUI client or the ones built into our]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Cucumber House That LEGO Built]]></title>
+        <id>https://hackaday.com/?p=513992</id>
+        <link href="https://hackaday.com/2022/01/04/the-cucumber-house-that-lego-built/"/>
+        <updated>2022-01-04T16:30:55.000Z</updated>
+        <summary type="html"><![CDATA[How far are you prepared to go to build a novelty seasonal ornament? Maybe a gingerbread house, or perhaps a bit of 3D printed glitter to hang on your Christmas …read more]]></summary>
+        <author>
+            <name>Jenny List</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Search Functionality to a Frontend Application]]></title>
+        <id>61c05f65aabf6478ea746281</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-search-to-frontend-app/"/>
+        <updated>2022-01-04T16:28:58.000Z</updated>
+        <summary type="html"><![CDATA[As a software developer, part of your job is to deliver the best user experience possible to those using your site or product.  And building a helpful and efficient search function is one way you can do this. So if you are looking for the right way to build out]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automount a Storage Partition on Startup in Linux]]></title>
+        <id>61c55981755c16082490a553</id>
+        <link href="https://www.freecodecamp.org/news/automount-a-storage-partition-on-startup-in-linux/"/>
+        <updated>2022-01-04T16:09:16.000Z</updated>
+        <summary type="html"><![CDATA[By default, Linux OS does not automount any other partition at startup other than the root and the home partition.  You can mount other partitions very easily later, but you might want to enable some kind of automount feature on startup. This means that you won't need to mount them]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Underlines Are Too Thin and Too Low in Chrome]]></title>
+        <id>https://css-tricks.com/?p=359838</id>
+        <link href="https://css-tricks.com/css-underlines-are-too-thin-and-too-low-in-chrome/"/>
+        <updated>2022-01-04T15:30:18.000Z</updated>
+        <summary type="html"><![CDATA[I’ve encountered two bugs in Chrome while testing the new CSS text-decoration-thickness and text-underline-offset properties, and I want to share them with you here in this article.
+But first, let’s acknowledge one thing:
+Default underlines are inconsistent
+Let’s add a …
+CSS Underlines Are Too Thin and Too Low in Chrome originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Šime Vidas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jetpack Features We Love and Use at CSS-Tricks]]></title>
+        <id>https://css-tricks.com/?p=360452</id>
+        <link href="https://css-tricks.com/jetpack-features-we-love-and-use-at-css-tricks/"/>
+        <updated>2022-01-04T15:28:03.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+We use and love Jetpack around here. It’s a WordPress plugin that brings a whole suite of functionality to your site ranging from security to marketing with lots of ridiculously useful stuff in between! …
+Jetpack Features We Love and Use at CSS-Tricks originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Injection of Chaos Solves Decades-Old Fluid Mystery]]></title>
+        <id>https://www.quantamagazine.org/?p=111480</id>
+        <link href="https://www.quantamagazine.org/an-injection-of-chaos-solves-decades-old-fluid-mystery-20220104/"/>
+        <updated>2022-01-04T15:14:04.000Z</updated>
+        <summary type="html"><![CDATA[In the 1960s, drillers noticed that certain fluids would firm up if they flowed too fast. Researchers have finally explained why.              
+The post An Injection of Chaos Solves Decades-Old Fluid Mystery first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Adam Mann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Painted Over But Not Forgotten: Restoring Lost Paintings With Radiation And Mathematics]]></title>
+        <id>https://hackaday.com/?p=510902</id>
+        <link href="https://hackaday.com/2022/01/04/painted-over-but-not-forgotten-restoring-lost-paintings-with-radiation-and-mathematics/"/>
+        <updated>2022-01-04T15:00:26.000Z</updated>
+        <summary type="html"><![CDATA[An intrinsic property of paintings, that makes them both wonderful and very annoying, is the fact that they are physical objects. Sometimes they survive across the ages as amazing artifacts …read more]]></summary>
+        <author>
+            <name>Maya Posch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Predict 2022: Back to the Future]]></title>
+        <id>https://devops.com/?p=148828</id>
+        <link href="https://devops.com/predict-2022-back-to-the-future/"/>
+        <updated>2022-01-04T13:00:38.000Z</updated>
+        <summary type="html"><![CDATA[After a year of innovation, rapid digital transformation efforts, new challenges and settling into a new normal, it is time to look back at all the lessons learned and look forward to the future. What does 2022 has in store for us? Will 2022 be a breakthrough year in terms of progress and opportunity? At […]
+The post Predict 2022: Back to the Future appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Veronica Haggar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Latin American Abortion Laws Hurt Health Care and the Economy--a Lesson for a Post-Roe U.S.]]></title>
+        <id>FDDA2143-73D2-4D81-ACD2C3AB0634E1D4</id>
+        <link href="https://www.scientificamerican.com/article/latin-american-abortion-laws-hurt-health-care-and-the-economy-a-lesson-for-a-post-roe-u-s/"/>
+        <updated>2022-01-04T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A region with some of the world’s most restrictive abortion laws has started to tentatively move in the opposite direction
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Emiliano Rodríguez Mega</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angel Investor Gives Open Source PnP A Massive Boost]]></title>
+        <id>https://hackaday.com/?p=514355</id>
+        <link href="https://hackaday.com/2022/01/04/angel-investor-gives-open-source-pnp-a-massive-boost/"/>
+        <updated>2022-01-04T12:00:17.000Z</updated>
+        <summary type="html"><![CDATA[We love it when an Open Source hardware project grows up and turns into a sustainable business, bootstrapped with nothing but hard work and great ideas, but it’s a really …read more]]></summary>
+        <author>
+            <name>Dave Rowntree</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prehistoric Volcanoes Heated Earth in a Global Chain Reaction]]></title>
+        <id>B004B4FB-19D0-4475-962FA3BCDAB8647E</id>
+        <link href="https://www.scientificamerican.com/article/prehistoric-volcanoes-heated-earth-in-a-global-chain-reaction/"/>
+        <updated>2022-01-04T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[New evidence suggests an origin to an exceptionally hot period in Earth’s history
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Riley Black</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the omicron numbers tell us and do not tell us]]></title>
+        <id>https://flowingdata.com/?p=66457</id>
+        <link href="https://flowingdata.com/2022/01/04/what-the-omicron-numbers-tell-us-and-do-not-tell-us/"/>
+        <updated>2022-01-04T11:43:49.000Z</updated>
+        <summary type="html"><![CDATA[May Louise Kelly for NPR spoke briefly with biostatistics professor Natalie Dean on…
+Tags: coronavirus, NPR, omicron]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IoT Developers: Get Familiar With LoRaWAN for 2022]]></title>
+        <id>https://devops.com/?p=148808</id>
+        <link href="https://devops.com/iot-developers-get-familiar-with-lorawan-for-2022/"/>
+        <updated>2022-01-04T07:30:42.000Z</updated>
+        <summary type="html"><![CDATA[IoT Analytics forecast the global number of connected IoT devices would grow to 12.3 billion active endpoints in 2021. That number is expected to grow exponentially in the near future as more and more industries make use of long-range wireless capability. For example, president Biden’s infrastructure plan promised major investment in smart cities and smart […]
+The post IoT Developers: Get Familiar With LoRaWAN for 2022 appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Steve Hegenderfer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Web Workers Work in JavaScript – With a Practical JS Example]]></title>
         <id>61cfe874a7001508889339e4</id>
@@ -34,6 +338,16 @@
         <summary type="html"><![CDATA[HTML is the backbone of any website. It's the first thing people see. Without it, there would be no website.  Because of this, it's important that you stick to good coding practices. If you don't follow the best practices, you will create a bad user experience for the web user.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Become a Published Writer in 3 Easy Steps]]></title>
+        <id>https://hackernoon.com/become-a-published-writer-in-3-easy-steps?source=rss</id>
+        <link href="https://hackernoon.com/become-a-published-writer-in-3-easy-steps?source=rss"/>
+        <updated>2022-01-03T22:40:00.000Z</updated>
+        <summary type="html"><![CDATA[New Year, new writing opportunities. Start this one off right!]]></summary>
+        <author>
+            <name>Official Writing Prompts</name>
         </author>
     </entry>
     <entry>
@@ -78,6 +392,16 @@ CSS-Based Fingerprinting originally published on CSS-Tricks]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[10 Solana NFT Projects You Should Know About in 2022]]></title>
+        <id>https://hackernoon.com/top-10-solana-nft-projects-to-research-in-2022?source=rss</id>
+        <link href="https://hackernoon.com/top-10-solana-nft-projects-to-research-in-2022?source=rss"/>
+        <updated>2022-01-03T20:45:11.000Z</updated>
+        <summary type="html"><![CDATA[In this post we'll look at 10 interesting Solana NFT project which provide benefits to investors including airdrops, passive income generation and more.]]></summary>
+        <author>
+            <name>Cryptonite</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Matrix Digital Rain On The IBM PC With A High Persistence Monitor]]></title>
         <id>https://hackaday.com/?p=514351</id>
         <link href="https://hackaday.com/2022/01/03/matrix-digital-rain-on-the-ibm-pc-with-a-high-persistence-monitor/"/>
@@ -115,6 +439,16 @@ CSS-Based Fingerprinting originally published on CSS-Tricks]]></summary>
         <summary type="html"><![CDATA[When you start learning to code, one of the questions you probably ask yourself is "What lannguage should I learn first?"  One of the most exciting – and at times overwhelming – things about learning to code is just how much there is to learn.  But instead of just focusing]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is The Next Printing Press?]]></title>
+        <id>https://hackernoon.com/what-is-the-next-printing-press?source=rss</id>
+        <link href="https://hackernoon.com/what-is-the-next-printing-press?source=rss"/>
+        <updated>2022-01-03T17:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Trying to predict where the next revolution in publishing will come from is difficult. But one thing is certain–publishing of the future will be complicated.]]></summary>
+        <author>
+            <name>Evgeny Kim</name>
         </author>
     </entry>
     <entry>
@@ -159,6 +493,16 @@ Tags: prenatal, testing, uncertainty, Upshot]]></summary>
         <summary type="html"><![CDATA[It’s truly incredible what the hobbyist is now capable of. While it would have seemed all but impossible a few years ago, we’re happy to report that yet another dedicated …read more]]></summary>
         <author>
             <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of Cryptocurrencies by Nayib Bukele, President of El-savador]]></title>
+        <id>https://hackernoon.com/the-future-of-cryptocurrencies-by-nayib-bukele-president-of-el-savador?source=rss</id>
+        <link href="https://hackernoon.com/the-future-of-cryptocurrencies-by-nayib-bukele-president-of-el-savador?source=rss"/>
+        <updated>2022-01-03T16:02:02.000Z</updated>
+        <summary type="html"><![CDATA[On Jan. 2, 2021, El Salvador’s leader Nayib Bukele tweeted out predictions for the crypto market in 2022. In his tweet, he claimed that bitcoin would eclipse th]]></summary>
+        <author>
+            <name>Ricky Rathore</name>
         </author>
     </entry>
     <entry>
@@ -246,6 +590,26 @@ How to Create a Browser Extension originally published on CSS-Tricks]]></summary
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Metaverse Is a Great Business Opportunity, and Facebook/Meta Knows This]]></title>
+        <id>https://hackernoon.com/the-metaverse-is-a-great-business-opportunity-and-facebookmeta-knows-this?source=rss</id>
+        <link href="https://hackernoon.com/the-metaverse-is-a-great-business-opportunity-and-facebookmeta-knows-this?source=rss"/>
+        <updated>2022-01-03T12:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Will metaverse change the way we connect or socialize online? Learn this and more on how metaverse will transform our online world.]]></summary>
+        <author>
+            <name>Technource</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the Best Pizza Topping? (Slogging Insights)]]></title>
+        <id>https://hackernoon.com/what-is-the-best-pizza-topping-slogging-insights?source=rss</id>
+        <link href="https://hackernoon.com/what-is-the-best-pizza-topping-slogging-insights?source=rss"/>
+        <updated>2022-01-03T12:14:46.000Z</updated>
+        <summary type="html"><![CDATA[In this slogging thread, the team at Hackernoon discusses the best pizza topping. The debate gets heated with the Hackernoon team heavily divided on the best.]]></summary>
+        <author>
+            <name>Jack Boreham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Need A Small, Cheap Ammeter? Blinkenlights To The Rescue!]]></title>
         <id>https://hackaday.com/?p=514098</id>
         <link href="https://hackaday.com/2022/01/03/need-a-small-cheap-ammeter-blinkenlights-to-the-rescue/"/>
@@ -266,6 +630,36 @@ How to Create a Browser Extension originally published on CSS-Tricks]]></summary
 -- Read more on ScientificAmerican.com]]></summary>
         <author>
             <name>Maddie Bender</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SDLC Is a Complex Black Box and We Must Build Teams Accordingly]]></title>
+        <id>https://hackernoon.com/sdlc-is-a-complex-black-box-and-we-must-build-teams-accordingly?source=rss</id>
+        <link href="https://hackernoon.com/sdlc-is-a-complex-black-box-and-we-must-build-teams-accordingly?source=rss"/>
+        <updated>2022-01-03T10:07:43.000Z</updated>
+        <summary type="html"><![CDATA[Invest in managing software engineering efficiency, not only measuring individuals' performances.]]></summary>
+        <author>
+            <name>Emre Dundar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Humanity Has Yet to Figure Out How to Develop Truly Secure Software': Adam Ernest]]></title>
+        <id>https://hackernoon.com/humanity-has-yet-to-figure-out-how-to-develop-truly-secure-software-adam-ernest?source=rss</id>
+        <link href="https://hackernoon.com/humanity-has-yet-to-figure-out-how-to-develop-truly-secure-software-adam-ernest?source=rss"/>
+        <updated>2022-01-03T08:46:27.000Z</updated>
+        <summary type="html"><![CDATA[Learn about Follow My Vote Co-Founder & CEO Adam Ernest in this exclusive HackerNoon startup interview about his origins, motivations and future plans.]]></summary>
+        <author>
+            <name>Hacker Noon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Review of a MIRROR That Helps You Work Out]]></title>
+        <id>https://hackernoon.com/my-review-of-a-mirror-that-helps-you-work-out?source=rss</id>
+        <link href="https://hackernoon.com/my-review-of-a-mirror-that-helps-you-work-out?source=rss"/>
+        <updated>2022-01-03T08:33:21.000Z</updated>
+        <summary type="html"><![CDATA[A detailed review of the aptly-named MIRROR home fitness product, including their mobile app, customer service, classes, and installation experience.]]></summary>
+        <author>
+            <name>Steven Finkelstein</name>
         </author>
     </entry>
     <entry>
@@ -314,6 +708,16 @@ The post New Relic: Observability Tops 2022 DevOps Agenda appeared first on DevO
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2021: Reviewing and Kaizen-ing My Programming and Writing Life]]></title>
+        <id>https://hackernoon.com/2021-reviewing-and-kaizen-ing-my-programming-and-writing-life?source=rss</id>
+        <link href="https://hackernoon.com/2021-reviewing-and-kaizen-ing-my-programming-and-writing-life?source=rss"/>
+        <updated>2022-01-03T03:43:30.000Z</updated>
+        <summary type="html"><![CDATA[Writing this personal review on how my year went is kind of emotional. I have always procrastinated writing or avoided it the previous years]]></summary>
+        <author>
+            <name>Teri Eyenike</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hackaday Links: January 2, 2022]]></title>
         <id>https://hackaday.com/?p=513549&amp;preview=true&amp;preview_id=513549</id>
         <link href="https://hackaday.com/2022/01/02/hackaday-links-january-2-2022/"/>
@@ -321,6 +725,16 @@ The post New Relic: Observability Tops 2022 DevOps Agenda appeared first on DevO
         <summary type="html"><![CDATA[That sound you may have heard in the wee hours of Christmas morning had nothing to do with Santa; rather, it was the sound of a million astronomers collectively letting …read more]]></summary>
         <author>
             <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Programming Languages To Kickstart your Software Development Career in 2022]]></title>
+        <id>https://hackernoon.com/5-programming-languages-to-kickstart-your-software-development-career-in-2022?source=rss</id>
+        <link href="https://hackernoon.com/5-programming-languages-to-kickstart-your-software-development-career-in-2022?source=rss"/>
+        <updated>2022-01-02T23:48:11.000Z</updated>
+        <summary type="html"><![CDATA[5 Programming Languages To Learn In 2022. Python is in the boom, mainly due to Data Science and Machine Learning.]]></summary>
+        <author>
+            <name>Karthik Bhandary</name>
         </author>
     </entry>
     <entry>
@@ -481,6 +895,16 @@ The post New Relic: Observability Tops 2022 DevOps Agenda appeared first on DevO
         <summary type="html"><![CDATA[Volatility is built into the way crypto markets operate, which means your crypto position maybe great today, but look terrible tomorrow. What about bitcoin?]]></summary>
         <author>
             <name>Anndy Lian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use a Template to Use Docker with PHP]]></title>
+        <id>https://hackernoon.com/how-to-use-a-template-to-use-docker-with-php?source=rss</id>
+        <link href="https://hackernoon.com/how-to-use-a-template-to-use-docker-with-php?source=rss"/>
+        <updated>2022-01-02T14:16:05.000Z</updated>
+        <summary type="html"><![CDATA[Today I want to give you an easy-to-use template in order to use Docker with PHP, explained so you can understand how it works in just 10 minutes.]]></summary>
+        <author>
+            <name>Alex Hernández</name>
         </author>
     </entry>
     <entry>
@@ -1822,6 +2246,16 @@ Tags: privacy, Wired]]></summary>
         <summary type="html"><![CDATA[Welcome to HackerNoon’s Writing Prompts program. Answer one today!]]></summary>
         <author>
             <name>Official Writing Prompts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laptop Cooling Pads]]></title>
+        <id>https://hackernoon.com/laptop-cooling-pads?source=rss</id>
+        <link href="https://hackernoon.com/laptop-cooling-pads?source=rss"/>
+        <updated>2021-12-29T05:37:32.000Z</updated>
+        <summary type="html"><![CDATA[Discover the top cooling pads in 2021 that are sure to enhance the life of your laptop and keep it cool and running for years to come.]]></summary>
+        <author>
+            <name>Otaku Gamer</name>
         </author>
     </entry>
     <entry>
@@ -33986,616 +34420,6 @@ The post Perforce Charts Testing Course After BlazeMeter Acquisition appeared fi
         <summary type="html"><![CDATA[Interview David Vorick CEO of Skynet Labs about trends, pitfalls, why it’s important to own the data and how Homescreen's going to change the way we use the Web]]></summary>
         <author>
             <name>Evelina Lavrova</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Basics of NFTs [Infographic]]]></title>
-        <id>https://hackernoon.com/the-basics-of-nfts-infographic?source=rss</id>
-        <link href="https://hackernoon.com/the-basics-of-nfts-infographic?source=rss"/>
-        <updated>2021-10-07T12:42:28.000Z</updated>
-        <summary type="html"><![CDATA[NFTs are certificates of ownership on digital collectibles, including but not limited to digital artwork.]]></summary>
-        <author>
-            <name>Brian Wallace</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The FDA Should Better Regulate Medical Algorithms]]></title>
-        <id>B01B29C7-2EB4-4151-9A515FF8965AFC09</id>
-        <link href="https://www.scientificamerican.com/article/the-fda-should-better-regulate-medical-algorithms/"/>
-        <updated>2021-10-07T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most do not require the agency’s approval, and those that do often don’t require clinical trials
-
-
--- Read more on ScientificAmerican.com]]></summary>
-        <author>
-            <name>Soleil Shah, Abdul El-Sayed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DIY Solar Ebike Goes Around the World, We Hope]]></title>
-        <id>https://hackaday.com/?p=499899</id>
-        <link href="https://hackaday.com/2021/10/07/diy-solar-ebike-goes-around-the-world-we-hope/"/>
-        <updated>2021-10-07T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[[Mark Havran] is on a mission to complete a solo trip around the world on his bicycle. For such a long and arduous trip, unsupported by anything other than what …read more]]></summary>
-        <author>
-            <name>Bryan Cockfield</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simple Mathematical Law Predicts Movement in Cities around the World]]></title>
-        <id>A708A617-1921-4AE3-B6F5B2DFE6E38275</id>
-        <link href="https://www.scientificamerican.com/article/simple-mathematical-law-predicts-movement-in-cities-around-the-world/"/>
-        <updated>2021-10-07T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[A new model could help model disease transmission and urban planning
-
-
--- Read more on ScientificAmerican.com]]></summary>
-        <author>
-            <name>Viviane Callier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Greatest Film and Video Game Soundtracks of All Time]]></title>
-        <id>https://hackernoon.com/the-greatest-film-and-video-game-soundtracks-of-all-time?source=rss</id>
-        <link href="https://hackernoon.com/the-greatest-film-and-video-game-soundtracks-of-all-time?source=rss"/>
-        <updated>2021-10-07T09:24:35.000Z</updated>
-        <summary type="html"><![CDATA[We chatted about the best movie and video game soundtracks that spoke to us and will forever be in our all-time favorites.]]></summary>
-        <author>
-            <name>Limarc Ambalina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Scientist vs. Software Engineer - Key Differences Explained]]></title>
-        <id>https://hackernoon.com/data-scientist-vs-software-engineer-key-differences-explained?source=rss</id>
-        <link href="https://hackernoon.com/data-scientist-vs-software-engineer-key-differences-explained?source=rss"/>
-        <updated>2021-10-07T09:08:05.000Z</updated>
-        <summary type="html"><![CDATA[The data scientist is emerging as a new career option. Software engineering is an older discipline that has already made its perfect place in the IT world.]]></summary>
-        <author>
-            <name>Ankit Dixit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add Training Data to Build a More Generic ML Model]]></title>
-        <id>https://hackernoon.com/how-to-add-training-data-to-build-a-more-generic-ml-model?source=rss</id>
-        <link href="https://hackernoon.com/how-to-add-training-data-to-build-a-more-generic-ml-model?source=rss"/>
-        <updated>2021-10-07T08:58:35.000Z</updated>
-        <summary type="html"><![CDATA[You can easily make changes to your dataset using DVC to handle data versioning. This will let you extend your models to handle more generic data.]]></summary>
-        <author>
-            <name>Milecia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Trends Changing Retail Enterprise Resource Planning in 2021]]></title>
-        <id>https://hackernoon.com/5-trends-changing-retail-enterprise-resource-planning-in-2021?source=rss</id>
-        <link href="https://hackernoon.com/5-trends-changing-retail-enterprise-resource-planning-in-2021?source=rss"/>
-        <updated>2021-10-07T08:53:01.000Z</updated>
-        <summary type="html"><![CDATA[What are the main ERP trends in retail? Feel free to explore this guide to keep up with the best updates to potentially implement them into your business.]]></summary>
-        <author>
-            <name>Andrey Koptelov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 NetSuite Implementation Mistakes to Avoid]]></title>
-        <id>https://hackernoon.com/6-netsuite-implementation-mistakes-to-avoid?source=rss</id>
-        <link href="https://hackernoon.com/6-netsuite-implementation-mistakes-to-avoid?source=rss"/>
-        <updated>2021-10-07T08:09:11.000Z</updated>
-        <summary type="html"><![CDATA[NetSuite developer suggests configuration over customization, initially. You can bring customization later once the project manages to mature over time.]]></summary>
-        <author>
-            <name>AlphaBOLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Pivot and Join Time-Series Data in Flux]]></title>
-        <id>https://devops.com/?p=145855</id>
-        <link href="https://devops.com/how-to-pivot-and-join-time-series-data-in-flux/"/>
-        <updated>2021-10-07T07:00:58.000Z</updated>
-        <summary type="html"><![CDATA[Merging multiple time-series in InfluxDB using Flux may seem like a daunting task. This in-depth Flux tutorial will explain how to pivot, time shift and join time series in InfluxDB. In this InfluxDB tutorial, we will show you how to create an accurate overview of multiple time series with industrial data captured in consecutive production […]
-The post How to Pivot and Join Time-Series Data in Flux appeared first on DevOps.com.]]></summary>
-        <author>
-            <name>Jeroen Lavens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 Container Orchestration Security Concerns]]></title>
-        <id>https://devops.com/?p=146109</id>
-        <link href="https://devops.com/4-container-orchestration-security-concerns/"/>
-        <updated>2021-10-07T06:30:57.000Z</updated>
-        <summary type="html"><![CDATA[Container orchestration is a must-have technical skill, according to 51% of respondents to the 2021 Upskilling survey from DevOps Institute. So, it’s no surprise, then, that container technology is becoming increasingly popular. However, container environments are far more complex and dynamic than other infrastructure, making container security essential. Security ensures containers are running as intended, […]
-The post 4 Container Orchestration Security Concerns appeared first on DevOps.com.]]></summary>
-        <author>
-            <name>Jayne Groll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Most In-Demand Tech Skills to Learn and Empower Your Tech Career]]></title>
-        <id>https://hackernoon.com/5-most-in-demand-tech-skills-to-learn-and-empower-your-tech-career?source=rss</id>
-        <link href="https://hackernoon.com/5-most-in-demand-tech-skills-to-learn-and-empower-your-tech-career?source=rss"/>
-        <updated>2021-10-07T06:05:07.000Z</updated>
-        <summary type="html"><![CDATA[If you want to empower your tech career or if you want to switch into a tech career, here are the most in-demand tech skills you can learn.]]></summary>
-        <author>
-            <name>am_samie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Manufacture of Madness]]></title>
-        <id>https://devops.com/?p=146148</id>
-        <link href="https://devops.com/the-manufacture-of-madness/"/>
-        <updated>2021-10-07T06:00:10.000Z</updated>
-        <summary type="html"><![CDATA[The post The Manufacture of Madness appeared first on DevOps.com.]]></summary>
-        <author>
-            <name>ROELBOB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Technology is Changing Retirement Planning]]></title>
-        <id>https://hackernoon.com/how-technology-is-changing-retirement-planning?source=rss</id>
-        <link href="https://hackernoon.com/how-technology-is-changing-retirement-planning?source=rss"/>
-        <updated>2021-10-07T05:57:09.000Z</updated>
-        <summary type="html"><![CDATA[Let's look at some emerging new options that can help you create passive income for retirement.]]></summary>
-        <author>
-            <name>Michael</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Main Differences Between Angular, React, and Vue]]></title>
-        <id>https://hackernoon.com/the-main-differences-between-angular-react-and-vue?source=rss</id>
-        <link href="https://hackernoon.com/the-main-differences-between-angular-react-and-vue?source=rss"/>
-        <updated>2021-10-07T05:47:59.000Z</updated>
-        <summary type="html"><![CDATA[Gathered review of the major used frameworks: Angular, React, and Vue. We compared them by the most crucial criteria for deciding on one of them for a project.]]></summary>
-        <author>
-            <name>Tetiana Stoyko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Play-to-Earn and its Positive Impact in the Real World: A Philippine Perspective]]></title>
-        <id>https://hackernoon.com/play-to-earn-and-its-positive-impact-in-the-real-world-a-philippine-perspective?source=rss</id>
-        <link href="https://hackernoon.com/play-to-earn-and-its-positive-impact-in-the-real-world-a-philippine-perspective?source=rss"/>
-        <updated>2021-10-07T05:45:39.000Z</updated>
-        <summary type="html"><![CDATA[Why are play-to-earn games good? What is their positive impact? How do they affect the lives of people in a positive way?]]></summary>
-        <author>
-            <name>Earl Carlo Guevarra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Your First App Using C++ Builder (Part 1)]]></title>
-        <id>https://hackernoon.com/building-your-first-app-using-c-builder-part-1?source=rss</id>
-        <link href="https://hackernoon.com/building-your-first-app-using-c-builder-part-1?source=rss"/>
-        <updated>2021-10-07T05:39:05.000Z</updated>
-        <summary type="html"><![CDATA[Building mobile applications can be tasking sometimes. In this article, we will share a few steps you can take to build your first app using a free IDE.]]></summary>
-        <author>
-            <name>Embarcadero</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Pandemic Hacked the Way We Eat Breakfast [Infographic]]]></title>
-        <id>https://hackernoon.com/how-the-pandemic-hacked-the-way-we-eat-breakfast-infographic?source=rss</id>
-        <link href="https://hackernoon.com/how-the-pandemic-hacked-the-way-we-eat-breakfast-infographic?source=rss"/>
-        <updated>2021-10-07T05:21:00.000Z</updated>
-        <summary type="html"><![CDATA[A look at how the pandemic shifted American breakfast trends.]]></summary>
-        <author>
-            <name>Brian Wallace</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Gaming Metaverse will Decide the Future of the Video Game Industry]]></title>
-        <id>https://hackernoon.com/the-gaming-metaverse-will-decide-the-future-of-the-video-game-industry?source=rss</id>
-        <link href="https://hackernoon.com/the-gaming-metaverse-will-decide-the-future-of-the-video-game-industry?source=rss"/>
-        <updated>2021-10-07T05:03:55.000Z</updated>
-        <summary type="html"><![CDATA[This article talks about gaming metaverse and in-game items being used in game development as the next frontier for the gaming industry.]]></summary>
-        <author>
-            <name>Ishan Pandey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Effects of Energy Drinks on The Body: Cons of Caffeine Consumption]]></title>
-        <id>https://hackernoon.com/the-effects-of-energy-drinks-on-the-body-cons-of-caffeine-consumption?source=rss</id>
-        <link href="https://hackernoon.com/the-effects-of-energy-drinks-on-the-body-cons-of-caffeine-consumption?source=rss"/>
-        <updated>2021-10-07T04:46:01.000Z</updated>
-        <summary type="html"><![CDATA[While caffeine is largely accepted in today's society, high dose caffeine products like energy drinks and caffeine pills can be detrimental.]]></summary>
-        <author>
-            <name>Amy Shah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Purple Teaming in Cybersecurity?]]></title>
-        <id>https://hackernoon.com/what-is-purple-teaming-in-cybersecurity?source=rss</id>
-        <link href="https://hackernoon.com/what-is-purple-teaming-in-cybersecurity?source=rss"/>
-        <updated>2021-10-07T03:34:37.000Z</updated>
-        <summary type="html"><![CDATA[Purple teaming is maximizes the effectiveness of the Red and Blue team. It is a function that encourages the two teams to work together, exchange information.]]></summary>
-        <author>
-            <name>Jessica Truong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Networking & Kubernetes: Book Review and Interview with Author James Strong]]></title>
-        <id>https://hackernoon.com/networking-and-kubernetes-book-review-and-interview-with-author-james-strong?source=rss</id>
-        <link href="https://hackernoon.com/networking-and-kubernetes-book-review-and-interview-with-author-james-strong?source=rss"/>
-        <updated>2021-10-07T03:22:43.000Z</updated>
-        <summary type="html"><![CDATA[Co-author James Strong talks about his book Networking & Kubernetes, published by O'Reilly Media. Strong wrote the book with Vallery Lancey.]]></summary>
-        <author>
-            <name>Amy Shah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will Pokémon Legends: Arceus Live Up to the Hype?]]></title>
-        <id>https://hackernoon.com/will-pokemon-legends-arceus-live-up-to-the-hype?source=rss</id>
-        <link href="https://hackernoon.com/will-pokemon-legends-arceus-live-up-to-the-hype?source=rss"/>
-        <updated>2021-10-07T03:15:30.000Z</updated>
-        <summary type="html"><![CDATA[Pokémon Legends looks to be the open world makeover Pokémon fans have craved. However, mixed signals from recent trailers leave me more skeptical than hopeful.]]></summary>
-        <author>
-            <name>Blake Cram</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Google Trends API with Python]]></title>
-        <id>https://hackernoon.com/how-to-use-google-trends-api-with-python?source=rss</id>
-        <link href="https://hackernoon.com/how-to-use-google-trends-api-with-python?source=rss"/>
-        <updated>2021-10-07T03:08:31.000Z</updated>
-        <summary type="html"><![CDATA[Google Trends website provides analysis of different search results on Google Search based on various criteria such as regions, time and language. As a developer, you can use Google Trends API in python to get the same results as presented on the Google Trends website via Pytrends.]]></summary>
-        <author>
-            <name>Davis David</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using a PCB to Reflow PCBs – Take 2!]]></title>
-        <id>https://hackaday.com/?p=498940</id>
-        <link href="https://hackaday.com/2021/10/06/using-a-pcb-to-reflow-pcbs-take-2/"/>
-        <updated>2021-10-06T23:00:14.000Z</updated>
-        <summary type="html"><![CDATA[It’s not too hard to make your electronics project get warm. Design your traces too small, accidentally short the battery inputs together, maybe reverse the voltage going to your MCU. …read more]]></summary>
-        <author>
-            <name>Jim Heaney</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Websites We Like: MD Nichrome]]></title>
-        <id>https://css-tricks.com/?p=353219</id>
-        <link href="https://css-tricks.com/websites-we-like-md-nichrome/"/>
-        <updated>2021-10-06T22:24:18.000Z</updated>
-        <summary type="html"><![CDATA[Here’s a beautiful website: it’s a type specimen for Mass-Driver’s ever-so-lovely type family MD Nichrome. There’s a ton of nifty animations and graphics explaining all the features inside…
-If you’re wondering how those animations work, they’re actually styled <video>…
-The post Websites We Like: MD Nichrome appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Single Page App Morality Play]]></title>
-        <id>https://css-tricks.com/?p=353320</id>
-        <link href="https://www.baldurbjarnason.com/2021/single-page-app-morality-play/"/>
-        <updated>2021-10-06T22:20:57.000Z</updated>
-        <summary type="html"><![CDATA[Baldur Bjarnason brings some baby bear porridge to the discussion of  Single Page App (SPA) vs. Multi Page App (MPA).
-Single-Page-Apps can be fantastic. Most teams will mess them up because most teams operate in dysfunctional 
-…
-The post The Single Page App Morality Play appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Batch Script to Convert MOV Videos to MPG using ffmpeg]]></title>
-        <id>https://helloacm.com/?p=147037</id>
-        <link href="https://helloacm.com/batch-script-to-convert-mov-videos-to-mpg-using-ffmpeg/"/>
-        <updated>2021-10-06T21:11:24.000Z</updated>
-        <summary type="html"><![CDATA[The MOV video files are generally huge compare to MPEG. When taking a video using smart phones such as iphone 12 Pro Max, you get the MOV videos. Then it starts to fill up your iphone storage as well...
-
-
-[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
-        <author>
-            <name>ACMer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deaths from Hurricane Ida Expose Flaws in FEMA Flood Maps]]></title>
-        <id>FBC2982E-769D-4D84-9066432D117EDECD</id>
-        <link href="https://www.scientificamerican.com/article/deaths-from-hurricane-ida-expose-flaws-in-fema-flood-maps/"/>
-        <updated>2021-10-06T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The New York City homes where 11 people drowned were in areas marked as low risk for inundation
-
-
--- Read more on ScientificAmerican.com]]></summary>
-        <author>
-            <name>Thomas Frank, E&amp;E News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Startups Can Get Results with Two Underappreciated MRR Growth Levers]]></title>
-        <id>https://hackernoon.com/how-startups-can-get-results-with-two-underappreciated-mrr-growth-levers?source=rss</id>
-        <link href="https://hackernoon.com/how-startups-can-get-results-with-two-underappreciated-mrr-growth-levers?source=rss"/>
-        <updated>2021-10-06T20:18:05.000Z</updated>
-        <summary type="html"><![CDATA[MRR (or close derivatives like MRR Growth Rates) is the primary metric most B2B SaaS companies, their CEOs, and their investor partners measure themselves by.]]></summary>
-        <author>
-            <name>ChartMogul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dave the Drive-able Duck Does Donuts]]></title>
-        <id>https://hackaday.com/?p=497187</id>
-        <link href="https://hackaday.com/2021/10/06/dave-the-drive-able-duck-does-donuts/"/>
-        <updated>2021-10-06T20:00:20.000Z</updated>
-        <summary type="html"><![CDATA[[Hey Jude] is tired of the machismo dripping from most modern electronic toys, especially stuff like monster trucks and police/military sets. He grew up on weird stuff, not aggression, and …read more]]></summary>
-        <author>
-            <name>Kristina Panos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What has Been Happening with the Two Biggest Iranian Espionage Operations]]></title>
-        <id>https://hackernoon.com/what-has-been-happening-with-the-two-biggest-iranian-espionage-operations?source=rss</id>
-        <link href="https://hackernoon.com/what-has-been-happening-with-the-two-biggest-iranian-espionage-operations?source=rss"/>
-        <updated>2021-10-06T19:57:18.000Z</updated>
-        <summary type="html"><![CDATA[Cyber-warfare and espionage have long been common weapons in the arsenal of governments, armies, and intelligence agencies around the world.]]></summary>
-        <author>
-            <name>Check Point Software</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Inventory of All the Brain Cells That Let You Run, Jump and Roll]]></title>
-        <id>FB48F1F7-0A5E-49C9-98A3D260854F6CBA</id>
-        <link href="https://www.scientificamerican.com/article/an-inventory-of-all-the-brain-cells-that-let-you-run-jump-and-roll/"/>
-        <updated>2021-10-06T19:15:00.000Z</updated>
-        <summary type="html"><![CDATA[A project to map the motor cortex used the widest range of tools for probing brain cells ever deployed in a single, coordinated effort
-
-
--- Read more on ScientificAmerican.com]]></summary>
-        <author>
-            <name>Simon Makin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making the Most of Your Resin Printer Investment]]></title>
-        <id>https://hackaday.com/?p=498658</id>
-        <link href="https://hackaday.com/2021/10/06/making-the-most-of-your-resin-printer-investment/"/>
-        <updated>2021-10-06T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[To the extent that we think of 3D printers as production machines, we tend to imagine huge banks of FDM machines slowly but surely cranking out parts. These printer farms …read more]]></summary>
-        <author>
-            <name>Dan Maloney</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Francis Collins, Head of NIH Who Led Human Genome Project, to Step Down]]></title>
-        <id>D000C349-832A-48B7-B2D22C143961EA9D</id>
-        <link href="https://www.scientificamerican.com/article/francis-collins-head-of-nih-who-led-human-genome-project-to-step-down/"/>
-        <updated>2021-10-06T18:15:00.000Z</updated>
-        <summary type="html"><![CDATA[After 12 years at the helm of the top biomedical research agency, the geneticist will return to running his lab by year’s end
-
-
--- Read more on ScientificAmerican.com]]></summary>
-        <author>
-            <name>Nidhi Subbaraman, Nature magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C String – How to Declare Strings in the C Programming Language]]></title>
-        <id>615beb720d91c9077974c716</id>
-        <link href="https://www.freecodecamp.org/news/c-string-how-to-declare-strings-in-the-c-programming-language/"/>
-        <updated>2021-10-06T17:51:39.000Z</updated>
-        <summary type="html"><![CDATA[Computers store and process all kinds of data.  Strings are just one of the many forms in which information is presented and gets processed by computers.  Strings in the C programming language work differently than in other modern programming languages.  In this article, you'll learn how to declare strings in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Cell Atlas Reveals the Biodiversity inside Our Head]]></title>
-        <id>ED221DBD-E510-477B-AF6E1C29D9DC69AB</id>
-        <link href="https://www.scientificamerican.com/article/a-cell-atlas-reveals-the-biodiversity-inside-our-head/"/>
-        <updated>2021-10-06T17:45:00.000Z</updated>
-        <summary type="html"><![CDATA[The NIH’s Cell Census delivers on its promise by mapping the cells in the motor cortex
-
-
--- Read more on ScientificAmerican.com]]></summary>
-        <author>
-            <name>Christof Koch, Ed S. Lein, Hongkui Zeng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python range() Function – Explained with Code Examples]]></title>
-        <id>612f4388d6679a07b7d3fee4</id>
-        <link href="https://www.freecodecamp.org/news/python-range-function-explained-with-code-examples/"/>
-        <updated>2021-10-06T17:21:45.000Z</updated>
-        <summary type="html"><![CDATA[In Python, can use use the range() function to get a sequence of indices to loop through an iterable. You'll often use range() in conjunction with a for loop.  In this tutorial, you'll learn about the different ways in which you can use the range() function – with explicit start and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decoding SMD Part Markings]]></title>
-        <id>https://hackaday.com/?p=498076</id>
-        <link href="https://hackaday.com/2021/10/06/decoding-smd-part-markings/"/>
-        <updated>2021-10-06T17:00:06.000Z</updated>
-        <summary type="html"><![CDATA[You’ve probably encountered this before — you have a circuit board that is poorly documented, and want to know the part number of a tiny SMD chip. Retro computer enthusiast …read more]]></summary>
-        <author>
-            <name>Chris Lott</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visualizing time-based data]]></title>
-        <id>https://flowingdata.com/?p=65726</id>
-        <link href="https://flowingdata.com/2021/10/06/visualizing-time-based-data/"/>
-        <updated>2021-10-06T16:42:28.000Z</updated>
-        <summary type="html"><![CDATA[Zan Armstrong, Ian Johnson, and Mike Freeman for Observable wrote a guide on…
-Tags: Observable, questions, time]]></summary>
-        <author>
-            <name>Nathan Yau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux tar Command – How to Compress Files in Linux]]></title>
-        <id>614870b9852f4307d3731030</id>
-        <link href="https://www.freecodecamp.org/news/how-to-compress-files-in-linux-with-tar-command/"/>
-        <updated>2021-10-06T16:19:13.000Z</updated>
-        <summary type="html"><![CDATA[File compression is an essential utility across all platforms. It helps you reduce file size and share files efficiently. And compressed files are also easier to copy to remote servers.  You can also compress older and rarely used files and save them for future use which helps you conserve disk]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Insert Into SQL – How to Insert Into a Table Query [Example Statement]]]></title>
-        <id>615d55b40d91c9077974d3f8</id>
-        <link href="https://www.freecodecamp.org/news/insert-into-sql-how-to-insert-into-a-table-query-example-statement/"/>
-        <updated>2021-10-06T16:10:50.000Z</updated>
-        <summary type="html"><![CDATA[If you want to add data to your SQL table, then you can use the INSERT statement.  In this article, I will show you how to use the INSERT statement to add a single row, multiple rows, and to copy rows from one SQL table to another. Basic INSERT syntaxHere]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vintage Computer Festival East Reboots This Weekend]]></title>
-        <id>https://hackaday.com/?p=500024</id>
-        <link href="https://hackaday.com/2021/10/06/vintage-computer-festival-east-reboots-this-weekend/"/>
-        <updated>2021-10-06T16:00:31.000Z</updated>
-        <summary type="html"><![CDATA[We don’t have to tell the average Hackaday reader that the last two years have represented a serious dry spell for the type of in-person events that our community has …read more]]></summary>
-        <author>
-            <name>Tom Nardi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your Developer Résumé Without Job Experience]]></title>
-        <id>6155429464aefe07d3fa1019</id>
-        <link href="https://www.freecodecamp.org/news/build-your-developer-resume-without-job-experience/"/>
-        <updated>2021-10-06T15:29:13.000Z</updated>
-        <summary type="html"><![CDATA[I have observed a fascinating phenomenon amongst folks applying for their first developer jobs.  The behavior seems consistent across college graduates, Bootcampers, and self-taught folks. When asking for a résumé review, they almost always get the answer "build more projects".  This is great advice, but you can do more to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Learn Programming – The Guide I Wish I Had When I Started Learning to Code]]></title>
-        <id>6070ea34d5756f080ba98017</id>
-        <link href="https://www.freecodecamp.org/news/how-to-learn-programming/"/>
-        <updated>2021-10-06T15:17:39.000Z</updated>
-        <summary type="html"><![CDATA[Just the thought of learning to code can be very intimidating. The word code is mysterious by definition. It implies a technical form of communication that computers, and not humans, are meant to understand. One way many people start learning to code is by picking a popular programming language and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Participate in Hacktoberfest – Even if You Don&#x27;t Write Code]]></title>
-        <id>613cbc6b852f4307d372bc5a</id>
-        <link href="https://www.freecodecamp.org/news/how-anyone-can-participate-in-hacktoberfest/"/>
-        <updated>2021-10-06T15:14:48.000Z</updated>
-        <summary type="html"><![CDATA[Hacktoberfest is an event hosted by DigitalOcean that partners with many organizations. The goal is to give back and contribute to open-source projects. The organizers offer little incentives for a job well done, like a shirt and stickers. Other organizations also get involved by offering their own rewards. You can]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Furter Burner Cooks The Wieners Just So]]></title>
-        <id>https://hackaday.com/?p=499127</id>
-        <link href="https://hackaday.com/2021/10/06/furter-burner-cooks-the-wieners-just-so/"/>
-        <updated>2021-10-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes you’re hungry for two sausages, and not a sausage more. [Wesley] designed his Furter Burner to handle precisely these situations, and it looks to cook up a pair of …read more]]></summary>
-        <author>
-            <name>Lewin Day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computer Basics for Absolute Beginners]]></title>
-        <id>615db6910d91c9077974deb1</id>
-        <link href="https://www.freecodecamp.org/news/computer-basics-for-absolute-beginners/"/>
-        <updated>2021-10-06T14:54:13.000Z</updated>
-        <summary type="html"><![CDATA[Computers can be intimidating, especially if you didn't grow up with them. Some tasks that seem simple to experienced users can seem impossible to new users. We just released a computer and technology basics course on the freeCodeCamp.org YouTube channel. This course teaches the basics of computer use and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get a Job in Tech: Time to Bust Some Myths]]></title>
-        <id>https://hackernoon.com/how-to-get-a-job-in-tech-time-to-bust-some-myths?source=rss</id>
-        <link href="https://hackernoon.com/how-to-get-a-job-in-tech-time-to-bust-some-myths?source=rss"/>
-        <updated>2021-10-06T14:48:55.000Z</updated>
-        <summary type="html"><![CDATA[I initially wanted to be a literary translator. A career choice far away from tech industry. However, a side gig during my studies brought me to freelance writing, one thing lead to another, and here I am.]]></summary>
-        <author>
-            <name>Katarina Andrejević</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Isaac Asimov's 'Fantastic Voyage' in Real Life: IoBNT for Targeted Drug Delivery]]></title>
-        <id>https://hackernoon.com/isaac-asimovs-fantastic-voyage-in-real-life-iobnt-for-targeted-drug-delivery?source=rss</id>
-        <link href="https://hackernoon.com/isaac-asimovs-fantastic-voyage-in-real-life-iobnt-for-targeted-drug-delivery?source=rss"/>
-        <updated>2021-10-06T14:25:29.000Z</updated>
-        <summary type="html"><![CDATA[IoBNT based TDD is the process of carrying the drug directly to the diseased organ and releasing it at that site (Tumor tissue) only locally via Internet.]]></summary>
-        <author>
-            <name>Sidra Zafar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematicians Prove Melting Ice Stays Smooth]]></title>
-        <id>https://www.quantamagazine.org/?p=109369</id>
-        <link href="https://www.quantamagazine.org/mathematicians-prove-melting-ice-stays-smooth-20211006/"/>
-        <updated>2021-10-06T14:24:38.000Z</updated>
-        <summary type="html"><![CDATA[After decades of effort, mathematicians now have a complete understanding of the complicated equations that model the motion of free boundaries, like the one between ice and water.            
-The post Mathematicians Prove Melting Ice Stays Smooth first appeared on Quanta Magazine]]></summary>
-        <author>
-            <name>Mordechai Rorvig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Considerations for Using Markdown Writing Apps on Static Sites]]></title>
-        <id>https://css-tricks.com/?p=352959</id>
-        <link href="https://css-tricks.com/considerations-for-using-markdown-writing-apps-on-static-sites/"/>
-        <updated>2021-10-06T14:22:18.000Z</updated>
-        <summary type="html"><![CDATA[If you run or have recently switched to a static site generator, you might find yourself writing a lot of Markdown. And the more you write it, the more you want the tooling experience to disappear so that …
-The post Considerations for Using Markdown Writing Apps on Static Sites appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Leon Barnard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Options for Password Revealing Inputs]]></title>
-        <id>https://css-tricks.com/?p=352676</id>
-        <link href="https://css-tricks.com/the-options-for-password-revealing-inputs/"/>
-        <updated>2021-10-06T14:22:11.000Z</updated>
-        <summary type="html"><![CDATA[In HTML, there is a very clear input type for dealing with passwords:
-<input type="password"
-If you use that, you get the obfuscated bullet-points when you type into it, like:
-••••••••
-That’s the web trying to help with security. If …
-The post The Options for Password Revealing Inputs appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bluetooth 5: Differences and Advantages in Bluetooth Glasses]]></title>
-        <id>https://hackernoon.com/bluetooth-5-differences-and-advantages-over-older-specifications?source=rss</id>
-        <link href="https://hackernoon.com/bluetooth-5-differences-and-advantages-over-older-specifications?source=rss"/>
-        <updated>2021-10-06T14:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Bluetooth is a radio technology that is used for the Internet or transmission from smartphone to smartphone or even to speakers. It's latest version, 5 is here.]]></summary>
-        <author>
-            <name>anderson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Printering: Corrugated Plastic for Cheaper & Easier Enclosures]]></title>
-        <id>https://hackaday.com/?p=488539</id>
-        <link href="https://hackaday.com/2021/10/06/3d-printering-corrugated-plastic-for-cheaper-easier-enclosures/"/>
-        <updated>2021-10-06T14:00:44.000Z</updated>
-        <summary type="html"><![CDATA[Clear acrylic panels have long been a mainstay of 3D printer enclosure designs, but they can also add significant cost in terms of money, shipping, weight, and hassle. An alternative …read more]]></summary>
-        <author>
-            <name>Donald Papp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcome to Techstrong Group]]></title>
-        <id>https://devops.com/?p=145878</id>
-        <link href="https://devops.com/welcome-to-techstrong-group/"/>
-        <updated>2021-10-06T14:00:38.000Z</updated>
-        <summary type="html"><![CDATA[Today is a big day in the neighborhood. What neighborhood, you ask? If you are involved in DevOps, cloud-native, cybersecurity or digital transformation, you are in that neighborhood. Today we launch Techstrong Group. Techstrong Group is a combination of all the companies I have been involved in within this neighborhood. It represents the greatest breadth […]
-The post Welcome to Techstrong Group appeared first on DevOps.com.]]></summary>
-        <author>
-            <name>Alan Shimel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deadly Falls among the Elderly Are on the Rise]]></title>
-        <id>8491D494-8197-4EB1-82D1DAAEE2108179</id>
-        <link href="https://www.scientificamerican.com/article/deadly-falls-among-the-elderly-are-on-the-rise/"/>
-        <updated>2021-10-06T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[They could be reduced with targeted exercise and some technological innovations
-
-
--- Read more on ScientificAmerican.com]]></summary>
-        <author>
-            <name>Claudia Wallis</name>
         </author>
     </entry>
 </feed>
