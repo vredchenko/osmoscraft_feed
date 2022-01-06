@@ -22,6 +22,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=359736",
+          "author": "Chris Coyier",
+          "description": "We recently talked with Elad Shechter on his new CSS reset, and shortly after that Josh Comeau blogged his. \nWe’re in something of a new era of CSS resets where… you kind of don’t need one? There isn’t …\nNotes on Josh Comeau’s Custom CSS Reset originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/notes-on-josh-comeaus-custom-css-reset/",
+          "publishedOn": "2022-01-05T21:22:45.000Z",
+          "wordCount": 1291,
+          "title": "Notes on Josh Comeau’s Custom CSS Reset"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360239",
+          "author": "Rob Levin",
+          "description": "Your mission — should you decide to accept it — is to build a Button component in four frameworks, but, only use one button.css file!\nThis idea is very important to me. I’ve been working on a component library called …\nHow to Make a Component That Supports Multiple Frameworks in a Monorepo originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/make-a-component-multiple-frameworks-in-a-monorepo/",
+          "publishedOn": "2022-01-05T15:42:59.000Z",
+          "wordCount": 5455,
+          "title": "How to Make a Component That Supports Multiple Frameworks in a Monorepo"
+        },
+        {
           "id": "https://css-tricks.com/?p=359880",
           "author": "Chris Coyier",
           "description": "CSS overrides can change the default look of almost anything:\nYou can use CSS to override what a checkbox or radio button looks like, but if you don’t, the checkbox will look like a default checkbox on your operating system \n…\nShould CSS Override Default Browser Styles? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
@@ -1613,42 +1631,6 @@
           "publishedOn": "2021-10-08T14:30:40.000Z",
           "wordCount": 1007,
           "title": "Comparing Google Analytics and Plausible Numbers"
-        },
-        {
-          "id": "https://css-tricks.com/?p=353112",
-          "author": "Chris Coyier",
-          "description": "There comes a time on a project when it’s worth investing in tooling to protect the codebase. I’m not sure how to articulate when, but it’s somewhere after the project has proven to be something long-term and rough edges …\nThe post Writing Your Own Code Rules appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/writing-your-own-code-rules/",
-          "publishedOn": "2021-10-07T23:35:53.000Z",
-          "wordCount": 805,
-          "title": "Writing Your Own Code Rules"
-        },
-        {
-          "id": "https://css-tricks.com/?p=353386",
-          "author": "Chris Coyier",
-          "description": "Blog posts that get into the whole “how to think like a front-end developer” vibe are my favorite. Michelle Barker nails that in this post, and does it without sharing a line of code!\nWe simply can no longer \n…\nThe post Developer Decisions For Building Flexible Components appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.smashingmagazine.com/2021/09/developer-decisions-building-flexible-components/",
-          "publishedOn": "2021-10-07T21:33:58.000Z",
-          "wordCount": 2860,
-          "title": "Developer Decisions For Building Flexible Components"
-        },
-        {
-          "id": "https://css-tricks.com/?p=353024",
-          "author": "Hugh Haworth",
-          "description": "vanilla-extract is a new framework-agnostic CSS-in-TypeScript library. It’s a lightweight, robust, and intuitive way to write your styles. vanilla-extract isn’t a prescriptive CSS framework, but a flexible piece of developer tooling. CSS tooling has been a relatively stable space over …\nThe post CSS in TypeScript with vanilla-extract appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/css-in-typescript-with-vanilla-extract/",
-          "publishedOn": "2021-10-07T14:36:35.000Z",
-          "wordCount": 2633,
-          "title": "CSS in TypeScript with vanilla-extract"
-        },
-        {
-          "id": "https://css-tricks.com/?p=353242",
-          "author": "Chris Coyier",
-          "description": "(This is a sponsored post.)\nKendoReact can save you boatloads of time because it offers pre-built componentry you can use in your app right away. They look nice, but more importantly, they are easily themeable, so they look however …\nThe post A Themeable React Data Grid With Great UX-Focused Features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-themeable-react-data-grid-with-great-ux-focused-features/",
-          "publishedOn": "2021-10-07T14:35:28.000Z",
-          "wordCount": 1219,
-          "title": "A Themeable React Data Grid With Great UX-Focused Features"
         }
       ]
     },
@@ -1657,6 +1639,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61c53829755c16082490a517",
+          "author": null,
+          "description": "The Web Content Accessibility Guidelines, or WCAG, defines how to make websites accessible for people with disabilities.  When we evaluate whether or not website is accessible, we look to see if software meets WCAG 2 standards.  Accessibility should not be an after thought, but rather a major part of the",
+          "link": "https://www.freecodecamp.org/news/common-accessibility-errors-and-how-to-fix-them/",
+          "publishedOn": "2022-01-05T21:15:24.000Z",
+          "wordCount": 1635,
+          "title": "Common Accessibility Errors and How To Fix Them"
+        },
+        {
+          "id": "61d2fb81d2d9de084285afb4",
+          "author": null,
+          "description": "In this post, we are going to see how we can create a REST API application for authentication using AWS Cognito, AWS Serverless, and NodeJS.  We are going to use Lambda functions, API Gateway, and the Serverless framework to achieve this. Let’s start by setting up the project. Project",
+          "link": "https://www.freecodecamp.org/news/aws-cognito-authentication-with-serverless-and-nodejs/",
+          "publishedOn": "2022-01-05T20:15:00.000Z",
+          "wordCount": 1883,
+          "title": "How to Set Up AWS Cognito Authentication with Serverless and NodeJS"
+        },
+        {
+          "id": "61d5d077d2d9de084285c670",
+          "author": null,
+          "description": "Figma is a vector graphics editor and prototyping tool that is often used for UI design.  We just published a 10-hour Figma course that will teach you how to use the tool for UI design. Joseph Brendan developed this course. Joseph is a great instructor who has taught thousands of",
+          "link": "https://www.freecodecamp.org/news/ui-design-with-figma-tutorial/",
+          "publishedOn": "2022-01-05T18:46:36.000Z",
+          "wordCount": 370,
+          "title": "UI Design with Figma - Tutorial"
+        },
+        {
+          "id": "61c60601755c16082490aa7f",
+          "author": null,
+          "description": "I want to improve my Rust skills, and help you hone yours as well. So I've decided to write a series of articles about the Rust programing language.  By actually building stuff with Rust, we'll learn about a wide range of technological concepts in the process. In this installment, we’",
+          "link": "https://www.freecodecamp.org/news/implement-naive-bayes-with-rust/",
+          "publishedOn": "2022-01-05T17:53:04.000Z",
+          "wordCount": 2562,
+          "title": "How to Implement a Naive Bayes Classifier with Rust"
+        },
+        {
+          "id": "61d1d7fda7001508889341ad",
+          "author": null,
+          "description": "Have you ever needed to rename a Git branch? If so, this article will assist you in resolving the problem. Git makes it simple to rename a git branch both locally and remotely. Let's take a look at the solution. Why would you need to rename a branch in Git?",
+          "link": "https://www.freecodecamp.org/news/how-to-rename-local-and-remote-git-branch/",
+          "publishedOn": "2022-01-05T17:19:49.000Z",
+          "wordCount": 444,
+          "title": "How to Rename a Local and Remote Branch in Git"
+        },
         {
           "id": "61d392f6d2d9de084285b76f",
           "author": null,
@@ -4014,15 +4041,6 @@
           "publishedOn": "2021-10-08T15:15:28.000Z",
           "wordCount": 1214,
           "title": "How to Create an Excel File that Pulls Customer Data with WooCommerce and Python"
-        },
-        {
-          "id": "615de4da0d91c9077974e23f",
-          "author": null,
-          "description": "Go, also known as Golang, is an open-source, compiled, and statically typed programming language designed by Google. It is built to be simple, high-performing, readable, and efficient.  In this article, you'll learn:  Where Go came from and where it is now, Why I think you should learn it, How to",
-          "link": "https://www.freecodecamp.org/news/what-is-go-programming-language/",
-          "publishedOn": "2021-10-07T15:26:18.000Z",
-          "wordCount": 1602,
-          "title": "What is Go? Golang Programming Language Meaning Explained"
         }
       ]
     },
@@ -4031,6 +4049,177 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "https://hackernoon.com",
       "articles": [
+        {
+          "id": "https://hackernoon.com/10-best-countries-to-outsource-software-development-in-2022?source=rss",
+          "author": "Sahil Rao",
+          "description": "Here are the top 10 best countries to outsource software development based on cost, ease of finding a developer, quality of software engineer, and more.",
+          "link": "https://hackernoon.com/10-best-countries-to-outsource-software-development-in-2022?source=rss",
+          "publishedOn": "2022-01-05T10:41:15.000Z",
+          "wordCount": 3340,
+          "title": "10 Best Countries to Outsource Software Development in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/12-best-vscode-extensions-to-boost-your-productivity-in-2022?source=rss",
+          "author": "Vikas Rai",
+          "description": "This article is about some useful VScode Extensions that you can use to increase your productivity and save some time while programming in 2022.",
+          "link": "https://hackernoon.com/12-best-vscode-extensions-to-boost-your-productivity-in-2022?source=rss",
+          "publishedOn": "2022-01-05T10:30:42.000Z",
+          "wordCount": 3234,
+          "title": "12 Best Vscode Extensions to Boost Your Productivity in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/malicious-insider-makes-major-mistakes-in-ubiquiti-extortion-case?source=rss",
+          "author": "Isaac Kohen",
+          "description": "By the end of 2021, we are all pretty familiar with the script when it comes to ransomware attacks. These types of attacks have been running rampant.",
+          "link": "https://hackernoon.com/malicious-insider-makes-major-mistakes-in-ubiquiti-extortion-case?source=rss",
+          "publishedOn": "2022-01-05T10:28:33.000Z",
+          "wordCount": 3722,
+          "title": "Malicious Insider Makes Major Mistakes in Ubiquiti Extortion Case"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-the-best-brunch?source=rss",
+          "author": "Jack Boreham",
+          "description": "In this Slogging thread, the team at Hackernoon, discusses, what the best brunch is. We also talk about why Gordon Ramsay is heavily overrated.",
+          "link": "https://hackernoon.com/what-is-the-best-brunch?source=rss",
+          "publishedOn": "2022-01-05T10:17:42.000Z",
+          "wordCount": 1577,
+          "title": "What is the Best Brunch?"
+        },
+        {
+          "id": "https://hackernoon.com/has-solana-encountered-another-ddos-attack?source=rss",
+          "author": "Ricky Rathore",
+          "description": "According to recent reports that have emerged on January 4th, the Solana network has been hit by a DDoS attack.",
+          "link": "https://hackernoon.com/has-solana-encountered-another-ddos-attack?source=rss",
+          "publishedOn": "2022-01-05T09:46:16.000Z",
+          "wordCount": 1954,
+          "title": "Has Solana Encountered Another DDoS Attack?"
+        },
+        {
+          "id": "https://hackernoon.com/lego-sonic-the-hedgehog-set-is-here-why-am-i-shaking?source=rss",
+          "author": "Evgeny Kim",
+          "description": "Lego's Sonic the Hedgehog set celebrates 30 years of Sonic the Hedgehog and is an emotional reminiscence of the 16-bit era with its pixelated characters.",
+          "link": "https://hackernoon.com/lego-sonic-the-hedgehog-set-is-here-why-am-i-shaking?source=rss",
+          "publishedOn": "2022-01-05T08:13:47.000Z",
+          "wordCount": 2032,
+          "title": "Lego Sonic the Hedgehog Set is Here: Why am I Shaking?"
+        },
+        {
+          "id": "https://hackernoon.com/the-best-monster-hunter-world-mods-on-pc-and-how-to-get-them?source=rss",
+          "author": "Marc Magrini",
+          "description": "Check out the best Monster Hunter: World mods available for PC, and discover how you can get them for yourself!",
+          "link": "https://hackernoon.com/the-best-monster-hunter-world-mods-on-pc-and-how-to-get-them?source=rss",
+          "publishedOn": "2022-01-05T05:58:48.000Z",
+          "wordCount": 1998,
+          "title": "The Best Monster Hunter: World Mods on PC and How to Get Them"
+        },
+        {
+          "id": "https://hackernoon.com/the-wolfenstein-games-in-chronological-order-and-ranked-by-sales?source=rss",
+          "author": "Marc Magrini",
+          "description": "Here are the timelines of the major Wolfenstein games in order, as well as where those games rank in terms of sales numbers.",
+          "link": "https://hackernoon.com/the-wolfenstein-games-in-chronological-order-and-ranked-by-sales?source=rss",
+          "publishedOn": "2022-01-05T05:54:08.000Z",
+          "wordCount": 2676,
+          "title": "The Wolfenstein Games in Chronological Order and Ranked by Sales"
+        },
+        {
+          "id": "https://hackernoon.com/crypto-banking-is-the-inevitable-future-of-banking-but-there-are-risks?source=rss",
+          "author": "Ras Vasilisin",
+          "description": "Decentralized finance (DeFi) and centralized finance (CeFi) build their authority and gain mainstream adoption.",
+          "link": "https://hackernoon.com/crypto-banking-is-the-inevitable-future-of-banking-but-there-are-risks?source=rss",
+          "publishedOn": "2022-01-05T00:30:46.000Z",
+          "wordCount": 1638,
+          "title": "Crypto Banking is the Inevitable Future of Banking, But There are Risks"
+        },
+        {
+          "id": "https://hackernoon.com/the-weirdest-non-fungible-crypto-news-stories-of-2021?source=rss",
+          "author": "Benjamin Bateman",
+          "description": "Let's  kick off 2022 by taking a quick peak over our collective shoulders at the weird and wonderful crypto/blockchain stories from last year, shall we?",
+          "link": "https://hackernoon.com/the-weirdest-non-fungible-crypto-news-stories-of-2021?source=rss",
+          "publishedOn": "2022-01-05T00:14:58.000Z",
+          "wordCount": 1796,
+          "title": "The Weirdest Non-Fungible Crypto News Stories of 2021"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-a-data-fabric?source=rss",
+          "author": "Shaan Ray",
+          "description": "A Data Fabric is a mix of architecture and technology that aims to ease the difficulty and complexity of managing several different data types.",
+          "link": "https://hackernoon.com/what-is-a-data-fabric?source=rss",
+          "publishedOn": "2022-01-05T00:13:21.000Z",
+          "wordCount": 1477,
+          "title": "What Is A Data Fabric?"
+        },
+        {
+          "id": "https://hackernoon.com/untangling-iam-policy-s3-bucket-policy-and-s3-acl?source=rss",
+          "author": "Aditi",
+          "description": "Demystify AWS IAM, S3 Bucket policy and Access Control Lists. Learn to configure these from scratch",
+          "link": "https://hackernoon.com/untangling-iam-policy-s3-bucket-policy-and-s3-acl?source=rss",
+          "publishedOn": "2022-01-05T00:12:03.000Z",
+          "wordCount": 2071,
+          "title": "Untangling - IAM Policy, S3 Bucket Policy & S3 ACL"
+        },
+        {
+          "id": "https://hackernoon.com/unlocking-value-stored-in-nfts---an-introduction-to-nft-finance?source=rss",
+          "author": "Abhijoy Sarkar",
+          "description": "While 2021 has seen the explosion of NFT collections, 2022 will possibly start to see their value being leveraged to deliver financial solutions.",
+          "link": "https://hackernoon.com/unlocking-value-stored-in-nfts---an-introduction-to-nft-finance?source=rss",
+          "publishedOn": "2022-01-05T00:05:08.000Z",
+          "wordCount": 2822,
+          "title": "Unlocking Value Stored in NFTs – An Introduction to NFT Finance"
+        },
+        {
+          "id": "https://hackernoon.com/digital-assets-are-we-still-early?source=rss",
+          "author": "Blue Shift Advisors",
+          "description": "Over the past few weeks if you're in the digital asset space you've probably received texts or questions over the holidays on what to buy or if it's a good time to do so etc. etc. I'm writing this in an effort to give my opinion which is in no way shape or form financial advice.",
+          "link": "https://hackernoon.com/digital-assets-are-we-still-early?source=rss",
+          "publishedOn": "2022-01-04T23:57:14.000Z",
+          "wordCount": 2149,
+          "title": "Digital Assets: Are We Still Early?"
+        },
+        {
+          "id": "https://hackernoon.com/empowering-creators-with-tealfeed-co-founder-sourabh-kaushik?source=rss",
+          "author": "Jack Boreham",
+          "description": "In this slogging AMA, we were joined by Tealfeed Cofounder Sourabh Kaushik, we discuss everything Tealfeed, including future ambitions for the platform.",
+          "link": "https://hackernoon.com/empowering-creators-with-tealfeed-co-founder-sourabh-kaushik?source=rss",
+          "publishedOn": "2022-01-04T18:15:38.000Z",
+          "wordCount": 3809,
+          "title": "Empowering Creators with Tealfeed Co-founder Sourabh Kaushik"
+        },
+        {
+          "id": "https://hackernoon.com/how-sandbox-technology-could-revolutionize-the-gaming-market?source=rss",
+          "author": "Guy Bar Sade",
+          "description": "The last decade in the global gaming industry is undoubtedly marked by the rise of mobile gaming, which has completely changed this industry.",
+          "link": "https://hackernoon.com/how-sandbox-technology-could-revolutionize-the-gaming-market?source=rss",
+          "publishedOn": "2022-01-04T15:07:03.000Z",
+          "wordCount": 2117,
+          "title": "How Sandbox Technology Could Revolutionize The Gaming Market"
+        },
+        {
+          "id": "https://hackernoon.com/social-media-taboo-twitter-followers-vs-following-ratio?source=rss",
+          "author": "Nebojsa \"Nesha\" Todorovic",
+          "description": "Top Twitter accounts with the most disproportionate number of followers vs. following.",
+          "link": "https://hackernoon.com/social-media-taboo-twitter-followers-vs-following-ratio?source=rss",
+          "publishedOn": "2022-01-04T13:40:06.000Z",
+          "wordCount": 1791,
+          "title": "Social Media Taboo: Twitter Followers vs. Following Ratio"
+        },
+        {
+          "id": "https://hackernoon.com/decentralized-internet-writing-competition-2021-november-results-announced?source=rss",
+          "author": "Hacker Noon Contests",
+          "description": "Hey Hackers! This is the second last announcement of the HackerNoon Decentralized Internet Contest, 2021.",
+          "link": "https://hackernoon.com/decentralized-internet-writing-competition-2021-november-results-announced?source=rss",
+          "publishedOn": "2022-01-04T13:32:40.000Z",
+          "wordCount": 1655,
+          "title": "#Decentralized-Internet Writing Competition 2021: Results Announced!"
+        },
+        {
+          "id": "https://hackernoon.com/web3-and-beyond-decentralizing-the-internet-can-increase-your-productivity?source=rss",
+          "author": "Dipak jadhav",
+          "description": "Consider how society has changed because of the Internet. In this article, I'll explain how the web has evolved, where it's going next, and why it's important.",
+          "link": "https://hackernoon.com/web3-and-beyond-decentralizing-the-internet-can-increase-your-productivity?source=rss",
+          "publishedOn": "2022-01-04T12:24:46.000Z",
+          "wordCount": 3057,
+          "title": "Web3 and Beyond: Decentralizing the Internet Can Increase Your Productivity"
+        },
         {
           "id": "https://hackernoon.com/become-a-published-writer-in-3-easy-steps?source=rss",
           "author": "Official Writing Prompts",
@@ -4759,6 +4948,15 @@
           "publishedOn": "2021-12-29T06:40:33.000Z",
           "wordCount": 994,
           "title": "[Writing Prompt] Noonies Nominee Interview Questions List"
+        },
+        {
+          "id": "https://hackernoon.com/the-best-wrist-rests-for-practical-comfort?source=rss",
+          "author": "PC Reviewer",
+          "description": "Let's talk about how you can keep your wrists comfy and safe during long gaming and work sessions with the top wrist rests in 2021.",
+          "link": "https://hackernoon.com/the-best-wrist-rests-for-practical-comfort?source=rss",
+          "publishedOn": "2021-12-29T06:35:06.000Z",
+          "wordCount": 977,
+          "title": "The Best Wrist Rests For Practical Comfort"
         },
         {
           "id": "https://hackernoon.com/laptop-cooling-pads?source=rss",
@@ -14551,141 +14749,6 @@
           "publishedOn": "2021-10-08T13:27:02.000Z",
           "wordCount": 3504,
           "title": "How Polkadot Coin Came to Be and What Is Behind Its Success"
-        },
-        {
-          "id": "https://hackernoon.com/how-nfts-are-being-used-at-events?source=rss",
-          "author": "Jon V",
-          "description": "How NFT Tickets work and why using NFT tickets is the future.",
-          "link": "https://hackernoon.com/how-nfts-are-being-used-at-events?source=rss",
-          "publishedOn": "2021-10-08T11:08:03.000Z",
-          "wordCount": 1412,
-          "title": "How NFTs are Being Used at Events"
-        },
-        {
-          "id": "https://hackernoon.com/a-quick-guide-to-eventsource-or-see?source=rss",
-          "author": "Michael Pautov",
-          "description": "The EventSource interface is web content's interface to server-sent events. An EventSource instance offers a persistent connection to an HTTP server for events.",
-          "link": "https://hackernoon.com/a-quick-guide-to-eventsource-or-see?source=rss",
-          "publishedOn": "2021-10-08T10:32:40.000Z",
-          "wordCount": 1343,
-          "title": "A Quick Guide to EventSource or SEE"
-        },
-        {
-          "id": "https://hackernoon.com/everyone-starts-out-dependent-david-roberts-on-building-a-career-in-tech?source=rss",
-          "author": "David Roberts",
-          "description": "I believe: Anyone can become a great programmer. The best developers rarely get the job. To build a great team, hire decent human begins first, tech second",
-          "link": "https://hackernoon.com/everyone-starts-out-dependent-david-roberts-on-building-a-career-in-tech?source=rss",
-          "publishedOn": "2021-10-08T10:22:50.000Z",
-          "wordCount": 781,
-          "title": "“Everyone Starts Out Dependent”: David Roberts on Building a Career in Tech"
-        },
-        {
-          "id": "https://hackernoon.com/building-your-hr-career-in-it-tips-to-master-tech-recruitment?source=rss",
-          "author": "Andrey Koptelov",
-          "description": "One of the key requirements for working in IT, for HRs included, is being digitally literate and using technologies to boost productivity. Let's dive deeper.",
-          "link": "https://hackernoon.com/building-your-hr-career-in-it-tips-to-master-tech-recruitment?source=rss",
-          "publishedOn": "2021-10-08T10:08:19.000Z",
-          "wordCount": 1734,
-          "title": "Building Your HR Career in IT: Tips to Master Tech Recruitment"
-        },
-        {
-          "id": "https://hackernoon.com/5-tips-to-improve-your-websites-ux?source=rss",
-          "author": "Rebecca Barnatt-Smith",
-          "description": "UX design is the key to battling a growing number of competitors in a post-covid e-commerce environment. Here are 5 strategies for ultimate success.",
-          "link": "https://hackernoon.com/5-tips-to-improve-your-websites-ux?source=rss",
-          "publishedOn": "2021-10-08T08:56:08.000Z",
-          "wordCount": 2036,
-          "title": "5 Tips to Improve Your Website's UX"
-        },
-        {
-          "id": "https://hackernoon.com/how-to-fix-an-ethernet-cable-plug-rj45-plug-and-other-ethernet-tips?source=rss",
-          "author": "Oliver Rieder",
-          "description": "Many of you have probably experienced problems with a broken RJ45 plug. The locking tab of RJ45 plugs breaks easily and this is one of the most common issues faced by the users of Ethernet cables. Now, I’ll tell you about a temporary solution that will help you make a connection with a broken plug more reliable.",
-          "link": "https://hackernoon.com/how-to-fix-an-ethernet-cable-plug-rj45-plug-and-other-ethernet-tips?source=rss",
-          "publishedOn": "2021-10-08T08:43:11.000Z",
-          "wordCount": 2939,
-          "title": "How to Fix an Ethernet Cable Plug (RJ45 Plug) and Other Ethernet Tips"
-        },
-        {
-          "id": "https://hackernoon.com/what-are-the-key-stages-of-data-protection-impact-assessment?source=rss",
-          "author": "Narendra Sahoo",
-          "description": "A Data Protection Impact Assessment which is also referred to as Privacy Impact Assessments is a mandatory requirement for organizations to comply with.",
-          "link": "https://hackernoon.com/what-are-the-key-stages-of-data-protection-impact-assessment?source=rss",
-          "publishedOn": "2021-10-07T19:43:07.000Z",
-          "wordCount": 817,
-          "title": "What are the Key Stages of Data Protection Impact Assessment?"
-        },
-        {
-          "id": "https://hackernoon.com/stoplights-open-source-october-hacktoberfest-involvement-and-pull-requests-for-trees?source=rss",
-          "author": "Stoplight",
-          "description": "Complete an open-source pull request from one of our open-source tools, & we will plan 400 trees in your honor to celebrate Open-Source October & Hacktoberfest.",
-          "link": "https://hackernoon.com/stoplights-open-source-october-hacktoberfest-involvement-and-pull-requests-for-trees?source=rss",
-          "publishedOn": "2021-10-07T19:32:22.000Z",
-          "wordCount": 1180,
-          "title": "Stoplight's Open-Source October: Hacktoberfest Involvement & Pull-Requests for Trees"
-        },
-        {
-          "id": "https://hackernoon.com/finally-i-m-not-coding-on-a-5-year-old-chromebook-anymore?source=rss",
-          "author": "Ian",
-          "description": "Recently I got a nice computer, but before I was using a very old Chromebook. I talk about my experiences trying to set up a coding environment.",
-          "link": "https://hackernoon.com/finally-i-m-not-coding-on-a-5-year-old-chromebook-anymore?source=rss",
-          "publishedOn": "2021-10-07T19:27:49.000Z",
-          "wordCount": 802,
-          "title": "Finally, I' m Not Coding on a 5-Year-Old Chromebook Anymore"
-        },
-        {
-          "id": "https://hackernoon.com/how-to-make-your-rails-app-work-with-the-mac-m1-chip-solved?source=rss",
-          "author": "amisha-100",
-          "description": "Get your rails app running from terminal using the following steps on MacBook M1 Chip.",
-          "link": "https://hackernoon.com/how-to-make-your-rails-app-work-with-the-mac-m1-chip-solved?source=rss",
-          "publishedOn": "2021-10-07T19:18:28.000Z",
-          "wordCount": 777,
-          "title": "How to Make your Rails App Work with the Mac M1 Chip [SOLVED]"
-        },
-        {
-          "id": "https://hackernoon.com/trouble-brewing-in-the-nerdisphere-now-i-just-need-to-choose-a-framework?source=rss",
-          "author": "Elijah Ken",
-          "description": "A javascript developer desperately tries to make sense of the universe and the purpose of programming within it. He finds more questions than answer.",
-          "link": "https://hackernoon.com/trouble-brewing-in-the-nerdisphere-now-i-just-need-to-choose-a-framework?source=rss",
-          "publishedOn": "2021-10-07T19:07:54.000Z",
-          "wordCount": 819,
-          "title": "Trouble Brewing in the Nerdisphere: Now, I Just Need to Choose a Framework"
-        },
-        {
-          "id": "https://hackernoon.com/using-pwa-and-vue-js-together---how-it-benefits-businesses?source=rss",
-          "author": "AddWeb Solution",
-          "description": "Want to know how converting your Vue JS Web Apps into PWAs can benefit your business and how it can improve things like SEO, load times, and reduce costs?",
-          "link": "https://hackernoon.com/using-pwa-and-vue-js-together---how-it-benefits-businesses?source=rss",
-          "publishedOn": "2021-10-07T18:54:52.000Z",
-          "wordCount": 806,
-          "title": "Using PWA and Vue JS TOGETHER – How It Benefits Businesses?"
-        },
-        {
-          "id": "https://hackernoon.com/bitcoin-alliance-to-support-el-salvadors-recent-adoption-of-crypto-friendly-financial-services?source=rss",
-          "author": "API3",
-          "description": "API3 is pleased to announce the Bitcoin Alliance, an alliance with Banco Hipotecario, TESOBE (The company behind the Open Bank Project), Qredo and Sovryn to support El Salvador’s recent adoption of bitcoin and crypto-friendly financial services.",
-          "link": "https://hackernoon.com/bitcoin-alliance-to-support-el-salvadors-recent-adoption-of-crypto-friendly-financial-services?source=rss",
-          "publishedOn": "2021-10-07T17:24:21.000Z",
-          "wordCount": 1730,
-          "title": "Bitcoin Alliance to Support El Salvador’s Recent Adoption of Crypto-Friendly Financial Services"
-        },
-        {
-          "id": "https://hackernoon.com/the-concerning-results-of-investigation-into-googles-youtube-ad-placement-blocklist?source=rss",
-          "author": "The Markup",
-          "description": "An investigation by The Markup has shown that YouTube has been surpressing Black Lives Matter-related ads while doing nothing to prevent white supremacist ads.",
-          "link": "https://hackernoon.com/the-concerning-results-of-investigation-into-googles-youtube-ad-placement-blocklist?source=rss",
-          "publishedOn": "2021-10-07T16:33:34.000Z",
-          "wordCount": 818,
-          "title": "The Concerning Results of Investigation Into Google’s YouTube Ad Placement Blocklist"
-        },
-        {
-          "id": "https://hackernoon.com/an-introduction-to-skynets-homescreen-for-managing-defi-and-dweb-apps?source=rss",
-          "author": "Evelina Lavrova",
-          "description": "Interview David Vorick CEO of Skynet Labs about trends, pitfalls, why it’s important to own the data and how Homescreen's going to change the way we use the Web",
-          "link": "https://hackernoon.com/an-introduction-to-skynets-homescreen-for-managing-defi-and-dweb-apps?source=rss",
-          "publishedOn": "2021-10-07T12:54:48.000Z",
-          "wordCount": 821,
-          "title": "An Introduction to Skynet's Homescreen for Managing DeFi and DWeb Apps"
         }
       ]
     },
@@ -14807,6 +14870,16 @@
       "feedUrl": "http://feeds.feedburner.com/helloacm?format=xml",
       "siteUrl": "https://helloacm.com",
       "articles": [
+        {
+          "id": "https://helloacm.com/?p=148391",
+          "author": "ACMer",
+          "description": "Given a binary tree root, return the longest path consisting of even values between any two nodes in the tree. Constraints n ≤ 100,000 where n is the number of nodes in root Example 1 Input root = ,...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-longest-even-value-path-in-binary-tree-using-recursive-depth-first-search-algorithm/",
+          "publishedOn": "2022-01-05T21:58:21.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Longest Even Value Path in Binary Tree using Recursive Depth First Search Algorithm",
+          "itunes": {}
+        },
         {
           "id": "https://helloacm.com/?p=148376",
           "author": "ACMer",
@@ -15604,6 +15677,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=514623",
+          "author": "Al Williams",
+          "description": "In an interesting post on Inverse, [Sarah Wells] does a deep dive into something you probably don’t think about very often: the blinking cursor. You’d assume there wasn’t much to …read more",
+          "link": "https://hackaday.com/2022/01/05/blinking-cursor-turns-54-hardly-anyone-notices/",
+          "publishedOn": "2022-01-06T00:00:00.000Z",
+          "wordCount": 1121,
+          "title": "Blinking Cursor Turns 54, Hardly Anyone Notices"
+        },
+        {
+          "id": "https://hackaday.com/?p=514483",
+          "author": "Dave Rowntree",
+          "description": "LinuxCNC contributor and machining enthusiast [Andy Pugh] is certainly not afraid to try making specialised tools to see how well they work out, and this time he’s been busy making …read more",
+          "link": "https://hackaday.com/2022/01/05/a-simple-touch-probe-made-with-basic-tools/",
+          "publishedOn": "2022-01-05T21:00:23.000Z",
+          "wordCount": 1410,
+          "title": "A Simple Touch Probe Made With Basic Tools"
+        },
+        {
+          "id": "https://hackaday.com/?p=514255",
+          "author": "Brian McEvoy",
+          "description": "USB cables inevitably fail and sometimes one end is reincarnated to power our solderless breadboards. Of course, if the cable broke once, it is waiting to crap out again. Too …read more",
+          "link": "https://hackaday.com/2022/01/05/usb-power-has-never-been-easier/",
+          "publishedOn": "2022-01-05T19:30:41.000Z",
+          "wordCount": 3190,
+          "title": "USB Power Has Never Been Easier"
+        },
+        {
+          "id": "https://hackaday.com/?p=511361",
+          "author": "Al Williams",
+          "description": "In an ideal world, your FDM 3D printer’s bed would be perfectly parallel with the print head’s plane of movement. We usually say that means the bed is “level”, but …read more",
+          "link": "https://hackaday.com/2022/01/05/3d-printering-one-bed-level-to-rule-them-all/",
+          "publishedOn": "2022-01-05T18:00:55.000Z",
+          "wordCount": 3702,
+          "title": "3D Printering: One Bed Level to Rule Them All"
+        },
+        {
+          "id": "https://hackaday.com/?p=514118",
+          "author": "Arsenijs Picugins",
+          "description": "Out of all the laptop upgrade options typically available, you wouldn’t expect this specific one. [controlmypad] decided to take a part of his RS485 device programming workflow and put it …read more",
+          "link": "https://hackaday.com/2022/01/05/laptop-empty-space-filled-with-rs485-and-poe/",
+          "publishedOn": "2022-01-05T16:30:46.000Z",
+          "wordCount": 1485,
+          "title": "Laptop Empty Space Filled With RS485 and PoE"
+        },
+        {
+          "id": "https://hackaday.com/?p=512240",
+          "author": "Lewin Day",
+          "description": "When looking at the performance of a vehicle, weight is one of the most important factors in the equation. Heavier vehicles take more energy to accelerate and are harder to …read more",
+          "link": "https://hackaday.com/2022/01/05/does-this-lead-make-my-car-look-fat/",
+          "publishedOn": "2022-01-05T15:00:00.000Z",
+          "wordCount": 4718,
+          "title": "Does this Lead Make My Car Look Fat?"
+        },
+        {
+          "id": "https://hackaday.com/?p=513700",
+          "author": "Bryan Cockfield",
+          "description": "Generating random numbers might seem like a trivial task, that is until the numbers need to be truly random for cryptography or security reasons. When that’s the case, it turns …read more",
+          "link": "https://hackaday.com/2022/01/05/dice-rolls-from-the-beginning-of-time/",
+          "publishedOn": "2022-01-05T12:00:12.000Z",
+          "wordCount": 2447,
+          "title": "Dice Rolls From the Beginning of Time"
+        },
         {
           "id": "https://hackaday.com/?p=514045",
           "author": "Tom Nardi",
@@ -21192,69 +21328,6 @@
           "publishedOn": "2021-10-08T14:00:46.000Z",
           "wordCount": 2632,
           "title": "This Week in Security: Apache Nightmare, REvil Arrests?  And the Ultimate RickRoll"
-        },
-        {
-          "id": "https://hackaday.com/?p=499125",
-          "author": "Lewin Day",
-          "description": "Files are a very useful important tool if you’re machining your own parts. They can do plenty of shaping themselves on smaller parts in particular. Powering such a tool just …read more",
-          "link": "https://hackaday.com/2021/10/07/building-your-own-filing-machine-from-a-kit/",
-          "publishedOn": "2021-10-07T23:00:03.000Z",
-          "wordCount": 1302,
-          "title": "Building Your Own Filing Machine From A Kit"
-        },
-        {
-          "id": "https://hackaday.com/?p=499865",
-          "author": "Donald Papp",
-          "description": "[ThingaUser] made a tool to solve a specific problem of theirs, but the design also happens to be a pretty good way to turn a c-clamp into a poor man’s …read more",
-          "link": "https://hackaday.com/2021/10/07/c-clamp-becomes-light-duty-arbor-press/",
-          "publishedOn": "2021-10-07T20:00:53.000Z",
-          "wordCount": 1148,
-          "title": "C-Clamp Becomes Light-Duty Arbor Press"
-        },
-        {
-          "id": "https://hackaday.com/?p=500090",
-          "author": "Al Williams",
-          "description": "When we first saw [lonesoulsurfer’s] ray gun, we thought it looked oddly familiar. Sure, it looks like a vintage ray gun you might see in a dozen 1950-era movies or …read more",
-          "link": "https://hackaday.com/2021/10/07/halloween-build-exquisite-ray-gun-has-sound-effects/",
-          "publishedOn": "2021-10-07T18:00:00.000Z",
-          "wordCount": 1177,
-          "title": "Halloween Build: Exquisite Ray Gun has Sound Effects"
-        },
-        {
-          "id": "https://hackaday.com/?p=499038",
-          "author": "Al Williams",
-          "description": "I once asked a software developer at work how many times we called fork() in our code. I’ll admit, it was a very large project, but I expected the answer …read more",
-          "link": "https://hackaday.com/2021/10/07/linux-fu-globs-vs-regexp/",
-          "publishedOn": "2021-10-07T17:00:05.000Z",
-          "wordCount": 2184,
-          "title": "Linux Fu: Globs vs Regexp"
-        },
-        {
-          "id": "https://hackaday.com/?p=500120",
-          "author": "Elliot Williams",
-          "description": "The judges’ ballots are in and we’re proud to present the ten winners of the fourth round of the 2021 Hackaday Prize. We love robots, and it’s obvious that you …read more",
-          "link": "https://hackaday.com/2021/10/07/meet-the-winners-of-the-hackaday-prize-round-four-redefine-robots/",
-          "publishedOn": "2021-10-07T16:00:32.000Z",
-          "wordCount": 1367,
-          "title": "Meet the Winners of The Hackaday Prize Round Four: Redefine Robots"
-        },
-        {
-          "id": "https://hackaday.com/?p=500129",
-          "author": "Al Williams",
-          "description": "Don’t blame us for the title. [CCrome] admits it may well be the cheapest and worst IR camera available. The concept is surprisingly simple. Mount a cheap Harbor Freight non-contact …read more",
-          "link": "https://hackaday.com/2021/10/07/worlds-cheapest-and-possibly-worst-ir-camera/",
-          "publishedOn": "2021-10-07T15:00:00.000Z",
-          "wordCount": 1738,
-          "title": "World’s Cheapest and Possibly Worst IR Camera"
-        },
-        {
-          "id": "https://hackaday.com/?p=497755",
-          "author": "Maya Posch",
-          "description": "There’s something intrinsically simple about the concept of carbon (CO2) capture: you simply have the CO2 molecules absorbed or adsorbed by something, after which you separate the thus captured CO2 …read more",
-          "link": "https://hackaday.com/2021/10/07/creating-methane-from-captured-carbon-dioxide-and-the-future-of-carbon-capture/",
-          "publishedOn": "2021-10-07T14:00:43.000Z",
-          "wordCount": 4507,
-          "title": "Creating Methane From Captured Carbon Dioxide And The Future Of Carbon Capture"
         }
       ]
     },
@@ -21263,6 +21336,66 @@
       "feedUrl": "http://rss.sciam.com/scientificamerican-global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "C9F73F47-E74C-43D0-8455EF0104F01FE9",
+          "author": "Chelsea Harvey, E&E News",
+          "description": "As trees are cleared, surrounding areas heat up, triggering heavy rainstorms\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/deforestation-strengthens-storms-in-west-africa/",
+          "publishedOn": "2022-01-05T20:00:00.000Z",
+          "wordCount": null,
+          "title": "Deforestation Strengthens Storms in West Africa",
+          "itunes": {}
+        },
+        {
+          "id": "2C67D737-CF4E-4882-AD4ECDA1761E1B1B",
+          "author": "Mindy Weisberger, LiveScience",
+          "description": "In a fraction of a second, the outburst released as much energy as our sun produces in 100,000 years\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/astronomers-report-a-monstrous-eruption-from-a-supermagnetic-star/",
+          "publishedOn": "2022-01-05T18:00:00.000Z",
+          "wordCount": null,
+          "title": "Astronomers Report a Monstrous Eruption from a Supermagnetic Star",
+          "itunes": {}
+        },
+        {
+          "id": "49C22C9E-68E2-4731-AB2DB34065FDCA3F",
+          "author": "Tereza Pultarova, SPACE.com",
+          "description": "The successful unfurling of the five-layered, tennis court-sized assemblage is a major milestone for the new observatory\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/james-webb-space-telescope-completes-crucial-sunshield-deployment/",
+          "publishedOn": "2022-01-05T16:00:00.000Z",
+          "wordCount": null,
+          "title": "James Webb Space Telescope Completes Crucial Sunshield Deployment",
+          "itunes": {}
+        },
+        {
+          "id": "D8C436AC-42FF-4165-BD37F254A6CDE5D5",
+          "author": "Anjana Susarla, Dam Hee Kim, Ethan Zuckerman, The Conversation US",
+          "description": "The one-year anniversary of the January 6 attack on the U.S. Capitol is raising concerns about falsehoods that increase the risk of repeat events\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/what-will-2022-bring-in-the-way-of-misinformation-on-social-media-3-experts-weigh-in/",
+          "publishedOn": "2022-01-05T14:00:00.000Z",
+          "wordCount": null,
+          "title": "What Will 2022 Bring in the Way of Misinformation on Social Media? 3 Experts Weigh In",
+          "itunes": {}
+        },
+        {
+          "id": "1773C438-4CA3-440E-AF852F06B9982544",
+          "author": "Doug Johnson, Undark",
+          "description": "The DarkNPS algorithm has predicted the formulas of millions of potential drugs\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-ai-could-prevent-the-development-of-new-illicit-drugs/",
+          "publishedOn": "2022-01-05T13:00:00.000Z",
+          "wordCount": null,
+          "title": "How AI Could Prevent the Development of New Illicit Drugs",
+          "itunes": {}
+        },
+        {
+          "id": "EC816C33-599D-434D-B10A86485E04CD21",
+          "author": "Ellis Avallone",
+          "description": "Deep vibrations called infrasound can provide an early warning of ice avalanches’ speed and trajectory\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/new-technology-monitors-collapsing-glaciers/",
+          "publishedOn": "2022-01-05T11:45:00.000Z",
+          "wordCount": null,
+          "title": "New Technology Monitors Collapsing Glaciers",
+          "itunes": {}
+        },
         {
           "id": "24317230-ED46-4148-AF7008E838559D41",
           "author": "Sara Schonhardt, E&E News",
@@ -26024,66 +26157,6 @@
             "length": "4942678",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "F4DCA2C5-226B-4C57-91E29EECC2BA39C0",
-          "author": "Tanya Lewis",
-          "description": "Ardem Patapoutian shared the physiology or medicine prize for work on mechanisms crucial to everything from bladder control to knowing where our limbs are\n\r\n\r\n-- Read more on ScientificAmerican.com",
-          "link": "https://www.scientificamerican.com/article/2021-medicine-nobel-prize-winner-explains-the-importance-of-sensing-touch/",
-          "publishedOn": "2021-10-08T10:45:00.000Z",
-          "wordCount": null,
-          "title": "2021 Medicine Nobel Prize Winner Explains the Importance of Sensing Touch",
-          "itunes": {}
-        },
-        {
-          "id": "B6EFF54C-FECE-4EC2-AD209536DE8EE262",
-          "author": "Filippo Menczer, The Conversation US",
-          "description": "Frances Haugen confirmed the negative effects caused by attempts to maximize engagement\n\r\n\r\n-- Read more on ScientificAmerican.com",
-          "link": "https://www.scientificamerican.com/article/facebook-whistleblower-testified-that-companys-algorithms-are-dangerous-heres-why/",
-          "publishedOn": "2021-10-07T20:15:00.000Z",
-          "wordCount": null,
-          "title": "Facebook Whistleblower Testified That Company's Algorithms Are Dangerous: Here's Why",
-          "itunes": {}
-        },
-        {
-          "id": "DD0FB406-4E5C-4AA4-AD866CAABF654061",
-          "author": "Arianna Skibell, E&E News",
-          "description": "Just 30 percent of cars on the road will be electric by 2050 under current policies, the U.S. Energy Information Administration says\n\r\n\r\n-- Read more on ScientificAmerican.com",
-          "link": "https://www.scientificamerican.com/article/electric-vehicle-adoption-not-happening-fast-enough-to-meet-climate-goals/",
-          "publishedOn": "2021-10-07T19:45:00.000Z",
-          "wordCount": null,
-          "title": "Electric Vehicle Adoption Not Happening Fast Enough to Meet Climate Goals",
-          "itunes": {}
-        },
-        {
-          "id": "08480E95-FE29-4519-8D7950BDCE8F0112",
-          "author": "Daniel Garisto",
-          "description": "The prestigious award finally recognizes work that helped scientists understand climate change and, more broadly, find order in disorder\n\r\n\r\n-- Read more on ScientificAmerican.com",
-          "link": "https://www.scientificamerican.com/article/why-the-physics-nobel-honored-climate-science-and-complex-systems/",
-          "publishedOn": "2021-10-07T18:30:00.000Z",
-          "wordCount": null,
-          "title": "Why the Physics Nobel Honored Climate Science and Complex Systems",
-          "itunes": {}
-        },
-        {
-          "id": "12A0DBD7-8FE8-421F-9CAA298195D2FD1E",
-          "author": "Jonathan O'Callaghan",
-          "description": "New results from the mission reveal that its landing site of Jezero Crater has a surprisingly dynamic and complex hydrologic history\n\r\n\r\n-- Read more on ScientificAmerican.com",
-          "link": "https://www.scientificamerican.com/article/nasas-perseverance-rover-finds-signs-of-epic-ancient-floods-on-mars/",
-          "publishedOn": "2021-10-07T18:00:00.000Z",
-          "wordCount": null,
-          "title": "NASA's Perseverance Rover Finds Signs of Epic Ancient Floods on Mars",
-          "itunes": {}
-        },
-        {
-          "id": "7A6D7909-E11B-4307-AB0A4A6842BDF0BA",
-          "author": "Davide Castelvecchi, Nature magazine",
-          "description": "Physicists have imaged elusive ‘Wigner crystals’ for the first time\n\r\n\r\n-- Read more on ScientificAmerican.com",
-          "link": "https://www.scientificamerican.com/article/this-is-what-a-solid-made-of-electrons-looks-like/",
-          "publishedOn": "2021-10-07T14:30:00.000Z",
-          "wordCount": null,
-          "title": "This Is What a Solid Made of Electrons Looks Like",
-          "itunes": {}
         }
       ]
     },
@@ -26092,6 +26165,33 @@
       "feedUrl": "https://devops.com/feed/",
       "siteUrl": "https://devops.com",
       "articles": [
+        {
+          "id": "https://devops.com/?p=148847",
+          "author": "Veronica Haggar",
+          "description": "In an era where software is dominating the world, the security and quality of code must remain a high priority. Delivering secure and reliable software at a rapid pace is crucial for most organizations today, but it’s not an easy task. What security best practices do organizations put in place to successfully produce secure software? How should DevOps teams […]\nThe post Secure Software Summit: Exploring Secure Coding Best Practices appeared first on DevOps.com.",
+          "link": "https://devops.com/secure-software-summit-exploring-secure-coding-best-practices/",
+          "publishedOn": "2022-01-05T15:00:23.000Z",
+          "wordCount": 815,
+          "title": "Secure Software Summit: Exploring Secure Coding Best Practices"
+        },
+        {
+          "id": "https://devops.com/?p=148829",
+          "author": "Guy Eisenkot",
+          "description": "We’ve been talking about DevSecOps and shift-left security for years. Although this approach probably didn’t “cross the chasm” in 2021, we did see some very telling milestones. Cybersecurity VC funding surged to record heights with a focus on DevOps and cloud security and the need for DevSecOps became glaringly evident with the Log4j vulnerability. On a […]\nThe post DevSecOps Will Cross the Chasm in 2022 appeared first on DevOps.com.",
+          "link": "https://devops.com/devsecops-will-cross-the-chasm-in-2022/",
+          "publishedOn": "2022-01-05T08:00:47.000Z",
+          "wordCount": 1145,
+          "title": "DevSecOps Will Cross the Chasm in 2022"
+        },
+        {
+          "id": "https://devops.com/?p=148806",
+          "author": "Don Macvittie",
+          "description": "Welcome to 2022! Let’s start this year’s blogging off with a bang, and point out that we are in the process of creating the biggest lock-in that we have ever had. And I do mean ever. Maybe the hardware lock-in of the old days where vendor A was incompatible with vendor B was worse, but […]\nThe post CI/CD is the New Lock-In appeared first on DevOps.com.",
+          "link": "https://devops.com/ci-cd-is-the-new-lock-in/",
+          "publishedOn": "2022-01-05T07:30:13.000Z",
+          "wordCount": 1072,
+          "title": "CI/CD is the New Lock-In"
+        },
         {
           "id": "https://devops.com/?p=148835",
           "author": "Mike Vizard",
@@ -28134,51 +28234,6 @@
           "publishedOn": "2021-10-08T19:06:14.000Z",
           "wordCount": 1017,
           "title": "Snyk Extends Tools Portfolio to Drive DevSecOps Adoption"
-        },
-        {
-          "id": "https://devops.com/?p=146172",
-          "author": "Terry Simpson",
-          "description": "A few weeks ago, one of my neighbors dug a ditch in his yard, hit a fiber internet line and knocked out my internet for eight hours. There I was, ready to start working, and I was cut off from my colleagues for an entire day. That experience highlighted the importance of a good digital […]\nThe post Your Tech is Only as Good as Your Infrastructure appeared first on DevOps.com.",
-          "link": "https://devops.com/your-tech-is-only-as-good-as-your-infrastructure/",
-          "publishedOn": "2021-10-08T07:00:30.000Z",
-          "wordCount": 1255,
-          "title": "Your Tech is Only as Good as Your Infrastructure"
-        },
-        {
-          "id": "https://devops.com/?p=146139",
-          "author": "Jonathan Schneider",
-          "description": "Software development is undergoing industrialization, with more and more software rapidly assembled out of components and an emphasis on building automation around software validation and release processes. Modern cloud-native software is no longer a monolithic application living in a single repo with the majority of its dependencies self-contained. It is integrated from third-party components provided […]\nThe post Microservices Adoption and the Software Supply Chain appeared first on DevOps.com.",
-          "link": "https://devops.com/microservices-adoption-and-the-software-supply-chain/",
-          "publishedOn": "2021-10-08T06:30:43.000Z",
-          "wordCount": 1604,
-          "title": "Microservices Adoption and the Software Supply Chain"
-        },
-        {
-          "id": "https://devops.com/?p=146169",
-          "author": "Mike Vizard",
-          "description": "BMC has acquired StreamWeaver, a provider of a platform that makes it simpler to capture streaming data in real-time, as part of an effort to extend the BMC Helix IT operations platform infused with artificial intelligence (AIOps). Financial terms of the transaction were not disclosed. Margaret Lee, general manager and senior vice president for digital […]\nThe post BMC Acquires StreamWeaver to Advance AIOps Strategy appeared first on DevOps.com.",
-          "link": "https://devops.com/bmc-acquires-streamweaver-to-advance-aiops-strategy/",
-          "publishedOn": "2021-10-07T21:30:26.000Z",
-          "wordCount": 1004,
-          "title": "BMC Acquires StreamWeaver to Advance AIOps Strategy"
-        },
-        {
-          "id": "https://devops.com/?p=146112",
-          "author": "Mike Vizard",
-          "description": "Verica, a provider of an incident management platform, announced this week it is making available a database to make incident reports publicly available via a single repository. Courtney Nash, senior research analyst at Verica, said the Verica Open Incident Database (VOID) initiative is part of an effort to enable organizations to learn from outages and […]\nThe post Verica Launches Database for Sharing IT Incident Reports appeared first on DevOps.com.",
-          "link": "https://devops.com/verica-launches-database-for-sharing-it-incident-reports/",
-          "publishedOn": "2021-10-07T19:29:41.000Z",
-          "wordCount": 985,
-          "title": "Verica Launches Database for Sharing IT Incident Reports"
-        },
-        {
-          "id": "https://devops.com/?p=146152",
-          "author": "Mike Vizard",
-          "description": "Perforce Software has acquired BlazeMeter from Broadcom as part of an effort to extend the scope of its testing tools beyond the Perfecto tools for testing mobile and web applications it acquired in 2018. Broadcom gained control over BlazeMeter after it acquired CA Technologies in 2018. CA Technologies acquired BlazeMeter in 2016. Terms of the […]\nThe post Perforce Charts Testing Course After BlazeMeter Acquisition appeared first on DevOps.com.",
-          "link": "https://devops.com/perforce-charts-testing-course-after-blazemeter-acquisition/",
-          "publishedOn": "2021-10-07T13:26:20.000Z",
-          "wordCount": 1040,
-          "title": "Perforce Charts Testing Course After BlazeMeter Acquisition"
         }
       ]
     },
@@ -28187,6 +28242,16 @@
       "feedUrl": "https://api.quantamagazine.org/feed/",
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=111632",
+          "author": "Viviane Callier",
+          "description": "New studies reveal the ancient, shared genetic “grammar” underpinning the diverse evolution of fish fins and tetrapod limbs.             \nThe post Flying Fish and Aquarium Pets Yield Secrets of Evolution first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/flying-fish-and-aquarium-pets-yield-secrets-of-evolution-20220105/",
+          "publishedOn": "2022-01-05T15:31:47.000Z",
+          "wordCount": null,
+          "title": "Flying Fish and Aquarium Pets Yield Secrets of Evolution",
+          "itunes": {}
+        },
         {
           "id": "https://www.quantamagazine.org/?p=111480",
           "author": "Adam Mann",
@@ -28664,6 +28729,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66464",
+          "author": "Nathan Yau",
+          "description": "One of my favorites of the year, Sam Learner’s River Runner shows you…\nTags: rain, river, Sam Learner, water",
+          "link": "https://flowingdata.com/2022/01/05/drop-rain-anywhere-in-the-world-and-see-where-it-ends-up/",
+          "publishedOn": "2022-01-05T16:24:55.000Z",
+          "wordCount": 278,
+          "title": "Drop rain anywhere in the world and see where it ends up"
+        },
         {
           "id": "https://flowingdata.com/?p=66460",
           "author": "Nathan Yau",
@@ -29509,24 +29583,6 @@
           "publishedOn": "2021-10-08T15:50:00.000Z",
           "wordCount": 287,
           "title": "Spike maps in R"
-        },
-        {
-          "id": "https://flowingdata.com/?p=65731",
-          "author": "Nathan Yau",
-          "description": "This is the best freelance advice ever written.\nTags: freelancing",
-          "link": "https://flowingdata.com/2021/10/07/process-160-freelance/",
-          "publishedOn": "2021-10-07T18:30:20.000Z",
-          "wordCount": 303,
-          "title": "✚ Data Visualization Freelance Advice, from Someone Who Doesn’t Freelance and Has No Clue What He is Talking About – The Process 160"
-        },
-        {
-          "id": "https://flowingdata.com/?p=65738",
-          "author": "Nathan Yau",
-          "description": "The Washington Post, in an effort that I’m sure took more energy and…\nTags: abortion, Washington Post",
-          "link": "https://flowingdata.com/2021/10/07/comparing-abortion-limits-in-the-u-s-against-other-countries/",
-          "publishedOn": "2021-10-07T16:05:55.000Z",
-          "wordCount": 338,
-          "title": "Comparing abortion limits in the U.S. against other countries"
         }
       ]
     },
