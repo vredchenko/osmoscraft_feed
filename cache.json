@@ -22,6 +22,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=360711",
+          "author": "Chris Coyier",
+          "description": "Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Typography is one of those things! Here’s a list of typography links to other articles that I’ve been saving up and …\n8 Interesting Typography Links for January 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/typography-links-january-2022/",
+          "publishedOn": "2022-01-07T22:31:52.000Z",
+          "wordCount": 847,
+          "title": "8 Interesting Typography Links for January 2022"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360113",
+          "author": "Geoff Graham",
+          "description": "I was killing some time browsing my CodePen feed for some eye candy and didn’t need to go past the first page before spotting a neat CSS hover effect by Adam Argyle.\nI must’ve spent 10 minutes just staring …\nAdam Argyle’s Sick Mouse-Out CSS Hover Effect originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/adam-argyles-sick-mouse-out-css-hover-effect/",
+          "publishedOn": "2022-01-07T20:15:19.000Z",
+          "wordCount": 1120,
+          "title": "Adam Argyle’s Sick Mouse-Out CSS Hover Effect"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359823",
+          "author": "Rafał Pastuszak",
+          "description": "I took a break from work and started some small, personal projects (toys). One of those small projects is potato.horse where I keep all of my doodles, visual short stories and jokes. Check it out!\nHowever, this post is not …\nuseRainbow() originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/userainbow/",
+          "publishedOn": "2022-01-07T14:59:04.000Z",
+          "wordCount": 1819,
+          "title": "useRainbow()"
+        },
+        {
           "id": "https://css-tricks.com/?p=360320",
           "author": "Chris Coyier",
           "description": "There is an easy-to-use CSS container query polyfill now. You essentially conditionally load it and forget about it. Then write spec-compliant container queries code.\nA New Container Query Polyfill That Just Works originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
@@ -1621,6 +1648,60 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61d6e37ad2d9de084285d220",
+          "author": null,
+          "description": "In this post we're going to get all the headings from a freeCodeCamp blog post to make a Table of Contents (ToC) in Ghost CMS. I recently published quite a large post here on freeCodeCamp and needed to add a table of contents to the post. There's a really good",
+          "link": "https://www.freecodecamp.org/news/how-to-get-headings-and-ids-for-your-freecodecamp-blog-posts/",
+          "publishedOn": "2022-01-07T21:31:15.000Z",
+          "wordCount": 941,
+          "title": "How to Get Headings and IDs for Your freeCodeCamp Blog Post Table of Contents"
+        },
+        {
+          "id": "61d7e914d2d9de084285df19",
+          "author": null,
+          "description": "Have you ever sat down to write some code or browse the internet, only to discover that your keyboard isn't working?  When your keyboard fails to work, it could be due to:  Physical damage Dirt Filter keys Outdated or corrupt driver Low battery (if you're using an external keyboard). You",
+          "link": "https://www.freecodecamp.org/news/keyboard-not-working-how-to-fix-windows-10-keyboard-not-typing-problem/",
+          "publishedOn": "2022-01-07T21:00:30.000Z",
+          "wordCount": 740,
+          "title": "Keyboard Not Working? How to Fix Windows 10 Keyboard Not Typing Problem"
+        },
+        {
+          "id": "61d74f40d2d9de084285da90",
+          "author": null,
+          "description": "When you're learning the basics of most programming languages, you are bound to come across operators.  In this tutorial, we will talk about the not equal operator in Python and also see a few examples of how it works.  Operators and Operands in PythonBefore talking about the not equal operator,",
+          "link": "https://www.freecodecamp.org/news/python-not-equal-how-to-use-the-does-not-equal-operator/",
+          "publishedOn": "2022-01-07T18:16:14.000Z",
+          "wordCount": 1119,
+          "title": "Python Not Equal – Does Not Equal Operator Tutorial"
+        },
+        {
+          "id": "6181e65c8bcfae07ca4e068b",
+          "author": null,
+          "description": "In this tutorial, you will learn how to work in a team with a central repository on GitHub. You will work on issues, commits, pull requests, code reviews, and more. I don't consider myself an expert on Git, but I have learned a lot about it in my first month",
+          "link": "https://www.freecodecamp.org/news/how-to-use-git-and-github-in-a-team-like-a-pro/",
+          "publishedOn": "2022-01-07T18:13:40.000Z",
+          "wordCount": 3374,
+          "title": "How to Use Git and GitHub in a Team like a Pro – Featuring Harry and Hermione 🧙"
+        },
+        {
+          "id": "61c8aeac755c16082490b36c",
+          "author": null,
+          "description": "In this article, you'll learn about the .append() method in Python.  You'll also see how .append() differs from other methods used to add elements to lists.  Let's get started!  What are lists in Python? A definition for beginners An array in programming is an ordered collection of items, and all",
+          "link": "https://www.freecodecamp.org/news/append-in-python-how-to-append-to-a-list-or-an-array/",
+          "publishedOn": "2022-01-07T17:41:31.000Z",
+          "wordCount": 1897,
+          "title": "Append in Python – How to Append to a List or an Array"
+        },
+        {
+          "id": "61d7ed4ad2d9de084285df89",
+          "author": null,
+          "description": "On Windows 10 and other versions of the Windows operating system, you need a network adapter to connect to the internet through a wired or wireless network.  Sometimes, you might get an error that your network adapter is missing. This can be very frustrating because you won't be able to",
+          "link": "https://www.freecodecamp.org/news/windows-10-network-adapter-missing-how-to-install-ethernet-driver-on-pc/",
+          "publishedOn": "2022-01-07T16:34:05.000Z",
+          "wordCount": 789,
+          "title": "Windows 10 Network Adapter Missing – How to Install Ethernet Driver on PC"
+        },
         {
           "id": "61c63165755c16082490aaf2",
           "author": null,
@@ -4040,6 +4121,114 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "https://hackernoon.com",
       "articles": [
+        {
+          "id": "https://hackernoon.com/python-for-beginners-part-5-variables?source=rss",
+          "author": "Clever Programmer",
+          "description": "We will discover what are variables in this video. How is data stored into variables and then how you can retrieve it later for easier access. We will look at all this through a visualization using the Turtle library from Python.",
+          "link": "https://hackernoon.com/python-for-beginners-part-5-variables?source=rss",
+          "publishedOn": "2022-01-06T20:59:52.000Z",
+          "wordCount": 1604,
+          "title": "Python for Beginners, Part 5: Variables"
+        },
+        {
+          "id": "https://hackernoon.com/an-introduction-to-english-phonetics?source=rss",
+          "author": "English Phonetics",
+          "description": "It must be said that speech does not start in the lungs. It starts in the brain and is, then, studied by Psycholinguistics.",
+          "link": "https://hackernoon.com/an-introduction-to-english-phonetics?source=rss",
+          "publishedOn": "2022-01-06T16:45:04.000Z",
+          "wordCount": 3715,
+          "title": "An Introduction to English Phonetics"
+        },
+        {
+          "id": "https://hackernoon.com/contributing-to-the-cosmos-ecosystem-a-how-to-guide?source=rss",
+          "author": "Cosmos - Internet of Blockchains",
+          "description": "With Cosmos open source projects, developers of all backgrounds can build customized blockchains that offer scalability, security, performance, and flexibility.",
+          "link": "https://hackernoon.com/contributing-to-the-cosmos-ecosystem-a-how-to-guide?source=rss",
+          "publishedOn": "2022-01-06T16:14:29.000Z",
+          "wordCount": 3080,
+          "title": "Contributing to the Cosmos Ecosystem: A How to Guide"
+        },
+        {
+          "id": "https://hackernoon.com/1-year-review-where-nba-top-shot-fit-into-the-larger-nft-ecosystem-now?source=rss",
+          "author": "Rao Vinnakota",
+          "description": "A review of NBA Top Shot 1 year after their release, where they stand in the NFT Economy, and whether or not using Flow was the right choice.",
+          "link": "https://hackernoon.com/1-year-review-where-nba-top-shot-fit-into-the-larger-nft-ecosystem-now?source=rss",
+          "publishedOn": "2022-01-06T12:44:56.000Z",
+          "wordCount": 1913,
+          "title": "1 Year Review: Where Do NBA Top Shots Fit into the Larger NFT Ecosystem Now?"
+        },
+        {
+          "id": "https://hackernoon.com/ethereum-is-supposed-to-go-pos-proof-of-stake-in-2022-which-will-make-it-more-scalable?source=rss",
+          "author": "Ishan Pandey",
+          "description": "This article talks about DAOs, ethereum scaling and why DAOs will be the future of governance.",
+          "link": "https://hackernoon.com/ethereum-is-supposed-to-go-pos-proof-of-stake-in-2022-which-will-make-it-more-scalable?source=rss",
+          "publishedOn": "2022-01-06T12:43:28.000Z",
+          "wordCount": 2606,
+          "title": "Ethereum is Supposed to go PoS (Proof of Stake) in 2022 Which Will Make it More Scalable"
+        },
+        {
+          "id": "https://hackernoon.com/heritage-brands-must-become-digital-or-risk-extinction?source=rss",
+          "author": "Zak Oganian",
+          "description": "For heritage brands undergoing a transformation for the next generation, the key to realising a new future is in leveraging tech much beyond \"digital fronts\".",
+          "link": "https://hackernoon.com/heritage-brands-must-become-digital-or-risk-extinction?source=rss",
+          "publishedOn": "2022-01-06T12:31:30.000Z",
+          "wordCount": 1943,
+          "title": "Heritage Brands Must Become Digital or Risk Extinction"
+        },
+        {
+          "id": "https://hackernoon.com/6-tips-to-get-more-value-out-of-your-microsoft-power-bi-dashboard-and-reports?source=rss",
+          "author": "Imenso Software",
+          "description": "By using Microsoft Power BI, you increase the efficiency of your company through its interactive insights and visual clues. Here are 6 tips for Power BI users.",
+          "link": "https://hackernoon.com/6-tips-to-get-more-value-out-of-your-microsoft-power-bi-dashboard-and-reports?source=rss",
+          "publishedOn": "2022-01-06T12:14:47.000Z",
+          "wordCount": 2135,
+          "title": "6 Tips to Get More Value Out of Your Microsoft Power BI Dashboard & Reports"
+        },
+        {
+          "id": "https://hackernoon.com/running-a-python-script-to-scrape-linkedin-profiles-from-google?source=rss",
+          "author": "Tuan",
+          "description": "LinkedIn is a great place to find leads and engage with prospects. In order to engage with potential leads, you’ll need a list of users to contact. However, getting that list might be difficult because LinkedIn has made it difficult for web scraping tools. That is why I made a script to search Google for potential LinkedIn user and company profiles.",
+          "link": "https://hackernoon.com/running-a-python-script-to-scrape-linkedin-profiles-from-google?source=rss",
+          "publishedOn": "2022-01-06T11:52:36.000Z",
+          "wordCount": 1645,
+          "title": "Running a Python Script to Scrape LinkedIn Profiles From Google"
+        },
+        {
+          "id": "https://hackernoon.com/introducing-starlite-a-new-python-asynchronous-api-framework?source=rss",
+          "author": "Na'aman Hirschfeld",
+          "description": "Introducing the python Starlite API framework - a new async (ASGI) framework built on top of pydantic and Starlette",
+          "link": "https://hackernoon.com/introducing-starlite-a-new-python-asynchronous-api-framework?source=rss",
+          "publishedOn": "2022-01-06T11:38:09.000Z",
+          "wordCount": 3102,
+          "title": "Introducing Starlite: A New Python Asynchronous API Framework"
+        },
+        {
+          "id": "https://hackernoon.com/5-real-world-examples-that-prove-that-business-intelligence-really-works?source=rss",
+          "author": "Edwin Lisowski",
+          "description": "Discover real examples of implementing business intelligence technology in companies such as Coca-Cola, BBK and more. Find out how to get started!",
+          "link": "https://hackernoon.com/5-real-world-examples-that-prove-that-business-intelligence-really-works?source=rss",
+          "publishedOn": "2022-01-06T11:35:53.000Z",
+          "wordCount": 1966,
+          "title": "5 Real-World Examples That Prove That Business Intelligence Really Works"
+        },
+        {
+          "id": "https://hackernoon.com/interview-with-priyanshu-founder-of-hyperspawn-robotics?source=rss",
+          "author": null,
+          "description": "Hyperspawn Robotics is developing humanoid robots that precisely mimic human movements and can be controlled remotely using VR gear from anywhere in the world.",
+          "link": "https://hackernoon.com/interview-with-priyanshu-founder-of-hyperspawn-robotics?source=rss",
+          "publishedOn": "2022-01-06T11:18:00.000Z",
+          "wordCount": 1636,
+          "title": "Interview with Priyanshu, \nFounder of Hyperspawn Robotics"
+        },
+        {
+          "id": "https://hackernoon.com/educating-through-games-with-professor-vanessa-haddad?source=rss",
+          "author": "Jack Boreham",
+          "description": "In this Slogging AMA, we had the pleasure of interviewing Vanessa Haddad, liberal arts professor and video game advocate.",
+          "link": "https://hackernoon.com/educating-through-games-with-professor-vanessa-haddad?source=rss",
+          "publishedOn": "2022-01-06T11:15:08.000Z",
+          "wordCount": 4675,
+          "title": "Educating Through Games with Professor Vanessa Haddad"
+        },
         {
           "id": "https://hackernoon.com/19-apps-and-websites-all-student-developers-should-check-out?source=rss",
           "author": "Mr. Ånand",
@@ -14623,114 +14812,6 @@
           "publishedOn": "2021-10-10T13:22:43.000Z",
           "wordCount": 787,
           "title": "A No Bullshit Tutorial on Creating a Slack bot with Node.js"
-        },
-        {
-          "id": "https://hackernoon.com/cascading-style-sheets-css-for-dummies?source=rss",
-          "author": "Dolamu Asipa",
-          "description": "Here is a short tutorial on CSS for beginners.",
-          "link": "https://hackernoon.com/cascading-style-sheets-css-for-dummies?source=rss",
-          "publishedOn": "2021-10-10T08:51:32.000Z",
-          "wordCount": 785,
-          "title": "Cascading Style Sheets (CSS) for Dummies"
-        },
-        {
-          "id": "https://hackernoon.com/top-3-free-javascript-libraries-for-data-visualization?source=rss",
-          "author": "Maksym Mostovyi",
-          "description": "I've compared the top 3 free Javascript libraries for data visualization - D3, Chartjs, or ECharts.",
-          "link": "https://hackernoon.com/top-3-free-javascript-libraries-for-data-visualization?source=rss",
-          "publishedOn": "2021-10-10T08:18:50.000Z",
-          "wordCount": 1529,
-          "title": "Top 3 Free JavaScript Libraries for Data Visualization"
-        },
-        {
-          "id": "https://hackernoon.com/its-all-about-quality-top-5-trends-in-qa-and-testing?source=rss",
-          "author": "AlphaBOLD",
-          "description": "Top five quality assurance and testing trends that you need to follow!",
-          "link": "https://hackernoon.com/its-all-about-quality-top-5-trends-in-qa-and-testing?source=rss",
-          "publishedOn": "2021-10-10T07:50:14.000Z",
-          "wordCount": 1641,
-          "title": "It's All About Quality: Top 5 Trends in QA and Testing"
-        },
-        {
-          "id": "https://hackernoon.com/i-write-about-what-i-know-and-what-i-experience-meet-the-writer-jacob-landry?source=rss",
-          "author": "Jacob Landry",
-          "description": "Meet HackerNoon writer Jacob Landry who is sharing stories about coffee-fueld-code with the world!",
-          "link": "https://hackernoon.com/i-write-about-what-i-know-and-what-i-experience-meet-the-writer-jacob-landry?source=rss",
-          "publishedOn": "2021-10-10T07:32:32.000Z",
-          "wordCount": 799,
-          "title": "'I Write About What I Know and What I Experience': Meet the Writer Jacob Landry"
-        },
-        {
-          "id": "https://hackernoon.com/ai-endorsed-by-expert-meteorologists-deepminds-weather-forecast-model?source=rss",
-          "author": "Louis Bouchard",
-          "description": "DeepMind just released a Generative model able to outperform widely-used nowcasting methods in 89% of situations for its accuracy and usefulness assessed by more than 50 expert meteorologists! Their model focuses on predicting precipitations in the next 2 hours and achieves that surprisingly well. It is a generative model, which means that it will generate the forecasts instead of simply predicting them. It basically takes radar data from the past to create future radar data. So using both time and spatial components from the past, they can generate what it will look like in the near future.",
-          "link": "https://hackernoon.com/ai-endorsed-by-expert-meteorologists-deepminds-weather-forecast-model?source=rss",
-          "publishedOn": "2021-10-10T06:38:14.000Z",
-          "wordCount": 2212,
-          "title": "AI Endorsed by Expert Meteorologists: DeepMind's Weather Forecast Model"
-        },
-        {
-          "id": "https://hackernoon.com/cloud-computing-for-dummies?source=rss",
-          "author": "newsletters",
-          "description": "Trust the cloud instead of reinventing the wheel.",
-          "link": "https://hackernoon.com/cloud-computing-for-dummies?source=rss",
-          "publishedOn": "2021-10-10T04:46:18.000Z",
-          "wordCount": 804,
-          "title": "Cloud Computing for Dummies"
-        },
-        {
-          "id": "https://hackernoon.com/serverless-malware-just-found-a-new-home?source=rss",
-          "author": "newsletters",
-          "description": "Read about 'Serverless' data security and its ugly truth.",
-          "link": "https://hackernoon.com/serverless-malware-just-found-a-new-home?source=rss",
-          "publishedOn": "2021-10-10T04:36:36.000Z",
-          "wordCount": 783,
-          "title": "'Serverless': Malware Just Found a new Home"
-        },
-        {
-          "id": "https://hackernoon.com/iot-beyond-alexa?source=rss",
-          "author": "newsletters",
-          "description": "The Internet of Things is a new world.",
-          "link": "https://hackernoon.com/iot-beyond-alexa?source=rss",
-          "publishedOn": "2021-10-10T04:09:18.000Z",
-          "wordCount": 746,
-          "title": "IoT: Beyond Alexa"
-        },
-        {
-          "id": "https://hackernoon.com/devops-pipeline-the-ultimate-cheat-sheet?source=rss",
-          "author": "newsletters",
-          "description": "We are here to help you create your first DevOps pipeline with a step-by-step process.",
-          "link": "https://hackernoon.com/devops-pipeline-the-ultimate-cheat-sheet?source=rss",
-          "publishedOn": "2021-10-10T04:07:15.000Z",
-          "wordCount": 786,
-          "title": "DevOps Pipeline: The Ultimate Cheat Sheet"
-        },
-        {
-          "id": "https://hackernoon.com/the-risks-lurking-in-your-cicd-pipeline?source=rss",
-          "author": "newsletters",
-          "description": "One key objective of any modern software product is to reach its end-user at an unprecedented speed.",
-          "link": "https://hackernoon.com/the-risks-lurking-in-your-cicd-pipeline?source=rss",
-          "publishedOn": "2021-10-10T03:56:36.000Z",
-          "wordCount": 810,
-          "title": "The Risks Lurking in Your CI/CD Pipeline"
-        },
-        {
-          "id": "https://hackernoon.com/i-test-therefore-it-works?source=rss",
-          "author": "newsletters",
-          "description": "To put it simply, programmers make it work and testers make it break. The benefits beat the costs in the long run.",
-          "link": "https://hackernoon.com/i-test-therefore-it-works?source=rss",
-          "publishedOn": "2021-10-10T03:51:51.000Z",
-          "wordCount": 765,
-          "title": "I Test, Therefore it Works"
-        },
-        {
-          "id": "https://hackernoon.com/the-internet-belongs-to-everyone?source=rss",
-          "author": "newsletters",
-          "description": "Normalizing the behavior of businesses to set the social standards for freedom of expression is a slippery slope.",
-          "link": "https://hackernoon.com/the-internet-belongs-to-everyone?source=rss",
-          "publishedOn": "2021-10-10T03:48:03.000Z",
-          "wordCount": 787,
-          "title": "The Internet Belongs to Everyone"
         }
       ]
     },
@@ -14739,6 +14820,15 @@
       "feedUrl": "https://davidwalsh.name/feed",
       "siteUrl": "https://davidwalsh.name",
       "articles": [
+        {
+          "id": "https://davidwalsh.name/?p=27509",
+          "author": "David Walsh",
+          "description": "One of my least favorite tasks as a software engineer is resolving merge conflicts. A simple rebase is a frequent occurrence but the rare massive conflict is inevitable when many engineers work in a single codebase. One thing that helps me deal with large rebases with many merge conflicts is flattening a branch’s commits before […]\nThe post How to Flatten git Commits appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/flatten-git-commits",
+          "publishedOn": "2022-01-07T02:05:04.000Z",
+          "wordCount": 569,
+          "title": "How to Flatten git Commits"
+        },
         {
           "id": "https://davidwalsh.name/?p=27506",
           "author": "David Walsh",
@@ -15651,16 +15741,6 @@
           "wordCount": null,
           "title": "Teaching Kids Programming – Introduction to KNN Machine Learning Algorithm (KNN In Python)",
           "itunes": {}
-        },
-        {
-          "id": "https://helloacm.com/?p=147069",
-          "author": "ACMer",
-          "description": "Given N Coins, we want to build stairs rows by rows, and fill each stair with coin. The first row of stair, there is one coin, the second row 2 coins, and so on. Find out how many complete rows of...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
-          "link": "https://helloacm.com/teaching-kids-programming-build-progressive-stairs-row-by-row-via-simulation-binary-search-or-math-algorithm/",
-          "publishedOn": "2021-10-09T22:44:28.000Z",
-          "wordCount": null,
-          "title": "Teaching Kids Programming – Build Progressive Stairs Row by Row via Simulation, Binary Search or Math Algorithm",
-          "itunes": {}
         }
       ]
     },
@@ -15669,6 +15749,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=514687",
+          "author": "Kristina Panos",
+          "description": "Have you already broken that New Year’s resolution to get more exercise? Yeah, us too. Maybe the problem is simply that we didn’t gamify the goal. A simple visual aid …read more",
+          "link": "https://hackaday.com/2022/01/07/slither-a-visual-pedometer-that-sheds-light/",
+          "publishedOn": "2022-01-08T00:00:00.000Z",
+          "wordCount": 1146,
+          "title": "Slither: a Visual Pedometer That Sheds Light"
+        },
+        {
+          "id": "https://hackaday.com/?p=514834",
+          "author": "Tom Nardi",
+          "description": "From the release of the DMG-01 in 1989 until the final Micro variant hit store shelves in 2005, the Nintendo Game Boy line represented the epitome of handheld gaming for …read more",
+          "link": "https://hackaday.com/2022/01/07/tiger-boy-advance-is-a-90s-kid-dream-come-true/",
+          "publishedOn": "2022-01-07T21:00:00.000Z",
+          "wordCount": 1429,
+          "title": "Tiger Boy Advance Is a 90s Kid Dream Come True"
+        },
+        {
+          "id": "https://hackaday.com/?p=514579",
+          "author": "Ryan Flowers",
+          "description": "It’s commonly said that the great thing about standards is that there are so many of them. Of course, that’s talking about competing standards. But there’s another kind of standard that …read more",
+          "link": "https://hackaday.com/2022/01/07/a-savage-discussion-of-measurement-and-accuracy/",
+          "publishedOn": "2022-01-07T19:30:36.000Z",
+          "wordCount": 1971,
+          "title": "A Savage Discussion of Measurement And Accuracy"
+        },
+        {
+          "id": "https://hackaday.com/?p=513989",
+          "author": "Joshua Vasquez",
+          "description": "After pulling late hours in my school machine shop for a few years, I couldn’t help but wonder, who measures the measurement tools? How did they come to be? I’d …read more",
+          "link": "https://hackaday.com/2022/01/07/books-you-should-read-the-perfectionists/",
+          "publishedOn": "2022-01-07T18:00:54.000Z",
+          "wordCount": 1784,
+          "title": "Books You Should Read: The Perfectionists"
+        },
+        {
+          "id": "https://hackaday.com/?p=514793&preview=true&preview_id=514793",
+          "author": "Tom Nardi",
+          "description": "Join Hackaday Editor-in-Chief Elliot Williams and Managing Editor Tom Nardi as they ring in the New Year with the first podcast episode of 2022. We get the bad news out …read more",
+          "link": "https://hackaday.com/2022/01/07/hackaday-podcast-150-blackberry-runs-out-of-juice-node-has-your-pinouts-rats-learn-doom-and-2021-is-done/",
+          "publishedOn": "2022-01-07T17:00:32.000Z",
+          "wordCount": 1251,
+          "title": "Hackaday Podcast 150: Blackberry Runs Out of Juice, NODE has your pinouts, Rats learn DOOM, and 2021 is Done"
+        },
+        {
+          "id": "https://hackaday.com/?p=514514",
+          "author": "Al Williams",
+          "description": "Measuring resistance doesn’t seem to be a big deal. Put your meter leads across two wires or terminals and read the value, right? Most of the time that is good …read more",
+          "link": "https://hackaday.com/2022/01/07/how-many-wires-do-you-need-to-measure-a-resistor/",
+          "publishedOn": "2022-01-07T16:30:05.000Z",
+          "wordCount": 1770,
+          "title": "How Many Wires Do You Need to Measure a Resistor?"
+        },
+        {
+          "id": "https://hackaday.com/?p=514689",
+          "author": "Jonathan Bennett",
+          "description": "If you had the misfortune of running a Microsoft Exchange server this past week, then you don’t need me to tell you about the Y2K22 problem. To catch rest of …read more",
+          "link": "https://hackaday.com/2022/01/07/this-week-in-securityy2k22-accidentally-blocking-911and-bug-alert/",
+          "publishedOn": "2022-01-07T15:00:20.000Z",
+          "wordCount": 3423,
+          "title": "This Week in Security: Y2K22, Accidentally Blocking 911, and Bug Alert"
+        },
         {
           "id": "https://hackaday.com/?p=514588",
           "author": "Ryan Flowers",
@@ -21230,69 +21373,6 @@
           "publishedOn": "2021-10-10T14:00:22.000Z",
           "wordCount": 2160,
           "title": "Axial Flux Motors for Electric Vehicles"
-        },
-        {
-          "id": "https://hackaday.com/?p=498909",
-          "author": "Danie Conradie",
-          "description": "Ground effect vehicles, or ekranoplans, have the advantage of being more efficient than normal aircraft and faster than boats, but so far haven’t been developed beyond experimental prototypes. Fortunately, this …read more",
-          "link": "https://hackaday.com/2021/10/10/autonomous-ground-effect-vehicle-demonstrator-aims-to-speed-up-maritime-shipping/",
-          "publishedOn": "2021-10-10T11:00:38.000Z",
-          "wordCount": 2449,
-          "title": "Autonomous Ground Effect Vehicle Demonstrator Aims To Speed Up Maritime Shipping"
-        },
-        {
-          "id": "https://hackaday.com/?p=498781",
-          "author": "Jenny List",
-          "description": "How many of us who have a few decades of adulthood under our belts would like to talk to our 17 year old selves? “Hey kid, it’s all gonna be …read more",
-          "link": "https://hackaday.com/2021/10/10/1981-called-heres-your-software/",
-          "publishedOn": "2021-10-10T08:00:01.000Z",
-          "wordCount": 3843,
-          "title": "1981 Called, Here’s Your Software"
-        },
-        {
-          "id": "https://hackaday.com/?p=499124",
-          "author": "Lewin Day",
-          "description": "Much of mining involves digging and drilling holes in the ground. Often, these holes need inspecting, but [Dean Harty] found that existing borehole inspection solutions weren’t up to snuff. Resolution …read more",
-          "link": "https://hackaday.com/2021/10/09/borehole-camera-rig-makes-life-easier-in-mining/",
-          "publishedOn": "2021-10-10T05:00:45.000Z",
-          "wordCount": 1400,
-          "title": "Borehole Camera Rig Makes Life Easier In Mining"
-        },
-        {
-          "id": "https://hackaday.com/?p=496157",
-          "author": "Danie Conradie",
-          "description": "Our world is constantly bombarded by high-energy particles from various sources, and if they hit in just the right spot on the sensitive electronics our modern world is built on, …read more",
-          "link": "https://hackaday.com/2021/10/09/single-event-upsets-high-energy-particles-from-outer-space-flipping-bits/",
-          "publishedOn": "2021-10-09T23:00:20.000Z",
-          "wordCount": 1210,
-          "title": "Single Event Upsets: High Energy Particles From Outer Space Flipping Bits"
-        },
-        {
-          "id": "https://hackaday.com/?p=498471",
-          "author": "Jenny List",
-          "description": "For anyone with an interest in building audio projects, it’s likely that an early project will be a headphone amplifier. They’re relatively easy to build from transistors, ICs, or tubes, …read more",
-          "link": "https://hackaday.com/2021/10/09/drive-high-impedance-headphones-with-this-stylish-usb-dac/",
-          "publishedOn": "2021-10-09T20:00:40.000Z",
-          "wordCount": 1068,
-          "title": "Drive High-Impedance Headphones With This Stylish USB DAC"
-        },
-        {
-          "id": "https://hackaday.com/?p=497185",
-          "author": "Jenny List",
-          "description": "Something of a Holy Grail among engineers with an interest in a low-carbon future is the idea of replacing fossil fuel gasses with hydrogen. There are various schemes, but they …read more",
-          "link": "https://hackaday.com/2021/10/09/making-coffee-with-hydrogen/",
-          "publishedOn": "2021-10-09T17:00:00.000Z",
-          "wordCount": 1667,
-          "title": "Making Coffee with Hydrogen"
-        },
-        {
-          "id": "https://hackaday.com/?p=500608",
-          "author": "Elliot Williams",
-          "description": "The open source world and Chinese manufacturing have a long relationship. Some fifteen years ago, the big topic was how companies could open-source their hardware designs and not get driven …read more",
-          "link": "https://hackaday.com/2021/10/09/hackers-and-china/",
-          "publishedOn": "2021-10-09T14:00:11.000Z",
-          "wordCount": 2112,
-          "title": "Hackers and China"
         }
       ]
     },
@@ -21301,6 +21381,36 @@
       "feedUrl": "http://rss.sciam.com/scientificamerican-global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "A2F5A3E8-88B4-4FA7-AEA6BF508CF990EA",
+          "author": "Benjamin Storrow, E&E News",
+          "description": "Greenhouse gas emissions rose 7 percent in 2021, as high natural gas prices buoyed coal use\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/as-biden-sets-ambitious-climate-agenda-u-s-emissions-rise/",
+          "publishedOn": "2022-01-07T20:15:00.000Z",
+          "wordCount": null,
+          "title": "As Biden Sets Ambitious Climate Agenda, U.S. Emissions Rise",
+          "itunes": {}
+        },
+        {
+          "id": "EF5EA3D4-6C53-49B3-A202189EE9482FE7",
+          "author": "Gale Sinatra, Barbara K. Hofer, The Conversation US",
+          "description": "The farcical allegory of climate change shows the pitfalls of relying solely on technology and misunderstanding scientific certainty\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/dont-look-up-illustrates-5-myths-that-fuel-rejection-of-science/",
+          "publishedOn": "2022-01-07T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Don't Look Up Illustrates 5 Myths That Fuel Rejection of Science",
+          "itunes": {}
+        },
+        {
+          "id": "63B90D31-AF36-47E0-AF09DD186D4608C3",
+          "author": "Saugat Bolakhe",
+          "description": "The more time the insects spend on the courtship ritual, the better mating goes\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/desert-beetles-rely-on-oral-sex-for-successful-mating/",
+          "publishedOn": "2022-01-07T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Desert Beetles Rely on Oral Sex for Successful Mating",
+          "itunes": {}
+        },
         {
           "id": "5987A60B-ADEF-4F1D-B10BC0992DD025AF",
           "author": "Annie Melchor",
@@ -21369,6 +21479,16 @@
           "publishedOn": "2022-01-06T13:00:00.000Z",
           "wordCount": null,
           "title": "Preparing for the Next Plague",
+          "itunes": {}
+        },
+        {
+          "id": "B2CD9EAC-9B49-4F61-BCC6B88EAAAEB241",
+          "author": "Katherine Kornei",
+          "description": "A ship sunk by a German U-boat in 1942 can today help track large pulses of mud from the Mississippi River\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/historical-shipwreck-keeps-moving-revealing-dangerous-underwater-mudflows/",
+          "publishedOn": "2022-01-06T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Historical Shipwreck Keeps Moving, Revealing Dangerous Underwater Mudflows",
           "itunes": {}
         },
         {
@@ -26105,36 +26225,6 @@
           "wordCount": null,
           "title": "Save the Right Whales by Cutting through the Wrong Noise",
           "itunes": {}
-        },
-        {
-          "id": "000D9CD4-B413-146C-B2F983414B7F0000",
-          "author": "Allan Irwin Basbaum, David Julius",
-          "description": "Advances in understanding the cells and molecules that transmit pain signals are providing new targets for drugs that could relieve various kinds of pain--including those poorly controlled by...\n\r\n\r\n-- Read more on ScientificAmerican.com",
-          "link": "https://www.scientificamerican.com/article/toward-better-pain-contro/",
-          "publishedOn": "2021-10-10T04:00:00.000Z",
-          "wordCount": null,
-          "title": "Toward Better Pain Control",
-          "itunes": {}
-        },
-        {
-          "id": "045E960C-C8CA-4735-AEBBCD1D161486FD",
-          "author": "John Fialka, E&E News",
-          "description": "The Montreal Protocol has helped heal the ozone layer that blocks harmful ultraviolet rays\n\r\n\r\n-- Read more on ScientificAmerican.com",
-          "link": "https://www.scientificamerican.com/article/landmark-ozone-treaty-could-prevent-more-than-400-million-cases-of-cancer/",
-          "publishedOn": "2021-10-09T13:00:00.000Z",
-          "wordCount": null,
-          "title": "Landmark Ozone Treaty Could Prevent More Than 400 Million Cases of Cancer",
-          "itunes": {}
-        },
-        {
-          "id": "9A688686-6A75-4B92-8D0D47BD30DD7F35",
-          "author": "Michael H. Levin",
-          "description": "Science in meter and verse\n\r\n\r\n-- Read more on ScientificAmerican.com",
-          "link": "https://www.scientificamerican.com/article/poem-earths-accidents-over-wadi-qumran/",
-          "publishedOn": "2021-10-09T13:00:00.000Z",
-          "wordCount": null,
-          "title": "Poem: 'Earth's Accidents (Over Wadi Qumran)'",
-          "itunes": {}
         }
       ]
     },
@@ -26143,6 +26233,33 @@
       "feedUrl": "https://devops.com/feed/",
       "siteUrl": "https://devops.com",
       "articles": [
+        {
+          "id": "https://devops.com/?p=148925",
+          "author": "Mike Vizard",
+          "description": "Intel has made available a 2022 edition of its oneAPI toolkit through which it makes processor extensions accessible to DevOps teams. James Reinders, chief evangelist for Intel software products, said the goal is to make it simpler for DevOps teams to expose extensions to any company’s processors in the runtimes developers use. At its core, […]\nThe post Intel Expands Scope of OneAPI Toolkit Initiative appeared first on DevOps.com.",
+          "link": "https://devops.com/intel-expands-scope-of-oneapi-toolkit-initiative/",
+          "publishedOn": "2022-01-07T14:26:59.000Z",
+          "wordCount": 989,
+          "title": "Intel Expands Scope of OneAPI Toolkit Initiative"
+        },
+        {
+          "id": "https://devops.com/?p=148882",
+          "author": "Wilko Visser",
+          "description": "Digital transformation, business agility and enterprise architecture are frequently heard terms in this era of digital technologies and rapid change. The appropriation of digitalized applications, solutions and processes has enabled organizations to increase efficiencies. In turn, this allows them to respond to shifting customer needs and trends in a more flexible and agile manner.  Digital […]\nThe post Crafting an Agile Enterprise Architecture appeared first on DevOps.com.",
+          "link": "https://devops.com/crafting-an-agile-enterprise-architecture/",
+          "publishedOn": "2022-01-07T08:00:55.000Z",
+          "wordCount": 1405,
+          "title": "Crafting an Agile Enterprise Architecture"
+        },
+        {
+          "id": "https://devops.com/?p=148877",
+          "author": "Gilad David Maayan",
+          "description": "DevOps and cloud computing have become inseparable. But while the cloud started as primarily a dev/test environment — without stringent security and availability requirements — it has evolved into a mature platform for running production workloads. Moreover, devastating supply chain attacks like SolarWinds and Kaseya taught us all that development environments must also be secure.  […]\nThe post CIS Benchmarks: DevOps Guide to Hardening the Cloud appeared first on DevOps.com.",
+          "link": "https://devops.com/cis-benchmarks-devops-guide-to-hardening-the-cloud/",
+          "publishedOn": "2022-01-07T07:30:33.000Z",
+          "wordCount": 1451,
+          "title": "CIS Benchmarks: DevOps Guide to Hardening the Cloud"
+        },
         {
           "id": "https://devops.com/?p=148887",
           "author": "Richi Jennings",
@@ -28744,6 +28861,24 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66485",
+          "author": "Nathan Yau",
+          "description": "This spiralized chart by Gus Wezerek and Sara Chodosh for NYT Opinion has…\nTags: coronavirus, New York Times",
+          "link": "https://flowingdata.com/2022/01/07/spiral-graph-to-show-covid-19-cases/",
+          "publishedOn": "2022-01-07T17:47:08.000Z",
+          "wordCount": 310,
+          "title": "Spiral graph to show Covid-19 cases"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66479",
+          "author": "Nathan Yau",
+          "description": "Surf is a data-based game by Andy Bergmann that lets you move across…\nTags: Andy Bergmann, NOAA",
+          "link": "https://flowingdata.com/2022/01/07/four-decades-of-oceanic-wave-moments-as-a-surfing-game/",
+          "publishedOn": "2022-01-07T10:52:05.000Z",
+          "wordCount": 267,
+          "title": "Four decades of oceanic wave moments, as a surfing game"
+        },
         {
           "id": "https://flowingdata.com/?p=66469",
           "author": "Nathan Yau",
