@@ -1,7 +1,8 @@
 cacheUrl: https://vredchenko.github.io/osmoscraft_feed/cache.json
 sources:
   # Get new feature announcement via this feed:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom
+  # - href: https://github.com/osmoscraft/osmosfeed/releases.atom
+  - href: https://atom.io/packages.atom
   - href: https://css-tricks.com/feed/
   - href: https://www.freecodecamp.org/news/rss/
   - href: https://hackernoon.com/feed
@@ -23,4 +24,4 @@ sources:
 siteTitle: "vredchenko's RSS feed - using osmos::feed"
 
 # `cacheMaxDays` Max number of days to keep the feed content in cache. A very large value can increase the initial load time of the site. (optional)
-cacheMaxDays: 90
+cacheMaxDays: 365
