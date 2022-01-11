@@ -1,18 +1,432 @@
 {
   "sources": [
     {
-      "title": "Release notes from osmosfeed",
-      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "title": "Atom Packages and Themes",
+      "feedUrl": "https://atom.io/packages.atom",
+      "siteUrl": "https://atom.io",
       "articles": [
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3",
+          "id": "https://atom.io/packages/toggle-gitignore",
           "author": null,
-          "description": "Fixed: broken links in documentation\nChore: Dependency updates\nThank you: @hirdot",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3",
-          "publishedOn": "2021-10-16T00:01:47.000Z",
-          "wordCount": 292,
-          "title": "v1.11.3"
+          "description": "toggle-gitignore package\nToggle folder/file in .gitignore via the context menus",
+          "link": "https://atom.io/packages/toggle-gitignore",
+          "publishedOn": "2022-01-07T20:50:14.000Z",
+          "wordCount": 81,
+          "title": "toggle-gitignore"
+        },
+        {
+          "id": "https://atom.io/packages/apm-wordcount",
+          "author": null,
+          "description": "apm-wordcount package\nA short description of your package.",
+          "link": "https://atom.io/packages/apm-wordcount",
+          "publishedOn": "2022-01-07T11:14:06.000Z",
+          "wordCount": 75,
+          "title": "apm-wordcount"
+        },
+        {
+          "id": "https://atom.io/packages/byteskript-syntax",
+          "author": null,
+          "description": "ByteSkript Grammar (Atom.io)\nA rudimentary language theme for the Atom text editor.\nProvides colours and identifier support for the basic language features.\nSee the ByteSkript documentation for information about getting started with the language.\nFull support for sections, folding, etc. is not yet available.",
+          "link": "https://atom.io/packages/byteskript-syntax",
+          "publishedOn": "2022-01-04T19:00:57.000Z",
+          "wordCount": 115,
+          "title": "byteskript-syntax"
+        },
+        {
+          "id": "https://atom.io/packages/language-computercraft-rebuilt",
+          "author": null,
+          "description": "language-computercraft-rebuilt\nReplaces language-computercraft which seems to be gone from github\nI have ported https://github.com/benanders/ST2-ComputerCraft-Package to atom",
+          "link": "https://atom.io/packages/language-computercraft-rebuilt",
+          "publishedOn": "2022-01-04T17:43:54.000Z",
+          "wordCount": 84,
+          "title": "language-computercraft-rebuilt"
+        },
+        {
+          "id": "https://atom.io/packages/barebone-atom-package-coffee",
+          "author": null,
+          "description": "Add apm to your PATH\nCoffee package manual\nJavascript version\nInstall package:\nVia website: https://atom.io/packages/barebone-atom-package-coffee\n\nVia Atom: File > Settings > Install > Search \"barebone-atom-package-coffee\" > Install\nVia apm command: apm install barebone-atom-package-coffee\nEdit and run instruction:\nIt's recommended to uninstall this package first before making any edit.\nGo to C:\\Users\\<username>\\.atom\\packages and clone this repository\nReload Atom and try to use package: Ctrl+Shift+I to open devtool > Ctrl+Shift+P > Type and run Barebone Coffee: Owo > see Owo coffee! in the devtool console\nMake some edits\nReload Atom by open \"Command Palette\" (Ctrl+Shift+P) > Window Reload\nSee result\nPush to Github and update package, in command line, type following:\ngit fetch\ngit status\ngit add .\ngit commit -m \"update something\"\ngit push\n(optional) git tag\nupdate package in atom site: apm publish major/minor/patch\nPublish your package to atom site:\nMake sure you have requirements for publishing a package (package.json and git tag): https://flight-manual.atom.io/hacking-atom/sections/publishing/\n\nOpen command line, go to your package folder\nYou may need to connect with your atom account via apm command\nChange git local user (remove --global tag): https://stackoverflow.com/questions/22844806/how-to-change-my-git-username-in-terminal\n\nType: git tag\nType \"apm publish major/minor/patch\" (see more at https://flight-manual.atom.io/hacking-atom/sections/publishing/)\nCongrats!\nUninstall package:\nVia Atom: File > Settings > Packages > Search \"barebone-atom-package-coffee\" > Uninstall\nVia apm command: apm uninstall barebone-atom-package-coffee",
+          "link": "https://atom.io/packages/barebone-atom-package-coffee",
+          "publishedOn": "2021-12-31T03:15:16.000Z",
+          "wordCount": 275,
+          "title": "barebone-atom-package-coffee"
+        },
+        {
+          "id": "https://atom.io/packages/audio-syntax",
+          "author": null,
+          "description": "audio-syntax theme\nA short description of your theme.",
+          "link": "https://atom.io/packages/audio-syntax",
+          "publishedOn": "2021-12-30T21:20:48.000Z",
+          "wordCount": 77,
+          "title": "audio-syntax"
+        },
+        {
+          "id": "https://atom.io/packages/audio-ui",
+          "author": null,
+          "description": "Audio - UI Theme\nCool UI Theme for Atom based on Ableton Audio Software.\nBy MarchettiDesign.net",
+          "link": "https://atom.io/packages/audio-ui",
+          "publishedOn": "2021-12-30T21:17:28.000Z",
+          "wordCount": 89,
+          "title": "audio-ui"
+        },
+        {
+          "id": "https://atom.io/packages/tree-view-clipboard",
+          "author": null,
+          "description": "tree-view-clipboard package\nAdd native-like Clipboard operations to the tree-view. This plugin allows you to copy, cut and paste folders and files via the tree-view context menu and keybindings.\nCopy\nYou can copy tree-view selections by right-clicking them and clicking \"Copy\" in the context menu. The respective folders/files will be placed on the clipboard, ready to be pasted anywhere.\n\nCut\nYou can cut tree-view selections by right-clicking them and clicking \"Cut\" in the context menu. The respective folders/files will be placed on the clipboard, ready to be pasted anywhere.\n\nPaste\nYou can paste folders and files by right-clicking in the tree-view and clicking \"Paste\" in the context menu.\n\nThis will paste the folders and files from the clipboard into all selected folders in the tree-view.\n\nKeybindings\nOverride tree-view-clipboard keybindings in the keymap.cson file.\n'.platform-win32 .tree-view':\n    'ctrl-c': 'tree-view-clipboard:copy'\n    'ctrl-x': 'tree-view-clipboard:cut'\n    'ctrl-v': 'tree-view-clipboard:paste'\n\n'tree-view':\n    'ctrl-c': 'tree-view-clipboard:copy'\n    'ctrl-x': 'tree-view-clipboard:cut'\n    'ctrl-v': 'tree-view-clipboard:paste'",
+          "link": "https://atom.io/packages/tree-view-clipboard",
+          "publishedOn": "2021-12-30T18:59:54.000Z",
+          "wordCount": 220,
+          "title": "tree-view-clipboard"
+        },
+        {
+          "id": "https://atom.io/packages/theme-fluxor",
+          "author": null,
+          "description": "Theme Fluxor\nSwitches your theme based on your location and the position of the sun via solar-calc.\nJustification\nhttps://github.com/as-cii/theme-flux is broken as of December 2021\nhttps://github.com/qwtel/theme-flux-solar is broken as of December 2021\nFeatures\nCan obtain your location via your IP address\nSupports dawn, day, dusk, and night, with day and night being the default.\nSyncs changes to Atom Themes setting to this package configuration.",
+          "link": "https://atom.io/packages/theme-fluxor",
+          "publishedOn": "2021-12-29T21:31:56.000Z",
+          "wordCount": 144,
+          "title": "theme-fluxor"
+        },
+        {
+          "id": "https://atom.io/packages/build-parcel",
+          "author": null,
+          "description": "build-parcel\n\n\n\n\n\nAtom Build provider for parcel, the zero configuration build tool for the web.\nInstallation\napm\nInstall build-parcel from Atom's Package Manager or the command-line equivalent:\n$ apm install build-parcel\nUsing Git\nChange to your Atom packages directory:\nWindows\n# Powershell\n$ cd $Env:USERPROFILE\\.atom\\packages\n\n\n\n:: Command Prompt\n$ cd %USERPROFILE%\\.atom\\packages\n\n\nLinux & macOS\n$ cd ~/.atom/packages/\n\n\nClone repository as build-parcel:\n$ git clone https://github.com/idleberg/atom-build-parcel build-parcel\n\n\nInside the cloned directory, install Node dependencies:\n$ yarn || npm install\n\n\nYou should now be setup to build the package:\n$ yarn build || npm run build\n\n\n\nUsage\nPrerequisites\nMake sure Parcel is installed properly and that parcel is in your PATH environmental variable.\nBuild\nBefore you can build, select an active target with your preferred build option.\nAvailable targets:\nParcel: build\nParcel: serve\nParcel: watch\nShortcuts\nHere's a reminder of the default shortcuts you can use with this package:\nSelect active target\nCmd+Alt+T or F7\nBuild script\nCmd+Alt+B or F9\nJump to error\nCmd+Alt+G or F4\nToggle build panel\nCmd+Alt+V or F8\nLicense\nThis work is licensed under the The MIT License.",
+          "link": "https://atom.io/packages/build-parcel",
+          "publishedOn": "2021-12-23T00:28:20.000Z",
+          "wordCount": 257,
+          "title": "build-parcel"
+        },
+        {
+          "id": "https://atom.io/packages/barebone-atom-package",
+          "author": null,
+          "description": "To use apm command, follow this to add apm to your PATH: https://stackoverflow.com/questions/38138900/complete-guide-for-installing-apm-on-windows/41353271\nInstall package:\nVia website: https://atom.io/packages/barebone-atom-package\n\nVia Atom: File > Settings > Install > Search \"barebone-atom-package\" > Install\nVia apm command: apm install barebone-atom-package\nEdit and run instruction:\nIt's recommended to uninstall this package first before making any edit.\nGo to C:\\Users\\<username>\\.atom\\packages and clone this repository\nReload Atom and try to use package: Ctrl+Shift+I to open devtool > Ctrl+Shift+P > Type and run barebone:Owo > see Owo in the devtool console\nMake some edits\nReload Atom by open \"Command Palette\" (Ctrl+Shift+P) > Window Reload\nSee result\nPush to Github and update package, in command line, type following:\ngit fetch\ngit status\ngit add .\ngit commit -m \"update something\"\ngit push\n(optional) git tag\nupdate package in atom site: apm publish major/minor/patch\nPublish your package to atom site:\nMake sure you have requirements for publishing a package (package.json and git tag): https://flight-manual.atom.io/hacking-atom/sections/publishing/\n\nOpen command line, go to your package folder\nYou may need to connect with your atom account via apm command\nChange git local user (remove --global tag): https://stackoverflow.com/questions/22844806/how-to-change-my-git-username-in-terminal\n\nType: git tag\nType \"apm publish major/minor/patch\" (see more at https://flight-manual.atom.io/hacking-atom/sections/publishing/)\nCongrats!\n\n\nUninstall package:\nVia Atom: File > Settings > Packages > Search \"barebone-atom-package\" > Uninstall\nVia apm command: apm uninstall barebone-atom-package",
+          "link": "https://atom.io/packages/barebone-atom-package",
+          "publishedOn": "2021-12-22T18:26:48.000Z",
+          "wordCount": 275,
+          "title": "barebone-atom-package"
+        },
+        {
+          "id": "https://atom.io/packages/background-video-player",
+          "author": null,
+          "description": "Background video player / manager for Atom\n*** ALPHA VERSION (Not really public ready) ***\n*** ESPECIALLY BAD WINDOWS SUPPORT FOR NOW :P ***\nUsage\nPlay videos in background\nrecommended\nuse Real_ESRGAN to improve quality of images (not implemented yet)\nuse thunar script for image_created_by_thunar.jpg and folders \"images_created_by_thunar\"... (not public yet)\nTodo :\nshadowRoot bug after inactivity / suspend ?\nSOME THEMES PUT COLOR ABOVE BACKGROUND IMAGE (Nord Atom for example)... :(\n(Need to edit theme manually, cannot find JS or CSSthat works with !important... - .item-views)\nimages : not use image if (height > width)\ninclude audio player ?? (use video with displaying,playing audio only ?)\ndisable video but keep playing audio on focus change, instead of pausing\nallow previous video (add button too)\ndisable / enable line-numbers background color ???\ndisable / enable dim background\nallow to add an unlimited amount of RV / RVL / RI... in settings\nrange of background opacity in settings\nAdd button for Real_ESRGAN\nctrl + alt + m : next image ???\ntransfer to/from mpv player\nXTRA (Not directly related to background-video-player but to Atom in general on my personal configuration)\n1 - I want to switch displayCodeHighlights on text selection, to see it better on the minimap,\nNeed to change 2 functions in the \"highlight-selected\" plugin :\nsearch-model.js :\nstatic makeClasses() { atom.config.set('minimap.displayCodeHighlights', 'false');\nselection-manager.js :\nremoveAllMarkers() { atom.config.set('minimap.displayCodeHighlights', 'true');\n2 - Refresh the css right position of wallpaper to avoid minimap by changing \"tree-view-autoresize\" plugin :\nOn hide/show tree-view, the background wallpaper goes under the minimap plugin...\ntree-view-autoresize.coffee :\nresizeTreeView: -> setTimeout => if(atom.config.get('background-video-player.underMinimap')==false) document.querySelectorAll(\".item-views\")[1].style.backgroundPosition=\"top 0px right \" + document.getElementsByTagName('atom-text-editor-minimap')[0].width + \"px\";",
+          "link": "https://atom.io/packages/background-video-player",
+          "publishedOn": "2021-12-22T07:02:09.000Z",
+          "wordCount": 336,
+          "title": "background-video-player"
+        },
+        {
+          "id": "https://atom.io/packages/op-nhom1demo",
+          "author": null,
+          "description": "op-nhom1demo package\nAdd apm to your PATH: https://stackoverflow.com/questions/38138900/complete-guide-for-installing-apm-on-windows\nSupported snippet languages: HTML, CSS, JAVASCRIPT\nHow to use \"snippet\":\ngo to test file\ntype one of following snippet on test file, then select the word\nopen command palette, search for \"Op Nhom1demo: Expand\" and run the command\nmagic appears!\nEdit and run instruction:\nIt's recommended to uninstall this package first before making any edit.\nClone this repository (git clone https://github.com/AcezukyRockon/op-nhom1demo.git) at C:\\Users\\<username>\\.atom\\packages\n\nReload Atom. Based on file extension, select the keyword (list of words in main.js) and press ctrl+tab. Snippet will appear.\nMake some edits\nReload Atom by open \"Command Palette\" (Ctrl+Shift+P) > Wind…",
+          "link": "https://atom.io/packages/op-nhom1demo",
+          "publishedOn": "2021-12-22T03:57:47.000Z",
+          "wordCount": 367,
+          "title": "op-nhom1demo"
+        },
+        {
+          "id": "https://atom.io/packages/flutter",
+          "author": null,
+          "description": "flutter package\nA package for Atom that enables basic support for Flutter development.\nThe package itself is very much in development, and non-functional as of now.\nPlease excuse this as I work on it.\nIf you have an idea feel free to suggest it in the bug section.\nI am not taking pull requests just yet because of how early this is in development. Thank you for understanding.",
+          "link": "https://atom.io/packages/flutter",
+          "publishedOn": "2021-12-21T19:41:32.000Z",
+          "wordCount": 142,
+          "title": "flutter"
+        },
+        {
+          "id": "https://atom.io/packages/atom-layerfile",
+          "author": null,
+          "description": "Layerfile\nLayerfile package for atom",
+          "link": "https://atom.io/packages/atom-layerfile",
+          "publishedOn": "2021-12-20T11:50:15.000Z",
+          "wordCount": 72,
+          "title": "atom-layerfile"
+        },
+        {
+          "id": "https://atom.io/packages/language-kdl",
+          "author": null,
+          "description": "KDL for Atom\nGrammers taken nearly completely from the official VSCode extension, with the only modifications done to handle Oniguruma Unicode oddities.",
+          "link": "https://atom.io/packages/language-kdl",
+          "publishedOn": "2021-12-17T06:49:36.000Z",
+          "wordCount": 90,
+          "title": "language-kdl"
+        },
+        {
+          "id": "https://atom.io/packages/python-virtualenv",
+          "author": null,
+          "description": "python-virtualenv\nAutomatic Python .venv activation in current project\nWhen current text editor changes, package searches for .venv/bin/activate file, sources it and modifies PATH for the Atom process.\nCurrently only .venv is supported, since it's most widely used name for in-project virtualenv and many tools use it, such as Poetry.\nYou can not deactivate virtualenv, but please open an issue if this is an essential feature.\nYou can see which project's virtualenv is currently active in the status bar at the bottom.\nNOTE: There are one caveat that you can notice: there may be virtualenv and editor mismatch on Atom startup if files from different projects was opened at editor shutdown.\nThis is because there are packages, such as ide-python, that execute their logic for each opened editor and require virtualenv for each of them in order to spawn matching python-language-server, but lack the discovery. For example, if you don't have python-language-server installed globally (only within project's .venv), this .venv must be activated when ide-python attempts to spawn it. And if I ensure that current project is processed last by this package, ide-python will use it's python-language-server (if it's installed) for any other python files from any project that currently have text editor opened.\nAFAIK opened editors processing order is undefined, so I can not be sure that .venv used by ide-python right now and project for one particular opened file match. Only solution is on ide-python side - implement .venv discovery on their own.",
+          "link": "https://atom.io/packages/python-virtualenv",
+          "publishedOn": "2021-12-15T14:45:59.000Z",
+          "wordCount": 316,
+          "title": "python-virtualenv"
+        },
+        {
+          "id": "https://atom.io/packages/nicbudd-syntax",
+          "author": null,
+          "description": "nicbudd-syntax theme\nA blue-green-red with hints of purple-orange theme that I use to match the rest of my theme.\nTested and used on C, Python, and Java.",
+          "link": "https://atom.io/packages/nicbudd-syntax",
+          "publishedOn": "2021-12-14T01:15:58.000Z",
+          "wordCount": 100,
+          "title": "nicbudd-syntax"
+        },
+        {
+          "id": "https://atom.io/packages/yospos-ui-2021",
+          "author": null,
+          "description": "YOSPOS atom theme\nNew yospos-ui theme that I rewrote because yospos-ui is not working in 2022\n\nhttps://atom.io/themes/yospos-ui-2021",
+          "link": "https://atom.io/packages/yospos-ui-2021",
+          "publishedOn": "2021-12-13T12:36:31.000Z",
+          "wordCount": 97,
+          "title": "yospos-ui-2021"
+        },
+        {
+          "id": "https://atom.io/packages/build-vite",
+          "author": null,
+          "description": "build-vite\n\n\n\n\n\nAtom Build provider for vite, the next generation frontend tooling for the Web.\nInstallation\napm\nInstall build-vite from Atom's Package Manager or the command-line equivalent:\n$ apm install build-vite\nUsing Git\nChange to your Atom packages directory:\nWindows\n# Powershell\n$ cd $Env:USERPROFILE\\.atom\\packages\n\n\n\n:: Command Prompt\n$ cd %USERPROFILE%\\.atom\\packages\n\n\nLinux & macOS\n$ cd ~/.atom/packages/\n\n\nClone repository as build-vite:\n$ git clone https://github.com/idleberg/atom-build-vite build-vite\n\n\nInside the cloned directory, install Node dependencies:\n$ yarn || npm install\n\n\nYou should now be setup to build the package:\n$ yarn build || npm run build\n\n\n\nUsage\nPrerequisites\nMake sure Vite is installed properly and that vite is in your PATH environmental variable.\nBuild\nBefore you can build, select an active target with your preferred build option.\nAvailable targets:\nVite: build\nVite: optimize\nVite: preview\nShortcuts\nHere's a reminder of the default shortcuts you can use with this package:\nSelect active target\nCmd+Alt+T or F7\nBuild script\nCmd+Alt+B or F9\nJump to error\nCmd+Alt+G or F4\nToggle build panel\nCmd+Alt+V or F8\nLicense\nThis work is licensed under the The MIT License.",
+          "link": "https://atom.io/packages/build-vite",
+          "publishedOn": "2021-12-12T01:52:01.000Z",
+          "wordCount": 257,
+          "title": "build-vite"
+        },
+        {
+          "id": "https://atom.io/packages/garbagescape",
+          "author": null,
+          "description": "Garbagescape\nScreenshot coming soon.",
+          "link": "https://atom.io/packages/garbagescape",
+          "publishedOn": "2021-12-08T08:45:09.000Z",
+          "wordCount": 80,
+          "title": "garbagescape"
+        },
+        {
+          "id": "https://atom.io/packages/garbagescape-ui",
+          "author": null,
+          "description": "Garbagescape UI\nGarbagescape UI is a darker but enlighting UI.",
+          "link": "https://atom.io/packages/garbagescape-ui",
+          "publishedOn": "2021-12-08T08:27:59.000Z",
+          "wordCount": 83,
+          "title": "garbagescape-ui"
+        },
+        {
+          "id": "https://atom.io/packages/export-project-html",
+          "author": null,
+          "description": "export-project-html (Atom Package)\nA plugin for the Atom text editor that exports the currently open code project to a static website, in a new folder called WebPublish in the project's root directroy. All code files are exported to html so that when opened in a browser the code is formatted like it would be in Atom, and markdown files are rendered into rich text too.\nexport-html package by nubohito (for converting code files to html) and Atom's built-in markdown-preview package for converting markdown files to html, many thanks to the developers of those packages.\nUsage:\nIn Atom, press Ctrl+Shift+P and then search for \"export-project-html\" (\"xpro\" will do). Then press enter, and your project will be converted to html in a folder called WebPublish.\n\nIssues:\nWhen using fenced or tabbed codeblocks without a specified language, the plugin crashes. This is a known issue in the markdown-preview package, whose code is used in this package.\nA workaround is to specify a language for the code block:\nFor example, in your markdown, don't do:\n    Hello world example:\n    ```\n    import os\n    print(\"Hello World!\")\n    ```\n\n\nInstead:\n    Hello world example:\n    ```python\n    import os\n    print(\"Hello World!\")\n    ```\n\n\nDon't do:\nHello world example:\n    import os\n    print(\"Hello World!\")\n\n\nInstead:\nHello world example:\n    ```python\n    import os\n    print(\"Hello World!\")\n    ```",
+          "link": "https://atom.io/packages/export-project-html",
+          "publishedOn": "2021-12-04T15:50:27.000Z",
+          "wordCount": 286,
+          "title": "export-project-html"
+        },
+        {
+          "id": "https://atom.io/packages/files",
+          "author": null,
+          "description": "Atom Files\nView Mediafiles in Tabs\nsupported Types:\nImages (.bmp, .gif, .ico, .jpeg, .jpg, .png, .webp)\nVideos (.mp4)\nAudio (.mp3)\nEmbed (.pdf, .html)\nOpen a file as Preview and a Slideshow of all containing media in the folder will be created.\nUse arrow keys to see the next/previous item, Space to Play/Pause and f/esc to toggle fullscreen\nImage Preview\nMP3 Player",
+          "link": "https://atom.io/packages/files",
+          "publishedOn": "2021-12-03T19:51:40.000Z",
+          "wordCount": 126,
+          "title": "files"
+        },
+        {
+          "id": "https://atom.io/packages/clean-canvas",
+          "author": null,
+          "description": "clean-canvas\nCleans out extraneous HTML that can be inserted when using the Canvas.",
+          "link": "https://atom.io/packages/clean-canvas",
+          "publishedOn": "2021-12-02T20:09:53.000Z",
+          "wordCount": 82,
+          "title": "clean-canvas"
+        },
+        {
+          "id": "https://atom.io/packages/reacthelp",
+          "author": null,
+          "description": "reacthelp package\nA short description of your package.",
+          "link": "https://atom.io/packages/reacthelp",
+          "publishedOn": "2021-12-02T19:57:31.000Z",
+          "wordCount": 76,
+          "title": "reacthelp"
+        },
+        {
+          "id": "https://atom.io/packages/atom-picgo",
+          "author": null,
+          "description": "atom-picgo\nAtom Plugin for PicGo Uploader\nProvide full path to the config.json file in settings. By default it will look for picgo.json in project directory.\nFile name can be anything, as long as the extension is .json.\nWhen no config is provided, PicGo will default to smms\nUse ctrl + alt + v to paste image link\nView Changelogs here\nPicGo config\nGenerate a PicGo config by referring this guide\nHere is a rough English translation from the guide. (I do not know chinese, but I could figure out the parameters. I mostly used Google Translate to understand stuff)\nThe config must be in given json format:\n{\n  \"picBed\": {\n    \"uploader\": \"smms\", //select among given different uploaders.\n \n    //uploader config\n    \"smms\": {\n      \"token\": \"\"\n    }\n  }\n}\n\n\n\nUploaders\nDefault is smms, even without pro…",
+          "link": "https://atom.io/packages/atom-picgo",
+          "publishedOn": "2021-12-01T15:31:46.000Z",
+          "wordCount": 524,
+          "title": "atom-picgo"
+        },
+        {
+          "id": "https://atom.io/packages/ide-project",
+          "author": null,
+          "description": "ide-project package\nThis package adds features to improve PHP development in ATOM.\n\nDependancies\nThis package requires the following packages to be installed:\natom-ide-ui\nPanels\nThe project panel gets a section to list Open Files and access to user defined tools written in plain javascript.\nA new Explorer Panel is added to access the source tree (symbols), bookmarks and other features in context of a file.\nThe command exw-ide:show-explorer displays the Explorer Panel where symbols, bookmarks and others are displayed.\nBookmarks\nToggle bookmarks to parts of your code with CTRL-ALT-8 and press CTRL-8 to cycle thru your bookmarks.\nUse the commands exw-ide:toggle-bookmark, exw-ide:jump-to-next-bookmark when configuring your own Keybindings.\nHINT: Disable Github keybindings to remove keymap conf…",
+          "link": "https://atom.io/packages/ide-project",
+          "publishedOn": "2021-12-01T04:50:37.000Z",
+          "wordCount": 793,
+          "title": "ide-project"
+        },
+        {
+          "id": "https://atom.io/packages/winnie-atom-plugin",
+          "author": null,
+          "description": "Winnie GUI Designer for browser\nWinnie is WYSIWYG GUI designer for Kenga widgets.\nWinnie allows you to create, edit and save to clipboard a composition of Kenga widgets.\nIt contains widgets palette, visual playground, properties pane and view structure explorer arranged in multisplit layout.\n\nFeatures\nSome predefined templates.\nComprehensive palette of widgets.\nExtensible palette.\nExtensible templates.\nDrag & drop from palette to visual playground.\nSnap to grid while visual manipulation with mouse.\nUndo/redo of every action.\nOpening layout composition from .json files with JSON data.\nAdoption of an already created Kenga composition module and editing it.\nSaving results to clipboard as JSON data.\nGenerating of Es6 code that creates a layout in runtime without dependencies on Winnie.\nSaving only edited properties if theirs values are not same as default ones.",
+          "link": "https://atom.io/packages/winnie-atom-plugin",
+          "publishedOn": "2021-11-28T19:43:26.000Z",
+          "wordCount": 204,
+          "title": "winnie-atom-plugin"
+        },
+        {
+          "id": "https://atom.io/packages/cursor-position-history",
+          "author": null,
+          "description": "cursor-position-history package\nFork of last-cursor-position.\nCursor Position History is a package for Atom that keeps a history of past cursor positions and allows to travel Between them.\nThe cursor position is recorded only when stop moving.\nEach tab has its own history of cursor positions.\nalt-- to travel to previous cursor position\nalt-_ to undo previous travel\nalt-R will clear all previous cursor positions in the current tab",
+          "link": "https://atom.io/packages/cursor-position-history",
+          "publishedOn": "2021-11-27T09:33:15.000Z",
+          "wordCount": 140,
+          "title": "cursor-position-history"
+        },
+        {
+          "id": "https://atom.io/packages/paste-cycle",
+          "author": null,
+          "description": "paste-cycle\nFork of clip-history.\nPaste from clipboard history like emacs' kill-ring\nHow to use\nPaste clipboard entry by paste-cycle:paste\n\nContinue paste-cycle:paste until you get entry you want.\nwhen you get passed the text you wanted to paste, use paste-cycle:paste-newer.\nyou can paste last pasted text with paste-cycle:paste-last.\nCommands\npaste-cycle:paste: Paste. Continuous execution without moving cursor pops older entry.\npaste-cycle:paste-newer: Paste. Continuous execution without moving cursor pops newer entry.\npaste-cycle:paste-last: Paste last pasted text.\npaste-cycle:copy-from-clipboard: Copy the text in the clipboard into the paste cycle.\npaste-cycle:clear: Clear the clipboard history in the paste cycle.\nKeymap\nNo keymap by default.\ne.g.\n'atom-text-editor:not([mini])':\n  'ctrl-y': 'paste-cycle:paste'\n  'cmd-y': 'paste-cycle:paste-newer'\n  'ctrl-Y': 'paste-cycle:paste-last'\n\n\n\nModify flash duration\nFrom v0.3.0, flashDurationMilliSeconds config was removed to use better flashing animation by CSS keyframe. Default\nduration is one second, if you want this shorter, modify your style.less.\natom-text-editor.editor .paste-cycle-pasted .region {\n  // default is 1s, you can tweak in the range from 0 to 1s(maximum). \n  animation-duration: 0.5s;\n}\n\n\n\nFeatures\nPaste old clipboard entry.\nAuto indent on paste (configured by native setting).\nFlash/select pasted area.\nSupport multiple cursor.\nEasy undo the entire paste cycle.",
+          "link": "https://atom.io/packages/paste-cycle",
+          "publishedOn": "2021-11-26T21:31:02.000Z",
+          "wordCount": 249,
+          "title": "paste-cycle"
+        },
+        {
+          "id": "https://atom.io/packages/language-actr",
+          "author": null,
+          "description": "language-actr package\nA very preliminary version of syntax highlighting for the cognitive modeling language ACT-R.\nSome keywords are recognized (e.g. ISA, chunk-type) and buffer-names are treated like functions.\nCode folding works (thanks to the code already written for 'normal' lisp).\nFiles with the extension \".lisp\" are recognized and highlighted accordingly.\nI copied the stuff in grammars/actr.cson mostly from a github page on lisp syntax highlighting here:\nhttps://github.com/enriquefernandez/language-lisp\nEdit the file grammars/actr.cson if you want to add some patterns to be highlighted or change existing ones.\nThere is a snippet now, too. Starting to type \"production\" should open a suggestion on your cursor called production, if you hit enter it will write the structure for a new production.\nYou can fill it out using tab to go from place to place to complete.\nAdd or change here: snippets/language-actr.cson\nThis is how it looks like:",
+          "link": "https://atom.io/packages/language-actr",
+          "publishedOn": "2021-11-24T13:56:15.000Z",
+          "wordCount": 212,
+          "title": "language-actr"
+        },
+        {
+          "id": "https://atom.io/packages/language-wikidot",
+          "author": null,
+          "description": "Wikidot language package\nA short description of your language package.",
+          "link": "https://atom.io/packages/language-wikidot",
+          "publishedOn": "2021-11-21T09:28:47.000Z",
+          "wordCount": 77,
+          "title": "language-wikidot"
+        },
+        {
+          "id": "https://atom.io/packages/mechanicus-syntax",
+          "author": null,
+          "description": "Mechanicus Syntax Theme\nInitially a blend between Monokai and One Dark, Mechanicus is a camouflage looking color scheme with slightly higher contrast.\nThe theme works as intended for the following languages: PHP, JavaScript, HTML, CSS and Python (as of 4.1.0)\nHTML\n\nCSS\n\nJavaScript\n\n\nPHP\n\nPython\n\nRoadmap\nSince I primarily built this theme for myself, the last language I would like to properly colour is C/C++. With the theme as it is, the support is nearly ready, but it is not yet consistent with the other languages. If I decide to move to a new language, I might add consistent colouring for it as well.",
+          "link": "https://atom.io/packages/mechanicus-syntax",
+          "publishedOn": "2021-11-20T22:07:22.000Z",
+          "wordCount": 179,
+          "title": "mechanicus-syntax"
+        },
+        {
+          "id": "https://atom.io/packages/zeus-syntax",
+          "author": null,
+          "description": "zeus-syntax theme\nThe perfect syntax theme for esoteric codenights!\nFeatures\nAlmost everything is in the so-called Zeus orange (#ff7f00).\nThe background for selected text is darker than the rest.\nSyntax highlighting uses different fonts, no colors: Comic Mono (monospaced Comic Sans), Fira Mono, Go Mono, Major Mono, Xanh Mono Italic.\nComments use the widely known Wingdings.\nWhy would you want anything else?",
+          "link": "https://atom.io/packages/zeus-syntax",
+          "publishedOn": "2021-11-18T14:45:54.000Z",
+          "wordCount": 135,
+          "title": "zeus-syntax"
+        },
+        {
+          "id": "https://atom.io/packages/warm-darker-syntax",
+          "author": null,
+          "description": "Warm Darker Syntax Theme\nA warm dark syntax theme based on Warm Dark Syntax featuring darker background\ncolors and modified syntax colors. Designed to work with One Dark UI.\nWarm Darker Syntax screenshot",
+          "link": "https://atom.io/packages/warm-darker-syntax",
+          "publishedOn": "2021-11-16T07:29:30.000Z",
+          "wordCount": 123,
+          "title": "warm-darker-syntax"
+        },
+        {
+          "id": "https://atom.io/packages/language-applesoft",
+          "author": null,
+          "description": "atom-language-applesoft\nSyntax recognition for Applesoft BASIC in the Atom editor.\nEmulates behaviors of the Apple II ROM.\nTo install from within Atom press Ctrl-, or Cmd-,, select Install, and enter applesoft in the search box.\n\nIf you are interested in parsing Applesoft BASIC see tree-sitter-applesoft.",
+          "link": "https://atom.io/packages/language-applesoft",
+          "publishedOn": "2021-11-16T00:29:09.000Z",
+          "wordCount": 113,
+          "title": "language-applesoft"
+        },
+        {
+          "id": "https://atom.io/packages/base16-tomorrow-dark-warm",
+          "author": null,
+          "description": "Base16 Tomorrow Dark Warm Syntax Theme\nModification of the Atom Base16 Tomorrow Dark syntax theme.\nModifications include warmer but mostly very dark background colors for the\neditor and UI, and a few other small UI changes.\nThis theme was designed to work with the One Dark UI theme, which is needed to\nget the UI background colors, and which is the UI theme used in the screenshot.\nBase16 Tomorrow Dark Warm screenshot",
+          "link": "https://atom.io/packages/base16-tomorrow-dark-warm",
+          "publishedOn": "2021-11-15T09:23:01.000Z",
+          "wordCount": 159,
+          "title": "base16-tomorrow-dark-warm"
+        },
+        {
+          "id": "https://atom.io/packages/sweet-synthwave-syntax",
+          "author": null,
+          "description": "Sweet Synthwave syntax theme for Atom\n\n\nSweet Synthwave is a Syntax theme based on Outrun color scheme for sublime text and Pink Pansy syntax theme for Atom.\n\nHow to install\n\n\nInstall using Atom Package Manager\napm install sweet-synthwave-syntax\n\nInstall using Git\nYou can install the theme and keep up to date by cloning the repo directly into your ~/.atom/packages directory.\ngit clone https://github.com/stephkeys/sweet-synthwave-syntax.git ~/.atom/packages/sweet-synthwave-syntax\n\nInstall manually\nDownload using the GitHub .zip download option and unzip them\nMove the sweet-synthwave-syntax folder to  ~/.atom/packages\nActivating theme\nGo to Atom -> Preferences, click in the Themes tab, and select Sweet Synthwave in the Syntax Theme dropdown.",
+          "link": "https://atom.io/packages/sweet-synthwave-syntax",
+          "publishedOn": "2021-11-15T05:17:24.000Z",
+          "wordCount": 189,
+          "title": "sweet-synthwave-syntax"
+        },
+        {
+          "id": "https://atom.io/packages/dark-sublime-syntax",
+          "author": null,
+          "description": "Dark Sublime Syntax Theme for Atom\nAn unholy mashup of rubjo's Ultimate Dark Neo and odahcam's Atom Sublime Monokai Syntax with additional inspiration from sarunasdjacenko's Monokai Sublime and a little bit of markdown support thrown in for good measure.\nI tried about ten million different themes, and tried to figure out what it was I liked about each of them. And this was the result. It's a dark theme, but with less contrast so it's slightly easier on the eyes. Well, on my eyes at least.\nBest used with Victor Mono.",
+          "link": "https://atom.io/packages/dark-sublime-syntax",
+          "publishedOn": "2021-11-13T20:05:41.000Z",
+          "wordCount": 174,
+          "title": "dark-sublime-syntax"
+        },
+        {
+          "id": "https://atom.io/packages/mela",
+          "author": null,
+          "description": "MeLa package\nPackage for MeLa language support in Atom.\nThe package can be activated with the keyboard shorcut ctrl-alt-m or through the menu Packages -> MeLa -> toogle.\nFor a short description of what is MeLa, the installation guide on Atom, and tutorials to learn MeLa, go to this git repository: mela-tutorial",
+          "link": "https://atom.io/packages/mela",
+          "publishedOn": "2021-11-12T15:29:05.000Z",
+          "wordCount": 119,
+          "title": "mela"
+        },
+        {
+          "id": "https://atom.io/packages/grammar-check",
+          "author": null,
+          "description": "atom-grammar-check\nThis atom plugin highlights the syntax and spell mistakes in your editor.\n\nFeatures:\nHighlight mistakes\nSuggest replacing text\nHighlight only text in specific scopes (see here)\nBy default,  highlight correctly latex files and comments in other languages\nLaTeX\nIt's advised to separate different blocks (paragraph, section, ...) with new lines to reduce the number of mistakes not\nhighlighted.\nCorrecter modules\nThere is 2 modules implemented:\nginger that work online (using gingerbread library)\nlanguagetool that can work online and offline and support more than 20 languages. Due to the big amount of\nrequests, it's recommended to have a local server.\nLanguagetool support\nIf you use a local languagetool server (see here to install your own),\nyou can give in option a command line that will be executed when the package is activated to try to start the server.\nYou can add in package option Language Tool Stop Server Command a command that shut down the server when the package is disabled.\nScopes\nIn the parameters, there are 2 fields (Excluded Scopes and Included Scopes)for the scopes' management. Both are list\nof atom scopes and will be use as regex. To be highlighted, a text must be matched by at least one regex in the\nIncluded Scopes list and none of the Excluded Scopes list.\nBy default, the package is configured to highlight correctly latex files and comments in other languages.\nToDO:\nOptimization?\nOn/Off toggle",
+          "link": "https://atom.io/packages/grammar-check",
+          "publishedOn": "2021-11-10T22:39:10.000Z",
+          "wordCount": 310,
+          "title": "grammar-check"
+        },
+        {
+          "id": "https://atom.io/packages/docks-toggler",
+          "author": null,
+          "description": "Docks toggler package for Atom\n\n\n\n\n\n\n\nOpen and close your left, right and bottom docks in Atom only with shortcuts.\nTable of contents\nPackage description\nTable of contents\nInstallation\n\nFrom the Atom menu\nFrom the Atom website\nFrom the command line\nUsage\n\nDefault shortcuts\nCustomized shortcuts\nAuthor\nInstallation\nFrom the Atom website\nGo to docks-toggler\nClick Install\nFrom the Atom menu\nOpen Settings → Install and search for docks-toggler.\nFrom the command line\napm install docks-toggler\n\nUsage\nDefault shortcuts\nDock on the Left : CTRL + ALT + ⇦\nDock on the Right : CTRL + ALT + ⇨\nDock on the Bottom : CTRL + ALT + ⇩\n\nCustomized shortcuts\nCustomize with the shortcuts of your choice :\nShortcuts file : keymaps/docks-toggler.json\n{\n  \"atom-workspace\": {\n    \"ctrl-alt-right\": \"docks-toggler:right\",\n    \"ctrl-alt-left\": \"docks-toggler:left\",\n    \"ctrl-alt-down\": \"docks-toggler:bottom\"\n  }\n}\n\n\n\nAuthor\nWebsite : samuel-thibault.fr\n\n\nContact : contact@samuel-thibault.fr\n\n\nGitHub : github.com/samthib\n\n\nLinkedin : linkedin.com/in/samuel-thibault-1528481b1/",
+          "link": "https://atom.io/packages/docks-toggler",
+          "publishedOn": "2021-11-09T15:58:10.000Z",
+          "wordCount": 216,
+          "title": "docks-toggler"
+        },
+        {
+          "id": "https://atom.io/packages/batlime-syntax",
+          "author": null,
+          "description": "batlime-syntax theme\nA short description of your theme.",
+          "link": "https://atom.io/packages/batlime-syntax",
+          "publishedOn": "2021-11-07T20:45:07.000Z",
+          "wordCount": 79,
+          "title": "batlime-syntax"
+        },
+        {
+          "id": "https://atom.io/packages/panda-dark",
+          "author": null,
+          "description": "panda-dark theme\nPanda Dark is a comfortable theme for use with Atom.",
+          "link": "https://atom.io/packages/panda-dark",
+          "publishedOn": "2021-11-05T16:26:50.000Z",
+          "wordCount": 78,
+          "title": "panda-dark"
+        },
+        {
+          "id": "https://atom.io/packages/heptagon",
+          "author": null,
+          "description": "heptagon package\nA short description of your package.",
+          "link": "https://atom.io/packages/heptagon",
+          "publishedOn": "2021-11-05T11:05:46.000Z",
+          "wordCount": 75,
+          "title": "heptagon"
+        },
+        {
+          "id": "https://atom.io/packages/language-hept",
+          "author": null,
+          "description": "Hept language package\nA short description of your language package.",
+          "link": "https://atom.io/packages/language-hept",
+          "publishedOn": "2021-11-05T11:00:43.000Z",
+          "wordCount": 80,
+          "title": "language-hept"
         }
       ]
     },
@@ -21,6 +435,42 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=359243",
+          "author": "Adam Rackis",
+          "description": "Vite (pronounced “veet”) is a newish JavaScript bundler. It comes batteries-included, requires almost no configuration to be useful, and includes plenty of configuration options. Oh—and it’s fast. Incredibly fast.\nThis post will walk through the process of converting an existing …\nAdding Vite to Your Existing Web App originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/adding-vite-to-your-existing-web-app/",
+          "publishedOn": "2022-01-11T15:38:06.000Z",
+          "wordCount": 2831,
+          "title": "Adding Vite to Your Existing Web App"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360061",
+          "author": "Chris Coyier",
+          "description": "Custom Fields in WordPress are arbitrary bits of data that you can apply to Posts, Pages, and Custom Post Types in WordPress. Metadata, as it were, in the form of key/value pairs. For example:\nKey: subtitle / Value: They are \n…\nHow to Use Native Custom Fields in WordPress (and 5 Useful Examples) originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/use-custom-fields-in-wordpress/",
+          "publishedOn": "2022-01-11T00:41:48.000Z",
+          "wordCount": 2313,
+          "title": "How to Use Native Custom Fields in WordPress (and 5 Useful Examples)"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360873",
+          "author": "Chris Coyier",
+          "description": "Raw Chromium, perhaps?\nSo, Chrome is based on Chromium which is open-source. Chrome is Chromium with Google’s extra stuff on top of it. What extra stuff? Kinda lots! A few years ago, The Verge published “Microsoft reveals all the …\nWhat is Chromium Without Chrome on Top? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/what-is-chromium-without-chrome-on-top/",
+          "publishedOn": "2022-01-10T22:02:49.000Z",
+          "wordCount": 931,
+          "title": "What is Chromium Without Chrome on Top?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359886",
+          "author": "Mads Stoumann",
+          "description": "If you’re disciplined and make use of the inheritance that the CSS cascade provides, you’ll end up writing less CSS. But because our styles often comes from all kinds of sources — and can be a pain to structure and …\nDon’t Fight the Cascade, Control It! originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/dont-fight-the-cascade-control-it/",
+          "publishedOn": "2022-01-10T15:22:08.000Z",
+          "wordCount": 2925,
+          "title": "Don’t Fight the Cascade, Control It!"
+        },
         {
           "id": "https://css-tricks.com/?p=360711",
           "author": "Chris Coyier",
@@ -56,6 +506,15 @@
           "publishedOn": "2022-01-06T22:28:46.000Z",
           "wordCount": 1173,
           "title": "A New Container Query Polyfill That Just Works"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358917",
+          "author": "Alex Lazar",
+          "description": "I was working on a client project a few days ago and wanted to create a certain effect on an <img>. See, background images can do the effect I was looking for somewhat easily with background-attachment: fixed;. With …\nThe Search For a Fixed Background Effect With Inline Images originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/fixed-background-effect/",
+          "publishedOn": "2022-01-06T15:58:55.000Z",
+          "wordCount": 2003,
+          "title": "The Search For a Fixed Background Effect With Inline Images"
         },
         {
           "id": "https://css-tricks.com/?p=358917",
@@ -1648,6 +2107,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61db119ad2d9de084285f51f",
+          "author": null,
+          "description": "One of the most important composite data types in Python is the dictionary. It's a collection you use to store data in {key:value} pairs.  Dictionaries are ordered and mutable, and they cannot store duplicate data. Just keep in mind that before Python 3.6, dictionaries were unordered. Alright, let's",
+          "link": "https://www.freecodecamp.org/news/everything-you-need-to-know-about-python-dictionaries/",
+          "publishedOn": "2022-01-11T19:05:01.000Z",
+          "wordCount": 1540,
+          "title": "Python Dictionary – How to Perform CRUD Operations on dicts in Python"
+        },
+        {
+          "id": "61ddb353b837d507ba09fd7b",
+          "author": null,
+          "description": "It may sound surprising, but you already have all it takes to produce high-level logic: right behind your eyes.  In the first term of college, I was introduced to a subject called Logic. In the \"I think, therefore I am\" fashion, you might think this would be an easy subject.",
+          "link": "https://www.freecodecamp.org/news/propositional-logic-for-beginners/",
+          "publishedOn": "2022-01-11T18:41:47.000Z",
+          "wordCount": 1584,
+          "title": "Propositional Logic for Beginners – You Already Know More Than You Think"
+        },
+        {
+          "id": "61d70293d2d9de084285d502",
+          "author": null,
+          "description": "What is Margin Collapse?Margin collapse occurs when vertically adjacent margins of block-level elements collide to share a general margin space. The size of this shared space is dictated by the larger number margin.  You can visualize this as an arm wrestling match, where the larger margin will take over",
+          "link": "https://www.freecodecamp.org/news/what-is-margin-collapse-and-how-to-avoid-it/",
+          "publishedOn": "2022-01-11T18:07:52.000Z",
+          "wordCount": 1081,
+          "title": "What is Margin Collapse in CSS? And How to Avoid It"
+        },
+        {
+          "id": "61daa098d2d9de084285f0e9",
+          "author": null,
+          "description": "Search algorithms are a fundamental computer science concept that you should understand as a developer. They work by using a step-by-step method to locate specific data among a collection of data. In this article, we'll learn how search algorithms work by looking at their implementations in Java and Python. What",
+          "link": "https://www.freecodecamp.org/news/search-algorithms-linear-and-binary-search-explained/",
+          "publishedOn": "2022-01-11T17:21:54.000Z",
+          "wordCount": 1750,
+          "title": "Search Algorithms – Linear Search and Binary Search Code Implementation and Complexity Analysis"
+        },
+        {
+          "id": "61d304e0d2d9de084285afc8",
+          "author": null,
+          "description": "What is DynamoDB?DynamoDB is a fully managed NoSQL database from AWS. DynamoDB is similar to other NoSQL databases like MongoDB, except for the fact that you don’t have to do any maintenance or scaling on your part. DynamoDB can handle more than 10 trillion requests per day and",
+          "link": "https://www.freecodecamp.org/news/aws-dynamodb-database-guide-for-beginners/",
+          "publishedOn": "2022-01-11T16:50:00.000Z",
+          "wordCount": 1179,
+          "title": "AWS DynamoDB – NoSQL Database Guide for Beginners"
+        },
+        {
+          "id": "601617d60a2838549dcbb553",
+          "author": null,
+          "description": "It's a bit tricky to explain what exactly a file system is in just one sentence. That's why I decided to write an article about it. This post is meant to be a high-level overview of file systems. But I'll sneak into the lower-level concepts as well, as long as",
+          "link": "https://www.freecodecamp.org/news/file-systems-architecture-explained/",
+          "publishedOn": "2022-01-11T16:49:00.000Z",
+          "wordCount": 6927,
+          "title": "What Is a File System? Types of Computer File Systems and How they Work – Explained with Examples"
+        },
+        {
+          "id": "61d6aae9d2d9de084285cfdc",
+          "author": null,
+          "description": "As a JavaScript beginner, you probably learned how to declare variables and assign values.  In the old, pre-ES6 era of JavaScript, developers used to declare variables using the keyword var or without any keywords. But times have changed! With ES6 (EcmaScript 2015), the beginning of the modern era in JavaScript,",
+          "link": "https://www.freecodecamp.org/news/understanding-let-const-and-var-keywords/",
+          "publishedOn": "2022-01-11T16:47:43.000Z",
+          "wordCount": 1573,
+          "title": "How the let, const, and var Keywords Work in JavaScript"
+        },
+        {
+          "id": "61d8d033d2d9de084285e93e",
+          "author": null,
+          "description": "Web forms play an important role on many sites on the internet, and they're something you should know how to build as a web developer.  From good ol' login forms to signup forms and survey forms (or whatever they're called these days), their main purpose is to receive data and",
+          "link": "https://www.freecodecamp.org/news/how-to-send-the-right-data-type-from-a-form-to-the-backend-server/",
+          "publishedOn": "2022-01-10T21:30:48.000Z",
+          "wordCount": 2408,
+          "title": "How to Convert react-dropdown-select&#x27;s Default Value from Array to String"
+        },
+        {
+          "id": "61d54372d2d9de084285c327",
+          "author": null,
+          "description": "If you need to split up a string into an array of substrings, then you can use the JavaScript split() method.  In this article, I will go over the JavaScript split() method and provide code examples.  Basic Syntax of the split() methodHere is the syntax for the JavaScript split() method.",
+          "link": "https://www.freecodecamp.org/news/javascript-split-a-string-string-to-array-js-method/",
+          "publishedOn": "2022-01-10T21:24:30.000Z",
+          "wordCount": 948,
+          "title": "JavaScript split() a String – String to Array JS Method"
+        },
+        {
+          "id": "61dc51e5b837d507ba09edb6",
+          "author": null,
+          "description": "So you're ready to dive into learning React, but you still have some lingering questions, such as: How should I create my React projects?What tools should I add to my React app?Do I need to learn JavaScript first before learning React?Where should I deploy my projects?If",
+          "link": "https://www.freecodecamp.org/news/react-beginners-guide/",
+          "publishedOn": "2022-01-10T21:15:23.000Z",
+          "wordCount": 2335,
+          "title": "The React Beginner&#x27;s Guide for 2022"
+        },
         {
           "id": "61d6e37ad2d9de084285d220",
           "author": null,
@@ -4121,6 +4670,186 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "https://hackernoon.com",
       "articles": [
+        {
+          "id": "https://hackernoon.com/high-utility-defi-data-analytics-tools-for-crypto-investors?source=rss",
+          "author": "Masha Prusso",
+          "description": "These four growing platforms will give investors the tools they need to make smarter decisions",
+          "link": "https://hackernoon.com/high-utility-defi-data-analytics-tools-for-crypto-investors?source=rss",
+          "publishedOn": "2022-01-10T22:59:33.000Z",
+          "wordCount": 2527,
+          "title": "High-Utility DeFi Data Analytics Tools For Crypto Investors"
+        },
+        {
+          "id": "https://hackernoon.com/amazon-elastic-kubernetes-service-eks-vs-azure-kubernetes-service-aks-a-comparison?source=rss",
+          "author": "Asad Faizi",
+          "description": "Managed Kubernetes is experiencing massive growth in adoption and many organizations are moving their self-managed Kubernetes clusters.",
+          "link": "https://hackernoon.com/amazon-elastic-kubernetes-service-eks-vs-azure-kubernetes-service-aks-a-comparison?source=rss",
+          "publishedOn": "2022-01-10T22:54:43.000Z",
+          "wordCount": 1988,
+          "title": "Amazon Elastic Kubernetes Service (EKS) vs. Azure Kubernetes Service (AKS), A Comparison"
+        },
+        {
+          "id": "https://hackernoon.com/from-proposal-to-platform-a-framework-for-scaling-software?source=rss",
+          "author": "Tim Kleier",
+          "description": "Ever find yourself maintaining a prototype in production? Or struggling to scale siloed products? In this article, we explore a framework for scaling software.",
+          "link": "https://hackernoon.com/from-proposal-to-platform-a-framework-for-scaling-software?source=rss",
+          "publishedOn": "2022-01-10T22:53:58.000Z",
+          "wordCount": 2683,
+          "title": "From Proposal to Platform: A Framework for Scaling Software"
+        },
+        {
+          "id": "https://hackernoon.com/from-python-to-telegram-build-your-own-notification-system?source=rss",
+          "author": "Anzor Berezgov",
+          "description": "Learn how to send messages from python script to Telegram chat.",
+          "link": "https://hackernoon.com/from-python-to-telegram-build-your-own-notification-system?source=rss",
+          "publishedOn": "2022-01-10T22:53:56.000Z",
+          "wordCount": 1612,
+          "title": "From Python to Telegram: Build your own Notification System"
+        },
+        {
+          "id": "https://hackernoon.com/taking-defi-mainstream-a-conversation-with-anshul-dhir-of-the-easyfi-network?source=rss",
+          "author": "Dan Stein",
+          "description": "Defi's increased popularity has also come with challenges now standing as roadblocks to further growth. Here, we discuss those problems and possible solutions.",
+          "link": "https://hackernoon.com/taking-defi-mainstream-a-conversation-with-anshul-dhir-of-the-easyfi-network?source=rss",
+          "publishedOn": "2022-01-10T22:45:15.000Z",
+          "wordCount": 1927,
+          "title": "Taking DeFi Mainstream: A Conversation With Anshul Dhir of the EasyFi Network"
+        },
+        {
+          "id": "https://hackernoon.com/bitcoin-btc-is-still-not-showing-bullish-signs-as-it-trades-below-$42000?source=rss",
+          "author": "LoudPosts",
+          "description": "Bitcoin (BTC) is not showing any decisive bullish signs even though the cryptocurrency market is back trading in the green on January 10.",
+          "link": "https://hackernoon.com/bitcoin-btc-is-still-not-showing-bullish-signs-as-it-trades-below-$42000?source=rss",
+          "publishedOn": "2022-01-10T22:41:31.000Z",
+          "wordCount": 1262,
+          "title": "Bitcoin (BTC) is Still Not Showing Bullish Signs as it Trades Below $42,000"
+        },
+        {
+          "id": "https://hackernoon.com/all-about-my-new-job-at-akamai?source=rss",
+          "author": "Austin Gil",
+          "description": "I got a new job as a Senior Developer Advocate at Akamai. This post shares my thoughts on the role, company, and industry. In short, I'm excited.",
+          "link": "https://hackernoon.com/all-about-my-new-job-at-akamai?source=rss",
+          "publishedOn": "2022-01-10T22:39:35.000Z",
+          "wordCount": 4655,
+          "title": "All About My New Job at Akamai"
+        },
+        {
+          "id": "https://hackernoon.com/some-faqs-on-the-best-programming-language-for-graphics?source=rss",
+          "author": "Fireart Studio",
+          "description": "What’s the best programming language for graphics is an excellent question. It’s always curious to discover which languages graphic designers prefer.",
+          "link": "https://hackernoon.com/some-faqs-on-the-best-programming-language-for-graphics?source=rss",
+          "publishedOn": "2022-01-10T22:39:04.000Z",
+          "wordCount": 1854,
+          "title": "Some FAQs on the Best Programming Language for Graphics"
+        },
+        {
+          "id": "https://hackernoon.com/c-vs-java-whats-the-difference-with-examples?source=rss",
+          "author": "Fireart Studio",
+          "description": "C++ vs. Java programming languages are designed for everyone, no matter if you are new to programming or you already have extensive programming experience.",
+          "link": "https://hackernoon.com/c-vs-java-whats-the-difference-with-examples?source=rss",
+          "publishedOn": "2022-01-10T22:32:57.000Z",
+          "wordCount": 2032,
+          "title": "What’s the Difference Between C++ vs Java"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-a-hashmap-in-java?source=rss",
+          "author": "Mahipal Nehra",
+          "description": "Hashmap is a collection of key-value pairs and an array of nodes. It uses an array and LinkedList for storing key-value pairs.",
+          "link": "https://hackernoon.com/what-is-a-hashmap-in-java?source=rss",
+          "publishedOn": "2022-01-10T22:32:12.000Z",
+          "wordCount": 2152,
+          "title": "What is a HashMap in Java?"
+        },
+        {
+          "id": "https://hackernoon.com/best-programming-languages-to-learn-in-2022?source=rss",
+          "author": "Manik",
+          "description": "A look at an average pay scale and the future demand for each of the programming languages available today and made a list of the top five languages.",
+          "link": "https://hackernoon.com/best-programming-languages-to-learn-in-2022?source=rss",
+          "publishedOn": "2022-01-10T22:27:27.000Z",
+          "wordCount": 2353,
+          "title": "Best Programming Languages to Learn in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/build-your-own-ethereum-transaction-app-with-react-and-solidity-part-1?source=rss",
+          "author": "Darlington Gospel",
+          "description": "This tutorial will teach you how to build a decentralized blockchain application from the ground up that will interact with a ReactJs frontend.",
+          "link": "https://hackernoon.com/build-your-own-ethereum-transaction-app-with-react-and-solidity-part-1?source=rss",
+          "publishedOn": "2022-01-10T22:24:46.000Z",
+          "wordCount": 3424,
+          "title": "How to Build an Ethereum Transaction App with React and Solidity: Part 1"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-maintain-a-prototyping-mindset-when-building-for-the-semantic-web?source=rss",
+          "author": "Marko Marinkovic",
+          "description": "This talk covers the importance of keeping a prototyping mindset in all aspects of our web design with reference to the idea of the semantic web.",
+          "link": "https://hackernoon.com/how-to-maintain-a-prototyping-mindset-when-building-for-the-semantic-web?source=rss",
+          "publishedOn": "2022-01-10T22:23:30.000Z",
+          "wordCount": 3852,
+          "title": "How to Maintain a Prototyping Mindset When Building for the Semantic Web"
+        },
+        {
+          "id": "https://hackernoon.com/10-ways-developers-can-make-money-coding?source=rss",
+          "author": "Dan Fleser",
+          "description": "How developers increase their income cash flow",
+          "link": "https://hackernoon.com/10-ways-developers-can-make-money-coding?source=rss",
+          "publishedOn": "2022-01-10T22:22:01.000Z",
+          "wordCount": 2237,
+          "title": "10 Ways Developers Can Make Money Coding"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-become-a-software-architect-keith-caseytm-on-his-career-learnings-at-twilio-okta-and-beyond?source=rss",
+          "author": "cal@calevans.com",
+          "description": "Software architects are really the linchpin for creating exceptional, world-changing software—and having the wrong person in that seat can be disastrous.",
+          "link": "https://hackernoon.com/how-to-become-a-software-architect-keith-caseytm-on-his-career-learnings-at-twilio-okta-and-beyond?source=rss",
+          "publishedOn": "2022-01-10T21:40:47.000Z",
+          "wordCount": 2708,
+          "title": "How to Become a Software Architect: Keith Casey™️ on His Career Learnings at Twilio, Okta and Beyond"
+        },
+        {
+          "id": "https://hackernoon.com/collaborative-governance-will-be-the-driver-of-the-api-economy?source=rss",
+          "author": "Darshan Shivashankar",
+          "description": "Businesses want to modernize the way they govern APIs and fix their current traditional API management. Let's see how.",
+          "link": "https://hackernoon.com/collaborative-governance-will-be-the-driver-of-the-api-economy?source=rss",
+          "publishedOn": "2022-01-10T21:26:11.000Z",
+          "wordCount": 1946,
+          "title": "Collaborative Governance Will Be The Driver of The API Economy"
+        },
+        {
+          "id": "https://hackernoon.com/how-i-established-my-digital-branding-for-less-than-$500?source=rss",
+          "author": "FarahKim",
+          "description": "Do it yourself logo design, website design, and personal branding tools for early-stage entrepreneurs and consultants.",
+          "link": "https://hackernoon.com/how-i-established-my-digital-branding-for-less-than-$500?source=rss",
+          "publishedOn": "2022-01-10T21:18:38.000Z",
+          "wordCount": 3615,
+          "title": "How I Established My Digital Branding For Less than $500"
+        },
+        {
+          "id": "https://hackernoon.com/why-i-think-most-covid-opinions-are-bullsht?source=rss",
+          "author": "Steven Finkelstein",
+          "description": "Examining how data democratization is not always a good thing when it comes to COVID data.",
+          "link": "https://hackernoon.com/why-i-think-most-covid-opinions-are-bullsht?source=rss",
+          "publishedOn": "2022-01-10T21:03:03.000Z",
+          "wordCount": 1700,
+          "title": "Why I Think Most COVID Opinions Are Bullsh*t"
+        },
+        {
+          "id": "https://hackernoon.com/boost-io-efficiency-and-increase-gpu-utilization-in-machine-learning-training?source=rss",
+          "author": "Bin Fan",
+          "description": "In this blog, we provide an overview of Alluxio’s solution to improve training performance and simplify data management.",
+          "link": "https://hackernoon.com/boost-io-efficiency-and-increase-gpu-utilization-in-machine-learning-training?source=rss",
+          "publishedOn": "2022-01-10T20:55:54.000Z",
+          "wordCount": 3087,
+          "title": "Boost I/O Efficiency & Increase GPU Utilization in Machine Learning Training"
+        },
+        {
+          "id": "https://hackernoon.com/is-it-safe-to-bet-on-uranium?source=rss",
+          "author": "Igor",
+          "description": "Over the past week, global uranium prices have risen by more than about 8% amid protests and unrest in Kazakhstan, the world's largest producer of nuclear fuel.",
+          "link": "https://hackernoon.com/is-it-safe-to-bet-on-uranium?source=rss",
+          "publishedOn": "2022-01-10T20:53:02.000Z",
+          "wordCount": 1343,
+          "title": "Is it Safe to Bet on Uranium?"
+        },
         {
           "id": "https://hackernoon.com/python-for-beginners-part-5-variables?source=rss",
           "author": "Clever Programmer",
@@ -14909,6 +15638,96 @@
           "publishedOn": "2021-10-10T17:42:32.000Z",
           "wordCount": 574,
           "title": "Terminate Process on a Port from Command Line"
+        },
+        {
+          "id": "https://davidwalsh.name/?p=27475",
+          "author": "David Walsh",
+          "description": "For better or worse, form fields have been somewhat difficult to style with CSS. Form control display is dependent upon device, operating system, and browser, so you can imagine the difficulty in making styling easy. We have slowly been given some controls over form control display, as evidenced by accent-color! The accent-color CSS property allows […]\nThe post CSS accent-color appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/css-accent-color",
+          "publishedOn": "2021-10-04T08:08:36.000Z",
+          "wordCount": 553,
+          "title": "CSS accent-color"
+        },
+        {
+          "id": "https://davidwalsh.name/?p=27474",
+          "author": "David Walsh",
+          "description": "The UUID identifier has been used in programming since the days a baby-faced David Walsh became a professional software engineer. My first exposure to UUIDs was via a ColdFusion app I inherited and … the less we say about that the better. In any event, I was recently surprised to see that JavaScript has the […]\nThe post How to Create a UUID in JavaScript appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/javascript-uuid",
+          "publishedOn": "2021-09-30T01:47:39.000Z",
+          "wordCount": 748,
+          "title": "How to Create a UUID in JavaScript"
+        },
+        {
+          "id": "https://davidwalsh.name/?p=27469",
+          "author": "David Walsh",
+          "description": "One of the big themes of the web these days is concurrency, which leads to accomplishing tasks asynchronously. In doing so, the possibility of multiple errors can occur. Instead of providing a generic error, optimally you’d provide a wealth of error information. TheAggregateError error lets developers throw multiple errors within one single Error. Let’s see […]\nThe post AggregateError appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/aggregateerror",
+          "publishedOn": "2021-09-17T15:12:17.000Z",
+          "wordCount": 579,
+          "title": "AggregateError"
+        },
+        {
+          "id": "https://davidwalsh.name/?p=27462",
+          "author": "David Walsh",
+          "description": "I old enough to remember when we thought XML was going to change the programming world…then JSON saved us from that hell. Parsing and querying JSON data is fundamental task we’ve all coded for, but sometimes I just want to get some data locally with minimal fuss. I just learned of a really awesome library […]\nThe post jq for JSON appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/jq",
+          "publishedOn": "2021-08-27T16:29:41.000Z",
+          "wordCount": 666,
+          "title": "jq for JSON"
+        },
+        {
+          "id": "https://davidwalsh.name/?p=27459",
+          "author": "David Walsh",
+          "description": "Hooks are essential for the functional component pattern in React. One frequent logic comparison with class components was comparing a previous prop value with a current prop value via lifecycle methods. So what’s an easy pattern for duplicating previous value comparisons in functional components? The useRef and useEffect hooks allow us manage that same functionality […]\nThe post React usePrevious Hook appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/react-useprevious-hook",
+          "publishedOn": "2021-08-23T14:00:13.000Z",
+          "wordCount": 829,
+          "title": "React usePrevious Hook"
+        },
+        {
+          "id": "https://davidwalsh.name/?p=27454",
+          "author": "David Walsh",
+          "description": "As I’ve shown you in the past, nvm an excellent utility for switching between Node.js versions. Whether your host machine or CI, building and testing your apps on different Node versions is a necessity. I’ve recently found a few nvm commands that I found really useful during local development. To set a default node version […]\nThe post Set a Default Node Version with nvm appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/nvm-default-node",
+          "publishedOn": "2021-08-09T16:19:11.000Z",
+          "wordCount": 526,
+          "title": "Set a Default Node Version with nvm"
+        },
+        {
+          "id": "https://davidwalsh.name/?p=27453",
+          "author": "David Walsh",
+          "description": "Coding HTML forms has been painful my entire career. Form controls look different between operating systems and browsers, coding client side and server side validation is a nightmare, and inevitably you forget something somewhere along the line. Some behaviors don’t act the way you’d hope, like onChange, which only fires when the user leaves (blurs) […]\nThe post onInput Event appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/oninput-event",
+          "publishedOn": "2021-08-03T02:03:11.000Z",
+          "wordCount": 619,
+          "title": "onInput Event"
+        },
+        {
+          "id": "https://davidwalsh.name/?p=27448",
+          "author": "David Walsh",
+          "description": "Dark mode has seemingly become the desired visual mode for websites and mobile apps alike. Dark mode is easier on the eyes, especially for those like me who like to burn the midnight oil by coding and reading tutorials. Unfortunately not all websites offer dark mode, so it’s up to me to remedy the situation. […]\nThe post Dark Mode in One Line of Code! appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/dark-mode-invert-filter",
+          "publishedOn": "2021-07-19T12:41:40.000Z",
+          "wordCount": 687,
+          "title": "Dark Mode in One Line of Code!"
+        },
+        {
+          "id": "https://davidwalsh.name/?p=27444",
+          "author": "David Walsh",
+          "description": "The early days of the web felt like the wild west when it came to coding practices — just make it work. Then we became enlightened to better practices, separating HTML from CSS and JavaScript. Then came React and JSX, where we combine JavaScript, HTML, and even CSS with Styled Components — what an elegant […]\nThe post Fix Seeing “0” in Your JSX Code appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/fix-your-jsx",
+          "publishedOn": "2021-07-09T02:18:28.000Z",
+          "wordCount": 731,
+          "title": "Fix Seeing “0” in Your JSX Code"
+        },
+        {
+          "id": "https://davidwalsh.name/?p=27440",
+          "author": "David Walsh",
+          "description": "My preference for daily work is usually GUI applications, like Visual Studio Code for text editing and Cyberduck for remote file server management. I’m also a huge fan of automation, so I do try to learn the command line equivalents of UI functions. My latest desire was wanting to know how to upload a file […]\nThe post How to Upload a File via SSH and Command Line appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/upload-ssh",
+          "publishedOn": "2021-06-28T11:18:44.000Z",
+          "wordCount": 562,
+          "title": "How to Upload a File via SSH and Command Line"
         }
       ]
     },
@@ -14934,6 +15753,168 @@
           "publishedOn": "2021-10-21T14:00:00.000Z",
           "wordCount": 4062,
           "title": "How to Sell UX Research with Two Simple Questions"
+        },
+        {
+          "id": "https://alistapart.com/article/a-content-model-is-not-a-design-system/",
+          "author": "by",
+          "description": "Do you remember when having a great website was enough? Now, people are getting answers from Siri, Google search snippets, and mobile apps, not just our websites. Forward-thinking organizations have adopted an omnichannel content strategy, whose mission is to reach audiences across multiple digital channels and platforms.\nBut how do you set up a content management system (CMS) to reach your audience now and in the future? I learned the hard way that creating a content model—a definition of content types, attributes, and relationships that let people and systems understand content—with my more familiar design-system thinking would capsize my customer’s omnichannel content strategy. You can avoid that outcome by creating content models that are semantic and that also connect related content.…",
+          "link": "https://alistapart.com/article/a-content-model-is-not-a-design-system/",
+          "publishedOn": "2021-09-23T14:00:00.000Z",
+          "wordCount": 2407,
+          "title": "A Content Model Is Not a Design System"
+        },
+        {
+          "id": "https://alistapart.com/article/design-for-safety-excerpt/",
+          "author": "by",
+          "description": "Antiracist economist Kim Crayton says that “intention without strategy is chaos.” We’ve discussed how our biases, assumptions, and inattention toward marginalized and vulnerable groups lead to dangerous and unethical tech—but what, specifically, do we need to do to fix it? The intention to make our tech safer is not enough; we need a strategy.\nThis chapter will equip you with that plan of action. It covers how to integrate safety principles into your design work in order to create tech that’s safe, how to convince your stakeholders that this work is necessary, and how to respond to the critique that what we actually need is more diversity. (Spoiler: we do, but diversity alone is not the antidote to fixing unethical, unsafe tech.)\nThe process for inclusive safety\nWhen you are designing for …",
+          "link": "https://alistapart.com/article/design-for-safety-excerpt/",
+          "publishedOn": "2021-08-26T15:01:43.000Z",
+          "wordCount": 3975,
+          "title": "Design for Safety, An Excerpt"
+        },
+        {
+          "id": "https://alistapart.com/article/sustainable-web-design-excerpt/",
+          "author": "by",
+          "description": "In the 1950s, many in the elite running community had begun to believe it wasn’t possible to run a mile in less than four minutes. Runners had been attempting it since the late 19th century and were beginning to draw the conclusion that the human body simply wasn’t built for the task. \nBut on May 6, 1956, Roger Bannister took everyone by surprise. It was a cold, wet day in Oxford, England—conditions no one expected to lend themselves to record-setting—and yet Bannister did just that, running a mile in 3:59.4 and becoming the first person in the record books to run a mile in under four minutes. \nThis shift in the benchmark had profound effects; the world now knew that the four-minute mile was possible. Bannister’s record lasted only forty-six days, when it was snatched away by Australian ru…",
+          "link": "https://alistapart.com/article/sustainable-web-design-excerpt/",
+          "publishedOn": "2021-08-05T14:00:00.000Z",
+          "wordCount": 3494,
+          "title": "Sustainable Web Design, An Excerpt"
+        },
+        {
+          "id": "https://alistapart.com/article/voice-content-and-usability/",
+          "author": "by",
+          "description": "We’ve been having conversations for thousands of years. Whether to convey information, conduct transactions, or simply to check in on one another, people have yammered away, chattering and gesticulating, through spoken conversation for countless generations. Only in the last few millennia have we begun to commit our conversations to writing, and only in the last few decades have we begun to outsource them to the computer, a machine that shows much more affinity for written correspondence than for the slangy vagaries of spoken language.\nComputers have trouble because between spoken and written language, speech is more primordial. To have successful conversations with us, machines must grapple with the messiness of human speech: the disfluencies and pauses, the gestures and body language, an…",
+          "link": "https://alistapart.com/article/voice-content-and-usability/",
+          "publishedOn": "2021-07-29T13:00:00.000Z",
+          "wordCount": 3822,
+          "title": "Voice Content and Usability"
+        },
+        {
+          "id": "https://alistapart.com/article/designing-for-the-unexpected/",
+          "author": "by",
+          "description": "I’m not sure when I first heard this quote, but it’s something that has stayed with me over the years. How do you create services for situations you can’t imagine? Or design products that work on devices yet to be invented?\nFlash, Photoshop, and responsive design\nWhen I first started designing websites, my go-to software was Photoshop. I created a 960px canvas and set about creating a layout that I would later drop content in. The development phase was about attaining pixel-perfect accuracy using fixed widths, fixed heights, and absolute positioning.\nEthan Marcotte’s talk at An Event Apart and subsequent article “Responsive Web Design” in A List Apart in 2010 changed all this. I was sold on responsive design as soon as I heard about it, but I was also terrified. The pixel-perfect designs f…",
+          "link": "https://alistapart.com/article/designing-for-the-unexpected/",
+          "publishedOn": "2021-07-15T13:00:00.000Z",
+          "wordCount": 4510,
+          "title": "Designing for the Unexpected"
+        },
+        {
+          "id": "https://alistapart.com/article/asynchronous-design-critique-giving-feedback-part2/",
+          "author": "by",
+          "description": "“Any comment?” is probably one of the worst ways to ask for feedback. It’s vague and open ended, and it doesn’t provide any indication of what we’re looking for. Getting good feedback starts earlier than we might expect: it starts with the request. \nIt might seem counterintuitive to start the process of receiving feedback with a question, but that makes sense if we realize that getting feedback can be thought of as a form of design research. In the same way that we wouldn’t do any research without the right questions to get the insights that we need, the best way to ask for feedback is also to craft sharp questions.\nDesign critique is not a one-shot process. Sure, any good feedback workflow continues until the project is finished, but this is particularly true for design because design wor…",
+          "link": "https://alistapart.com/article/asynchronous-design-critique-giving-feedback-part2/",
+          "publishedOn": "2021-07-01T14:00:00.000Z",
+          "wordCount": 3665,
+          "title": "Asynchronous Design Critique: Getting Feedback"
+        },
+        {
+          "id": "https://alistapart.com/article/async-design-critique-giving-feedback/",
+          "author": "by",
+          "description": "Feedback, in whichever form it takes, and whatever it may be called, is one of the most effective soft skills that we have at our disposal to collaboratively get our designs to a better place while growing our own skills and perspectives.\nFeedback is also one of the most underestimated tools, and often by assuming that we’re already good at it, we settle, forgetting that it’s a skill that can be trained, grown, and improved. Poor feedback can create confusion in projects, bring down morale, and affect trust and team collaboration over the long term. Quality feedback can be a transformative force. \nPracticing our skills is surely a good way to improve, but the learning gets even faster when it’s paired with a good foundation that channels and focuses the practice. What are some foundational…",
+          "link": "https://alistapart.com/article/async-design-critique-giving-feedback/",
+          "publishedOn": "2021-06-17T14:00:00.000Z",
+          "wordCount": 4128,
+          "title": "Asynchronous Design Critique: Giving Feedback"
+        },
+        {
+          "id": "https://alistapart.com/article/thats-not-my-burnout/",
+          "author": "by",
+          "description": "Are you like me, reading about people fading away as they burn out, and feeling unable to relate? Do you feel like your feelings are invisible to the world because you’re experiencing burnout differently? When burnout starts to push down on us, our core comes through more. Beautiful, peaceful souls get quieter and fade into that distant and distracted burnout we’ve all read about. But some of us, those with fires always burning on the edges of our core, get hotter. In my heart I am fire. When I face burnout I double down, triple down, burning hotter and hotter to try to best the challenge. I don’t fade—I am engulfed in a zealous burnout. \nSo what on earth is a zealous burnout?\nImagine a woman determined to do it all. She has two amazing children whom she, along with her husband who is also…",
+          "link": "https://alistapart.com/article/thats-not-my-burnout/",
+          "publishedOn": "2021-05-20T14:00:00.000Z",
+          "wordCount": 3875,
+          "title": "That’s Not My Burnout"
+        },
+        {
+          "id": "https://alistapart.com/article/beware-the-cut-n-paste-persona/",
+          "author": "by ,",
+          "description": "This Person Does Not Exist is a website that generates human faces with a machine learning algorithm. It takes real portraits and recombines them into fake human faces. We recently scrolled past a LinkedIn post stating that this website could be useful “if you are developing a persona and looking for a photo.” \nWe agree: the computer-generated faces could be a great match for personas—but not for the reason you might think. Ironically, the website highlights the core issue of this very common design method: the person(a) does not exist. Like the pictures, personas are artificially made. Information is taken out of natural context and recombined into an isolated snapshot that’s detached from reality. \nBut strangely enough, designers use personas to inspire their design for the real world. \n…",
+          "link": "https://alistapart.com/article/beware-the-cut-n-paste-persona/",
+          "publishedOn": "2021-05-06T14:00:00.000Z",
+          "wordCount": 4236,
+          "title": "Beware the Cut ‘n’ Paste Persona"
+        },
+        {
+          "id": "https://alistapart.com/article/immersive-content-strategy/",
+          "author": "by",
+          "description": "Beyond the severe toll of the coronavirus pandemic, perhaps no other disruption has transformed user experiences quite like how the tethers to our formerly web-biased era of content have frayed. We’re transitioning to a new world of remote work and digital content. We’re also experimenting with unprecedented content channels that, not too long ago, elicited chuckles at the watercooler, like voice interfaces, digital signage, augmented reality, and virtual reality.\nMany factors are responsible. Perhaps it’s because we yearn for immersive spaces that temporarily resurrect the Before Times, or maybe it’s due to the boredom and tedium of our now-cemented stuck-at-home routines. But aural user experiences slinging voice content, and immersive user experiences unlocking new forms of interacting …",
+          "link": "https://alistapart.com/article/immersive-content-strategy/",
+          "publishedOn": "2021-04-29T14:00:00.000Z",
+          "wordCount": 5428,
+          "title": "Immersive Content Strategy"
+        },
+        {
+          "id": "https://alistapart.com/article/do-you-need-to-localize-your-website/",
+          "author": "by",
+          "description": "Global markets give you access to new customers. All you need to do is inform potential buyers about your product or service. \nYour website is a good place to introduce your product or service outside your locale. Localizing your web content sounds like the right way to reach out to the global market. Localization will bridge the language barriers, or the wider scope of differing cultures. \nBefore we move on further with the discussion, let’s focus on the definition of “localization.” \nWhat is localization?\nAccording to the Cambridge Dictionary, localization (as a marketing term) is “the process of making a product or service more suitable for a particular country, area, etc.,” while translation is “something that is translated, or the process of translating something, from one language to…",
+          "link": "https://alistapart.com/article/do-you-need-to-localize-your-website/",
+          "publishedOn": "2021-04-22T14:00:00.000Z",
+          "wordCount": 2976,
+          "title": "Do You Need to Localize Your Website?"
+        },
+        {
+          "id": "https://alistapart.com/article/human-readable-javascript/",
+          "author": "by",
+          "description": "Everyone wants to be an expert. But what does that even mean? Over the years I’ve seen two types of people who are referred to as “experts.” Expert 1 is someone who knows every tool in the language and makes sure to use every bit of it, whether it helps or not. Expert 2 also knows every piece of syntax, but they’re pickier about what they employ to solve problems, considering a number of factors, both code-related and not. \nCan you take a guess at which expert we want working on our team? If you said Expert 2, you’d be right. They’re a developer focused on delivering readable code—lines of JavaScript others can understand and maintain. Someone who can make the complex simple. But “readable” is rarely definitive—in fact, it’s largely based on the eyes of the beholder. So where does that lea…",
+          "link": "https://alistapart.com/article/human-readable-javascript/",
+          "publishedOn": "2021-03-25T14:00:00.000Z",
+          "wordCount": 2463,
+          "title": "Human-Readable JavaScript: A Tale of Two Experts"
+        },
+        {
+          "id": "https://alistapart.com/article/now-thats-what-i-call-service-worker/",
+          "author": "by",
+          "description": "The Service Worker API is the Dremel of the web platform. It offers incredibly broad utility while also yielding resiliency and better performance. If you’ve not used Service Worker yet—and you couldn’t be blamed if so, as it hasn’t seen wide adoption as of 2020—it goes something like this:\nOn the initial visit to a website, the browser registers what amounts to a client-side proxy powered by a comparably paltry amount of JavaScript that—like a Web Worker—runs on its own thread.\nAfter the Service Worker’s registration, you can intercept requests and decide how to respond to them in the Service Worker’s fetch() event.\n\n\n\n\nWhat you decide to do with requests you intercept is a) your call and b) depends on your website. You can rewrite requests, precache static assets during install, provide …",
+          "link": "https://alistapart.com/article/now-thats-what-i-call-service-worker/",
+          "publishedOn": "2021-03-18T14:00:00.000Z",
+          "wordCount": 4459,
+          "title": "Now THAT&#8217;S What I Call Service Worker!"
+        },
+        {
+          "id": "https://alistapart.com/article/keeping-a-fresh-design-mind/",
+          "author": "by",
+          "description": "“Only a fool knows everything.”\n— African Proverb\nSince March 2020, most of us have been working from home, and the days blend into each other and look the same. This is not the first time I have experienced this type of feeling. \nMy commute — New York to New Jersey — is what folks in my area call the reverse commute.While going to the office, my days began to look the same: riding the subway to a bus to a shuttle to get to my job. Have you ever arrived at a destination and not even realized how you got there? This is how I began to experience the world everyday. I stopped paying attention to my surroundings.\nBecause I worked a lot, the only time I would take off was for the holidays. During this time, I was a consultant and was coming to the end of an existing contract. For six years stra…",
+          "link": "https://alistapart.com/article/keeping-a-fresh-design-mind/",
+          "publishedOn": "2021-03-11T15:00:00.000Z",
+          "wordCount": 1764,
+          "title": "Keeping Your Design Mind New and Fresh"
+        },
+        {
+          "id": "https://alistapart.com/article/dysfunctional-teams-back-on-track/",
+          "author": "by",
+          "description": "Maybe you’ve been part of a team that you’ve seen slowly slide into a rut. You didn’t notice it happen, but you’re now not shipping anything, no one’s talking to each other, and the management’s Eye of Sauron has cast its gaze upon you.\nMaybe you’ve just joined a team that’s in the doldrums.\nMaybe the people who used to oil the wheels that kept everyone together have moved on and you’re having to face facts—you all hate each other.\nHowever you’ve ended up in this situation, the fact is that you’re now here and it’s up to someone to do something about it. And that person might be you.\nYou’re not alone\nThe first thing to understand is that you’re not the only person to ever encounter problems. Things like this happen all the time at work, but there are simple steps you can take and habits yo…",
+          "link": "https://alistapart.com/article/dysfunctional-teams-back-on-track/",
+          "publishedOn": "2021-03-04T15:00:00.000Z",
+          "wordCount": 3572,
+          "title": "How to Get a Dysfunctional Team Back on Track"
+        },
+        {
+          "id": "https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/",
+          "author": "by",
+          "description": "The future of web-based software architectures is already taking form, and this time it’s server-rendered (again). Papa’s got a brand new bag: HTML-over-WebSockets and broadcast everything all the time.\nThe dual approach of marrying a Single Page App with an API service has left many dev teams mired in endless JSON wrangling and state discrepancy bugs across two layers. This costs dev time, slows release cycles, and saps the bandwidth for innovation.\nBut a new WebSockets-driven approach is catching web developers’ attention. One that reaffirms the promises of classic server-rendered frameworks: fast prototyping, server-side state management, solid rendering performance, rapid feature development, and straightforward SEO. One that enables multi-user collaboration and reactive, responsive de…",
+          "link": "https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/",
+          "publishedOn": "2021-02-25T15:00:00.000Z",
+          "wordCount": 3880,
+          "title": "The Future of Web Software Is HTML-over-WebSockets"
+        },
+        {
+          "id": "https://alistapart.com/article/designing-inclusive-content-models/",
+          "author": "by ,",
+          "description": "In the 1920s, Robert Moses designed a system of parkways surrounding New York City. His designs, which included overpasses too low for public buses, have become an often-cited example of exclusionary design and are argued by biographer Robert A. Caro to represent a purposeful barrier between the city’s Black and Puerto Rican residents and nearby beaches. \nRegardless of the details of Moses’s parkway project, it’s a particularly memorable reminder of the political power of design and the ways that choices can exclude various groups based on abilities and resources. The growing interest in inclusive design highlights questions of who can participate, and in relation to the web, this has often meant a focus on accessibility and user experience, as well as on questions related to team diversit…",
+          "link": "https://alistapart.com/article/designing-inclusive-content-models/",
+          "publishedOn": "2021-02-18T15:00:00.000Z",
+          "wordCount": 2855,
+          "title": "Designing Inclusive Content Models"
+        },
+        {
+          "id": "https://alistapart.com/article/selling-design-systems/",
+          "author": "by",
+          "description": "I’m willing to bet that you probably didn’t start your web career because you wanted to be a politician or a salesperson. But here’s the cold, hard truth, friend: if you want to work on design systems, you don’t have a choice. Someone has to pay for your time, and that means someone has to sell what you do to an audience that speaks value in an entirely different language. \nIt’s not exactly easy to connect the benefits of a design system directly to revenue. With an ecomm site, you can add a feature and measure the impact. With other conversion-based digital experiences, if your work is good, your customers will convert more. But because a design system is (usually) an internal tool, it’s just harder to connect those dots. \nThis article boils down the methods I’ve put into practice convinc…",
+          "link": "https://alistapart.com/article/selling-design-systems/",
+          "publishedOn": "2021-02-11T15:00:00.000Z",
+          "wordCount": 3743,
+          "title": "The Never-Ending Job of Selling Design Systems"
         }
       ]
     },
@@ -14942,6 +15923,46 @@
       "feedUrl": "http://feeds.feedburner.com/helloacm?format=xml",
       "siteUrl": "https://helloacm.com",
       "articles": [
+        {
+          "id": "https://helloacm.com/?p=148488",
+          "author": "ACMer",
+          "description": "Given an integer array nums, return true if there exists a triple of indices (i, j, k) such that i < j < k and nums < nums < nums. If no such indices exists, return false. Example 1:...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-increasing-triplet-subsequence-algorithm/",
+          "publishedOn": "2022-01-11T20:31:13.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Increasing Triplet Subsequence Algorithm",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=148470",
+          "author": "ACMer",
+          "description": "Given a binary tree root, return the longest path between any two nodes in the tree. Constraints n ≤ 100,000 where n is the number of nodes in root Example 1 Input root = , , null], ]] Output 5...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-longest-path-in-binary-tree-via-diameter-algorithm-dfs-bfs/",
+          "publishedOn": "2022-01-10T20:59:34.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Longest Path in Binary Tree via Diameter Algorithm (DFS + BFS)",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=148457",
+          "author": "ACMer",
+          "description": "An n x n matrix is valid if every row and every column contains all the integers from 1 to n (inclusive). Given an n x n integer matrix matrix, return true if the matrix is valid. Otherwise, return...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-check-if-every-row-and-column-contains-all-numbers-xor-and-hash-set/",
+          "publishedOn": "2022-01-09T20:56:21.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Check if Every Row and Column Contains All Numbers (XOR and Hash Set)",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=148439",
+          "author": "ACMer",
+          "description": "Given a binary tree root, return the longest path between any two nodes in the tree. Constraints n ≤ 100,000 where n is the number of nodes in root Example 1 Input root = , , null], ]] Output 5...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-longest-path-in-binary-tree-via-recursive-depth-first-search-algorithm/",
+          "publishedOn": "2022-01-08T13:37:21.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Longest Path in Binary Tree via Recursive Depth First Search Algorithm",
+          "itunes": {}
+        },
         {
           "id": "https://helloacm.com/?p=148426",
           "author": "ACMer",
@@ -15749,6 +16770,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=515065",
+          "author": "Lewin Day",
+          "description": "Drum kits used to be key to any serious band, however, these days, much of our music is created on computer or using a drum machine instead. [spanceac] has built …read more",
+          "link": "https://hackaday.com/2022/01/11/electronic-drum-toy-built-from-scratch/",
+          "publishedOn": "2022-01-11T19:30:44.000Z",
+          "wordCount": 1253,
+          "title": "Electronic Drum Toy Built From Scratch"
+        },
+        {
+          "id": "https://hackaday.com/?p=514642",
+          "author": "Al Williams",
+          "description": "There’s an old saying about something being a “drop in the ocean.” That’s how I felt faced with the prospect of replacing a 12 V heated bed on my printer …read more",
+          "link": "https://hackaday.com/2022/01/11/3d-printering-soldering-a-heated-bed/",
+          "publishedOn": "2022-01-11T18:00:13.000Z",
+          "wordCount": 3319,
+          "title": "3D Printering: Soldering a Heated Bed"
+        },
+        {
+          "id": "https://hackaday.com/?p=513737",
+          "author": "Chris Lott",
+          "description": "The Space Shuttle’s solid rocket boosters were reusable, although ultimately the overall system didn’t prove cheaper than expendable launches. But given the successes of the Falcon 9 program — booster …read more",
+          "link": "https://hackaday.com/2022/01/11/reusable-booster-rockets-asian-roundup/",
+          "publishedOn": "2022-01-11T16:30:58.000Z",
+          "wordCount": 2551,
+          "title": "Reusable Booster Rockets, Asian Roundup"
+        },
+        {
+          "id": "https://hackaday.com/?p=513855",
+          "author": "Dan Maloney",
+          "description": "We here on Earth live at the bottom of an ocean of nitrogen. Nearly 80% of every breath we take is nitrogen, and the element is a vital component of …read more",
+          "link": "https://hackaday.com/2022/01/11/haber-bosch-and-the-greening-of-ammonia-production/",
+          "publishedOn": "2022-01-11T15:00:52.000Z",
+          "wordCount": 3876,
+          "title": "Haber-Bosch and the Greening of Ammonia Production"
+        },
+        {
+          "id": "https://hackaday.com/?p=515222",
+          "author": "Al Williams",
+          "description": "[CuriousMarc] is nothing if not curious. Finding some old TI timekeeping chips to reverse engineer, he set out to make a clock using old-fashioned “bubble LEDs.” You can see the …read more",
+          "link": "https://hackaday.com/2022/01/11/led-bubbles-from-the-1970s-tell-the-time/",
+          "publishedOn": "2022-01-11T12:00:15.000Z",
+          "wordCount": 1674,
+          "title": "LED Bubbles from the 1970s Tell the Time"
+        },
+        {
+          "id": "https://hackaday.com/?p=514986",
+          "author": "Dan Maloney",
+          "description": "Most of us have beheld the sonic glory of an Atari Punk Console, that lo-fi synth whose classic incarnation is a pair of 555 timers set up to warble and …read more",
+          "link": "https://hackaday.com/2022/01/11/the-atari-punk-console-now-with-more-vacuum-tubes/",
+          "publishedOn": "2022-01-11T09:00:45.000Z",
+          "wordCount": 1291,
+          "title": "The Atari Punk Console, Now With More Vacuum Tubes"
+        },
+        {
+          "id": "https://hackaday.com/?p=515204",
+          "author": "Ryan Flowers",
+          "description": "In August 2000, Tiger Electronics released HitClips: Music cartridges and players designed to easily share 60 second low quality Clips of a youngster’s favorite Hits. Various players were available, and …read more",
+          "link": "https://hackaday.com/2022/01/10/hitclips-custom-cartridge-hack-will-never-give-up-let-down-or-turn-around/",
+          "publishedOn": "2022-01-11T06:00:39.000Z",
+          "wordCount": 1612,
+          "title": "HitClips Custom Cartridge Hack Will Never Give Up, Let Down, Or Turn Around"
+        },
         {
           "id": "https://hackaday.com/?p=514687",
           "author": "Kristina Panos",
@@ -21382,6 +22466,103 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "7A7CFFC2-4FAD-43E1-AB0426097227C87C",
+          "author": "Chelsea Harvey, E&E News",
+          "description": "Increasing odds of hot, dry weather make it less likely trees and other plants will quickly grow back\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/fires-doubled-australias-carbon-emissions-ecosystems-may-never-soak-it-back-up/",
+          "publishedOn": "2022-01-11T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Fires Doubled Australia's Carbon Emissions--Ecosystems May Never Soak It Back Up",
+          "itunes": {}
+        },
+        {
+          "id": "14871B46-96E0-4A2C-B575A5AD9CCA1C80",
+          "author": "Katy Milkman",
+          "description": "You can change your behavior in lasting ways by changing how you frame your situation, explains behavioral scientist Ayelet Fishbach in her new book\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/new-years-resolutions-are-notoriously-slippery-but-science-can-help-you-keep-them/",
+          "publishedOn": "2022-01-11T13:00:00.000Z",
+          "wordCount": null,
+          "title": "New Year's Resolutions Are Notoriously Slippery, but Science Can Help You Keep Them",
+          "itunes": {}
+        },
+        {
+          "id": "DCF9115B-F93B-4E1B-9500F333837A3214",
+          "author": "Kathryn Ivey",
+          "description": "A critical care nurse confronts the Omicron surge filling her hospital\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/nurses-struggle-through-a-new-covid-wave-with-rage-and-compassion/",
+          "publishedOn": "2022-01-11T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Nurses Struggle through a New COVID Wave with Rage and Compassion",
+          "itunes": {}
+        },
+        {
+          "id": "4A36A7BB-47AB-4581-B1CEF429FB7199CE",
+          "author": "Rachel Crowell",
+          "description": "Critics accuse the organization of opposing efforts to stamp out inequity\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/new-math-research-group-reflects-a-schism-in-the-field/",
+          "publishedOn": "2022-01-11T11:45:00.000Z",
+          "wordCount": null,
+          "title": "New Math Research Group Reflects a Schism in the Field",
+          "itunes": {}
+        },
+        {
+          "id": "653718D1-E542-4476-A0CA4F8FC97332B1",
+          "author": "Michael B. Habib",
+          "description": "For billions of years Earth was quiet. Then life got loud\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/fossils-reveal-when-animals-started-making-noise/",
+          "publishedOn": "2022-01-10T20:30:00.000Z",
+          "wordCount": null,
+          "title": "Fossils Reveal When Animals Started Making Noise",
+          "itunes": {}
+        },
+        {
+          "id": "6289896A-EB30-484D-B7AE70D101A89E33",
+          "author": "Thomas Frank, E&E News",
+          "description": "The storm caused $65 million in damage across the U.S., according to the global reinsurance company Munich Re\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/rebuilt-new-orleans-levees-saved-lives-and-property/",
+          "publishedOn": "2022-01-10T20:00:00.000Z",
+          "wordCount": null,
+          "title": "Rebuilt New Orleans Levees Saved Lives and Property",
+          "itunes": {}
+        },
+        {
+          "id": "E087A47E-5187-4EAB-B69626BF0DE4D321",
+          "author": "Alexandra Witze, Nature magazine",
+          "description": "The observatory has flawlessly unfurled its mirrors and sunshield—although more steps are needed before the science can begin\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/landmark-webb-observatory-is-now-officially-a-telescope1/",
+          "publishedOn": "2022-01-10T17:00:00.000Z",
+          "wordCount": null,
+          "title": "Landmark Webb Observatory Is Now Officially a Telescope",
+          "itunes": {}
+        },
+        {
+          "id": "BB8BCF22-85A7-4DC0-98D98C8074731720",
+          "author": "Karen Hopkin",
+          "description": "You might not think that you can generate more body acceleration than a big-league baseball pitcher, but new research shows you can.\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/podcast/episode/the-surprising-physics-of-finger-snapping/",
+          "publishedOn": "2022-01-10T16:00:00.000Z",
+          "wordCount": null,
+          "title": "The Surprising Physics of Finger Snapping",
+          "itunes": {
+            "duration": "05:12"
+          },
+          "enclosure": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=12D685FD-B97D-4E0A-B7822FA596887A72",
+            "length": "4426644",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "B2625F26-0642-4B24-AF586C7BC12F096F",
+          "author": "Daniel Garisto",
+          "description": "Runaway success and underfunding have led to growing pains for the preprint server\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/arxiv-org-reaches-a-milestone-and-a-reckoning/",
+          "publishedOn": "2022-01-10T11:45:00.000Z",
+          "wordCount": null,
+          "title": "ArXiv.org Reaches a Milestone and a Reckoning",
+          "itunes": {}
+        },
+        {
           "id": "A2F5A3E8-88B4-4FA7-AEA6BF508CF990EA",
           "author": "Benjamin Storrow, E&E News",
           "description": "Greenhouse gas emissions rose 7 percent in 2021, as high natural gas prices buoyed coal use\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -26234,6 +27415,96 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=149031",
+          "author": "Mike Vizard",
+          "description": "A long-simmering debate over the sustainability of smaller open source projects moved beyond the theoretical when two widely used open source node packaged modules (npm) were deliberately sabotaged this week, allegedly by a primary contributor. Colors.js is an npm that has been downloaded more than 3.3 billion times, with more than 19,000 projects depending on […]\nThe post NPMs Sabotaged as OSS Sustainability Crisis Continues appeared first on DevOps.com.",
+          "link": "https://devops.com/npms-sabotaged-as-oss-sustainability-crisis-continues/",
+          "publishedOn": "2022-01-11T19:21:56.000Z",
+          "wordCount": 1114,
+          "title": "NPMs Sabotaged as OSS Sustainability Crisis Continues"
+        },
+        {
+          "id": "https://devops.com/?p=148800",
+          "author": "Louis Vistola",
+          "description": "An effective continuous integration/continuous delivery (CI/CD) pipeline must integrate cloud and DevOps tools seamlessly to ensure the build, compile, test and release of applications is accomplished efficiently and without friction. Application architectures, internal processes and personal preferences mean organizations and teams set up the CI/CD pipeline differently, resulting in a diversity of infrastructure and tooling […]\nThe post Connecting Your Cloud & DevOps Tools to Enable CI/CD appeared first on DevOps.com.",
+          "link": "https://devops.com/connecting-your-cloud-devops-tools-to-enable-ci-cd/",
+          "publishedOn": "2022-01-11T17:16:12.000Z",
+          "wordCount": 896,
+          "title": "Connecting Your Cloud & DevOps Tools to Enable CI/CD"
+        },
+        {
+          "id": "https://devops.com/?p=149010",
+          "author": "Mike Vizard",
+          "description": "The technical oversight committee (TOC) for the Cloud Native Computing Foundation (CNCF) announced today it is elevating the open source LitmusChaos application testing platform to the incubation level. LitmusChaos is a chaos engineering platform donated to the CNCF by ChaosNative in 2020. Since then, it has seen adoption within production environments by more than 25 […]\nThe post CNCF Takes LitmusChaos Platform to the Incubation Level appeared first on DevOps.com.",
+          "link": "https://devops.com/cncf-takes-litmuschaos-platform-to-the-incubation-level/",
+          "publishedOn": "2022-01-11T16:59:21.000Z",
+          "wordCount": 1029,
+          "title": "CNCF Takes LitmusChaos Platform to the Incubation Level"
+        },
+        {
+          "id": "https://devops.com/?p=148975",
+          "author": "Alessandro De Capitani",
+          "description": "Enterprises know that their customers and partners expect a superior personalized experience. After all, customer experience has been a top priority for organizations over the last decade. However, despite all the technological advancements and transformation initiatives, the ability to deliver innovation with speed continues to elude.  Without this ability, enterprises constantly play catch-up with rapidly […]\nThe post How Low-Code Enables the Composable Enterprise appeared first on DevOps.com.",
+          "link": "https://devops.com/how-low-code-enables-the-composable-enterprise/",
+          "publishedOn": "2022-01-11T08:00:34.000Z",
+          "wordCount": 1201,
+          "title": "How Low-Code Enables the Composable Enterprise"
+        },
+        {
+          "id": "https://devops.com/?p=148966",
+          "author": "Rick Veague",
+          "description": "A composable enterprise, defined by Gartner as “an organization that delivers business outcomes and adapts to the pace of business change”, relies on the assembly of interchangeable application building blocks. This architectural overhaul has largely been driven by a demand for more configurable application experiences, and the need to evolve existing application portfolios that are […]\nThe post Step Aside, Monoliths: Meet the Composable Enterprise appeared first on DevOps.com.",
+          "link": "https://devops.com/step-aside-monoliths-meet-the-composable-enterprise/",
+          "publishedOn": "2022-01-11T07:30:58.000Z",
+          "wordCount": 1340,
+          "title": "Step Aside, Monoliths: Meet the Composable Enterprise"
+        },
+        {
+          "id": "https://devops.com/?p=148985",
+          "author": "Dan Kirsch",
+          "description": "Many developers and startups view cloud services as simply “compute”, “storage” and “networking.” The cloud has matured to the point where customers often don’t think about the underlying infrastructure, service levels or debate the merits of on-premises versus cloud&;mdash;instead, they are increasingly cloud-first. In fact, December of 2021 marked Amazon Web Services (AWS) marked its […]\nThe post Three Cloud Trends to Watch in 2022 appeared first on DevOps.com.",
+          "link": "https://devops.com/three-cloud-trends-to-watch-in-2022/",
+          "publishedOn": "2022-01-10T22:34:55.000Z",
+          "wordCount": 1592,
+          "title": "Three Cloud Trends to Watch in 2022"
+        },
+        {
+          "id": "https://devops.com/?p=148962",
+          "author": "Mike Vizard",
+          "description": "GitLab plans to make observability a more integrated element of its continuous integration/continuous delivery (CI/CD) platform after acquiring Opstrace. Opstrace’s open source project exposes a horizontally scalable application programming interface (API) created by Cortex for Prometheus, an open source monitoring platform being advanced under the auspices of the Cloud Native Computing Foundation (CNCF). It then […]\nThe post GitLab Revamps Observability Strategy After Acquiring Opstrace appeared first on DevOps.com.",
+          "link": "https://devops.com/gitlab-revamps-observability-strategy-after-acquiring-opstrace/",
+          "publishedOn": "2022-01-10T14:21:10.000Z",
+          "wordCount": 986,
+          "title": "GitLab Revamps Observability Strategy After Acquiring Opstrace"
+        },
+        {
+          "id": "https://devops.com/?p=148923",
+          "author": "Jonathan Schabowsky",
+          "description": "Microservices architecture is on the rise, already forming a key part of several current transformation projects, breaking down traditionally monolithic applications into self-contained, independently deployed services that are identified using domain-driven design. Stats from a recent study found that more than 60% of respondents have been using microservices for a year or more. In particular, […]\nThe post Using Event-Driven Architecture With Microservices appeared first on DevOps.com.",
+          "link": "https://devops.com/using-event-driven-architecture-with-microservices/",
+          "publishedOn": "2022-01-10T08:00:40.000Z",
+          "wordCount": 1332,
+          "title": "Using Event-Driven Architecture With Microservices"
+        },
+        {
+          "id": "https://devops.com/?p=148918",
+          "author": "Peter Sprygada",
+          "description": "As we enter a new era of technology, we’re experiencing a “third wave” of cloud innovation that brings new complexities into the IT landscape, mainly centered around multi-cloud networking. With every wave of cloud technology advancement, networking components are becoming more complex and distributed across multiple groups. Further, multi-cloud networking brings new challenges around connecting […]\nThe post Enable Multi-Cloud Networking With Automation appeared first on DevOps.com.",
+          "link": "https://devops.com/enable-multi-cloud-networking-with-automation/",
+          "publishedOn": "2022-01-10T07:30:37.000Z",
+          "wordCount": 1510,
+          "title": "Enable Multi-Cloud Networking With Automation"
+        },
+        {
+          "id": "https://devops.com/?p=148959",
+          "author": "ROELBOB",
+          "description": "The post No Code appeared first on DevOps.com.",
+          "link": "https://devops.com/no-code/",
+          "publishedOn": "2022-01-10T07:00:59.000Z",
+          "wordCount": 427,
+          "title": "No Code"
+        },
+        {
           "id": "https://devops.com/?p=148925",
           "author": "Mike Vizard",
           "description": "Intel has made available a 2022 edition of its oneAPI toolkit through which it makes processor extensions accessible to DevOps teams. James Reinders, chief evangelist for Intel software products, said the goal is to make it simpler for DevOps teams to expose extensions to any company’s processors in the runtimes developers use. At its core, […]\nThe post Intel Expands Scope of OneAPI Toolkit Initiative appeared first on DevOps.com.",
@@ -28365,6 +29636,26 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=111714",
+          "author": "Carrie Arnold",
+          "description": "Studies that map the adaptive value of viral mutations hint at how the COVID-19 pandemic might progress next.            \nThe post Evolution ‘Landscapes’ Predict What’s Next for COVID Virus first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/evolution-landscapes-predict-whats-next-for-covid-virus-20220111/",
+          "publishedOn": "2022-01-11T17:10:28.000Z",
+          "wordCount": null,
+          "title": "Evolution ‘Landscapes’ Predict What’s Next for COVID Virus",
+          "itunes": {}
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=111691",
+          "author": "Daniel Garisto",
+          "description": "A surprising new solution to Leonhard Euler’s famous “36 officers puzzle” offers a novel way of encoding quantum information.            \nThe post Euler’s 243-Year-Old ‘Impossible’ Puzzle Gets a Quantum Solution first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/eulers-243-year-old-impossible-puzzle-gets-a-quantum-solution-20220110/",
+          "publishedOn": "2022-01-10T15:07:22.000Z",
+          "wordCount": null,
+          "title": "Euler’s 243-Year-Old ‘Impossible’ Puzzle Gets a Quantum Solution",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=111635",
           "author": "Mordechai Rorvig",
           "description": "A new result shows that quantum information can theoretically be protected from errors just as well as classical information can.             \nThe post Qubits Can Be as Safe as Bits, Researchers Show first appeared on Quanta Magazine",
@@ -28861,6 +30152,42 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66528",
+          "author": "Nathan Yau",
+          "description": "Congressional redistricting and gerrymandering are important topics, because they can directly change election…\nTags: game, gerrymandering, golf, redistricting, Washington Post",
+          "link": "https://flowingdata.com/2022/01/11/play-miniature-golf-learn-about-congressional-redistricting/",
+          "publishedOn": "2022-01-11T08:39:14.000Z",
+          "wordCount": 356,
+          "title": "Play miniature golf, learn about congressional redistricting"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66508",
+          "author": "Nathan Yau",
+          "description": "We’ve learned more about the universe since Charles and Ray Eames produced Powers…\nTags: BBC, scale, space",
+          "link": "https://flowingdata.com/2022/01/10/scale-of-the-bigger-more-detailed-universe/",
+          "publishedOn": "2022-01-10T09:55:09.000Z",
+          "wordCount": 271,
+          "title": "Scale of the bigger, more detailed universe"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66504",
+          "author": "Nathan Yau",
+          "description": "The Powers of Ten by Charles and Ray Eames from 1977 shows the…\nTags: Eames, scale, video",
+          "link": "https://flowingdata.com/2022/01/10/powers-of-ten/",
+          "publishedOn": "2022-01-10T09:50:52.000Z",
+          "wordCount": 328,
+          "title": "Powers of Ten"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66490",
+          "author": "Nathan Yau",
+          "description": "Now that we've discovered another way to annoy chart snobs, here's how you can make your own spirals.\nTags: R",
+          "link": "https://flowingdata.com/2022/01/10/a-quick-and-easy-way-to-make-spiral-charts-in-r/",
+          "publishedOn": "2022-01-10T09:17:23.000Z",
+          "wordCount": 936,
+          "title": "A Quick and Easy Way to Make Spiral Charts in R"
+        },
         {
           "id": "https://flowingdata.com/?p=66485",
           "author": "Nathan Yau",
@@ -29911,6 +31238,330 @@
           "publishedOn": "2021-10-14T20:59:00.000Z",
           "wordCount": 2525,
           "title": "Learning by doing, from Python to Twitch"
+        },
+        {
+          "id": "https://github.com/readme/guides/time-management-software-engineers",
+          "author": null,
+          "description": "As makers, software engineers should adopt these 7 essential habits.",
+          "link": "https://github.com/readme/guides/time-management-software-engineers",
+          "publishedOn": "2021-09-13T03:47:00.000Z",
+          "wordCount": 1921,
+          "title": "Time management for makers"
+        },
+        {
+          "id": "https://github.com/readme/guides/first-job-in-tech",
+          "author": null,
+          "description": "Savvy tips, tricks, and advice for how to get your first job in tech.",
+          "link": "https://github.com/readme/guides/first-job-in-tech",
+          "publishedOn": "2021-09-13T03:41:00.000Z",
+          "wordCount": 2042,
+          "title": "Get your first software developer job"
+        },
+        {
+          "id": "https://github.com/readme/stories/aaron-turner",
+          "author": null,
+          "description": "From rationing megabyte data to working at Fastly, Aaron @torch2424 Turner carved out his path by coding—and is now making technology more available to those with limited access. See how his journey unfolded on The ReadME Project:",
+          "link": "https://github.com/readme/stories/aaron-turner",
+          "publishedOn": "2021-09-13T03:31:00.000Z",
+          "wordCount": 2018,
+          "title": "From hacking prepaid phones to maintaining WebAssembly"
+        },
+        {
+          "id": "https://github.com/readme/featured/open-source-filmmaking",
+          "author": null,
+          "description": "From editing to animation, open source is part of how movies get made.",
+          "link": "https://github.com/readme/featured/open-source-filmmaking",
+          "publishedOn": "2021-09-13T03:00:00.000Z",
+          "wordCount": 2439,
+          "title": "How open source software powers modern filmmaking"
+        },
+        {
+          "id": "https://github.com/readme/stories/tracy-hinds",
+          "author": null,
+          "description": "Unafraid of healthy conflict, Tracy @HackyGoLucky Hinds excels at translating the value of open source to those who might not understand it… yet. Get her full story on The ReadME Project:",
+          "link": "https://github.com/readme/stories/tracy-hinds",
+          "publishedOn": "2021-09-13T03:00:00.000Z",
+          "wordCount": 2190,
+          "title": "Asking tough questions to make room for valuable projects"
+        },
+        {
+          "id": "https://github.com/readme/guides/teaching-with-github",
+          "author": null,
+          "description": "For @JeromeHardaway, teaching in public on GitHub minimizes the point of entry for giving back, reinforces what you know, and improves your communication skills.",
+          "link": "https://github.com/readme/guides/teaching-with-github",
+          "publishedOn": "2021-08-05T08:00:00.000Z",
+          "wordCount": 1498,
+          "title": "Teaching in public with GitHub"
+        },
+        {
+          "id": "https://github.com/readme/featured/open-source-medical-equipment",
+          "author": null,
+          "description": "From conflict zones to COVID-19 shortages, Glia is bringing medical equipment to those who need it most.",
+          "link": "https://github.com/readme/featured/open-source-medical-equipment",
+          "publishedOn": "2021-08-04T08:00:00.000Z",
+          "wordCount": 1914,
+          "title": "Glia uses open source and 3D printing to enable universal access to medical equipment"
+        },
+        {
+          "id": "https://github.com/readme/featured/contributor-relations",
+          "author": null,
+          "description": "Get up to speed on one of the hottest topics in open source: contributor relations.",
+          "link": "https://github.com/readme/featured/contributor-relations",
+          "publishedOn": "2021-07-22T08:00:00.000Z",
+          "wordCount": 2074,
+          "title": "How open source maintainers keep contributors—and themselves—happy"
+        },
+        {
+          "id": "https://github.com/readme/stories/limor-fried",
+          "author": null,
+          "description": "From her MIT dorm room to an open source hardware factory, @ladyada makes it as easy as possible for anyone to quickly bring their ideas to life.",
+          "link": "https://github.com/readme/stories/limor-fried",
+          "publishedOn": "2021-07-14T12:45:00.000Z",
+          "wordCount": 2375,
+          "title": "Leading the community of Adafruit"
+        },
+        {
+          "id": "https://github.com/readme/guides/open-source-licensing",
+          "author": null,
+          "description": "Confused about OSS licenses? Gina Haussge (@foosel) explains what you need to know.",
+          "link": "https://github.com/readme/guides/open-source-licensing",
+          "publishedOn": "2021-07-13T08:30:00.000Z",
+          "wordCount": 2933,
+          "title": "A dev’s guide to open source software licensing"
+        },
+        {
+          "id": "https://github.com/readme/guides/incident-email",
+          "author": null,
+          "description": "Systems go down. Learn from @kevinriggle how to clearly communicate when failures occur so teams can fix problems quickly.",
+          "link": "https://github.com/readme/guides/incident-email",
+          "publishedOn": "2021-06-30T09:00:00.000Z",
+          "wordCount": 2880,
+          "title": "How to write an internal production failure incident communication"
+        },
+        {
+          "id": "https://github.com/readme/guides/angie-jones-demystifying-developer-advocacy",
+          "author": null,
+          "description": "Confused about developer advocacy? Or interested in stepping into the role? Expert developer advocate, Angie Jones @techgirl1908, answers common questions.",
+          "link": "https://github.com/readme/guides/angie-jones-demystifying-developer-advocacy",
+          "publishedOn": "2021-06-22T08:00:00.000Z",
+          "wordCount": 1982,
+          "title": "Demystifying Developer Advocacy"
+        },
+        {
+          "id": "https://github.com/readme/featured/unseen-oss",
+          "author": null,
+          "description": "Open source packages are the “roads and bridges” of software, but unlike real roads and bridges, open source is often invisible.",
+          "link": "https://github.com/readme/featured/unseen-oss",
+          "publishedOn": "2021-06-09T08:00:00.000Z",
+          "wordCount": 2605,
+          "title": "You use more open source software than you think"
+        },
+        {
+          "id": "https://github.com/readme/stories/nader-dabit",
+          "author": null,
+          "description": "Nader @dabit3 Dabit was helping his father build a website when he fell into coding—and finally saw the potential for a career that made sense to him. See how it all unfolded on The ReadME Project:",
+          "link": "https://github.com/readme/stories/nader-dabit",
+          "publishedOn": "2021-06-01T08:00:00.000Z",
+          "wordCount": 2279,
+          "title": "From finding his calling to mastering React Native"
+        },
+        {
+          "id": "https://github.com/readme/stories/shirley-wu",
+          "author": null,
+          "description": "When Shirley Wu went freelance as a data visualization creator, she recognized she was a dreamer at heart. Now she’s chasing something she’s wanted since forever. Get her story on The ReadME Project:",
+          "link": "https://github.com/readme/stories/shirley-wu",
+          "publishedOn": "2021-05-20T08:00:00.000Z",
+          "wordCount": 1755,
+          "title": "Chasing dreams, data, and creative coding"
+        },
+        {
+          "id": "https://github.com/readme/featured/react",
+          "author": null,
+          "description": "React isn’t a framework. It’s an entire ecosystem at the heart of countless custom frameworks.",
+          "link": "https://github.com/readme/featured/react",
+          "publishedOn": "2021-05-19T08:00:00.000Z",
+          "wordCount": 2768,
+          "title": "React’s greatest power may lie in its open source ecosystem"
+        },
+        {
+          "id": "https://github.com/readme/stories/monica-powell",
+          "author": null,
+          "description": "When Monica Powell was learning React, all the developer meetups were big and intimidating. She created @ReactJSLadies—and continues to nurture more intimate, creative spaces for others.",
+          "link": "https://github.com/readme/stories/monica-powell",
+          "publishedOn": "2021-05-04T08:00:00.000Z",
+          "wordCount": 1762,
+          "title": "Elevating others and making open source approachable"
+        },
+        {
+          "id": "https://github.com/readme/stories/segun-adebayo",
+          "author": null,
+          "description": "As a UI designer, @thesegunadebayo had a unique perspective on the intersection of engineering and design, applying empathy, accessibility, and inclusion to create @chakra_ui",
+          "link": "https://github.com/readme/stories/segun-adebayo",
+          "publishedOn": "2021-04-29T08:00:00.000Z",
+          "wordCount": 2208,
+          "title": "Coding at the speed of design with Chakra UI"
+        },
+        {
+          "id": "https://github.com/readme/stories/salah-al-dhaferi",
+          "author": null,
+          "description": "For more than 15 years, Salah @tech_chieftain Al-Dhaferi was determined to learn how to code. Now he’s sharing his knowledge with other aspiring young coders.",
+          "link": "https://github.com/readme/stories/salah-al-dhaferi",
+          "publishedOn": "2021-04-22T08:00:00.000Z",
+          "wordCount": 2012,
+          "title": "Learning to code against all odds"
+        },
+        {
+          "id": "https://github.com/readme/featured/global-forest-watch",
+          "author": null,
+          "description": "We lose a football field worth of rainforest every 6 seconds. The Global Forest Watch open source platform spots deforestation before it’s too late.",
+          "link": "https://github.com/readme/featured/global-forest-watch",
+          "publishedOn": "2021-04-21T08:00:00.000Z",
+          "wordCount": 1696,
+          "title": "How Global Forest Watch uses open source to fight deforestation"
+        },
+        {
+          "id": "https://github.com/readme/featured/nasa-ingenuity-helicopter",
+          "author": null,
+          "description": "Could your software have made it to Mars? See how open source from around the world helped NASA’s Ingenuity Helicopter fly.",
+          "link": "https://github.com/readme/featured/nasa-ingenuity-helicopter",
+          "publishedOn": "2021-04-14T06:00:00.000Z",
+          "wordCount": 2228,
+          "title": "Open Source on Mars: Community powers NASA’s Ingenuity Helicopter"
+        },
+        {
+          "id": "https://github.com/readme/stories/tanner-linsley",
+          "author": null,
+          "description": "With great timing and a touch of intuition, @tannerlinsley has a knack for building solutions other people also need, like React Query and React Table.\n\nGet his full story on the ReadME Project:",
+          "link": "https://github.com/readme/stories/tanner-linsley",
+          "publishedOn": "2021-04-13T08:00:00.000Z",
+          "wordCount": 1865,
+          "title": "When open source is symbiotic with your business"
+        },
+        {
+          "id": "https://github.com/readme/stories/lorena-mesa",
+          "author": null,
+          "description": "Before she was a coder, Lorena Mesa was a political analyst for the Obama campaign. Now she’s ensuring the Python community evolves into the globally diverse, welcoming place she knows it can be.",
+          "link": "https://github.com/readme/stories/lorena-mesa",
+          "publishedOn": "2021-03-23T08:00:00.000Z",
+          "wordCount": 1965,
+          "title": "Building a globally diverse, welcoming Python community"
+        },
+        {
+          "id": "https://github.com/readme/stories/jory-burson",
+          "author": null,
+          "description": "Jory saw a group making decisions about open source standards and knew that if they could, she could. She’s now a consultant and educator working to improve collaboration for everyone.",
+          "link": "https://github.com/readme/stories/jory-burson",
+          "publishedOn": "2021-03-18T08:00:00.000Z",
+          "wordCount": 2270,
+          "title": "Setting the right bar for open source standards"
+        },
+        {
+          "id": "https://github.com/readme/featured/women-in-tech-python",
+          "author": null,
+          "description": "Learn how the Python community is addressing open source’s gender parity problem by recruiting women into core roles and building opportunity for women as we celebrate International Women’s Month:",
+          "link": "https://github.com/readme/featured/women-in-tech-python",
+          "publishedOn": "2021-03-16T08:00:00.000Z",
+          "wordCount": 1813,
+          "title": "How Python is building a welcoming community for women"
+        },
+        {
+          "id": "https://github.com/readme/featured/women-in-tech-making-space",
+          "author": null,
+          "description": "As companies rethink everything from hiring to training to conducting meetings there’s never been a better time to make workplaces more inclusive.",
+          "link": "https://github.com/readme/featured/women-in-tech-making-space",
+          "publishedOn": "2021-03-10T08:00:00.000Z",
+          "wordCount": 2631,
+          "title": "Creating opportunity for women in development"
+        },
+        {
+          "id": "https://github.com/readme/stories/marcy-sutton",
+          "author": null,
+          "description": "For Marcy, accessibility is personal and essential. So she’s on a mission to inspire others to follow in her footsteps to prioritize and normalize it.\n\nGet the full story on The ReadME Project:",
+          "link": "https://github.com/readme/stories/marcy-sutton",
+          "publishedOn": "2021-03-09T08:00:00.000Z",
+          "wordCount": 1954,
+          "title": "Making accessibility in tech the rule, not the exception"
+        },
+        {
+          "id": "https://github.com/readme/stories/kathy-korevec",
+          "author": null,
+          "description": "An 80s baby who grew up in Alaska as one of five children, Kathy is no stranger to challenges and always puts her users first, from Google to GitHub.",
+          "link": "https://github.com/readme/stories/kathy-korevec",
+          "publishedOn": "2021-03-04T08:00:00.000Z",
+          "wordCount": 2192,
+          "title": "Chasing challenges to ship developer solutions"
+        },
+        {
+          "id": "https://github.com/readme/featured/octoverse-balance",
+          "author": null,
+          "description": "Working from home can mean working more. OSS maintainers share how they take care of themselves as the boundaries between work and home life blur.",
+          "link": "https://github.com/readme/featured/octoverse-balance",
+          "publishedOn": "2021-02-25T08:00:00.000Z",
+          "wordCount": 2436,
+          "title": "How open source maintainers can maintain balance in turbulent times"
+        },
+        {
+          "id": "https://github.com/readme/featured/octoverse-security",
+          "author": null,
+          "description": "A single vulnerability can impact hundreds of downstream dependencies. Luckily, infoSec pros are fighting back.",
+          "link": "https://github.com/readme/featured/octoverse-security",
+          "publishedOn": "2021-02-25T08:00:00.000Z",
+          "wordCount": 2113,
+          "title": "How InfoSec pros keep open source safe—and how you can help"
+        },
+        {
+          "id": "https://github.com/readme/featured/octoverse-covid",
+          "author": null,
+          "description": "In response to COVID-19 the open source community came together—helping the world leverage pandemic data in new ways.",
+          "link": "https://github.com/readme/featured/octoverse-covid",
+          "publishedOn": "2021-02-25T08:00:00.000Z",
+          "wordCount": 2014,
+          "title": "How the open source community came together to fight COVID-19"
+        },
+        {
+          "id": "https://github.com/readme/featured/bhm-data",
+          "author": null,
+          "description": "Black voices bring much needed context to our data-driven society. Black communities are working together to democratize data and make the field more inclusive.",
+          "link": "https://github.com/readme/featured/bhm-data",
+          "publishedOn": "2021-02-18T08:00:00.000Z",
+          "wordCount": 2072,
+          "title": "Black voices bring much needed context to our data-driven society"
+        },
+        {
+          "id": "https://github.com/readme/stories/brian-douglas",
+          "author": null,
+          "description": "Better known as @bdougieYO and the ‘Beyonce of GitHub’ (yep), Brian Douglas went from Tampa to Oakland by fearlessly seizing quite a few pivotal moments.\n\nGet the full story on The ReadME Project:",
+          "link": "https://github.com/readme/stories/brian-douglas",
+          "publishedOn": "2021-02-17T08:00:00.000Z",
+          "wordCount": 1754,
+          "title": "Taking a chance on others, and yourself"
+        },
+        {
+          "id": "https://github.com/readme/stories/angie-jones",
+          "author": null,
+          "description": "Angie Jones has 26 patented inventions, including one for time travel! She’s also an automation architect, international keynote speaker, Java Champion, and GitHub Star.",
+          "link": "https://github.com/readme/stories/angie-jones",
+          "publishedOn": "2021-02-08T08:00:00.000Z",
+          "wordCount": 1994,
+          "title": "My differences are my superpowers"
+        },
+        {
+          "id": "https://github.com/readme/stories/safia-abdalla",
+          "author": null,
+          "description": "Safia’s role as a maintainer is about more than open source—she’s using her power for good, and inspiring other women of color to follow suit.",
+          "link": "https://github.com/readme/stories/safia-abdalla",
+          "publishedOn": "2021-02-04T08:00:00.000Z",
+          "wordCount": 2480,
+          "title": "Dream big, and follow through even bigger"
+        },
+        {
+          "id": "https://github.com/readme/stories/caleb-porzio",
+          "author": null,
+          "description": "Caleb began his open source journey to make web development easier and more productive. He’s since built Laravel Livewire and AlpineJS.\n\nRead more on The ReadME Project.",
+          "link": "https://github.com/readme/stories/caleb-porzio",
+          "publishedOn": "2021-01-19T08:00:00.000Z",
+          "wordCount": 2285,
+          "title": "Bringing simplicity, joy, and order to web development"
         }
       ]
     },
@@ -29945,6 +31596,69 @@
           "publishedOn": "2021-10-31T00:00:00.000Z",
           "wordCount": 1100,
           "title": "Luau Recap: October 2021"
+        },
+        {
+          "id": "https://luau-lang.org/2021/09/30/luau-recap-september-2021.html",
+          "author": null,
+          "description": "Luau is our new language that you can read more about at https://luau-lang.org.",
+          "link": "https://luau-lang.org/2021/09/30/luau-recap-september-2021.html",
+          "publishedOn": "2021-09-30T00:00:00.000Z",
+          "wordCount": 938,
+          "title": "Luau Recap: September 2021"
+        },
+        {
+          "id": "https://luau-lang.org/2021/08/31/luau-recap-august-2021.html",
+          "author": null,
+          "description": "Luau is our new language that you can read more about at https://luau-lang.org.",
+          "link": "https://luau-lang.org/2021/08/31/luau-recap-august-2021.html",
+          "publishedOn": "2021-08-31T00:00:00.000Z",
+          "wordCount": 858,
+          "title": "Luau Recap: August 2021"
+        },
+        {
+          "id": "https://luau-lang.org/2021/07/30/luau-recap-july-2021.html",
+          "author": null,
+          "description": "Luau is our new language that you can read more about at https://luau-lang.org. Our team was still busy working on upcoming Studio Beta feature for script editor, but we did fit in multiple typechecking improvements.",
+          "link": "https://luau-lang.org/2021/07/30/luau-recap-july-2021.html",
+          "publishedOn": "2021-07-30T00:00:00.000Z",
+          "wordCount": 908,
+          "title": "Luau Recap: July 2021"
+        },
+        {
+          "id": "https://luau-lang.org/2021/06/30/luau-recap-june-2021.html",
+          "author": null,
+          "description": "Luau is our new language that you can read more about at https://roblox.github.io/luau. Most of our team was busy working on improving Luau interaction with Roblox Studio for an upcoming feature this month, but we were able to add typechecking and performance improvements as well!",
+          "link": "https://luau-lang.org/2021/06/30/luau-recap-june-2021.html",
+          "publishedOn": "2021-06-30T00:00:00.000Z",
+          "wordCount": 702,
+          "title": "Luau Recap: June 2021"
+        },
+        {
+          "id": "https://luau-lang.org/2021/05/31/luau-recap-may-2021.html",
+          "author": null,
+          "description": "Luau is our new language that you can read more about at https://roblox.github.io/luau. This month we have added a new small feature to the language and spent a lot of time improving our typechecker.",
+          "link": "https://luau-lang.org/2021/05/31/luau-recap-may-2021.html",
+          "publishedOn": "2021-05-31T00:00:00.000Z",
+          "wordCount": 651,
+          "title": "Luau Recap: May 2021"
+        },
+        {
+          "id": "https://luau-lang.org/2021/04/30/luau-recap-april-2021.html",
+          "author": null,
+          "description": "Luau is our new language that you can read more about at https://roblox.github.io/luau. Another busy month in Luau with many performance improvements.",
+          "link": "https://luau-lang.org/2021/04/30/luau-recap-april-2021.html",
+          "publishedOn": "2021-04-30T00:00:00.000Z",
+          "wordCount": 539,
+          "title": "Luau Recap: April 2021"
+        },
+        {
+          "id": "https://luau-lang.org/2021/03/29/luau-recap-march-2021.html",
+          "author": null,
+          "description": "Luau is our new language that you can read more about at https://roblox.github.io/luau. It’s been a busy month in Luau!",
+          "link": "https://luau-lang.org/2021/03/29/luau-recap-march-2021.html",
+          "publishedOn": "2021-03-29T00:00:00.000Z",
+          "wordCount": 701,
+          "title": "Luau Recap: March 2021"
         }
       ]
     },
@@ -29979,9 +31693,108 @@
           "publishedOn": "2021-10-12T19:13:58.000Z",
           "wordCount": 203,
           "title": "Thinking on ways to solve ​​MULTI-SELECT"
+        },
+        {
+          "id": "https://web.dev/shows/gui-challenges/Qcpru-fIgwk/",
+          "author": null,
+          "description": "In today's GUI challenge I share my thinking on a way to solve split buttons. A staple component for condensed interfaces, it allows a single button to feature secondary actions. Lots of great tips about theming, shadows, color, layouts, interaction UX, and more.\nChapters:\n0:00 - Introduction\n0:24 - Overview\n1:40 - Light & Dark\n3:37 - Shadows\n5:45 - SVG Tips\n7:12 - States\n10:20 - Keyboard UX\n11:41 - Reduced Motion UX\n13:20 - Screen Reader UX\n14:13 - Right-to-left UX\n15:58 - Flexbox Layouts\n18:51 - JavaScript\n21:22 - Outro\n\n\n\n\n\n\n\nResources:\nRead along → \nTry a demo → \nGet the source → \n\nhttps://goo.gle/3BNn23ohttps://goo.gle/3l92efUhttps://goo.gle/3n4Sfcg\nWatch more GUI Challenges → \nSubscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://goo.gl/LLLNvf\n\n#GUIchallenges #CSS #ChromeDeveloper",
+          "link": "https://web.dev/shows/gui-challenges/Qcpru-fIgwk/",
+          "publishedOn": "2021-09-08T17:28:14.000Z",
+          "wordCount": 180,
+          "title": "Thinking on ways to solve ​​SPLIT BUTTONS"
+        },
+        {
+          "id": "https://web.dev/shows/gui-challenges/_KqccADghcA/",
+          "author": null,
+          "description": "In today's GUI challenge I share my thinking on a way to solve a switch. A tiny, UX packed component that ended up being one of the most involved challenges so far. Tons of great layouts, accessibility, animations and interactions to share, which means tons of places for you to have a style preference 😉\nChapters:\n0:00 - Introduction\n1:15 - States\n2:05 - Interactions\n2:45 - Screen reader\n3:14 - Touch\n4:10 - Hover\n5:07 - RTL\n5:56 - CSS/JS not required\n7:00 - Vertical variant\n9:14 - Flexbox\n10:39 - Grid\n12:10 - Overrides\n15:38 - Javascript\n18:15 - Outro\n\n\n\n\n\n\n\nResources:\nRead along → \nTry a demo → \nGet the source → \n\nhttps://goo.gle/3xBYGHyhttps://goo.gle/2VJLVO0https://goo.gle/3n4Sfcg\nWatch more GUI Challenges → \nSubscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://goo.gl/LLLNvf\n\n#GUIchallenges #CSS #ChromeDeveloper",
+          "link": "https://web.dev/shows/gui-challenges/_KqccADghcA/",
+          "publishedOn": "2021-08-11T17:00:04.000Z",
+          "wordCount": 186,
+          "title": "Thinking on ways to solve SWITCHES"
+        },
+        {
+          "id": "https://web.dev/shows/gui-challenges/kHL3gxAlvK8/",
+          "author": null,
+          "description": "In today's GUI challenge, we're building a breadcrumbs component.. with a twist! Instead of a linear list of links, this breadcrumbs component exposes all of it's siblings in a dropdown, allowing fast traversal of your site's architecture.\nChapters:\n0:00 - Introduction\n0:23 - Demo\n1:56 - Layouts\n4:13 - Debugging corner\n5:25 - Mobile UX\n6:17 - Reduced motion\n7:34 - JavaScript\n10:38 - Outro\n\n\n\n\nResources:\nRead along → \nTry a demo → \nGet the source → \n\nhttps://goo.gle/2TbySnqhttps://goo.gle/3ktEAwjhttps://goo.gle/3n4Sfcg\nWatch more GUI Challenges → \nSubscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://goo.gl/LLLNvf\n\n#GUIchallenges #CSS #ChromeDeveloper",
+          "link": "https://web.dev/shows/gui-challenges/kHL3gxAlvK8/",
+          "publishedOn": "2021-07-14T02:45:40.000Z",
+          "wordCount": 155,
+          "title": "Thinking on ways to solve BREADCRUMBS"
+        },
+        {
+          "id": "https://web.dev/shows/gui-challenges/oHcTn83M1ls/",
+          "author": null,
+          "description": "In today’s GUI challenge, we’re building dark, light and dim color schemes with HSL. The CSS works across modern browsers, establishes foundational architecture for more themes, and is accessible.\nChapters:\n0:00 - Introduction\n0:21 - Scheme overview\n1:15 - Debugging corner\n1:55 - Custom property architecture\n4:17 - The Cascade\n5:51 - DevTools\n7:40 - Bump bump til ya pass\n9:54 - Relative vs Absolute color adjusting\n11:54 - Outro\n\n\n\n\n\nResources:\nRead along → \nTry a demo → \nGet the source → \n\nhttps://goo.gle/350bmMihttps://goo.gle/3ps7Rryhttps://goo.gle/3n4Sfcg\nWatch more GUI Challenges → \nSubscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://goo.gl/LLLNvf\n\n#GUIchallenges #CSS #ChromeDeveloper",
+          "link": "https://web.dev/shows/gui-challenges/oHcTn83M1ls/",
+          "publishedOn": "2021-06-09T16:45:46.000Z",
+          "wordCount": 161,
+          "title": "Thinking on ways to solve COLOR SCHEMES"
+        },
+        {
+          "id": "https://web.dev/shows/gui-challenges/jmLdZY_Lo1k/",
+          "author": null,
+          "description": "In today’s GUI challenge, @Adam Argyle shares thinking on ways to create inline scrolling experiences for the web that are minimal, responsive, accessible and work across browsers and platforms (like TVs!).\nChapters:\n0:00 - Introduction\n0:20 - Component demo\n1:22 - Cross browser demos\n4:05 - International layout\n5:15 - Debug Tooling\n6:56 - Prefers reduced data\n8:47 - Prefers reduced motion\n10:57 - Roving UX\n12:45 - aspect-ratio\n14:11 - Conclusion\n\n\n\n\n\nResources:\nRead along → \nTry a demo → \nGet the source → \nFollow Adam on Twitter → \nMore on roving-index from Rob Dodson → \nMore on logical properties on web.dev → \nWhat's new in DevTools 91 → \n\n\n\nhttps://goo.gle/2SJY4kmhttps://goo.gle/33AzdkXhttps://goo.gle/3n4Sfcghttps://goo.gle/2RId4P1https://goo.gle/3tFkdNphttps://goo.gle/3uJOvQihttps://goo.gle/3eLof2N\nWatch more GUI Challenges → \nSubscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://goo.gl/LLLNvf\n\n#GUIchallenges #CSS #ChromeDeveloper",
+          "link": "https://web.dev/shows/gui-challenges/jmLdZY_Lo1k/",
+          "publishedOn": "2021-05-12T17:05:41.000Z",
+          "wordCount": 189,
+          "title": "Thinking on ways to solve a MEDIA SCROLLER"
+        },
+        {
+          "id": "https://web.dev/shows/gui-challenges/3hvN7bkjZBk/",
+          "author": null,
+          "description": "In today’s GUI challenge, @Adam Argyle will be responding to your comments for the first 30 minutes after the episode releases. Connect with us here, ask questions, or submit your own code!\nChapters:\n0:00 - Introduction\n0:29 - Cross browser demos\n1:25 - Reduced motion\n2:36 - HTML\n3:21 - Javascript\n5:08 - Animation devtools\n6:30 - CSS\n10:21 - Conclusion\n\n\n\n\nResources:\nRead along → \nTry a demo → \nGet the source → \nFollow Adam on Twitter → \n\nhttps://goo.gle/3guHkHIhttps://goo.gle/3sCQhkmhttps://goo.gle/3n4Sfcghttps://goo.gle/2RId4P1\nWatch more GUI Challenges → \nSubscribe to Google Chrome Developers  → https://goo.gle/GUIchallengeshttps://goo.gle/ChromeDevs\n\n#GUIchallenges #CSS #ChromeDeveloper",
+          "link": "https://web.dev/shows/gui-challenges/3hvN7bkjZBk/",
+          "publishedOn": "2021-04-21T16:41:41.000Z",
+          "wordCount": 158,
+          "title": "Thinking on ways to solve SPLIT TEXT"
+        },
+        {
+          "id": "https://web.dev/shows/gui-challenges/dm7gnp6eh3Q/",
+          "author": null,
+          "description": "In today’s GUI challenge, we build and demo a dynamic settings page with sliders and checkboxes. Our settings page is responsive, supports multiple device inputs, and works across browsers. How would you create a settings page?\n@Adam Argyle  will be responding to your comments for the first 30 minutes after the episode releases. Connect with us here, ask questions, or submit your own code!\nChapters:\n0:00 - Introduction\n0:37 - Cross Platform\n1:39 - Spacing\n3:02 - Layouts\n4:55 - Color\n6:19 - User Input\n7:18 - Javascript\n8:20 - Outro\n\n\n\n\nResources:\nRead along → \nTry a demo → \nGet the source → \n\nhttps://goo.gle/3bCerGKhttp://goo.gle/3qysEbWhttp://goo.gle/2OdXlWO\nInstall VisBug → http://goo.gle/3l286HF\nWatch more GUI Challenges → \nSubscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://goo.gl/LLLNvf\n\n#GUIchallenges #CSS #ChromeDeveloper",
+          "link": "https://web.dev/shows/gui-challenges/dm7gnp6eh3Q/",
+          "publishedOn": "2021-03-18T17:00:03.000Z",
+          "wordCount": 183,
+          "title": "Thinking on ways to solve SETTINGS"
+        },
+        {
+          "id": "https://web.dev/shows/gui-challenges/mMBcHcvxuuA/",
+          "author": null,
+          "description": "In today’s GUI challenge, we’re building a tabs component with some really cool features that you may not have thought about. Our tabs component is responsive, supports multiple device inputs, works across browsers, and let’s you mimic some of the buttery features you love on apps.\n@Adam Argyle will be responding to your comments for the first 30 minutes after the episode releases. Connect with us here, ask questions, or submit your own code!\nChapters:\n0:00 - Introduction\n0:42 - Features overview\n3:03 - HTML\n4:14 - Scrolling\n5:04 - Inspect Layouts\n7:35 - Layout Styles\n12:10 - prefers-reduced-motion\n13:10 - JavaScript & Animation\n14:37 - Conclusion\n\n\n\n\n\nResources:\nRead along → \nTry a demo → \nGet the source → \n@ScrollTimeline Polyfill → \n\nhttps://goo.gle/37jHOenhttp://goo.gle/3prCpb2http://goo.gle/2NsK7EKhttp://goo.gle/2NfUhZs\nWatch more GUI Challenges → \nSubscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://goo.gl/LLLNvf\n\n#GUIchallenges #CSS #ChromeDeveloper",
+          "link": "https://web.dev/shows/gui-challenges/mMBcHcvxuuA/",
+          "publishedOn": "2021-02-17T18:00:09.000Z",
+          "wordCount": 198,
+          "title": "Thinking on ways to solve TABS"
+        },
+        {
+          "id": "https://web.dev/shows/gui-challenges/1omr0HzI_N0/",
+          "author": null,
+          "description": "We asked the community to build a sidenav component your way and you all delivered! Check out the submissions:\n@a_nurella → \n@mayeedwin1 → \n@_developit → \n@EvroMalarkey → \n\nhttp://goo.gle/3j9bmQmhttp://goo.gle/2Lin1A4http://goo.gle/3j907HRhttps://goo.gle/3cwJZP2\nDo you have another way you’d create a side navigation? Send it our way!\nWatch the GUI sidenav episode → https://goo.gle/3o4UYS1\nCode along → \nRead along → \nTry a demo → https://goo.gle/3sQ8Xifhttps://goo.gle/2Np83J9http://goo.gle/3bVBFYT\n\nSubscribe to Google Chrome Developers  → http://goo.gl/LLLNvf\n#GUIChallenges #GUIsubmissions",
+          "link": "https://web.dev/shows/gui-challenges/1omr0HzI_N0/",
+          "publishedOn": "2021-02-03T18:00:07.000Z",
+          "wordCount": 134,
+          "title": "Submission shoutouts for SIDENAV"
+        },
+        {
+          "id": "https://web.dev/shows/gui-challenges/uiZqDLqjGRY/",
+          "author": null,
+          "description": "In today’s GUI challenge we create a responsive, accessible slide out side navigation user experience using CSS and JS. The sidenav works on multiple browsers, screen sizes and input devices. Rad right? Follow as we employ grid, transforms, pseudo classes and a dollop of JavaScript to handle this UX.\n@Adam Argyle will be responding to your comments for the first 30 minutes after the episode releases. Connect with us here, ask questions or submit your own code!\nChapters:\n0:00 - Introduction\n0:30 - Debugging Corner Feature Overview\n2:25 - Grid += Media Query Stack Layout\n3:42 - Accessible Transform Transition\n4:22 - :target Pseudo Class\n5:57 - Escape Key UX\n6:16 - Orchestrating Focus\n6:49 - Screen Reader UX\n7:56 - Outro & Call To Action\n\n\n\n\n\nResources:\nCode along → \nRead along → \nTry a demo → \nSee how others are building sidenavs (GUI Submissions) → \n\nhttps://goo.gle/3sQ8Xifhttps://goo.gle/2Np83J9http://goo.gle/3bVBFYThttps://goo.gle/36CAeuO\nWatch more GUI Challenges → \nSubscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://goo.gl/LLLNvf\n\n#GUIchallenges #CSS #ChromeDeveloper",
+          "link": "https://web.dev/shows/gui-challenges/uiZqDLqjGRY/",
+          "publishedOn": "2021-01-21T18:00:20.000Z",
+          "wordCount": 224,
+          "title": "Thinking on ways to solve a SIDENAV"
+        },
+        {
+          "id": "https://web.dev/shows/gui-challenges/Rzpm9VirtkE/",
+          "author": null,
+          "description": "We stress tested 5 different CSS centering techniques and I challenged you to submit your own. Shout out to Chris Coyier from CSS-Tricks for sharing his own tricks! Do you have another way you’d center in CSS? Send it our way!\nWatch the GUI Centering episode → \nCheck out Chris’s blog post → https://goo.gle/39d9Rwbhttp://goo.gle/3nrVCZo\n\nCode along → \nRead along → \nTry a demo → https://goo.gle/3qEIaE8https://goo.gle/39NHC9ahttps://goo.gle/33PIW7A\n\nSubscribe to Google Chrome Developers  → http://goo.gl/LLLNvf\n#GUIChallenges #GUIsubmissions",
+          "link": "https://web.dev/shows/gui-challenges/Rzpm9VirtkE/",
+          "publishedOn": "2021-01-13T18:06:20.000Z",
+          "wordCount": 141,
+          "title": "Submission shoutout for CENTERING"
         }
       ]
     }
   ],
-  "cliVersion": "1.11.3"
+  "cliVersion": "1.12.0"
 }

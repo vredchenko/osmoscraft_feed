@@ -2,10 +2,772 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2022-01-08T00:44:44.396Z</updated>
-    <generator>osmosfeed 1.11.3</generator>
+    <updated>2022-01-11T21:11:33.862Z</updated>
+    <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – Increasing Triplet Subsequence Algorithm]]></title>
+        <id>https://helloacm.com/?p=148488</id>
+        <link href="https://helloacm.com/teaching-kids-programming-increasing-triplet-subsequence-algorithm/"/>
+        <updated>2022-01-11T20:31:13.000Z</updated>
+        <summary type="html"><![CDATA[Given an integer array nums, return true if there exists a triple of indices (i, j, k) such that i < j < k and nums < nums < nums. If no such indices exists, return false. Example 1:...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electronic Drum Toy Built From Scratch]]></title>
+        <id>https://hackaday.com/?p=515065</id>
+        <link href="https://hackaday.com/2022/01/11/electronic-drum-toy-built-from-scratch/"/>
+        <updated>2022-01-11T19:30:44.000Z</updated>
+        <summary type="html"><![CDATA[Drum kits used to be key to any serious band, however, these days, much of our music is created on computer or using a drum machine instead. [spanceac] has built …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NPMs Sabotaged as OSS Sustainability Crisis Continues]]></title>
+        <id>https://devops.com/?p=149031</id>
+        <link href="https://devops.com/npms-sabotaged-as-oss-sustainability-crisis-continues/"/>
+        <updated>2022-01-11T19:21:56.000Z</updated>
+        <summary type="html"><![CDATA[A long-simmering debate over the sustainability of smaller open source projects moved beyond the theoretical when two widely used open source node packaged modules (npm) were deliberately sabotaged this week, allegedly by a primary contributor. Colors.js is an npm that has been downloaded more than 3.3 billion times, with more than 19,000 projects depending on […]
+The post NPMs Sabotaged as OSS Sustainability Crisis Continues appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Mike Vizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Dictionary – How to Perform CRUD Operations on dicts in Python]]></title>
+        <id>61db119ad2d9de084285f51f</id>
+        <link href="https://www.freecodecamp.org/news/everything-you-need-to-know-about-python-dictionaries/"/>
+        <updated>2022-01-11T19:05:01.000Z</updated>
+        <summary type="html"><![CDATA[One of the most important composite data types in Python is the dictionary. It's a collection you use to store data in {key:value} pairs.  Dictionaries are ordered and mutable, and they cannot store duplicate data. Just keep in mind that before Python 3.6, dictionaries were unordered. Alright, let's]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fires Doubled Australia's Carbon Emissions--Ecosystems May Never Soak It Back Up]]></title>
+        <id>7A7CFFC2-4FAD-43E1-AB0426097227C87C</id>
+        <link href="https://www.scientificamerican.com/article/fires-doubled-australias-carbon-emissions-ecosystems-may-never-soak-it-back-up/"/>
+        <updated>2022-01-11T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Increasing odds of hot, dry weather make it less likely trees and other plants will quickly grow back
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Chelsea Harvey, E&amp;E News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Propositional Logic for Beginners – You Already Know More Than You Think]]></title>
+        <id>61ddb353b837d507ba09fd7b</id>
+        <link href="https://www.freecodecamp.org/news/propositional-logic-for-beginners/"/>
+        <updated>2022-01-11T18:41:47.000Z</updated>
+        <summary type="html"><![CDATA[It may sound surprising, but you already have all it takes to produce high-level logic: right behind your eyes.  In the first term of college, I was introduced to a subject called Logic. In the "I think, therefore I am" fashion, you might think this would be an easy subject.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Margin Collapse in CSS? And How to Avoid It]]></title>
+        <id>61d70293d2d9de084285d502</id>
+        <link href="https://www.freecodecamp.org/news/what-is-margin-collapse-and-how-to-avoid-it/"/>
+        <updated>2022-01-11T18:07:52.000Z</updated>
+        <summary type="html"><![CDATA[What is Margin Collapse?Margin collapse occurs when vertically adjacent margins of block-level elements collide to share a general margin space. The size of this shared space is dictated by the larger number margin.  You can visualize this as an arm wrestling match, where the larger margin will take over]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printering: Soldering a Heated Bed]]></title>
+        <id>https://hackaday.com/?p=514642</id>
+        <link href="https://hackaday.com/2022/01/11/3d-printering-soldering-a-heated-bed/"/>
+        <updated>2022-01-11T18:00:13.000Z</updated>
+        <summary type="html"><![CDATA[There’s an old saying about something being a “drop in the ocean.” That’s how I felt faced with the prospect of replacing a 12 V heated bed on my printer …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Search Algorithms – Linear Search and Binary Search Code Implementation and Complexity Analysis]]></title>
+        <id>61daa098d2d9de084285f0e9</id>
+        <link href="https://www.freecodecamp.org/news/search-algorithms-linear-and-binary-search-explained/"/>
+        <updated>2022-01-11T17:21:54.000Z</updated>
+        <summary type="html"><![CDATA[Search algorithms are a fundamental computer science concept that you should understand as a developer. They work by using a step-by-step method to locate specific data among a collection of data. In this article, we'll learn how search algorithms work by looking at their implementations in Java and Python. What]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connecting Your Cloud & DevOps Tools to Enable CI/CD]]></title>
+        <id>https://devops.com/?p=148800</id>
+        <link href="https://devops.com/connecting-your-cloud-devops-tools-to-enable-ci-cd/"/>
+        <updated>2022-01-11T17:16:12.000Z</updated>
+        <summary type="html"><![CDATA[An effective continuous integration/continuous delivery (CI/CD) pipeline must integrate cloud and DevOps tools seamlessly to ensure the build, compile, test and release of applications is accomplished efficiently and without friction. Application architectures, internal processes and personal preferences mean organizations and teams set up the CI/CD pipeline differently, resulting in a diversity of infrastructure and tooling […]
+The post Connecting Your Cloud & DevOps Tools to Enable CI/CD appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Louis Vistola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evolution ‘Landscapes’ Predict What’s Next for COVID Virus]]></title>
+        <id>https://www.quantamagazine.org/?p=111714</id>
+        <link href="https://www.quantamagazine.org/evolution-landscapes-predict-whats-next-for-covid-virus-20220111/"/>
+        <updated>2022-01-11T17:10:28.000Z</updated>
+        <summary type="html"><![CDATA[Studies that map the adaptive value of viral mutations hint at how the COVID-19 pandemic might progress next.            
+The post Evolution ‘Landscapes’ Predict What’s Next for COVID Virus first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Carrie Arnold</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNCF Takes LitmusChaos Platform to the Incubation Level]]></title>
+        <id>https://devops.com/?p=149010</id>
+        <link href="https://devops.com/cncf-takes-litmuschaos-platform-to-the-incubation-level/"/>
+        <updated>2022-01-11T16:59:21.000Z</updated>
+        <summary type="html"><![CDATA[The technical oversight committee (TOC) for the Cloud Native Computing Foundation (CNCF) announced today it is elevating the open source LitmusChaos application testing platform to the incubation level. LitmusChaos is a chaos engineering platform donated to the CNCF by ChaosNative in 2020. Since then, it has seen adoption within production environments by more than 25 […]
+The post CNCF Takes LitmusChaos Platform to the Incubation Level appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Mike Vizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS DynamoDB – NoSQL Database Guide for Beginners]]></title>
+        <id>61d304e0d2d9de084285afc8</id>
+        <link href="https://www.freecodecamp.org/news/aws-dynamodb-database-guide-for-beginners/"/>
+        <updated>2022-01-11T16:50:00.000Z</updated>
+        <summary type="html"><![CDATA[What is DynamoDB?DynamoDB is a fully managed NoSQL database from AWS. DynamoDB is similar to other NoSQL databases like MongoDB, except for the fact that you don’t have to do any maintenance or scaling on your part. DynamoDB can handle more than 10 trillion requests per day and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is a File System? Types of Computer File Systems and How they Work – Explained with Examples]]></title>
+        <id>601617d60a2838549dcbb553</id>
+        <link href="https://www.freecodecamp.org/news/file-systems-architecture-explained/"/>
+        <updated>2022-01-11T16:49:00.000Z</updated>
+        <summary type="html"><![CDATA[It's a bit tricky to explain what exactly a file system is in just one sentence. That's why I decided to write an article about it. This post is meant to be a high-level overview of file systems. But I'll sneak into the lower-level concepts as well, as long as]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the let, const, and var Keywords Work in JavaScript]]></title>
+        <id>61d6aae9d2d9de084285cfdc</id>
+        <link href="https://www.freecodecamp.org/news/understanding-let-const-and-var-keywords/"/>
+        <updated>2022-01-11T16:47:43.000Z</updated>
+        <summary type="html"><![CDATA[As a JavaScript beginner, you probably learned how to declare variables and assign values.  In the old, pre-ES6 era of JavaScript, developers used to declare variables using the keyword var or without any keywords. But times have changed! With ES6 (EcmaScript 2015), the beginning of the modern era in JavaScript,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reusable Booster Rockets, Asian Roundup]]></title>
+        <id>https://hackaday.com/?p=513737</id>
+        <link href="https://hackaday.com/2022/01/11/reusable-booster-rockets-asian-roundup/"/>
+        <updated>2022-01-11T16:30:58.000Z</updated>
+        <summary type="html"><![CDATA[The Space Shuttle’s solid rocket boosters were reusable, although ultimately the overall system didn’t prove cheaper than expendable launches. But given the successes of the Falcon 9 program — booster …read more]]></summary>
+        <author>
+            <name>Chris Lott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding Vite to Your Existing Web App]]></title>
+        <id>https://css-tricks.com/?p=359243</id>
+        <link href="https://css-tricks.com/adding-vite-to-your-existing-web-app/"/>
+        <updated>2022-01-11T15:38:06.000Z</updated>
+        <summary type="html"><![CDATA[Vite (pronounced “veet”) is a newish JavaScript bundler. It comes batteries-included, requires almost no configuration to be useful, and includes plenty of configuration options. Oh—and it’s fast. Incredibly fast.
+This post will walk through the process of converting an existing …
+Adding Vite to Your Existing Web App originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haber-Bosch and the Greening of Ammonia Production]]></title>
+        <id>https://hackaday.com/?p=513855</id>
+        <link href="https://hackaday.com/2022/01/11/haber-bosch-and-the-greening-of-ammonia-production/"/>
+        <updated>2022-01-11T15:00:52.000Z</updated>
+        <summary type="html"><![CDATA[We here on Earth live at the bottom of an ocean of nitrogen. Nearly 80% of every breath we take is nitrogen, and the element is a vital component of …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Year's Resolutions Are Notoriously Slippery, but Science Can Help You Keep Them]]></title>
+        <id>14871B46-96E0-4A2C-B575A5AD9CCA1C80</id>
+        <link href="https://www.scientificamerican.com/article/new-years-resolutions-are-notoriously-slippery-but-science-can-help-you-keep-them/"/>
+        <updated>2022-01-11T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You can change your behavior in lasting ways by changing how you frame your situation, explains behavioral scientist Ayelet Fishbach in her new book
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Katy Milkman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LED Bubbles from the 1970s Tell the Time]]></title>
+        <id>https://hackaday.com/?p=515222</id>
+        <link href="https://hackaday.com/2022/01/11/led-bubbles-from-the-1970s-tell-the-time/"/>
+        <updated>2022-01-11T12:00:15.000Z</updated>
+        <summary type="html"><![CDATA[[CuriousMarc] is nothing if not curious. Finding some old TI timekeeping chips to reverse engineer, he set out to make a clock using old-fashioned “bubble LEDs.” You can see the …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nurses Struggle through a New COVID Wave with Rage and Compassion]]></title>
+        <id>DCF9115B-F93B-4E1B-9500F333837A3214</id>
+        <link href="https://www.scientificamerican.com/article/nurses-struggle-through-a-new-covid-wave-with-rage-and-compassion/"/>
+        <updated>2022-01-11T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A critical care nurse confronts the Omicron surge filling her hospital
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Kathryn Ivey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Math Research Group Reflects a Schism in the Field]]></title>
+        <id>4A36A7BB-47AB-4581-B1CEF429FB7199CE</id>
+        <link href="https://www.scientificamerican.com/article/new-math-research-group-reflects-a-schism-in-the-field/"/>
+        <updated>2022-01-11T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Critics accuse the organization of opposing efforts to stamp out inequity
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Rachel Crowell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Atari Punk Console, Now With More Vacuum Tubes]]></title>
+        <id>https://hackaday.com/?p=514986</id>
+        <link href="https://hackaday.com/2022/01/11/the-atari-punk-console-now-with-more-vacuum-tubes/"/>
+        <updated>2022-01-11T09:00:45.000Z</updated>
+        <summary type="html"><![CDATA[Most of us have beheld the sonic glory of an Atari Punk Console, that lo-fi synth whose classic incarnation is a pair of 555 timers set up to warble and …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Play miniature golf, learn about congressional redistricting]]></title>
+        <id>https://flowingdata.com/?p=66528</id>
+        <link href="https://flowingdata.com/2022/01/11/play-miniature-golf-learn-about-congressional-redistricting/"/>
+        <updated>2022-01-11T08:39:14.000Z</updated>
+        <summary type="html"><![CDATA[Congressional redistricting and gerrymandering are important topics, because they can directly change election…
+Tags: game, gerrymandering, golf, redistricting, Washington Post]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Low-Code Enables the Composable Enterprise]]></title>
+        <id>https://devops.com/?p=148975</id>
+        <link href="https://devops.com/how-low-code-enables-the-composable-enterprise/"/>
+        <updated>2022-01-11T08:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Enterprises know that their customers and partners expect a superior personalized experience. After all, customer experience has been a top priority for organizations over the last decade. However, despite all the technological advancements and transformation initiatives, the ability to deliver innovation with speed continues to elude.  Without this ability, enterprises constantly play catch-up with rapidly […]
+The post How Low-Code Enables the Composable Enterprise appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Alessandro De Capitani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Step Aside, Monoliths: Meet the Composable Enterprise]]></title>
+        <id>https://devops.com/?p=148966</id>
+        <link href="https://devops.com/step-aside-monoliths-meet-the-composable-enterprise/"/>
+        <updated>2022-01-11T07:30:58.000Z</updated>
+        <summary type="html"><![CDATA[A composable enterprise, defined by Gartner as “an organization that delivers business outcomes and adapts to the pace of business change”, relies on the assembly of interchangeable application building blocks. This architectural overhaul has largely been driven by a demand for more configurable application experiences, and the need to evolve existing application portfolios that are […]
+The post Step Aside, Monoliths: Meet the Composable Enterprise appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Rick Veague</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HitClips Custom Cartridge Hack Will Never Give Up, Let Down, Or Turn Around]]></title>
+        <id>https://hackaday.com/?p=515204</id>
+        <link href="https://hackaday.com/2022/01/10/hitclips-custom-cartridge-hack-will-never-give-up-let-down-or-turn-around/"/>
+        <updated>2022-01-11T06:00:39.000Z</updated>
+        <summary type="html"><![CDATA[In August 2000, Tiger Electronics released HitClips: Music cartridges and players designed to easily share 60 second low quality Clips of a youngster’s favorite Hits. Various players were available, and …read more]]></summary>
+        <author>
+            <name>Ryan Flowers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Native Custom Fields in WordPress (and 5 Useful Examples)]]></title>
+        <id>https://css-tricks.com/?p=360061</id>
+        <link href="https://css-tricks.com/use-custom-fields-in-wordpress/"/>
+        <updated>2022-01-11T00:41:48.000Z</updated>
+        <summary type="html"><![CDATA[Custom Fields in WordPress are arbitrary bits of data that you can apply to Posts, Pages, and Custom Post Types in WordPress. Metadata, as it were, in the form of key/value pairs. For example:
+Key: subtitle / Value: They are 
+…
+How to Use Native Custom Fields in WordPress (and 5 Useful Examples) originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High-Utility DeFi Data Analytics Tools For Crypto Investors]]></title>
+        <id>https://hackernoon.com/high-utility-defi-data-analytics-tools-for-crypto-investors?source=rss</id>
+        <link href="https://hackernoon.com/high-utility-defi-data-analytics-tools-for-crypto-investors?source=rss"/>
+        <updated>2022-01-10T22:59:33.000Z</updated>
+        <summary type="html"><![CDATA[These four growing platforms will give investors the tools they need to make smarter decisions]]></summary>
+        <author>
+            <name>Masha Prusso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Elastic Kubernetes Service (EKS) vs. Azure Kubernetes Service (AKS), A Comparison]]></title>
+        <id>https://hackernoon.com/amazon-elastic-kubernetes-service-eks-vs-azure-kubernetes-service-aks-a-comparison?source=rss</id>
+        <link href="https://hackernoon.com/amazon-elastic-kubernetes-service-eks-vs-azure-kubernetes-service-aks-a-comparison?source=rss"/>
+        <updated>2022-01-10T22:54:43.000Z</updated>
+        <summary type="html"><![CDATA[Managed Kubernetes is experiencing massive growth in adoption and many organizations are moving their self-managed Kubernetes clusters.]]></summary>
+        <author>
+            <name>Asad Faizi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Proposal to Platform: A Framework for Scaling Software]]></title>
+        <id>https://hackernoon.com/from-proposal-to-platform-a-framework-for-scaling-software?source=rss</id>
+        <link href="https://hackernoon.com/from-proposal-to-platform-a-framework-for-scaling-software?source=rss"/>
+        <updated>2022-01-10T22:53:58.000Z</updated>
+        <summary type="html"><![CDATA[Ever find yourself maintaining a prototype in production? Or struggling to scale siloed products? In this article, we explore a framework for scaling software.]]></summary>
+        <author>
+            <name>Tim Kleier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Python to Telegram: Build your own Notification System]]></title>
+        <id>https://hackernoon.com/from-python-to-telegram-build-your-own-notification-system?source=rss</id>
+        <link href="https://hackernoon.com/from-python-to-telegram-build-your-own-notification-system?source=rss"/>
+        <updated>2022-01-10T22:53:56.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to send messages from python script to Telegram chat.]]></summary>
+        <author>
+            <name>Anzor Berezgov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taking DeFi Mainstream: A Conversation With Anshul Dhir of the EasyFi Network]]></title>
+        <id>https://hackernoon.com/taking-defi-mainstream-a-conversation-with-anshul-dhir-of-the-easyfi-network?source=rss</id>
+        <link href="https://hackernoon.com/taking-defi-mainstream-a-conversation-with-anshul-dhir-of-the-easyfi-network?source=rss"/>
+        <updated>2022-01-10T22:45:15.000Z</updated>
+        <summary type="html"><![CDATA[Defi's increased popularity has also come with challenges now standing as roadblocks to further growth. Here, we discuss those problems and possible solutions.]]></summary>
+        <author>
+            <name>Dan Stein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin (BTC) is Still Not Showing Bullish Signs as it Trades Below $42,000]]></title>
+        <id>https://hackernoon.com/bitcoin-btc-is-still-not-showing-bullish-signs-as-it-trades-below-$42000?source=rss</id>
+        <link href="https://hackernoon.com/bitcoin-btc-is-still-not-showing-bullish-signs-as-it-trades-below-$42000?source=rss"/>
+        <updated>2022-01-10T22:41:31.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin (BTC) is not showing any decisive bullish signs even though the cryptocurrency market is back trading in the green on January 10.]]></summary>
+        <author>
+            <name>LoudPosts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All About My New Job at Akamai]]></title>
+        <id>https://hackernoon.com/all-about-my-new-job-at-akamai?source=rss</id>
+        <link href="https://hackernoon.com/all-about-my-new-job-at-akamai?source=rss"/>
+        <updated>2022-01-10T22:39:35.000Z</updated>
+        <summary type="html"><![CDATA[I got a new job as a Senior Developer Advocate at Akamai. This post shares my thoughts on the role, company, and industry. In short, I'm excited.]]></summary>
+        <author>
+            <name>Austin Gil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some FAQs on the Best Programming Language for Graphics]]></title>
+        <id>https://hackernoon.com/some-faqs-on-the-best-programming-language-for-graphics?source=rss</id>
+        <link href="https://hackernoon.com/some-faqs-on-the-best-programming-language-for-graphics?source=rss"/>
+        <updated>2022-01-10T22:39:04.000Z</updated>
+        <summary type="html"><![CDATA[What’s the best programming language for graphics is an excellent question. It’s always curious to discover which languages graphic designers prefer.]]></summary>
+        <author>
+            <name>Fireart Studio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Cloud Trends to Watch in 2022]]></title>
+        <id>https://devops.com/?p=148985</id>
+        <link href="https://devops.com/three-cloud-trends-to-watch-in-2022/"/>
+        <updated>2022-01-10T22:34:55.000Z</updated>
+        <summary type="html"><![CDATA[Many developers and startups view cloud services as simply “compute”, “storage” and “networking.” The cloud has matured to the point where customers often don’t think about the underlying infrastructure, service levels or debate the merits of on-premises versus cloud&;mdash;instead, they are increasingly cloud-first. In fact, December of 2021 marked Amazon Web Services (AWS) marked its […]
+The post Three Cloud Trends to Watch in 2022 appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Dan Kirsch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s the Difference Between C++ vs Java]]></title>
+        <id>https://hackernoon.com/c-vs-java-whats-the-difference-with-examples?source=rss</id>
+        <link href="https://hackernoon.com/c-vs-java-whats-the-difference-with-examples?source=rss"/>
+        <updated>2022-01-10T22:32:57.000Z</updated>
+        <summary type="html"><![CDATA[C++ vs. Java programming languages are designed for everyone, no matter if you are new to programming or you already have extensive programming experience.]]></summary>
+        <author>
+            <name>Fireart Studio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a HashMap in Java?]]></title>
+        <id>https://hackernoon.com/what-is-a-hashmap-in-java?source=rss</id>
+        <link href="https://hackernoon.com/what-is-a-hashmap-in-java?source=rss"/>
+        <updated>2022-01-10T22:32:12.000Z</updated>
+        <summary type="html"><![CDATA[Hashmap is a collection of key-value pairs and an array of nodes. It uses an array and LinkedList for storing key-value pairs.]]></summary>
+        <author>
+            <name>Mahipal Nehra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Programming Languages to Learn in 2022]]></title>
+        <id>https://hackernoon.com/best-programming-languages-to-learn-in-2022?source=rss</id>
+        <link href="https://hackernoon.com/best-programming-languages-to-learn-in-2022?source=rss"/>
+        <updated>2022-01-10T22:27:27.000Z</updated>
+        <summary type="html"><![CDATA[A look at an average pay scale and the future demand for each of the programming languages available today and made a list of the top five languages.]]></summary>
+        <author>
+            <name>Manik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Ethereum Transaction App with React and Solidity: Part 1]]></title>
+        <id>https://hackernoon.com/build-your-own-ethereum-transaction-app-with-react-and-solidity-part-1?source=rss</id>
+        <link href="https://hackernoon.com/build-your-own-ethereum-transaction-app-with-react-and-solidity-part-1?source=rss"/>
+        <updated>2022-01-10T22:24:46.000Z</updated>
+        <summary type="html"><![CDATA[This tutorial will teach you how to build a decentralized blockchain application from the ground up that will interact with a ReactJs frontend.]]></summary>
+        <author>
+            <name>Darlington Gospel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Maintain a Prototyping Mindset When Building for the Semantic Web]]></title>
+        <id>https://hackernoon.com/how-to-maintain-a-prototyping-mindset-when-building-for-the-semantic-web?source=rss</id>
+        <link href="https://hackernoon.com/how-to-maintain-a-prototyping-mindset-when-building-for-the-semantic-web?source=rss"/>
+        <updated>2022-01-10T22:23:30.000Z</updated>
+        <summary type="html"><![CDATA[This talk covers the importance of keeping a prototyping mindset in all aspects of our web design with reference to the idea of the semantic web.]]></summary>
+        <author>
+            <name>Marko Marinkovic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Ways Developers Can Make Money Coding]]></title>
+        <id>https://hackernoon.com/10-ways-developers-can-make-money-coding?source=rss</id>
+        <link href="https://hackernoon.com/10-ways-developers-can-make-money-coding?source=rss"/>
+        <updated>2022-01-10T22:22:01.000Z</updated>
+        <summary type="html"><![CDATA[How developers increase their income cash flow]]></summary>
+        <author>
+            <name>Dan Fleser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Chromium Without Chrome on Top?]]></title>
+        <id>https://css-tricks.com/?p=360873</id>
+        <link href="https://css-tricks.com/what-is-chromium-without-chrome-on-top/"/>
+        <updated>2022-01-10T22:02:49.000Z</updated>
+        <summary type="html"><![CDATA[Raw Chromium, perhaps?
+So, Chrome is based on Chromium which is open-source. Chrome is Chromium with Google’s extra stuff on top of it. What extra stuff? Kinda lots! A few years ago, The Verge published “Microsoft reveals all the …
+What is Chromium Without Chrome on Top? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become a Software Architect: Keith Casey™️ on His Career Learnings at Twilio, Okta and Beyond]]></title>
+        <id>https://hackernoon.com/how-to-become-a-software-architect-keith-caseytm-on-his-career-learnings-at-twilio-okta-and-beyond?source=rss</id>
+        <link href="https://hackernoon.com/how-to-become-a-software-architect-keith-caseytm-on-his-career-learnings-at-twilio-okta-and-beyond?source=rss"/>
+        <updated>2022-01-10T21:40:47.000Z</updated>
+        <summary type="html"><![CDATA[Software architects are really the linchpin for creating exceptional, world-changing software—and having the wrong person in that seat can be disastrous.]]></summary>
+        <author>
+            <name>cal@calevans.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Convert react-dropdown-select&#x27;s Default Value from Array to String]]></title>
+        <id>61d8d033d2d9de084285e93e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-send-the-right-data-type-from-a-form-to-the-backend-server/"/>
+        <updated>2022-01-10T21:30:48.000Z</updated>
+        <summary type="html"><![CDATA[Web forms play an important role on many sites on the internet, and they're something you should know how to build as a web developer.  From good ol' login forms to signup forms and survey forms (or whatever they're called these days), their main purpose is to receive data and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collaborative Governance Will Be The Driver of The API Economy]]></title>
+        <id>https://hackernoon.com/collaborative-governance-will-be-the-driver-of-the-api-economy?source=rss</id>
+        <link href="https://hackernoon.com/collaborative-governance-will-be-the-driver-of-the-api-economy?source=rss"/>
+        <updated>2022-01-10T21:26:11.000Z</updated>
+        <summary type="html"><![CDATA[Businesses want to modernize the way they govern APIs and fix their current traditional API management. Let's see how.]]></summary>
+        <author>
+            <name>Darshan Shivashankar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript split() a String – String to Array JS Method]]></title>
+        <id>61d54372d2d9de084285c327</id>
+        <link href="https://www.freecodecamp.org/news/javascript-split-a-string-string-to-array-js-method/"/>
+        <updated>2022-01-10T21:24:30.000Z</updated>
+        <summary type="html"><![CDATA[If you need to split up a string into an array of substrings, then you can use the JavaScript split() method.  In this article, I will go over the JavaScript split() method and provide code examples.  Basic Syntax of the split() methodHere is the syntax for the JavaScript split() method.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Established My Digital Branding For Less than $500]]></title>
+        <id>https://hackernoon.com/how-i-established-my-digital-branding-for-less-than-$500?source=rss</id>
+        <link href="https://hackernoon.com/how-i-established-my-digital-branding-for-less-than-$500?source=rss"/>
+        <updated>2022-01-10T21:18:38.000Z</updated>
+        <summary type="html"><![CDATA[Do it yourself logo design, website design, and personal branding tools for early-stage entrepreneurs and consultants.]]></summary>
+        <author>
+            <name>FarahKim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The React Beginner&#x27;s Guide for 2022]]></title>
+        <id>61dc51e5b837d507ba09edb6</id>
+        <link href="https://www.freecodecamp.org/news/react-beginners-guide/"/>
+        <updated>2022-01-10T21:15:23.000Z</updated>
+        <summary type="html"><![CDATA[So you're ready to dive into learning React, but you still have some lingering questions, such as: How should I create my React projects?What tools should I add to my React app?Do I need to learn JavaScript first before learning React?Where should I deploy my projects?If]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why I Think Most COVID Opinions Are Bullsh*t]]></title>
+        <id>https://hackernoon.com/why-i-think-most-covid-opinions-are-bullsht?source=rss</id>
+        <link href="https://hackernoon.com/why-i-think-most-covid-opinions-are-bullsht?source=rss"/>
+        <updated>2022-01-10T21:03:03.000Z</updated>
+        <summary type="html"><![CDATA[Examining how data democratization is not always a good thing when it comes to COVID data.]]></summary>
+        <author>
+            <name>Steven Finkelstein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – Longest Path in Binary Tree via Diameter Algorithm (DFS + BFS)]]></title>
+        <id>https://helloacm.com/?p=148470</id>
+        <link href="https://helloacm.com/teaching-kids-programming-longest-path-in-binary-tree-via-diameter-algorithm-dfs-bfs/"/>
+        <updated>2022-01-10T20:59:34.000Z</updated>
+        <summary type="html"><![CDATA[Given a binary tree root, return the longest path between any two nodes in the tree. Constraints n ≤ 100,000 where n is the number of nodes in root Example 1 Input root = , , null], ]] Output 5...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boost I/O Efficiency & Increase GPU Utilization in Machine Learning Training]]></title>
+        <id>https://hackernoon.com/boost-io-efficiency-and-increase-gpu-utilization-in-machine-learning-training?source=rss</id>
+        <link href="https://hackernoon.com/boost-io-efficiency-and-increase-gpu-utilization-in-machine-learning-training?source=rss"/>
+        <updated>2022-01-10T20:55:54.000Z</updated>
+        <summary type="html"><![CDATA[In this blog, we provide an overview of Alluxio’s solution to improve training performance and simplify data management.]]></summary>
+        <author>
+            <name>Bin Fan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is it Safe to Bet on Uranium?]]></title>
+        <id>https://hackernoon.com/is-it-safe-to-bet-on-uranium?source=rss</id>
+        <link href="https://hackernoon.com/is-it-safe-to-bet-on-uranium?source=rss"/>
+        <updated>2022-01-10T20:53:02.000Z</updated>
+        <summary type="html"><![CDATA[Over the past week, global uranium prices have risen by more than about 8% amid protests and unrest in Kazakhstan, the world's largest producer of nuclear fuel.]]></summary>
+        <author>
+            <name>Igor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fossils Reveal When Animals Started Making Noise]]></title>
+        <id>653718D1-E542-4476-A0CA4F8FC97332B1</id>
+        <link href="https://www.scientificamerican.com/article/fossils-reveal-when-animals-started-making-noise/"/>
+        <updated>2022-01-10T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[For billions of years Earth was quiet. Then life got loud
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Michael B. Habib</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rebuilt New Orleans Levees Saved Lives and Property]]></title>
+        <id>6289896A-EB30-484D-B7AE70D101A89E33</id>
+        <link href="https://www.scientificamerican.com/article/rebuilt-new-orleans-levees-saved-lives-and-property/"/>
+        <updated>2022-01-10T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The storm caused $65 million in damage across the U.S., according to the global reinsurance company Munich Re
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Thomas Frank, E&amp;E News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Landmark Webb Observatory Is Now Officially a Telescope]]></title>
+        <id>E087A47E-5187-4EAB-B69626BF0DE4D321</id>
+        <link href="https://www.scientificamerican.com/article/landmark-webb-observatory-is-now-officially-a-telescope1/"/>
+        <updated>2022-01-10T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The observatory has flawlessly unfurled its mirrors and sunshield—although more steps are needed before the science can begin
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Alexandra Witze, Nature magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Surprising Physics of Finger Snapping]]></title>
+        <id>BB8BCF22-85A7-4DC0-98D98C8074731720</id>
+        <link href="https://www.scientificamerican.com/podcast/episode/the-surprising-physics-of-finger-snapping/"/>
+        <updated>2022-01-10T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You might not think that you can generate more body acceleration than a big-league baseball pitcher, but new research shows you can.
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Karen Hopkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don’t Fight the Cascade, Control It!]]></title>
+        <id>https://css-tricks.com/?p=359886</id>
+        <link href="https://css-tricks.com/dont-fight-the-cascade-control-it/"/>
+        <updated>2022-01-10T15:22:08.000Z</updated>
+        <summary type="html"><![CDATA[If you’re disciplined and make use of the inheritance that the CSS cascade provides, you’ll end up writing less CSS. But because our styles often comes from all kinds of sources — and can be a pain to structure and …
+Don’t Fight the Cascade, Control It! originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Mads Stoumann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Euler’s 243-Year-Old ‘Impossible’ Puzzle Gets a Quantum Solution]]></title>
+        <id>https://www.quantamagazine.org/?p=111691</id>
+        <link href="https://www.quantamagazine.org/eulers-243-year-old-impossible-puzzle-gets-a-quantum-solution-20220110/"/>
+        <updated>2022-01-10T15:07:22.000Z</updated>
+        <summary type="html"><![CDATA[A surprising new solution to Leonhard Euler’s famous “36 officers puzzle” offers a novel way of encoding quantum information.            
+The post Euler’s 243-Year-Old ‘Impossible’ Puzzle Gets a Quantum Solution first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Daniel Garisto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitLab Revamps Observability Strategy After Acquiring Opstrace]]></title>
+        <id>https://devops.com/?p=148962</id>
+        <link href="https://devops.com/gitlab-revamps-observability-strategy-after-acquiring-opstrace/"/>
+        <updated>2022-01-10T14:21:10.000Z</updated>
+        <summary type="html"><![CDATA[GitLab plans to make observability a more integrated element of its continuous integration/continuous delivery (CI/CD) platform after acquiring Opstrace. Opstrace’s open source project exposes a horizontally scalable application programming interface (API) created by Cortex for Prometheus, an open source monitoring platform being advanced under the auspices of the Cloud Native Computing Foundation (CNCF). It then […]
+The post GitLab Revamps Observability Strategy After Acquiring Opstrace appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Mike Vizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ArXiv.org Reaches a Milestone and a Reckoning]]></title>
+        <id>B2625F26-0642-4B24-AF586C7BC12F096F</id>
+        <link href="https://www.scientificamerican.com/article/arxiv-org-reaches-a-milestone-and-a-reckoning/"/>
+        <updated>2022-01-10T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Runaway success and underfunding have led to growing pains for the preprint server
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Daniel Garisto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scale of the bigger, more detailed universe]]></title>
+        <id>https://flowingdata.com/?p=66508</id>
+        <link href="https://flowingdata.com/2022/01/10/scale-of-the-bigger-more-detailed-universe/"/>
+        <updated>2022-01-10T09:55:09.000Z</updated>
+        <summary type="html"><![CDATA[We’ve learned more about the universe since Charles and Ray Eames produced Powers…
+Tags: BBC, scale, space]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Powers of Ten]]></title>
+        <id>https://flowingdata.com/?p=66504</id>
+        <link href="https://flowingdata.com/2022/01/10/powers-of-ten/"/>
+        <updated>2022-01-10T09:50:52.000Z</updated>
+        <summary type="html"><![CDATA[The Powers of Ten by Charles and Ray Eames from 1977 shows the…
+Tags: Eames, scale, video]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Quick and Easy Way to Make Spiral Charts in R]]></title>
+        <id>https://flowingdata.com/?p=66490</id>
+        <link href="https://flowingdata.com/2022/01/10/a-quick-and-easy-way-to-make-spiral-charts-in-r/"/>
+        <updated>2022-01-10T09:17:23.000Z</updated>
+        <summary type="html"><![CDATA[Now that we've discovered another way to annoy chart snobs, here's how you can make your own spirals.
+Tags: R]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Event-Driven Architecture With Microservices]]></title>
+        <id>https://devops.com/?p=148923</id>
+        <link href="https://devops.com/using-event-driven-architecture-with-microservices/"/>
+        <updated>2022-01-10T08:00:40.000Z</updated>
+        <summary type="html"><![CDATA[Microservices architecture is on the rise, already forming a key part of several current transformation projects, breaking down traditionally monolithic applications into self-contained, independently deployed services that are identified using domain-driven design. Stats from a recent study found that more than 60% of respondents have been using microservices for a year or more. In particular, […]
+The post Using Event-Driven Architecture With Microservices appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Jonathan Schabowsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enable Multi-Cloud Networking With Automation]]></title>
+        <id>https://devops.com/?p=148918</id>
+        <link href="https://devops.com/enable-multi-cloud-networking-with-automation/"/>
+        <updated>2022-01-10T07:30:37.000Z</updated>
+        <summary type="html"><![CDATA[As we enter a new era of technology, we’re experiencing a “third wave” of cloud innovation that brings new complexities into the IT landscape, mainly centered around multi-cloud networking. With every wave of cloud technology advancement, networking components are becoming more complex and distributed across multiple groups. Further, multi-cloud networking brings new challenges around connecting […]
+The post Enable Multi-Cloud Networking With Automation appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Peter Sprygada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Code]]></title>
+        <id>https://devops.com/?p=148959</id>
+        <link href="https://devops.com/no-code/"/>
+        <updated>2022-01-10T07:00:59.000Z</updated>
+        <summary type="html"><![CDATA[The post No Code appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>ROELBOB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – Check if Every Row and Column Contains All Numbers (XOR and Hash Set)]]></title>
+        <id>https://helloacm.com/?p=148457</id>
+        <link href="https://helloacm.com/teaching-kids-programming-check-if-every-row-and-column-contains-all-numbers-xor-and-hash-set/"/>
+        <updated>2022-01-09T20:56:21.000Z</updated>
+        <summary type="html"><![CDATA[An n x n matrix is valid if every row and every column contains all the integers from 1 to n (inclusive). Given an n x n integer matrix matrix, return true if the matrix is valid. Otherwise, return...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – Longest Path in Binary Tree via Recursive Depth First Search Algorithm]]></title>
+        <id>https://helloacm.com/?p=148439</id>
+        <link href="https://helloacm.com/teaching-kids-programming-longest-path-in-binary-tree-via-recursive-depth-first-search-algorithm/"/>
+        <updated>2022-01-08T13:37:21.000Z</updated>
+        <summary type="html"><![CDATA[Given a binary tree root, return the longest path between any two nodes in the tree. Constraints n ≤ 100,000 where n is the number of nodes in root Example 1 Input root = , , null], ]] Output 5...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Slither: a Visual Pedometer That Sheds Light]]></title>
         <id>https://hackaday.com/?p=514687</id>
@@ -55,6 +817,17 @@
         <summary type="html"><![CDATA[From the release of the DMG-01 in 1989 until the final Micro variant hit store shelves in 2005, the Nintendo Game Boy line represented the epitome of handheld gaming for …read more]]></summary>
         <author>
             <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[toggle-gitignore]]></title>
+        <id>https://atom.io/packages/toggle-gitignore</id>
+        <link href="https://atom.io/packages/toggle-gitignore"/>
+        <updated>2022-01-07T20:50:14.000Z</updated>
+        <summary type="html"><![CDATA[toggle-gitignore package
+Toggle folder/file in .gitignore via the context menus]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
         </author>
     </entry>
     <entry>
@@ -230,6 +1003,17 @@ The post Intel Expands Scope of OneAPI Toolkit Initiative appeared first on DevO
 -- Read more on ScientificAmerican.com]]></summary>
         <author>
             <name>Saugat Bolakhe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[apm-wordcount]]></title>
+        <id>https://atom.io/packages/apm-wordcount</id>
+        <link href="https://atom.io/packages/apm-wordcount"/>
+        <updated>2022-01-07T11:14:06.000Z</updated>
+        <summary type="html"><![CDATA[apm-wordcount package
+A short description of your package.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
         </author>
     </entry>
     <entry>
@@ -528,6 +1312,17 @@ The post Theranos’s Holmes VC Reverb | 5G C-Band Marches On | Mozilla Jumps Sh
 -- Read more on ScientificAmerican.com]]></summary>
         <author>
             <name>Jonathan O'Callaghan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Search For a Fixed Background Effect With Inline Images]]></title>
+        <id>https://css-tricks.com/?p=358917</id>
+        <link href="https://css-tricks.com/fixed-background-effect/"/>
+        <updated>2022-01-06T15:58:55.000Z</updated>
+        <summary type="html"><![CDATA[I was working on a client project a few days ago and wanted to create a certain effect on an <img>. See, background images can do the effect I was looking for somewhat easily with background-attachment: fixed;. With …
+The Search For a Fixed Background Effect With Inline Images originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Alex Lazar</name>
         </author>
     </entry>
     <entry>
@@ -1464,6 +2259,20 @@ Should CSS Override Default Browser Styles? originally published on CSS-Tricks. 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[byteskript-syntax]]></title>
+        <id>https://atom.io/packages/byteskript-syntax</id>
+        <link href="https://atom.io/packages/byteskript-syntax"/>
+        <updated>2022-01-04T19:00:57.000Z</updated>
+        <summary type="html"><![CDATA[ByteSkript Grammar (Atom.io)
+A rudimentary language theme for the Atom text editor.
+Provides colours and identifier support for the basic language features.
+See the ByteSkript documentation for information about getting started with the language.
+Full support for sections, folding, etc. is not yet available.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Germany Lays a Path to Quitting Coal, But the U.S. May Not Follow]]></title>
         <id>24317230-ED46-4148-AF7008E838559D41</id>
         <link href="https://www.scientificamerican.com/article/germany-lays-a-path-to-quitting-coal-but-the-u-s-may-not-follow/"/>
@@ -1536,6 +2345,18 @@ The post LogDNA Survey Surfaces Observability ROI Concerns appeared first on Dev
         <summary type="html"><![CDATA[A long, long time ago – back in late November, 2021 to be precise – I wrote "A Data Analysis of IT Career Training Tool Efficacy" to help with the difficult task of making smart career education choices.  Believe it or not, there have already been some important updates. That article began]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[language-computercraft-rebuilt]]></title>
+        <id>https://atom.io/packages/language-computercraft-rebuilt</id>
+        <link href="https://atom.io/packages/language-computercraft-rebuilt"/>
+        <updated>2022-01-04T17:43:54.000Z</updated>
+        <summary type="html"><![CDATA[language-computercraft-rebuilt
+Replaces language-computercraft which seems to be gone from github
+I have ported https://github.com/benanders/ST2-ComputerCraft-Package to atom]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
         </author>
     </entry>
     <entry>
@@ -3044,6 +3865,51 @@ The post Best of 2021 – Scopes of Knowledge appeared first on DevOps.com.]]></
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[barebone-atom-package-coffee]]></title>
+        <id>https://atom.io/packages/barebone-atom-package-coffee</id>
+        <link href="https://atom.io/packages/barebone-atom-package-coffee"/>
+        <updated>2021-12-31T03:15:16.000Z</updated>
+        <summary type="html"><![CDATA[Add apm to your PATH
+Coffee package manual
+Javascript version
+Install package:
+Via website: https://atom.io/packages/barebone-atom-package-coffee
+
+Via Atom: File > Settings > Install > Search "barebone-atom-package-coffee" > Install
+Via apm command: apm install barebone-atom-package-coffee
+Edit and run instruction:
+It's recommended to uninstall this package first before making any edit.
+Go to C:\Users\<username>\.atom\packages and clone this repository
+Reload Atom and try to use package: Ctrl+Shift+I to open devtool > Ctrl+Shift+P > Type and run Barebone Coffee: Owo > see Owo coffee! in the devtool console
+Make some edits
+Reload Atom by open "Command Palette" (Ctrl+Shift+P) > Window Reload
+See result
+Push to Github and update package, in command line, type following:
+git fetch
+git status
+git add .
+git commit -m "update something"
+git push
+(optional) git tag
+update package in atom site: apm publish major/minor/patch
+Publish your package to atom site:
+Make sure you have requirements for publishing a package (package.json and git tag): https://flight-manual.atom.io/hacking-atom/sections/publishing/
+
+Open command line, go to your package folder
+You may need to connect with your atom account via apm command
+Change git local user (remove --global tag): https://stackoverflow.com/questions/22844806/how-to-change-my-git-username-in-terminal
+
+Type: git tag
+Type "apm publish major/minor/patch" (see more at https://flight-manual.atom.io/hacking-atom/sections/publishing/)
+Congrats!
+Uninstall package:
+Via Atom: File > Settings > Packages > Search "barebone-atom-package-coffee" > Uninstall
+Via apm command: apm uninstall barebone-atom-package-coffee]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Write Smart Contracts on Bitcoin]]></title>
         <id>https://hackernoon.com/how-to-write-smart-contracts-on-bitcoin?source=rss</id>
         <link href="https://hackernoon.com/how-to-write-smart-contracts-on-bitcoin?source=rss"/>
@@ -3144,6 +4010,29 @@ The post Best of 2021 – Scopes of Knowledge appeared first on DevOps.com.]]></
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[audio-syntax]]></title>
+        <id>https://atom.io/packages/audio-syntax</id>
+        <link href="https://atom.io/packages/audio-syntax"/>
+        <updated>2021-12-30T21:20:48.000Z</updated>
+        <summary type="html"><![CDATA[audio-syntax theme
+A short description of your theme.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[audio-ui]]></title>
+        <id>https://atom.io/packages/audio-ui</id>
+        <link href="https://atom.io/packages/audio-ui"/>
+        <updated>2021-12-30T21:17:28.000Z</updated>
+        <summary type="html"><![CDATA[Audio - UI Theme
+Cool UI Theme for Atom based on Ableton Audio Software.
+By MarchettiDesign.net]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Taking a Close Look at Hawkeye’s Workbench]]></title>
         <id>https://hackaday.com/?p=513572</id>
         <link href="https://hackaday.com/2021/12/30/taking-a-close-look-at-hawkeyes-workbench/"/>
@@ -3196,6 +4085,39 @@ The Web is More Gooder, and Other Observations on Today’s Web Tech originally 
 Tags: roundup]]></summary>
         <author>
             <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tree-view-clipboard]]></title>
+        <id>https://atom.io/packages/tree-view-clipboard</id>
+        <link href="https://atom.io/packages/tree-view-clipboard"/>
+        <updated>2021-12-30T18:59:54.000Z</updated>
+        <summary type="html"><![CDATA[tree-view-clipboard package
+Add native-like Clipboard operations to the tree-view. This plugin allows you to copy, cut and paste folders and files via the tree-view context menu and keybindings.
+Copy
+You can copy tree-view selections by right-clicking them and clicking "Copy" in the context menu. The respective folders/files will be placed on the clipboard, ready to be pasted anywhere.
+
+Cut
+You can cut tree-view selections by right-clicking them and clicking "Cut" in the context menu. The respective folders/files will be placed on the clipboard, ready to be pasted anywhere.
+
+Paste
+You can paste folders and files by right-clicking in the tree-view and clicking "Paste" in the context menu.
+
+This will paste the folders and files from the clipboard into all selected folders in the tree-view.
+
+Keybindings
+Override tree-view-clipboard keybindings in the keymap.cson file.
+'.platform-win32 .tree-view':
+    'ctrl-c': 'tree-view-clipboard:copy'
+    'ctrl-x': 'tree-view-clipboard:cut'
+    'ctrl-v': 'tree-view-clipboard:paste'
+
+'tree-view':
+    'ctrl-c': 'tree-view-clipboard:copy'
+    'ctrl-x': 'tree-view-clipboard:cut'
+    'ctrl-v': 'tree-view-clipboard:paste']]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
         </author>
     </entry>
     <entry>
@@ -3429,6 +4351,24 @@ The post Best of 2021 – 6 Signs You’re Doing DevOps Correctly appeared first
         <summary type="html"><![CDATA[Maybe we’re biased, but we think everyone has a use for a macropad. It’s just a matter of time before a highly personalized set of speed controls starts to sound …read more]]></summary>
         <author>
             <name>Kristina Panos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[theme-fluxor]]></title>
+        <id>https://atom.io/packages/theme-fluxor</id>
+        <link href="https://atom.io/packages/theme-fluxor"/>
+        <updated>2021-12-29T21:31:56.000Z</updated>
+        <summary type="html"><![CDATA[Theme Fluxor
+Switches your theme based on your location and the position of the sun via solar-calc.
+Justification
+https://github.com/as-cii/theme-flux is broken as of December 2021
+https://github.com/qwtel/theme-flux-solar is broken as of December 2021
+Features
+Can obtain your location via your IP address
+Supports dawn, day, dusk, and night, with day and night being the default.
+Syncs changes to Atom Themes setting to this package configuration.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
         </author>
     </entry>
     <entry>
@@ -5813,6 +6753,76 @@ The post Best of 2021 – 11 Open Source DevOps Tools We Love For 2021 appeared 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[build-parcel]]></title>
+        <id>https://atom.io/packages/build-parcel</id>
+        <link href="https://atom.io/packages/build-parcel"/>
+        <updated>2021-12-23T00:28:20.000Z</updated>
+        <summary type="html"><![CDATA[build-parcel
+
+
+
+
+
+Atom Build provider for parcel, the zero configuration build tool for the web.
+Installation
+apm
+Install build-parcel from Atom's Package Manager or the command-line equivalent:
+$ apm install build-parcel
+Using Git
+Change to your Atom packages directory:
+Windows
+# Powershell
+$ cd $Env:USERPROFILE\.atom\packages
+
+
+
+:: Command Prompt
+$ cd %USERPROFILE%\.atom\packages
+
+
+Linux & macOS
+$ cd ~/.atom/packages/
+
+
+Clone repository as build-parcel:
+$ git clone https://github.com/idleberg/atom-build-parcel build-parcel
+
+
+Inside the cloned directory, install Node dependencies:
+$ yarn || npm install
+
+
+You should now be setup to build the package:
+$ yarn build || npm run build
+
+
+
+Usage
+Prerequisites
+Make sure Parcel is installed properly and that parcel is in your PATH environmental variable.
+Build
+Before you can build, select an active target with your preferred build option.
+Available targets:
+Parcel: build
+Parcel: serve
+Parcel: watch
+Shortcuts
+Here's a reminder of the default shortcuts you can use with this package:
+Select active target
+Cmd+Alt+T or F7
+Build script
+Cmd+Alt+B or F9
+Jump to error
+Cmd+Alt+G or F4
+Toggle build panel
+Cmd+Alt+V or F8
+License
+This work is licensed under the The MIT License.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Personalize it!]]></title>
         <id>https://css-tricks.com/?p=359033</id>
         <link href="https://css-tricks.com/personalize-it/"/>
@@ -5986,6 +6996,51 @@ Tags: Excel]]></summary>
 -- Read more on ScientificAmerican.com]]></summary>
         <author>
             <name>Jack Tamisiea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[barebone-atom-package]]></title>
+        <id>https://atom.io/packages/barebone-atom-package</id>
+        <link href="https://atom.io/packages/barebone-atom-package"/>
+        <updated>2021-12-22T18:26:48.000Z</updated>
+        <summary type="html"><![CDATA[To use apm command, follow this to add apm to your PATH: https://stackoverflow.com/questions/38138900/complete-guide-for-installing-apm-on-windows/41353271
+Install package:
+Via website: https://atom.io/packages/barebone-atom-package
+
+Via Atom: File > Settings > Install > Search "barebone-atom-package" > Install
+Via apm command: apm install barebone-atom-package
+Edit and run instruction:
+It's recommended to uninstall this package first before making any edit.
+Go to C:\Users\<username>\.atom\packages and clone this repository
+Reload Atom and try to use package: Ctrl+Shift+I to open devtool > Ctrl+Shift+P > Type and run barebone:Owo > see Owo in the devtool console
+Make some edits
+Reload Atom by open "Command Palette" (Ctrl+Shift+P) > Window Reload
+See result
+Push to Github and update package, in command line, type following:
+git fetch
+git status
+git add .
+git commit -m "update something"
+git push
+(optional) git tag
+update package in atom site: apm publish major/minor/patch
+Publish your package to atom site:
+Make sure you have requirements for publishing a package (package.json and git tag): https://flight-manual.atom.io/hacking-atom/sections/publishing/
+
+Open command line, go to your package folder
+You may need to connect with your atom account via apm command
+Change git local user (remove --global tag): https://stackoverflow.com/questions/22844806/how-to-change-my-git-username-in-terminal
+
+Type: git tag
+Type "apm publish major/minor/patch" (see more at https://flight-manual.atom.io/hacking-atom/sections/publishing/)
+Congrats!
+
+
+Uninstall package:
+Via Atom: File > Settings > Packages > Search "barebone-atom-package" > Uninstall
+Via apm command: apm uninstall barebone-atom-package]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
         </author>
     </entry>
     <entry>
@@ -6416,6 +7471,73 @@ The post Best of 2021 – Seven Reasons You Shouldn’t Hire a DevOps Engineer a
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[background-video-player]]></title>
+        <id>https://atom.io/packages/background-video-player</id>
+        <link href="https://atom.io/packages/background-video-player"/>
+        <updated>2021-12-22T07:02:09.000Z</updated>
+        <summary type="html"><![CDATA[Background video player / manager for Atom
+*** ALPHA VERSION (Not really public ready) ***
+*** ESPECIALLY BAD WINDOWS SUPPORT FOR NOW :P ***
+Usage
+Play videos in background
+recommended
+use Real_ESRGAN to improve quality of images (not implemented yet)
+use thunar script for image_created_by_thunar.jpg and folders "images_created_by_thunar"... (not public yet)
+Todo :
+shadowRoot bug after inactivity / suspend ?
+SOME THEMES PUT COLOR ABOVE BACKGROUND IMAGE (Nord Atom for example)... :(
+(Need to edit theme manually, cannot find JS or CSSthat works with !important... - .item-views)
+images : not use image if (height > width)
+include audio player ?? (use video with displaying,playing audio only ?)
+disable video but keep playing audio on focus change, instead of pausing
+allow previous video (add button too)
+disable / enable line-numbers background color ???
+disable / enable dim background
+allow to add an unlimited amount of RV / RVL / RI... in settings
+range of background opacity in settings
+Add button for Real_ESRGAN
+ctrl + alt + m : next image ???
+transfer to/from mpv player
+XTRA (Not directly related to background-video-player but to Atom in general on my personal configuration)
+1 - I want to switch displayCodeHighlights on text selection, to see it better on the minimap,
+Need to change 2 functions in the "highlight-selected" plugin :
+search-model.js :
+static makeClasses() { atom.config.set('minimap.displayCodeHighlights', 'false');
+selection-manager.js :
+removeAllMarkers() { atom.config.set('minimap.displayCodeHighlights', 'true');
+2 - Refresh the css right position of wallpaper to avoid minimap by changing "tree-view-autoresize" plugin :
+On hide/show tree-view, the background wallpaper goes under the minimap plugin...
+tree-view-autoresize.coffee :
+resizeTreeView: -> setTimeout => if(atom.config.get('background-video-player.underMinimap')==false) document.querySelectorAll(".item-views")[1].style.backgroundPosition="top 0px right " + document.getElementsByTagName('atom-text-editor-minimap')[0].width + "px";]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[op-nhom1demo]]></title>
+        <id>https://atom.io/packages/op-nhom1demo</id>
+        <link href="https://atom.io/packages/op-nhom1demo"/>
+        <updated>2021-12-22T03:57:47.000Z</updated>
+        <summary type="html"><![CDATA[op-nhom1demo package
+Add apm to your PATH: https://stackoverflow.com/questions/38138900/complete-guide-for-installing-apm-on-windows
+Supported snippet languages: HTML, CSS, JAVASCRIPT
+How to use "snippet":
+go to test file
+type one of following snippet on test file, then select the word
+open command palette, search for "Op Nhom1demo: Expand" and run the command
+magic appears!
+Edit and run instruction:
+It's recommended to uninstall this package first before making any edit.
+Clone this repository (git clone https://github.com/AcezukyRockon/op-nhom1demo.git) at C:\Users\<username>\.atom\packages
+
+Reload Atom. Based on file extension, select the keyword (list of words in main.js) and press ctrl+tab. Snippet will appear.
+Make some edits
+Reload Atom by open "Command Palette" (Ctrl+Shift+P) > Wind…]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bubble Lights Made From Scratch]]></title>
         <id>https://hackaday.com/?p=512572</id>
         <link href="https://hackaday.com/2021/12/21/bubble-lights-made-from-scratch/"/>
@@ -6443,6 +7565,21 @@ The post Best of 2021 – Seven Reasons You Shouldn’t Hire a DevOps Engineer a
         <summary type="html"><![CDATA[If you find yourself in need of chain link fencing, you’d probably just head down to the hardware store. However, [The Q] has shown us that you can make your …read more]]></summary>
         <author>
             <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[flutter]]></title>
+        <id>https://atom.io/packages/flutter</id>
+        <link href="https://atom.io/packages/flutter"/>
+        <updated>2021-12-21T19:41:32.000Z</updated>
+        <summary type="html"><![CDATA[flutter package
+A package for Atom that enables basic support for Flutter development.
+The package itself is very much in development, and non-functional as of now.
+Please excuse this as I work on it.
+If you have an idea feel free to suggest it in the bug section.
+I am not taking pull requests just yet because of how early this is in development. Thank you for understanding.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
         </author>
     </entry>
     <entry>
@@ -6959,6 +8096,17 @@ The post Quali Adds Free Tier to DevOps Automation Platform appeared first on De
         <summary type="html"><![CDATA[When a particular device or appliance is evoked, there comes with it a set of expectations over what it might look like. A toaster, a camera, a washing machine, or …read more]]></summary>
         <author>
             <name>Jenny List</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[atom-layerfile]]></title>
+        <id>https://atom.io/packages/atom-layerfile</id>
+        <link href="https://atom.io/packages/atom-layerfile"/>
+        <updated>2021-12-20T11:50:15.000Z</updated>
+        <summary type="html"><![CDATA[Layerfile
+Layerfile package for atom]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
         </author>
     </entry>
     <entry>
@@ -7989,6 +9137,17 @@ The post Bridging the AppSec and DevOps Disconnect appeared first on DevOps.com.
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[language-kdl]]></title>
+        <id>https://atom.io/packages/language-kdl</id>
+        <link href="https://atom.io/packages/language-kdl"/>
+        <updated>2021-12-17T06:49:36.000Z</updated>
+        <summary type="html"><![CDATA[KDL for Atom
+Grammers taken nearly completely from the official VSCode extension, with the only modifications done to handle Oniguruma Unicode oddities.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Gaming Lingo for Dummies]]></title>
         <id>https://hackernoon.com/gaming-lingo-for-dummies?source=rss</id>
         <link href="https://hackernoon.com/gaming-lingo-for-dummies?source=rss"/>
@@ -8947,6 +10106,24 @@ The post U.S. Govt. CX EO | Mozilla Revenue | Log4j Latest appeared first on Dev
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[python-virtualenv]]></title>
+        <id>https://atom.io/packages/python-virtualenv</id>
+        <link href="https://atom.io/packages/python-virtualenv"/>
+        <updated>2021-12-15T14:45:59.000Z</updated>
+        <summary type="html"><![CDATA[python-virtualenv
+Automatic Python .venv activation in current project
+When current text editor changes, package searches for .venv/bin/activate file, sources it and modifies PATH for the Atom process.
+Currently only .venv is supported, since it's most widely used name for in-project virtualenv and many tools use it, such as Poetry.
+You can not deactivate virtualenv, but please open an issue if this is an essential feature.
+You can see which project's virtualenv is currently active in the status bar at the bottom.
+NOTE: There are one caveat that you can notice: there may be virtualenv and editor mismatch on Atom startup if files from different projects was opened at editor shutdown.
+This is because there are packages, such as ide-python, that execute their logic for each opened editor and require virtualenv for each of them in order to spawn matching python-language-server, but lack the discovery. For example, if you don't have python-language-server installed globally (only within project's .venv), this .venv must be activated when ide-python attempts to spawn it. And if I ensure that current project is processed last by this package, ide-python will use it's python-language-server (if it's installed) for any other python files from any project that currently have text editor opened.
+AFAIK opened editors processing order is undefined, so I can not be sure that .venv used by ide-python right now and project for one particular opened file match. Only solution is on ide-python side - implement .venv discovery on their own.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Rapid COVID Tests Could Help Curb Infections--Especially During the Holidays]]></title>
         <id>26CAD7A0-63C1-4FEB-BCE9A9EC2E0B66F4</id>
         <link href="https://www.scientificamerican.com/article/rapid-covid-tests-could-help-curb-infections-especially-during-the-holidays/"/>
@@ -9739,6 +10916,18 @@ The post Extending GitOps to the Enterprise appeared first on DevOps.com.]]></su
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[nicbudd-syntax]]></title>
+        <id>https://atom.io/packages/nicbudd-syntax</id>
+        <link href="https://atom.io/packages/nicbudd-syntax"/>
+        <updated>2021-12-14T01:15:58.000Z</updated>
+        <summary type="html"><![CDATA[nicbudd-syntax theme
+A blue-green-red with hints of purple-orange theme that I use to match the rest of my theme.
+Tested and used on C, Python, and Java.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A Self Righting Balancing Robot Configured The Easy Way]]></title>
         <id>https://hackaday.com/?p=511552</id>
         <link href="https://hackaday.com/2021/12/13/a-self-righting-balancing-robot-configured-the-easy-way/"/>
@@ -10064,6 +11253,19 @@ As browsers have become faster and more powerful over the last decade, front-end
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[yospos-ui-2021]]></title>
+        <id>https://atom.io/packages/yospos-ui-2021</id>
+        <link href="https://atom.io/packages/yospos-ui-2021"/>
+        <updated>2021-12-13T12:36:31.000Z</updated>
+        <summary type="html"><![CDATA[YOSPOS atom theme
+New yospos-ui theme that I rewrote because yospos-ui is not working in 2022
+
+https://atom.io/themes/yospos-ui-2021]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[COVID Is Driving a Children's Mental Health Emergency]]></title>
         <id>53AD22BD-DF01-44EF-946C69FA7209F936</id>
         <link href="https://www.scientificamerican.com/article/covid-is-driving-a-childrens-mental-health-emergency/"/>
@@ -10340,6 +11542,76 @@ The post navigator.clipboard API appeared first on David Walsh Blog.]]></summary
         <summary type="html"><![CDATA[Do you want to become a game developer? Then, you need to learn a gaming programming language. So, check out this blog to know more about these languages.]]></summary>
         <author>
             <name>Pascall Ford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[build-vite]]></title>
+        <id>https://atom.io/packages/build-vite</id>
+        <link href="https://atom.io/packages/build-vite"/>
+        <updated>2021-12-12T01:52:01.000Z</updated>
+        <summary type="html"><![CDATA[build-vite
+
+
+
+
+
+Atom Build provider for vite, the next generation frontend tooling for the Web.
+Installation
+apm
+Install build-vite from Atom's Package Manager or the command-line equivalent:
+$ apm install build-vite
+Using Git
+Change to your Atom packages directory:
+Windows
+# Powershell
+$ cd $Env:USERPROFILE\.atom\packages
+
+
+
+:: Command Prompt
+$ cd %USERPROFILE%\.atom\packages
+
+
+Linux & macOS
+$ cd ~/.atom/packages/
+
+
+Clone repository as build-vite:
+$ git clone https://github.com/idleberg/atom-build-vite build-vite
+
+
+Inside the cloned directory, install Node dependencies:
+$ yarn || npm install
+
+
+You should now be setup to build the package:
+$ yarn build || npm run build
+
+
+
+Usage
+Prerequisites
+Make sure Vite is installed properly and that vite is in your PATH environmental variable.
+Build
+Before you can build, select an active target with your preferred build option.
+Available targets:
+Vite: build
+Vite: optimize
+Vite: preview
+Shortcuts
+Here's a reminder of the default shortcuts you can use with this package:
+Select active target
+Cmd+Alt+T or F7
+Build script
+Cmd+Alt+B or F9
+Jump to error
+Cmd+Alt+G or F4
+Toggle build panel
+Cmd+Alt+V or F8
+License
+This work is licensed under the The MIT License.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
         </author>
     </entry>
     <entry>
@@ -12180,6 +13452,28 @@ Tags: clock, Dries Depoorter, mortality]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[garbagescape]]></title>
+        <id>https://atom.io/packages/garbagescape</id>
+        <link href="https://atom.io/packages/garbagescape"/>
+        <updated>2021-12-08T08:45:09.000Z</updated>
+        <summary type="html"><![CDATA[Garbagescape
+Screenshot coming soon.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[garbagescape-ui]]></title>
+        <id>https://atom.io/packages/garbagescape-ui</id>
+        <link href="https://atom.io/packages/garbagescape-ui"/>
+        <updated>2021-12-08T08:27:59.000Z</updated>
+        <summary type="html"><![CDATA[Garbagescape UI
+Garbagescape UI is a darker but enlighting UI.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Securing the Software Supply Chain with Behavioral Analysis]]></title>
         <id>https://devops.com/?p=148342</id>
         <link href="https://devops.com/securing-the-software-supply-chain-with-behavioral-analysis/"/>
@@ -13591,6 +14885,52 @@ The post 22 Engineering Leaders Weigh in on APIs appeared first on DevOps.com.]]
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[export-project-html]]></title>
+        <id>https://atom.io/packages/export-project-html</id>
+        <link href="https://atom.io/packages/export-project-html"/>
+        <updated>2021-12-04T15:50:27.000Z</updated>
+        <summary type="html"><![CDATA[export-project-html (Atom Package)
+A plugin for the Atom text editor that exports the currently open code project to a static website, in a new folder called WebPublish in the project's root directroy. All code files are exported to html so that when opened in a browser the code is formatted like it would be in Atom, and markdown files are rendered into rich text too.
+export-html package by nubohito (for converting code files to html) and Atom's built-in markdown-preview package for converting markdown files to html, many thanks to the developers of those packages.
+Usage:
+In Atom, press Ctrl+Shift+P and then search for "export-project-html" ("xpro" will do). Then press enter, and your project will be converted to html in a folder called WebPublish.
+
+Issues:
+When using fenced or tabbed codeblocks without a specified language, the plugin crashes. This is a known issue in the markdown-preview package, whose code is used in this package.
+A workaround is to specify a language for the code block:
+For example, in your markdown, don't do:
+    Hello world example:
+    ```
+    import os
+    print("Hello World!")
+    ```
+
+
+Instead:
+    Hello world example:
+    ```python
+    import os
+    print("Hello World!")
+    ```
+
+
+Don't do:
+Hello world example:
+    import os
+    print("Hello World!")
+
+
+Instead:
+Hello world example:
+    ```python
+    import os
+    print("Hello World!")
+    ```]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Finally, A Use for Old Cellphones]]></title>
         <id>https://hackaday.com/?p=510733</id>
         <link href="https://hackaday.com/2021/12/04/finally-a-use-for-old-cellphones/"/>
@@ -13692,6 +15032,26 @@ This wasn’t a bug. This was a feature.
         <summary type="html"><![CDATA[[Grow Your Own Clothes] had finally found their ideal sewing machine for doing zig-zag stitches (/\/\/\) and converting to a treadle drive (mechanically foot-fed) — a Singer 411G. This is …read more]]></summary>
         <author>
             <name>Kristina Panos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[files]]></title>
+        <id>https://atom.io/packages/files</id>
+        <link href="https://atom.io/packages/files"/>
+        <updated>2021-12-03T19:51:40.000Z</updated>
+        <summary type="html"><![CDATA[Atom Files
+View Mediafiles in Tabs
+supported Types:
+Images (.bmp, .gif, .ico, .jpeg, .jpg, .png, .webp)
+Videos (.mp4)
+Audio (.mp3)
+Embed (.pdf, .html)
+Open a file as Preview and a Slideshow of all containing media in the folder will be created.
+Use arrow keys to see the next/previous item, Space to Play/Pause and f/esc to toggle fullscreen
+Image Preview
+MP3 Player]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
         </author>
     </entry>
     <entry>
@@ -14241,6 +15601,17 @@ The post Why Trust and Integrity are Critical to IoT appeared first on DevOps.co
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[clean-canvas]]></title>
+        <id>https://atom.io/packages/clean-canvas</id>
+        <link href="https://atom.io/packages/clean-canvas"/>
+        <updated>2021-12-02T20:09:53.000Z</updated>
+        <summary type="html"><![CDATA[clean-canvas
+Cleans out extraneous HTML that can be inserted when using the Canvas.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Protect Yourself Against SIM Swapping Attacks]]></title>
         <id>5fff3e8b98be260817e495e9</id>
         <link href="https://www.freecodecamp.org/news/protect-yourself-against-sim-swapping-attacks/"/>
@@ -14248,6 +15619,17 @@ The post Why Trust and Integrity are Critical to IoT appeared first on DevOps.co
         <summary type="html"><![CDATA[What is a SIM swap?SIM swapping is when a hacker convinces your cell phone carrier to switch your phone number to a different SIM - one that they own.  This is a relatively normal thing for a retail employee to do, which means that someone asking for a swap]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[reacthelp]]></title>
+        <id>https://atom.io/packages/reacthelp</id>
+        <link href="https://atom.io/packages/reacthelp"/>
+        <updated>2021-12-02T19:57:31.000Z</updated>
+        <summary type="html"><![CDATA[reacthelp package
+A short description of your package.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
         </author>
     </entry>
     <entry>
@@ -15059,6 +16441,41 @@ Is there an experimental API that you’ve been wanting to try out?
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[atom-picgo]]></title>
+        <id>https://atom.io/packages/atom-picgo</id>
+        <link href="https://atom.io/packages/atom-picgo"/>
+        <updated>2021-12-01T15:31:46.000Z</updated>
+        <summary type="html"><![CDATA[atom-picgo
+Atom Plugin for PicGo Uploader
+Provide full path to the config.json file in settings. By default it will look for picgo.json in project directory.
+File name can be anything, as long as the extension is .json.
+When no config is provided, PicGo will default to smms
+Use ctrl + alt + v to paste image link
+View Changelogs here
+PicGo config
+Generate a PicGo config by referring this guide
+Here is a rough English translation from the guide. (I do not know chinese, but I could figure out the parameters. I mostly used Google Translate to understand stuff)
+The config must be in given json format:
+{
+  "picBed": {
+    "uploader": "smms", //select among given different uploaders.
+ 
+    //uploader config
+    "smms": {
+      "token": ""
+    }
+  }
+}
+
+
+
+Uploaders
+Default is smms, even without pro…]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ask Hackaday: Why Don’t Automakers Make Their Own EV Batteries?]]></title>
         <id>https://hackaday.com/?p=509201</id>
         <link href="https://hackaday.com/2021/12/01/ask-hackaday-why-dont-automakers-make-their-own-ev-batteries/"/>
@@ -15181,6 +16598,29 @@ The post Does Your Organization Need a Data Diet? appeared first on DevOps.com.]
 The post Will Automation Fill Gaps Left by the ‘Great Resignation’? appeared first on DevOps.com.]]></summary>
         <author>
             <name>Nathan Eddy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ide-project]]></title>
+        <id>https://atom.io/packages/ide-project</id>
+        <link href="https://atom.io/packages/ide-project"/>
+        <updated>2021-12-01T04:50:37.000Z</updated>
+        <summary type="html"><![CDATA[ide-project package
+This package adds features to improve PHP development in ATOM.
+
+Dependancies
+This package requires the following packages to be installed:
+atom-ide-ui
+Panels
+The project panel gets a section to list Open Files and access to user defined tools written in plain javascript.
+A new Explorer Panel is added to access the source tree (symbols), bookmarks and other features in context of a file.
+The command exw-ide:show-explorer displays the Explorer Panel where symbols, bookmarks and others are displayed.
+Bookmarks
+Toggle bookmarks to parts of your code with CTRL-ALT-8 and press CTRL-8 to cycle thru your bookmarks.
+Use the commands exw-ide:toggle-bookmark, exw-ide:jump-to-next-bookmark when configuring your own Keybindings.
+HINT: Disable Github keybindings to remove keymap conf…]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
         </author>
     </entry>
     <entry>
@@ -16126,6 +17566,33 @@ The post The Next Evolutions of DevOps appeared first on DevOps.com.]]></summary
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[winnie-atom-plugin]]></title>
+        <id>https://atom.io/packages/winnie-atom-plugin</id>
+        <link href="https://atom.io/packages/winnie-atom-plugin"/>
+        <updated>2021-11-28T19:43:26.000Z</updated>
+        <summary type="html"><![CDATA[Winnie GUI Designer for browser
+Winnie is WYSIWYG GUI designer for Kenga widgets.
+Winnie allows you to create, edit and save to clipboard a composition of Kenga widgets.
+It contains widgets palette, visual playground, properties pane and view structure explorer arranged in multisplit layout.
+
+Features
+Some predefined templates.
+Comprehensive palette of widgets.
+Extensible palette.
+Extensible templates.
+Drag & drop from palette to visual playground.
+Snap to grid while visual manipulation with mouse.
+Undo/redo of every action.
+Opening layout composition from .json files with JSON data.
+Adoption of an already created Kenga composition module and editing it.
+Saving results to clipboard as JSON data.
+Generating of Es6 code that creates a layout in runtime without dependencies on Winnie.
+Saving only edited properties if theirs values are not same as default ones.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Teaching Kids Programming – Counting Maximal Value Roots in Binary Tree (Recursive Post-Order Traversal – DFS Algorithm)]]></title>
         <id>https://helloacm.com/?p=147821</id>
         <link href="https://helloacm.com/teaching-kids-programming-counting-maximal-value-roots-in-binary-tree-recursive-post-order-traversal-dfs-algorithm/"/>
@@ -16553,6 +18020,23 @@ The post The Next Evolutions of DevOps appeared first on DevOps.com.]]></summary
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[cursor-position-history]]></title>
+        <id>https://atom.io/packages/cursor-position-history</id>
+        <link href="https://atom.io/packages/cursor-position-history"/>
+        <updated>2021-11-27T09:33:15.000Z</updated>
+        <summary type="html"><![CDATA[cursor-position-history package
+Fork of last-cursor-position.
+Cursor Position History is a package for Atom that keeps a history of past cursor positions and allows to travel Between them.
+The cursor position is recorded only when stop moving.
+Each tab has its own history of cursor positions.
+alt-- to travel to previous cursor position
+alt-_ to undo previous travel
+alt-R will clear all previous cursor positions in the current tab]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PiGlass v2 Embraces the New Raspberry Pi Zero 2]]></title>
         <id>https://hackaday.com/?p=508838</id>
         <link href="https://hackaday.com/2021/11/27/piglass-v2-embraces-the-new-raspberry-pi-zero-2/"/>
@@ -16630,6 +18114,56 @@ The post The Next Evolutions of DevOps appeared first on DevOps.com.]]></summary
         <summary type="html"><![CDATA[The way companies protect their networks is undergoing a seismic shift. SASE is one such way that companies are protecting themselves. Here's why it's important]]></summary>
         <author>
             <name>NordLayer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[paste-cycle]]></title>
+        <id>https://atom.io/packages/paste-cycle</id>
+        <link href="https://atom.io/packages/paste-cycle"/>
+        <updated>2021-11-26T21:31:02.000Z</updated>
+        <summary type="html"><![CDATA[paste-cycle
+Fork of clip-history.
+Paste from clipboard history like emacs' kill-ring
+How to use
+Paste clipboard entry by paste-cycle:paste
+
+Continue paste-cycle:paste until you get entry you want.
+when you get passed the text you wanted to paste, use paste-cycle:paste-newer.
+you can paste last pasted text with paste-cycle:paste-last.
+Commands
+paste-cycle:paste: Paste. Continuous execution without moving cursor pops older entry.
+paste-cycle:paste-newer: Paste. Continuous execution without moving cursor pops newer entry.
+paste-cycle:paste-last: Paste last pasted text.
+paste-cycle:copy-from-clipboard: Copy the text in the clipboard into the paste cycle.
+paste-cycle:clear: Clear the clipboard history in the paste cycle.
+Keymap
+No keymap by default.
+e.g.
+'atom-text-editor:not([mini])':
+  'ctrl-y': 'paste-cycle:paste'
+  'cmd-y': 'paste-cycle:paste-newer'
+  'ctrl-Y': 'paste-cycle:paste-last'
+
+
+
+Modify flash duration
+From v0.3.0, flashDurationMilliSeconds config was removed to use better flashing animation by CSS keyframe. Default
+duration is one second, if you want this shorter, modify your style.less.
+atom-text-editor.editor .paste-cycle-pasted .region {
+  // default is 1s, you can tweak in the range from 0 to 1s(maximum). 
+  animation-duration: 0.5s;
+}
+
+
+
+Features
+Paste old clipboard entry.
+Auto indent on paste (configured by native setting).
+Flash/select pasted area.
+Support multiple cursor.
+Easy undo the entire paste cycle.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
         </author>
     </entry>
     <entry>
@@ -17594,6 +19128,27 @@ The post Digital Transformation Driving VSM Adoption appeared first on DevOps.co
 -- Read more on ScientificAmerican.com]]></summary>
         <author>
             <name>Emily Willingham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[language-actr]]></title>
+        <id>https://atom.io/packages/language-actr</id>
+        <link href="https://atom.io/packages/language-actr"/>
+        <updated>2021-11-24T13:56:15.000Z</updated>
+        <summary type="html"><![CDATA[language-actr package
+A very preliminary version of syntax highlighting for the cognitive modeling language ACT-R.
+Some keywords are recognized (e.g. ISA, chunk-type) and buffer-names are treated like functions.
+Code folding works (thanks to the code already written for 'normal' lisp).
+Files with the extension ".lisp" are recognized and highlighted accordingly.
+I copied the stuff in grammars/actr.cson mostly from a github page on lisp syntax highlighting here:
+https://github.com/enriquefernandez/language-lisp
+Edit the file grammars/actr.cson if you want to add some patterns to be highlighted or change existing ones.
+There is a snippet now, too. Starting to type "production" should open a suggestion on your cursor called production, if you hit enter it will write the structure for a new production.
+You can fill it out using tab to go from place to place to complete.
+Add or change here: snippets/language-actr.cson
+This is how it looks like:]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
         </author>
     </entry>
     <entry>
@@ -18781,6 +20336,17 @@ The post Ensuring Network Connectivity With SD-WAN and AIOps appeared first on D
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[language-wikidot]]></title>
+        <id>https://atom.io/packages/language-wikidot</id>
+        <link href="https://atom.io/packages/language-wikidot"/>
+        <updated>2021-11-21T09:28:47.000Z</updated>
+        <summary type="html"><![CDATA[Wikidot language package
+A short description of your language package.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Relevance of Bitcoin Halving]]></title>
         <id>https://hackernoon.com/the-relevance-of-bitcoin-halving?source=rss</id>
         <link href="https://hackernoon.com/the-relevance-of-bitcoin-halving?source=rss"/>
@@ -18838,6 +20404,31 @@ The post Ensuring Network Connectivity With SD-WAN and AIOps appeared first on D
         <summary type="html"><![CDATA[These days, pedometers are integrated into just about every smartwatch on the market, and some of the dumber ones too. Tracking step counts has become a global pastime, and at …read more]]></summary>
         <author>
             <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mechanicus-syntax]]></title>
+        <id>https://atom.io/packages/mechanicus-syntax</id>
+        <link href="https://atom.io/packages/mechanicus-syntax"/>
+        <updated>2021-11-20T22:07:22.000Z</updated>
+        <summary type="html"><![CDATA[Mechanicus Syntax Theme
+Initially a blend between Monokai and One Dark, Mechanicus is a camouflage looking color scheme with slightly higher contrast.
+The theme works as intended for the following languages: PHP, JavaScript, HTML, CSS and Python (as of 4.1.0)
+HTML
+
+CSS
+
+JavaScript
+
+
+PHP
+
+Python
+
+Roadmap
+Since I primarily built this theme for myself, the last language I would like to properly colour is C/C++. With the theme as it is, the support is nearly ready, but it is not yet consistent with the other languages. If I decide to move to a new language, I might add consistent colouring for it as well.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
         </author>
     </entry>
     <entry>
@@ -19902,6 +21493,23 @@ The post What Hot Dogs Can Teach Us About Number Theory first appeared on Quanta
         <summary type="html"><![CDATA[The partnership allows Shopify stores to directly link to Google ads, simplifying merging product inventory and payment options between Shopify and Google.]]></summary>
         <author>
             <name>Luke Fitzpatrick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zeus-syntax]]></title>
+        <id>https://atom.io/packages/zeus-syntax</id>
+        <link href="https://atom.io/packages/zeus-syntax"/>
+        <updated>2021-11-18T14:45:54.000Z</updated>
+        <summary type="html"><![CDATA[zeus-syntax theme
+The perfect syntax theme for esoteric codenights!
+Features
+Almost everything is in the so-called Zeus orange (#ff7f00).
+The background for selected text is darker than the rest.
+Syntax highlighting uses different fonts, no colors: Comic Mono (monospaced Comic Sans), Fira Mono, Go Mono, Major Mono, Xanh Mono Italic.
+Comments use the widely known Wingdings.
+Why would you want anything else?]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
         </author>
     </entry>
     <entry>
@@ -21159,6 +22767,19 @@ The post Building on Terraform: Evolution, not Revolution appeared first on DevO
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[warm-darker-syntax]]></title>
+        <id>https://atom.io/packages/warm-darker-syntax</id>
+        <link href="https://atom.io/packages/warm-darker-syntax"/>
+        <updated>2021-11-16T07:29:30.000Z</updated>
+        <summary type="html"><![CDATA[Warm Darker Syntax Theme
+A warm dark syntax theme based on Warm Dark Syntax featuring darker background
+colors and modified syntax colors. Designed to work with One Dark UI.
+Warm Darker Syntax screenshot]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why Studying Google DevOps and Blockchain Tech Will Prepare You for the Future]]></title>
         <id>https://hackernoon.com/why-studying-google-devops-and-blockchain-tech-will-prepare-you-for-the-future?source=rss</id>
         <link href="https://hackernoon.com/why-studying-google-devops-and-blockchain-tech-will-prepare-you-for-the-future?source=rss"/>
@@ -21187,6 +22808,21 @@ The post Building on Terraform: Evolution, not Revolution appeared first on DevO
 The post Color Alpha Anywhere appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[language-applesoft]]></title>
+        <id>https://atom.io/packages/language-applesoft</id>
+        <link href="https://atom.io/packages/language-applesoft"/>
+        <updated>2021-11-16T00:29:09.000Z</updated>
+        <summary type="html"><![CDATA[atom-language-applesoft
+Syntax recognition for Applesoft BASIC in the Atom editor.
+Emulates behaviors of the Apple II ROM.
+To install from within Atom press Ctrl-, or Cmd-,, select Install, and enter applesoft in the search box.
+
+If you are interested in parsing Applesoft BASIC see tree-sitter-applesoft.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
         </author>
     </entry>
     <entry>
@@ -21555,6 +23191,22 @@ The post Era Software Adds SaaS Edition of Log Management Platform appeared firs
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[base16-tomorrow-dark-warm]]></title>
+        <id>https://atom.io/packages/base16-tomorrow-dark-warm</id>
+        <link href="https://atom.io/packages/base16-tomorrow-dark-warm"/>
+        <updated>2021-11-15T09:23:01.000Z</updated>
+        <summary type="html"><![CDATA[Base16 Tomorrow Dark Warm Syntax Theme
+Modification of the Atom Base16 Tomorrow Dark syntax theme.
+Modifications include warmer but mostly very dark background colors for the
+editor and UI, and a few other small UI changes.
+This theme was designed to work with the One Dark UI theme, which is needed to
+get the UI background colors, and which is the UI theme used in the screenshot.
+Base16 Tomorrow Dark Warm screenshot]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[‘I’m Concerned About People Who Blame Technology for Their Problems’: Davit Ayvazyan]]></title>
         <id>https://hackernoon.com/im-concerned-about-people-who-blame-technology-for-their-problems-davit-ayvazyan?source=rss</id>
         <link href="https://hackernoon.com/im-concerned-about-people-who-blame-technology-for-their-problems-davit-ayvazyan?source=rss"/>
@@ -21655,6 +23307,35 @@ The post Enabling Developers with Infrastructure Automation appeared first on De
         <summary type="html"><![CDATA[We have picked out the best ethernet switches for gaming in 2021. Check out our picks!]]></summary>
         <author>
             <name>Nerd Reviews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sweet-synthwave-syntax]]></title>
+        <id>https://atom.io/packages/sweet-synthwave-syntax</id>
+        <link href="https://atom.io/packages/sweet-synthwave-syntax"/>
+        <updated>2021-11-15T05:17:24.000Z</updated>
+        <summary type="html"><![CDATA[Sweet Synthwave syntax theme for Atom
+
+
+Sweet Synthwave is a Syntax theme based on Outrun color scheme for sublime text and Pink Pansy syntax theme for Atom.
+
+How to install
+
+
+Install using Atom Package Manager
+apm install sweet-synthwave-syntax
+
+Install using Git
+You can install the theme and keep up to date by cloning the repo directly into your ~/.atom/packages directory.
+git clone https://github.com/stephkeys/sweet-synthwave-syntax.git ~/.atom/packages/sweet-synthwave-syntax
+
+Install manually
+Download using the GitHub .zip download option and unzip them
+Move the sweet-synthwave-syntax folder to  ~/.atom/packages
+Activating theme
+Go to Atom -> Preferences, click in the Themes tab, and select Sweet Synthwave in the Syntax Theme dropdown.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
         </author>
     </entry>
     <entry>
@@ -22131,6 +23812,19 @@ The post Teaching Kids Programming – Silver Ratio and Pell Numbers (Metal Quad
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[dark-sublime-syntax]]></title>
+        <id>https://atom.io/packages/dark-sublime-syntax</id>
+        <link href="https://atom.io/packages/dark-sublime-syntax"/>
+        <updated>2021-11-13T20:05:41.000Z</updated>
+        <summary type="html"><![CDATA[Dark Sublime Syntax Theme for Atom
+An unholy mashup of rubjo's Ultimate Dark Neo and odahcam's Atom Sublime Monokai Syntax with additional inspiration from sarunasdjacenko's Monokai Sublime and a little bit of markdown support thrown in for good measure.
+I tried about ten million different themes, and tried to figure out what it was I liked about each of them. And this was the result. It's a dark theme, but with less contrast so it's slightly easier on the eyes. Well, on my eyes at least.
+Best used with Victor Mono.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A One-Servo Mechanical Seven-Segment Display]]></title>
         <id>https://hackaday.com/?p=505550</id>
         <link href="https://hackaday.com/2021/11/13/a-one-servo-mechanical-seven-segment-display/"/>
@@ -22555,6 +24249,19 @@ Tags: New York Times, optimization, privacy, retail, shopping]]></summary>
 -- Read more on ScientificAmerican.com]]></summary>
         <author>
             <name>Christopher Intagliata</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mela]]></title>
+        <id>https://atom.io/packages/mela</id>
+        <link href="https://atom.io/packages/mela"/>
+        <updated>2021-11-12T15:29:05.000Z</updated>
+        <summary type="html"><![CDATA[MeLa package
+Package for MeLa language support in Atom.
+The package can be activated with the keyboard shorcut ctrl-alt-m or through the menu Packages -> MeLa -> toogle.
+For a short description of what is MeLa, the installation guide on Atom, and tutorials to learn MeLa, go to this git repository: mela-tutorial]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
         </author>
     </entry>
     <entry>
@@ -23499,6 +25206,43 @@ The post Dynatrace Adds Security Gates to Advance DevSecOps Adoption appeared fi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[grammar-check]]></title>
+        <id>https://atom.io/packages/grammar-check</id>
+        <link href="https://atom.io/packages/grammar-check"/>
+        <updated>2021-11-10T22:39:10.000Z</updated>
+        <summary type="html"><![CDATA[atom-grammar-check
+This atom plugin highlights the syntax and spell mistakes in your editor.
+
+Features:
+Highlight mistakes
+Suggest replacing text
+Highlight only text in specific scopes (see here)
+By default,  highlight correctly latex files and comments in other languages
+LaTeX
+It's advised to separate different blocks (paragraph, section, ...) with new lines to reduce the number of mistakes not
+highlighted.
+Correcter modules
+There is 2 modules implemented:
+ginger that work online (using gingerbread library)
+languagetool that can work online and offline and support more than 20 languages. Due to the big amount of
+requests, it's recommended to have a local server.
+Languagetool support
+If you use a local languagetool server (see here to install your own),
+you can give in option a command line that will be executed when the package is activated to try to start the server.
+You can add in package option Language Tool Stop Server Command a command that shut down the server when the package is disabled.
+Scopes
+In the parameters, there are 2 fields (Excluded Scopes and Included Scopes)for the scopes' management. Both are list
+of atom scopes and will be use as regex. To be highlighted, a text must be matched by at least one regex in the
+Included Scopes list and none of the Excluded Scopes list.
+By default, the package is configured to highlight correctly latex files and comments in other languages.
+ToDO:
+Optimization?
+On/Off toggle]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Don’t Snore on CORS]]></title>
         <id>https://css-tricks.com/?p=356058</id>
         <link href="https://css-tricks.com/dont-snore-on-cors/"/>
@@ -24062,6 +25806,76 @@ The post Neo4j Will Use Funds to Expand Managed Cloud Database appeared first on
 -- Read more on ScientificAmerican.com]]></summary>
         <author>
             <name>Gladson Dungdung, Malvika Gupta, Felix Padel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[docks-toggler]]></title>
+        <id>https://atom.io/packages/docks-toggler</id>
+        <link href="https://atom.io/packages/docks-toggler"/>
+        <updated>2021-11-09T15:58:10.000Z</updated>
+        <summary type="html"><![CDATA[Docks toggler package for Atom
+
+
+
+
+
+
+
+Open and close your left, right and bottom docks in Atom only with shortcuts.
+Table of contents
+Package description
+Table of contents
+Installation
+
+From the Atom menu
+From the Atom website
+From the command line
+Usage
+
+Default shortcuts
+Customized shortcuts
+Author
+Installation
+From the Atom website
+Go to docks-toggler
+Click Install
+From the Atom menu
+Open Settings → Install and search for docks-toggler.
+From the command line
+apm install docks-toggler
+
+Usage
+Default shortcuts
+Dock on the Left : CTRL + ALT + ⇦
+Dock on the Right : CTRL + ALT + ⇨
+Dock on the Bottom : CTRL + ALT + ⇩
+
+Customized shortcuts
+Customize with the shortcuts of your choice :
+Shortcuts file : keymaps/docks-toggler.json
+{
+  "atom-workspace": {
+    "ctrl-alt-right": "docks-toggler:right",
+    "ctrl-alt-left": "docks-toggler:left",
+    "ctrl-alt-down": "docks-toggler:bottom"
+  }
+}
+
+
+
+Author
+Website : samuel-thibault.fr
+
+
+Contact : contact@samuel-thibault.fr
+
+
+GitHub : github.com/samthib
+
+
+Linkedin : linkedin.com/in/samuel-thibault-1528481b1/]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
         </author>
     </entry>
     <entry>
@@ -24960,6 +26774,17 @@ The post Array.prototype.at appeared first on David Walsh Blog.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[batlime-syntax]]></title>
+        <id>https://atom.io/packages/batlime-syntax</id>
+        <link href="https://atom.io/packages/batlime-syntax"/>
+        <updated>2021-11-07T20:45:07.000Z</updated>
+        <summary type="html"><![CDATA[batlime-syntax theme
+A short description of your theme.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DIY Wunderwaffe and Others Make Up This Open-Source Arsenal]]></title>
         <id>https://hackaday.com/?p=500615</id>
         <link href="https://hackaday.com/2021/11/07/diy-wunderwaffe-and-others-make-up-this-open-source-arsenal/"/>
@@ -25555,6 +27380,17 @@ The post Yes, Design Systems Do Improve Developer Efficiency and Design Consiste
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[panda-dark]]></title>
+        <id>https://atom.io/packages/panda-dark</id>
+        <link href="https://atom.io/packages/panda-dark"/>
+        <updated>2021-11-05T16:26:50.000Z</updated>
+        <summary type="html"><![CDATA[panda-dark theme
+Panda Dark is a comfortable theme for use with Atom.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Oxeye Platform Helps Fix Code Vulnerabilities]]></title>
         <id>https://devops.com/?p=147075</id>
         <link href="https://devops.com/oxeye-platform-helps-fix-code-vulnerabilities/"/>
@@ -25682,6 +27518,28 @@ The post enterkeyhint appeared first on CSS-Tricks. You can support CSS-Tricks b
         <summary type="html"><![CDATA[Technologies are advancing and the Fourth Industrial Revolution, also known as Industry 4.0, is upon us.]]></summary>
         <author>
             <name>Lansa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[heptagon]]></title>
+        <id>https://atom.io/packages/heptagon</id>
+        <link href="https://atom.io/packages/heptagon"/>
+        <updated>2021-11-05T11:05:46.000Z</updated>
+        <summary type="html"><![CDATA[heptagon package
+A short description of your package.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[language-hept]]></title>
+        <id>https://atom.io/packages/language-hept</id>
+        <link href="https://atom.io/packages/language-hept"/>
+        <updated>2021-11-05T11:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Hept language package
+A short description of your language package.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
         </author>
     </entry>
     <entry>
@@ -32369,18 +34227,6 @@ The post Welcome to the New Field of Software Supply Chain Management appeared f
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[v1.11.3]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3"/>
-        <updated>2021-10-16T00:01:47.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: broken links in documentation
-Chore: Dependency updates
-Thank you: @hirdot]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OAK-D Depth Sensing AI Camera Gets Smaller and Lighter]]></title>
         <id>https://hackaday.com/?p=500031</id>
         <link href="https://hackaday.com/2021/10/15/oak-d-depth-sensing-ai-camera-gets-smaller-and-lighter/"/>
@@ -34678,6 +36524,1159 @@ The post Terminate Process on a Port from Command Line appeared first on David W
         <summary type="html"><![CDATA[The best Slack bot tutorial for Node.js on the internet.]]></summary>
         <author>
             <name>Tom Quirk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS accent-color]]></title>
+        <id>https://davidwalsh.name/?p=27475</id>
+        <link href="https://davidwalsh.name/css-accent-color"/>
+        <updated>2021-10-04T08:08:36.000Z</updated>
+        <summary type="html"><![CDATA[For better or worse, form fields have been somewhat difficult to style with CSS. Form control display is dependent upon device, operating system, and browser, so you can imagine the difficulty in making styling easy. We have slowly been given some controls over form control display, as evidenced by accent-color! The accent-color CSS property allows […]
+The post CSS accent-color appeared first on David Walsh Blog.]]></summary>
+        <author>
+            <name>David Walsh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a UUID in JavaScript]]></title>
+        <id>https://davidwalsh.name/?p=27474</id>
+        <link href="https://davidwalsh.name/javascript-uuid"/>
+        <updated>2021-09-30T01:47:39.000Z</updated>
+        <summary type="html"><![CDATA[The UUID identifier has been used in programming since the days a baby-faced David Walsh became a professional software engineer. My first exposure to UUIDs was via a ColdFusion app I inherited and … the less we say about that the better. In any event, I was recently surprised to see that JavaScript has the […]
+The post How to Create a UUID in JavaScript appeared first on David Walsh Blog.]]></summary>
+        <author>
+            <name>David Walsh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Luau Recap: September 2021]]></title>
+        <id>https://luau-lang.org/2021/09/30/luau-recap-september-2021.html</id>
+        <link href="https://luau-lang.org/2021/09/30/luau-recap-september-2021.html"/>
+        <updated>2021-09-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Luau is our new language that you can read more about at https://luau-lang.org.]]></summary>
+        <author>
+            <name>Luau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Content Model Is Not a Design System]]></title>
+        <id>https://alistapart.com/article/a-content-model-is-not-a-design-system/</id>
+        <link href="https://alistapart.com/article/a-content-model-is-not-a-design-system/"/>
+        <updated>2021-09-23T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you remember when having a great website was enough? Now, people are getting answers from Siri, Google search snippets, and mobile apps, not just our websites. Forward-thinking organizations have adopted an omnichannel content strategy, whose mission is to reach audiences across multiple digital channels and platforms.
+But how do you set up a content management system (CMS) to reach your audience now and in the future? I learned the hard way that creating a content model—a definition of content types, attributes, and relationships that let people and systems understand content—with my more familiar design-system thinking would capsize my customer’s omnichannel content strategy. You can avoid that outcome by creating content models that are semantic and that also connect related content.…]]></summary>
+        <author>
+            <name>by</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AggregateError]]></title>
+        <id>https://davidwalsh.name/?p=27469</id>
+        <link href="https://davidwalsh.name/aggregateerror"/>
+        <updated>2021-09-17T15:12:17.000Z</updated>
+        <summary type="html"><![CDATA[One of the big themes of the web these days is concurrency, which leads to accomplishing tasks asynchronously. In doing so, the possibility of multiple errors can occur. Instead of providing a generic error, optimally you’d provide a wealth of error information. TheAggregateError error lets developers throw multiple errors within one single Error. Let’s see […]
+The post AggregateError appeared first on David Walsh Blog.]]></summary>
+        <author>
+            <name>David Walsh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time management for makers]]></title>
+        <id>https://github.com/readme/guides/time-management-software-engineers</id>
+        <link href="https://github.com/readme/guides/time-management-software-engineers"/>
+        <updated>2021-09-13T03:47:00.000Z</updated>
+        <summary type="html"><![CDATA[As makers, software engineers should adopt these 7 essential habits.]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get your first software developer job]]></title>
+        <id>https://github.com/readme/guides/first-job-in-tech</id>
+        <link href="https://github.com/readme/guides/first-job-in-tech"/>
+        <updated>2021-09-13T03:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Savvy tips, tricks, and advice for how to get your first job in tech.]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From hacking prepaid phones to maintaining WebAssembly]]></title>
+        <id>https://github.com/readme/stories/aaron-turner</id>
+        <link href="https://github.com/readme/stories/aaron-turner"/>
+        <updated>2021-09-13T03:31:00.000Z</updated>
+        <summary type="html"><![CDATA[From rationing megabyte data to working at Fastly, Aaron @torch2424 Turner carved out his path by coding—and is now making technology more available to those with limited access. See how his journey unfolded on The ReadME Project:]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How open source software powers modern filmmaking]]></title>
+        <id>https://github.com/readme/featured/open-source-filmmaking</id>
+        <link href="https://github.com/readme/featured/open-source-filmmaking"/>
+        <updated>2021-09-13T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From editing to animation, open source is part of how movies get made.]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asking tough questions to make room for valuable projects]]></title>
+        <id>https://github.com/readme/stories/tracy-hinds</id>
+        <link href="https://github.com/readme/stories/tracy-hinds"/>
+        <updated>2021-09-13T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unafraid of healthy conflict, Tracy @HackyGoLucky Hinds excels at translating the value of open source to those who might not understand it… yet. Get her full story on The ReadME Project:]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thinking on ways to solve ​​SPLIT BUTTONS]]></title>
+        <id>https://web.dev/shows/gui-challenges/Qcpru-fIgwk/</id>
+        <link href="https://web.dev/shows/gui-challenges/Qcpru-fIgwk/"/>
+        <updated>2021-09-08T17:28:14.000Z</updated>
+        <summary type="html"><![CDATA[In today's GUI challenge I share my thinking on a way to solve split buttons. A staple component for condensed interfaces, it allows a single button to feature secondary actions. Lots of great tips about theming, shadows, color, layouts, interaction UX, and more.
+Chapters:
+0:00 - Introduction
+0:24 - Overview
+1:40 - Light & Dark
+3:37 - Shadows
+5:45 - SVG Tips
+7:12 - States
+10:20 - Keyboard UX
+11:41 - Reduced Motion UX
+13:20 - Screen Reader UX
+14:13 - Right-to-left UX
+15:58 - Flexbox Layouts
+18:51 - JavaScript
+21:22 - Outro
+
+
+
+
+
+
+
+Resources:
+Read along → 
+Try a demo → 
+Get the source → 
+
+https://goo.gle/3BNn23ohttps://goo.gle/3l92efUhttps://goo.gle/3n4Sfcg
+Watch more GUI Challenges → 
+Subscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://goo.gl/LLLNvf
+
+#GUIchallenges #CSS #ChromeDeveloper]]></summary>
+        <author>
+            <name>GUI Challenges on web.dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Luau Recap: August 2021]]></title>
+        <id>https://luau-lang.org/2021/08/31/luau-recap-august-2021.html</id>
+        <link href="https://luau-lang.org/2021/08/31/luau-recap-august-2021.html"/>
+        <updated>2021-08-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Luau is our new language that you can read more about at https://luau-lang.org.]]></summary>
+        <author>
+            <name>Luau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jq for JSON]]></title>
+        <id>https://davidwalsh.name/?p=27462</id>
+        <link href="https://davidwalsh.name/jq"/>
+        <updated>2021-08-27T16:29:41.000Z</updated>
+        <summary type="html"><![CDATA[I old enough to remember when we thought XML was going to change the programming world…then JSON saved us from that hell. Parsing and querying JSON data is fundamental task we’ve all coded for, but sometimes I just want to get some data locally with minimal fuss. I just learned of a really awesome library […]
+The post jq for JSON appeared first on David Walsh Blog.]]></summary>
+        <author>
+            <name>David Walsh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design for Safety, An Excerpt]]></title>
+        <id>https://alistapart.com/article/design-for-safety-excerpt/</id>
+        <link href="https://alistapart.com/article/design-for-safety-excerpt/"/>
+        <updated>2021-08-26T15:01:43.000Z</updated>
+        <summary type="html"><![CDATA[Antiracist economist Kim Crayton says that “intention without strategy is chaos.” We’ve discussed how our biases, assumptions, and inattention toward marginalized and vulnerable groups lead to dangerous and unethical tech—but what, specifically, do we need to do to fix it? The intention to make our tech safer is not enough; we need a strategy.
+This chapter will equip you with that plan of action. It covers how to integrate safety principles into your design work in order to create tech that’s safe, how to convince your stakeholders that this work is necessary, and how to respond to the critique that what we actually need is more diversity. (Spoiler: we do, but diversity alone is not the antidote to fixing unethical, unsafe tech.)
+The process for inclusive safety
+When you are designing for …]]></summary>
+        <author>
+            <name>by</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React usePrevious Hook]]></title>
+        <id>https://davidwalsh.name/?p=27459</id>
+        <link href="https://davidwalsh.name/react-useprevious-hook"/>
+        <updated>2021-08-23T14:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Hooks are essential for the functional component pattern in React. One frequent logic comparison with class components was comparing a previous prop value with a current prop value via lifecycle methods. So what’s an easy pattern for duplicating previous value comparisons in functional components? The useRef and useEffect hooks allow us manage that same functionality […]
+The post React usePrevious Hook appeared first on David Walsh Blog.]]></summary>
+        <author>
+            <name>David Walsh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thinking on ways to solve SWITCHES]]></title>
+        <id>https://web.dev/shows/gui-challenges/_KqccADghcA/</id>
+        <link href="https://web.dev/shows/gui-challenges/_KqccADghcA/"/>
+        <updated>2021-08-11T17:00:04.000Z</updated>
+        <summary type="html"><![CDATA[In today's GUI challenge I share my thinking on a way to solve a switch. A tiny, UX packed component that ended up being one of the most involved challenges so far. Tons of great layouts, accessibility, animations and interactions to share, which means tons of places for you to have a style preference 😉
+Chapters:
+0:00 - Introduction
+1:15 - States
+2:05 - Interactions
+2:45 - Screen reader
+3:14 - Touch
+4:10 - Hover
+5:07 - RTL
+5:56 - CSS/JS not required
+7:00 - Vertical variant
+9:14 - Flexbox
+10:39 - Grid
+12:10 - Overrides
+15:38 - Javascript
+18:15 - Outro
+
+
+
+
+
+
+
+Resources:
+Read along → 
+Try a demo → 
+Get the source → 
+
+https://goo.gle/3xBYGHyhttps://goo.gle/2VJLVO0https://goo.gle/3n4Sfcg
+Watch more GUI Challenges → 
+Subscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://goo.gl/LLLNvf
+
+#GUIchallenges #CSS #ChromeDeveloper]]></summary>
+        <author>
+            <name>GUI Challenges on web.dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Set a Default Node Version with nvm]]></title>
+        <id>https://davidwalsh.name/?p=27454</id>
+        <link href="https://davidwalsh.name/nvm-default-node"/>
+        <updated>2021-08-09T16:19:11.000Z</updated>
+        <summary type="html"><![CDATA[As I’ve shown you in the past, nvm an excellent utility for switching between Node.js versions. Whether your host machine or CI, building and testing your apps on different Node versions is a necessity. I’ve recently found a few nvm commands that I found really useful during local development. To set a default node version […]
+The post Set a Default Node Version with nvm appeared first on David Walsh Blog.]]></summary>
+        <author>
+            <name>David Walsh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sustainable Web Design, An Excerpt]]></title>
+        <id>https://alistapart.com/article/sustainable-web-design-excerpt/</id>
+        <link href="https://alistapart.com/article/sustainable-web-design-excerpt/"/>
+        <updated>2021-08-05T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the 1950s, many in the elite running community had begun to believe it wasn’t possible to run a mile in less than four minutes. Runners had been attempting it since the late 19th century and were beginning to draw the conclusion that the human body simply wasn’t built for the task. 
+But on May 6, 1956, Roger Bannister took everyone by surprise. It was a cold, wet day in Oxford, England—conditions no one expected to lend themselves to record-setting—and yet Bannister did just that, running a mile in 3:59.4 and becoming the first person in the record books to run a mile in under four minutes. 
+This shift in the benchmark had profound effects; the world now knew that the four-minute mile was possible. Bannister’s record lasted only forty-six days, when it was snatched away by Australian ru…]]></summary>
+        <author>
+            <name>by</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching in public with GitHub]]></title>
+        <id>https://github.com/readme/guides/teaching-with-github</id>
+        <link href="https://github.com/readme/guides/teaching-with-github"/>
+        <updated>2021-08-05T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For @JeromeHardaway, teaching in public on GitHub minimizes the point of entry for giving back, reinforces what you know, and improves your communication skills.]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glia uses open source and 3D printing to enable universal access to medical equipment]]></title>
+        <id>https://github.com/readme/featured/open-source-medical-equipment</id>
+        <link href="https://github.com/readme/featured/open-source-medical-equipment"/>
+        <updated>2021-08-04T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From conflict zones to COVID-19 shortages, Glia is bringing medical equipment to those who need it most.]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[onInput Event]]></title>
+        <id>https://davidwalsh.name/?p=27453</id>
+        <link href="https://davidwalsh.name/oninput-event"/>
+        <updated>2021-08-03T02:03:11.000Z</updated>
+        <summary type="html"><![CDATA[Coding HTML forms has been painful my entire career. Form controls look different between operating systems and browsers, coding client side and server side validation is a nightmare, and inevitably you forget something somewhere along the line. Some behaviors don’t act the way you’d hope, like onChange, which only fires when the user leaves (blurs) […]
+The post onInput Event appeared first on David Walsh Blog.]]></summary>
+        <author>
+            <name>David Walsh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Luau Recap: July 2021]]></title>
+        <id>https://luau-lang.org/2021/07/30/luau-recap-july-2021.html</id>
+        <link href="https://luau-lang.org/2021/07/30/luau-recap-july-2021.html"/>
+        <updated>2021-07-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Luau is our new language that you can read more about at https://luau-lang.org. Our team was still busy working on upcoming Studio Beta feature for script editor, but we did fit in multiple typechecking improvements.]]></summary>
+        <author>
+            <name>Luau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Voice Content and Usability]]></title>
+        <id>https://alistapart.com/article/voice-content-and-usability/</id>
+        <link href="https://alistapart.com/article/voice-content-and-usability/"/>
+        <updated>2021-07-29T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’ve been having conversations for thousands of years. Whether to convey information, conduct transactions, or simply to check in on one another, people have yammered away, chattering and gesticulating, through spoken conversation for countless generations. Only in the last few millennia have we begun to commit our conversations to writing, and only in the last few decades have we begun to outsource them to the computer, a machine that shows much more affinity for written correspondence than for the slangy vagaries of spoken language.
+Computers have trouble because between spoken and written language, speech is more primordial. To have successful conversations with us, machines must grapple with the messiness of human speech: the disfluencies and pauses, the gestures and body language, an…]]></summary>
+        <author>
+            <name>by</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How open source maintainers keep contributors—and themselves—happy]]></title>
+        <id>https://github.com/readme/featured/contributor-relations</id>
+        <link href="https://github.com/readme/featured/contributor-relations"/>
+        <updated>2021-07-22T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Get up to speed on one of the hottest topics in open source: contributor relations.]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dark Mode in One Line of Code!]]></title>
+        <id>https://davidwalsh.name/?p=27448</id>
+        <link href="https://davidwalsh.name/dark-mode-invert-filter"/>
+        <updated>2021-07-19T12:41:40.000Z</updated>
+        <summary type="html"><![CDATA[Dark mode has seemingly become the desired visual mode for websites and mobile apps alike. Dark mode is easier on the eyes, especially for those like me who like to burn the midnight oil by coding and reading tutorials. Unfortunately not all websites offer dark mode, so it’s up to me to remedy the situation. […]
+The post Dark Mode in One Line of Code! appeared first on David Walsh Blog.]]></summary>
+        <author>
+            <name>David Walsh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing for the Unexpected]]></title>
+        <id>https://alistapart.com/article/designing-for-the-unexpected/</id>
+        <link href="https://alistapart.com/article/designing-for-the-unexpected/"/>
+        <updated>2021-07-15T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I’m not sure when I first heard this quote, but it’s something that has stayed with me over the years. How do you create services for situations you can’t imagine? Or design products that work on devices yet to be invented?
+Flash, Photoshop, and responsive design
+When I first started designing websites, my go-to software was Photoshop. I created a 960px canvas and set about creating a layout that I would later drop content in. The development phase was about attaining pixel-perfect accuracy using fixed widths, fixed heights, and absolute positioning.
+Ethan Marcotte’s talk at An Event Apart and subsequent article “Responsive Web Design” in A List Apart in 2010 changed all this. I was sold on responsive design as soon as I heard about it, but I was also terrified. The pixel-perfect designs f…]]></summary>
+        <author>
+            <name>by</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leading the community of Adafruit]]></title>
+        <id>https://github.com/readme/stories/limor-fried</id>
+        <link href="https://github.com/readme/stories/limor-fried"/>
+        <updated>2021-07-14T12:45:00.000Z</updated>
+        <summary type="html"><![CDATA[From her MIT dorm room to an open source hardware factory, @ladyada makes it as easy as possible for anyone to quickly bring their ideas to life.]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thinking on ways to solve BREADCRUMBS]]></title>
+        <id>https://web.dev/shows/gui-challenges/kHL3gxAlvK8/</id>
+        <link href="https://web.dev/shows/gui-challenges/kHL3gxAlvK8/"/>
+        <updated>2021-07-14T02:45:40.000Z</updated>
+        <summary type="html"><![CDATA[In today's GUI challenge, we're building a breadcrumbs component.. with a twist! Instead of a linear list of links, this breadcrumbs component exposes all of it's siblings in a dropdown, allowing fast traversal of your site's architecture.
+Chapters:
+0:00 - Introduction
+0:23 - Demo
+1:56 - Layouts
+4:13 - Debugging corner
+5:25 - Mobile UX
+6:17 - Reduced motion
+7:34 - JavaScript
+10:38 - Outro
+
+
+
+
+Resources:
+Read along → 
+Try a demo → 
+Get the source → 
+
+https://goo.gle/2TbySnqhttps://goo.gle/3ktEAwjhttps://goo.gle/3n4Sfcg
+Watch more GUI Challenges → 
+Subscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://goo.gl/LLLNvf
+
+#GUIchallenges #CSS #ChromeDeveloper]]></summary>
+        <author>
+            <name>GUI Challenges on web.dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A dev’s guide to open source software licensing]]></title>
+        <id>https://github.com/readme/guides/open-source-licensing</id>
+        <link href="https://github.com/readme/guides/open-source-licensing"/>
+        <updated>2021-07-13T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Confused about OSS licenses? Gina Haussge (@foosel) explains what you need to know.]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fix Seeing “0” in Your JSX Code]]></title>
+        <id>https://davidwalsh.name/?p=27444</id>
+        <link href="https://davidwalsh.name/fix-your-jsx"/>
+        <updated>2021-07-09T02:18:28.000Z</updated>
+        <summary type="html"><![CDATA[The early days of the web felt like the wild west when it came to coding practices — just make it work. Then we became enlightened to better practices, separating HTML from CSS and JavaScript. Then came React and JSX, where we combine JavaScript, HTML, and even CSS with Styled Components — what an elegant […]
+The post Fix Seeing “0” in Your JSX Code appeared first on David Walsh Blog.]]></summary>
+        <author>
+            <name>David Walsh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asynchronous Design Critique: Getting Feedback]]></title>
+        <id>https://alistapart.com/article/asynchronous-design-critique-giving-feedback-part2/</id>
+        <link href="https://alistapart.com/article/asynchronous-design-critique-giving-feedback-part2/"/>
+        <updated>2021-07-01T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“Any comment?” is probably one of the worst ways to ask for feedback. It’s vague and open ended, and it doesn’t provide any indication of what we’re looking for. Getting good feedback starts earlier than we might expect: it starts with the request. 
+It might seem counterintuitive to start the process of receiving feedback with a question, but that makes sense if we realize that getting feedback can be thought of as a form of design research. In the same way that we wouldn’t do any research without the right questions to get the insights that we need, the best way to ask for feedback is also to craft sharp questions.
+Design critique is not a one-shot process. Sure, any good feedback workflow continues until the project is finished, but this is particularly true for design because design wor…]]></summary>
+        <author>
+            <name>by</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to write an internal production failure incident communication]]></title>
+        <id>https://github.com/readme/guides/incident-email</id>
+        <link href="https://github.com/readme/guides/incident-email"/>
+        <updated>2021-06-30T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Systems go down. Learn from @kevinriggle how to clearly communicate when failures occur so teams can fix problems quickly.]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Luau Recap: June 2021]]></title>
+        <id>https://luau-lang.org/2021/06/30/luau-recap-june-2021.html</id>
+        <link href="https://luau-lang.org/2021/06/30/luau-recap-june-2021.html"/>
+        <updated>2021-06-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Luau is our new language that you can read more about at https://roblox.github.io/luau. Most of our team was busy working on improving Luau interaction with Roblox Studio for an upcoming feature this month, but we were able to add typechecking and performance improvements as well!]]></summary>
+        <author>
+            <name>Luau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Upload a File via SSH and Command Line]]></title>
+        <id>https://davidwalsh.name/?p=27440</id>
+        <link href="https://davidwalsh.name/upload-ssh"/>
+        <updated>2021-06-28T11:18:44.000Z</updated>
+        <summary type="html"><![CDATA[My preference for daily work is usually GUI applications, like Visual Studio Code for text editing and Cyberduck for remote file server management. I’m also a huge fan of automation, so I do try to learn the command line equivalents of UI functions. My latest desire was wanting to know how to upload a file […]
+The post How to Upload a File via SSH and Command Line appeared first on David Walsh Blog.]]></summary>
+        <author>
+            <name>David Walsh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demystifying Developer Advocacy]]></title>
+        <id>https://github.com/readme/guides/angie-jones-demystifying-developer-advocacy</id>
+        <link href="https://github.com/readme/guides/angie-jones-demystifying-developer-advocacy"/>
+        <updated>2021-06-22T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Confused about developer advocacy? Or interested in stepping into the role? Expert developer advocate, Angie Jones @techgirl1908, answers common questions.]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asynchronous Design Critique: Giving Feedback]]></title>
+        <id>https://alistapart.com/article/async-design-critique-giving-feedback/</id>
+        <link href="https://alistapart.com/article/async-design-critique-giving-feedback/"/>
+        <updated>2021-06-17T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Feedback, in whichever form it takes, and whatever it may be called, is one of the most effective soft skills that we have at our disposal to collaboratively get our designs to a better place while growing our own skills and perspectives.
+Feedback is also one of the most underestimated tools, and often by assuming that we’re already good at it, we settle, forgetting that it’s a skill that can be trained, grown, and improved. Poor feedback can create confusion in projects, bring down morale, and affect trust and team collaboration over the long term. Quality feedback can be a transformative force. 
+Practicing our skills is surely a good way to improve, but the learning gets even faster when it’s paired with a good foundation that channels and focuses the practice. What are some foundational…]]></summary>
+        <author>
+            <name>by</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thinking on ways to solve COLOR SCHEMES]]></title>
+        <id>https://web.dev/shows/gui-challenges/oHcTn83M1ls/</id>
+        <link href="https://web.dev/shows/gui-challenges/oHcTn83M1ls/"/>
+        <updated>2021-06-09T16:45:46.000Z</updated>
+        <summary type="html"><![CDATA[In today’s GUI challenge, we’re building dark, light and dim color schemes with HSL. The CSS works across modern browsers, establishes foundational architecture for more themes, and is accessible.
+Chapters:
+0:00 - Introduction
+0:21 - Scheme overview
+1:15 - Debugging corner
+1:55 - Custom property architecture
+4:17 - The Cascade
+5:51 - DevTools
+7:40 - Bump bump til ya pass
+9:54 - Relative vs Absolute color adjusting
+11:54 - Outro
+
+
+
+
+
+Resources:
+Read along → 
+Try a demo → 
+Get the source → 
+
+https://goo.gle/350bmMihttps://goo.gle/3ps7Rryhttps://goo.gle/3n4Sfcg
+Watch more GUI Challenges → 
+Subscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://goo.gl/LLLNvf
+
+#GUIchallenges #CSS #ChromeDeveloper]]></summary>
+        <author>
+            <name>GUI Challenges on web.dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You use more open source software than you think]]></title>
+        <id>https://github.com/readme/featured/unseen-oss</id>
+        <link href="https://github.com/readme/featured/unseen-oss"/>
+        <updated>2021-06-09T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Open source packages are the “roads and bridges” of software, but unlike real roads and bridges, open source is often invisible.]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From finding his calling to mastering React Native]]></title>
+        <id>https://github.com/readme/stories/nader-dabit</id>
+        <link href="https://github.com/readme/stories/nader-dabit"/>
+        <updated>2021-06-01T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nader @dabit3 Dabit was helping his father build a website when he fell into coding—and finally saw the potential for a career that made sense to him. See how it all unfolded on The ReadME Project:]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Luau Recap: May 2021]]></title>
+        <id>https://luau-lang.org/2021/05/31/luau-recap-may-2021.html</id>
+        <link href="https://luau-lang.org/2021/05/31/luau-recap-may-2021.html"/>
+        <updated>2021-05-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Luau is our new language that you can read more about at https://roblox.github.io/luau. This month we have added a new small feature to the language and spent a lot of time improving our typechecker.]]></summary>
+        <author>
+            <name>Luau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[That’s Not My Burnout]]></title>
+        <id>https://alistapart.com/article/thats-not-my-burnout/</id>
+        <link href="https://alistapart.com/article/thats-not-my-burnout/"/>
+        <updated>2021-05-20T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Are you like me, reading about people fading away as they burn out, and feeling unable to relate? Do you feel like your feelings are invisible to the world because you’re experiencing burnout differently? When burnout starts to push down on us, our core comes through more. Beautiful, peaceful souls get quieter and fade into that distant and distracted burnout we’ve all read about. But some of us, those with fires always burning on the edges of our core, get hotter. In my heart I am fire. When I face burnout I double down, triple down, burning hotter and hotter to try to best the challenge. I don’t fade—I am engulfed in a zealous burnout. 
+So what on earth is a zealous burnout?
+Imagine a woman determined to do it all. She has two amazing children whom she, along with her husband who is also…]]></summary>
+        <author>
+            <name>by</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chasing dreams, data, and creative coding]]></title>
+        <id>https://github.com/readme/stories/shirley-wu</id>
+        <link href="https://github.com/readme/stories/shirley-wu"/>
+        <updated>2021-05-20T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When Shirley Wu went freelance as a data visualization creator, she recognized she was a dreamer at heart. Now she’s chasing something she’s wanted since forever. Get her story on The ReadME Project:]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React’s greatest power may lie in its open source ecosystem]]></title>
+        <id>https://github.com/readme/featured/react</id>
+        <link href="https://github.com/readme/featured/react"/>
+        <updated>2021-05-19T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[React isn’t a framework. It’s an entire ecosystem at the heart of countless custom frameworks.]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thinking on ways to solve a MEDIA SCROLLER]]></title>
+        <id>https://web.dev/shows/gui-challenges/jmLdZY_Lo1k/</id>
+        <link href="https://web.dev/shows/gui-challenges/jmLdZY_Lo1k/"/>
+        <updated>2021-05-12T17:05:41.000Z</updated>
+        <summary type="html"><![CDATA[In today’s GUI challenge, @Adam Argyle shares thinking on ways to create inline scrolling experiences for the web that are minimal, responsive, accessible and work across browsers and platforms (like TVs!).
+Chapters:
+0:00 - Introduction
+0:20 - Component demo
+1:22 - Cross browser demos
+4:05 - International layout
+5:15 - Debug Tooling
+6:56 - Prefers reduced data
+8:47 - Prefers reduced motion
+10:57 - Roving UX
+12:45 - aspect-ratio
+14:11 - Conclusion
+
+
+
+
+
+Resources:
+Read along → 
+Try a demo → 
+Get the source → 
+Follow Adam on Twitter → 
+More on roving-index from Rob Dodson → 
+More on logical properties on web.dev → 
+What's new in DevTools 91 → 
+
+
+
+https://goo.gle/2SJY4kmhttps://goo.gle/33AzdkXhttps://goo.gle/3n4Sfcghttps://goo.gle/2RId4P1https://goo.gle/3tFkdNphttps://goo.gle/3uJOvQihttps://goo.gle/3eLof2N
+Watch more GUI Challenges → 
+Subscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://goo.gl/LLLNvf
+
+#GUIchallenges #CSS #ChromeDeveloper]]></summary>
+        <author>
+            <name>GUI Challenges on web.dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beware the Cut ‘n’ Paste Persona]]></title>
+        <id>https://alistapart.com/article/beware-the-cut-n-paste-persona/</id>
+        <link href="https://alistapart.com/article/beware-the-cut-n-paste-persona/"/>
+        <updated>2021-05-06T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This Person Does Not Exist is a website that generates human faces with a machine learning algorithm. It takes real portraits and recombines them into fake human faces. We recently scrolled past a LinkedIn post stating that this website could be useful “if you are developing a persona and looking for a photo.” 
+We agree: the computer-generated faces could be a great match for personas—but not for the reason you might think. Ironically, the website highlights the core issue of this very common design method: the person(a) does not exist. Like the pictures, personas are artificially made. Information is taken out of natural context and recombined into an isolated snapshot that’s detached from reality. 
+But strangely enough, designers use personas to inspire their design for the real world. 
+…]]></summary>
+        <author>
+            <name>by ,</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elevating others and making open source approachable]]></title>
+        <id>https://github.com/readme/stories/monica-powell</id>
+        <link href="https://github.com/readme/stories/monica-powell"/>
+        <updated>2021-05-04T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When Monica Powell was learning React, all the developer meetups were big and intimidating. She created @ReactJSLadies—and continues to nurture more intimate, creative spaces for others.]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Luau Recap: April 2021]]></title>
+        <id>https://luau-lang.org/2021/04/30/luau-recap-april-2021.html</id>
+        <link href="https://luau-lang.org/2021/04/30/luau-recap-april-2021.html"/>
+        <updated>2021-04-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Luau is our new language that you can read more about at https://roblox.github.io/luau. Another busy month in Luau with many performance improvements.]]></summary>
+        <author>
+            <name>Luau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Immersive Content Strategy]]></title>
+        <id>https://alistapart.com/article/immersive-content-strategy/</id>
+        <link href="https://alistapart.com/article/immersive-content-strategy/"/>
+        <updated>2021-04-29T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Beyond the severe toll of the coronavirus pandemic, perhaps no other disruption has transformed user experiences quite like how the tethers to our formerly web-biased era of content have frayed. We’re transitioning to a new world of remote work and digital content. We’re also experimenting with unprecedented content channels that, not too long ago, elicited chuckles at the watercooler, like voice interfaces, digital signage, augmented reality, and virtual reality.
+Many factors are responsible. Perhaps it’s because we yearn for immersive spaces that temporarily resurrect the Before Times, or maybe it’s due to the boredom and tedium of our now-cemented stuck-at-home routines. But aural user experiences slinging voice content, and immersive user experiences unlocking new forms of interacting …]]></summary>
+        <author>
+            <name>by</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coding at the speed of design with Chakra UI]]></title>
+        <id>https://github.com/readme/stories/segun-adebayo</id>
+        <link href="https://github.com/readme/stories/segun-adebayo"/>
+        <updated>2021-04-29T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As a UI designer, @thesegunadebayo had a unique perspective on the intersection of engineering and design, applying empathy, accessibility, and inclusion to create @chakra_ui]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do You Need to Localize Your Website?]]></title>
+        <id>https://alistapart.com/article/do-you-need-to-localize-your-website/</id>
+        <link href="https://alistapart.com/article/do-you-need-to-localize-your-website/"/>
+        <updated>2021-04-22T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Global markets give you access to new customers. All you need to do is inform potential buyers about your product or service. 
+Your website is a good place to introduce your product or service outside your locale. Localizing your web content sounds like the right way to reach out to the global market. Localization will bridge the language barriers, or the wider scope of differing cultures. 
+Before we move on further with the discussion, let’s focus on the definition of “localization.” 
+What is localization?
+According to the Cambridge Dictionary, localization (as a marketing term) is “the process of making a product or service more suitable for a particular country, area, etc.,” while translation is “something that is translated, or the process of translating something, from one language to…]]></summary>
+        <author>
+            <name>by</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning to code against all odds]]></title>
+        <id>https://github.com/readme/stories/salah-al-dhaferi</id>
+        <link href="https://github.com/readme/stories/salah-al-dhaferi"/>
+        <updated>2021-04-22T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For more than 15 years, Salah @tech_chieftain Al-Dhaferi was determined to learn how to code. Now he’s sharing his knowledge with other aspiring young coders.]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thinking on ways to solve SPLIT TEXT]]></title>
+        <id>https://web.dev/shows/gui-challenges/3hvN7bkjZBk/</id>
+        <link href="https://web.dev/shows/gui-challenges/3hvN7bkjZBk/"/>
+        <updated>2021-04-21T16:41:41.000Z</updated>
+        <summary type="html"><![CDATA[In today’s GUI challenge, @Adam Argyle will be responding to your comments for the first 30 minutes after the episode releases. Connect with us here, ask questions, or submit your own code!
+Chapters:
+0:00 - Introduction
+0:29 - Cross browser demos
+1:25 - Reduced motion
+2:36 - HTML
+3:21 - Javascript
+5:08 - Animation devtools
+6:30 - CSS
+10:21 - Conclusion
+
+
+
+
+Resources:
+Read along → 
+Try a demo → 
+Get the source → 
+Follow Adam on Twitter → 
+
+https://goo.gle/3guHkHIhttps://goo.gle/3sCQhkmhttps://goo.gle/3n4Sfcghttps://goo.gle/2RId4P1
+Watch more GUI Challenges → 
+Subscribe to Google Chrome Developers  → https://goo.gle/GUIchallengeshttps://goo.gle/ChromeDevs
+
+#GUIchallenges #CSS #ChromeDeveloper]]></summary>
+        <author>
+            <name>GUI Challenges on web.dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Global Forest Watch uses open source to fight deforestation]]></title>
+        <id>https://github.com/readme/featured/global-forest-watch</id>
+        <link href="https://github.com/readme/featured/global-forest-watch"/>
+        <updated>2021-04-21T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We lose a football field worth of rainforest every 6 seconds. The Global Forest Watch open source platform spots deforestation before it’s too late.]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Source on Mars: Community powers NASA’s Ingenuity Helicopter]]></title>
+        <id>https://github.com/readme/featured/nasa-ingenuity-helicopter</id>
+        <link href="https://github.com/readme/featured/nasa-ingenuity-helicopter"/>
+        <updated>2021-04-14T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Could your software have made it to Mars? See how open source from around the world helped NASA’s Ingenuity Helicopter fly.]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When open source is symbiotic with your business]]></title>
+        <id>https://github.com/readme/stories/tanner-linsley</id>
+        <link href="https://github.com/readme/stories/tanner-linsley"/>
+        <updated>2021-04-13T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With great timing and a touch of intuition, @tannerlinsley has a knack for building solutions other people also need, like React Query and React Table.
+
+Get his full story on the ReadME Project:]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Luau Recap: March 2021]]></title>
+        <id>https://luau-lang.org/2021/03/29/luau-recap-march-2021.html</id>
+        <link href="https://luau-lang.org/2021/03/29/luau-recap-march-2021.html"/>
+        <updated>2021-03-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Luau is our new language that you can read more about at https://roblox.github.io/luau. It’s been a busy month in Luau!]]></summary>
+        <author>
+            <name>Luau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Human-Readable JavaScript: A Tale of Two Experts]]></title>
+        <id>https://alistapart.com/article/human-readable-javascript/</id>
+        <link href="https://alistapart.com/article/human-readable-javascript/"/>
+        <updated>2021-03-25T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Everyone wants to be an expert. But what does that even mean? Over the years I’ve seen two types of people who are referred to as “experts.” Expert 1 is someone who knows every tool in the language and makes sure to use every bit of it, whether it helps or not. Expert 2 also knows every piece of syntax, but they’re pickier about what they employ to solve problems, considering a number of factors, both code-related and not. 
+Can you take a guess at which expert we want working on our team? If you said Expert 2, you’d be right. They’re a developer focused on delivering readable code—lines of JavaScript others can understand and maintain. Someone who can make the complex simple. But “readable” is rarely definitive—in fact, it’s largely based on the eyes of the beholder. So where does that lea…]]></summary>
+        <author>
+            <name>by</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a globally diverse, welcoming Python community]]></title>
+        <id>https://github.com/readme/stories/lorena-mesa</id>
+        <link href="https://github.com/readme/stories/lorena-mesa"/>
+        <updated>2021-03-23T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Before she was a coder, Lorena Mesa was a political analyst for the Obama campaign. Now she’s ensuring the Python community evolves into the globally diverse, welcoming place she knows it can be.]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thinking on ways to solve SETTINGS]]></title>
+        <id>https://web.dev/shows/gui-challenges/dm7gnp6eh3Q/</id>
+        <link href="https://web.dev/shows/gui-challenges/dm7gnp6eh3Q/"/>
+        <updated>2021-03-18T17:00:03.000Z</updated>
+        <summary type="html"><![CDATA[In today’s GUI challenge, we build and demo a dynamic settings page with sliders and checkboxes. Our settings page is responsive, supports multiple device inputs, and works across browsers. How would you create a settings page?
+@Adam Argyle  will be responding to your comments for the first 30 minutes after the episode releases. Connect with us here, ask questions, or submit your own code!
+Chapters:
+0:00 - Introduction
+0:37 - Cross Platform
+1:39 - Spacing
+3:02 - Layouts
+4:55 - Color
+6:19 - User Input
+7:18 - Javascript
+8:20 - Outro
+
+
+
+
+Resources:
+Read along → 
+Try a demo → 
+Get the source → 
+
+https://goo.gle/3bCerGKhttp://goo.gle/3qysEbWhttp://goo.gle/2OdXlWO
+Install VisBug → http://goo.gle/3l286HF
+Watch more GUI Challenges → 
+Subscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://goo.gl/LLLNvf
+
+#GUIchallenges #CSS #ChromeDeveloper]]></summary>
+        <author>
+            <name>GUI Challenges on web.dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Now THAT&#8217;S What I Call Service Worker!]]></title>
+        <id>https://alistapart.com/article/now-thats-what-i-call-service-worker/</id>
+        <link href="https://alistapart.com/article/now-thats-what-i-call-service-worker/"/>
+        <updated>2021-03-18T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Service Worker API is the Dremel of the web platform. It offers incredibly broad utility while also yielding resiliency and better performance. If you’ve not used Service Worker yet—and you couldn’t be blamed if so, as it hasn’t seen wide adoption as of 2020—it goes something like this:
+On the initial visit to a website, the browser registers what amounts to a client-side proxy powered by a comparably paltry amount of JavaScript that—like a Web Worker—runs on its own thread.
+After the Service Worker’s registration, you can intercept requests and decide how to respond to them in the Service Worker’s fetch() event.
+
+
+
+
+What you decide to do with requests you intercept is a) your call and b) depends on your website. You can rewrite requests, precache static assets during install, provide …]]></summary>
+        <author>
+            <name>by</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting the right bar for open source standards]]></title>
+        <id>https://github.com/readme/stories/jory-burson</id>
+        <link href="https://github.com/readme/stories/jory-burson"/>
+        <updated>2021-03-18T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Jory saw a group making decisions about open source standards and knew that if they could, she could. She’s now a consultant and educator working to improve collaboration for everyone.]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Python is building a welcoming community for women]]></title>
+        <id>https://github.com/readme/featured/women-in-tech-python</id>
+        <link href="https://github.com/readme/featured/women-in-tech-python"/>
+        <updated>2021-03-16T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how the Python community is addressing open source’s gender parity problem by recruiting women into core roles and building opportunity for women as we celebrate International Women’s Month:]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keeping Your Design Mind New and Fresh]]></title>
+        <id>https://alistapart.com/article/keeping-a-fresh-design-mind/</id>
+        <link href="https://alistapart.com/article/keeping-a-fresh-design-mind/"/>
+        <updated>2021-03-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“Only a fool knows everything.”
+— African Proverb
+Since March 2020, most of us have been working from home, and the days blend into each other and look the same. This is not the first time I have experienced this type of feeling. 
+My commute — New York to New Jersey — is what folks in my area call the reverse commute.While going to the office, my days began to look the same: riding the subway to a bus to a shuttle to get to my job. Have you ever arrived at a destination and not even realized how you got there? This is how I began to experience the world everyday. I stopped paying attention to my surroundings.
+Because I worked a lot, the only time I would take off was for the holidays. During this time, I was a consultant and was coming to the end of an existing contract. For six years stra…]]></summary>
+        <author>
+            <name>by</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating opportunity for women in development]]></title>
+        <id>https://github.com/readme/featured/women-in-tech-making-space</id>
+        <link href="https://github.com/readme/featured/women-in-tech-making-space"/>
+        <updated>2021-03-10T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As companies rethink everything from hiring to training to conducting meetings there’s never been a better time to make workplaces more inclusive.]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making accessibility in tech the rule, not the exception]]></title>
+        <id>https://github.com/readme/stories/marcy-sutton</id>
+        <link href="https://github.com/readme/stories/marcy-sutton"/>
+        <updated>2021-03-09T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For Marcy, accessibility is personal and essential. So she’s on a mission to inspire others to follow in her footsteps to prioritize and normalize it.
+
+Get the full story on The ReadME Project:]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get a Dysfunctional Team Back on Track]]></title>
+        <id>https://alistapart.com/article/dysfunctional-teams-back-on-track/</id>
+        <link href="https://alistapart.com/article/dysfunctional-teams-back-on-track/"/>
+        <updated>2021-03-04T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Maybe you’ve been part of a team that you’ve seen slowly slide into a rut. You didn’t notice it happen, but you’re now not shipping anything, no one’s talking to each other, and the management’s Eye of Sauron has cast its gaze upon you.
+Maybe you’ve just joined a team that’s in the doldrums.
+Maybe the people who used to oil the wheels that kept everyone together have moved on and you’re having to face facts—you all hate each other.
+However you’ve ended up in this situation, the fact is that you’re now here and it’s up to someone to do something about it. And that person might be you.
+You’re not alone
+The first thing to understand is that you’re not the only person to ever encounter problems. Things like this happen all the time at work, but there are simple steps you can take and habits yo…]]></summary>
+        <author>
+            <name>by</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chasing challenges to ship developer solutions]]></title>
+        <id>https://github.com/readme/stories/kathy-korevec</id>
+        <link href="https://github.com/readme/stories/kathy-korevec"/>
+        <updated>2021-03-04T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An 80s baby who grew up in Alaska as one of five children, Kathy is no stranger to challenges and always puts her users first, from Google to GitHub.]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of Web Software Is HTML-over-WebSockets]]></title>
+        <id>https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/</id>
+        <link href="https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/"/>
+        <updated>2021-02-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The future of web-based software architectures is already taking form, and this time it’s server-rendered (again). Papa’s got a brand new bag: HTML-over-WebSockets and broadcast everything all the time.
+The dual approach of marrying a Single Page App with an API service has left many dev teams mired in endless JSON wrangling and state discrepancy bugs across two layers. This costs dev time, slows release cycles, and saps the bandwidth for innovation.
+But a new WebSockets-driven approach is catching web developers’ attention. One that reaffirms the promises of classic server-rendered frameworks: fast prototyping, server-side state management, solid rendering performance, rapid feature development, and straightforward SEO. One that enables multi-user collaboration and reactive, responsive de…]]></summary>
+        <author>
+            <name>by</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How open source maintainers can maintain balance in turbulent times]]></title>
+        <id>https://github.com/readme/featured/octoverse-balance</id>
+        <link href="https://github.com/readme/featured/octoverse-balance"/>
+        <updated>2021-02-25T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Working from home can mean working more. OSS maintainers share how they take care of themselves as the boundaries between work and home life blur.]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How InfoSec pros keep open source safe—and how you can help]]></title>
+        <id>https://github.com/readme/featured/octoverse-security</id>
+        <link href="https://github.com/readme/featured/octoverse-security"/>
+        <updated>2021-02-25T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A single vulnerability can impact hundreds of downstream dependencies. Luckily, infoSec pros are fighting back.]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the open source community came together to fight COVID-19]]></title>
+        <id>https://github.com/readme/featured/octoverse-covid</id>
+        <link href="https://github.com/readme/featured/octoverse-covid"/>
+        <updated>2021-02-25T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In response to COVID-19 the open source community came together—helping the world leverage pandemic data in new ways.]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing Inclusive Content Models]]></title>
+        <id>https://alistapart.com/article/designing-inclusive-content-models/</id>
+        <link href="https://alistapart.com/article/designing-inclusive-content-models/"/>
+        <updated>2021-02-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the 1920s, Robert Moses designed a system of parkways surrounding New York City. His designs, which included overpasses too low for public buses, have become an often-cited example of exclusionary design and are argued by biographer Robert A. Caro to represent a purposeful barrier between the city’s Black and Puerto Rican residents and nearby beaches. 
+Regardless of the details of Moses’s parkway project, it’s a particularly memorable reminder of the political power of design and the ways that choices can exclude various groups based on abilities and resources. The growing interest in inclusive design highlights questions of who can participate, and in relation to the web, this has often meant a focus on accessibility and user experience, as well as on questions related to team diversit…]]></summary>
+        <author>
+            <name>by ,</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black voices bring much needed context to our data-driven society]]></title>
+        <id>https://github.com/readme/featured/bhm-data</id>
+        <link href="https://github.com/readme/featured/bhm-data"/>
+        <updated>2021-02-18T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Black voices bring much needed context to our data-driven society. Black communities are working together to democratize data and make the field more inclusive.]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thinking on ways to solve TABS]]></title>
+        <id>https://web.dev/shows/gui-challenges/mMBcHcvxuuA/</id>
+        <link href="https://web.dev/shows/gui-challenges/mMBcHcvxuuA/"/>
+        <updated>2021-02-17T18:00:09.000Z</updated>
+        <summary type="html"><![CDATA[In today’s GUI challenge, we’re building a tabs component with some really cool features that you may not have thought about. Our tabs component is responsive, supports multiple device inputs, works across browsers, and let’s you mimic some of the buttery features you love on apps.
+@Adam Argyle will be responding to your comments for the first 30 minutes after the episode releases. Connect with us here, ask questions, or submit your own code!
+Chapters:
+0:00 - Introduction
+0:42 - Features overview
+3:03 - HTML
+4:14 - Scrolling
+5:04 - Inspect Layouts
+7:35 - Layout Styles
+12:10 - prefers-reduced-motion
+13:10 - JavaScript & Animation
+14:37 - Conclusion
+
+
+
+
+
+Resources:
+Read along → 
+Try a demo → 
+Get the source → 
+@ScrollTimeline Polyfill → 
+
+https://goo.gle/37jHOenhttp://goo.gle/3prCpb2http://goo.gle/2NsK7EKhttp://goo.gle/2NfUhZs
+Watch more GUI Challenges → 
+Subscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://goo.gl/LLLNvf
+
+#GUIchallenges #CSS #ChromeDeveloper]]></summary>
+        <author>
+            <name>GUI Challenges on web.dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taking a chance on others, and yourself]]></title>
+        <id>https://github.com/readme/stories/brian-douglas</id>
+        <link href="https://github.com/readme/stories/brian-douglas"/>
+        <updated>2021-02-17T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Better known as @bdougieYO and the ‘Beyonce of GitHub’ (yep), Brian Douglas went from Tampa to Oakland by fearlessly seizing quite a few pivotal moments.
+
+Get the full story on The ReadME Project:]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Never-Ending Job of Selling Design Systems]]></title>
+        <id>https://alistapart.com/article/selling-design-systems/</id>
+        <link href="https://alistapart.com/article/selling-design-systems/"/>
+        <updated>2021-02-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I’m willing to bet that you probably didn’t start your web career because you wanted to be a politician or a salesperson. But here’s the cold, hard truth, friend: if you want to work on design systems, you don’t have a choice. Someone has to pay for your time, and that means someone has to sell what you do to an audience that speaks value in an entirely different language. 
+It’s not exactly easy to connect the benefits of a design system directly to revenue. With an ecomm site, you can add a feature and measure the impact. With other conversion-based digital experiences, if your work is good, your customers will convert more. But because a design system is (usually) an internal tool, it’s just harder to connect those dots. 
+This article boils down the methods I’ve put into practice convinc…]]></summary>
+        <author>
+            <name>by</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My differences are my superpowers]]></title>
+        <id>https://github.com/readme/stories/angie-jones</id>
+        <link href="https://github.com/readme/stories/angie-jones"/>
+        <updated>2021-02-08T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Angie Jones has 26 patented inventions, including one for time travel! She’s also an automation architect, international keynote speaker, Java Champion, and GitHub Star.]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dream big, and follow through even bigger]]></title>
+        <id>https://github.com/readme/stories/safia-abdalla</id>
+        <link href="https://github.com/readme/stories/safia-abdalla"/>
+        <updated>2021-02-04T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Safia’s role as a maintainer is about more than open source—she’s using her power for good, and inspiring other women of color to follow suit.]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Submission shoutouts for SIDENAV]]></title>
+        <id>https://web.dev/shows/gui-challenges/1omr0HzI_N0/</id>
+        <link href="https://web.dev/shows/gui-challenges/1omr0HzI_N0/"/>
+        <updated>2021-02-03T18:00:07.000Z</updated>
+        <summary type="html"><![CDATA[We asked the community to build a sidenav component your way and you all delivered! Check out the submissions:
+@a_nurella → 
+@mayeedwin1 → 
+@_developit → 
+@EvroMalarkey → 
+
+http://goo.gle/3j9bmQmhttp://goo.gle/2Lin1A4http://goo.gle/3j907HRhttps://goo.gle/3cwJZP2
+Do you have another way you’d create a side navigation? Send it our way!
+Watch the GUI sidenav episode → https://goo.gle/3o4UYS1
+Code along → 
+Read along → 
+Try a demo → https://goo.gle/3sQ8Xifhttps://goo.gle/2Np83J9http://goo.gle/3bVBFYT
+
+Subscribe to Google Chrome Developers  → http://goo.gl/LLLNvf
+#GUIChallenges #GUIsubmissions]]></summary>
+        <author>
+            <name>GUI Challenges on web.dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thinking on ways to solve a SIDENAV]]></title>
+        <id>https://web.dev/shows/gui-challenges/uiZqDLqjGRY/</id>
+        <link href="https://web.dev/shows/gui-challenges/uiZqDLqjGRY/"/>
+        <updated>2021-01-21T18:00:20.000Z</updated>
+        <summary type="html"><![CDATA[In today’s GUI challenge we create a responsive, accessible slide out side navigation user experience using CSS and JS. The sidenav works on multiple browsers, screen sizes and input devices. Rad right? Follow as we employ grid, transforms, pseudo classes and a dollop of JavaScript to handle this UX.
+@Adam Argyle will be responding to your comments for the first 30 minutes after the episode releases. Connect with us here, ask questions or submit your own code!
+Chapters:
+0:00 - Introduction
+0:30 - Debugging Corner Feature Overview
+2:25 - Grid += Media Query Stack Layout
+3:42 - Accessible Transform Transition
+4:22 - :target Pseudo Class
+5:57 - Escape Key UX
+6:16 - Orchestrating Focus
+6:49 - Screen Reader UX
+7:56 - Outro & Call To Action
+
+
+
+
+
+Resources:
+Code along → 
+Read along → 
+Try a demo → 
+See how others are building sidenavs (GUI Submissions) → 
+
+https://goo.gle/3sQ8Xifhttps://goo.gle/2Np83J9http://goo.gle/3bVBFYThttps://goo.gle/36CAeuO
+Watch more GUI Challenges → 
+Subscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://goo.gl/LLLNvf
+
+#GUIchallenges #CSS #ChromeDeveloper]]></summary>
+        <author>
+            <name>GUI Challenges on web.dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bringing simplicity, joy, and order to web development]]></title>
+        <id>https://github.com/readme/stories/caleb-porzio</id>
+        <link href="https://github.com/readme/stories/caleb-porzio"/>
+        <updated>2021-01-19T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Caleb began his open source journey to make web development easier and more productive. He’s since built Laravel Livewire and AlpineJS.
+
+Read more on The ReadME Project.]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Submission shoutout for CENTERING]]></title>
+        <id>https://web.dev/shows/gui-challenges/Rzpm9VirtkE/</id>
+        <link href="https://web.dev/shows/gui-challenges/Rzpm9VirtkE/"/>
+        <updated>2021-01-13T18:06:20.000Z</updated>
+        <summary type="html"><![CDATA[We stress tested 5 different CSS centering techniques and I challenged you to submit your own. Shout out to Chris Coyier from CSS-Tricks for sharing his own tricks! Do you have another way you’d center in CSS? Send it our way!
+Watch the GUI Centering episode → 
+Check out Chris’s blog post → https://goo.gle/39d9Rwbhttp://goo.gle/3nrVCZo
+
+Code along → 
+Read along → 
+Try a demo → https://goo.gle/3qEIaE8https://goo.gle/39NHC9ahttps://goo.gle/33PIW7A
+
+Subscribe to Google Chrome Developers  → http://goo.gl/LLLNvf
+#GUIChallenges #GUIsubmissions]]></summary>
+        <author>
+            <name>GUI Challenges on web.dev</name>
         </author>
     </entry>
 </feed>
