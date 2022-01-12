@@ -436,6 +436,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=360490",
+          "author": "Chris Coyier",
+          "description": "Say you have an elements with CSS tooltips and you’re going to position those tooltips such that it opens up next to the element on hover (or probably better: when clicked/tapped). Next to it where? Above it? What if the …\nWhat Would it Take to Prevent CSS Tooltips From Overflowing? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/can-css-prevent-tooltips-from-overflowing/",
+          "publishedOn": "2022-01-11T23:18:56.000Z",
+          "wordCount": 884,
+          "title": "What Would it Take to Prevent CSS Tooltips From Overflowing?"
+        },
+        {
           "id": "https://css-tricks.com/?p=359243",
           "author": "Adam Rackis",
           "description": "Vite (pronounced “veet”) is a newish JavaScript bundler. It comes batteries-included, requires almost no configuration to be useful, and includes plenty of configuration options. Oh—and it’s fast. Incredibly fast.\nThis post will walk through the process of converting an existing …\nAdding Vite to Your Existing Web App originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
@@ -4671,6 +4680,177 @@
       "siteUrl": "https://hackernoon.com",
       "articles": [
         {
+          "id": "https://hackernoon.com/what-is-ethereum-learning-crypto-with-amy-on-the-hackernoon-podcast?source=rss",
+          "author": "Podcast",
+          "description": "Join Amy Tom as she asks ALL the questions about Ethereum to Andrew Levine, CEO of Koinos Group.",
+          "link": "https://hackernoon.com/what-is-ethereum-learning-crypto-with-amy-on-the-hackernoon-podcast?source=rss",
+          "publishedOn": "2022-01-11T15:18:19.000Z",
+          "wordCount": 2957,
+          "title": "What Is Ethereum? Learning Crypto with Amy on The HackerNoon Podcast"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-pick-a-test-management-solution-5-mistakes-to-avoid?source=rss",
+          "author": "Tania Zhydkova",
+          "description": "How to choose a test management tool and not regret it later? Simple: avoid these 5 mistakes while you review all of the test management solutions available.",
+          "link": "https://hackernoon.com/how-to-pick-a-test-management-solution-5-mistakes-to-avoid?source=rss",
+          "publishedOn": "2022-01-11T14:16:18.000Z",
+          "wordCount": 2663,
+          "title": "How to Pick a Test Management Solution: 5 Mistakes to Avoid"
+        },
+        {
+          "id": "https://hackernoon.com/microservices-vs-monolithic-architecture?source=rss",
+          "author": "ITRex",
+          "description": "The concept of microservices, an approach to designing a software application as a set of small services, has been around since at least 2015.Delivering benefits such as the independent deployability and scalability of components, microservices are all the rage today. This is because these microservices benefits translate into incredibly faster software development speeds. With consumers being quick to change their preferences and behaviors, microservices adopters are able to keep up. Life is now great, they say.As much as 56% of companies participating in a recent IMB survey plan to adopt a microservices approach in the next 24 months. Almost 80% of current users say their business will likely step up investment in microservices.Microservices advantages have prompted Netflix, Amazon, eBay, Twitter, and many other tech giants to migrate from monolithic to microservices architecture.But should your company use microservices?It depends on the context and if microservices pros outweigh the cons for your application.This blog provides an overview of a microservices vs. monolithic approach and five key benefits of using a microservices architecture. It also shares some of ITRex’s microservices experience and offers tips on when business should (not) use microservices. Dive in.",
+          "link": "https://hackernoon.com/microservices-vs-monolithic-architecture?source=rss",
+          "publishedOn": "2022-01-11T13:58:49.000Z",
+          "wordCount": 3426,
+          "title": "Microservices vs. Monolithic Architecture"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-the-cryptocurrency-security-standard-ccss?source=rss",
+          "author": "Chris Ray",
+          "description": "The Cryptocurrency Security Standard (CCSS) appears to be a control framework, with ten controls and three implementation tiers.",
+          "link": "https://hackernoon.com/what-is-the-cryptocurrency-security-standard-ccss?source=rss",
+          "publishedOn": "2022-01-11T12:55:50.000Z",
+          "wordCount": 2405,
+          "title": "What is the Cryptocurrency Security Standard (CCSS)?"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-trigger-lambda-with-sns-messaging-going-serverless-with-aws?source=rss",
+          "author": "Taavi Rehemägi",
+          "description": "Do you love event-driven programming? Let's take a look at triggering AWS Lambda functions from AWS SNS messages.",
+          "link": "https://hackernoon.com/how-to-trigger-lambda-with-sns-messaging-going-serverless-with-aws?source=rss",
+          "publishedOn": "2022-01-11T12:47:25.000Z",
+          "wordCount": 2987,
+          "title": "How to Trigger Lambda with SNS Messaging: Going Serverless with AWS"
+        },
+        {
+          "id": "https://hackernoon.com/how-tall-is-donald-trump-and-other-weird-questions-online?source=rss",
+          "author": "Slogging (Slack Blogging)",
+          "description": "In this slogging thread, our community shares a few of the weirdest questions they've seen asked online.",
+          "link": "https://hackernoon.com/how-tall-is-donald-trump-and-other-weird-questions-online?source=rss",
+          "publishedOn": "2022-01-11T12:39:46.000Z",
+          "wordCount": 1603,
+          "title": "\"How Tall is Donald Trump?\" and Other Weird Questions Online"
+        },
+        {
+          "id": "https://hackernoon.com/movie-plot-holes-caught-on-camera?source=rss",
+          "author": "Slogging (Slack Blogging)",
+          "description": "In this thread, our community shares a few plotholes and errors they've found in movies that left them shocked.",
+          "link": "https://hackernoon.com/movie-plot-holes-caught-on-camera?source=rss",
+          "publishedOn": "2022-01-11T12:36:36.000Z",
+          "wordCount": 2116,
+          "title": "Movie Plot Holes Caught on Camera"
+        },
+        {
+          "id": "https://hackernoon.com/hacker-noon-editors-superheroes-without-capes?source=rss",
+          "author": "Nebojsa \"Nesha\" Todorovic",
+          "description": "This story goes out to Hacker Noon Editors.",
+          "link": "https://hackernoon.com/hacker-noon-editors-superheroes-without-capes?source=rss",
+          "publishedOn": "2022-01-11T12:33:47.000Z",
+          "wordCount": 1793,
+          "title": "Hacker Noon Editors: Superheroes without Capes"
+        },
+        {
+          "id": "https://hackernoon.com/new-leave-a-note-for-your-human-editor?source=rss",
+          "author": "HackerNoon Product Updates",
+          "description": "Rumor has it there’s a new feature in town allowing you to leave personal notes to HackerNoon’s editors.",
+          "link": "https://hackernoon.com/new-leave-a-note-for-your-human-editor?source=rss",
+          "publishedOn": "2022-01-11T12:10:55.000Z",
+          "wordCount": 1303,
+          "title": "New: Leave a Note For Your Human Editor"
+        },
+        {
+          "id": "https://hackernoon.com/a-brief-look-into-new-years-traditions-around-the-world-slogging-insights?source=rss",
+          "author": "Limarc Ambalina",
+          "description": "In our fellowship channel, a couple of us shared some insights on how we celebrate the new year in our parts of the world.",
+          "link": "https://hackernoon.com/a-brief-look-into-new-years-traditions-around-the-world-slogging-insights?source=rss",
+          "publishedOn": "2022-01-11T09:23:45.000Z",
+          "wordCount": 1739,
+          "title": "A Brief Look into New Year's Traditions Around the World (Slogging Insights)"
+        },
+        {
+          "id": "https://hackernoon.com/any-financial-advice-you-can-get-online-should-be-taken-with-caution?source=rss",
+          "author": "Ishan Pandey",
+          "description": "This article talks about social trading and copy trading. Further, why retail investors should not listen to financial advice online.",
+          "link": "https://hackernoon.com/any-financial-advice-you-can-get-online-should-be-taken-with-caution?source=rss",
+          "publishedOn": "2022-01-11T07:08:20.000Z",
+          "wordCount": 2114,
+          "title": "Any Financial Advice You Can Get Online Should be Taken with Caution"
+        },
+        {
+          "id": "https://hackernoon.com/sending-events-and-logs-to-discord-via-python?source=rss",
+          "author": "Shayan",
+          "description": "How to Send your Events and Logs to Discord via Python",
+          "link": "https://hackernoon.com/sending-events-and-logs-to-discord-via-python?source=rss",
+          "publishedOn": "2022-01-11T02:02:58.000Z",
+          "wordCount": 1639,
+          "title": "Sending Events and Logs to Discord via Python"
+        },
+        {
+          "id": "https://hackernoon.com/top-mlops-best-practices-you-should-know?source=rss",
+          "author": "Or Hillel",
+          "description": "This blog post will explore the top 5 MLOps best practices you should know about.",
+          "link": "https://hackernoon.com/top-mlops-best-practices-you-should-know?source=rss",
+          "publishedOn": "2022-01-10T23:31:00.000Z",
+          "wordCount": 1798,
+          "title": "Top MLOps Best Practices You Should Know"
+        },
+        {
+          "id": "https://hackernoon.com/crunching-large-datasets-made-fast-and-easy-the-polars-library?source=rss",
+          "author": "Miguel Albrecht",
+          "description": "Processing large data, e.g. for cleansing, aggregation or filtering is done blazingly fast with the Polars data frame library in python thanks to its design.",
+          "link": "https://hackernoon.com/crunching-large-datasets-made-fast-and-easy-the-polars-library?source=rss",
+          "publishedOn": "2022-01-10T23:29:17.000Z",
+          "wordCount": 1714,
+          "title": "Crunching Large Datasets Made Fast and Easy: the Polars Library"
+        },
+        {
+          "id": "https://hackernoon.com/es2020es2021?source=rss",
+          "author": "Anil Verma",
+          "description": "ES2020/ES2021, New ES2020/ES2021 features you might have missed",
+          "link": "https://hackernoon.com/es2020es2021?source=rss",
+          "publishedOn": "2022-01-10T23:24:30.000Z",
+          "wordCount": 1386,
+          "title": "The Biggest Features in ES2020/ES2021"
+        },
+        {
+          "id": "https://hackernoon.com/crypto-use-explodes-data-will-help-investors-make-better-decisions?source=rss",
+          "author": "Masha Prusso",
+          "description": "Investors need good data to make good decisions, and new AI platforms will provide deeper analysis",
+          "link": "https://hackernoon.com/crypto-use-explodes-data-will-help-investors-make-better-decisions?source=rss",
+          "publishedOn": "2022-01-10T23:16:50.000Z",
+          "wordCount": 1813,
+          "title": "Crypto Use Explodes, Data Will Help Investors Make Better Decisions"
+        },
+        {
+          "id": "https://hackernoon.com/will-btc-rise-again-in-2022?source=rss",
+          "author": "blockscribers",
+          "description": "Thinking of Investing in Bitcoin? Here is Bitcoin's price history and some valuable insights that will help you make an informed decision.",
+          "link": "https://hackernoon.com/will-btc-rise-again-in-2022?source=rss",
+          "publishedOn": "2022-01-10T23:16:40.000Z",
+          "wordCount": 1976,
+          "title": "Will BTC Rise Again in 2022?"
+        },
+        {
+          "id": "https://hackernoon.com/8-unknown-facts-about-bitcoin?source=rss",
+          "author": "Sylvain Saurel",
+          "description": "Thought you knew everything about Bitcoin? This article will introduce you to 8 totally unknown facts about the king of digital currency.",
+          "link": "https://hackernoon.com/8-unknown-facts-about-bitcoin?source=rss",
+          "publishedOn": "2022-01-10T23:11:09.000Z",
+          "wordCount": 2231,
+          "title": "8 Unknown Facts About Bitcoin"
+        },
+        {
+          "id": "https://hackernoon.com/navigate-any-nft-marketplace-quick-tips?source=rss",
+          "author": "David Joshi",
+          "description": "A complete guide in developing an NFT marketplace. Create your own NFT Marketplace easily.",
+          "link": "https://hackernoon.com/navigate-any-nft-marketplace-quick-tips?source=rss",
+          "publishedOn": "2022-01-10T23:07:23.000Z",
+          "wordCount": 2742,
+          "title": "Navigate Any NFT Marketplace: Quick Tips"
+        },
+        {
           "id": "https://hackernoon.com/high-utility-defi-data-analytics-tools-for-crypto-investors?source=rss",
           "author": "Masha Prusso",
           "description": "These four growing platforms will give investors the tools they need to make smarter decisions",
@@ -4795,6 +4975,15 @@
           "publishedOn": "2022-01-10T22:22:01.000Z",
           "wordCount": 2237,
           "title": "10 Ways Developers Can Make Money Coding"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-it-about-web-30-thats-causing-internet-famous-people-to-block-each-other?source=rss",
+          "author": "LoudPosts",
+          "description": "Why did a16z block Jack Dorsey? And what does it mean for the so called \"Web 3.0\" movement?",
+          "link": "https://hackernoon.com/what-is-it-about-web-30-thats-causing-internet-famous-people-to-block-each-other?source=rss",
+          "publishedOn": "2022-01-10T22:06:13.000Z",
+          "wordCount": 2118,
+          "title": "What Is It About Web 3.0 That's Causing Internet Famous People to Block Each Other?"
         },
         {
           "id": "https://hackernoon.com/how-to-become-a-software-architect-keith-caseytm-on-his-career-learnings-at-twilio-okta-and-beyond?source=rss",
@@ -16771,6 +16960,24 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
+          "id": "https://hackaday.com/?p=515272",
+          "author": "Ryan Flowers",
+          "description": "Have you ever wondered how an electronic wind vane translates a direction into a unique signal? It seems as though it might be very complicated, and indeed some of them …read more",
+          "link": "https://hackaday.com/2022/01/11/3d-printed-sensor-for-finding-wind-direction-and-likely-much-more/",
+          "publishedOn": "2022-01-12T00:00:38.000Z",
+          "wordCount": 1297,
+          "title": "3D Printed Sensor For Finding Wind Direction And Likely Much More"
+        },
+        {
+          "id": "https://hackaday.com/?p=515199",
+          "author": "Tom Nardi",
+          "description": "High-voltage experimenters have been using automotive ignition coils to generate impressive sparks in the home lab for decades, and why not? They’re cheap, easily obtainable, and at the end of …read more",
+          "link": "https://hackaday.com/2022/01/11/honda-ignition-coils-sing-the-song-of-their-people/",
+          "publishedOn": "2022-01-11T21:00:15.000Z",
+          "wordCount": 1462,
+          "title": "Honda Ignition Coils Sing The Song of Their People"
+        },
+        {
           "id": "https://hackaday.com/?p=515065",
           "author": "Lewin Day",
           "description": "Drum kits used to be key to any serious band, however, these days, much of our music is created on computer or using a drum machine instead. [spanceac] has built …read more",
@@ -22465,6 +22672,26 @@
       "feedUrl": "http://rss.sciam.com/scientificamerican-global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "0D9221E4-F8E7-44D9-9E063C0EF2A36A3F",
+          "author": "Virginia Morell",
+          "description": "The famed paleoanthropologist explored humankind’s origins and worked to safeguard a future for humans and wildlife alike, in Kenya and beyond\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/richard-leakeys-legacy-in-science-conservation-and-politics/",
+          "publishedOn": "2022-01-11T22:00:00.000Z",
+          "wordCount": null,
+          "title": "Richard Leakey's Legacy in Science, Conservation and Politics",
+          "itunes": {}
+        },
+        {
+          "id": "239BBDAB-FC70-4CEF-A7EC2748A2E19405",
+          "author": "Tom Metcalfe, LiveScience",
+          "description": "It was a last-ditch effort to save Maryland man’s life\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/surgeons-transplant-pigs-heart-into-dying-human-patient-in-a-first/",
+          "publishedOn": "2022-01-11T21:30:00.000Z",
+          "wordCount": null,
+          "title": "Surgeons Transplant Pig's Heart into Dying Human Patient in a First",
+          "itunes": {}
+        },
         {
           "id": "7A7CFFC2-4FAD-43E1-AB0426097227C87C",
           "author": "Chelsea Harvey, E&E News",
