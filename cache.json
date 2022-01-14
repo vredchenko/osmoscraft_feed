@@ -436,6 +436,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=360939",
+          "author": "Chris Coyier",
+          "description": "Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Accessibility is one of those things! Here’s a list of related links to other articles that I’ve been saving up and …\n8 Helpful Accessibility Links for January 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/8-accessibility-links-january-2022/",
+          "publishedOn": "2022-01-13T20:57:41.000Z",
+          "wordCount": 786,
+          "title": "8 Helpful Accessibility Links for January 2022"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360423",
+          "author": "Chris Coyier",
+          "description": "Sass offers functions and mixins that accept parameters. You can use Sass default parameters, that is, parameters that have a value even if you don’t provide them when the function or mixin is called. \nLet’s focus on mixins here. …\nA Practical Tip For Using Sass Default Parameters originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/sass-default-parameters/",
+          "publishedOn": "2022-01-13T15:17:28.000Z",
+          "wordCount": 693,
+          "title": "A Practical Tip For Using Sass Default Parameters"
+        },
+        {
           "id": "https://css-tricks.com/?p=361233",
           "author": "Chris Coyier",
           "description": "Hot off the presses from Devon Govett, creator of Parcel, is Parcel CSS:\nA CSS parser, transformer, and minifier written in Rust.\n\nNice. The CSS world could use a little processing shake up like this.\nI just wrote a …\nParcel CSS: A New CSS Parser, Transformer, and Minifier originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
@@ -2152,6 +2170,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61e081cfb837d507ba0a2179",
+          "author": null,
+          "description": "Have you heard of \"Netflix and Chill\"? Instead, try \"Netflix and Code\". Code your own Netflix clone! We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a Netflix clone using Django and Tailwind CSS. Django is a Python-based free and open-source",
+          "link": "https://www.freecodecamp.org/news/create-a-netflix-clone-with-django-and-tailwind-css/",
+          "publishedOn": "2022-01-13T19:54:39.000Z",
+          "wordCount": 338,
+          "title": "Create a Netflix Clone with Django and Tailwind CSS"
+        },
+        {
+          "id": "61dd142eb837d507ba09f944",
+          "author": null,
+          "description": "While working on your personal projects, you'll often need to store some data. You could use a SQL or NoSQL database with a server, but that would require you to do a bit of setup.  In this article, we'll learn about TinyDB and how to use it to store our",
+          "link": "https://www.freecodecamp.org/news/get-started-with-tinydb-in-python/",
+          "publishedOn": "2022-01-13T18:46:34.000Z",
+          "wordCount": 1289,
+          "title": "How to Get Started with TinyDB in Python"
+        },
+        {
+          "id": "61d863f4d2d9de084285e610",
+          "author": null,
+          "description": "In this article, I’ve compiled a list of the best machine learning courses available online. I built the ranking by following a well-defined methodology that you can find below.  But if you want to jump straight to the results, here are my picks: Machine Learning (Stanford University)Machine Learning",
+          "link": "https://www.freecodecamp.org/news/best-machine-learning-courses/",
+          "publishedOn": "2022-01-13T18:21:53.000Z",
+          "wordCount": 4449,
+          "title": "10 Best Machine Learning Courses to Take in 2022"
+        },
+        {
+          "id": "61dff8fab837d507ba0a12cb",
+          "author": null,
+          "description": "Props are one of the most important building blocks of React.js. When you need to pass data down from a parent component to a child component, props make this possible. In this article we'll learn how to work with props and build reusable components in React. What Are Props",
+          "link": "https://www.freecodecamp.org/news/how-to-build-reusable-components-with-props-in-react/",
+          "publishedOn": "2022-01-13T17:14:49.000Z",
+          "wordCount": 695,
+          "title": "How to Build Reusable Components with Props in React"
+        },
+        {
+          "id": "61dfca99b837d507ba0a0f3a",
+          "author": null,
+          "description": "If you stop working temporarily and you're not ready to shut down your PC, Windows 10 sleep mode is a great option.  It turns off your computer's monitor and hard drive, slowing down power consumption in the process.  But your PC might refuse to go to sleep sometimes. This could",
+          "link": "https://www.freecodecamp.org/news/windows-10-is-not-going-to-sleep-how-to-fix-sleeping-on-pc/",
+          "publishedOn": "2022-01-13T17:03:04.000Z",
+          "wordCount": 767,
+          "title": "Windows 10 is Not Going to Sleep – How to Fix Sleeping on PC"
+        },
+        {
+          "id": "61d80be9d2d9de084285e127",
+          "author": null,
+          "description": "In this article, we will talk about constructors, how to create our own constructors, and what default constructors are in Java. What is a constructor?As a class-based object-oriented programming term, a constructor is a unique method used to initialize a newly created object (class). There are a few rules",
+          "link": "https://www.freecodecamp.org/news/default-constructor-in-java/",
+          "publishedOn": "2022-01-13T16:53:28.000Z",
+          "wordCount": 905,
+          "title": "Default Constructor in Java – Class Constructor Example"
+        },
+        {
+          "id": "61deedb3b837d507ba0a0695",
+          "author": null,
+          "description": "In this article we're going to learn how to make an application using AWS Serverless that lets us identify images of celebrities. We'll use AWS Rekognition for AI-based identification. We are going to attach an event to the S3 Bucket so that whenever a file gets uploaded to the bucket,",
+          "link": "https://www.freecodecamp.org/news/use-aws-rekognition-to-identify-celebrities-in-images/",
+          "publishedOn": "2022-01-13T16:47:45.000Z",
+          "wordCount": 1279,
+          "title": "AWS Serverless – How to Use AWS Rekognition to Identify Celebrities in Images"
+        },
         {
           "id": "61def1f8b837d507ba0a06cd",
           "author": null,
@@ -4742,6 +4823,186 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "https://hackernoon.com",
       "articles": [
+        {
+          "id": "https://hackernoon.com/gamefi-needs-a-multiplayer-real-time-nft-fighting-game-and-were-building-it?source=rss",
+          "author": "Battle of Guardians",
+          "description": "We're building the first multiplayer real-time NFT fighting game in the world, using the Unreal Engine for the ultimate in realistic world rendering.",
+          "link": "https://hackernoon.com/gamefi-needs-a-multiplayer-real-time-nft-fighting-game-and-were-building-it?source=rss",
+          "publishedOn": "2022-01-13T10:14:37.000Z",
+          "wordCount": 1986,
+          "title": "GameFi Needs a Multiplayer Real-Time NFT Fighting Game and We're Building It"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-consistently-deliver-your-projects-on-time-5-tips-to-follow?source=rss",
+          "author": "Jared L Wong",
+          "description": "The bread and butter of knowledge work is figuring out what needs to be done, in what order, and what can be cut.",
+          "link": "https://hackernoon.com/how-to-consistently-deliver-your-projects-on-time-5-tips-to-follow?source=rss",
+          "publishedOn": "2022-01-13T09:57:48.000Z",
+          "wordCount": 1716,
+          "title": "How to Consistently Deliver Your Projects on Time: 5 Tips to Follow"
+        },
+        {
+          "id": "https://hackernoon.com/best-smart-tv?source=rss",
+          "author": "Top Tech Companies",
+          "description": "Thinking about purchasing a brand new smart TV for yourself? Sounds great! We have reviewed some smart TVs options just for you.",
+          "link": "https://hackernoon.com/best-smart-tv?source=rss",
+          "publishedOn": "2022-01-13T09:40:11.000Z",
+          "wordCount": 1029,
+          "title": "Upgrade Your Movie Night Experience With the Best Smart TV"
+        },
+        {
+          "id": "https://hackernoon.com/best-camcorders?source=rss",
+          "author": "Top Tech Companies",
+          "description": "In our buying guide, we take a closer look at the most highly-rated camcorders available, along with the information you need to find a suitable one.",
+          "link": "https://hackernoon.com/best-camcorders?source=rss",
+          "publishedOn": "2022-01-13T09:38:53.000Z",
+          "wordCount": 1021,
+          "title": "Record Outstanding Videos with the Best Camcorders"
+        },
+        {
+          "id": "https://hackernoon.com/top-3-vr-tokens-powering-the-metaverse?source=rss",
+          "author": "CryptoBlastoff",
+          "description": "As the Metaverse race heats up, the VR crypto niche is still extremely small, with CoinGecko's VR filter pulling only 3 tokens with any MarCap to speak of.",
+          "link": "https://hackernoon.com/top-3-vr-tokens-powering-the-metaverse?source=rss",
+          "publishedOn": "2022-01-13T09:31:01.000Z",
+          "wordCount": 2243,
+          "title": "Top 3 VR Tokens Powering the Metaverse"
+        },
+        {
+          "id": "https://hackernoon.com/5-key-load-balancer-performance-metrics-you-should-track?source=rss",
+          "author": "Srushti",
+          "description": "In this blog, I have mentioned top load balancer metrics that can help you to ensure that your web application is running smoothly.",
+          "link": "https://hackernoon.com/5-key-load-balancer-performance-metrics-you-should-track?source=rss",
+          "publishedOn": "2022-01-13T07:11:42.000Z",
+          "wordCount": 2165,
+          "title": "5 Key Load Balancer Performance Metrics You Should Track"
+        },
+        {
+          "id": "https://hackernoon.com/all-gta-games-in-chronological-order-from-grand-theft-auto-london-1961-to-gta-online?source=rss",
+          "author": "Marc Magrini",
+          "description": "Check out the GTA games in chronological order, separated by what universe  they're from.",
+          "link": "https://hackernoon.com/all-gta-games-in-chronological-order-from-grand-theft-auto-london-1961-to-gta-online?source=rss",
+          "publishedOn": "2022-01-13T06:59:49.000Z",
+          "wordCount": 2272,
+          "title": "All GTA Games in Chronological Order: From Grand Theft Auto: London 1961 to GTA Online"
+        },
+        {
+          "id": "https://hackernoon.com/mario-kart-9-possible-release-date-and-everything-we-know-so-far?source=rss",
+          "author": "Blake Cram",
+          "description": "Mario Kart 9 is reportedly in development. Here is everything you need to know to get excited for Nintendo's next kooky kart racer.",
+          "link": "https://hackernoon.com/mario-kart-9-possible-release-date-and-everything-we-know-so-far?source=rss",
+          "publishedOn": "2022-01-13T06:56:51.000Z",
+          "wordCount": 2974,
+          "title": "Mario Kart 9: Possible Release Date and Everything We Know So Far"
+        },
+        {
+          "id": "https://hackernoon.com/all-aboard-the-hackership?source=rss",
+          "author": null,
+          "description": "The first instalment in a series set to document an editorial intern's journey throughout the hackership - Hackernoon's first internship program.",
+          "link": "https://hackernoon.com/all-aboard-the-hackership?source=rss",
+          "publishedOn": "2022-01-13T06:52:14.000Z",
+          "wordCount": 1586,
+          "title": "All Aboard The Hackership"
+        },
+        {
+          "id": "https://hackernoon.com/when-is-the-right-time-to-step-down-as-your-startups-ceo?source=rss",
+          "author": "Michael Brooks",
+          "description": "Here's why you can't and shouldn't be your startup's CEO forever. Eventually, if you're lucky, it'll come time to let someone else manage your baby.",
+          "link": "https://hackernoon.com/when-is-the-right-time-to-step-down-as-your-startups-ceo?source=rss",
+          "publishedOn": "2022-01-13T06:36:06.000Z",
+          "wordCount": 1818,
+          "title": "When is The Right Time to Step Down as Your Startup's CEO?"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-find-open-source-projects-for-beginners?source=rss",
+          "author": "Ashutosh Mishra",
+          "description": "I think, fundamentally, open source does tend to be more stable software. It's the right way to do things. - Linus Torvalds",
+          "link": "https://hackernoon.com/how-to-find-open-source-projects-for-beginners?source=rss",
+          "publishedOn": "2022-01-13T05:41:18.000Z",
+          "wordCount": 1980,
+          "title": "How to Find Open Source Projects for Beginners"
+        },
+        {
+          "id": "https://hackernoon.com/the-best-mario-games-for-switch-owners?source=rss",
+          "author": "Marc Magrini",
+          "description": "Check out the best Mario games for Switch owners! We go over mainline, multiplayer, 2D, sports, and RPG games in the Mario universe.",
+          "link": "https://hackernoon.com/the-best-mario-games-for-switch-owners?source=rss",
+          "publishedOn": "2022-01-13T05:38:44.000Z",
+          "wordCount": 2154,
+          "title": "The Best Mario Games for Switch Owners"
+        },
+        {
+          "id": "https://hackernoon.com/definitive-waluigi-meme-list-to-remind-us-what-smash-bros-ultimate-is-missing?source=rss",
+          "author": "Blake Cram",
+          "description": "The funniest memes revolving around Waluigi's Super Smash Bros. Ultimate snub that will ease your pain.",
+          "link": "https://hackernoon.com/definitive-waluigi-meme-list-to-remind-us-what-smash-bros-ultimate-is-missing?source=rss",
+          "publishedOn": "2022-01-13T03:00:40.000Z",
+          "wordCount": 2276,
+          "title": "Definitive Waluigi Meme List to Remind Us What Smash Bros. Ultimate is Missing"
+        },
+        {
+          "id": "https://hackernoon.com/top-5-play-to-earn-platform-development-companies-2022?source=rss",
+          "author": "kathryn mitchell",
+          "description": "The Non Fungible assets in the gaming space have had an enormous influence on the crypto sector.",
+          "link": "https://hackernoon.com/top-5-play-to-earn-platform-development-companies-2022?source=rss",
+          "publishedOn": "2022-01-12T23:43:44.000Z",
+          "wordCount": 1507,
+          "title": "Top 5 Play To Earn Platform Development Companies - 2022"
+        },
+        {
+          "id": "https://hackernoon.com/a-systematic-approach-to-cyber-deception-part-1-of-4?source=rss",
+          "author": "Jym Cheong",
+          "description": "This approach is adapted from a joint paper by Mohammed H. Almeshekah and Eugene H. Spafford, published by Springer International Publishing (Switzerland 2016).",
+          "link": "https://hackernoon.com/a-systematic-approach-to-cyber-deception-part-1-of-4?source=rss",
+          "publishedOn": "2022-01-12T23:42:19.000Z",
+          "wordCount": 1792,
+          "title": "Taking a Systematic Approach to Cyber Deception - Part 1"
+        },
+        {
+          "id": "https://hackernoon.com/which-tech-jobs-cannot-be-replaced-by-ai?source=rss",
+          "author": "Steven Finkelstein",
+          "description": "Which jobs will remain human-centric even as AI becomes increasingly ubiquitous.",
+          "link": "https://hackernoon.com/which-tech-jobs-cannot-be-replaced-by-ai?source=rss",
+          "publishedOn": "2022-01-12T23:37:43.000Z",
+          "wordCount": 3225,
+          "title": "The Tech Jobs that Cannot Be Replaced by AI"
+        },
+        {
+          "id": "https://hackernoon.com/5-mobile-app-development-trends-that-will-dominate-in-2022?source=rss",
+          "author": "Alex Lashkov",
+          "description": "What are top five mobile development trends to watch out? Read to find out and prepare!",
+          "link": "https://hackernoon.com/5-mobile-app-development-trends-that-will-dominate-in-2022?source=rss",
+          "publishedOn": "2022-01-12T23:28:26.000Z",
+          "wordCount": 2154,
+          "title": "5 Mobile App Development Trends That Will Dominate in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-average-handle-time-aht-and-how-to-reduce-it-20-tips-and-tactics?source=rss",
+          "author": "Dmitry Dragilev",
+          "description": "Average handle time is a key metric to focus on when trying to improve your customer support strategy. Read more about its major contributing factors, and what",
+          "link": "https://hackernoon.com/what-is-average-handle-time-aht-and-how-to-reduce-it-20-tips-and-tactics?source=rss",
+          "publishedOn": "2022-01-12T23:21:21.000Z",
+          "wordCount": 4605,
+          "title": "What Is Average Handle Time (AHT) and How To Reduce It: 20 Tips & Tactics"
+        },
+        {
+          "id": "https://hackernoon.com/jira---servicenow-integration-guide?source=rss",
+          "author": "ZigiWave",
+          "description": "Integrate Jira and ServiceNow in a few clicks to simplify your workflows and improve communication between teams and departments in your organization.",
+          "link": "https://hackernoon.com/jira---servicenow-integration-guide?source=rss",
+          "publishedOn": "2022-01-12T23:11:06.000Z",
+          "wordCount": 3139,
+          "title": "Jira – ServiceNow Integration Guide"
+        },
+        {
+          "id": "https://hackernoon.com/markdown-and-privacy-focused-note-taking-are-the-perfect-match?source=rss",
+          "author": "Attila Orosz",
+          "description": "The new Markdown editor marks TagSpaces down as one of the best no-cloud offline note-taking apps for privacy-focused users.",
+          "link": "https://hackernoon.com/markdown-and-privacy-focused-note-taking-are-the-perfect-match?source=rss",
+          "publishedOn": "2022-01-12T22:58:57.000Z",
+          "wordCount": 3522,
+          "title": "Markdown and Privacy-Focused Note Taking are the Perfect Match"
+        },
         {
           "id": "https://hackernoon.com/theres-no-such-thing-as-a-best-price-in-bitcoin?source=rss",
           "author": "Mark",
@@ -16356,6 +16617,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=148506",
+          "author": "ACMer",
+          "description": "You are given a string title consisting of one or more words separated by a single space, where each word consists of English letters. Capitalize the string by changing the capitalization of each...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-two-pointer-algorithm-to-capitalize-the-title-string/",
+          "publishedOn": "2022-01-13T20:26:48.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Two Pointer Algorithm to Capitalize the Title String",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=148488",
           "author": "ACMer",
           "description": "Given an integer array nums, return true if there exists a triple of indices (i, j, k) such that i < j < k and nums < nums < nums. If no such indices exists, return false. Example 1:...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -17202,6 +17473,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=515180",
+          "author": "Dave Rowntree",
+          "description": "We’ve seen a few interesting magnetic core memories on these fine pages over the years, but we don’t recall seeing too many user programmable magnetic core memory devices. This interesting …read more",
+          "link": "https://hackaday.com/2022/01/13/soviet-era-auto-dialler-uses-magnetic-rope-core-memory/",
+          "publishedOn": "2022-01-14T00:00:39.000Z",
+          "wordCount": 1494,
+          "title": "Soviet-Era Auto Dialler Uses Magnetic Rope Core Memory"
+        },
+        {
+          "id": "https://hackaday.com/?p=515523",
+          "author": "Lewin Day",
+          "description": "When we think of tracked vehicles, we normally think of tanks, or perhaps heavy construction machinery. Meanwhile the average member of the public is left out of the fun. [Bob] …read more",
+          "link": "https://hackaday.com/2022/01/13/ride-on-tracked-vehicle-is-a-stout-metal-build/",
+          "publishedOn": "2022-01-13T21:00:07.000Z",
+          "wordCount": 1312,
+          "title": "Ride-on Tracked Vehicle Is A Stout Metal Build"
+        },
+        {
+          "id": "https://hackaday.com/?p=515260",
+          "author": "Chris Lott",
+          "description": "When he’s not busy with his day job as professor of computer and automotive engineering at Weber State University, [John Kelly] is a prolific producer of educational videos. We found …read more",
+          "link": "https://hackaday.com/2022/01/13/exploring-tesla-model-s-high-voltage-cabling/",
+          "publishedOn": "2022-01-13T19:30:24.000Z",
+          "wordCount": 1835,
+          "title": "Exploring Tesla Model S High Voltage Cabling"
+        },
+        {
+          "id": "https://hackaday.com/?p=515597",
+          "author": "Matthew Carlson",
+          "description": "Smart meters form mesh networks among themselves and transmit your usage data all around. Some of them even allow the power company to turn off your power remotely, through the …read more",
+          "link": "https://hackaday.com/2022/01/13/remoticon-2021-hash-salehi-outsmarts-his-smart-meter/",
+          "publishedOn": "2022-01-13T18:02:59.000Z",
+          "wordCount": 2429,
+          "title": "Remoticon 2021 // Hash Salehi Outsmarts His Smart Meter"
+        },
+        {
+          "id": "https://hackaday.com/?p=515343",
+          "author": "Al Williams",
+          "description": "If you are an old hand at RF design, you probably have a good handle on matching impedance. However, if you are just getting started with RF, [FesZ Electronic]’s latest …read more",
+          "link": "https://hackaday.com/2022/01/13/impedance-matching-revisited/",
+          "publishedOn": "2022-01-13T16:30:26.000Z",
+          "wordCount": 1586,
+          "title": "Impedance Matching Revisited"
+        },
+        {
+          "id": "https://hackaday.com/?p=513657",
+          "author": "Jenny List",
+          "description": "A couple of weeks ago when it emerged that a new Tesla might have a four-wheel steering capability, our colleague Dan Maloney mused aloud as to how useful a four-wheel …read more",
+          "link": "https://hackaday.com/2022/01/13/four-wheel-steering-always-the-option-never-the-defining-feature/",
+          "publishedOn": "2022-01-13T15:00:29.000Z",
+          "wordCount": 4610,
+          "title": "Four Wheel Steering, Always The Option, Never The Defining Feature"
+        },
+        {
+          "id": "https://hackaday.com/?p=515503",
+          "author": "Chris Lott",
+          "description": "An unexpected side effect of the global semiconductor shortage came to light this week — Japanese printer manufacturer Canon announced they are temporarily going to provide consumable ink and toner …read more",
+          "link": "https://hackaday.com/2022/01/13/canon-temporarily-abandons-smart-ink-cartridges/",
+          "publishedOn": "2022-01-13T12:00:58.000Z",
+          "wordCount": 3001,
+          "title": "Canon Temporarily Abandons Smart Ink Cartridges"
+        },
         {
           "id": "https://hackaday.com/?p=515389",
           "author": "Lewin Day",
@@ -22979,6 +23313,46 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "ED15D3CD-3BA6-420F-9B32ACFEF4E6234B",
+          "author": "Lydia Denworth",
+          "description": "The research could mark a turning point in the fight against MS\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/epstein-barr-virus-found-to-trigger-multiple-sclerosis/",
+          "publishedOn": "2022-01-13T20:15:00.000Z",
+          "wordCount": null,
+          "title": "Epstein-Barr Virus Found to Trigger Multiple Sclerosis",
+          "itunes": {}
+        },
+        {
+          "id": "1A42444E-1B8E-4D23-BB3765E23657E4D4",
+          "author": "Anne C. Mulkern, E&E News",
+          "description": "The report follows a heat wave that killed hundreds across the western U.S. this summer\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/california-presents-plan-to-prevent-extreme-heat-deaths/",
+          "publishedOn": "2022-01-13T19:30:00.000Z",
+          "wordCount": null,
+          "title": "California Presents Plan to Prevent Extreme Heat Deaths",
+          "itunes": {}
+        },
+        {
+          "id": "C1AC9CE2-15EE-4385-82816BB65548CC07",
+          "author": "Jonathan O'Callaghan",
+          "description": "Kepler-1708 b-i appears to be a giant moon orbiting a Jupiter-sized planet thousands of light-years from Earth\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/astronomers-have-found-another-possible-exomoon-beyond-our-solar-system/",
+          "publishedOn": "2022-01-13T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Astronomers Have Found Another Possible 'Exomoon' beyond Our Solar System",
+          "itunes": {}
+        },
+        {
+          "id": "B01206E7-FC87-4BA4-9F862DCC71EC8131",
+          "author": "Annie Melchor",
+          "description": "Molecules produced by the parasite lure mosquitoes to a beet-based bait\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/new-bait-uses-mosquitoes-love-of-malaria-parasite-to-bite-them-back/",
+          "publishedOn": "2022-01-13T11:45:00.000Z",
+          "wordCount": null,
+          "title": "New Bait Uses Mosquitoes' Love of Malaria Parasite to Bite Them Back",
+          "itunes": {}
+        },
+        {
           "id": "39B53F23-17C5-4D64-84DD80B25D35224E",
           "author": "Mike Wall, SPACE.com",
           "description": "The rover’s latest sample collection—an effort to gather material for eventual return to Earth—is off to a rocky start\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -22996,6 +23370,16 @@
           "publishedOn": "2022-01-12T16:30:00.000Z",
           "wordCount": null,
           "title": "Oceans Break Heat Record for Third Year in a Row",
+          "itunes": {}
+        },
+        {
+          "id": "A334E409-66B0-45BB-A9F012B9B97E761D",
+          "author": "Carolyn Barber",
+          "description": "Impaired blood flow leads to loss of limbs\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/some-covid-patients-need-amputations-to-survive1/",
+          "publishedOn": "2022-01-12T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Some COVID Patients Need Amputations to Survive",
           "itunes": {}
         },
         {
@@ -27998,6 +28382,51 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=149089",
+          "author": "Judith Hurwitz",
+          "description": "It is difficult to find a single area of the technology landscape that isn’t incorporating artificial intelligence (AI) into products and services. As we move into a world where distributed computing is the norm for business operations, AI is a requirement given the increasing level of complexity in computing environments. While there are many different […]\nThe post 2022 Predictions: AI, Security and Cloud appeared first on DevOps.com.",
+          "link": "https://devops.com/2022-predictions-ai-security-and-cloud/",
+          "publishedOn": "2022-01-13T22:04:36.000Z",
+          "wordCount": 983,
+          "title": "2022 Predictions: AI, Security and Cloud"
+        },
+        {
+          "id": "https://devops.com/?p=149071",
+          "author": "Richi Jennings",
+          "description": "In this week’s The Long View: iMessage lock-in lessons, attrition-rate fixes, and more on Mozilla.\nThe post EEEWW—Green iMessage Bubbles | ‘Great Resignation’ Redux | Faster Firefox 96 appeared first on DevOps.com.",
+          "link": "https://devops.com/eeeww-green-imessage-bubbles-great-resignation-redux-faster-firefox-96/",
+          "publishedOn": "2022-01-13T18:52:26.000Z",
+          "wordCount": 1976,
+          "title": "EEEWW—Green iMessage Bubbles | ‘Great Resignation’ Redux | Faster Firefox 96"
+        },
+        {
+          "id": "https://devops.com/?p=149046",
+          "author": "Steve Brothers",
+          "description": "Change is constant and inevitable. While some changes are welcome, others are just a necessary evil.  Continuous calls for digitalization combined with a pandemic-prompted emphasis on transforming business operations, force organizations across industries to modernize their legacy systems. The emergence of cloud computing has shrunk organizations’ on-premise IT footprints. However, with 96 of the world’s […]\nThe post How AI Can Improve Software Development appeared first on DevOps.com.",
+          "link": "https://devops.com/how-ai-can-improve-software-development/",
+          "publishedOn": "2022-01-13T08:00:18.000Z",
+          "wordCount": 1514,
+          "title": "How AI Can Improve Software Development"
+        },
+        {
+          "id": "https://devops.com/?p=148989",
+          "author": "Bill Doerrfeld",
+          "description": "Blockchain is hot right now. The industry has a staggering CAGR rate of over 69% between 2019 to 2025. Blockchain is no longer only relevant to cryptocurrency, either—blockchain-based applications are emerging to support many other scenarios that require decentralized data storage and accessibility. I recently met with Medha Parlikar, co-Founder and CTO, CasperLabs, to learn […]\nThe post Trends in Blockchain for 2022 appeared first on DevOps.com.",
+          "link": "https://devops.com/some-trends-to-anticipate-for-blockchain-in-2022/",
+          "publishedOn": "2022-01-13T07:30:19.000Z",
+          "wordCount": 1603,
+          "title": "Trends in Blockchain for 2022"
+        },
+        {
+          "id": "https://devops.com/?p=149061",
+          "author": "ROELBOB",
+          "description": "The post Status in the Metaverse appeared first on DevOps.com.",
+          "link": "https://devops.com/status-in-the-metaverse/",
+          "publishedOn": "2022-01-13T07:00:28.000Z",
+          "wordCount": 436,
+          "title": "Status in the Metaverse"
+        },
+        {
           "id": "https://devops.com/?p=149050",
           "author": "Mike Vizard",
           "description": "As 2022 kicks off, it’s becoming apparent that the major DevOps challenge organizations will face is mastering best practices that enable continuous delivery. A global survey of more than 19,000 software development professionals conducted by the Continuous Delivery (CD) Foundation found 44% of respondents use either continuous integration or deployment. However, less than one in […]\nThe post Continuous Delivery Challenge Looms Large in 2022 appeared first on DevOps.com.",
@@ -30246,6 +30675,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=111793",
+          "author": "Kevin Hartnett",
+          "description": "Paul Nelson has solved the subconvexity problem, bringing mathematicians one step closer to understanding the Riemann hypothesis and the distribution of prime numbers.            \nThe post Mathematicians Clear Hurdle in Quest to Decode Primes first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/mathematicians-clear-hurdle-in-quest-to-decode-prime-numbers-20220113/",
+          "publishedOn": "2022-01-13T16:12:57.000Z",
+          "wordCount": null,
+          "title": "Mathematicians Clear Hurdle in Quest to Decode Primes",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=111777",
           "author": "Katie McCormick",
           "description": "Physicists have been busy exploring how our universe might emerge like a hologram out of a two-dimensional sheet. New clues have come from the symmetries found on an infinitely distant “celestial sphere.”             \nThe post Symmetries Reveal Clues About the Holographic Universe first appeared on Quanta Magazine",
@@ -30772,6 +31211,33 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66551",
+          "author": "Nathan Yau",
+          "description": "The discussions this week felt familiar. Probably because we've seen this many times, since the beginning of charts themselves.\nTags: audience, critique, debate",
+          "link": "https://flowingdata.com/2022/01/13/process-172-visualization-debate/",
+          "publishedOn": "2022-01-13T19:30:01.000Z",
+          "wordCount": 309,
+          "title": "✚ Debating About Visualization – The Process 172"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66560",
+          "author": "Nathan Yau",
+          "description": "Schema Design, Google Trends, and Axios collaborated on The New Normal, looking at…\nTags: Google, search, shopping",
+          "link": "https://flowingdata.com/2022/01/13/new-shopping-patterns-from-the-pandemic/",
+          "publishedOn": "2022-01-13T18:10:46.000Z",
+          "wordCount": 335,
+          "title": "New shopping search patterns from the pandemic"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66556",
+          "author": "Nathan Yau",
+          "description": "Using data from NOAA, Krishna Karra and Tim Wallace for The New York…\nTags: climate change, New York Times, temperature",
+          "link": "https://flowingdata.com/2022/01/13/all-time-temperature-records-broken-in-2021/",
+          "publishedOn": "2022-01-13T11:59:52.000Z",
+          "wordCount": 295,
+          "title": "All-time temperature records broken in 2021"
+        },
         {
           "id": "https://flowingdata.com/?p=66523",
           "author": "Nathan Yau",
@@ -32457,15 +32923,6 @@
           "publishedOn": "2021-01-21T18:00:20.000Z",
           "wordCount": 224,
           "title": "Thinking on ways to solve a SIDENAV"
-        },
-        {
-          "id": "https://web.dev/shows/gui-challenges/Rzpm9VirtkE/",
-          "author": null,
-          "description": "We stress tested 5 different CSS centering techniques and I challenged you to submit your own. Shout out to Chris Coyier from CSS-Tricks for sharing his own tricks! Do you have another way you’d center in CSS? Send it our way!\nWatch the GUI Centering episode → \nCheck out Chris’s blog post → https://goo.gle/39d9Rwbhttp://goo.gle/3nrVCZo\n\nCode along → \nRead along → \nTry a demo → https://goo.gle/3qEIaE8https://goo.gle/39NHC9ahttps://goo.gle/33PIW7A\n\nSubscribe to Google Chrome Developers  → http://goo.gl/LLLNvf\n#GUIChallenges #GUIsubmissions",
-          "link": "https://web.dev/shows/gui-challenges/Rzpm9VirtkE/",
-          "publishedOn": "2021-01-13T18:06:20.000Z",
-          "wordCount": 141,
-          "title": "Submission shoutout for CENTERING"
         }
       ]
     }
