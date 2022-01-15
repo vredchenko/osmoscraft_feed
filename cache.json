@@ -436,6 +436,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=360928",
+          "author": "Chris Coyier",
+          "description": "Stoyan is absolutely correct. As much as we all love CSS, it’s still an important player in how websites load and using less of it is a good thing. He has a neat new bookmarklet called CSS Me Not …\nUsing the CSS Me Not Bookmarklet to See (and Disable) CSS Files originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/css-me-not-bookmarklet/",
+          "publishedOn": "2022-01-15T00:06:56.000Z",
+          "wordCount": 911,
+          "title": "Using the CSS Me Not Bookmarklet to See (and Disable) CSS Files"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360864",
+          "author": "Chris Coyier",
+          "description": "Mondrian is famous for paintings with big thick black lines forming a grid, where each cell is white, red, yellow, or blue. This aesthetic pairs well with the notoriously rectangular web, and that hasn’t gone unnoticed over the years with …\nMondrian Art in CSS From 5 Code Artists originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/mondrian-art-in-css-from-5-code-artists/",
+          "publishedOn": "2022-01-14T18:15:03.000Z",
+          "wordCount": 843,
+          "title": "Mondrian Art in CSS From 5 Code Artists"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360781",
+          "author": "Austin Crim",
+          "description": "The Svelte transition API provides a first-class way to animate your components when they enter or leave the document, including custom Svelte transitions. By default, the transition directive uses CSS animations, which generally offer better performance and allow the browser’s …\nHow to Build Your First Custom Svelte Transition originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/making-your-first-custom-svelte-transition/",
+          "publishedOn": "2022-01-14T15:24:19.000Z",
+          "wordCount": 1571,
+          "title": "How to Build Your First Custom Svelte Transition"
+        },
+        {
           "id": "https://css-tricks.com/?p=360939",
           "author": "Chris Coyier",
           "description": "Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Accessibility is one of those things! Here’s a list of related links to other articles that I’ve been saving up and …\n8 Helpful Accessibility Links for January 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
@@ -2170,6 +2197,60 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61dff97db837d507ba0a12db",
+          "author": null,
+          "description": "File Explorer is an application for managing files. It is also known as Windows Explorer. It is one of the built-in applications in the Microsoft Windows operating system.  File Explorer is extremely important, as it helps you oraganize and manage files in your PC. Sometimes File Explorer stops responding and",
+          "link": "https://www.freecodecamp.org/news/file-explorer-not-responding-fixed-on-windows-10-pc/",
+          "publishedOn": "2022-01-14T22:39:28.000Z",
+          "wordCount": 923,
+          "title": "File Explorer Not Responding – Fixed on Windows 10 PC"
+        },
+        {
+          "id": "61dd9481b837d507ba09fca9",
+          "author": null,
+          "description": "I've composed this guide to give you a practical overview of perhaps the most important React library you will use to build 90% of your projects: Next.js. The goal of this tutorial is to get you started using Next.js as easily as possible. This is not a complete",
+          "link": "https://www.freecodecamp.org/news/nextjs-tutorial/",
+          "publishedOn": "2022-01-14T21:39:10.000Z",
+          "wordCount": 2638,
+          "title": "Get Started with Next.js – The React Library Your Project Needs"
+        },
+        {
+          "id": "61dfe267b837d507ba0a10e9",
+          "author": null,
+          "description": "If you have a website, it's helpful to have a loader so users can tell something is happening once they've clicked a link or button.  You can use this loader component in a lot of places, and it should be as simple as possible.  In this post, we will see",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-css-only-loader/",
+          "publishedOn": "2022-01-14T21:11:49.000Z",
+          "wordCount": 1930,
+          "title": "How to Create a CSS-Only Loader Using One Element"
+        },
+        {
+          "id": "61de055cb837d507ba0a011c",
+          "author": null,
+          "description": "A code Snippet is a programming term that refers to a small portion of re-usable source code, machine code, or text.  Snippets help programmers reduce the time it takes to type in repetitive information while coding. Code Snippets are a feature on most text editors, code editors, and IDEs.  In",
+          "link": "https://www.freecodecamp.org/news/create-your-own-custom-code-snippets/",
+          "publishedOn": "2022-01-14T18:46:57.000Z",
+          "wordCount": 2162,
+          "title": "How to Create Your Own Custom Code Snippets Right in Your Code Editor"
+        },
+        {
+          "id": "61dbe879d2d9de084285fb65",
+          "author": null,
+          "description": "The z-index property might seem simple, but it's not just about using a positive or negative integer.  There's a lot more going on under the hood, and some quirks can cause problems when you're working with it.  In this article, we're going to dive deep into the z-index property and",
+          "link": "https://www.freecodecamp.org/news/how-the-z-index-property-works-under-the-hood/",
+          "publishedOn": "2022-01-14T11:06:00.000Z",
+          "wordCount": 1357,
+          "title": "How the z-index Property Works Under the Hood"
+        },
+        {
+          "id": "61dc4ac1d2d9de084285fed6",
+          "author": null,
+          "description": "Kubernetes is a container orchestration platform that helps you manage containers at scale.  I recently passed my certified Kubernetes administrator exam, and I would like to share my learning experience and resources with you.  Should You Get Kubernetes Certified? There are mixed opinions in the tech industry about the importance",
+          "link": "https://www.freecodecamp.org/news/certified-kubernetes-administrator-study-guide-cka/",
+          "publishedOn": "2022-01-14T01:14:02.000Z",
+          "wordCount": 3532,
+          "title": "Certified Kubernetes Administrator Study Guide – Prepare for the CKA Exam"
+        },
         {
           "id": "61e081cfb837d507ba0a2179",
           "author": null,
@@ -4823,6 +4904,186 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "https://hackernoon.com",
       "articles": [
+        {
+          "id": "https://hackernoon.com/jdbc-tutorial-part-3-how-to-use-database-connection-pools?source=rss",
+          "author": "Alejandro Duarte",
+          "description": "Learn what database connection pools are, why you should use them, and how",
+          "link": "https://hackernoon.com/jdbc-tutorial-part-3-how-to-use-database-connection-pools?source=rss",
+          "publishedOn": "2022-01-13T22:59:28.000Z",
+          "wordCount": 1796,
+          "title": "JDBC Tutorial Part 3: How to Use Database Connection Pools"
+        },
+        {
+          "id": "https://hackernoon.com/ethereum-vs-everybody-layer-wars-overview?source=rss",
+          "author": "kadeemclarke.eth",
+          "description": "In the race for $ETH scalability, the Layer Wars are in full swing. Will the future of scalable decentralization rely on #Ethereum 2.0, other L1s, or L2s?",
+          "link": "https://hackernoon.com/ethereum-vs-everybody-layer-wars-overview?source=rss",
+          "publishedOn": "2022-01-13T22:56:15.000Z",
+          "wordCount": 3025,
+          "title": "Ethereum vs. Everything Else: The Layer Wars"
+        },
+        {
+          "id": "https://hackernoon.com/top-10-javascript-ui-frameworks-and-libraries-for-2022?source=rss",
+          "author": "Nataliya",
+          "description": "From a client-side programming perspective, the language JavaScript has grown into the language of web development.",
+          "link": "https://hackernoon.com/top-10-javascript-ui-frameworks-and-libraries-for-2022?source=rss",
+          "publishedOn": "2022-01-13T22:53:29.000Z",
+          "wordCount": 2624,
+          "title": "Top 10 JavaScript UI Frameworks & Libraries for 2022"
+        },
+        {
+          "id": "https://hackernoon.com/why-you-have-to-use-classname-in-react-but-not-in-preact?source=rss",
+          "author": "Nikita Grechino",
+          "description": "If you use JSX inside React you can't use standard HTML properties, like class. You have to camelCase HTML properties. But it's not the case with Preact!",
+          "link": "https://hackernoon.com/why-you-have-to-use-classname-in-react-but-not-in-preact?source=rss",
+          "publishedOn": "2022-01-13T22:30:22.000Z",
+          "wordCount": 3386,
+          "title": "Why you have to use className in React, but not in Preact?"
+        },
+        {
+          "id": "https://hackernoon.com/exactly-how-secure-is-web-3?source=rss",
+          "author": "Adekusibe Ogunmokun",
+          "description": "Ever wonder what data privacy will look like in Web 3? Yes, everyone is. But don't fret. This article explains web 3 security issues.",
+          "link": "https://hackernoon.com/exactly-how-secure-is-web-3?source=rss",
+          "publishedOn": "2022-01-13T22:15:57.000Z",
+          "wordCount": 2029,
+          "title": "Exactly How Secure is Web 3"
+        },
+        {
+          "id": "https://hackernoon.com/a-brief-guide-to-visualizing-the-biggest-economic-bubbles?source=rss",
+          "author": "Vladislav Vaskin",
+          "description": "The crypto market is still young, and there are still growth opportunities yet to come. This can easily be seen by comparing the capitalization of major",
+          "link": "https://hackernoon.com/a-brief-guide-to-visualizing-the-biggest-economic-bubbles?source=rss",
+          "publishedOn": "2022-01-13T22:04:22.000Z",
+          "wordCount": 1160,
+          "title": "A Brief Guide to Visualizing the Biggest Economic Bubbles"
+        },
+        {
+          "id": "https://hackernoon.com/why-does-python-has-a-pass-statement?source=rss",
+          "author": "Pawan Jain",
+          "description": "Article to understand why does Python have a Pass statement, why it is designed? Is it just an ordinary comment block or for the grammatical completeness",
+          "link": "https://hackernoon.com/why-does-python-has-a-pass-statement?source=rss",
+          "publishedOn": "2022-01-13T22:02:48.000Z",
+          "wordCount": 2070,
+          "title": "Why Does Python Has a \"Pass\" Statement"
+        },
+        {
+          "id": "https://hackernoon.com/magento-commerce---everything-you-need-to-know-2022-review?source=rss",
+          "author": "AnnaSharland",
+          "description": "An in-depth look at the features and functionality of Magento Commerce (formerly Enterprise Edition), along with the strengths and limitations.",
+          "link": "https://hackernoon.com/magento-commerce---everything-you-need-to-know-2022-review?source=rss",
+          "publishedOn": "2022-01-13T21:55:02.000Z",
+          "wordCount": 2458,
+          "title": "Magento Commerce – Everything You Need to Know (2022 Review)"
+        },
+        {
+          "id": "https://hackernoon.com/why-you-will-still-need-a-vpn-in-2022?source=rss",
+          "author": "Vasiliy Ivanov",
+          "description": "Some people say that the VPN is becoming obsolete. But is it really so?",
+          "link": "https://hackernoon.com/why-you-will-still-need-a-vpn-in-2022?source=rss",
+          "publishedOn": "2022-01-13T21:04:37.000Z",
+          "wordCount": 1964,
+          "title": "Why you will Still Need a VPN in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/build-a-javascript-loan-calculator-with-html-and-css?source=rss",
+          "author": "Shantanu Jana",
+          "description": "",
+          "link": "https://hackernoon.com/build-a-javascript-loan-calculator-with-html-and-css?source=rss",
+          "publishedOn": "2022-01-13T20:02:37.000Z",
+          "wordCount": 1817,
+          "title": "Build a JavaScript Loan Calculator With HTML & CSS"
+        },
+        {
+          "id": "https://hackernoon.com/tax-sketches-raises-$1m-in-funding-to-build-the-future-of-legal-tech?source=rss",
+          "author": "Tax Sketches",
+          "description": "LegalTech-project Tax Sketches has attracted a round of $ 1 million from a private angel investing in fintech and legaltech projects.",
+          "link": "https://hackernoon.com/tax-sketches-raises-$1m-in-funding-to-build-the-future-of-legal-tech?source=rss",
+          "publishedOn": "2022-01-13T19:58:34.000Z",
+          "wordCount": 1370,
+          "title": "Tax Sketches Raises $1m in Funding to Build the Future of Legal Tech"
+        },
+        {
+          "id": "https://hackernoon.com/11-customer-feedback-software-that-would-revolutionize-2022?source=rss",
+          "author": "chanakyakyatham",
+          "description": "Several customer feedback software is taking the market by storm. Experience the functions of some of the leading survey tools dominating 2022.",
+          "link": "https://hackernoon.com/11-customer-feedback-software-that-would-revolutionize-2022?source=rss",
+          "publishedOn": "2022-01-13T19:45:50.000Z",
+          "wordCount": 2066,
+          "title": "11 Customer Feedback Software that Would Revolutionize 2022"
+        },
+        {
+          "id": "https://hackernoon.com/build-a-wordle-like-sms-game-with-twilio-serverless-in-javascript?source=rss",
+          "author": "Twilio",
+          "description": "Learn to build Twilio's just-for-fun homage to Wordle builder Josh Wardle. Did your web Wordle for the day? Keep busy until the next official Wordle via text",
+          "link": "https://hackernoon.com/build-a-wordle-like-sms-game-with-twilio-serverless-in-javascript?source=rss",
+          "publishedOn": "2022-01-13T18:52:20.000Z",
+          "wordCount": 3456,
+          "title": "Build a Wordle-like SMS game with Twilio Serverless in JavaScript"
+        },
+        {
+          "id": "https://hackernoon.com/publishing-a-nodejs-cli-tool-to-npm-in-less-than-15-minutes?source=rss",
+          "author": "Arpan Kc",
+          "description": "Have your Node.js CLI tool up and running, accessible from everywhere in less than 15 minutes.",
+          "link": "https://hackernoon.com/publishing-a-nodejs-cli-tool-to-npm-in-less-than-15-minutes?source=rss",
+          "publishedOn": "2022-01-13T18:34:35.000Z",
+          "wordCount": 2781,
+          "title": "Publishing a Node.js CLI tool to npm in less than 15 minutes"
+        },
+        {
+          "id": "https://hackernoon.com/faqs-on-starting-an-android-career-and-answers-on-how-to-do-it-in-2022?source=rss",
+          "author": "Alex Styl",
+          "description": "Learn how how to start your Android Development career, what is and isn't important to learn, and what to do to land your first job.",
+          "link": "https://hackernoon.com/faqs-on-starting-an-android-career-and-answers-on-how-to-do-it-in-2022?source=rss",
+          "publishedOn": "2022-01-13T18:13:47.000Z",
+          "wordCount": 2314,
+          "title": "FAQs on Starting an Android Career, and Answers on How to Do It in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/10-nocode-tools-to-help-you-build-your-mvp?source=rss",
+          "author": "Anjal Binayak",
+          "description": "A list of 10 free Nocode tools for creating and launching a successful startup ✅🚀",
+          "link": "https://hackernoon.com/10-nocode-tools-to-help-you-build-your-mvp?source=rss",
+          "publishedOn": "2022-01-13T18:02:56.000Z",
+          "wordCount": 1416,
+          "title": "10 NoCode Tools to Help You Build Your MVP 🚀"
+        },
+        {
+          "id": "https://hackernoon.com/towards-open-options-chains-a-data-pipeline-solution-for-options-data-part-i?source=rss",
+          "author": "Chris Chow",
+          "description": "In \"Towards Open Options Chains\", Chris Chow presents his solution for collecting options data: a data pipeline with Airflow, PostgreSQL, and Docker.",
+          "link": "https://hackernoon.com/towards-open-options-chains-a-data-pipeline-solution-for-options-data-part-i?source=rss",
+          "publishedOn": "2022-01-13T17:54:11.000Z",
+          "wordCount": 3623,
+          "title": "Towards Open Options Chains: \nA Data Pipeline Solution for Options Data - Part I"
+        },
+        {
+          "id": "https://hackernoon.com/8-fintech-software-development-startups-to-watch-out-for-in-2022?source=rss",
+          "author": "Dinarys",
+          "description": "How does FinTech software development affect business success? ✅ Are FinTech development services relevant in 2022?",
+          "link": "https://hackernoon.com/8-fintech-software-development-startups-to-watch-out-for-in-2022?source=rss",
+          "publishedOn": "2022-01-13T17:52:45.000Z",
+          "wordCount": 4543,
+          "title": "8 FinTech Software Development Startups to Watch Out for in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/how-experienced-software-engineers-evaluate-designs?source=rss",
+          "author": "Jared L Wong",
+          "description": "Experienced software engineers learn what works after maintaining their work for years.",
+          "link": "https://hackernoon.com/how-experienced-software-engineers-evaluate-designs?source=rss",
+          "publishedOn": "2022-01-13T17:15:56.000Z",
+          "wordCount": 1916,
+          "title": "How Experienced Software Engineers Evaluate Designs"
+        },
+        {
+          "id": "https://hackernoon.com/hybrid-mobile-app-development-frameworks-top-picks-for-2022?source=rss",
+          "author": "Crest Infosystems Pvt. Ltd.",
+          "description": "Top 7 hybrid app development frameworks you should consider in 2022. Let's have a look at the most prominent cross-platform mobile app development frameworks.",
+          "link": "https://hackernoon.com/hybrid-mobile-app-development-frameworks-top-picks-for-2022?source=rss",
+          "publishedOn": "2022-01-13T17:13:36.000Z",
+          "wordCount": 2661,
+          "title": "Hybrid Mobile App Development Frameworks: Top Picks for 2022"
+        },
         {
           "id": "https://hackernoon.com/gamefi-needs-a-multiplayer-real-time-nft-fighting-game-and-were-building-it?source=rss",
           "author": "Battle of Guardians",
@@ -16243,6 +16504,15 @@
       "siteUrl": "https://davidwalsh.name",
       "articles": [
         {
+          "id": "https://davidwalsh.name/?p=27514",
+          "author": "David Walsh",
+          "description": "Employing setInterval for condition polling has really been useful over the years. Whether polling on the client or server sides, being reactive to specific conditions helps to improve user experience. One task I recently needed to complete required that my setInterval immediately execute and then continue executing. The conventional and best way to immediately call […]\nThe post Immediately Executing setInterval with JavaScript appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/immediate-setinterval",
+          "publishedOn": "2022-01-14T02:53:15.000Z",
+          "wordCount": 607,
+          "title": "Immediately Executing setInterval with JavaScript"
+        },
+        {
           "id": "https://davidwalsh.name/?p=27509",
           "author": "David Walsh",
           "description": "One of my least favorite tasks as a software engineer is resolving merge conflicts. A simple rebase is a frequent occurrence but the rare massive conflict is inevitable when many engineers work in a single codebase. One thing that helps me deal with large rebases with many merge conflicts is flattening a branch’s commits before […]\nThe post How to Flatten git Commits appeared first on David Walsh Blog.",
@@ -16616,6 +16886,26 @@
       "feedUrl": "http://feeds.feedburner.com/helloacm?format=xml",
       "siteUrl": "https://helloacm.com",
       "articles": [
+        {
+          "id": "https://helloacm.com/?p=148540",
+          "author": "ACMer",
+          "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms Implement a data structure with the following methods: add(String word) which adds a lowercase alphabet string word to the search...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-search-engine-algorithm-using-trie-prefix-tree-and-depth-first-search-algorithm/",
+          "publishedOn": "2022-01-14T21:49:09.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Search Engine Algorithm (Word Matching) using Trie (Prefix Tree) and Depth First Search",
+          "itunes": {}
+        },
+        {
+          "id": "https://helloacm.com/?p=148523",
+          "author": "ACMer",
+          "description": "You might wonder that: without Powerful GPU Graphic Cards, could I earn some passive income via the CPU? The answer is yes – via the CPU Mining Software: LoadTeam (Signup via this link to get...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/how-to-get-passive-income-using-the-spare-cpu-to-mine/",
+          "publishedOn": "2022-01-14T14:24:08.000Z",
+          "wordCount": null,
+          "title": "How to Get Passive Income using the Spare CPU to Mine?",
+          "itunes": {}
+        },
         {
           "id": "https://helloacm.com/?p=148506",
           "author": "ACMer",
@@ -17473,6 +17763,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=515455",
+          "author": "Matthew Carlson",
+          "description": "It isn’t often we get a project that has an eighteen-year-long timeline, as staying focused on one project for that long is a significant investment of someone’s lifetime. But when …read more",
+          "link": "https://hackaday.com/2022/01/14/making-your-own-mclaren-f1-lm/",
+          "publishedOn": "2022-01-15T00:00:34.000Z",
+          "wordCount": 1161,
+          "title": "Making Your Own Mclaren F1 LM"
+        },
+        {
+          "id": "https://hackaday.com/?p=515469",
+          "author": "Tom Nardi",
+          "description": "When Star Trek: Voyager was in the development phase, concept art was created for a new style of tricorder to be used by the crew of the titular starship. But …read more",
+          "link": "https://hackaday.com/2022/01/14/improving-an-already-phenomenal-star-trek-prop/",
+          "publishedOn": "2022-01-14T21:00:49.000Z",
+          "wordCount": 1539,
+          "title": "Improving an Already Phenomenal Star Trek Prop"
+        },
+        {
+          "id": "https://hackaday.com/?p=515386",
+          "author": "Lewin Day",
+          "description": "[Handy Geng] lives in Baoding, China, where average winter temperatures can get as low as −7.7 °C (18.1 °F). Rather than simply freezing in the cold when using the bathroom, …read more",
+          "link": "https://hackaday.com/2022/01/14/toilet-paper-warmer-is-a-unique-chinese-luxury/",
+          "publishedOn": "2022-01-14T19:30:32.000Z",
+          "wordCount": 1354,
+          "title": "Toilet Paper Warmer Is A Unique Chinese Luxury"
+        },
+        {
+          "id": "https://hackaday.com/?p=513546",
+          "author": "Al Williams",
+          "description": "Last time we talked about how Marlin has several bed leveling mechanisms including unified bed leveling or UBL. UBL tries to be all things to all people and has provisions …read more",
+          "link": "https://hackaday.com/2022/01/14/3d-printering-getting-started-with-universal-bed-leveling/",
+          "publishedOn": "2022-01-14T18:00:22.000Z",
+          "wordCount": 3382,
+          "title": "3D Printering: Getting Started with Universal Bed Leveling"
+        },
+        {
+          "id": "https://hackaday.com/?p=515829&preview=true&preview_id=515829",
+          "author": "Tom Nardi",
+          "description": "Hackaday Editor-in-Chief Elliot Williams and Managing Editor Tom Nardi are back again to talk about all the weird and wonderful stories from our corner of the tech world. Canon had …read more",
+          "link": "https://hackaday.com/2022/01/14/hackaday-podcast-151-the-hackiest-vr-glove-plotting-boba-fett-with-shoelaces-ecu-hacking-and-where-does-ammonia-come-from/",
+          "publishedOn": "2022-01-14T17:00:53.000Z",
+          "wordCount": 1399,
+          "title": "Hackaday Podcast 151: The Hackiest VR Glove, Plotting Boba Fett with Shoelaces, ECU Hacking, and Where Does Ammonia Come From?"
+        },
+        {
+          "id": "https://hackaday.com/?p=515235",
+          "author": "Dave Rowntree",
+          "description": "[NightHawkInLight] has been developing his design for a vacuum canon for a while now, so it seems fitting to drop in check out the progress. The idea is pretty straightforward, …read more",
+          "link": "https://hackaday.com/2022/01/14/rapid-reload-vacuum-cannon-totally-demolishes-those-veggies/",
+          "publishedOn": "2022-01-14T16:00:00.000Z",
+          "wordCount": 1505,
+          "title": "Rapid-Reload Vacuum Cannon Totally Demolishes Those Veggies"
+        },
+        {
+          "id": "https://hackaday.com/?p=515520",
+          "author": "Jonathan Bennett",
+          "description": "We’ve covered quite a few stories about malware sneaking into the NPN and other JavaScript repositories. This is a bit different. This time, a JS programmer vandalized his own packages. …read more",
+          "link": "https://hackaday.com/2022/01/14/this-week-in-security-npm-vandalism-simulating-reboots-and-more/",
+          "publishedOn": "2022-01-14T15:00:01.000Z",
+          "wordCount": 3502,
+          "title": "This Week in Security: NPM Vandalism, Simulating Reboots, and More"
+        },
         {
           "id": "https://hackaday.com/?p=515180",
           "author": "Dave Rowntree",
@@ -23313,6 +23666,56 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "D4543D5F-1912-460F-A4531A960AB11A63",
+          "author": "Benjamin Storrow, E&E News",
+          "description": "Shipping delays and rising a equipment costs could hamper installations\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/solar-power-could-boom-in-2022-depending-on-supply-chains/",
+          "publishedOn": "2022-01-14T19:15:00.000Z",
+          "wordCount": null,
+          "title": "Solar Power Could Boom in 2022, Depending on Supply Chains",
+          "itunes": {}
+        },
+        {
+          "id": "6F69141D-131E-460D-A6FFC6E7CD89A530",
+          "author": "Brian Weeden, Victoria Samson",
+          "description": "The orbital debris created in the explosions is dangerous, long-lasting and a threat to the growing space economy\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/its-time-for-a-global-ban-on-destructive-antisatellite-testing/",
+          "publishedOn": "2022-01-14T17:00:00.000Z",
+          "wordCount": null,
+          "title": "It's Time for a Global Ban on Destructive Antisatellite Testing",
+          "itunes": {}
+        },
+        {
+          "id": "3D45D7FE-1DAB-40A5-A9625FF5D90954C7",
+          "author": "Jeanna Matthews, The Conversation US",
+          "description": "People seeking to radicalize others are using ads to push conspiracy theories and extremist views\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-targeted-advertising-on-social-media-drives-people-to-extremes/",
+          "publishedOn": "2022-01-14T14:00:00.000Z",
+          "wordCount": null,
+          "title": "How Targeted Advertising on Social Media Drives People to Extremes",
+          "itunes": {}
+        },
+        {
+          "id": "26F1867C-4316-40CB-B20CFCCB8E04301C",
+          "author": "Charles Schmidt",
+          "description": "Vaccine makers worry yet another variant will start dominating in the months it takes to roll out shots against this one\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/whats-holding-up-new-omicron-vaccines1/",
+          "publishedOn": "2022-01-14T13:00:00.000Z",
+          "wordCount": null,
+          "title": "What's Holding Up New Omicron Vaccines?",
+          "itunes": {}
+        },
+        {
+          "id": "EC332E20-F8B1-4ACE-A3FB438E455077CF",
+          "author": "Andrea Thompson",
+          "description": "Their ability to track climate change is being squeezed on all sides\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/plants-are-stuck-as-seed-eating-animals-decline/",
+          "publishedOn": "2022-01-14T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Plants are Stuck as Seed-Eating Animals Decline",
+          "itunes": {}
+        },
+        {
           "id": "ED15D3CD-3BA6-420F-9B32ACFEF4E6234B",
           "author": "Lydia Denworth",
           "description": "The research could mark a turning point in the fight against MS\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -28382,6 +28785,24 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=149095",
+          "author": "Brian Price",
+          "description": "In 2022, federal agencies are estimated to spend $7.8 billion on cloud computing. While this spending on cloud computing is necessary, it’s imperative that the government uses its allotted funding appropriately to leverage the cloud’s full potential and avoid common pitfalls. Avoiding Common Cloud Adoption Pitfalls I’ve frequently witnessed government agencies get locked into a […]\nThe post Enabling Cloud Adoption in the Government appeared first on DevOps.com.",
+          "link": "https://devops.com/enabling-cloud-adoption-in-the-government/",
+          "publishedOn": "2022-01-14T08:00:17.000Z",
+          "wordCount": 1184,
+          "title": "Enabling Cloud Adoption in the Government"
+        },
+        {
+          "id": "https://devops.com/?p=149065",
+          "author": "Allen Drennan",
+          "description": "Faster integrations. Accelerated software delivery. Elevated user experiences. These are only three of the benefits organizations gain by incorporating low-code platforms, apps and solutions into software development and business process management. Low-code platforms aren’t new, but demand for the technology soared in the last two years as companies were challenged to meet stakeholder demand for […]\nThe post Low-Code SaaS Solutions Need Security at Their Core appeared first on DevOps.com.",
+          "link": "https://devops.com/low-code-saas-solutions-need-security-at-their-core/",
+          "publishedOn": "2022-01-14T07:30:40.000Z",
+          "wordCount": 1301,
+          "title": "Low-Code SaaS Solutions Need Security at Their Core"
+        },
+        {
           "id": "https://devops.com/?p=149089",
           "author": "Judith Hurwitz",
           "description": "It is difficult to find a single area of the technology landscape that isn’t incorporating artificial intelligence (AI) into products and services. As we move into a world where distributed computing is the norm for business operations, AI is a requirement given the increasing level of complexity in computing environments. While there are many different […]\nThe post 2022 Predictions: AI, Security and Cloud appeared first on DevOps.com.",
@@ -31211,6 +31632,24 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66569",
+          "author": "Nathan Yau",
+          "description": "When I think swamp noise, I imagine a blob of sound that’s some…\nTags: Mitchell Whitelaw, Nap Nap Swamp, nature, Skye Wassens, sound, water",
+          "link": "https://flowingdata.com/2022/01/14/a-visual-and-audio-tour-of-sound-at-nap-nap-swamp/",
+          "publishedOn": "2022-01-14T17:44:36.000Z",
+          "wordCount": 359,
+          "title": "A visual and audio tour of sound at Nap Nap Swamp"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66518",
+          "author": "Nathan Yau",
+          "description": "Using old Census records and documents, Julie Zauzmer Weil, Adrian Blanco and Leo…\nTags: government, slavery, Washington Post",
+          "link": "https://flowingdata.com/2022/01/14/congressmen-who-enslaved-people/",
+          "publishedOn": "2022-01-14T08:22:37.000Z",
+          "wordCount": 307,
+          "title": "Congressmen who enslaved people"
+        },
         {
           "id": "https://flowingdata.com/?p=66551",
           "author": "Nathan Yau",
