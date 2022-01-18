@@ -6,6 +6,15 @@
       "siteUrl": "https://atom.io",
       "articles": [
         {
+          "id": "https://atom.io/packages/language-cairo",
+          "author": null,
+          "description": "Cairo language support in Atom\nAdds syntax highlighting for Cairo in Atom.",
+          "link": "https://atom.io/packages/language-cairo",
+          "publishedOn": "2022-01-17T17:03:33.000Z",
+          "wordCount": 79,
+          "title": "language-cairo"
+        },
+        {
           "id": "https://atom.io/packages/one-dark-syntax-wsl",
           "author": null,
           "description": "One Dark Syntax theme\nThis package is now a part of the core Atom repository, please direct all issues and pull requests there in the future!\n\nThe font used in the screenshot is Fira Mono.\nThere is also a matching UI theme.\nInstall\nThis theme is installed by default with Atom and can be activated by going to the Settings > Themes section and selecting it from the Syntax Themes drop-down menu.",
@@ -444,6 +453,15 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=361047",
+          "author": "Louis Lazaris",
+          "description": "Another year has passed and once again I’ve had the privilege of going through the Web Tools Weekly newsletter archives from the past 12 months to hunt down the front-end tools that readers found to be the most interesting during …\nWhat Were the Hottest Front-End Tools in 2021? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/hottest-front-end-tools-in-2021/",
+          "publishedOn": "2022-01-17T15:13:26.000Z",
+          "wordCount": 6239,
+          "title": "What Were the Hottest Front-End Tools in 2021?"
+        },
         {
           "id": "https://css-tricks.com/?p=360928",
           "author": "Chris Coyier",
@@ -2206,6 +2224,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61dcd402b837d507ba09f7d7",
+          "author": null,
+          "description": "When you’re programming in JavaScript, you might need to get the last item in an array. In this tutorial, we’ll go over two different ways to do this. How to Get the Last Item in a JavaScript ArrayMethod 1: Use index positioningUse index positioning if you know the",
+          "link": "https://www.freecodecamp.org/news/how-to-get-the-last-item-in-an-array-in-javascript/",
+          "publishedOn": "2022-01-17T21:21:48.000Z",
+          "wordCount": 782,
+          "title": "How to Get the Last Item in an Array in JavaScript"
+        },
+        {
+          "id": "61e07e8ab837d507ba0a214c",
+          "author": null,
+          "description": "What plans would you make if you knew it was going to rain tomorrow? This can be a crucial question to ask yourself when it comes to planning your personal and day-to-day business activities. For example, I have a friend who runs an app-based laundry business in Lagos, Nigeria. He",
+          "link": "https://www.freecodecamp.org/news/visualize-weather-data-with-d3js/",
+          "publishedOn": "2022-01-17T16:59:10.000Z",
+          "wordCount": 1343,
+          "title": "How to Visualize Weather Data with D3.js"
+        },
+        {
+          "id": "61e011e0b837d507ba0a15d2",
+          "author": null,
+          "description": "Having a good landing page for your website is important. It can help drive customers to your site where they'll find your products and services and hopefully take action.  In this text-based tutorial, I’m going to take you through how to make a landing page for a boxing TV",
+          "link": "https://www.freecodecamp.org/news/how-to-make-a-landing-page-with-html-css-and-javascript/",
+          "publishedOn": "2022-01-17T16:56:05.000Z",
+          "wordCount": 5815,
+          "title": "Web Development Project – How to Make a Landing Page with HTML, CSS, and JavaScript"
+        },
         {
           "id": "61dff97db837d507ba0a12db",
           "author": null,
@@ -4913,6 +4958,186 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "https://hackernoon.com",
       "articles": [
+        {
+          "id": "https://hackernoon.com/the-phygital-future-predictions-from-ar-entrepreneur-anna-belova?source=rss",
+          "author": "Olayimika Oyebanji",
+          "description": "Forbes 30 Under 30 honoree Anna Belova predicts a \"phygital' future to prevent the AR world from \"cannibalising\" itself and to keep the industry growing.",
+          "link": "https://hackernoon.com/the-phygital-future-predictions-from-ar-entrepreneur-anna-belova?source=rss",
+          "publishedOn": "2022-01-17T18:46:26.000Z",
+          "wordCount": 1562,
+          "title": "The Phygital Future: Predictions From AR Entrepreneur Anna Belova"
+        },
+        {
+          "id": "https://hackernoon.com/the-meaning-purpose-and-benefits-of-code-refactoring?source=rss",
+          "author": "SumatoSoft",
+          "description": "In the article, we cover the topic of code refactoring and discuss the value of the process.",
+          "link": "https://hackernoon.com/the-meaning-purpose-and-benefits-of-code-refactoring?source=rss",
+          "publishedOn": "2022-01-17T18:41:56.000Z",
+          "wordCount": 2728,
+          "title": "The Meaning, Purpose and Benefits of Code Refactoring"
+        },
+        {
+          "id": "https://hackernoon.com/making-a-gradient-color-generator-app-using-javascript?source=rss",
+          "author": "Shantanu Jana",
+          "description": "In this article, I have shown you how to make Gradient Color Generator using JavaScript.",
+          "link": "https://hackernoon.com/making-a-gradient-color-generator-app-using-javascript?source=rss",
+          "publishedOn": "2022-01-17T18:31:30.000Z",
+          "wordCount": 2341,
+          "title": "Making a Gradient Color Generator App Using JavaScript"
+        },
+        {
+          "id": "https://hackernoon.com/hack-solidity-integer-overflow-and-underflow?source=rss",
+          "author": "Kamil Polak",
+          "description": "Overflow is a situation when uint reaches its byte size. Then the next element added will return the first variable element. This is only for <0.8 Solidity.",
+          "link": "https://hackernoon.com/hack-solidity-integer-overflow-and-underflow?source=rss",
+          "publishedOn": "2022-01-17T18:23:23.000Z",
+          "wordCount": 1450,
+          "title": "Hack Solidity: Integer Overflow and Underflow"
+        },
+        {
+          "id": "https://hackernoon.com/rip-alexa-dot-com-you-will-be-sorely-missed?source=rss",
+          "author": "Michael Brooks",
+          "description": "Amazon will be \"retiring\" Alexa.com on May 1, 2022. Why?",
+          "link": "https://hackernoon.com/rip-alexa-dot-com-you-will-be-sorely-missed?source=rss",
+          "publishedOn": "2022-01-17T18:22:08.000Z",
+          "wordCount": 1834,
+          "title": "R.I.P. Alexa Dot Com: You Will Be Sorely Missed"
+        },
+        {
+          "id": "https://hackernoon.com/from-age-gating-to-chapter-indexing-how-youtube-uses-ai?source=rss",
+          "author": "Alex Lefkowitz",
+          "description": "Age-gating, subtitles, chapters, and recommendations - find out how YouTube's use of AI shapes users' experience and creator's success.",
+          "link": "https://hackernoon.com/from-age-gating-to-chapter-indexing-how-youtube-uses-ai?source=rss",
+          "publishedOn": "2022-01-17T18:19:27.000Z",
+          "wordCount": 2655,
+          "title": "From Age-Gating to Chapter Indexing - How YouTube Uses AI"
+        },
+        {
+          "id": "https://hackernoon.com/optimize-your-webserver-by-installing-a-single-nginx-module?source=rss",
+          "author": "Slava Knyazev",
+          "description": "While Google does publish scripts to help with the installation, it requires a non-trivial depth of knowledge to do right.",
+          "link": "https://hackernoon.com/optimize-your-webserver-by-installing-a-single-nginx-module?source=rss",
+          "publishedOn": "2022-01-17T18:16:58.000Z",
+          "wordCount": 1294,
+          "title": "Optimize Your Webserver by Installing a Single NGINX Module"
+        },
+        {
+          "id": "https://hackernoon.com/chingari-raises-$15-million-in-funding-from-republic-capital-onmobile-and-jpin-venture-catalysts?source=rss",
+          "author": "Ishan Pandey",
+          "description": "Chingari Raises Investment for its Social Media Token, $Gari with Republic Capital leading the round with 15 million in funding.",
+          "link": "https://hackernoon.com/chingari-raises-$15-million-in-funding-from-republic-capital-onmobile-and-jpin-venture-catalysts?source=rss",
+          "publishedOn": "2022-01-17T18:13:04.000Z",
+          "wordCount": 1498,
+          "title": "Chingari Raises $15 million in Funding from Republic Capital, Onmobile and JPIN Venture Catalysts"
+        },
+        {
+          "id": "https://hackernoon.com/state-of-the-noonion-the-year-of-profitability-and-product-renaissance?source=rss",
+          "author": "State of the Noonion",
+          "description": "TL;DR For the 5th year in a row, we doubled HackerNoon Revenue of the previous year with 2021 revenue clocking in at redacted USD! And, for the first time since we started sending these shareholders newsletters, HackerNoon is profitable again, by redacted! Our primary ad inventories, Top Navigation, Ad By Tag, Brand as Author, and Email Newsletters, all improved in YoY revenue, and new ad inventory from Startups of the Year and Writing Contests also drove revenue up. With regards to traffic, we saw a 11% increase in readers QoQ, a 2% decrease YoY to readers on hackernoon.com, and as of today rank as the #3,990 site on the worldwide internet by Alexa. In-app traffic (app.hackernoon.com) saw a significant bump, with users increasing 62% YoY, and 7.9% QoQ. Software-wise, we strengthened the product team, and in the last 4 months we’ve shipped AI-powered Audio Stories (≈3x avg time on site), About Pages (here are some examples), Terminal Reader, Writing Prompts, Noonies 3.0, Choose Your Color, (revamped) Noonification, Emails, Internal KPI Dashboard Improvements, Open Sourced Font, Internal Changelog History for Every Story Draft, Editorial Notes, (improved) Core Web Vitals, among many other features/fixes/improvements/iterations.",
+          "link": "https://hackernoon.com/state-of-the-noonion-the-year-of-profitability-and-product-renaissance?source=rss",
+          "publishedOn": "2022-01-17T17:54:56.000Z",
+          "wordCount": 3288,
+          "title": "State of the Noonion: The Year of Profitability and Product Renaissance"
+        },
+        {
+          "id": "https://hackernoon.com/digital-transformation-in-healthcare-tapping-into-technology?source=rss",
+          "author": "John Iwuozor",
+          "description": "The healthcare industry is going through a digital transformation that will be as significant as the advent of antibiotics or the introduction of vaccines.",
+          "link": "https://hackernoon.com/digital-transformation-in-healthcare-tapping-into-technology?source=rss",
+          "publishedOn": "2022-01-17T17:21:05.000Z",
+          "wordCount": 2315,
+          "title": "Digital Transformation in Healthcare: Tapping Into Technology"
+        },
+        {
+          "id": "https://hackernoon.com/5-tips-to-help-you-find-a-coworking-space-in-2022?source=rss",
+          "author": "May",
+          "description": "So, what features should your first or next coworking space have? Learn how to find the perfect spot.",
+          "link": "https://hackernoon.com/5-tips-to-help-you-find-a-coworking-space-in-2022?source=rss",
+          "publishedOn": "2022-01-17T17:02:56.000Z",
+          "wordCount": 1945,
+          "title": "5 Tips to Help You Find a Coworking Space in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/moviegoers-will-inspire-new-growth-in-the-nft-collectibles-market?source=rss",
+          "author": "Jake Fraser",
+          "description": "The growth of NFTs is mind-blowing. Here we explore the largest untapped market in the NFT landscape, movies-oriented collections.",
+          "link": "https://hackernoon.com/moviegoers-will-inspire-new-growth-in-the-nft-collectibles-market?source=rss",
+          "publishedOn": "2022-01-17T12:34:28.000Z",
+          "wordCount": 2514,
+          "title": "Moviegoers Will Inspire New Growth in the NFT Collectibles Market"
+        },
+        {
+          "id": "https://hackernoon.com/becoming-an-nft-photographer-in-2022-heres-what-you-need-to-know?source=rss",
+          "author": "Sam Brandon",
+          "description": "Are you a photographer? Consider attaching an NFT to your photographs. You don't want to miss out on the new blockchain platforms and cashing in on royalties.",
+          "link": "https://hackernoon.com/becoming-an-nft-photographer-in-2022-heres-what-you-need-to-know?source=rss",
+          "publishedOn": "2022-01-17T11:41:45.000Z",
+          "wordCount": 1498,
+          "title": "Becoming an NFT Photographer in 2022? Here's What You Need to Know"
+        },
+        {
+          "id": "https://hackernoon.com/dogecoin-doge-up-20percent-despite-bitcoin-btc-dip?source=rss",
+          "author": "LoudPosts",
+          "description": "Over the past week, Dogecoin (DOGE) was up 20%, compared to a 3% jump in Bitcoin (BTC) price.",
+          "link": "https://hackernoon.com/dogecoin-doge-up-20percent-despite-bitcoin-btc-dip?source=rss",
+          "publishedOn": "2022-01-17T11:34:02.000Z",
+          "wordCount": 1335,
+          "title": "Dogecoin (DOGE) Up 20% Despite Bitcoin (BTC) Dip"
+        },
+        {
+          "id": "https://hackernoon.com/geo-blocking-wars-streaming-services-vs-vpns?source=rss",
+          "author": "IP2Location IP Gelocation",
+          "description": "Overview of online streaming business, and challenges faced by providers such as geo blocking restrictions and unauthorized access by proxies or VPN.",
+          "link": "https://hackernoon.com/geo-blocking-wars-streaming-services-vs-vpns?source=rss",
+          "publishedOn": "2022-01-17T11:18:17.000Z",
+          "wordCount": 1595,
+          "title": "Geo-blocking Wars: Streaming Services Vs. VPNs"
+        },
+        {
+          "id": "https://hackernoon.com/top-debugging-methods-for-quicker-deployment-in-python?source=rss",
+          "author": "Daniel",
+          "description": "In this article, I will cover most debugging methods, basic and modern ones, introduce some hands-on tools and show some basic configurations and instructions.",
+          "link": "https://hackernoon.com/top-debugging-methods-for-quicker-deployment-in-python?source=rss",
+          "publishedOn": "2022-01-17T10:55:00.000Z",
+          "wordCount": 1883,
+          "title": "Top Debugging Methods for Quicker Deployment in Python"
+        },
+        {
+          "id": "https://hackernoon.com/kusama-and-polkadot-parachain-lease-auction-crowdloans-a-win-win-situation?source=rss",
+          "author": "WillRR",
+          "description": "How to participate in a crowdloan, Is it risky to participate in a crowdloan? How do I get crowdloan rewards?",
+          "link": "https://hackernoon.com/kusama-and-polkadot-parachain-lease-auction-crowdloans-a-win-win-situation?source=rss",
+          "publishedOn": "2022-01-17T10:12:16.000Z",
+          "wordCount": 2732,
+          "title": "Kusama and Polkadot Parachain Lease Auction Crowdloans: A Win-Win Situation"
+        },
+        {
+          "id": "https://hackernoon.com/a-deep-dive-into-undici-mocking-support-and-use-cases?source=rss",
+          "author": "Liz Parody",
+          "description": "This post goes into detail into Undici's mocking support, which enables you to write fast and reliable unit tests.",
+          "link": "https://hackernoon.com/a-deep-dive-into-undici-mocking-support-and-use-cases?source=rss",
+          "publishedOn": "2022-01-17T09:39:59.000Z",
+          "wordCount": 2216,
+          "title": "A Deep Dive into Undici Mocking Support and Use Cases"
+        },
+        {
+          "id": "https://hackernoon.com/defi-funds-protect-yourself-from-these-3-risks-today?source=rss",
+          "author": "Bright Union",
+          "description": "These 3 avoidable risks are common amongst Crypto Hedge and DeFi funds",
+          "link": "https://hackernoon.com/defi-funds-protect-yourself-from-these-3-risks-today?source=rss",
+          "publishedOn": "2022-01-17T09:15:29.000Z",
+          "wordCount": 3954,
+          "title": "DeFi Funds: Protect Yourself from these 3 Risks Today"
+        },
+        {
+          "id": "https://hackernoon.com/home-theatre-systems?source=rss",
+          "author": "Best in Tech",
+          "description": "Surround yourself with your favorite beats and movies by creating your own home-based cinema with the top-rated home theatre systems in 2022.",
+          "link": "https://hackernoon.com/home-theatre-systems?source=rss",
+          "publishedOn": "2022-01-17T08:51:55.000Z",
+          "wordCount": 1045,
+          "title": "The Best Home Theatre Systems for a Near Cinematic Experience"
+        },
         {
           "id": "https://hackernoon.com/why-cybersecurity-is-important-for-small-businesses?source=rss",
           "author": "Misan Etchie",
@@ -16711,6 +16936,15 @@
       "siteUrl": "https://davidwalsh.name",
       "articles": [
         {
+          "id": "https://davidwalsh.name/?p=27517",
+          "author": "Landon Schropp",
+          "description": "In the last article in this series, Awesome Git Aliases, we took a look at some awesome aliases for Git. However, the true power of Git aliases comes from writing custom scripts. These allow you to build Git commands that can do anything you can imagine. In this article, I’ll show you how you can […]\nThe post More Awesome Git Aliases appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/more-awesome-git-aliases",
+          "publishedOn": "2022-01-17T09:57:30.000Z",
+          "wordCount": 1577,
+          "title": "More Awesome Git Aliases"
+        },
+        {
           "id": "https://davidwalsh.name/?p=27514",
           "author": "David Walsh",
           "description": "Employing setInterval for condition polling has really been useful over the years. Whether polling on the client or server sides, being reactive to specific conditions helps to improve user experience. One task I recently needed to complete required that my setInterval immediately execute and then continue executing. The conventional and best way to immediately call […]\nThe post Immediately Executing setInterval with JavaScript appeared first on David Walsh Blog.",
@@ -17093,6 +17327,16 @@
       "feedUrl": "http://feeds.feedburner.com/helloacm?format=xml",
       "siteUrl": "https://helloacm.com",
       "articles": [
+        {
+          "id": "https://helloacm.com/?p=148592",
+          "author": "ACMer",
+          "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms You are playing a game with integers. You start with the integer 1 and you want to reach the integer target. In one move, you can...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-minimum-moves-to-reach-target-score-with-constraints-greedy-algorithm/",
+          "publishedOn": "2022-01-17T21:15:38.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Minimum Moves to Reach Target Score with Constraints (Greedy Algorithm)",
+          "itunes": {}
+        },
         {
           "id": "https://helloacm.com/?p=148575",
           "author": "ACMer",
@@ -17990,6 +18234,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=515974",
+          "author": "Donald Papp",
+          "description": "[Dries Depoorter] has a knack for highly technical projects with a solid artistic bent to them, and this piece is no exception. The Flemish Scrollers is a software system that …read more",
+          "link": "https://hackaday.com/2022/01/17/machine-learning-detects-distracted-politicians/",
+          "publishedOn": "2022-01-18T00:00:15.000Z",
+          "wordCount": 1258,
+          "title": "Machine Learning Detects Distracted Politicians"
+        },
+        {
+          "id": "https://hackaday.com/?p=516002",
+          "author": "Al Williams",
+          "description": "[Caleb] shares a problem with most dog owners. Dogs leave their… byproducts…all over your yard. Some people pick it up right away and some just leave it. But what if …read more",
+          "link": "https://hackaday.com/2022/01/17/ai-camera-knows-its-st/",
+          "publishedOn": "2022-01-17T21:00:00.000Z",
+          "wordCount": 1510,
+          "title": "AI Camera Knows Its S**t"
+        },
+        {
+          "id": "https://hackaday.com/?p=516111",
+          "author": "Elliot Williams",
+          "description": "Raspberry Pi has just announced that they’ll be selling their RP2040 microcontroller chips by the reel, directly to you, at a decent discount. About a year ago, Raspberry Pi released …read more",
+          "link": "https://hackaday.com/2022/01/17/new-part-news-raspberry-pi-cuts-out-the-middleman/",
+          "publishedOn": "2022-01-17T18:00:38.000Z",
+          "wordCount": 2184,
+          "title": "New Part News: Raspberry Pi Cuts Out the Middleman"
+        },
+        {
+          "id": "https://hackaday.com/?p=515842&preview=true&preview_id=515842",
+          "author": "Dan Maloney",
+          "description": "Join us on Wednesday, January 19 at noon Pacific as we kick off the 2022 Hack Chat season with the Electromyography Hack Chat with hut! It’s one of the simplest …read more",
+          "link": "https://hackaday.com/2022/01/17/electromyography-hack-chat/",
+          "publishedOn": "2022-01-17T17:00:03.000Z",
+          "wordCount": 1183,
+          "title": "Electromyography Hack Chat"
+        },
+        {
+          "id": "https://hackaday.com/?p=515956",
+          "author": "Chris Lott",
+          "description": "We like projects where old gear is given a new life. [Splashdust] has a twenty-year old business firewall that’s build like a tank. He cracks it open and finds a …read more",
+          "link": "https://hackaday.com/2022/01/17/old-firewall-reborn-as-retro-pc/",
+          "publishedOn": "2022-01-17T15:00:15.000Z",
+          "wordCount": 2125,
+          "title": "Old Firewall Reborn as Retro PC"
+        },
+        {
+          "id": "https://hackaday.com/?p=515598",
+          "author": "Jenny List",
+          "description": "While most people are happy to type away at whatever keyboard their machine came with, for the keyboard enthusiast, there’s no stone to be left unturned in the quest for …read more",
+          "link": "https://hackaday.com/2022/01/17/3d-printed-magnetic-switches-promise-truly-custom-keyboards/",
+          "publishedOn": "2022-01-17T12:00:15.000Z",
+          "wordCount": 2988,
+          "title": "3D Printed Magnetic Switches Promise Truly Custom Keyboards"
+        },
+        {
+          "id": "https://hackaday.com/?p=515947",
+          "author": "Al Williams",
+          "description": "It is a classic problem. You want data for use in your program but it is on a webpage. Some websites have an API, of course, but usually, you are …read more",
+          "link": "https://hackaday.com/2022/01/17/hack-the-web-without-a-browser/",
+          "publishedOn": "2022-01-17T09:00:27.000Z",
+          "wordCount": 1775,
+          "title": "Hack the Web Without a Browser"
+        },
         {
           "id": "https://hackaday.com/?p=515476&preview=true&preview_id=515476",
           "author": "Dan Maloney",
@@ -24019,6 +24326,26 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "4DC488B6-5656-4AB9-AF46DCCFF07B8596",
+          "author": "Rahul Rao, SPACE.com",
+          "description": "The atom interferometry technique uses the effects of time dilation to reveal subtle changes in gravity’s strength\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/in-a-first-an-atomic-fountain-has-measured-the-curvature-of-spacetime/",
+          "publishedOn": "2022-01-17T15:00:00.000Z",
+          "wordCount": null,
+          "title": "In a First, an 'Atomic Fountain' Has Measured the Curvature of Spacetime",
+          "itunes": {}
+        },
+        {
+          "id": "5D9B592B-3278-493B-A70ED96DAAE78A19",
+          "author": "James Dinneen",
+          "description": "When there’s no food, it pays to be small\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/gene-variant-may-have-helped-ancient-humans-survive-starvation/",
+          "publishedOn": "2022-01-17T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Gene Variant May Have Helped Ancient Humans Survive Starvation",
+          "itunes": {}
+        },
+        {
           "id": "E4F84D9F-517E-48FB-BE8FE7510550C331",
           "author": null,
           "description": "Letters to the editor from the September 2021 issue of Scientific American\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -29147,6 +29474,33 @@
       "feedUrl": "https://devops.com/feed/",
       "siteUrl": "https://devops.com",
       "articles": [
+        {
+          "id": "https://devops.com/?p=149129",
+          "author": "Veronica Haggar",
+          "description": "Infrastructure as Code (IaC) is an essential DevOps practice that allows developers and operations teams to automatically manage and provision the infrastructure through code, instead of making configuration changes through a manual process. IaC provides transformational agility and can significantly speed delivery, reduce costs and help mitigate risks. However, when people talk about IaC, sometimes […]\nThe post Infrastructure as Code (IaC): Why Collaboration Is Key appeared first on DevOps.com.",
+          "link": "https://devops.com/infrastructure-as-code-iac-why-collaboration-is-key/",
+          "publishedOn": "2022-01-17T13:00:34.000Z",
+          "wordCount": 839,
+          "title": "Infrastructure as Code (IaC): Why Collaboration Is Key"
+        },
+        {
+          "id": "https://devops.com/?p=149132",
+          "author": "Deepak Gupta",
+          "description": "Software architecture plays an irreplaceable role in enabling businesses to deliver value efficiently. This is evident in how digital natives have been challenging incumbents and forcing them to rapidly digitize and transform how they operate and innovate. Accordingly, achieving architectural excellence is a continuous process of efficient implementation, advanced planning, and executive leadership engagement. Furthermore, […]\nThe post Innovation With Software Architectural Excellence appeared first on DevOps.com.",
+          "link": "https://devops.com/innovation-with-software-architectural-excellence/",
+          "publishedOn": "2022-01-17T08:00:57.000Z",
+          "wordCount": 1534,
+          "title": "Innovation With Software Architectural Excellence"
+        },
+        {
+          "id": "https://devops.com/?p=149154",
+          "author": "ROELBOB",
+          "description": "The post Hope and Anxiety appeared first on DevOps.com.",
+          "link": "https://devops.com/hope-and-anxiety/",
+          "publishedOn": "2022-01-17T07:00:52.000Z",
+          "wordCount": 429,
+          "title": "Hope and Anxiety"
+        },
         {
           "id": "https://devops.com/?p=149095",
           "author": "Brian Price",
