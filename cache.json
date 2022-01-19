@@ -454,6 +454,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=360362",
+          "author": "Chris Coyier",
+          "description": "There are a number of options for including a Table of Contents lock in WordPress. You can use a plugin, or try to do it yourself. \n4 Quality Options for a Table of Contents Block in WordPress originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/table-of-contents-block-in-wordpress/",
+          "publishedOn": "2022-01-18T23:22:01.000Z",
+          "wordCount": 2503,
+          "title": "4 Quality Options for a Table of Contents Block in WordPress"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361001",
+          "author": "Adam Rackis",
+          "description": "The VitePWA plugin from Anthony Fu is a fantastic tool for your Vite-powered sites. It helps you add a service worker that handles:\noffline support\ncaching assets and content\nprompting the user when new content is available\n…and other goodies!\n…\nMaking a Site Work Offline Using the VitePWA Plugin originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/vitepwa-plugin-offline-service-worker/",
+          "publishedOn": "2022-01-18T14:30:26.000Z",
+          "wordCount": 3350,
+          "title": "Making a Site Work Offline Using the VitePWA Plugin"
+        },
+        {
           "id": "https://css-tricks.com/?p=361047",
           "author": "Louis Lazaris",
           "description": "Another year has passed and once again I’ve had the privilege of going through the Web Tools Weekly newsletter archives from the past 12 months to hunt down the front-end tools that readers found to be the most interesting during …\nWhat Were the Hottest Front-End Tools in 2021? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
@@ -2224,6 +2242,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61e158e5b837d507ba0a263e",
+          "author": null,
+          "description": "HTML Tables are simple to use for rendering small amounts of data. But they can be hard for users to work with when they display a lot of data.  Features like sorting, filtering, and pagination make it easier to work with many rows of data. We can easily implement those",
+          "link": "https://www.freecodecamp.org/news/convert-html-table-to-dynamic-javascript-data-grid/",
+          "publishedOn": "2022-01-18T22:40:00.000Z",
+          "wordCount": 2842,
+          "title": "How to Convert a Static HTML Table to a Dynamic JavaScript Data Grid"
+        },
+        {
+          "id": "61e5c135b837d507ba0a4ad0",
+          "author": null,
+          "description": "The Result-Error Pattern helps you hide try-catch blocks, simplify error handling, and encapsulate cleanup operations.",
+          "link": "https://www.freecodecamp.org/news/simplify-asynchronous-javascript-using-the-result-error-pattern/",
+          "publishedOn": "2022-01-18T22:08:11.000Z",
+          "wordCount": 1036,
+          "title": "How to Simplify Asynchronous JavaScript using the Result-Error Pattern"
+        },
+        {
+          "id": "61c1f85b755c160824908ac7",
+          "author": null,
+          "description": "In this article, we'll learn how to set up a CI/CD pipeline with GitHub Actions and AWS. I've divided the guide into three parts to help you work through it: First, we'll cover some important terminology so you're not lost in a bunch of big buzzwords. Second, we'll set",
+          "link": "https://www.freecodecamp.org/news/how-to-setup-a-ci-cd-pipeline-with-github-actions-and-aws/",
+          "publishedOn": "2022-01-18T21:26:24.000Z",
+          "wordCount": 4273,
+          "title": "How to Setup a CI/CD Pipeline with GitHub Actions and AWS"
+        },
+        {
+          "id": "61e726bf183181284a1912db",
+          "author": null,
+          "description": "Adjusting, visualizing, and sharing machine learning models can be much easier with a sleek user interface. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Gradio to create intuitive user interfaces for machine learning models. Abdul from 1littlecoder developed this course.",
+          "link": "https://www.freecodecamp.org/news/create-user-interfaces-for-machine-learning-models-using-gradio/",
+          "publishedOn": "2022-01-18T20:56:02.000Z",
+          "wordCount": 356,
+          "title": "Create User Interfaces for Machine Learning Models Using Gradio"
+        },
+        {
+          "id": "61cfee0ea700150888933a10",
+          "author": null,
+          "description": "As a developer, how often have you seen a repository with packages that are out of date? New package updates generally include new features, performance improvements, and security fixes. But keeping track of all outdated dependencies in your project can be really boring and a time consuming task, especially if",
+          "link": "https://www.freecodecamp.org/news/keep-package-dependencies-up-to-date-on-azure-devops/",
+          "publishedOn": "2022-01-18T20:15:51.000Z",
+          "wordCount": 1051,
+          "title": "How to Keep Your Package Dependencies Up to Date on Azure DevOps"
+        },
+        {
+          "id": "61d6289ed2d9de084285cab7",
+          "author": null,
+          "description": "Network applications are computer applications that participate in a computer network. These applications talk to each other by plugging into the network.  For example, when you visit google.com, your browser acts as a network application that leverages the Internet to talk to the network application running on Google's computer.",
+          "link": "https://www.freecodecamp.org/news/computer-networking-how-applications-talk-over-the-internet/",
+          "publishedOn": "2022-01-18T19:54:27.000Z",
+          "wordCount": 3691,
+          "title": "Computer Networking Tutorial – How Network Applications Talk Over the Internet"
+        },
+        {
+          "id": "61db22fcd2d9de084285f551",
+          "author": null,
+          "description": "Data types can be a bit of a mind boggling concept. But as programmers, we use data types everyday – so they're something we should understand.  Question is, how does the computer store these data types? It can't possibly treat every data type the same. In JavaScript, data types are split",
+          "link": "https://www.freecodecamp.org/news/primitive-vs-reference-data-types-in-javascript/",
+          "publishedOn": "2022-01-18T19:24:33.000Z",
+          "wordCount": 1018,
+          "title": "Primitive vs Reference Data Types in JavaScript"
+        },
+        {
+          "id": "61d5c80fd2d9de084285c5f3",
+          "author": null,
+          "description": "This article is about how working as an independent contractor for a web design agency helped me to start my own freelance business.",
+          "link": "https://www.freecodecamp.org/news/working-as-independent-contractor-can-help-start-freelance-business/",
+          "publishedOn": "2022-01-18T19:06:12.000Z",
+          "wordCount": 2913,
+          "title": "How Working as an Independent Contractor Can Help You Start Your Own Freelance Dev Business"
+        },
+        {
+          "id": "61e2a600b837d507ba0a37ee",
+          "author": null,
+          "description": "Patreon is a subscription management system for creators. Although it offers a default button snippet, you can add a custom button that includes your preferred design and call to action to increase your click through rate. In this article you will learn how to create a simple custom Patreon link",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-custom-patreon-button/",
+          "publishedOn": "2022-01-18T15:53:41.000Z",
+          "wordCount": 763,
+          "title": "How to Create a Custom Patreon Button"
+        },
+        {
+          "id": "61cadc1f755c16082490bd7a",
+          "author": null,
+          "description": "If you ask a group of developers what Linux is, most of them will probably say it's an open-source operating system. Those with more technical knowledge will probably call it a kernel. For me, though, Linux is not just an operating system or a kernel. For me, it's freedom. The",
+          "link": "https://www.freecodecamp.org/news/how-to-install-arch-linux/",
+          "publishedOn": "2022-01-18T15:15:23.000Z",
+          "wordCount": 8244,
+          "title": "The Arch Linux Handbook"
+        },
         {
           "id": "61dcd402b837d507ba09f7d7",
           "author": null,
@@ -4958,6 +5066,105 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "https://hackernoon.com",
       "articles": [
+        {
+          "id": "https://hackernoon.com/the-story-of-an-emmy-winning-duo-on-how-to-bring-pro-ip-creation-to-nfts?source=rss",
+          "author": "Adam Jeffcoat",
+          "description": "Adam Jeffcoat shares tips on how to make an NFT collection stand out in the oversaturated market with the GORECATS series of NFTs and his own experience.",
+          "link": "https://hackernoon.com/the-story-of-an-emmy-winning-duo-on-how-to-bring-pro-ip-creation-to-nfts?source=rss",
+          "publishedOn": "2022-01-18T09:14:22.000Z",
+          "wordCount": 2059,
+          "title": "The Story Of An Emmy-Winning Duo On How To Bring Pro IP Creation To NFTs"
+        },
+        {
+          "id": "https://hackernoon.com/machine-learning-magic-how-to-speed-up-offline-inference-for-large-datasets?source=rss",
+          "author": "Bin Fan",
+          "description": "Running inference at scale is challenging. See how we speed up the I/O performance for large-scale ML/DL offline inference jobs.",
+          "link": "https://hackernoon.com/machine-learning-magic-how-to-speed-up-offline-inference-for-large-datasets?source=rss",
+          "publishedOn": "2022-01-18T07:56:28.000Z",
+          "wordCount": 2974,
+          "title": "Machine Learning Magic: How to Speed Up Offline Inference for Large Datasets"
+        },
+        {
+          "id": "https://hackernoon.com/indoor-drone?source=rss",
+          "author": "Best in Tech",
+          "description": "Want to pilot a drone and see through the spaces you can’t reach yourself? Time to get the finest indoor drones in 2021 to help you out.",
+          "link": "https://hackernoon.com/indoor-drone?source=rss",
+          "publishedOn": "2022-01-18T07:15:33.000Z",
+          "wordCount": 1071,
+          "title": "Get a Bird's Eye View with the Best Indoor Drones"
+        },
+        {
+          "id": "https://hackernoon.com/wi-fi-extender?source=rss",
+          "author": "PC Reviewer",
+          "description": "Are internet connection interruptions and dead zones causing you a headache? Get yourself the finest Wi-Fi extenders in 2021 to resolve this mess.",
+          "link": "https://hackernoon.com/wi-fi-extender?source=rss",
+          "publishedOn": "2022-01-18T07:10:29.000Z",
+          "wordCount": 1038,
+          "title": "The Best Wi-Fi Extenders for an Uninterrupted Connection"
+        },
+        {
+          "id": "https://hackernoon.com/an-intro-to-ecommerce-navigation-seo-best-practices?source=rss",
+          "author": "Colin McDermott",
+          "description": "A detailed look at navigation SEO best practices for ecommerce sites",
+          "link": "https://hackernoon.com/an-intro-to-ecommerce-navigation-seo-best-practices?source=rss",
+          "publishedOn": "2022-01-18T07:07:55.000Z",
+          "wordCount": 3540,
+          "title": "An Intro to Ecommerce Navigation SEO Best Practices"
+        },
+        {
+          "id": "https://hackernoon.com/the-midlife-crisis-of-a-programming-career?source=rss",
+          "author": "Farath Shba",
+          "description": "The number of good programmers who love their work and can do it with quality and passion is pretty much close to zero.",
+          "link": "https://hackernoon.com/the-midlife-crisis-of-a-programming-career?source=rss",
+          "publishedOn": "2022-01-18T06:59:53.000Z",
+          "wordCount": 1788,
+          "title": "The “Midlife Crisis” of a Programming Career"
+        },
+        {
+          "id": "https://hackernoon.com/how-do-loyalty-programs-unwork?source=rss",
+          "author": "Juli",
+          "description": "Thoughts about retail marketing transformation for the fragmented post-covid market with millions of smaller retailers and re-emerging regional manufacturers.",
+          "link": "https://hackernoon.com/how-do-loyalty-programs-unwork?source=rss",
+          "publishedOn": "2022-01-18T06:50:35.000Z",
+          "wordCount": 1789,
+          "title": "How do Loyalty Programs [un]work?"
+        },
+        {
+          "id": "https://hackernoon.com/my-thoughts-on-the-evolution-of-live-streaming?source=rss",
+          "author": "TVC",
+          "description": "The pandemic created a need to feel more connected through the digital world. Being able to listen and communicate directly has become more essential.",
+          "link": "https://hackernoon.com/my-thoughts-on-the-evolution-of-live-streaming?source=rss",
+          "publishedOn": "2022-01-18T06:42:05.000Z",
+          "wordCount": 1677,
+          "title": "My Thoughts on the Evolution of Live Streaming"
+        },
+        {
+          "id": "https://hackernoon.com/your-kids-should-start-coding-early-and-heres-why?source=rss",
+          "author": "Yasser Jilani",
+          "description": "There are good reasons to believe that children that explore code early can develop more complex thinking processes.",
+          "link": "https://hackernoon.com/your-kids-should-start-coding-early-and-heres-why?source=rss",
+          "publishedOn": "2022-01-18T06:27:24.000Z",
+          "wordCount": 1855,
+          "title": "Your Kids Should Start Coding Early and Here's Why"
+        },
+        {
+          "id": "https://hackernoon.com/almalinux-container-images-with-full-rhel-ubi-compatibility?source=rss",
+          "author": "AlmaLinux",
+          "description": "Cloud and Containers SIG have been hard at work lately on a project surrounding container updates, new images, new registries, and distribution.",
+          "link": "https://hackernoon.com/almalinux-container-images-with-full-rhel-ubi-compatibility?source=rss",
+          "publishedOn": "2022-01-18T06:17:24.000Z",
+          "wordCount": 1805,
+          "title": "AlmaLinux Container Images with Full RHEL UBI Compatibility"
+        },
+        {
+          "id": "https://hackernoon.com/stablecoin-history-the-master-of-all-altcoins?source=rss",
+          "author": "Alyze Sam, #WomenInBlockchain",
+          "description": "The histor of mastercoin is important to stablecoins and crypto in general. I hope you'll enjoy this overall unbiased guide from Alyze Sam's number one new book",
+          "link": "https://hackernoon.com/stablecoin-history-the-master-of-all-altcoins?source=rss",
+          "publishedOn": "2022-01-18T05:22:01.000Z",
+          "wordCount": 6228,
+          "title": "Stablecoin History: The Master of All AltCoins"
+        },
         {
           "id": "https://hackernoon.com/the-phygital-future-predictions-from-ar-entrepreneur-anna-belova?source=rss",
           "author": "Olayimika Oyebanji",
@@ -17328,6 +17535,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=148609",
+          "author": "ACMer",
+          "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms You are given a two-dimensional list of integers edges which represents a directed, weighted graph. Each element in edges contains ...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-uniform-cost-search-algorithm-to-solve-shortest-path-in-a-graph/",
+          "publishedOn": "2022-01-18T21:58:53.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Uniform Cost Search Algorithm to Solve Single-Source Shortest Path in a Graph",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=148592",
           "author": "ACMer",
           "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms You are playing a game with integers. You start with the integer 1 and you want to reach the integer target. In one move, you can...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -18234,6 +18451,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=516070",
+          "author": "Dave Rowntree",
+          "description": "When you spend a lot of time on the computer doing certain more specialised tasks (no, we’re not talking about browsing cat memes on twitter) you start to think that …read more",
+          "link": "https://hackaday.com/2022/01/18/a-diy-cad-mouse-you-can-actually-build/",
+          "publishedOn": "2022-01-19T00:00:31.000Z",
+          "wordCount": 1304,
+          "title": "A DIY CAD Mouse You Can Actually Build"
+        },
+        {
+          "id": "https://hackaday.com/?p=516208",
+          "author": "Tom Nardi",
+          "description": "Let’s make one thing abundantly clear. We do not, under any circumstances, recommend you replace your existing collection of wrenches with ones made out of PCBs. However, as creator [Ben …read more",
+          "link": "https://hackaday.com/2022/01/18/ultra-cheap-pcb-wrenches-make-perfect-kit-accessory/",
+          "publishedOn": "2022-01-18T21:00:42.000Z",
+          "wordCount": 1504,
+          "title": "Ultra Cheap PCB Wrenches Make Perfect Kit Accessory"
+        },
+        {
+          "id": "https://hackaday.com/?p=516161",
+          "author": "Dan Maloney",
+          "description": "An electronic leadscrew is an increasingly popular project for small and mid-sized lathes. They do away with the need to swap gears in and out to achieve the proper ratio …read more",
+          "link": "https://hackaday.com/2022/01/18/electronic-lead-screws-not-just-for-threading-anymore/",
+          "publishedOn": "2022-01-18T19:30:26.000Z",
+          "wordCount": 1124,
+          "title": "Electronic Lead Screws – Not Just for Threading Anymore"
+        },
+        {
+          "id": "https://hackaday.com/?p=514567&preview=true&preview_id=514567",
+          "author": "Kristina Panos",
+          "description": "Isn’t it just fantastic when a project finally does what you wanted it to do in the first place? [Simon Merrett] isn’t willing to compromise when it comes to the …read more",
+          "link": "https://hackaday.com/2022/01/18/keebin-with-kristina-the-one-with-the-tri-lingual-typewriter/",
+          "publishedOn": "2022-01-18T18:00:32.000Z",
+          "wordCount": 1711,
+          "title": "Keebin’ with Kristina: the One With the Tri-lingual Typewriter"
+        },
+        {
+          "id": "https://hackaday.com/?p=516102",
+          "author": "Chris Lott",
+          "description": "This week Techspot reported that DRM-laden Ultra HD Blu-ray Discs won’t play anymore on computers using the latest Intel Core processors. You may have skimmed right past it, but the table …read more",
+          "link": "https://hackaday.com/2022/01/18/sgx-deprecation-prevents-pc-playback-of-4k-blu-ray-discs/",
+          "publishedOn": "2022-01-18T16:30:32.000Z",
+          "wordCount": 3974,
+          "title": "SGX Deprecation Prevents PC Playback of 4K Blu-ray Discs"
+        },
+        {
+          "id": "https://hackaday.com/?p=509159",
+          "author": "Dave Rowntree",
+          "description": "I’ve been following the development of KiCAD for a number of years now, and using it as my main electronics CAD package daily for a the last six years or …read more",
+          "link": "https://hackaday.com/2022/01/18/kicad-6-0-what-made-it-and-what-didnt/",
+          "publishedOn": "2022-01-18T15:00:51.000Z",
+          "wordCount": 5440,
+          "title": "KiCAD 6.0: What Made It and What Didn’t"
+        },
+        {
+          "id": "https://hackaday.com/?p=515898",
+          "author": "Matthew Carlson",
+          "description": "As peripherals go, few are hacked on more than keyboards. The layouts, the shapes, the sizes, materials, and even the question of what a keyboard is are all on the …read more",
+          "link": "https://hackaday.com/2022/01/18/threeboard-short-on-keys-long-on-documentation/",
+          "publishedOn": "2022-01-18T12:00:41.000Z",
+          "wordCount": 1398,
+          "title": "Threeboard: Short on Keys, Long on Documentation"
+        },
         {
           "id": "https://hackaday.com/?p=515974",
           "author": "Donald Papp",
@@ -24326,6 +24606,76 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "E7013947-5066-41AA-B7A7B21AF31AD32A",
+          "author": "Ryan F. Mandelbaum",
+          "description": "Scientists are figuring out how to detect a tsunami-generating earthquake’s unique, fast-traveling sound waves \n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/telltale-tsunami-sounds-could-buy-more-warning-time/",
+          "publishedOn": "2022-01-18T21:30:00.000Z",
+          "wordCount": null,
+          "title": "Telltale Tsunami Sounds Could Buy More Warning Time",
+          "itunes": {}
+        },
+        {
+          "id": "512FC72C-ED48-4918-AA38CA1BF4BEC881",
+          "author": "David Pogue",
+          "description": "It will make 4G phones seem positively quaint\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/5g-devices-are-about-to-change-your-life/",
+          "publishedOn": "2022-01-18T20:55:00.000Z",
+          "wordCount": null,
+          "title": "5G Devices Are about to Change Your Life",
+          "itunes": {}
+        },
+        {
+          "id": "069E0180-4B74-464E-90EAACE52AABCD38",
+          "author": "Shane Cronin, The Conversation US",
+          "description": "Research into earlier eruptions suggests this is the type of massive explosion the volcano sees about every thousand years\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/why-the-tonga-eruption-was-so-violent-and-what-to-expect-next/",
+          "publishedOn": "2022-01-18T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Why the Tonga Eruption Was So Violent, and What to Expect Next",
+          "itunes": {}
+        },
+        {
+          "id": "3A416EC8-F868-40A0-B0B1B807637829ED",
+          "author": "Adam Becker",
+          "description": "Spacetime may emerge from a more fundamental reality. Figuring out how could unlock the most urgent goal in physics—a quantum theory of gravity\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/what-is-spacetime-really-made-of/",
+          "publishedOn": "2022-01-18T14:30:00.000Z",
+          "wordCount": null,
+          "title": "What Is Spacetime Really Made Of?",
+          "itunes": {}
+        },
+        {
+          "id": "761F364D-B852-4D98-A49BB54CB9AEAAB9",
+          "author": "Laura Helmuth",
+          "description": "Why salamanders are so strange, why people jump to conclusions, and more in our February 2022 issue\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/big-questions-about-space-time-neandertals-psychedelics-and-reality/",
+          "publishedOn": "2022-01-18T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Big Questions about Space, Time, Neandertals, Psychedelics and Reality",
+          "itunes": {}
+        },
+        {
+          "id": "6E703F0F-3C4B-4191-A851D36321BB8779",
+          "author": "Joerg T Albert, Alex Alampounti, Marcos Georgiades, The Conversation US",
+          "description": "“Wing beats” can help identify targets for control programs\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/sounds-of-mosquitoes-mating-rituals-could-help-fight-malaria/",
+          "publishedOn": "2022-01-18T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Sounds of Mosquitoes' Mating Rituals Could Help Fight Malaria",
+          "itunes": {}
+        },
+        {
+          "id": "D7975536-DAA9-4D8B-B04C603D8995FF43",
+          "author": "Jason Sherman",
+          "description": "Tracking the missiles is like picking out one light bulb against a background of light bulbs, but new technology aims to see them more clearly\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/hypersonic-weapons-cant-hide-from-new-eyes-in-space/",
+          "publishedOn": "2022-01-18T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Hypersonic Weapons Can't Hide from New Eyes in Space",
+          "itunes": {}
+        },
+        {
           "id": "4DC488B6-5656-4AB9-AF46DCCFF07B8596",
           "author": "Rahul Rao, SPACE.com",
           "description": "The atom interferometry technique uses the effects of time dilation to reveal subtle changes in gravity’s strength\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -29475,6 +29825,42 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=149206",
+          "author": "Mike Vizard",
+          "description": "A recent meeting between IT industry leaders and White House officials highlighted open source software sustainability concerns as high-profile breaches and zero-day attacks have many organizations reviewing their software supply chains. The White House published a statement describing, among other things, how participants had a “substantive and constructive” discussion on how to make a difference […]\nThe post White House Meeting Puts Spotlight on OSS Sustainability appeared first on DevOps.com.",
+          "link": "https://devops.com/white-house-meeting-puts-spotlight-on-oss-sustainability/",
+          "publishedOn": "2022-01-18T20:40:09.000Z",
+          "wordCount": 1101,
+          "title": "White House Meeting Puts Spotlight on OSS Sustainability"
+        },
+        {
+          "id": "https://devops.com/?p=149198",
+          "author": "Mike Vizard",
+          "description": "GrammaTech today updated its CodeSentry code inspection platform to include the ability to create a software bill of materials (SBOM) by analyzing application binaries. Walter Capitani, director of technical product management for GrammaTech, said version 3.0 of CodeSentry leverages the algorithms the company uses for binary software composition analysis to enable organizations to better address […]\nThe post GrammaTech Adds SBOM Analysis Capability to CodeSentry appeared first on DevOps.com.",
+          "link": "https://devops.com/grammatech-adds-sbom-analysis-capability-to-codesentry/",
+          "publishedOn": "2022-01-18T16:04:59.000Z",
+          "wordCount": 980,
+          "title": "GrammaTech Adds SBOM Analysis Capability to CodeSentry"
+        },
+        {
+          "id": "https://devops.com/?p=149158",
+          "author": "Ram Iyengar",
+          "description": "Recently, there’s been a lot of attention paid to software supply chain security. In particular, here’s a quote from the May 2021 presidential executive order on improving the nation’s cybersecurity: “The Federal government must … advance toward zero trust architecture; accelerate movement to secure cloud services, including … platform as a service (PaaS).” There are […]\nThe post Using Open Source to Secure Software Supply Chains appeared first on DevOps.com.",
+          "link": "https://devops.com/open-source-tools-and-software-supply-chain-security/",
+          "publishedOn": "2022-01-18T08:00:50.000Z",
+          "wordCount": 1109,
+          "title": "Using Open Source to Secure Software Supply Chains"
+        },
+        {
+          "id": "https://devops.com/?p=149110",
+          "author": "Bill Doerrfeld",
+          "description": "The use of APIs and microservices is increasing—a recent study from F5 estimated that the industry is approaching 200 million total APIs. As organizations expand their use of APIs and microservices, they inevitably require some form of service management architecture. There are primarily two major design options for implementing this: An API management system or […]\nThe post How Are API Management and Service Mesh Different? appeared first on DevOps.com.",
+          "link": "https://devops.com/how-are-api-management-and-service-mesh-different/",
+          "publishedOn": "2022-01-18T07:30:55.000Z",
+          "wordCount": 1626,
+          "title": "How Are API Management and Service Mesh Different?"
+        },
+        {
           "id": "https://devops.com/?p=149129",
           "author": "Veronica Haggar",
           "description": "Infrastructure as Code (IaC) is an essential DevOps practice that allows developers and operations teams to automatically manage and provision the infrastructure through code, instead of making configuration changes through a manual process. IaC provides transformational agility and can significantly speed delivery, reduce costs and help mitigate risks. However, when people talk about IaC, sometimes […]\nThe post Infrastructure as Code (IaC): Why Collaboration Is Key appeared first on DevOps.com.",
@@ -31813,6 +32199,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=111838",
+          "author": "Veronique Greenwood",
+          "description": "The electrical chatter of our working memories reflects our uncertainty about their contents.            \nThe post Neural Noise Shows the Uncertainty of Our Memories first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/neural-noise-shows-the-uncertainty-of-our-memories-20220118/",
+          "publishedOn": "2022-01-18T16:14:44.000Z",
+          "wordCount": null,
+          "title": "Neural Noise Shows the Uncertainty of Our Memories",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=111793",
           "author": "Kevin Hartnett",
           "description": "Paul Nelson has solved the subconvexity problem, bringing mathematicians one step closer to understanding the Riemann hypothesis and the distribution of prime numbers.            \nThe post Mathematicians Clear Hurdle in Quest to Decode Primes first appeared on Quanta Magazine",
@@ -32349,6 +32745,24 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66595",
+          "author": "Nathan Yau",
+          "description": "With the announcement of free Covid-19 tests through the United States Postal Service,…\nTags: analytics, government",
+          "link": "https://flowingdata.com/2022/01/18/analytics-for-u-s-government-websites/",
+          "publishedOn": "2022-01-18T22:23:55.000Z",
+          "wordCount": 289,
+          "title": "Analytics for U.S. government websites"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66575",
+          "author": "Nathan Yau",
+          "description": "An underwater volcano erupted about 40 miles off the coast of the main…\nTags: Tonga, volcano",
+          "link": "https://flowingdata.com/2022/01/18/global-ripple-effect-from-underwater-volcano/",
+          "publishedOn": "2022-01-18T08:15:01.000Z",
+          "wordCount": 319,
+          "title": "Global ripple effect from underwater volcano"
+        },
         {
           "id": "https://flowingdata.com/?p=66569",
           "author": "Nathan Yau",
@@ -33849,15 +34263,6 @@
           "publishedOn": "2021-02-04T08:00:00.000Z",
           "wordCount": 2480,
           "title": "Dream big, and follow through even bigger"
-        },
-        {
-          "id": "https://github.com/readme/stories/caleb-porzio",
-          "author": null,
-          "description": "Caleb began his open source journey to make web development easier and more productive. He’s since built Laravel Livewire and AlpineJS.\n\nRead more on The ReadME Project.",
-          "link": "https://github.com/readme/stories/caleb-porzio",
-          "publishedOn": "2021-01-19T08:00:00.000Z",
-          "wordCount": 2285,
-          "title": "Bringing simplicity, joy, and order to web development"
         }
       ]
     },

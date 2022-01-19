@@ -2,10 +2,498 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2022-01-18T01:16:33.047Z</updated>
+    <updated>2022-01-19T01:07:07.373Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A DIY CAD Mouse You Can Actually Build]]></title>
+        <id>https://hackaday.com/?p=516070</id>
+        <link href="https://hackaday.com/2022/01/18/a-diy-cad-mouse-you-can-actually-build/"/>
+        <updated>2022-01-19T00:00:31.000Z</updated>
+        <summary type="html"><![CDATA[When you spend a lot of time on the computer doing certain more specialised tasks (no, we’re not talking about browsing cat memes on twitter) you start to think that …read more]]></summary>
+        <author>
+            <name>Dave Rowntree</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Quality Options for a Table of Contents Block in WordPress]]></title>
+        <id>https://css-tricks.com/?p=360362</id>
+        <link href="https://css-tricks.com/table-of-contents-block-in-wordpress/"/>
+        <updated>2022-01-18T23:22:01.000Z</updated>
+        <summary type="html"><![CDATA[There are a number of options for including a Table of Contents lock in WordPress. You can use a plugin, or try to do it yourself. 
+4 Quality Options for a Table of Contents Block in WordPress originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Convert a Static HTML Table to a Dynamic JavaScript Data Grid]]></title>
+        <id>61e158e5b837d507ba0a263e</id>
+        <link href="https://www.freecodecamp.org/news/convert-html-table-to-dynamic-javascript-data-grid/"/>
+        <updated>2022-01-18T22:40:00.000Z</updated>
+        <summary type="html"><![CDATA[HTML Tables are simple to use for rendering small amounts of data. But they can be hard for users to work with when they display a lot of data.  Features like sorting, filtering, and pagination make it easier to work with many rows of data. We can easily implement those]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analytics for U.S. government websites]]></title>
+        <id>https://flowingdata.com/?p=66595</id>
+        <link href="https://flowingdata.com/2022/01/18/analytics-for-u-s-government-websites/"/>
+        <updated>2022-01-18T22:23:55.000Z</updated>
+        <summary type="html"><![CDATA[With the announcement of free Covid-19 tests through the United States Postal Service,…
+Tags: analytics, government]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Simplify Asynchronous JavaScript using the Result-Error Pattern]]></title>
+        <id>61e5c135b837d507ba0a4ad0</id>
+        <link href="https://www.freecodecamp.org/news/simplify-asynchronous-javascript-using-the-result-error-pattern/"/>
+        <updated>2022-01-18T22:08:11.000Z</updated>
+        <summary type="html"><![CDATA[The Result-Error Pattern helps you hide try-catch blocks, simplify error handling, and encapsulate cleanup operations.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – Uniform Cost Search Algorithm to Solve Single-Source Shortest Path in a Graph]]></title>
+        <id>https://helloacm.com/?p=148609</id>
+        <link href="https://helloacm.com/teaching-kids-programming-uniform-cost-search-algorithm-to-solve-shortest-path-in-a-graph/"/>
+        <updated>2022-01-18T21:58:53.000Z</updated>
+        <summary type="html"><![CDATA[Teaching Kids Programming: Videos on Data Structures and Algorithms You are given a two-dimensional list of integers edges which represents a directed, weighted graph. Each element in edges contains ...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telltale Tsunami Sounds Could Buy More Warning Time]]></title>
+        <id>E7013947-5066-41AA-B7A7B21AF31AD32A</id>
+        <link href="https://www.scientificamerican.com/article/telltale-tsunami-sounds-could-buy-more-warning-time/"/>
+        <updated>2022-01-18T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientists are figuring out how to detect a tsunami-generating earthquake’s unique, fast-traveling sound waves 
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Ryan F. Mandelbaum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Setup a CI/CD Pipeline with GitHub Actions and AWS]]></title>
+        <id>61c1f85b755c160824908ac7</id>
+        <link href="https://www.freecodecamp.org/news/how-to-setup-a-ci-cd-pipeline-with-github-actions-and-aws/"/>
+        <updated>2022-01-18T21:26:24.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll learn how to set up a CI/CD pipeline with GitHub Actions and AWS. I've divided the guide into three parts to help you work through it: First, we'll cover some important terminology so you're not lost in a bunch of big buzzwords. Second, we'll set]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultra Cheap PCB Wrenches Make Perfect Kit Accessory]]></title>
+        <id>https://hackaday.com/?p=516208</id>
+        <link href="https://hackaday.com/2022/01/18/ultra-cheap-pcb-wrenches-make-perfect-kit-accessory/"/>
+        <updated>2022-01-18T21:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Let’s make one thing abundantly clear. We do not, under any circumstances, recommend you replace your existing collection of wrenches with ones made out of PCBs. However, as creator [Ben …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create User Interfaces for Machine Learning Models Using Gradio]]></title>
+        <id>61e726bf183181284a1912db</id>
+        <link href="https://www.freecodecamp.org/news/create-user-interfaces-for-machine-learning-models-using-gradio/"/>
+        <updated>2022-01-18T20:56:02.000Z</updated>
+        <summary type="html"><![CDATA[Adjusting, visualizing, and sharing machine learning models can be much easier with a sleek user interface. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Gradio to create intuitive user interfaces for machine learning models. Abdul from 1littlecoder developed this course.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5G Devices Are about to Change Your Life]]></title>
+        <id>512FC72C-ED48-4918-AA38CA1BF4BEC881</id>
+        <link href="https://www.scientificamerican.com/article/5g-devices-are-about-to-change-your-life/"/>
+        <updated>2022-01-18T20:55:00.000Z</updated>
+        <summary type="html"><![CDATA[It will make 4G phones seem positively quaint
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>David Pogue</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[White House Meeting Puts Spotlight on OSS Sustainability]]></title>
+        <id>https://devops.com/?p=149206</id>
+        <link href="https://devops.com/white-house-meeting-puts-spotlight-on-oss-sustainability/"/>
+        <updated>2022-01-18T20:40:09.000Z</updated>
+        <summary type="html"><![CDATA[A recent meeting between IT industry leaders and White House officials highlighted open source software sustainability concerns as high-profile breaches and zero-day attacks have many organizations reviewing their software supply chains. The White House published a statement describing, among other things, how participants had a “substantive and constructive” discussion on how to make a difference […]
+The post White House Meeting Puts Spotlight on OSS Sustainability appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Mike Vizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Keep Your Package Dependencies Up to Date on Azure DevOps]]></title>
+        <id>61cfee0ea700150888933a10</id>
+        <link href="https://www.freecodecamp.org/news/keep-package-dependencies-up-to-date-on-azure-devops/"/>
+        <updated>2022-01-18T20:15:51.000Z</updated>
+        <summary type="html"><![CDATA[As a developer, how often have you seen a repository with packages that are out of date? New package updates generally include new features, performance improvements, and security fixes. But keeping track of all outdated dependencies in your project can be really boring and a time consuming task, especially if]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer Networking Tutorial – How Network Applications Talk Over the Internet]]></title>
+        <id>61d6289ed2d9de084285cab7</id>
+        <link href="https://www.freecodecamp.org/news/computer-networking-how-applications-talk-over-the-internet/"/>
+        <updated>2022-01-18T19:54:27.000Z</updated>
+        <summary type="html"><![CDATA[Network applications are computer applications that participate in a computer network. These applications talk to each other by plugging into the network.  For example, when you visit google.com, your browser acts as a network application that leverages the Internet to talk to the network application running on Google's computer.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electronic Lead Screws – Not Just for Threading Anymore]]></title>
+        <id>https://hackaday.com/?p=516161</id>
+        <link href="https://hackaday.com/2022/01/18/electronic-lead-screws-not-just-for-threading-anymore/"/>
+        <updated>2022-01-18T19:30:26.000Z</updated>
+        <summary type="html"><![CDATA[An electronic leadscrew is an increasingly popular project for small and mid-sized lathes. They do away with the need to swap gears in and out to achieve the proper ratio …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Primitive vs Reference Data Types in JavaScript]]></title>
+        <id>61db22fcd2d9de084285f551</id>
+        <link href="https://www.freecodecamp.org/news/primitive-vs-reference-data-types-in-javascript/"/>
+        <updated>2022-01-18T19:24:33.000Z</updated>
+        <summary type="html"><![CDATA[Data types can be a bit of a mind boggling concept. But as programmers, we use data types everyday – so they're something we should understand.  Question is, how does the computer store these data types? It can't possibly treat every data type the same. In JavaScript, data types are split]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Working as an Independent Contractor Can Help You Start Your Own Freelance Dev Business]]></title>
+        <id>61d5c80fd2d9de084285c5f3</id>
+        <link href="https://www.freecodecamp.org/news/working-as-independent-contractor-can-help-start-freelance-business/"/>
+        <updated>2022-01-18T19:06:12.000Z</updated>
+        <summary type="html"><![CDATA[This article is about how working as an independent contractor for a web design agency helped me to start my own freelance business.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keebin’ with Kristina: the One With the Tri-lingual Typewriter]]></title>
+        <id>https://hackaday.com/?p=514567&amp;preview=true&amp;preview_id=514567</id>
+        <link href="https://hackaday.com/2022/01/18/keebin-with-kristina-the-one-with-the-tri-lingual-typewriter/"/>
+        <updated>2022-01-18T18:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Isn’t it just fantastic when a project finally does what you wanted it to do in the first place? [Simon Merrett] isn’t willing to compromise when it comes to the …read more]]></summary>
+        <author>
+            <name>Kristina Panos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SGX Deprecation Prevents PC Playback of 4K Blu-ray Discs]]></title>
+        <id>https://hackaday.com/?p=516102</id>
+        <link href="https://hackaday.com/2022/01/18/sgx-deprecation-prevents-pc-playback-of-4k-blu-ray-discs/"/>
+        <updated>2022-01-18T16:30:32.000Z</updated>
+        <summary type="html"><![CDATA[This week Techspot reported that DRM-laden Ultra HD Blu-ray Discs won’t play anymore on computers using the latest Intel Core processors. You may have skimmed right past it, but the table …read more]]></summary>
+        <author>
+            <name>Chris Lott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neural Noise Shows the Uncertainty of Our Memories]]></title>
+        <id>https://www.quantamagazine.org/?p=111838</id>
+        <link href="https://www.quantamagazine.org/neural-noise-shows-the-uncertainty-of-our-memories-20220118/"/>
+        <updated>2022-01-18T16:14:44.000Z</updated>
+        <summary type="html"><![CDATA[The electrical chatter of our working memories reflects our uncertainty about their contents.            
+The post Neural Noise Shows the Uncertainty of Our Memories first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Veronique Greenwood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GrammaTech Adds SBOM Analysis Capability to CodeSentry]]></title>
+        <id>https://devops.com/?p=149198</id>
+        <link href="https://devops.com/grammatech-adds-sbom-analysis-capability-to-codesentry/"/>
+        <updated>2022-01-18T16:04:59.000Z</updated>
+        <summary type="html"><![CDATA[GrammaTech today updated its CodeSentry code inspection platform to include the ability to create a software bill of materials (SBOM) by analyzing application binaries. Walter Capitani, director of technical product management for GrammaTech, said version 3.0 of CodeSentry leverages the algorithms the company uses for binary software composition analysis to enable organizations to better address […]
+The post GrammaTech Adds SBOM Analysis Capability to CodeSentry appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Mike Vizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why the Tonga Eruption Was So Violent, and What to Expect Next]]></title>
+        <id>069E0180-4B74-464E-90EAACE52AABCD38</id>
+        <link href="https://www.scientificamerican.com/article/why-the-tonga-eruption-was-so-violent-and-what-to-expect-next/"/>
+        <updated>2022-01-18T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Research into earlier eruptions suggests this is the type of massive explosion the volcano sees about every thousand years
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Shane Cronin, The Conversation US</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Custom Patreon Button]]></title>
+        <id>61e2a600b837d507ba0a37ee</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-custom-patreon-button/"/>
+        <updated>2022-01-18T15:53:41.000Z</updated>
+        <summary type="html"><![CDATA[Patreon is a subscription management system for creators. Although it offers a default button snippet, you can add a custom button that includes your preferred design and call to action to increase your click through rate. In this article you will learn how to create a simple custom Patreon link]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Arch Linux Handbook]]></title>
+        <id>61cadc1f755c16082490bd7a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-install-arch-linux/"/>
+        <updated>2022-01-18T15:15:23.000Z</updated>
+        <summary type="html"><![CDATA[If you ask a group of developers what Linux is, most of them will probably say it's an open-source operating system. Those with more technical knowledge will probably call it a kernel. For me, though, Linux is not just an operating system or a kernel. For me, it's freedom. The]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KiCAD 6.0: What Made It and What Didn’t]]></title>
+        <id>https://hackaday.com/?p=509159</id>
+        <link href="https://hackaday.com/2022/01/18/kicad-6-0-what-made-it-and-what-didnt/"/>
+        <updated>2022-01-18T15:00:51.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been following the development of KiCAD for a number of years now, and using it as my main electronics CAD package daily for a the last six years or …read more]]></summary>
+        <author>
+            <name>Dave Rowntree</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making a Site Work Offline Using the VitePWA Plugin]]></title>
+        <id>https://css-tricks.com/?p=361001</id>
+        <link href="https://css-tricks.com/vitepwa-plugin-offline-service-worker/"/>
+        <updated>2022-01-18T14:30:26.000Z</updated>
+        <summary type="html"><![CDATA[The VitePWA plugin from Anthony Fu is a fantastic tool for your Vite-powered sites. It helps you add a service worker that handles:
+offline support
+caching assets and content
+prompting the user when new content is available
+…and other goodies!
+…
+Making a Site Work Offline Using the VitePWA Plugin originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Spacetime Really Made Of?]]></title>
+        <id>3A416EC8-F868-40A0-B0B1B807637829ED</id>
+        <link href="https://www.scientificamerican.com/article/what-is-spacetime-really-made-of/"/>
+        <updated>2022-01-18T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Spacetime may emerge from a more fundamental reality. Figuring out how could unlock the most urgent goal in physics—a quantum theory of gravity
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Adam Becker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big Questions about Space, Time, Neandertals, Psychedelics and Reality]]></title>
+        <id>761F364D-B852-4D98-A49BB54CB9AEAAB9</id>
+        <link href="https://www.scientificamerican.com/article/big-questions-about-space-time-neandertals-psychedelics-and-reality/"/>
+        <updated>2022-01-18T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why salamanders are so strange, why people jump to conclusions, and more in our February 2022 issue
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Laura Helmuth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sounds of Mosquitoes' Mating Rituals Could Help Fight Malaria]]></title>
+        <id>6E703F0F-3C4B-4191-A851D36321BB8779</id>
+        <link href="https://www.scientificamerican.com/article/sounds-of-mosquitoes-mating-rituals-could-help-fight-malaria/"/>
+        <updated>2022-01-18T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“Wing beats” can help identify targets for control programs
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Joerg T Albert, Alex Alampounti, Marcos Georgiades, The Conversation US</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Threeboard: Short on Keys, Long on Documentation]]></title>
+        <id>https://hackaday.com/?p=515898</id>
+        <link href="https://hackaday.com/2022/01/18/threeboard-short-on-keys-long-on-documentation/"/>
+        <updated>2022-01-18T12:00:41.000Z</updated>
+        <summary type="html"><![CDATA[As peripherals go, few are hacked on more than keyboards. The layouts, the shapes, the sizes, materials, and even the question of what a keyboard is are all on the …read more]]></summary>
+        <author>
+            <name>Matthew Carlson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hypersonic Weapons Can't Hide from New Eyes in Space]]></title>
+        <id>D7975536-DAA9-4D8B-B04C603D8995FF43</id>
+        <link href="https://www.scientificamerican.com/article/hypersonic-weapons-cant-hide-from-new-eyes-in-space/"/>
+        <updated>2022-01-18T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Tracking the missiles is like picking out one light bulb against a background of light bulbs, but new technology aims to see them more clearly
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Jason Sherman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Story Of An Emmy-Winning Duo On How To Bring Pro IP Creation To NFTs]]></title>
+        <id>https://hackernoon.com/the-story-of-an-emmy-winning-duo-on-how-to-bring-pro-ip-creation-to-nfts?source=rss</id>
+        <link href="https://hackernoon.com/the-story-of-an-emmy-winning-duo-on-how-to-bring-pro-ip-creation-to-nfts?source=rss"/>
+        <updated>2022-01-18T09:14:22.000Z</updated>
+        <summary type="html"><![CDATA[Adam Jeffcoat shares tips on how to make an NFT collection stand out in the oversaturated market with the GORECATS series of NFTs and his own experience.]]></summary>
+        <author>
+            <name>Adam Jeffcoat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global ripple effect from underwater volcano]]></title>
+        <id>https://flowingdata.com/?p=66575</id>
+        <link href="https://flowingdata.com/2022/01/18/global-ripple-effect-from-underwater-volcano/"/>
+        <updated>2022-01-18T08:15:01.000Z</updated>
+        <summary type="html"><![CDATA[An underwater volcano erupted about 40 miles off the coast of the main…
+Tags: Tonga, volcano]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Open Source to Secure Software Supply Chains]]></title>
+        <id>https://devops.com/?p=149158</id>
+        <link href="https://devops.com/open-source-tools-and-software-supply-chain-security/"/>
+        <updated>2022-01-18T08:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Recently, there’s been a lot of attention paid to software supply chain security. In particular, here’s a quote from the May 2021 presidential executive order on improving the nation’s cybersecurity: “The Federal government must … advance toward zero trust architecture; accelerate movement to secure cloud services, including … platform as a service (PaaS).” There are […]
+The post Using Open Source to Secure Software Supply Chains appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Ram Iyengar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning Magic: How to Speed Up Offline Inference for Large Datasets]]></title>
+        <id>https://hackernoon.com/machine-learning-magic-how-to-speed-up-offline-inference-for-large-datasets?source=rss</id>
+        <link href="https://hackernoon.com/machine-learning-magic-how-to-speed-up-offline-inference-for-large-datasets?source=rss"/>
+        <updated>2022-01-18T07:56:28.000Z</updated>
+        <summary type="html"><![CDATA[Running inference at scale is challenging. See how we speed up the I/O performance for large-scale ML/DL offline inference jobs.]]></summary>
+        <author>
+            <name>Bin Fan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Are API Management and Service Mesh Different?]]></title>
+        <id>https://devops.com/?p=149110</id>
+        <link href="https://devops.com/how-are-api-management-and-service-mesh-different/"/>
+        <updated>2022-01-18T07:30:55.000Z</updated>
+        <summary type="html"><![CDATA[The use of APIs and microservices is increasing—a recent study from F5 estimated that the industry is approaching 200 million total APIs. As organizations expand their use of APIs and microservices, they inevitably require some form of service management architecture. There are primarily two major design options for implementing this: An API management system or […]
+The post How Are API Management and Service Mesh Different? appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Bill Doerrfeld</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get a Bird's Eye View with the Best Indoor Drones]]></title>
+        <id>https://hackernoon.com/indoor-drone?source=rss</id>
+        <link href="https://hackernoon.com/indoor-drone?source=rss"/>
+        <updated>2022-01-18T07:15:33.000Z</updated>
+        <summary type="html"><![CDATA[Want to pilot a drone and see through the spaces you can’t reach yourself? Time to get the finest indoor drones in 2021 to help you out.]]></summary>
+        <author>
+            <name>Best in Tech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Wi-Fi Extenders for an Uninterrupted Connection]]></title>
+        <id>https://hackernoon.com/wi-fi-extender?source=rss</id>
+        <link href="https://hackernoon.com/wi-fi-extender?source=rss"/>
+        <updated>2022-01-18T07:10:29.000Z</updated>
+        <summary type="html"><![CDATA[Are internet connection interruptions and dead zones causing you a headache? Get yourself the finest Wi-Fi extenders in 2021 to resolve this mess.]]></summary>
+        <author>
+            <name>PC Reviewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Intro to Ecommerce Navigation SEO Best Practices]]></title>
+        <id>https://hackernoon.com/an-intro-to-ecommerce-navigation-seo-best-practices?source=rss</id>
+        <link href="https://hackernoon.com/an-intro-to-ecommerce-navigation-seo-best-practices?source=rss"/>
+        <updated>2022-01-18T07:07:55.000Z</updated>
+        <summary type="html"><![CDATA[A detailed look at navigation SEO best practices for ecommerce sites]]></summary>
+        <author>
+            <name>Colin McDermott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The “Midlife Crisis” of a Programming Career]]></title>
+        <id>https://hackernoon.com/the-midlife-crisis-of-a-programming-career?source=rss</id>
+        <link href="https://hackernoon.com/the-midlife-crisis-of-a-programming-career?source=rss"/>
+        <updated>2022-01-18T06:59:53.000Z</updated>
+        <summary type="html"><![CDATA[The number of good programmers who love their work and can do it with quality and passion is pretty much close to zero.]]></summary>
+        <author>
+            <name>Farath Shba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do Loyalty Programs [un]work?]]></title>
+        <id>https://hackernoon.com/how-do-loyalty-programs-unwork?source=rss</id>
+        <link href="https://hackernoon.com/how-do-loyalty-programs-unwork?source=rss"/>
+        <updated>2022-01-18T06:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Thoughts about retail marketing transformation for the fragmented post-covid market with millions of smaller retailers and re-emerging regional manufacturers.]]></summary>
+        <author>
+            <name>Juli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Thoughts on the Evolution of Live Streaming]]></title>
+        <id>https://hackernoon.com/my-thoughts-on-the-evolution-of-live-streaming?source=rss</id>
+        <link href="https://hackernoon.com/my-thoughts-on-the-evolution-of-live-streaming?source=rss"/>
+        <updated>2022-01-18T06:42:05.000Z</updated>
+        <summary type="html"><![CDATA[The pandemic created a need to feel more connected through the digital world. Being able to listen and communicate directly has become more essential.]]></summary>
+        <author>
+            <name>TVC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Kids Should Start Coding Early and Here's Why]]></title>
+        <id>https://hackernoon.com/your-kids-should-start-coding-early-and-heres-why?source=rss</id>
+        <link href="https://hackernoon.com/your-kids-should-start-coding-early-and-heres-why?source=rss"/>
+        <updated>2022-01-18T06:27:24.000Z</updated>
+        <summary type="html"><![CDATA[There are good reasons to believe that children that explore code early can develop more complex thinking processes.]]></summary>
+        <author>
+            <name>Yasser Jilani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AlmaLinux Container Images with Full RHEL UBI Compatibility]]></title>
+        <id>https://hackernoon.com/almalinux-container-images-with-full-rhel-ubi-compatibility?source=rss</id>
+        <link href="https://hackernoon.com/almalinux-container-images-with-full-rhel-ubi-compatibility?source=rss"/>
+        <updated>2022-01-18T06:17:24.000Z</updated>
+        <summary type="html"><![CDATA[Cloud and Containers SIG have been hard at work lately on a project surrounding container updates, new images, new registries, and distribution.]]></summary>
+        <author>
+            <name>AlmaLinux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stablecoin History: The Master of All AltCoins]]></title>
+        <id>https://hackernoon.com/stablecoin-history-the-master-of-all-altcoins?source=rss</id>
+        <link href="https://hackernoon.com/stablecoin-history-the-master-of-all-altcoins?source=rss"/>
+        <updated>2022-01-18T05:22:01.000Z</updated>
+        <summary type="html"><![CDATA[The histor of mastercoin is important to stablecoins and crypto in general. I hope you'll enjoy this overall unbiased guide from Alyze Sam's number one new book]]></summary>
+        <author>
+            <name>Alyze Sam, #WomenInBlockchain</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Machine Learning Detects Distracted Politicians]]></title>
         <id>https://hackaday.com/?p=515974</id>
@@ -40291,18 +40779,6 @@ Subscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://go
 #GUIchallenges #CSS #ChromeDeveloper]]></summary>
         <author>
             <name>GUI Challenges on web.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bringing simplicity, joy, and order to web development]]></title>
-        <id>https://github.com/readme/stories/caleb-porzio</id>
-        <link href="https://github.com/readme/stories/caleb-porzio"/>
-        <updated>2021-01-19T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Caleb began his open source journey to make web development easier and more productive. He’s since built Laravel Livewire and AlpineJS.
-
-Read more on The ReadME Project.]]></summary>
-        <author>
-            <name>The ReadME Project</name>
         </author>
     </entry>
 </feed>
