@@ -454,6 +454,87 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=361210",
+          "author": "Josh Collinsworth",
+          "description": "(This is a sponsored post.)\nI remember vividly a period early in my coding career when I began to feel that things were changing away from what I knew, and headed towards a more complex set of tools and …\nA Complete Beginner’s Guide to npm originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/a-complete-beginners-guide-to-npm/",
+          "publishedOn": "2022-01-20T15:07:32.000Z",
+          "wordCount": 1496,
+          "title": "A Complete Beginner’s Guide to npm"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361214",
+          "author": "Josh Collinsworth",
+          "description": "One of the things that makes this new, tooling-heavy era of front-end development so seemingly hard to understand at first is that, while we often call things by a singular name, they tend to be actually comprised of several different …\nWhat the Heck Does “npm” Mean? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/a-clear-definition-of-npm-and-what-it-does/",
+          "publishedOn": "2022-01-20T15:04:15.000Z",
+          "wordCount": 1148,
+          "title": "What the Heck Does “npm” Mean?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361226",
+          "author": "Josh Collinsworth",
+          "description": "Now that we know what npm stands for and have a super general idea of what it does and how it fits into web development, we ought to spend a little bit of time looking at the command line, because …\nWhat the Heck is the Command Line? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/a-deep-look-at-the-command-line/",
+          "publishedOn": "2022-01-20T15:04:09.000Z",
+          "wordCount": 2692,
+          "title": "What the Heck is the Command Line?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361241",
+          "author": "Josh Collinsworth",
+          "description": "(This is a sponsored post.)\nHere’s what you need to know about Node.js (or simply Node) and how it relates to npm right off the bat:\nNode is JavaScript, but as a server-side language.\nThis is possible because of \n…\nWhat the Heck is Node? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/node-and-how-it-works-with-npm/",
+          "publishedOn": "2022-01-20T15:04:03.000Z",
+          "wordCount": 2374,
+          "title": "What the Heck is Node?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361257",
+          "author": "Josh Collinsworth",
+          "description": "If you’re keeping score, so far in this npm guide we’ve developed a general understanding of what npm is—notably, that it stands for Node Package Manager. In the process, we’ve discussed the importance of the command line and how it’s …\nWhat the Heck is a Package Manager? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/what-the-heck-is-a-package-manager/",
+          "publishedOn": "2022-01-20T15:03:59.000Z",
+          "wordCount": 2600,
+          "title": "What the Heck is a Package Manager?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361270",
+          "author": "Josh Collinsworth",
+          "description": "Feel like you have a pretty good idea of what a package manager is? We’ve certainly covered a lot of ground getting familiar with all the terms and concepts of package managers, but I’d say it’s high time we actually …\nHow the Heck Do You Install npm? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/how-to-install-npm-node-nvm/",
+          "publishedOn": "2022-01-20T15:03:53.000Z",
+          "wordCount": 1541,
+          "title": "How the Heck Do You Install npm?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361300",
+          "author": "Josh Collinsworth",
+          "description": "By now, you’re becoming quite knowledgeable with npm! So far, we’ve broken down the three letters in “npm” to gain a better understand of Node and package managers. In the previous chapter, we even installed Node and npm while …\nHow the Heck Do You Install npm Packages? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/how-to-install-npm-packages/",
+          "publishedOn": "2022-01-20T15:03:49.000Z",
+          "wordCount": 2455,
+          "title": "How the Heck Do You Install npm Packages?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361320",
+          "author": "Josh Collinsworth",
+          "description": "npm is, as you now know, a package manager. But like similar, earlier tools that run tasks in the command line, such as Grunt and Gulp, npm can also run tasks—which is perfect for us because now that …\nWhat the Heck Are npm Commands? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/what-the-heck-are-npm-commands/",
+          "publishedOn": "2022-01-20T15:03:44.000Z",
+          "wordCount": 1871,
+          "title": "What the Heck Are npm Commands?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361337",
+          "author": "Josh Collinsworth",
+          "description": "(This is a sponsored post.)\nWe’ve gotten a good overview of how npm works and how to use it to install packages and run commands at this point. Now let’s go a little further and see what it looks …\nHow the Heck Do You Install an Existing npm Project? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/how-to-install-an-npm-project/",
+          "publishedOn": "2022-01-20T15:03:35.000Z",
+          "wordCount": 2894,
+          "title": "How the Heck Do You Install an Existing npm Project?"
+        },
+        {
           "id": "https://css-tricks.com/?p=360899",
           "author": "Preethi",
           "description": "There’s a serene warmth to the early evening sunlight peaking through rustling leaves. Artists use dappled light to create a soft, hypnotic effect.\nBedford Dwellings by Ron Donoughe (2013)\nWe can create the same sort of dappled light effect in …\nA Serene CSS Dappled Light Effect originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
@@ -2260,6 +2341,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61e95a08183181284a1922e8",
+          "author": null,
+          "description": "Deleting or formatting a disk or storage device is a common task for most computer users.  If you use the Windows operating system, you would normally do that using the GUI Disk Management application which comes built-in with any Windows operating system. Disk Management (GUI)Sometimes, you might have difficulties",
+          "link": "https://www.freecodecamp.org/news/how-to-format-storage-disk-in-windows-gui-cli/",
+          "publishedOn": "2022-01-20T20:20:58.000Z",
+          "wordCount": 1793,
+          "title": "How to Delete a Disk or Storage Device in Windows Using the GUI and the CLI"
+        },
+        {
+          "id": "61e940e8183181284a19209d",
+          "author": null,
+          "description": "Working with JavaScript arrays and objects can be more fun if you destructure them. This helps when you're fetching stored data. In this article, you will learn how you can take destructuring to the next level in JavaScript arrays and objects. Table of contents:What is an array?What is",
+          "link": "https://www.freecodecamp.org/news/destructuring-patterns-javascript-arrays-and-objects/",
+          "publishedOn": "2022-01-20T18:27:28.000Z",
+          "wordCount": 1036,
+          "title": "Destructuring in JavaScript – How to Destructure Arrays and Objects"
+        },
+        {
+          "id": "61e30fbfb837d507ba0a3b8f",
+          "author": null,
+          "description": "In this article you'll see a few of the reasons that cause the list index out of range Python error.  Besides knowing why this error occurs in the first place, you'll also learn some ways to avoid it.  Let's get started!  How to Create a List in Python To create",
+          "link": "https://www.freecodecamp.org/news/list-index-out-of-range-python-error-message-solved/",
+          "publishedOn": "2022-01-20T16:03:30.000Z",
+          "wordCount": 1437,
+          "title": "List Index Out of Range – Python Error Message Solved"
+        },
+        {
+          "id": "61e981bd183181284a1925ba",
+          "author": null,
+          "description": "Instead of setting up your cloud infrastructure manually, it can be easier and safer to use code. The AWS Cloud Development Kit (CDK) is an open-source software development framework to define your cloud application resources using familiar programming languages. We just published a crash course on the freeCodeCamp.org YouTube",
+          "link": "https://www.freecodecamp.org/news/aws-cloud-development-kit-crash-course/",
+          "publishedOn": "2022-01-20T15:48:29.000Z",
+          "wordCount": 7431,
+          "title": "How to Define Cloud Infrastructure with the AWS Cloud Development Kit"
+        },
         {
           "id": "61e79b46183181284a191680",
           "author": null,
@@ -5136,8 +5253,179 @@
     {
       "title": "Hacker Noon",
       "feedUrl": "https://hackernoon.com/feed",
-      "siteUrl": "https://hackernoon.com",
+      "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/5-metrics-to-track-when-refactoring-your-codebase?source=rss",
+          "author": "Alex Omeyer",
+          "description": "Code refactoring provides a well-needed mental break for developers, and I think many devs can relate to this. Writing code all day is very demanding, especially if you create new functionality day by day. It’s a taxing exercise, and developers often need some space to think about the codebase's overall organization and look back on what can be improved.",
+          "link": "https://hackernoon.com/5-metrics-to-track-when-refactoring-your-codebase?source=rss",
+          "publishedOn": "2022-01-20T20:38:47.000Z",
+          "wordCount": 2199,
+          "title": "5 Metrics to Track when Refactoring your Codebase"
+        },
+        {
+          "id": "https://hackernoon.com/the-botox-generation-the-truth-behind-the-anti-wrinkle-injection?source=rss",
+          "author": "Melissa Brown",
+          "description": "This article explores what the anti-wrinkle injection involves, the impact on individuals and society as a whole.",
+          "link": "https://hackernoon.com/the-botox-generation-the-truth-behind-the-anti-wrinkle-injection?source=rss",
+          "publishedOn": "2022-01-20T16:16:15.000Z",
+          "wordCount": 2031,
+          "title": "The Botox Generation: the Truth Behind the Anti-Wrinkle Injection"
+        },
+        {
+          "id": "https://hackernoon.com/metaverse-will-need-a-very-human-touch-to-really-reach-people?source=rss",
+          "author": "Ishan Pandey",
+          "description": "By introducing an NFT-identity label (Smartee ID), users can be verified and incentivized to interact and connect in real-world situations.",
+          "link": "https://hackernoon.com/metaverse-will-need-a-very-human-touch-to-really-reach-people?source=rss",
+          "publishedOn": "2022-01-20T16:15:55.000Z",
+          "wordCount": 2680,
+          "title": "Metaverse Will Need a Very Human Touch to Really Reach People"
+        },
+        {
+          "id": "https://hackernoon.com/the-great-restructuring-of-2022-a-primer-on-business-operations?source=rss",
+          "author": "Kyle W. Beach",
+          "description": "The traditional business organizational structure is outdated and will soon be replaced by an integrated, digitally-driven system that focuses on results",
+          "link": "https://hackernoon.com/the-great-restructuring-of-2022-a-primer-on-business-operations?source=rss",
+          "publishedOn": "2022-01-20T14:25:30.000Z",
+          "wordCount": 1638,
+          "title": "The Great Restructuring of 2022: A Primer on Business Operations"
+        },
+        {
+          "id": "https://hackernoon.com/tips-on-choosing-the-tech-stack?source=rss",
+          "author": "Tetiana Stoyko",
+          "description": "If you are ready to plan the technical part of the development, but not sure where to start - this article will explain the basics of tech stack selection.",
+          "link": "https://hackernoon.com/tips-on-choosing-the-tech-stack?source=rss",
+          "publishedOn": "2022-01-20T13:08:42.000Z",
+          "wordCount": 2851,
+          "title": "Tips on Choosing the Tech Stack"
+        },
+        {
+          "id": "https://hackernoon.com/containers-vs-serverless-which-is-better-for-devops?source=rss",
+          "author": "Taavi Rehemägi",
+          "description": "Managing your own containers versus letting serverless do it for you - when to choose what? Let's go over the pros and cons.",
+          "link": "https://hackernoon.com/containers-vs-serverless-which-is-better-for-devops?source=rss",
+          "publishedOn": "2022-01-20T08:50:19.000Z",
+          "wordCount": 3671,
+          "title": "Containers vs. Serverless: Which is Better for DevOps?"
+        },
+        {
+          "id": "https://hackernoon.com/is-latency-slowing-down-your-e2e-tests?source=rss",
+          "author": "Junade Ali",
+          "description": "LambdaTest offers to make cloud browser testing 70% faster than traditional cloud test execution platforms. In this post, we understand the optimisations made.",
+          "link": "https://hackernoon.com/is-latency-slowing-down-your-e2e-tests?source=rss",
+          "publishedOn": "2022-01-20T08:47:39.000Z",
+          "wordCount": 1500,
+          "title": "Is Latency Slowing Down your E2E Tests?"
+        },
+        {
+          "id": "https://hackernoon.com/ces-2022-trends-and-related-courses-at-uat?source=rss",
+          "author": "University of Advancing Technology",
+          "description": "At this year's CES Show, the groundwork has been laid for what's to come in 2022 and beyond. The future tech is becoming more mainstream, and we're here for it.",
+          "link": "https://hackernoon.com/ces-2022-trends-and-related-courses-at-uat?source=rss",
+          "publishedOn": "2022-01-20T08:41:32.000Z",
+          "wordCount": 1649,
+          "title": "CES 2022: Trends and Related Courses at UAT"
+        },
+        {
+          "id": "https://hackernoon.com/web-30-dex-why-dexs-will-win-the-race-against-cexs?source=rss",
+          "author": "Ishan Pandey",
+          "description": "This article talks about decentralized asset management services and decentralized trading.",
+          "link": "https://hackernoon.com/web-30-dex-why-dexs-will-win-the-race-against-cexs?source=rss",
+          "publishedOn": "2022-01-20T08:38:02.000Z",
+          "wordCount": 2470,
+          "title": "Web 3.0 + DEX: Why DEXs will Win the Race Against CEXs"
+        },
+        {
+          "id": "https://hackernoon.com/6-reasons-to-utilize-sandbox-technology-in-game-development?source=rss",
+          "author": "Guy Bar Sade",
+          "description": "Running a successful online application is an exciting journey, But it is also full of challenges. It starts from product-market fit (PMF)",
+          "link": "https://hackernoon.com/6-reasons-to-utilize-sandbox-technology-in-game-development?source=rss",
+          "publishedOn": "2022-01-20T08:36:17.000Z",
+          "wordCount": 1580,
+          "title": "6 Reasons to Utilize Sandbox Technology in Game Development"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-find-a-job-in-crypto-and-blockchain-in-2022?source=rss",
+          "author": "Request",
+          "description": "Interested in crypto jobs? Understand the market and learn the 15 best ways you can find opportunities",
+          "link": "https://hackernoon.com/how-to-find-a-job-in-crypto-and-blockchain-in-2022?source=rss",
+          "publishedOn": "2022-01-20T08:30:04.000Z",
+          "wordCount": 3095,
+          "title": "How to Find a Job in Crypto and Blockchain in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/4-critical-mobile-marketing-predictions-to-help-form-your-strategy-in-2022?source=rss",
+          "author": "Annica Lin",
+          "description": "Four predictions can help mobile marketers be smarter with data and take a full-funnel approach to advance their marketing strategy in 2022.",
+          "link": "https://hackernoon.com/4-critical-mobile-marketing-predictions-to-help-form-your-strategy-in-2022?source=rss",
+          "publishedOn": "2022-01-20T08:19:19.000Z",
+          "wordCount": 1554,
+          "title": "4 Critical Mobile Marketing Predictions to Help Form your Strategy in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/5-nft-trends-to-follow-in-2022?source=rss",
+          "author": "Melissa Jones",
+          "description": "NFTs are finding new applications in various of industries, from fashion to real estate. Which sectors will profit the most in the coming year?",
+          "link": "https://hackernoon.com/5-nft-trends-to-follow-in-2022?source=rss",
+          "publishedOn": "2022-01-20T08:09:52.000Z",
+          "wordCount": 1516,
+          "title": "5 NFT Trends to Follow in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/5-must-have-tools-for-mobile-testing?source=rss",
+          "author": "Prathitha Iyengar",
+          "description": "A list of the best tools for mobile testing. Understanding which tools can help you undertake rigorous performance checks, are cost, time efficient, and more.",
+          "link": "https://hackernoon.com/5-must-have-tools-for-mobile-testing?source=rss",
+          "publishedOn": "2022-01-20T08:00:14.000Z",
+          "wordCount": 1532,
+          "title": "5 Must-Have Tools For Mobile Testing"
+        },
+        {
+          "id": "https://hackernoon.com/bullish-or-bearish-on-theta-crypto-coin-in-2022?source=rss",
+          "author": "blockscribers",
+          "description": "Will THETA coin go up? Here is a list of happenings in the Theta network that will help you make an informed decision.",
+          "link": "https://hackernoon.com/bullish-or-bearish-on-theta-crypto-coin-in-2022?source=rss",
+          "publishedOn": "2022-01-20T07:45:50.000Z",
+          "wordCount": 1981,
+          "title": "Bullish or Bearish on THETA Crypto Coin in 2022?"
+        },
+        {
+          "id": "https://hackernoon.com/inside-cryptos-most-elaborate-scams-fake-frontrunning-bots?source=rss",
+          "author": "Tobias W. Kaiser",
+          "description": "These are highly sophisticated scams targeting advanced crypto users and boy, does this rabbit hole run deep. Here’s what I found.",
+          "link": "https://hackernoon.com/inside-cryptos-most-elaborate-scams-fake-frontrunning-bots?source=rss",
+          "publishedOn": "2022-01-20T07:43:15.000Z",
+          "wordCount": 2757,
+          "title": "Inside Crypto’s Most Elaborate Scams: Fake Frontrunning Bots"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-architect-an-easy-way-into-the-serverless-world?source=rss",
+          "author": "Martin Patino",
+          "description": "A easy way to jump to jump into the serverless world in AWS",
+          "link": "https://hackernoon.com/how-to-architect-an-easy-way-into-the-serverless-world?source=rss",
+          "publishedOn": "2022-01-20T07:30:33.000Z",
+          "wordCount": 3063,
+          "title": "How to 'Architect' an Easy Way into the Serverless World"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-solve-the-first-task-of-the-ethernaut-game?source=rss",
+          "author": "Kamil Polak",
+          "description": "Claim ownership of the contract. Reduce the balance of the contract to 0.",
+          "link": "https://hackernoon.com/how-to-solve-the-first-task-of-the-ethernaut-game?source=rss",
+          "publishedOn": "2022-01-20T07:21:24.000Z",
+          "wordCount": 1702,
+          "title": "How to Solve the First Task of the Ethernaut Game"
+        },
+        {
+          "id": "https://hackernoon.com/ai-for-noobs-how-amazon-alexa-works?source=rss",
+          "author": "Edem Gold",
+          "description": "How Amazon Alexa AI processes and implements commands.",
+          "link": "https://hackernoon.com/ai-for-noobs-how-amazon-alexa-works?source=rss",
+          "publishedOn": "2022-01-20T07:14:27.000Z",
+          "wordCount": 1775,
+          "title": "AI for Noobs: How Amazon Alexa Works"
+        },
         {
           "id": "https://hackernoon.com/diversity-in-gaming-art-and-design-that-reflects-reality?source=rss",
           "author": "Room 8 Studio",
@@ -5407,6 +5695,15 @@
           "publishedOn": "2022-01-18T05:22:01.000Z",
           "wordCount": 6228,
           "title": "Stablecoin History: The Master of All AltCoins"
+        },
+        {
+          "id": "https://hackernoon.com/12-techniques-we-used-to-get-47k-github-stars-for-our-open-source-project-in-6-months?source=rss",
+          "author": "ToolJet",
+          "description": "This article explains ways to get more visitors to your GitHub repository by following some best practices.",
+          "link": "https://hackernoon.com/12-techniques-we-used-to-get-47k-github-stars-for-our-open-source-project-in-6-months?source=rss",
+          "publishedOn": "2022-01-17T22:58:59.000Z",
+          "wordCount": 2123,
+          "title": "12 Techniques We Used to Get 4.7K+ GitHub Stars for Our Open Source Project in 6 Months"
         },
         {
           "id": "https://hackernoon.com/the-phygital-future-predictions-from-ar-entrepreneur-anna-belova?source=rss",
@@ -17796,6 +18093,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=148643",
+          "author": "ACMer",
+          "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms Two Players Zero-Sum Game: Two Players take turn to play. Their objectives are opposite. One wins and the other has to lose. We...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-introduction-to-two-players-zero-sum-game-number-halving/",
+          "publishedOn": "2022-01-20T21:31:32.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Introduction to Two Players Zero-Sum Game (Number Halving)",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=148626",
           "author": "ACMer",
           "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms Given an integer array nums and an integer k, return true if there are two distinct indices i and j in the array such that nums ==...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -18722,6 +19029,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=516551",
+          "author": "Al Williams",
+          "description": "If you’ve dealt with robots or other wheeled projects, you’ve probably heard of mecanum wheels. These seemingly magic wheels have the ability to move in any direction. If you’ve ever …read more",
+          "link": "https://hackaday.com/2022/01/20/all-about-mecanum/",
+          "publishedOn": "2022-01-21T00:14:13.000Z",
+          "wordCount": 1155,
+          "title": "All About Mecanum"
+        },
+        {
+          "id": "https://hackaday.com/?p=515197",
+          "author": "Dan Maloney",
+          "description": "When you see something made from metal that seems like it would be impossible to manufacture, chances are good it was made with some variety of electrical discharge machining. EDM …read more",
+          "link": "https://hackaday.com/2022/01/20/bringing-the-power-of-edm-to-the-home-shop/",
+          "publishedOn": "2022-01-20T21:00:19.000Z",
+          "wordCount": 1709,
+          "title": "Bringing the Power of EDM to the Home Shop"
+        },
+        {
+          "id": "https://hackaday.com/?p=516312",
+          "author": "Chris Lott",
+          "description": "Many embedded devices that require a setup menu will use a USB serial port which you connect to your favorite terminal emulator. But we recently encountered a generic USB knob …read more",
+          "link": "https://hackaday.com/2022/01/20/setup-menu-uses-text-editor-hack/",
+          "publishedOn": "2022-01-20T19:30:49.000Z",
+          "wordCount": 1700,
+          "title": "Setup Menu Uses Text Editor Hack"
+        },
+        {
+          "id": "https://hackaday.com/?p=516381",
+          "author": "Elliot Williams",
+          "description": "“LEDs improve everything.” Words to live by. Most everything that Debra Ansell of [GeekMomProjects] makes is bright, bold, and blinky. But if you’re looking for a simple string of WS2812s, …read more",
+          "link": "https://hackaday.com/2022/01/20/remoticon-2021-debra-ansell-connects-pcb-in-ways-you-didnt-expect/",
+          "publishedOn": "2022-01-20T18:02:40.000Z",
+          "wordCount": 1615,
+          "title": "Remoticon 2021 // Debra Ansell Connects PCB in Ways You Didn’t Expect"
+        },
+        {
+          "id": "https://hackaday.com/?p=516533&preview=true&preview_id=516533",
+          "author": "Elliot Williams",
+          "description": "Sometimes the best inspiration is limitation. The 555 timer does “one thing” — compares a voltage to a couple thresholds and outputs a signal accordingly. It’s two comparators, a voltage …read more",
+          "link": "https://hackaday.com/2022/01/20/congratulations-winners-of-the-2021-555-timer-contest/",
+          "publishedOn": "2022-01-20T16:30:33.000Z",
+          "wordCount": 1918,
+          "title": "Congratulations Winners of the 555 Timer Contest!"
+        },
+        {
+          "id": "https://hackaday.com/?p=515291",
+          "author": "Jenny List",
+          "description": "The buzzword of the moment in the frothier portions of the technology press is inescapable: “Web 3”. This is a collective word for a new generation of decentralised online applications …read more",
+          "link": "https://hackaday.com/2022/01/20/unpicking-the-hype-around-web-3-whats-the-tech/",
+          "publishedOn": "2022-01-20T15:00:37.000Z",
+          "wordCount": 5836,
+          "title": "Unpicking The Hype Around Web 3, What’s The Tech?"
+        },
+        {
+          "id": "https://hackaday.com/?p=516391",
+          "author": "Matthew Carlson",
+          "description": "While not quite in a cave, the idea of making your own exoskeleton with limited tools does have a Tony Stark esque vibe. [Andrew Piccinno] is a mechanical engineer pursuing …read more",
+          "link": "https://hackaday.com/2022/01/20/printing-your-own-exoskeleton/",
+          "publishedOn": "2022-01-20T12:00:36.000Z",
+          "wordCount": 1649,
+          "title": "Printing Your Own Exoskeleton"
+        },
         {
           "id": "https://hackaday.com/?p=516357",
           "author": "Ryan Flowers",
@@ -24940,6 +25310,73 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "038519B9-2FB3-4D4C-A409106740426018",
+          "author": "Chelsea Harvey, E&E News",
+          "description": "But any action to curb climate change today will reduce the speed of future ice loss\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/greenland-could-melt-for-millennia-if-warming-stopped-today/",
+          "publishedOn": "2022-01-20T18:30:00.000Z",
+          "wordCount": null,
+          "title": "Greenland Could Melt for Millennia If Warming Stopped Today",
+          "itunes": {}
+        },
+        {
+          "id": "EEC89BCE-A66D-49B4-942E7389F0BE9E98",
+          "author": "Scientific American Custom Media",
+          "description": "Harnessing the wind to blow back emissions is not without its own impacts, so researchers are developing technologies to co-exist with whales and other ocean-dwelling species.\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/podcast/episode/how-marine-wildlife-can-coexist-with-offshore-wind-sponsored/",
+          "publishedOn": "2022-01-20T16:00:00.000Z",
+          "wordCount": null,
+          "title": "How Marine Wildlife can Coexist With Offshore Wind [Sponsored]",
+          "itunes": {
+            "duration": "06:18"
+          },
+          "enclosure": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=F4CB334C-08A5-4031-A578AA5FE51B386D",
+            "length": "3034870",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "1495608A-4F6B-4E64-91F91240F40EB53C",
+          "author": "Andrea Gawrylewski",
+          "description": "Early studies show that to fight new variants like Omicron boosters are necessary\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/our-best-bets-against-covid/",
+          "publishedOn": "2022-01-20T14:30:00.000Z",
+          "wordCount": null,
+          "title": "Our Best Bets against COVID",
+          "itunes": {}
+        },
+        {
+          "id": "212D58D5-271C-4D5E-B2B7C58CE8B32B52",
+          "author": "Tereza Pultarova, SPACE.com",
+          "description": "Despite efforts to reduce light pollution from the satellites, their disruptions of astronomical observations are increasing at an alarming pace\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/spacexs-starlink-satellites-leave-streaks-in-asteroid-hunting-telescopes-images/",
+          "publishedOn": "2022-01-20T14:00:00.000Z",
+          "wordCount": null,
+          "title": "SpaceX's Starlink Satellites Leave Streaks in Asteroid-Hunting Telescope's Images",
+          "itunes": {}
+        },
+        {
+          "id": "EA5DDF30-0BD7-4286-B6768536A73B6A72",
+          "author": "Andrea Thompson",
+          "description": "Short exposure should not be too harmful, but residents should take precautions where they can\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/ash-blanketing-tonga-after-volcano-eruption-creates-health-concerns/",
+          "publishedOn": "2022-01-20T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Ash Blanketing Tonga after Volcano Eruption Creates Health Concerns",
+          "itunes": {}
+        },
+        {
+          "id": "0801F6F9-189D-4804-BBA55D2B1329F6FB",
+          "author": "Joanna Thompson",
+          "description": "Experts predict that such nonhuman-to-human “xenotransplants” may become a viable option within the next decade\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/pig-kidneys-transplanted-to-human-in-milestone-experiment/",
+          "publishedOn": "2022-01-20T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Pig Kidneys Transplanted to Human in Milestone Experiment",
+          "itunes": {}
+        },
+        {
           "id": "A9EADC52-3342-43FF-B5C17733B1530816",
           "author": "Diana Kwon",
           "description": "A focus on the traumatic origins of an often stigmatized psychiatric diagnosis is inspiring new treatments\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -24995,6 +25432,16 @@
             "length": "10651931",
             "type": "audio/mpeg"
           }
+        },
+        {
+          "id": "7D42AE73-9DC6-4CFA-B622AD8516EAFD3A",
+          "author": "Melinda Wenner Moyer",
+          "description": "The new normal this winter is longer drives for kids’ tests, multiday waits for results, drug-store restock alerts and social media tips\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/latest-covid-surge-pushes-parents-to-next-level-stress1/",
+          "publishedOn": "2022-01-19T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Latest COVID Surge Pushes Parents to Next-Level Stress",
+          "itunes": {}
         },
         {
           "id": "7D42AE73-9DC6-4CFA-B622AD8516EAFD3A",
@@ -30226,6 +30673,42 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=149274",
+          "author": "Mike Vizard",
+          "description": "A global survey of 1,600 enterprise IT decision-makers found more than half are working for organizations that plan to eliminate the use of data centers over the next two years. The survey was conducted by Aryaka, a provider of a secure access service edge (SASE) platform, and found a quarter of the respondents have closed […]\nThe post Survey Predicts Massive Migration to the Cloud appeared first on DevOps.com.",
+          "link": "https://devops.com/survey-predicts-massive-migration-to-the-cloud/",
+          "publishedOn": "2022-01-20T14:34:09.000Z",
+          "wordCount": 1138,
+          "title": "Survey Predicts Massive Migration to the Cloud"
+        },
+        {
+          "id": "https://devops.com/?p=149167",
+          "author": "Gunnar Braun",
+          "description": "One of the biggest cybersecurity risks involves vulnerabilities in the application layer. After all, the best firewall is useless if the web application itself is vulnerable. Many companies have worked to mitigate these risks by investing in their AppSec programs. According to a recent whitepaper written by ESG (commissioned by Synopsys), 71% of companies surveyed now use […]\nThe post Securing Software with Intelligent Pipelines appeared first on DevOps.com.",
+          "link": "https://devops.com/securing-software-with-intelligent-pipelines/",
+          "publishedOn": "2022-01-20T08:00:05.000Z",
+          "wordCount": 1278,
+          "title": "Securing Software with Intelligent Pipelines"
+        },
+        {
+          "id": "https://devops.com/?p=149111",
+          "author": "Bill Doerrfeld",
+          "description": "Though sometimes described as competing architectures, API management and service mesh have slightly different use cases and can actually work well together. Whereas API management provides the business logic for outside-facing traffic, a service mesh excels at handling intercommunication between microservices. An organization could certainly adopt both simultaneously across their projects. So, when does it […]\nThe post When to Use API Management and Service Mesh Together appeared first on DevOps.com.",
+          "link": "https://devops.com/when-to-use-api-management-and-service-mesh-together/",
+          "publishedOn": "2022-01-20T07:30:08.000Z",
+          "wordCount": 1667,
+          "title": "When to Use API Management and Service Mesh Together"
+        },
+        {
+          "id": "https://devops.com/?p=149265",
+          "author": "ROELBOB",
+          "description": "The post How to Visit the Metaverse appeared first on DevOps.com.",
+          "link": "https://devops.com/how-to-visit-the-metaverse/",
+          "publishedOn": "2022-01-20T07:00:29.000Z",
+          "wordCount": 469,
+          "title": "How to Visit the Metaverse"
+        },
+        {
           "id": "https://devops.com/?p=149252",
           "author": "Richi Jennings",
           "description": "In this week’s The Long View: The return of the CEO who fired 900 staff on a Zoom call, Capitol Hill has a bill to kill ads, and a last-minute hiccup in the FAA/FCC 5G truce.\nThe post Zoom-Layoff CEO is Back | Bill Bans Targeted Ads | More FAA 5G Stupidity appeared first on DevOps.com.",
@@ -32654,6 +33137,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=111844",
+          "author": "Charlie Wood",
+          "description": "In computer simulations of possible universes, researchers have discovered that a neural network can infer the amount of matter in a whole universe by studying just one of its galaxies.            \nThe post Any Single Galaxy Reveals the Composition of an Entire Universe first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/with-one-galaxy-ai-defines-a-whole-simulated-universe-20220120/",
+          "publishedOn": "2022-01-20T15:22:10.000Z",
+          "wordCount": null,
+          "title": "Any Single Galaxy Reveals the Composition of an Entire Universe",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=111841",
           "author": "Nick Thieme",
           "description": "For years, intermediate measurements made it hard to quantify the complexity of quantum algorithms. New work establishes that those measurements aren’t necessary after all.            \nThe post Computer Scientists Eliminate Pesky Quantum Computations first appeared on Quanta Magazine",
@@ -33210,6 +33703,24 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66599",
+          "author": "Nathan Yau",
+          "description": "Thinking about the differences between boring charts and not so boring charts.\nTags: boring, whizbang",
+          "link": "https://flowingdata.com/2022/01/20/process-173-boring/",
+          "publishedOn": "2022-01-20T19:30:18.000Z",
+          "wordCount": 272,
+          "title": "✚ Boring Charts – The Process 173"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66604",
+          "author": "Nathan Yau",
+          "description": "The number of births per month has been decreasing over the past decade. The pandemic seems to have sped up the process in the beginning.\nTags: birth",
+          "link": "https://flowingdata.com/2022/01/20/declining-births/",
+          "publishedOn": "2022-01-20T12:27:30.000Z",
+          "wordCount": 590,
+          "title": "Declining U.S. Births"
+        },
         {
           "id": "https://flowingdata.com/?p=66582",
           "author": "Nathan Yau",
