@@ -6,6 +6,33 @@
       "siteUrl": "https://atom.io",
       "articles": [
         {
+          "id": "https://atom.io/packages/auto-sass",
+          "author": null,
+          "description": "Auto Sass\nPackage for the Atom IDE that takes a Sass file on each save and automatically compiles, lints, prefixes, and saves the resulting CSS code.\nOverview\nThis plugin was something I developed rather quickly and primarily with my own use in mind. I wouldn't expect that others would find it any more useful than the myriad Sass compiler packages already out there.\nMotivation to publicize and provide this brief explainer is mostly to make it easier for me when I eventually have to come back to debug something. Perhaps others might find it useful as well though.\nFeatures\nUses latest Dart Sass Node API\nLints and fixes compiled CSS with Stylelint using nearest .stylintrc config available\nRuns Autoprefixer on compiled CSS\nDeduplicates multiple selector blocks with postcss-combine-duplicated-s…",
+          "link": "https://atom.io/packages/auto-sass",
+          "publishedOn": "2022-01-22T00:11:50.000Z",
+          "wordCount": 487,
+          "title": "auto-sass"
+        },
+        {
+          "id": "https://atom.io/packages/retro-syntax",
+          "author": null,
+          "description": "Giulio Procopio's Atom Retro Syntax Theme\nThis is essentially vendored from Melina Donati's 90s-tshirt-syntax,\nhowever some things didn't sound like they were right.  For example, reducing\nfont size of comments causes columns missaligning and preferred line length\nbasically blows up.\nInstallation\nYou may both use Atom graphical package manager and apm for installation.\napm install https://github.com/Giuppox/retro-syntax.git\n\n\nCheck out also atom.io for installation.",
+          "link": "https://atom.io/packages/retro-syntax",
+          "publishedOn": "2022-01-21T22:33:24.000Z",
+          "wordCount": 131,
+          "title": "retro-syntax"
+        },
+        {
+          "id": "https://atom.io/packages/browser",
+          "author": null,
+          "description": "Browser package\nOpen Browser-Tabs in Atom-Editor.",
+          "link": "https://atom.io/packages/browser",
+          "publishedOn": "2022-01-21T13:52:27.000Z",
+          "wordCount": 73,
+          "title": "browser"
+        },
+        {
           "id": "https://atom.io/packages/language-cairo",
           "author": null,
           "description": "Cairo language support in Atom\nAdds syntax highlighting for Cairo in Atom.",
@@ -453,6 +480,24 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=360346",
+          "author": "Chris Coyier",
+          "description": "SVG is a great image format, so it's nice to able to use it in WordPress. If you're looking to be using SVG in WordPress. , we've got you covered here with all the best options.\nUsing SVG in WordPress (2 Helpful Plugin Recommendations) originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/using-svg-in-wordpress/",
+          "publishedOn": "2022-01-21T19:35:31.000Z",
+          "wordCount": 1149,
+          "title": "Using SVG in WordPress (2 Helpful Plugin Recommendations)"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360665",
+          "author": "John Rhea",
+          "description": "Another aspect of web components that we haven’t talked about yet is that a JavaScript function is called whenever a web component is added or removed from a page. These lifecycle callbacks can be used for many things, including making …\nContext-Aware Web Components Are Easier Than You Think originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/context-aware-web-components/",
+          "publishedOn": "2022-01-21T14:08:05.000Z",
+          "wordCount": 2104,
+          "title": "Context-Aware Web Components Are Easier Than You Think"
+        },
         {
           "id": "https://css-tricks.com/?p=361210",
           "author": "Josh Collinsworth",
@@ -2341,6 +2386,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61e3bb40b837d507ba0a3f30",
+          "author": null,
+          "description": "Event sourcing is about persisting events instead of just the current state. Event sourcing can be helpful for auditing purposes, and to analyze or rebuild previous system states for business analysis. Let's look at it in a bit more detail: every time you make a change to the application state,",
+          "link": "https://www.freecodecamp.org/news/how-to-make-event-sourcing-in-java-easier/",
+          "publishedOn": "2022-01-21T16:23:36.000Z",
+          "wordCount": 1333,
+          "title": "How to Make Event Sourcing in Java Easier"
+        },
+        {
+          "id": "61ea53d4fa0e660c3ce47514",
+          "author": null,
+          "description": "Sometimes when you decide to open an app or file or install or open a program on your Windows 10 PC, you might get the error \"An administrator has blocked you from running this app\".  You get this error because Windows 10 is optimized for protection against malware",
+          "link": "https://www.freecodecamp.org/news/an-administrator-has-blocked-you-from-running-this-app-how-to-fix-on-a-windows-10-pc/",
+          "publishedOn": "2022-01-21T15:51:17.000Z",
+          "wordCount": 1123,
+          "title": "An Administrator Has Blocked You From Running This App –  How to Fix on a Windows 10 PC"
+        },
         {
           "id": "61e95a08183181284a1922e8",
           "author": null,
@@ -5256,6 +5319,168 @@
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
         {
+          "id": "https://hackernoon.com/how-to-interface-the-8051-mcu-with-an-lcd-display?source=rss",
+          "author": "Danielle Gruber",
+          "description": "Learn how to interface the 8051 microcontroller with a 16x2 LCD using Assembly!",
+          "link": "https://hackernoon.com/how-to-interface-the-8051-mcu-with-an-lcd-display?source=rss",
+          "publishedOn": "2022-01-21T13:21:30.000Z",
+          "wordCount": 5113,
+          "title": "How to Interface the 8051 MCU with an LCD Display"
+        },
+        {
+          "id": "https://hackernoon.com/hacking-postgresql-internals-to-deliver-push-notifications?source=rss",
+          "author": "Courier",
+          "description": "This post dives into the internals of Postgres replication, WAL, and logical decoding. We will also write our own plugin to send push notifications.",
+          "link": "https://hackernoon.com/hacking-postgresql-internals-to-deliver-push-notifications?source=rss",
+          "publishedOn": "2022-01-21T12:37:49.000Z",
+          "wordCount": 2398,
+          "title": "Hacking PostgreSQL Internals to Deliver Push Notifications"
+        },
+        {
+          "id": "https://hackernoon.com/handling-remote-team-personality-clashes-think-like-a-shrink?source=rss",
+          "author": "Behzad Sharifi",
+          "description": "To handle a remote team, you have to understand different personalities.",
+          "link": "https://hackernoon.com/handling-remote-team-personality-clashes-think-like-a-shrink?source=rss",
+          "publishedOn": "2022-01-21T11:42:41.000Z",
+          "wordCount": 2042,
+          "title": "Handling Remote Team Personality Clashes: Think Like a Shrink"
+        },
+        {
+          "id": "https://hackernoon.com/authoritarianism-vs-fluid-decentralization-lessons-from-the-pandemic?source=rss",
+          "author": "DJCampbell",
+          "description": "Covid-19 has given us a chance to \"Reset\"  the world to a better, more egalitarian way. The world is weird now. It is at a bifurcation point.",
+          "link": "https://hackernoon.com/authoritarianism-vs-fluid-decentralization-lessons-from-the-pandemic?source=rss",
+          "publishedOn": "2022-01-21T10:59:10.000Z",
+          "wordCount": 2279,
+          "title": "Authoritarianism vs. Fluid Decentralization: Lessons From the Pandemic"
+        },
+        {
+          "id": "https://hackernoon.com/your-voting-power-ends-next-week?source=rss",
+          "author": "Ellen Stevens",
+          "description": "Voting for BOTH Noonies and Startups for 2021 will end next week.",
+          "link": "https://hackernoon.com/your-voting-power-ends-next-week?source=rss",
+          "publishedOn": "2022-01-21T09:39:55.000Z",
+          "wordCount": 1361,
+          "title": "Your Voting Power Ends Next Week"
+        },
+        {
+          "id": "https://hackernoon.com/nexusio-vs-5-popular-smart-contract-platforms?source=rss",
+          "author": "Nexus.io Blockchain",
+          "description": "How 5 Popular Smart Contract Platforms compare to Nexus.io.",
+          "link": "https://hackernoon.com/nexusio-vs-5-popular-smart-contract-platforms?source=rss",
+          "publishedOn": "2022-01-21T09:27:05.000Z",
+          "wordCount": 3869,
+          "title": "Nexus.io vs. 5 Popular Smart Contract Platforms"
+        },
+        {
+          "id": "https://hackernoon.com/stop-dollar-cost-averaging-into-bitcoin?source=rss",
+          "author": "Mark",
+          "description": "When you buy blindly, you might be doing more harm than good.",
+          "link": "https://hackernoon.com/stop-dollar-cost-averaging-into-bitcoin?source=rss",
+          "publishedOn": "2022-01-21T04:16:35.000Z",
+          "wordCount": 1791,
+          "title": "Stop Dollar-Cost Averaging Into Bitcoin"
+        },
+        {
+          "id": "https://hackernoon.com/all-the-elder-scrolls-games-in-chronological-order?source=rss",
+          "author": "Marc Magrini",
+          "description": "Interested in which Elder Scrolls games occur first? Check them out in order based on their Era!",
+          "link": "https://hackernoon.com/all-the-elder-scrolls-games-in-chronological-order?source=rss",
+          "publishedOn": "2022-01-21T03:31:02.000Z",
+          "wordCount": 2252,
+          "title": "All The Elder Scrolls Games in Chronological Order"
+        },
+        {
+          "id": "https://hackernoon.com/top-10-resident-evil-games-ranked-by-sales?source=rss",
+          "author": "Marc Magrini",
+          "description": "Check out the top 10 Resident Evil Games ranked by sales!",
+          "link": "https://hackernoon.com/top-10-resident-evil-games-ranked-by-sales?source=rss",
+          "publishedOn": "2022-01-21T03:29:14.000Z",
+          "wordCount": 2319,
+          "title": "Top 10 Resident Evil Games Ranked by Sales"
+        },
+        {
+          "id": "https://hackernoon.com/change-the-name-of-an-aws-s3-bucket-in-terraform-without-breaking-things?source=rss",
+          "author": "Jacob Martin",
+          "description": "Learn how to rename an AWS S3 bucket in Terraform. See renaming process of Amazon s3 bucket in a few simple steps.",
+          "link": "https://hackernoon.com/change-the-name-of-an-aws-s3-bucket-in-terraform-without-breaking-things?source=rss",
+          "publishedOn": "2022-01-21T01:14:53.000Z",
+          "wordCount": 1585,
+          "title": "Change the Name of your AWS S3 Bucket in Terraform Without Breaking Things"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-set-up-an-sftp-server-with-s3?source=rss",
+          "author": "Martin Patino",
+          "description": "",
+          "link": "https://hackernoon.com/how-to-set-up-an-sftp-server-with-s3?source=rss",
+          "publishedOn": "2022-01-21T01:12:04.000Z",
+          "wordCount": 1959,
+          "title": "How to Set Up an SFTP Server with S3"
+        },
+        {
+          "id": "https://hackernoon.com/why-implementing-microservices-on-aws-is-indispensable-to-a-modern-architecture-for-business-agility?source=rss",
+          "author": "Priya Kumari",
+          "description": "AWS customers build microservices on 3 common patterns: API-driven, event-driven, & data streaming. The blog covers the common characterics of microservices.",
+          "link": "https://hackernoon.com/why-implementing-microservices-on-aws-is-indispensable-to-a-modern-architecture-for-business-agility?source=rss",
+          "publishedOn": "2022-01-21T01:00:15.000Z",
+          "wordCount": 6899,
+          "title": "Why Implementing Microservices on AWS Is Indispensable to a Modern Architecture for Business Agility"
+        },
+        {
+          "id": "https://hackernoon.com/how-has-hr-handled-the-dev-retention-rate-in-2021?source=rss",
+          "author": "Giorgi Mikhelidze",
+          "description": "This article explains how have HRs handled the issue of keeping software developers on board in 2021 and suggests useful tips worth taking into account.",
+          "link": "https://hackernoon.com/how-has-hr-handled-the-dev-retention-rate-in-2021?source=rss",
+          "publishedOn": "2022-01-20T23:41:29.000Z",
+          "wordCount": 1973,
+          "title": "How has HR Handled the Dev Retention Rate in 2021?"
+        },
+        {
+          "id": "https://hackernoon.com/aiml-in-2022-more-real-world-deployments-focus-on-ai-ethics-and-blockchain-hopes?source=rss",
+          "author": "Julius Cerniauskas",
+          "description": "An interview with Pujaa Rajan and Gautam Kedia from Stripe, Ali Chaudhry from University College London and AI researcher Jonas Kubilius about the future of AI",
+          "link": "https://hackernoon.com/aiml-in-2022-more-real-world-deployments-focus-on-ai-ethics-and-blockchain-hopes?source=rss",
+          "publishedOn": "2022-01-20T23:38:47.000Z",
+          "wordCount": 1807,
+          "title": "AI/ML in 2022: More Real-World Deployments, Focus On AI Ethics and Blockchain Hopes"
+        },
+        {
+          "id": "https://hackernoon.com/what-career-path-should-software-engineers-take-startup-vs-big-company?source=rss",
+          "author": "Commit",
+          "description": "Startup vs. Big Company. This article outlines key questions to ask yourself before making your next career move as a software engineer.",
+          "link": "https://hackernoon.com/what-career-path-should-software-engineers-take-startup-vs-big-company?source=rss",
+          "publishedOn": "2022-01-20T23:36:34.000Z",
+          "wordCount": 2241,
+          "title": "What Career Path Should Software Engineers Take: Startup vs. Big Company"
+        },
+        {
+          "id": "https://hackernoon.com/15-rocking-trends-web-designers-should-know-in-2022?source=rss",
+          "author": "Saanvi Sen",
+          "description": "Check out the fresh and rocking web design trends in 2022...!!",
+          "link": "https://hackernoon.com/15-rocking-trends-web-designers-should-know-in-2022?source=rss",
+          "publishedOn": "2022-01-20T23:34:44.000Z",
+          "wordCount": 5387,
+          "title": "15+ Rocking Trends Web Designers Should Know in 2022🤩"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-protect-react-native-apps-with-jscrambler?source=rss",
+          "author": "Pedro Fortuna",
+          "description": "In this step-by-step guide, you'll learn how to protect your React Native mobile application with Jscrambler to prevent code theft and tampering.",
+          "link": "https://hackernoon.com/how-to-protect-react-native-apps-with-jscrambler?source=rss",
+          "publishedOn": "2022-01-20T23:33:18.000Z",
+          "wordCount": 2203,
+          "title": "How to Protect React Native Apps With Jscrambler"
+        },
+        {
+          "id": "https://hackernoon.com/building-an-aws-eks-fargate-cluster-with-terraform?source=rss",
+          "author": "Anadi Misra",
+          "description": "How to build an AWS EKS Fargate cluster using terraform.",
+          "link": "https://hackernoon.com/building-an-aws-eks-fargate-cluster-with-terraform?source=rss",
+          "publishedOn": "2022-01-20T23:30:58.000Z",
+          "wordCount": 2162,
+          "title": "Building an AWS EKS Fargate Cluster with Terraform"
+        },
+        {
           "id": "https://hackernoon.com/5-metrics-to-track-when-refactoring-your-codebase?source=rss",
           "author": "Alex Omeyer",
           "description": "Code refactoring provides a well-needed mental break for developers, and I think many devs can relate to this. Writing code all day is very demanding, especially if you create new functionality day by day. It’s a taxing exercise, and developers often need some space to think about the codebase's overall organization and look back on what can be improved.",
@@ -5364,6 +5589,15 @@
           "title": "4 Critical Mobile Marketing Predictions to Help Form your Strategy in 2022"
         },
         {
+          "id": "https://hackernoon.com/developer-challenge-can-you-recreate-this-web-component?source=rss",
+          "author": "Michael Salim",
+          "description": "Are you a confident front-end developer? I challenge you to re-create this component from GitHub. It’s not as easy as you may think!",
+          "link": "https://hackernoon.com/developer-challenge-can-you-recreate-this-web-component?source=rss",
+          "publishedOn": "2022-01-20T08:14:54.000Z",
+          "wordCount": 2252,
+          "title": "Developer Challenge: Can You Recreate this Web Component?"
+        },
+        {
           "id": "https://hackernoon.com/5-nft-trends-to-follow-in-2022?source=rss",
           "author": "Melissa Jones",
           "description": "NFTs are finding new applications in various of industries, from fashion to real estate. Which sectors will profit the most in the coming year?",
@@ -5371,6 +5605,15 @@
           "publishedOn": "2022-01-20T08:09:52.000Z",
           "wordCount": 1516,
           "title": "5 NFT Trends to Follow in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/the-spice-must-flow-why-crypto-brokers-spent-dollar3million-to-buy-a-rare-dune-book?source=rss",
+          "author": "Wiliam Hunter",
+          "description": "Cryto investors use DAO built on the the Ethereum blockchain to purchase million dollar copy of Jodorowsky's Dune",
+          "link": "https://hackernoon.com/the-spice-must-flow-why-crypto-brokers-spent-dollar3million-to-buy-a-rare-dune-book?source=rss",
+          "publishedOn": "2022-01-20T08:09:31.000Z",
+          "wordCount": 1834,
+          "title": "The Spice Must Flow: Why Crypto Brokers Spent $3Million to Buy a Rare Dune Book"
         },
         {
           "id": "https://hackernoon.com/5-must-have-tools-for-mobile-testing?source=rss",
@@ -19030,6 +19273,69 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
+          "id": "https://hackaday.com/?p=516697",
+          "author": "Lewin Day",
+          "description": "Waking up is hard; sometimes you need more than a little chiming alarm to get you out of bed. When [Vinnie Satriale] started unconsciously switching his alarms off, he went …read more",
+          "link": "https://hackaday.com/2022/01/21/robot-nerf-alarm-blasts-you-awake-with-foam/",
+          "publishedOn": "2022-01-22T00:00:04.000Z",
+          "wordCount": 1135,
+          "title": "Robot Nerf Alarm Blasts You Awake With Foam"
+        },
+        {
+          "id": "https://hackaday.com/?p=516327",
+          "author": "Chris Lott",
+          "description": "You no doubt recall the incredible Apollo Guidance Computer (AGC) reverse engineering and restoration project featured on the CuriousMarc YouTube channel a few years ago. Well, [Marc] and the team …read more",
+          "link": "https://hackaday.com/2022/01/21/apollo-comms-flight-hardware-deep-dive/",
+          "publishedOn": "2022-01-21T21:00:21.000Z",
+          "wordCount": 1296,
+          "title": "Apollo Comms Flight Hardware Deep Dive"
+        },
+        {
+          "id": "https://hackaday.com/?p=516633",
+          "author": "Chris Lott",
+          "description": "Hacker [12344321A] has built a clever open-source pen plotter having a frame made from odd-shaped PCB panels (Chinese). It holds an ordinary drafting pen and draws on a small writing …read more",
+          "link": "https://hackaday.com/2022/01/21/pen-plotter-from-pcb-panels/",
+          "publishedOn": "2022-01-21T19:30:43.000Z",
+          "wordCount": 1283,
+          "title": "Pen Plotter from PCB Panels"
+        },
+        {
+          "id": "https://hackaday.com/?p=515241",
+          "author": "Maya Posch",
+          "description": "While wireless communications are unquestionably useful in projects, common wireless protocols such as WiFi and Bluetooth peter out after only a number of meters, which is annoying when your project …read more",
+          "link": "https://hackaday.com/2022/01/21/casually-chirping-into-the-world-of-lorawan/",
+          "publishedOn": "2022-01-21T18:00:51.000Z",
+          "wordCount": 2487,
+          "title": "Casually Chirping Into The World Of LoRaWAN"
+        },
+        {
+          "id": "https://hackaday.com/?p=516694&preview=true&preview_id=516694",
+          "author": "Tom Nardi",
+          "description": "Join Hackaday Editor-in-Chief Elliot Williams and Managing Editor Tom Nardi as they bring you up to speed on the best stories and projects from the week. There’s some pretty unfortunate …read more",
+          "link": "https://hackaday.com/2022/01/21/hackaday-podcast-152-555-timer-extravaganza-emf-chip-glitching-3-ways-a-magnetic-mechanical-keyboard-and-the-best-tricorder-ever/",
+          "publishedOn": "2022-01-21T17:00:57.000Z",
+          "wordCount": 1303,
+          "title": "Hackaday Podcast 152: 555 Timer Extravaganza, EMF Chip Glitching 3 Ways, a Magnetic Mechanical Keyboard, and The Best Tricorder Ever"
+        },
+        {
+          "id": "https://hackaday.com/?p=516616",
+          "author": "Jenny List",
+          "description": "When we write about drone stories from the United Kingdom, they often have a slightly depressing air to them as we relate tales of unverified air proximity reports closing airports …read more",
+          "link": "https://hackaday.com/2022/01/21/flying-sausage-rescues-pooch-drone-pilots-save-the-day/",
+          "publishedOn": "2022-01-21T16:30:33.000Z",
+          "wordCount": 1200,
+          "title": "Flying Sausage Rescues Pooch, Drone Pilots Save The Day"
+        },
+        {
+          "id": "https://hackaday.com/?p=516469",
+          "author": "Jonathan Bennett",
+          "description": "Let’s imagine a worst case situation for home routers. It would have to start with a port unintentionally opened to the internet, ideally in a popular brand, like Netgear. For …read more",
+          "link": "https://hackaday.com/2022/01/21/this-week-in-security-netusb-http-sys-and-2013s-cve-is-back/",
+          "publishedOn": "2022-01-21T15:00:04.000Z",
+          "wordCount": 2127,
+          "title": "This Week in Security: NetUSB, HTTP.sys, and 2013’s CVE is Back"
+        },
+        {
           "id": "https://hackaday.com/?p=516551",
           "author": "Al Williams",
           "description": "If you’ve dealt with robots or other wheeled projects, you’ve probably heard of mecanum wheels. These seemingly magic wheels have the ability to move in any direction. If you’ve ever …read more",
@@ -25310,6 +25616,46 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "F11B96BB-9AA3-460A-AE2A6C00454DD4CA",
+          "author": "John Fialka, E&E News",
+          "description": "Once deemed too expensive, triple-pane windows could help reduce emissions by improving energy efficiency\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/discarded-1990s-energy-invention-makes-a-comeback/",
+          "publishedOn": "2022-01-21T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Discarded 1990s Energy Invention Makes a Comeback",
+          "itunes": {}
+        },
+        {
+          "id": "433DDEB1-D9A9-461B-AE9CD204A5B77845",
+          "author": "Sean Casten",
+          "description": "The Build Back Better legislation, now in the Senate, would include programs to reduce methane output\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/to-fully-mitigate-climate-change-we-need-to-curb-methane-emissions/",
+          "publishedOn": "2022-01-21T14:00:00.000Z",
+          "wordCount": null,
+          "title": "To Fully Mitigate Climate Change, We Need to Curb Methane Emissions",
+          "itunes": {}
+        },
+        {
+          "id": "99C07307-157A-4815-BF1B9C9B20C7C747",
+          "author": "Michael Eisenstein, Nature Biotechnology",
+          "description": "Startups bet that carefully controlled cell reprogramming may lead to age reversal, but hurdles remain\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/billionaires-bankroll-cell-rejuvenation-tech-as-the-latest-gambit-to-slow-aging/",
+          "publishedOn": "2022-01-21T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Billionaires Bankroll Cell Rejuvenation Tech as the Latest Gambit to Slow Aging",
+          "itunes": {}
+        },
+        {
+          "id": "07EAF410-6580-4B1B-B033F0B4B9400DF1",
+          "author": "Esther Landhuis",
+          "description": "But shortages mean that new antivirals and other drugs may be hard to come by\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/these-are-the-latest-covid-treatments/",
+          "publishedOn": "2022-01-21T11:45:00.000Z",
+          "wordCount": null,
+          "title": "These Are the Latest COVID Treatments",
+          "itunes": {}
+        },
+        {
           "id": "038519B9-2FB3-4D4C-A409106740426018",
           "author": "Chelsea Harvey, E&E News",
           "description": "But any action to curb climate change today will reduce the speed of future ice loss\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -30673,6 +31019,33 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=149303",
+          "author": "Mike Vizard",
+          "description": "CircleCI has added a free unlimited access tier to its continuous integration/continuous delivery (CI/CD) platform. Jim Rose, CircleCI CEO, said in contrast to other ‘freemium’ offerings, CircleCI’s free tier provides developers and DevOps teams with frictionless access to all the premium capabilities of the platform. Those capabilities include up to 6,000 build minutes per month, […]\nThe post CircleCI Adds Free Unlimited Access Tier to CI/CD Service appeared first on DevOps.com.",
+          "link": "https://devops.com/circleci-adds-free-unlimited-access-tier-to-ci-cd-service/",
+          "publishedOn": "2022-01-21T15:23:17.000Z",
+          "wordCount": 996,
+          "title": "CircleCI Adds Free Unlimited Access Tier to CI/CD Service"
+        },
+        {
+          "id": "https://devops.com/?p=149285",
+          "author": "Aviad Arviv",
+          "description": "As ransomware continues to plague organizations across industries, remote work continues and innovation brings with it new threat vectors for bad actors to exploit, 2022 is poised to be another messy year in cybersecurity. In July 2021 alone, organizations lost $45 million to ransomware. What’s more, ransomware costs are projected to reach $265 billion by […]\nThe post 2022 Will Be the Year of the Cyber ‘Shift Show’ appeared first on DevOps.com.",
+          "link": "https://devops.com/2022-will-be-the-year-of-the-cyber-shift-show/",
+          "publishedOn": "2022-01-21T08:00:06.000Z",
+          "wordCount": 1087,
+          "title": "2022 Will Be the Year of the Cyber ‘Shift Show’"
+        },
+        {
+          "id": "https://devops.com/?p=149268",
+          "author": "Nathan Eddy",
+          "description": "Organizations plan to address access management over the next 12 months, as the need to secure and streamline infrastructure-wide access controls serves as a prerequisite to other initiatives, like zero-trust. This was one of the key findings of a survey of 600 DevOps professionals conducted by Pollfish and sponsored by strongDM. The report also found […]\nThe post Infrastructure Access Management a Growing DevOps Priority appeared first on DevOps.com.",
+          "link": "https://devops.com/infrastructure-access-management-a-growing-devops-priority/",
+          "publishedOn": "2022-01-21T07:30:31.000Z",
+          "wordCount": 1201,
+          "title": "Infrastructure Access Management a Growing DevOps Priority"
+        },
+        {
           "id": "https://devops.com/?p=149274",
           "author": "Mike Vizard",
           "description": "A global survey of 1,600 enterprise IT decision-makers found more than half are working for organizations that plan to eliminate the use of data centers over the next two years. The survey was conducted by Aryaka, a provider of a secure access service edge (SASE) platform, and found a quarter of the respondents have closed […]\nThe post Survey Predicts Massive Migration to the Cloud appeared first on DevOps.com.",
@@ -33137,6 +33510,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=111847",
+          "author": "Natalie Wolchover",
+          "description": "In a quest to map out a quantum theory of gravity, researchers have used logical rules to calculate how much Einstein’s theory must change. The result matches string theory perfectly.            \nThe post In a Numerical Coincidence, Some See Evidence for String Theory first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/a-correction-to-einstein-hints-at-evidence-for-string-theory-20220121/",
+          "publishedOn": "2022-01-21T14:58:43.000Z",
+          "wordCount": null,
+          "title": "In a Numerical Coincidence, Some See Evidence for String Theory",
+          "itunes": {}
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=111844",
           "author": "Charlie Wood",
           "description": "In computer simulations of possible universes, researchers have discovered that a neural network can infer the amount of matter in a whole universe by studying just one of its galaxies.            \nThe post Any Single Galaxy Reveals the Composition of an Entire Universe first appeared on Quanta Magazine",
@@ -33703,6 +34086,24 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66621",
+          "author": "Nathan Yau",
+          "description": "In efforts to reduce further spread of the virus, the US is set…\nTags: coronavirus, mask, N95, Washington Post",
+          "link": "https://flowingdata.com/2022/01/21/how-n95-masks-work/",
+          "publishedOn": "2022-01-21T17:31:45.000Z",
+          "wordCount": 301,
+          "title": "How N95 masks work"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66616",
+          "author": "Nathan Yau",
+          "description": "In an automated job climate that analyzes resumes and inspects social profiles, it…\nTags: humor, Jess Peter, machine learning, Pudding",
+          "link": "https://flowingdata.com/2022/01/21/joke-machine-learning-projects-to-advance-your-career/",
+          "publishedOn": "2022-01-21T10:34:07.000Z",
+          "wordCount": 339,
+          "title": "Joke machine learning projects to advance your career"
+        },
         {
           "id": "https://flowingdata.com/?p=66599",
           "author": "Nathan Yau",
@@ -35469,15 +35870,6 @@
           "publishedOn": "2021-02-03T18:00:07.000Z",
           "wordCount": 134,
           "title": "Submission shoutouts for SIDENAV"
-        },
-        {
-          "id": "https://web.dev/shows/gui-challenges/uiZqDLqjGRY/",
-          "author": null,
-          "description": "In today’s GUI challenge we create a responsive, accessible slide out side navigation user experience using CSS and JS. The sidenav works on multiple browsers, screen sizes and input devices. Rad right? Follow as we employ grid, transforms, pseudo classes and a dollop of JavaScript to handle this UX.\n@Adam Argyle will be responding to your comments for the first 30 minutes after the episode releases. Connect with us here, ask questions or submit your own code!\nChapters:\n0:00 - Introduction\n0:30 - Debugging Corner Feature Overview\n2:25 - Grid += Media Query Stack Layout\n3:42 - Accessible Transform Transition\n4:22 - :target Pseudo Class\n5:57 - Escape Key UX\n6:16 - Orchestrating Focus\n6:49 - Screen Reader UX\n7:56 - Outro & Call To Action\n\n\n\n\n\nResources:\nCode along → \nRead along → \nTry a demo → \nSee how others are building sidenavs (GUI Submissions) → \n\nhttps://goo.gle/3sQ8Xifhttps://goo.gle/2Np83J9http://goo.gle/3bVBFYThttps://goo.gle/36CAeuO\nWatch more GUI Challenges → \nSubscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://goo.gl/LLLNvf\n\n#GUIchallenges #CSS #ChromeDeveloper",
-          "link": "https://web.dev/shows/gui-challenges/uiZqDLqjGRY/",
-          "publishedOn": "2021-01-21T18:00:20.000Z",
-          "wordCount": 224,
-          "title": "Thinking on ways to solve a SIDENAV"
         }
       ]
     }
