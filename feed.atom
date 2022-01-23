@@ -2,10 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2022-01-22T01:07:00.962Z</updated>
+    <updated>2022-01-23T01:09:55.466Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Zhengbang Pick & Places Your Confidential Data In The Bag, Slowly]]></title>
+        <id>https://hackaday.com/?p=516657</id>
+        <link href="https://hackaday.com/2022/01/22/zhengbang-pick-places-your-confidential-data-in-the-bag-slowly/"/>
+        <updated>2022-01-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Isn’t it convenient when your pick-and-place machine arrives with a fully-set-up computer inside of it? Plug in a keyboard, mouse and a monitor, and you have a production line ready …read more]]></summary>
+        <author>
+            <name>Arsenijs Picugins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Underwater Drone Films, is in Film]]></title>
+        <id>https://hackaday.com/?p=516508</id>
+        <link href="https://hackaday.com/2022/01/22/underwater-drone-films-is-in-film/"/>
+        <updated>2022-01-22T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Having a drone that can follow you running or biking with a camera isn’t big news these days. But French firm Notilo Plus has an underwater drone that can follow …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running Methanol RC Engines On Gasoline]]></title>
+        <id>https://hackaday.com/?p=516700</id>
+        <link href="https://hackaday.com/2022/01/22/running-methanol-rc-engines-on-gasoline/"/>
+        <updated>2022-01-22T18:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Methanol is a popular fuel for small engines used in radio-controlled models, but comes at a higher price than gasoline. It’s also harder to source and can be a mite …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – Define Tic Tac Toe using Game Theory Terminologies]]></title>
+        <id>https://helloacm.com/?p=148658</id>
+        <link href="https://helloacm.com/teaching-kids-programming-define-tic-tac-toe-using-game-theory-terminologies/"/>
+        <updated>2022-01-22T17:33:27.000Z</updated>
+        <summary type="html"><![CDATA[Teaching Kids Programming: Videos on Data Structures and Algorithms We can store the state of a Tic-Tac-Toe Game using a 3×3 array. There are two players: agent (+1) and opponent (-1). If a slot...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers, Fingerprints, Laptops, and Stickers]]></title>
+        <id>https://hackaday.com/?p=516791</id>
+        <link href="https://hackaday.com/2022/01/22/hackers-fingerprints-laptops-and-stickers/"/>
+        <updated>2022-01-22T15:00:11.000Z</updated>
+        <summary type="html"><![CDATA[A discussion ensued about our crazy hacker ways the other night. I jokingly suggested that with as many stickers as we each had on our trusty companion machines, they might …read more]]></summary>
+        <author>
+            <name>Elliot Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Online Tool Turns STLs into 3D ASCII Art]]></title>
+        <id>https://hackaday.com/?p=516578</id>
+        <link href="https://hackaday.com/2022/01/22/online-tool-turns-stls-into-3d-ascii-art/"/>
+        <updated>2022-01-22T12:00:09.000Z</updated>
+        <summary type="html"><![CDATA[If you look hard enough, most of the projects we feature on these pages have some practical value. They may seem frivolous, but there’s usually something that compelled the hacker …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detecting Alpha Particles Using Copper Wire And High Voltage]]></title>
+        <id>https://hackaday.com/?p=516615</id>
+        <link href="https://hackaday.com/2022/01/22/detecting-alpha-particles-using-copper-wire-and-high-voltage/"/>
+        <updated>2022-01-22T09:00:23.000Z</updated>
+        <summary type="html"><![CDATA[If you want to measure radioactivity, nothing really beats a Geiger counter: compact, rugged, and reasonably easy to use, they’re by far the most commonly used tool to detect ionizing …read more]]></summary>
+        <author>
+            <name>Robin Kearey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sending Pics To Grandma, No Smartphone Needed]]></title>
+        <id>https://hackaday.com/?p=516698</id>
+        <link href="https://hackaday.com/2022/01/21/sending-pics-to-grandma-no-smartphone-needed/"/>
+        <updated>2022-01-22T06:00:53.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to keeping in touch with the grandparents, a lack of familiarity with modern technology can get in the way. [palmerabollo] wanted to share photos with his grandmother, …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[auto-sass]]></title>
         <id>https://atom.io/packages/auto-sass</id>
@@ -36,6 +119,46 @@ Deduplicates multiple selector blocks with postcss-combine-duplicated-s…]]></s
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Rising Importance of First-Party Oracles]]></title>
+        <id>https://hackernoon.com/the-rising-importance-of-first-party-oracles?source=rss</id>
+        <link href="https://hackernoon.com/the-rising-importance-of-first-party-oracles?source=rss"/>
+        <updated>2022-01-21T22:51:33.000Z</updated>
+        <summary type="html"><![CDATA[First-party oracles outperform third-party oracles in almost every way you can compare. Third-party oracles have been eliminated by API3 and Airnode.]]></summary>
+        <author>
+            <name>API3</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will Crypto Payments Make The World A Better Place?]]></title>
+        <id>https://hackernoon.com/will-crypto-payments-make-the-world-a-better-place?source=rss</id>
+        <link href="https://hackernoon.com/will-crypto-payments-make-the-world-a-better-place?source=rss"/>
+        <updated>2022-01-21T22:37:30.000Z</updated>
+        <summary type="html"><![CDATA[According to some forecasts, the scope of transborder cryptocurrency payments will increase by 25 times within the next three years, reaching $4.4 trillion.]]></summary>
+        <author>
+            <name>B2Broker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mobile Development Trends Every iOS Developer Should Know in 2022]]></title>
+        <id>https://hackernoon.com/mobile-development-trends-every-ios-developer-should-know-in-2022?source=rss</id>
+        <link href="https://hackernoon.com/mobile-development-trends-every-ios-developer-should-know-in-2022?source=rss"/>
+        <updated>2022-01-21T22:35:53.000Z</updated>
+        <summary type="html"><![CDATA[Consider the main directions in mobile development and the most popular frameworks from Apple for the beginning of 2022.]]></summary>
+        <author>
+            <name>NIX United</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn About Infrastructure as Code in 5 Minutes and Why You Should Use It]]></title>
+        <id>https://hackernoon.com/learn-about-infrastructure-as-code-in-5-minutes-and-why-you-should-use-it?source=rss</id>
+        <link href="https://hackernoon.com/learn-about-infrastructure-as-code-in-5-minutes-and-why-you-should-use-it?source=rss"/>
+        <updated>2022-01-21T22:34:33.000Z</updated>
+        <summary type="html"><![CDATA[Infrastructure as Code (IaC) is the process of managing and configuring an infrastructure using configuration files, rather than manually editing configurations]]></summary>
+        <author>
+            <name>Webiny Serverless Framework</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[retro-syntax]]></title>
         <id>https://atom.io/packages/retro-syntax</id>
         <link href="https://atom.io/packages/retro-syntax"/>
@@ -53,6 +176,66 @@ apm install https://github.com/Giuppox/retro-syntax.git
 Check out also atom.io for installation.]]></summary>
         <author>
             <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 13 RPA Challenges and How to Overcome Them]]></title>
+        <id>https://hackernoon.com/top-13-rpa-challenges-and-how-to-overcome-them?source=rss</id>
+        <link href="https://hackernoon.com/top-13-rpa-challenges-and-how-to-overcome-them?source=rss"/>
+        <updated>2022-01-21T22:32:36.000Z</updated>
+        <summary type="html"><![CDATA[Robotic process automation (RPA) projects are a challenging endeavor. According to a recent survey, 69% of RPA projects fail to take off because of their complexity. And for the lucky ones that manage to proceed to execution, up to 50% of them fail. To further complicate matters, Blueprint, an enterprise automation company, reports that 63% of business leaders are not satisfied with their RPA implementation speed. PwC’s study supports this idea. The consultancy found that conducting an RPA proof of concept or a pilot project often takes 4-6 months instead of the expected 4-6 weeks.However, if companies take on their automation projects prepared and aware of the possible RPA challenges, they can reap great rewards. Many are already benefiting from workflow automation services as the global RPA market increases in value. The Grand View Research forecasts this market to hit $13.74 billion by 2028, growing at a CAGR of 32.8% from 2020.Also, COVID-19 vastly accelerated automation, despite the pitfalls of RPA deployment. To highlight the significant role of the pandemic, Mihir Shukla, Co-founder and CEO of Automation Anywhere, gave the following example: at one point during the pandemic, a large bank was forced to update six million loan records immediately. Without RPA, such an enormous task would take two years to accomplish.So, why do RPA projects fail? And how to succeed despite the discouraging stats above?]]></summary>
+        <author>
+            <name>ITRex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who Really Owns Web3]]></title>
+        <id>https://hackernoon.com/who-really-owns-web3?source=rss</id>
+        <link href="https://hackernoon.com/who-really-owns-web3?source=rss"/>
+        <updated>2022-01-21T22:31:24.000Z</updated>
+        <summary type="html"><![CDATA[The new buzzword “Web3” has recently jumped into the public’s mind.]]></summary>
+        <author>
+            <name>Ras Vasilisin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Satoshi Nakamoto Back?]]></title>
+        <id>https://hackernoon.com/is-satoshi-nakamoto-back?source=rss</id>
+        <link href="https://hackernoon.com/is-satoshi-nakamoto-back?source=rss"/>
+        <updated>2022-01-21T22:28:28.000Z</updated>
+        <summary type="html"><![CDATA[Is Satoshi Nakamoto returned? Let's see what he done now!]]></summary>
+        <author>
+            <name>Alfredo de Candia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Deep Work Hypothesis and its Limitations]]></title>
+        <id>https://hackernoon.com/the-deep-work-hypothesis-and-its-limitations?source=rss</id>
+        <link href="https://hackernoon.com/the-deep-work-hypothesis-and-its-limitations?source=rss"/>
+        <updated>2022-01-21T22:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Deep work, although a crucial skill in our current economy, is not enough to thrive in our jobs.]]></summary>
+        <author>
+            <name>Roxana Murariu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Subtle Culture Problems That Often Go Unnoticed]]></title>
+        <id>https://hackernoon.com/subtle-culture-problems-that-often-go-unnoticed?source=rss</id>
+        <link href="https://hackernoon.com/subtle-culture-problems-that-often-go-unnoticed?source=rss"/>
+        <updated>2022-01-21T22:23:04.000Z</updated>
+        <summary type="html"><![CDATA[When Peter Drucker said in 2006 that “Culture eats strategy for breakfast,” he did not mean that strategy is not important. Rather an effective strategy is crucial to organizational success. A good strategy is the key to successfully implementing the vision. But a strategy by itself cannot push any organization to achieve tremendous growth and success. What gives life to that strategy are its people.]]></summary>
+        <author>
+            <name>Vinita Bansal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance Labs, Delphi Digital and Alameda Research Invest $5.5 Million in Heroes of Mavia]]></title>
+        <id>https://hackernoon.com/binance-labs-delphi-digital-and-alameda-research-invest-$55-million-in-heroes-of-mavia?source=rss</id>
+        <link href="https://hackernoon.com/binance-labs-delphi-digital-and-alameda-research-invest-$55-million-in-heroes-of-mavia?source=rss"/>
+        <updated>2022-01-21T21:23:12.000Z</updated>
+        <summary type="html"><![CDATA[Skrice Studios has announced the completion of its $5.5 million initial fundraising round for Heroes of Mavia, a blockchain-based play-to-earn strategic game.]]></summary>
+        <author>
+            <name>Ishan Pandey</name>
         </author>
     </entry>
     <entry>
