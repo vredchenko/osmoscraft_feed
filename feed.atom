@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2022-01-24T01:10:24.783Z</updated>
+    <updated>2022-01-24T08:53:52.105Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DevOps for Salesforce: CI/CD Challenges]]></title>
+        <id>https://devops.com/?p=149180</id>
+        <link href="https://devops.com/what-is-devops-for-salesforce/"/>
+        <updated>2022-01-24T08:00:46.000Z</updated>
+        <summary type="html"><![CDATA[DevOps encompasses a wide variety of technical and social practices for improving the development, delivery and operation of IT systems. Salesforce has become more than a CRM system; it evolved into a full-featured ecosystem and a low-code platform that made development far simpler and more approachable than traditional code-based platforms. Cross-functional teams build on Salesforce […]
+The post DevOps for Salesforce: CI/CD Challenges appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Andrew Davis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embracing Security by Design in Development]]></title>
+        <id>https://devops.com/?p=149229</id>
+        <link href="https://devops.com/embracing-security-by-design-in-development/"/>
+        <updated>2022-01-24T07:30:58.000Z</updated>
+        <summary type="html"><![CDATA[The number of data breaches publicly reported in 2021 far exceeded the total for 2020, making 2021 a record year. With cyberattacks on the rise and bad actors and ransomware gangs demanding millions in ransom, cybersecurity has taken on new urgency. In addition to more sophisticated hacking techniques, the rapid pace of tech adoption during […]
+The post Embracing Security by Design in Development appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Juan Hoyos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silicone Devices: DIY Stretchable Circuits]]></title>
+        <id>https://hackaday.com/?p=516527</id>
+        <link href="https://hackaday.com/2022/01/23/silicone-devices-diy-stretchable-circuits/"/>
+        <updated>2022-01-24T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Flexible circuits built on polyimide film are now commonplace, you can prototype with them at multiple factories, at a cost that is almost acceptable to your average hacker. Polyimide film …read more]]></summary>
+        <author>
+            <name>Dave Rowntree</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DIY “Solid State Drive” Puts Four Bytes in Your Pocket]]></title>
+        <id>https://hackaday.com/?p=516867</id>
+        <link href="https://hackaday.com/2022/01/23/diy-solid-state-drive-puts-four-bytes-in-your-pocket/"/>
+        <updated>2022-01-24T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In a relatively short amount of time, the average capacity of USB flash drives has skyrocketed. It wasn’t so long ago that two and four gigabyte drives were considered to …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hackaday Links: January 23, 2022]]></title>
         <id>https://hackaday.com/?p=516290&amp;preview=true&amp;preview_id=516290</id>
@@ -27,6 +69,36 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The True Value of Emeris in DeFi]]></title>
+        <id>https://hackernoon.com/the-true-value-of-emeris-in-defi?source=rss</id>
+        <link href="https://hackernoon.com/the-true-value-of-emeris-in-defi?source=rss"/>
+        <updated>2022-01-23T20:58:41.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain agnostic, Emeris will expand far beyond the Cosmos network and eventually be a one-stop portal for all crypto apps.]]></summary>
+        <author>
+            <name>Cosmos - Internet of Blockchains</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘It’s Never Too Late To Learn a New Language’: Yair Solow, CEO of Centraleyes]]></title>
+        <id>https://hackernoon.com/its-never-too-late-to-learn-a-new-language-yair-solow-ceo-of-centraleyes?source=rss</id>
+        <link href="https://hackernoon.com/its-never-too-late-to-learn-a-new-language-yair-solow-ceo-of-centraleyes?source=rss"/>
+        <updated>2022-01-23T18:35:48.000Z</updated>
+        <summary type="html"><![CDATA[Startup interview with Yair Solow, founder and CEO of Centraleyes. Learn more about the company and different solutions.]]></summary>
+        <author>
+            <name>Hacker Noon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recent Hacks in the Crypto and Defi Spaces Show the Security Loopholes]]></title>
+        <id>https://hackernoon.com/recent-hacks-in-the-crypto-and-defi-spaces-show-the-security-loopholes?source=rss</id>
+        <link href="https://hackernoon.com/recent-hacks-in-the-crypto-and-defi-spaces-show-the-security-loopholes?source=rss"/>
+        <updated>2022-01-23T18:18:42.000Z</updated>
+        <summary type="html"><![CDATA[Over the past year, we have seen a massive jump in activity and value for the crypto and decentralized finance (DeFi) spaces.]]></summary>
+        <author>
+            <name>Ricky Rathore</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Display Your Speech In Realtime To Help Lipreaders In The Mask Era]]></title>
         <id>https://hackaday.com/?p=516699</id>
         <link href="https://hackaday.com/2022/01/23/display-your-speech-in-realtime-to-help-lipreaders-in-the-mask-era/"/>
@@ -34,6 +106,26 @@
         <summary type="html"><![CDATA[Masks are all well and good when it comes to reducing the spread of deadly pathogens, but they can make it harder to understand people when they speak. They also …read more]]></summary>
         <author>
             <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When the Compilers Get Confused: Ambiguities in Java]]></title>
+        <id>https://hackernoon.com/when-the-compilers-get-confused-ambiguities-in-java?source=rss</id>
+        <link href="https://hackernoon.com/when-the-compilers-get-confused-ambiguities-in-java?source=rss"/>
+        <updated>2022-01-23T17:59:01.000Z</updated>
+        <summary type="html"><![CDATA[Ambiguities in java which give different results for different compilers.]]></summary>
+        <author>
+            <name>Kanav Arora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interactive Content Is Changing Customer Experience (CX) For Good]]></title>
+        <id>https://hackernoon.com/interactive-content-is-changing-customer-experience-cx-for-good?source=rss</id>
+        <link href="https://hackernoon.com/interactive-content-is-changing-customer-experience-cx-for-good?source=rss"/>
+        <updated>2022-01-23T17:45:50.000Z</updated>
+        <summary type="html"><![CDATA[Forget the metaverse: Interactive content is already here, and it's creating a better Internet.]]></summary>
+        <author>
+            <name>Alan Simon</name>
         </author>
     </entry>
     <entry>
@@ -50,6 +142,66 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hosting an Angular Application on Amazon S3 Using Github Actions]]></title>
+        <id>https://hackernoon.com/hosting-an-angular-application-on-amazon-s3-using-github-actions?source=rss</id>
+        <link href="https://hackernoon.com/hosting-an-angular-application-on-amazon-s3-using-github-actions?source=rss"/>
+        <updated>2022-01-23T17:06:52.000Z</updated>
+        <summary type="html"><![CDATA[Application example built with Angular 13 and hosted on Amazon S3 (Simple Storage Service) using GitHub Actions.]]></summary>
+        <author>
+            <name>Rodrigo Kamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nullish Coalescing Operator (??)]]></title>
+        <id>https://hackernoon.com/nullish-coalescing-operator?source=rss</id>
+        <link href="https://hackernoon.com/nullish-coalescing-operator?source=rss"/>
+        <updated>2022-01-23T17:01:52.000Z</updated>
+        <summary type="html"><![CDATA[Nullish coalescing vs or operator explained and why it will help keep out bugs out of your code.]]></summary>
+        <author>
+            <name>Mac Wasilewski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Believing in the Power of Ideas: Startup Interview With Paul Wilcox]]></title>
+        <id>https://hackernoon.com/believing-in-the-power-of-ideas-startup-interview-with-paul-wilcox?source=rss</id>
+        <link href="https://hackernoon.com/believing-in-the-power-of-ideas-startup-interview-with-paul-wilcox?source=rss"/>
+        <updated>2022-01-23T16:46:32.000Z</updated>
+        <summary type="html"><![CDATA[Co-founder of The Hatchit Marketplace talks about their buy and sell platform for online businesses and why they are excited about the benefits of AI.]]></summary>
+        <author>
+            <name>Hatchit Marketplace</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Push Notifications for Javascript Apps Using Firebase]]></title>
+        <id>https://hackernoon.com/web-push-notifications-for-javascript-apps-using-firebase?source=rss</id>
+        <link href="https://hackernoon.com/web-push-notifications-for-javascript-apps-using-firebase?source=rss"/>
+        <updated>2022-01-23T16:38:16.000Z</updated>
+        <summary type="html"><![CDATA[A tutorial on integrating Firebase Cloud Messaging to a Javascript app to turn on push notifications in a browser]]></summary>
+        <author>
+            <name>Sergiy C.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just Enough Testing: How Many Automated Tests Should We Write?]]></title>
+        <id>https://hackernoon.com/just-enough-testing-how-many-automated-tests-should-we-write?source=rss</id>
+        <link href="https://hackernoon.com/just-enough-testing-how-many-automated-tests-should-we-write?source=rss"/>
+        <updated>2022-01-23T15:28:28.000Z</updated>
+        <summary type="html"><![CDATA[How many automated tests should you write? Just Enough. Just Enough Testing balances the need to ship with the quality your customers deserve.]]></summary>
+        <author>
+            <name>John</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I’m Fixing My Love-Hate Relationship With Reading]]></title>
+        <id>https://hackernoon.com/how-im-fixing-my-love-hate-relationship-with-reading?source=rss</id>
+        <link href="https://hackernoon.com/how-im-fixing-my-love-hate-relationship-with-reading?source=rss"/>
+        <updated>2022-01-23T15:09:28.000Z</updated>
+        <summary type="html"><![CDATA[Reading is a skill that can be learned, but it comes with practice and consistency like all skills.]]></summary>
+        <author>
+            <name>Valerie Ejegi</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Printed Circuit Bird Family Calls For Us To Consider Analog]]></title>
         <id>https://hackaday.com/?p=516638</id>
         <link href="https://hackaday.com/2022/01/23/printed-circuit-bird-family-calls-for-us-to-consider-analog/"/>
@@ -57,6 +209,96 @@
         <summary type="html"><![CDATA[On our favourite low-attention-span content site, [Kelly Heaton] has recently started sharing a series of “Printed Circuit Birds”. These are PCBs shaped like birds, looking like birds and chirping like …read more]]></summary>
         <author>
             <name>Arsenijs Picugins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Down the Crypto Rabbit Hole: How I Got Started]]></title>
+        <id>https://hackernoon.com/down-the-crypto-rabbit-hole-how-i-got-started?source=rss</id>
+        <link href="https://hackernoon.com/down-the-crypto-rabbit-hole-how-i-got-started?source=rss"/>
+        <updated>2022-01-23T14:28:49.000Z</updated>
+        <summary type="html"><![CDATA[This is my first time writing an article here on Hackernoon. For lack of anything "tech" that I can think of writing about at the moment, I'll just talk about how I stumbled into the crypto rabbit hold in the first place.]]></summary>
+        <author>
+            <name>CryptoMadHatter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-Driven EOB (Explanation of Benefits) in Healthcare To Declutter Clerical Work: An Introduction]]></title>
+        <id>https://hackernoon.com/ai-driven-eob-explanation-of-benefits-in-healthcare-to-declutter-clerical-work-an-introduction?source=rss</id>
+        <link href="https://hackernoon.com/ai-driven-eob-explanation-of-benefits-in-healthcare-to-declutter-clerical-work-an-introduction?source=rss"/>
+        <updated>2022-01-23T14:12:14.000Z</updated>
+        <summary type="html"><![CDATA[How AI Can Solve A Simple Challenge Dentists Face Every Day]]></summary>
+        <author>
+            <name>Zentist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dApps for Business: A Guide To Understanding The Paradigm Shift Offered By Decentralized Apps]]></title>
+        <id>https://hackernoon.com/dapps-for-business-a-guide-to-understanding-the-paradigm-shift-offered-by-decentralized-apps?source=rss</id>
+        <link href="https://hackernoon.com/dapps-for-business-a-guide-to-understanding-the-paradigm-shift-offered-by-decentralized-apps?source=rss"/>
+        <updated>2022-01-23T14:04:52.000Z</updated>
+        <summary type="html"><![CDATA[Decentralised applications (dApps) have changed how users navigate the Web. Learn what dApps mean, how they work, and why businesses should them.]]></summary>
+        <author>
+            <name>Emmanuel Awosika</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serverless 101: An Introduction to FAAS (Function-As-A-Service)]]></title>
+        <id>https://hackernoon.com/serverless-101-an-introduction-to-faas-function-as-a-service?source=rss</id>
+        <link href="https://hackernoon.com/serverless-101-an-introduction-to-faas-function-as-a-service?source=rss"/>
+        <updated>2022-01-23T13:49:31.000Z</updated>
+        <summary type="html"><![CDATA[Serverless 101, FaaS, Functions as a Service, AWS Lambda, Azure Functions, Google Cloud Functions, Serverless]]></summary>
+        <author>
+            <name>Emerging Tech Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running BF1942 on Windows 10 with Win32 APIs: The Programmer's Way]]></title>
+        <id>https://hackernoon.com/running-bf1942-on-windows-10-with-win32-apis-the-programmers-way?source=rss</id>
+        <link href="https://hackernoon.com/running-bf1942-on-windows-10-with-win32-apis-the-programmers-way?source=rss"/>
+        <updated>2022-01-23T13:06:39.000Z</updated>
+        <summary type="html"><![CDATA[Fullscreen didn't work and window mode was bugged when trying to play Battlefield 1942. I decided to make a program to solve this issue using Win32 APIs.]]></summary>
+        <author>
+            <name>Turnerj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Stay Safe Online: Cybersecurity Tips from the HackerNoon Community]]></title>
+        <id>https://hackernoon.com/how-to-stay-safe-online-cybersecurity-tips-from-the-hackernoon-community?source=rss</id>
+        <link href="https://hackernoon.com/how-to-stay-safe-online-cybersecurity-tips-from-the-hackernoon-community?source=rss"/>
+        <updated>2022-01-23T12:46:07.000Z</updated>
+        <summary type="html"><![CDATA[In this thread, the slogging community shares their online security hacks for peaceful and safe web surfing.]]></summary>
+        <author>
+            <name>Slogging (Slack Blogging)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 3 Cs + 3 Ps + SA Formula For Trading and Investing in The Stock Market]]></title>
+        <id>https://hackernoon.com/the-3-cs-3-ps-sa-formula-for-trading-and-investing-in-the-stock-market?source=rss</id>
+        <link href="https://hackernoon.com/the-3-cs-3-ps-sa-formula-for-trading-and-investing-in-the-stock-market?source=rss"/>
+        <updated>2022-01-23T12:44:04.000Z</updated>
+        <summary type="html"><![CDATA[The Recipe You Need to be Successful in the Stock Market]]></summary>
+        <author>
+            <name>Louis Llanes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Informative Blogs to Follow in 2022]]></title>
+        <id>https://hackernoon.com/informative-blogs-to-follow-in-2022?source=rss</id>
+        <link href="https://hackernoon.com/informative-blogs-to-follow-in-2022?source=rss"/>
+        <updated>2022-01-23T12:44:01.000Z</updated>
+        <summary type="html"><![CDATA[In this slogging thread, our community shares their best suggestions on tech, financial, work, travel, gaming, and pop-culture-themed blogs to follow.]]></summary>
+        <author>
+            <name>Slogging (Slack Blogging)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Obscure Historical Facts You Need to Know]]></title>
+        <id>https://hackernoon.com/obscure-historical-facts-you-need-to-know?source=rss</id>
+        <link href="https://hackernoon.com/obscure-historical-facts-you-need-to-know?source=rss"/>
+        <updated>2022-01-23T12:42:14.000Z</updated>
+        <summary type="html"><![CDATA[In this slogging thread, our community shares the coolest obscure historical facts they know, from presidential impersonations to princesses mysteries.]]></summary>
+        <author>
+            <name>Slogging (Slack Blogging)</name>
         </author>
     </entry>
     <entry>
@@ -70,23 +312,16 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web-Centric Gabuino Has Compiler, Will Travel]]></title>
-        <id>https://hackaday.com/?p=516826</id>
-        <link href="https://hackaday.com/2022/01/23/web-centric-gabuino-has-compiler-will-travel/"/>
-        <updated>2022-01-23T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Arguably the biggest advantage of the Arduino platform is its ease of use, especially when compared to what microcontroller development looked like before the introduction of the open source board …read more]]></summary>
+        <title type="html"><![CDATA[Robots Cater For Olympic Athletes]]></title>
+        <id>http://www.i-programmer.info/news/169-robotics/15163-robots-cater-for-olympic-athletes.html</id>
+        <link href="http://www.i-programmer.info/news/169-robotics/15163-robots-cater-for-olympic-athletes.html"/>
+        <updated>2022-01-23T11:46:45.000Z</updated>
+        <summary type="html"><![CDATA[Robots will play a vital role in the Bejing Olympic Winter Games  - that of feeding the two thousand athletes and officials who will be confined within the Olympic Village for the duration of the Games.
+
+
+Read more...]]></summary>
         <author>
-            <name>Tom Nardi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Printing in Silicone]]></title>
-        <id>https://hackaday.com/?p=516668</id>
-        <link href="https://hackaday.com/2022/01/22/printing-in-silicone/"/>
-        <updated>2022-01-23T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When you think of making something out of silicone, you usually think of using a mold and injecting it with the material. Can you 3D print it? [Kimberly Beckett] answers …read more]]></summary>
-        <author>
-            <name>Al Williams</name>
+            <name>I Programmer - full contents</name>
         </author>
     </entry>
     <entry>
@@ -97,36 +332,6 @@
         <summary type="html"><![CDATA[Isn’t it convenient when your pick-and-place machine arrives with a fully-set-up computer inside of it? Plug in a keyboard, mouse and a monitor, and you have a production line ready …read more]]></summary>
         <author>
             <name>Arsenijs Picugins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Might Digital Marketing Look in 2030?]]></title>
-        <id>https://hackernoon.com/how-might-digital-marketing-look-in-2030?source=rss</id>
-        <link href="https://hackernoon.com/how-might-digital-marketing-look-in-2030?source=rss"/>
-        <updated>2022-01-22T22:29:19.000Z</updated>
-        <summary type="html"><![CDATA[AI and machine learning are two technologies that are transforming just about everything. Here's how they will disrupt marketing within the next 10 years.]]></summary>
-        <author>
-            <name>Elay Romanov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Latest Improvements in Vuetensils 0.10]]></title>
-        <id>https://hackernoon.com/the-latest-improvements-in-vuetensils-010?source=rss</id>
-        <link href="https://hackernoon.com/the-latest-improvements-in-vuetensils-010?source=rss"/>
-        <updated>2022-01-22T22:25:10.000Z</updated>
-        <summary type="html"><![CDATA[I’ve recently published the latest version of Vuetensils and wanted to take some time to share some of the features I’m most excited about.]]></summary>
-        <author>
-            <name>Austin Gil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Series A Startup Guide to Outsourcing Software Engineers in 2022]]></title>
-        <id>https://hackernoon.com/series-a-startup-guide-to-outsourcing-software-engineers-in-2022?source=rss</id>
-        <link href="https://hackernoon.com/series-a-startup-guide-to-outsourcing-software-engineers-in-2022?source=rss"/>
-        <updated>2022-01-22T21:17:20.000Z</updated>
-        <summary type="html"><![CDATA[Best practices of outsourcing software and outstaffing engineers in 2022]]></summary>
-        <author>
-            <name>Oleg</name>
         </author>
     </entry>
     <entry>
@@ -173,23 +378,16 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Animate 3D Models for Free Using your Webcam and Plask.ai]]></title>
-        <id>https://hackernoon.com/how-to-animate-3d-models-for-free-using-your-webcam-and-plaskai?source=rss</id>
-        <link href="https://hackernoon.com/how-to-animate-3d-models-for-free-using-your-webcam-and-plaskai?source=rss"/>
-        <updated>2022-01-22T14:26:30.000Z</updated>
-        <summary type="html"><![CDATA[Plask.ai is a free web app and service that can record you moving around using your webcam and convert it to an animated humanoid skeleton, which can be used to]]></summary>
+        <title type="html"><![CDATA[January Week 3]]></title>
+        <id>http://www.i-programmer.info/i-programmer-weekly/238-i-programmer-weekly-2022/15162-january-week-3.html</id>
+        <link href="http://www.i-programmer.info/i-programmer-weekly/238-i-programmer-weekly-2022/15162-january-week-3.html"/>
+        <updated>2022-01-22T14:12:49.000Z</updated>
+        <summary type="html"><![CDATA[Every day I Programmer has new material written by programmers, for programmers. This week Harry Fairhead and Mike James show how to get a Raspberry Pi Pico to handle simple input using MicroPython and Mike James explores a conundrum - that programmers don't make anything. Plus the week's books and news.
+
+
+Read more...]]></summary>
         <author>
-            <name>RichardJohnn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When To Go Serverless?]]></title>
-        <id>https://hackernoon.com/when-to-go-serverless?source=rss</id>
-        <link href="https://hackernoon.com/when-to-go-serverless?source=rss"/>
-        <updated>2022-01-22T14:04:44.000Z</updated>
-        <summary type="html"><![CDATA[It's hard to decide whether to go serverless or not. This article covers what is serverless in the first place and the pros & cons.]]></summary>
-        <author>
-            <name>Amr Hassan</name>
+            <name>I Programmer - full contents</name>
         </author>
     </entry>
     <entry>
@@ -213,16 +411,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Start Investing in NFTs: For Complete Beginners]]></title>
-        <id>https://hackernoon.com/how-to-start-investing-in-nfts-for-complete-beginners?source=rss</id>
-        <link href="https://hackernoon.com/how-to-start-investing-in-nfts-for-complete-beginners?source=rss"/>
-        <updated>2022-01-22T07:45:22.000Z</updated>
-        <summary type="html"><![CDATA[How does investing in NFTs work? This guide will cover all you need to know to get started.]]></summary>
-        <author>
-            <name>Adam Fard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sending Pics To Grandma, No Smartphone Needed]]></title>
         <id>https://hackaday.com/?p=516698</id>
         <link href="https://hackaday.com/2022/01/21/sending-pics-to-grandma-no-smartphone-needed/"/>
@@ -230,26 +418,6 @@
         <summary type="html"><![CDATA[When it comes to keeping in touch with the grandparents, a lack of familiarity with modern technology can get in the way. [palmerabollo] wanted to share photos with his grandmother, …read more]]></summary>
         <author>
             <name>Lewin Day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Voting for Startups Ends Next Week!]]></title>
-        <id>https://hackernoon.com/voting-for-startups-ends-next-week?source=rss</id>
-        <link href="https://hackernoon.com/voting-for-startups-ends-next-week?source=rss"/>
-        <updated>2022-01-22T02:39:30.000Z</updated>
-        <summary type="html"><![CDATA[Voting for BOTH Noonies and Startups for 2021 will end next week.]]></summary>
-        <author>
-            <name>Startups</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Noonies Voting Ends Next Week!]]></title>
-        <id>https://hackernoon.com/noonies-voting-ends-next-week?source=rss</id>
-        <link href="https://hackernoon.com/noonies-voting-ends-next-week?source=rss"/>
-        <updated>2022-01-22T02:13:44.000Z</updated>
-        <summary type="html"><![CDATA[Voting for BOTH Noonies and Startups for 2021 will end next week.]]></summary>
-        <author>
-            <name>Noonies 2021</name>
         </author>
     </entry>
     <entry>
@@ -630,6 +798,19 @@ Open Browser-Tabs in Atom-Editor.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ARM Ships Morello Board - The Secure Hardware Of The Future]]></title>
+        <id>http://www.i-programmer.info/news/149-security/15161-arm-ships-morello-board-the-secure-hardware-of-the-future.html</id>
+        <link href="http://www.i-programmer.info/news/149-security/15161-arm-ships-morello-board-the-secure-hardware-of-the-future.html"/>
+        <updated>2022-01-21T11:21:18.000Z</updated>
+        <summary type="html"><![CDATA[ARM is now shipping the first version of a new compartmentalized, secure microprocesser called Morello that is the first fruit of the UK government's Digital Security by Design project.
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Authoritarianism vs. Fluid Decentralization: Lessons From the Pandemic]]></title>
         <id>https://hackernoon.com/authoritarianism-vs-fluid-decentralization-lessons-from-the-pandemic?source=rss</id>
         <link href="https://hackernoon.com/authoritarianism-vs-fluid-decentralization-lessons-from-the-pandemic?source=rss"/>
@@ -759,6 +940,34 @@ The post Infrastructure Access Management a Growing DevOps Priority appeared fir
         <summary type="html"><![CDATA[If you’ve dealt with robots or other wheeled projects, you’ve probably heard of mecanum wheels. These seemingly magic wheels have the ability to move in any direction. If you’ve ever …read more]]></summary>
         <author>
             <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cryptocurrency All-in-One For Dummies (Wiley)]]></title>
+        <id>http://www.i-programmer.info/book-watch-archive/15156-cryptocurrency-all-in-one-for-dummies-wiley.html</id>
+        <link href="http://www.i-programmer.info/book-watch-archive/15156-cryptocurrency-all-in-one-for-dummies-wiley.html"/>
+        <updated>2022-01-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This book offers a collection of simple and straightforward resources that will get you up to speed on cryptocurrency investing and mining, blockchain, Bitcoin, and Ethereum. Kiana Danial presents up-to-date and reliable info on what's been called the "21st century gold rush." This book provides the foundation needed to become a savvy cryptocurrency consumer, investor, or miner.
+
+<ASIN:1119855802>
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dtSearch Adds Multithreaded Indexing]]></title>
+        <id>http://www.i-programmer.info/news/84-database/15159-dtsearch-adds-multithreaded-indexing-.html</id>
+        <link href="http://www.i-programmer.info/news/84-database/15159-dtsearch-adds-multithreaded-indexing-.html"/>
+        <updated>2022-01-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[dtSearch has been updated with improvements including a preview of the ability to build indexes using multiple threads, which the developers say greatly improving indexing speed on 64-bit Windows and Linux systems with multiple cores.
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
         </author>
     </entry>
     <entry>
@@ -993,6 +1202,19 @@ The post Any Single Galaxy Reveals the Composition of an Entire Universe first a
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Amazon Offers Debugger For Machine Learning Models]]></title>
+        <id>http://www.i-programmer.info/news/105-artificial-intelligence/15158-amazon-offers-debugger-for-machine-learning-models.html</id>
+        <link href="http://www.i-programmer.info/news/105-artificial-intelligence/15158-amazon-offers-debugger-for-machine-learning-models.html"/>
+        <updated>2022-01-20T15:11:18.000Z</updated>
+        <summary type="html"><![CDATA[Amazon has developed a method that automatically discovers machine learning model errors on particular types of input and provides a way to correct them. Defuse is a tool that the developers say can be used to train more robust models.
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A Complete Beginner’s Guide to npm]]></title>
         <id>https://css-tricks.com/?p=361210</id>
         <link href="https://css-tricks.com/a-complete-beginners-guide-to-npm/"/>
@@ -1002,6 +1224,19 @@ I remember vividly a period early in my coding career when I began to feel that 
 A Complete Beginner’s Guide to npm originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Josh Collinsworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache Ignite Adds Change Data Capture]]></title>
+        <id>http://www.i-programmer.info/news/84-database/15157-apache-ignite-adds-change-data-capture.html</id>
+        <link href="http://www.i-programmer.info/news/84-database/15157-apache-ignite-adds-change-data-capture.html"/>
+        <updated>2022-01-20T15:05:05.000Z</updated>
+        <summary type="html"><![CDATA[Apache Ignite has been updated with improvements including Change Data Capture (CDC), an Index Query API, and several vulnerability fixes. Ignite is a distributed database for high-performance computing with in-memory speed.
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
         </author>
     </entry>
     <entry>
@@ -1272,16 +1507,6 @@ Tags: birth]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[12 Best IDO Launchpads in 2022]]></title>
-        <id>https://hackernoon.com/12-best-ido-launchpads-in-2022?source=rss</id>
-        <link href="https://hackernoon.com/12-best-ido-launchpads-in-2022?source=rss"/>
-        <updated>2022-01-20T08:27:12.000Z</updated>
-        <summary type="html"><![CDATA[IDO launchpads have a pivotal place in the cryptocurrency and blockchain space.]]></summary>
-        <author>
-            <name>Stephen Ray</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[4 Critical Mobile Marketing Predictions to Help Form your Strategy in 2022]]></title>
         <id>https://hackernoon.com/4-critical-mobile-marketing-predictions-to-help-form-your-strategy-in-2022?source=rss</id>
         <link href="https://hackernoon.com/4-critical-mobile-marketing-predictions-to-help-form-your-strategy-in-2022?source=rss"/>
@@ -1421,6 +1646,32 @@ The post When to Use API Management and Service Mesh Together appeared first on 
         <summary type="html"><![CDATA[Since the dawn of the age of the automobile, motorheads have been obsessed with using as few wheels as possible. Not satisfied with the prospect of being incompletely maimed by …read more]]></summary>
         <author>
             <name>Ryan Flowers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use SSH Agent Safely]]></title>
+        <id>https://goteleport.com/blog/how-to-use-ssh-agent-safely/</id>
+        <link href="https://goteleport.com/blog/how-to-use-ssh-agent-safely/"/>
+        <updated>2022-01-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The SSH agent (ssh-agent) is an SSH key manager that stores the SSH key in a process memory so that users can log into SSH servers without having to type the key’s passphrase every time they authenticate with the server. In addition to the key management feature, SSH agent supports agent forwarding, which helps to authenticate with servers that sit behind a bastion or jump server. As the agent works as a password manager for SSH keys, incorrect usage or faulty configuration can cause security risks.
+In this article, we’ll explore how to avoid potential SSH agent pitfalls and recommend best practices to keep your SSH agent secure.
+Security risks of using SSH agent
+When you run an SSH agent, it is risky to leave your terminal unattended because anyone with physical access to your terminal ca…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Altair - The First PC]]></title>
+        <id>http://www.i-programmer.info/history/machines/207-altair.html</id>
+        <link href="http://www.i-programmer.info/history/machines/207-altair.html"/>
+        <updated>2022-01-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Altair was the computer that brought computing into homes and small businesses. It was the first PC, the forerunner of the Apple, the IBM PC and all that would follow.
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
         </author>
     </entry>
     <entry>
@@ -1949,6 +2200,19 @@ The post The Life and Times of Feature Flags appeared first on DevOps.com.]]></s
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Faker Rebooted As Community-Controlled Project]]></title>
+        <id>http://www.i-programmer.info/news/136-open-source/15154-faker-re-released-as-community-controlled-project.html</id>
+        <link href="http://www.i-programmer.info/news/136-open-source/15154-faker-re-released-as-community-controlled-project.html"/>
+        <updated>2022-01-19T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After faker.js was deliberately deleted by its owner Marak Squires the project is again available on npm under new management. The new GitHub repo is faker-js/faker and the project has seen a massive amount of activity in its first two weeks and appears to have a promising future ahead of it.
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why 2022 Will Be the Year of the DAOs]]></title>
         <id>https://hackernoon.com/why-2022-will-be-the-year-of-the-daos?source=rss</id>
         <link href="https://hackernoon.com/why-2022-will-be-the-year-of-the-daos?source=rss"/>
@@ -2006,6 +2270,33 @@ The post The Life and Times of Feature Flags appeared first on DevOps.com.]]></s
         <summary type="html"><![CDATA[When you spend a lot of time on the computer doing certain more specialised tasks (no, we’re not talking about browsing cat memes on twitter) you start to think that …read more]]></summary>
         <author>
             <name>Dave Rowntree</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Z3 Theorem Prover to analyze RBAC]]></title>
+        <id>https://goteleport.com/blog/z3-rbac/</id>
+        <link href="https://goteleport.com/blog/z3-rbac/"/>
+        <updated>2022-01-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Z3 is a satisfiability modulo theories (SMT) solver developed by Microsoft Research.
+With a description like that, you’d expect it to be restricted to esoteric corners of the computerized mathematics world, but it has made impressive inroads addressing conventional software engineering needs: analyzing network ACLs and firewalls in Microsoft Azure, for example.
+Z3 is used to answer otherwise-unanswerable questions like “are these two firewalls equivalent?” or “does this set of network ACLs violate any security rules?”.
+While those applications dealt with constraints over IP addresses (essentially very large numbers), Z3 can also analyze constraints over strings; this was used to implement AWS Zelkova which analyzes role-based access control (RBAC) policies in the Amazon cloud.
+Of course, m…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Year of AI 2021 - The Best Papers]]></title>
+        <id>http://www.i-programmer.info/news/105-artificial-intelligence/15153-the-year-of-ai-2021-the-best-papers.html</id>
+        <link href="http://www.i-programmer.info/news/105-artificial-intelligence/15153-the-year-of-ai-2021-the-best-papers.html"/>
+        <updated>2022-01-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While 2021 was a difficult year due to the pandemic, it was also a year full of advancements in the field of AI. Louis Bouchard has compiled a great list with the best research papers that were published during the year.
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
         </author>
     </entry>
     <entry>
@@ -2494,6 +2785,16 @@ The post How Are API Management and Service Mesh Different? appeared first on De
         <summary type="html"><![CDATA[[Dries Depoorter] has a knack for highly technical projects with a solid artistic bent to them, and this piece is no exception. The Flemish Scrollers is a software system that …read more]]></summary>
         <author>
             <name>Donald Papp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Identity-Based Access for SSH]]></title>
+        <id>https://goteleport.com/blog/identity-based-access-for-ssh/</id>
+        <link href="https://goteleport.com/blog/identity-based-access-for-ssh/"/>
+        <updated>2022-01-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lack of access accountability and unmonitored access create a considerable security risk for organizations, and the best way to mitigate this challenge is by implementing identity-based access. The Computer Security Resource Center run by NIST defines an “identity-based access control” as an “Access control based on the identity of the user (typically relayed as a characteristic of the process acting on behalf of that user) where access authorizations to specific objects are assigned based on user identity.” Identity-based access entails integrating identity providers with access providers with single sign-on (SSO) features to deliver an efficient and secure access method. The security risks and costs associated with per-account password management, stolen credentials, and security breache…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
         </author>
     </entry>
     <entry>
@@ -3637,6 +3938,19 @@ The post Immediately Executing setInterval with JavaScript appeared first on Dav
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SSH Hardening Tips to Prevent Brute-Force Attacks]]></title>
+        <id>https://goteleport.com/blog/ssh-hardening-to-prevent-brute-force-attacks/</id>
+        <link href="https://goteleport.com/blog/ssh-hardening-to-prevent-brute-force-attacks/"/>
+        <updated>2022-01-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SSH servers are a common target for brute-force attacks. This is even more true if your infrastructure sits behind an SSH bastion because attackers have no choice but to compromise the bastion host either by exploitation or denial of service. In this article, we will list a few controls which will help you harden your SSH servers from brute- force attacks.
+Limit the number of authentication attempts
+One of the simplest ways to mitigate brute force attacks is to reduce the number of authentication attempts permitted by a connection. We can do this by reducing the value of the MaxTries variable in the sshd_config file from its default of 6.
+Before deciding on an appropriate value for MaxTries, you should understand what constitutes an authentication attempt. For example, each of the followin…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[JDBC Tutorial Part 3: How to Use Database Connection Pools]]></title>
         <id>https://hackernoon.com/jdbc-tutorial-part-3-how-to-use-database-connection-pools?source=rss</id>
         <link href="https://hackernoon.com/jdbc-tutorial-part-3-how-to-use-database-connection-pools?source=rss"/>
@@ -4293,6 +4607,17 @@ The post Trends in Blockchain for 2022 appeared first on DevOps.com.]]></summary
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SSH Bastion Host Best Practices]]></title>
+        <id>https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices/</id>
+        <link href="https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices/"/>
+        <updated>2022-01-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SSH bastion hosts are an indispensable security enforcement stack for secure infrastructure access. Every security compliance standard that deals with remote infrastructure access (e.g., FedRAMP AC-17 - Remote Access, HIPAA §164.312(a)(1) - Access control, SOC2 CC6.1 - Manage Points of Access) mandates preventing direct network access to the servers and APIs. Although it is relatively easy to deploy a bastion host in your infrastructure, it should be noted that securing a bastion host requires careful consideration from design to deployment. After all, bastion hosts are the first target for attackers looking to compromise access to infrastructure.
+This blog post focuses on following best practices on building and deploying a secure SSH bastion server based on OpenSSH. If you are looking fo…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Top 5 Play To Earn Platform Development Companies - 2022]]></title>
         <id>https://hackernoon.com/top-5-play-to-earn-platform-development-companies-2022?source=rss</id>
         <link href="https://hackernoon.com/top-5-play-to-earn-platform-development-companies-2022?source=rss"/>
@@ -4692,6 +5017,17 @@ The post IT Ops Trends: Cloud, Containers and COVID appeared first on DevOps.com
         <summary type="html"><![CDATA[Have you ever wondered how an electronic wind vane translates a direction into a unique signal? It seems as though it might be very complicated, and indeed some of them …read more]]></summary>
         <author>
             <name>Ryan Flowers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Financial Services Companies That Value Agility & Security Pick Teleport]]></title>
+        <id>https://goteleport.com/blog/why-finserv-companies-pick-teleport/</id>
+        <link href="https://goteleport.com/blog/why-finserv-companies-pick-teleport/"/>
+        <updated>2022-01-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2022 feels a little different, doesn’t it? Every day I’m prepared to hear something new, something scary, or something exciting. These last couple of years have made it seem like we just never know what is coming next. It’s no different for financial services companies who have to be prepared for the unexpected, including disruptive technologies that can challenge their core businesses. McKinsey recently pointed out seven innovations driving the financial services industry such as AI, blockchain, and open-source software and SaaS which have the advantage of lowering barriers to entry for fintech startups competing with the established players.
+I am watching all this play out in real time as an account executive at Teleport. When a financial services company offers a new product or service …]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
         </author>
     </entry>
     <entry>
@@ -5366,6 +5702,16 @@ Key: subtitle / Value: They are
 How to Use Native Custom Fields in WordPress (and 5 Useful Examples) originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What You Need to Know About Adding a SaaS Component to Your Hardware or Software Business]]></title>
+        <id>https://goteleport.com/blog/saas-infrastructure-access-controls/</id>
+        <link href="https://goteleport.com/blog/saas-infrastructure-access-controls/"/>
+        <updated>2022-01-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Many market-leading companies who have dominated their respective sectors with hardware or on-prem/installable software solutions are turning to SaaS offerings to fuel the next phase of their growth. Why? Simple. Market valuations are much higher for SaaS companies than they are for traditional software and hardware companies. The median multiple on earnings for a SaaS company is 12.7x as of Q3 2021 according to venture capitalist Jamin Ball who tracks the Public Cloud Software (e.g. SaaS) market in an excellent Substack. If you look at high growth SaaS companies, these multiples increase even further, to 26.6x in Q3 according to Ball. One famous example is Adobe as written about in this article by McKinsey. “The multimedia-and creativity-software provider increased its share of subscripti…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
         </author>
     </entry>
     <entry>
@@ -6229,6 +6575,24 @@ The post How to Flatten git Commits appeared first on David Walsh Blog.]]></summ
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Set Up Two-Factor Authentication for SSH]]></title>
+        <id>https://goteleport.com/blog/how-to-setup-ssh-2fa/</id>
+        <link href="https://goteleport.com/blog/how-to-setup-ssh-2fa/"/>
+        <updated>2022-01-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[One way to enhance SSH login security is by using two-factor authentication (2FA). This approach forces an administrator to self-identify with an additional security verification in addition to the local admin credentials.
+This tutorial guides you through setting up Google Authenticator PAM to enable 2FA for users connecting to SSH on a Linux server. We’ll use nano as our editor in examples.
+Prerequisites
+To follow along, ensure you’ve met the following prerequisites:
+Administrative (sudo) access to a running Linux machine — for example, Ubuntu 20.04 or similar
+SSH server running on the Linux machine
+Preconfigured Google Authenticator app on iOS or Android mobile
+Installing Google Authenticator PAM
+To provide the 2FA mechanism for this Linux machine, you must install Google Pluggable Authe…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A New Container Query Polyfill That Just Works]]></title>
         <id>https://css-tricks.com/?p=360320</id>
         <link href="https://css-tricks.com/a-new-container-query-polyfill-that-just-works/"/>
@@ -6891,6 +7255,20 @@ Prepare your designs for an international audience.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SSH Client Config Files and How to Use Them]]></title>
+        <id>https://goteleport.com/blog/ssh-client-config-file-example/</id>
+        <link href="https://goteleport.com/blog/ssh-client-config-file-example/"/>
+        <updated>2022-01-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SSH client configuration files allow us to connect to servers with pre-configured commands. This saves typing each SSH command parameter when logging into a remote machine and executing commands on a remote device.
+This article will examine secure shell (SSH) client configuration (config) files and their functions. Specifically, we will show an example of an SSH client config file to learn how to use these files before creating an example config file that connects to a fictitious server. Then, we’ll use Teleport’s tsh client to communicate with a cluster because of tsh’s ability to consolidate identity-based server access in all environments, meet compliance requirements, and provide visibility into access and behavior.
+Let’s dive right in!
+How to Use SSH client config files
+To begin, ensu…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Blinking Cursor Turns 54, Hardly Anyone Notices]]></title>
         <id>https://hackaday.com/?p=514623</id>
         <link href="https://hackaday.com/2022/01/05/blinking-cursor-turns-54-hardly-anyone-notices/"/>
@@ -7331,6 +7709,19 @@ The post CI/CD is the New Lock-In appeared first on DevOps.com.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[5 Best Practices for Securing SSH]]></title>
+        <id>https://goteleport.com/blog/5-ssh-best-practices/</id>
+        <link href="https://goteleport.com/blog/5-ssh-best-practices/"/>
+        <updated>2022-01-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Strictly following security best practices is the first step to cybersecurity. Although SSH is the industry standard for both security and efficacy for remote server access, as with any software, SSH is  only as secure as configurations applied to the server and client configurations.
+In this article, we’ll explore five SSH best practices you should observe to boost the security of your infrastructure.
+1. Adopt second factor authentication
+In second factor authentication, sometimes called two-factor authentication, a system requires two different forms of authentication to gain access. One of the most common second factor authentication examples is a combination of a passphrase the user knows and a one-time password sent to their mobile device. While one-time passwords sent to a mobile dev…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Digital Assets: Are We Still Early?]]></title>
         <id>https://hackernoon.com/digital-assets-are-we-still-early?source=rss</id>
         <link href="https://hackernoon.com/digital-assets-are-we-still-early?source=rss"/>
@@ -7718,6 +8109,20 @@ The post IoT Developers: Get Familiar With LoRaWAN for 2022 appeared first on De
         <summary type="html"><![CDATA[In this article, I will walk you through an example that will show you how web workers function in JavaScript with the help of WebSockets.  I think it's helpful to work with a practical use case because it is much simpler to understand the concepts when you can relate them]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSH Audit: Tracking Changes with SSH Audit Logging]]></title>
+        <id>https://goteleport.com/blog/ssh-audit/</id>
+        <link href="https://goteleport.com/blog/ssh-audit/"/>
+        <updated>2022-01-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SSH audit logging is essential for system security, and it’s often an important part of compliance regulations. Developers and administrators should only be granted access to the resources they need, and a continuous monitoring system should be in place to ensure that they aren’t abusing that access.
+In this article, we’ll explore some methods you can use for SSH audit logging, including creating trackable logs, preventing log manipulation, and using an interactive logging tool.
+Create trackable logs
+For audit logging for SSH to be effective, you can assign each user a unique login. This approach enables you to track user logins and logouts in the /var/log/auth.log file. You can also change the log level by setting LogLevel VERBOSE in sshd_config to provide more detailed information.
+Don’t…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
         </author>
     </entry>
     <entry>
@@ -9085,6 +9490,24 @@ Via apm command: apm uninstall barebone-atom-package-coffee]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Why DevSecOps is Going Passwordless]]></title>
+        <id>https://goteleport.com/blog/devsecops-passwordless/</id>
+        <link href="https://goteleport.com/blog/devsecops-passwordless/"/>
+        <updated>2021-12-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I talk to a lot of engineers every day. SREs. Systems Architects. Security Engineers. What I am hearing from them is that they are moving away from passwords — both in their personal lives, opting for more secure forms of authentication like biometrics and second factors, and at work. It just doesn’t make sense anymore to protect your personal bank with a second factor, but to share around an SSH key to access critical server infrastructure.
+Passwords are still the leading way to grant access to infrastructure, even though stolen or hacked credentials are the number one cause of data breaches.
+
+But this is changing. Look at the 32% of respondents in our recent The State of Infrastructure Access & Security Report 2021. We surveyed 1000 IT, DevOps and Security professionals to find out what they were thinking about some of the most important security issues at the moment.
+Short-lived identity-based certificates are a small part of the overall security toolkit today, but they are rightly seen as superior to SSH keys and other shared credentials that are just passwords by another name.
+When asked why they had implemented certificates, people said that they were more secure, more feature-rich, and limited the attack surface in time.
+
+All of this is why 77% of companies view moving towards a passwordless infrastructure as “very important” or “important”. In case you are wondering, they are also adopting zero-trust networks (86%) and just-in-time infrastructure access (89%).
+Are you currently implementing passwordless access for your infrastructure? If so, we’d love to help. Reach out and one of our expert solution engineers will help you architect the solution in a way that is not only more secure, but also more agile.]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Top 15 Ideas for React Apps that Web Devs Can Build in 2022]]></title>
         <id>https://hackernoon.com/top-15-ideas-for-react-apps-that-web-devs-can-build-in-2022?source=rss</id>
         <link href="https://hackernoon.com/top-15-ideas-for-react-apps-that-web-devs-can-build-in-2022?source=rss"/>
@@ -9499,6 +9922,19 @@ The post Best of 2021 – 6 Signs You’re Doing DevOps Correctly appeared first
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Three Little-Known Features in Teleport That I Wish Everyone Knew]]></title>
+        <id>https://goteleport.com/blog/teleport-features-you-should-know/</id>
+        <link href="https://goteleport.com/blog/teleport-features-you-should-know/"/>
+        <updated>2021-12-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As a solution architect at Teleport, I help potential customers get up and running with Teleport, but I am also a power user myself. In my time here, I have picked a few favorite features to help me be more efficient using Teleport, but they aren’t as widely known as they should be. This article hopes to change that and give some love to three little-known features that can enhance your usage of Teleport. I use them every day and hope that after reading this blog, you will too.
+Portable credentials
+Do you only use one device to do your job? I don’t. I am constantly accessing different machines. That might mean my laptop, a machine that I am not accessing via Teleport, or maybe a machine from which I want to execute an API call to a teleport ssh node.
+How does this work with Teleport? Simpl…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[theme-fluxor]]></title>
         <id>https://atom.io/packages/theme-fluxor</id>
         <link href="https://atom.io/packages/theme-fluxor"/>
@@ -9898,6 +10334,20 @@ Tags: privacy, Wired]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[API Keys are Passwords Too]]></title>
+        <id>https://goteleport.com/blog/api-keys-are-passwords/</id>
+        <link href="https://goteleport.com/blog/api-keys-are-passwords/"/>
+        <updated>2021-12-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Use of misused or stolen credentials is the number one cause of data breaches.  Using Password123 is worthy of a good laugh, but there are other passwords that are used everyday: API keys and other tokens used to access critical infrastructure.
+Teleport recently commissioned a survey of 1000 IT, DevOps and Security professionals and found that passwords are the number one way of managing access to infrastructure.
+
+This is a problem. As our CTO wrote in a blog post recently titled “It’s Time to Get Rid of Passwords in Our Infrastructure”, a password is “any text that can be copied and passed ‘as is’ from a client to a service on the wire for authentication.”
+The problem with passwords is that they can be guessed or brute-forced. They can also be stolen or intercepted by hackers before any b…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Clear Off the Coffee Table, It’s Pinball Time]]></title>
         <id>https://hackaday.com/?p=513075</id>
         <link href="https://hackaday.com/2021/12/28/clear-off-the-coffee-table-its-pinball-time/"/>
@@ -10254,6 +10704,17 @@ The post Best of 2021 – How to Revoke JSON Web Tokens (JWTs) appeared first on
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[5 Tips for a Successful Teleport Proof of Value Evaluation]]></title>
+        <id>https://goteleport.com/blog/teleport-proof-of-value-evaluation/</id>
+        <link href="https://goteleport.com/blog/teleport-proof-of-value-evaluation/"/>
+        <updated>2021-12-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most car purchases start with a test drive. Increasingly, enterprise software purchases (including security software) are made the same way. These evaluations are often called a Proof of Concept or PoC. This term is a great fit for lots of situations, especially when the solution evolves a novel way of combining established tools or a hard-to-define use case that can only be judged in practice. But for more established solutions used in production by hundreds or thousands of organizations, Proof of Concept as a name is not a great fit. Instead, we should talk in terms of a Proof of Value.
+A Proof of Value places the focus on the customer and their needs. Rather than answering the question “Does this software work?” we seek to answer the question “Does this software deliver the necessary va…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Learn Responsive Web Design by Building 20 Projects – a Major freeCodeCamp Curriculum Update]]></title>
         <id>61c9fcdc755c16082490bbcb</id>
         <link href="https://www.freecodecamp.org/news/responsive-web-design-certification-redesigned/"/>
@@ -10589,6 +11050,28 @@ The post Best of 2021 – Automation Engineering appeared first on DevOps.com.]]
         <summary type="html"><![CDATA[Agile Software Development can give companies versatility and help them navigate through change and complexities of the software space, improving efficiency.]]></summary>
         <author>
             <name>Rajneesh Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why I Joined Teleport]]></title>
+        <id>https://goteleport.com/blog/why-i-joined-teleport-vp-product/</id>
+        <link href="https://goteleport.com/blog/why-i-joined-teleport-vp-product/"/>
+        <updated>2021-12-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are many ways to evaluate employment opportunities. In this post, I share a bit about my thought process and why I joined Teleport.
+When evaluating opportunities, I always ask myself two questions:
+Will this opportunity enable me to do good (i.e. “make the world a better place”)?
+Will this opportunity enable me to be great (i.e. build valuable skills and execute at a high level)?
+Let’s look at each of these.
+Do good.
+“Make the world a better place,” a meme about tech startups so worthy that HBO made a whole show about it. It means something different to everyone, but here’s what it means to me:
+Solve a real problem.
+Build an effective solution.
+Make the solution accessible.
+Are there startups that actually do good? I think so.
+On solving a real problem
+Having previously worked in the…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
         </author>
     </entry>
     <entry>
@@ -11988,6 +12471,17 @@ This work is licensed under the The MIT License.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Why Energy Infrastructure is National Security and How to Protect It]]></title>
+        <id>https://goteleport.com/blog/infrastructure-access-energy/</id>
+        <link href="https://goteleport.com/blog/infrastructure-access-energy/"/>
+        <updated>2021-12-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I am writing this from my home office in Texas. Texas isn’t just my home. It is the home of the best brisket on the planet, some of the most iconic high tech brands in the world, and energy production that powers the global economy. In the morning, I might meet with one of the fastest growing SaaS companies in the country about achieving the rigorous FedRAMP certification so they can sell to federal agencies. In the afternoon, I might meet with the systems engineering team of an energy company who are rolling out a new Kubernetes-powered analytics platform that needs to be protected from unauthorized access.
+This post highlights some of the most important things that I see dynamic organizations doing that can be easily implemented in the energy industry to help mitigate risk and maximize d…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[5 Best Practices to Follow for Node.js Development]]></title>
         <id>https://hackernoon.com/5-best-practices-to-follow-for-nodejs-development?source=rss</id>
         <link href="https://hackernoon.com/5-best-practices-to-follow-for-nodejs-development?source=rss"/>
@@ -12693,6 +13187,18 @@ Reload Atom by open "Command Palette" (Ctrl+Shift+P) > Wind…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What Financial Services Companies Need to Know About Infrastructure Access]]></title>
+        <id>https://goteleport.com/blog/infrastructure-access-financial-services/</id>
+        <link href="https://goteleport.com/blog/infrastructure-access-financial-services/"/>
+        <updated>2021-12-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ding. That is the sound of the elevator opening on the ground floor of the One WTC building in New York. We’re both there for a meeting. You, as Director of Systems Engineering for a Financial Services provider, are presenting your plans to shore up the hybrid infrastructure used to run the bank’s new crypto-based services. I’m meeting with clients who are trying to rebuild their reputation, and SOC2 certification, after a data breach. We talk, and it turns out that we have a lot in common. When I learn that you’re nervous about your upcoming meeting, afraid your higher-ups won’t want to make the investments that you know are necessary, this is what I share:
+Cybercrime targeting the Financial Services sector
+Over the last 25 years working with Financial Services companies, I have seen the …]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[First-ever Image Of A Multi-planet System Around A Sun-like Star]]></title>
         <id>https://hackernoon.com/first-ever-image-of-a-multi-planet-system-around-a-sun-like-star?source=rss</id>
         <link href="https://hackernoon.com/first-ever-image-of-a-multi-planet-system-around-a-sun-like-star?source=rss"/>
@@ -12992,6 +13498,18 @@ The post Best of 2021 – 7 Popular Open Source CI/CD Tools appeared first on De
 The post Best of 2021 – Torvalds’ Bug Warning is a Lesson for Linux Users  appeared first on DevOps.com.]]></summary>
         <author>
             <name>B. Cameron Gain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leave SSL in the Dust, Turbocharge TLS with ALPN and SNI]]></title>
+        <id>https://goteleport.com/blog/turbo-charge-tls-with-alpn-sni/</id>
+        <link href="https://goteleport.com/blog/turbo-charge-tls-with-alpn-sni/"/>
+        <updated>2021-12-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As part of Teleport 8 we’ve made significant improvements to our routing, so much so the improvements have become a feature. Teleport 8 has new TLS routing that greatly reducing the port requirements needed for Teleport to run. Reducing the open network footprint down to a single port for your entire infrastructure and minimizing the  attack surface. Want to know how we did it? Read on!
+What is SSL/TLS?
+SSL is the OG cryptographic protocol developed by Netscape in 1995, whereas Transport Layer Security (TLS) was developed by the Internet Engineering Task Force (IETF) in 1999. By now all versions of SSL have been found vulnerable to attacks, and have been depreciated. Does this mean you need to throw out your SSL certificates and obtain TLS certifications? The answer is No, since both are x…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
         </author>
     </entry>
     <entry>
@@ -13378,6 +13896,17 @@ The post Best of 2021 – Programming Languages: Choose Wisely? appeared first o
         <summary type="html"><![CDATA[Key fobs as a service? Have we really gotten to that point? It would seem so, at least for Toyota, which is now requiring a subscription to use the company’s …read more]]></summary>
         <author>
             <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Passwordless Remote Access to Windows Servers and Desktops]]></title>
+        <id>https://goteleport.com/blog/passwordless-remote-access-to-windows-servers/</id>
+        <link href="https://goteleport.com/blog/passwordless-remote-access-to-windows-servers/"/>
+        <updated>2021-12-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[During my time as a penetration tester, I’ve seen many IT teams storing server catalogs with respective IP addresses and passwords in a sharable Excel sheet. This is more so true in windows server infrastructure as many organizations resort to password-based auth for local and remote access. Of course, security-conscious organizations would use a password vault. But in any case, password storage in any form is often an Achilles heel in infrastructure security. While there are endless risks associated with password-based authentication, passwords also create an operational overhead for system administrators. Maintaining password vaults to share, store, and rotate passwords can lead to infrastructure compromises.
+At Teleport, we have been advocating and innovating passwordless infrastructure…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
         </author>
     </entry>
     <entry>
@@ -15506,6 +16035,18 @@ Tags: coronavirus, New York Times, vaccination]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Introducing Teleport Access Plane for Linux and Windows Hosts]]></title>
+        <id>https://goteleport.com/blog/desktop-access/</id>
+        <link href="https://goteleport.com/blog/desktop-access/"/>
+        <updated>2021-12-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to welcome Windows hosts to the Teleport Access Plane. For the past 5 years we’ve helped refine our Access Plane for Linux hosts, providing short-lived certificate-based access, RBAC and developer-friendly access to resources. As we’ve rolled Teleport to larger organizations, we found that people wanted the same convenience and security of Teleport but for Windows hosts.
+How do you control access to Windows hosts?
+Windows has historically been configured and administered using graphical user interfaces. Remote Desktop Protocol (RDP) is a proprietary protocol developed by Microsoft to provide GUI access to Windows Desktop and Servers over a network connection. You connect via an RDP client by providing a Host Name or IP address and login using a Windows user account username …]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Read Your Website]]></title>
         <id>https://css-tricks.com/?p=356603</id>
         <link href="https://css-tricks.com/read-your-website/"/>
@@ -16080,6 +16621,24 @@ Tested and used on C, Python, and Java.]]></summary>
         <summary type="html"><![CDATA[Norwegian electronics hacker [Hans Jørgen] aka [time expander] on YouTube, has a clear interest in robotics, and for his latest effort, decided that it was time to build a custom …read more]]></summary>
         <author>
             <name>Dave Rowntree</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teleport 8 - Introducing Desktop Access]]></title>
+        <id>https://goteleport.com/blog/rdp-access-for-windows-browser/</id>
+        <link href="https://goteleport.com/blog/rdp-access-for-windows-browser/"/>
+        <updated>2021-12-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If your organization runs cloud-native workloads on a mixed infrastructure of Linux and Windows, this announcement of Teleport 8 is for you!
+TL;DR Teleport 8 enables easy and secure remote access to a mixed fleet of Linux/SSH and Windows/RDP hosts via a single TCP/IP port.
+Before we dive deeper into how it works, let’s introduce Teleport to new readers of this blog.
+What is Teleport?
+Teleport is an open source, identity-aware, multi-protocol access proxy with an integrated certificate authority. We call this concept the Access Plane. Teleport provides easy access to the following types of resources:
+Linux servers via SSH
+Kubernetes API, and other HTTPs endpoints behind NAT/firewalls.
+MySQL, PostgreSQL, MongoDB and other databases.
+Private, internal applications like AWS Management Console,…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
         </author>
     </entry>
     <entry>
@@ -18157,6 +18716,26 @@ Tags: spending]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Choosing an SSH Client on Windows]]></title>
+        <id>https://goteleport.com/blog/choosing-ssh-client-windows/</id>
+        <link href="https://goteleport.com/blog/choosing-ssh-client-windows/"/>
+        <updated>2021-12-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In today’s IT environments, operating systems blend into each other. In on-premises and hybrid or public cloud scenarios, Windows clients connect to Linux-based web servers and Kubernetes containers or microservices.
+There are several Windows-friendly SSH clients available to keep these connections secure. In this article, we’ll explore the more common ones and compare the core characteristics of the following five clients:
+Putty
+Solar-PuTTY
+KiTTY
+SecureCRT
+MobaXterm
+mRemoteNG
+We’ll examine cost, ease of setup and use, and feature set from a protocol supportability perspective for each client. We’ll also share some guidelines to help select your next SSH client on Windows.
+PuTTY
+PuTTY is an open-source SSH and Telnet client for the Windows Platform built by Simon Tatham. PuTTY was first re…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Scan Sensitive Data Using the Nightfall API in 40 Lines of Code]]></title>
         <id>https://hackernoon.com/scan-sensitive-data-using-the-nightfall-api-in-40-lines-of-code?source=rss</id>
         <link href="https://hackernoon.com/scan-sensitive-data-using-the-nightfall-api-in-40-lines-of-code?source=rss"/>
@@ -19195,6 +19774,17 @@ Hope this helps you.]]></summary>
         <summary type="html"><![CDATA[For a standard that has been in use since the 1980s, MIDI is still one of the most dominant forces on the musical scene even today. It’s fast, flexible, and …read more]]></summary>
         <author>
             <name>Bryan Cockfield</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Pass a FedRAMP Audit for SaaS Providers: Part 2]]></title>
+        <id>https://goteleport.com/blog/how-to-pass-fedramp-audit-part-2/</id>
+        <link href="https://goteleport.com/blog/how-to-pass-fedramp-audit-part-2/"/>
+        <updated>2021-12-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In our last blog post How to Pass a FedRAMP Audit for SaaS Providers: Part 1 , we looked at what FedRAMP is and why it matters for SaaS providers. We also discussed a success story with one publicly traded Teleport SaaS customer who used Teleport to pass their FedRAMP audit.
+In this blog post, we will look at the specific controls you need to implement in order to pass your FedRAMP audit. As a reminder, the foundational document governing FedRAMP requirements is called FedRAMP Security Assessment Framework (SAF). This high-level document covers the process of becoming FedRAMP- compliant, but the technical details of “getting everything right” are described in the publication Security and Privacy Controls for Federal Information Systems and Organizations maintained by the National Institute…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
         </author>
     </entry>
     <entry>
@@ -21779,6 +22369,18 @@ HINT: Disable Github keybindings to remove keymap conf…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Pass a FedRAMP Audit for SaaS Providers: Part 1]]></title>
+        <id>https://goteleport.com/blog/how-to-pass-fedramp-audit/</id>
+        <link href="https://goteleport.com/blog/how-to-pass-fedramp-audit/"/>
+        <updated>2021-12-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You work at a SaaS provider, and now you need to pass a FedRAMP audit. If that describes you, read on. This post will tell you (almost) everything you need to know about how to pass a FedRAMP Audit. For the rest, reach out to us. We will put you in touch with one of our Solution Engineers like me who have helped some of the largest SaaS providers in the world pass their FedRAMP audit prior or after IPOing. It’s what we do.
+This blog post will cover what FedRAMP is and why it matters for SaaS providers.  We will even talk about a success story with one of our publicly traded SaaS customers who used Teleport to pass their FedRAMP audit.
+Many software engineers roll their eyes when they hear the word “compliance.” It sounds boring, and maybe it is! But when you read through the FedRAMP contro…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Thanksgiving Ravine]]></title>
         <id>https://flowingdata.com/?p=66157</id>
         <link href="https://flowingdata.com/2021/11/30/thanksgiving-ravine/"/>
@@ -22668,6 +23270,21 @@ The post The Next Evolutions of DevOps appeared first on DevOps.com.]]></summary
         <summary type="html"><![CDATA[Crypto Wallets on exchange platforms are very vulnerable to hackers: find out about large crypto hacks that have happened in the past and ways to prevent them.]]></summary>
         <author>
             <name>Juxtathinka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[re:Invent 2021: 10 Reasons You Need Teleport to Secure Your Apps on AWS]]></title>
+        <id>https://goteleport.com/blog/reinvent-2021/</id>
+        <link href="https://goteleport.com/blog/reinvent-2021/"/>
+        <updated>2021-11-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Teleport will be live at re:Invent from Nov. 30-Dec. 2. If you are there, please stop by Booth 718 and talk to me and the Teleport team about how we can improve your security and compliance of apps running on AWS. If you can’t make it in person, here is my top 10 list of things you should know about AWS and Teleport. Check out our Teleport on AWS page for more info.
+10.  The enterprise and consumer brands you trust use Teleport to secure their AWS infrastructure access.
+We are so proud to work with these customers and more who trust Teleport to enhance the security and compliance on their AWS infrastructure:
+Snowflake, Moody’s, VMware, Carta, Doordash, Elastic, Thrasio, Yugabyte, Shipt, Canva, Airslate, Acquia, Chargepoint, Alteryx, Cohesity, and others.
+Can we help you?
+9.  Teleport allow…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
         </author>
     </entry>
     <entry>
@@ -24375,6 +24992,18 @@ The post Some Change is Bad appeared first on DevOps.com.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Teleport’s Investment in Employee Happiness Pays Off with Two New Awards]]></title>
+        <id>https://goteleport.com/blog/teleport-best-place-to-work/</id>
+        <link href="https://goteleport.com/blog/teleport-best-place-to-work/"/>
+        <updated>2021-11-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[At the core of every great company are the incredible individuals who work hard to create its success. We believe in our team members and aim to support and invest in their wellbeing and professional development — trusting each other to get the hard work done, and understanding that life happens along the way.
+With that in mind, our team works hard to maintain a high standard in every aspect including company perks & benefits — aiming to innovate and be responsive to our employees. Lately, our efforts are being recognized outside of Teleport, too. Back in August, we were named a Great Place to Work for 2021.
+The awards keep coming. We’re happy to announce that Teleport has recently received two other awards: Best Company for Work-Life Balance, and Best Company for Perks & Benefits from Com…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What is GitOps? Principles, Best Practices, and Kubernetes Workflow]]></title>
         <id>619bb55911d3cb08287aa581</id>
         <link href="https://www.freecodecamp.org/news/gitops-principles-kubernetes-workflow/"/>
@@ -25338,6 +25967,18 @@ The post Ensuring Network Connectivity With SD-WAN and AIOps appeared first on D
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Talking the End of Passwords with Friends and Family]]></title>
+        <id>https://goteleport.com/blog/passwordless-infrastructure/</id>
+        <link href="https://goteleport.com/blog/passwordless-infrastructure/"/>
+        <updated>2021-11-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Engineers worldwide have a tradition to look forward to every holiday season. You are taking in a sporting event on Thanksgiving Day when your uncle asks you why he keeps getting a message to update his iPhone; it’s only two years old. Or your grandma needs help with her hacked Facebook account. You lend a hand as the recognized family “computer person.” However, with high-profile security compromises dominating the news cycle, these conversations become serious and difficult to explain. One thing I expect to be talking about with my family this year is passwords…and I have a plan.
+Passwords are a concept everyone understands. An idea that predates computers by a few hundred years (“open sesame” anyone?), passwords now infiltrate nearly every aspect of modern life.
+An accountant can relate…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NFT: The Treachery of Digital Images]]></title>
         <id>https://hackernoon.com/nft-the-treachery-of-digital-images?source=rss</id>
         <link href="https://hackernoon.com/nft-the-treachery-of-digital-images?source=rss"/>
@@ -26209,6 +26850,19 @@ The post How to Build Healthy Engineering Teams appeared first on DevOps.com.]]>
         <summary type="html"><![CDATA[[Bart Schroder] was busy designing high voltage variable speed motor drives and was lamenting the inability of a standard scope to visualise the waveforms around the switch transistors. This is …read more]]></summary>
         <author>
             <name>Dave Rowntree</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s Time to Get Rid of Passwords in Our Infrastructure]]></title>
+        <id>https://goteleport.com/blog/no-passwords/</id>
+        <link href="https://goteleport.com/blog/no-passwords/"/>
+        <updated>2021-11-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Passwords are everywhere. Sometimes they are obvious — hardcoded in the code or laying flat in the file. Other times, they take the form of API keys, tokens, cookies or even second factors. Devs pass them in environment variables, vaults mount them on disk, teams share them over links, copy to CI/CD systems and code linters. Eventually someone leaks, intercepts or steals them. Because they pose a security risk, there is no other way to say it: passwords in our infrastructure have to go.
+There are two fundamental issues with passwords.
+They are possible to guess and brute-force. Using random password generators only partially addresses this problem.
+Hackers can intercept and steal passwords well before any breach is detected. In fact, every single system or user who ever gets access to a pa…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
         </author>
     </entry>
     <entry>
@@ -27998,6 +28652,28 @@ If you are interested in parsing Applesoft BASIC see tree-sitter-applesoft.]]></
         <summary type="html"><![CDATA[[Hunter Scott] who has graced these pages a fair few times, has been working on electronics startups for the past ten years or so, and has picked up a fair …read more]]></summary>
         <author>
             <name>Dave Rowntree</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TPM vs HSM - What’s the Difference?]]></title>
+        <id>https://goteleport.com/blog/tpm-vs-hsm-difference/</id>
+        <link href="https://goteleport.com/blog/tpm-vs-hsm-difference/"/>
+        <updated>2021-11-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hardware security modules (HSM) and trusted platform modules (TPM) seemingly do
+the same thing: they manage secret keys and enable data protection.
+But what does “managing secrets” mean, and what’s the difference between the
+two? Before diving deeper, let’s explore why computers need help with managing
+their secrets.
+What are TPMs and HSMs for?
+Sensitive data needs to be protected, that is why data centers employ physical
+security. But what if an attacker gains remote access to a computer system over
+the Internet? Encryption can provide an additional layer of protection.
+Encryption algorithms use secret keys, sometimes simply called secrets. An
+attacker must also know the secret to decrypt the data.
+But where do we store the keys? The good ones are long and hard to remember,
+and we need qu…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
         </author>
     </entry>
     <entry>
@@ -30297,6 +30973,16 @@ The post Observability Matters. But Are You Observing the Right Things?  appear
         <summary type="html"><![CDATA[If you want to spy on someone's cell phone without them knowing, look out for in-demand programs offering a free trial period. Learn more about spying apps.]]></summary>
         <author>
             <name>uMobix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just-In-Time Access Requests for Your DevOps Workflow]]></title>
+        <id>https://goteleport.com/blog/just-in-time-access-request/</id>
+        <link href="https://goteleport.com/blog/just-in-time-access-request/"/>
+        <updated>2021-11-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Customers are increasingly looking for just-in-time access to infrastructure. Imagine there is a production outage and a senior SRE needs to login to a production server to diagnose and fix the issue. In this organization, on-call SREs have elevated access to production systems, but when they are off-duty, their privileges are reduced. When the Pager Duty alert goes off, our on-call SRE ssh’s into the server but after several minutes of looking, can’t diagnose the issue. But she thinks a colleague might be able to. The colleague who she wants to help isn’t on call, so doesn’t have SSH access to the box.  Not a problem, she can use Teleport to request temporary elevated access through PagerDuty, Jira or another system which is then approved via the on-call SRE or other required approver and…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
         </author>
     </entry>
     <entry>
@@ -33528,6 +34214,17 @@ The post Sponge Genes Hint at the Origins of Neurons and Other Cells first appea
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DevOps Access Controls for CI/CD, GitOps, and More]]></title>
+        <id>https://goteleport.com/blog/devops-access-controls/</id>
+        <link href="https://goteleport.com/blog/devops-access-controls/"/>
+        <updated>2021-11-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Over the last few years, the term DevOps and DevSecOps (which stand for Developer Operations and Developer Security Operations respectively) have become synonymous with companies trying to become more agile and less monolithic.
+For decades, software development and IT operations have remained isolated silos in companies across the globe. So when companies need to launch new software products, large IT initiatives, update existing applications, etc. it would take weeks and months of planning and coordination between all these disparate groups. Then, during that deployment (which always seems to happen over a long weekend!), any number of issues could arise that might derail and set back the whole project. Ah! Back to the drawing board and re-planning for another release in a few weeks or mo…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hacking the Mekamon Robot To Add New Capabilities]]></title>
         <id>https://hackaday.com/?p=503864</id>
         <link href="https://hackaday.com/2021/11/03/hacking-the-mekamon-robot-to-add-new-capabilities/"/>
@@ -36028,6 +36725,17 @@ The post What 30 Years of Linux Taught the Software Industry appeared first on D
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ghosts of Past Employees]]></title>
+        <id>https://goteleport.com/blog/ghosts-of-past-employees/</id>
+        <link href="https://goteleport.com/blog/ghosts-of-past-employees/"/>
+        <updated>2021-10-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This blog post started as a seasonal message from our Newsletter. We’ve expanded it to be appropriate for the rest of the year. With more employees changing jobs in 2021 than ever before, there are likely to be a few skeletons in the closet.
+As we approach October 31st, I wanted to dig into the History of Halloween. How can we learn from practices of the past and save ourselves from the ghosts of the present? The origins of Halloween date back to the Celts celebrating the end of harvest as the cold dark winter approached. The Celts believed that on this night of the year, the boundary between the world of the living and dead became blurred. When ghosts of the dead return to earth. You’re likely thinking: why is Teleport making this segue to Halloween? Below is why access control has more i…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sticky Definition Lists]]></title>
         <id>https://css-tricks.com/?p=354777</id>
         <link href="https://css-tricks.com/sticky-definition-lists/"/>
@@ -38235,6 +38943,19 @@ The post How do we Bring APIs Into Decentralized Web3? appeared first on DevOps.
         <summary type="html"><![CDATA[When you're coding in React or any other tool, you might want or need to use a third-party library. Let's talk about an approach which will ensure that the third-party libraries you use will blend well with your application. As application developers, there's no need to reinvent the wheel every]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Engineer’s Perspective on Onboarding]]></title>
+        <id>https://goteleport.com/blog/engineer-secure-onboarding/</id>
+        <link href="https://goteleport.com/blog/engineer-secure-onboarding/"/>
+        <updated>2021-10-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Engineer onboarding: two perspectives
+Before I joined the security industry, I was an end user. Coming in with that first-hand experience equips me to talk about secure remote access from multiple perspectives: as a vendor and as a practitioner. This lets me see the technologies available and also understand the drivers and issues engineering orgs face adopting them, particularly with onboarding engineers.
+I’ve been a support engineer for over 20 years, across Operations and System & Database Administration. I’ve always found something very rewarding about helping people solve problems, which rings true for most people who decide to go into Technical Support.
+In this post, I’ll share my experience as an end user of the access plane tech, going into detail on the significant impact it had o…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
         </author>
     </entry>
     <entry>
@@ -40598,6 +41319,23 @@ The post Security is About People, not Technology appeared first on DevOps.com.]
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Running IT at a Hyper Growth Startup]]></title>
+        <id>https://goteleport.com/blog/modern-it-startup/</id>
+        <link href="https://goteleport.com/blog/modern-it-startup/"/>
+        <updated>2021-10-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[At Teleport we do IT a little differently — supporting a global remote company in hypergrowth is no easy feat and the playbook is different from traditional IT work. In this article, we want to share some of our IT philosophies that enable our employees to keep their agility despite working very asynchronously around the world.
+Tickets are the symptom not the cure
+Automation first
+Self-service over support
+Operate like a DevOps team
+Support career growth and internal mobility
+Tickets are the symptom not the cure
+IT teams often traditionally work as a responsive ticket-queue-based support organization for the technology needs of the company. However, this is a losing game. Reaching IT nirvana is not about clearing out a massive ticket queue; we never judge team members by the number of tick…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Top 6 Serial over Network utility]]></title>
         <id>https://hackernoon.com/the-top-6-serial-over-network-utility?source=rss</id>
         <link href="https://hackernoon.com/the-top-6-serial-over-network-utility?source=rss"/>
@@ -41672,6 +42410,30 @@ The post Terminate Process on a Port from Command Line appeared first on David W
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SSH Tunneling Explained]]></title>
+        <id>https://goteleport.com/blog/ssh-tunneling-explained/</id>
+        <link href="https://goteleport.com/blog/ssh-tunneling-explained/"/>
+        <updated>2021-10-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Although the typical use case of SSH is to access a remote server securely, you can also transfer files, forward local and remote ports, mount remote directories, redirect GUI, or even proxy arbitrary traffic (need I say SSH is awesome?). And this is just a small set of what’s possible with SSH.
+In this post, I’ll cover different tunneling features as supported by OpenSSH, which helps achieve security use cases such as remote web service access without exposing ports on the internet, accessing servers behind NAT, exposing local ports to the internet. OpenSSH is the most widely used open-source SSH server. It comes pre-installed by default with the vast majority of Linux distributions.
+If you are looking for a modern open-source alternative to OpenSSH that is optimized for elastic multi-clo…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build vs Buy for Start-ups]]></title>
+        <id>https://goteleport.com/blog/build-vs-buy/</id>
+        <link href="https://goteleport.com/blog/build-vs-buy/"/>
+        <updated>2021-10-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is the age-old question faced by so many tech teams: do we build or buy a system we need?
+TL:DR, Buying can save your engineer time for building the core stack and for the fun experiments needed to determine when to shake up the core stack.
+As the IT Director at Teleport, I help review every vendor decision. As we have transitioned from a scrappy open source startup to a hyper-growth SaaS company, our priorities have started to shift from quickly deploying lots of free open source software ourselves to buying robust SaaS software to keep our agility and deal with ever-growing scalability, security and compliance burdens. The temptation to build our own systems remains, but when is it the right option to build? In this article, we’ll share an overview of the benefits and drawbacks of b…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CSS accent-color]]></title>
         <id>https://davidwalsh.name/?p=27475</id>
         <link href="https://davidwalsh.name/css-accent-color"/>
@@ -41680,6 +42442,28 @@ The post Terminate Process on a Port from Command Line appeared first on David W
 The post CSS accent-color appeared first on David Walsh Blog.]]></summary>
         <author>
             <name>David Walsh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Low Latency Identity-aware Access Proxy in Multiple Regions]]></title>
+        <id>https://goteleport.com/blog/access-proxy-latency/</id>
+        <link href="https://goteleport.com/blog/access-proxy-latency/"/>
+        <updated>2021-10-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Latency problem
+A multi-protocol access proxy is a powerful concept for securing access to
+infrastructure. But accessing numerous computing resources distributed across
+the globe via a single endpoint presents a latency challenge.
+Today we are announcing that the hosted edition of Teleport Access Plane is now
+available in 5 regions all over the world. In this blog post we’ll tell you how
+we’ve built it and it should be helpful for anyone working on a globally
+distributed SaaS system if latency is a concern.
+A bit of history
+When our team set out to build a hosted version of Teleport, we had to make
+trade-offs to launch a production-grade product quickly. One of these trade-offs
+was to deploy Teleport solely in the US West. This allowed us to launch early,
+work with our earliest customers t…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
         </author>
     </entry>
     <entry>
@@ -41704,6 +42488,23 @@ The post How to Create a UUID in JavaScript appeared first on David Walsh Blog.]
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[So You Want to Become a Sales Engineer?]]></title>
+        <id>https://goteleport.com/blog/become-sales-engineer/</id>
+        <link href="https://goteleport.com/blog/become-sales-engineer/"/>
+        <updated>2021-09-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Those of us that work with technology get this question a lot:
+“What do you do?”
+“I work in technology — more specifically, I work as a pre-sales engineer.”
+[blank stare]
+Sound familiar?
+Working in IT can mean a lot of different things, and to those outside of this world, it quickly becomes deeply technical and complicated to explain to non-IT people. Even explaining what you do to IT people can become complicated.
+Most IT professionals are used to titles and jobs that fit within the developer/programmer world, the security professional, the sysadmin/Site Reliability Engineering (SRE) role, etc. But when you mention Sales Engineering or Pre-Sales Engineering you will often get a blank stare.
+What is the mystery behind this career path, and how do you get here? I’m going to take some time a…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A Content Model Is Not a Design System]]></title>
         <id>https://alistapart.com/article/a-content-model-is-not-a-design-system/</id>
         <link href="https://alistapart.com/article/a-content-model-is-not-a-design-system/"/>
@@ -41715,6 +42516,18 @@ But how do you set up a content management system (CMS) to reach your audience n
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Do We Still Need a Bastion?]]></title>
+        <id>https://goteleport.com/blog/do-we-still-need-a-bastion/</id>
+        <link href="https://goteleport.com/blog/do-we-still-need-a-bastion/"/>
+        <updated>2021-09-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR - Yes! Bastions are still the recommended solution to manage secure remote access to cloud infrastructures.
+
+There is a growing discussion among network engineers, DevOps teams, and security professionals about the security benefits of bastions. Many assume that they are the “old way” of network access and have little relevance in the modern cloud native stack. These speculations are not irrelevant as in recent years, the corporate IT network perimeter as we knew it is diminishing, and the concept has been shifted to data, identity, and compute perimeter. Software-defined networking solutions have overtaken hardware firewall boxes, and the requirement of managing bare metal servers has shifted to container deployed or even serverless applications. Where do bastions fit in these scena…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AggregateError]]></title>
         <id>https://davidwalsh.name/?p=27469</id>
         <link href="https://davidwalsh.name/aggregateerror"/>
@@ -41723,6 +42536,18 @@ But how do you set up a content management system (CMS) to reach your audience n
 The post AggregateError appeared first on David Walsh Blog.]]></summary>
         <author>
             <name>David Walsh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anatomy of a Cloud Infrastructure Attack via a Pull Request]]></title>
+        <id>https://goteleport.com/blog/hack-via-pull-request/</id>
+        <link href="https://goteleport.com/blog/hack-via-pull-request/"/>
+        <updated>2021-09-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In April 2021, I discovered an attack vector that could allow a malicious Pull Request to a Github repository to gain access to our production environment. Open source companies like us, or anyone else who accepts external contributions, are especially vulnerable to this.
+For the eager, the attack works by pivoting from a Kubernetes worker pod to the node itself, and from there exfiltrating credentials from the CI/CD system. Critically, this vulnerability exposed production AWS credentials that could be used to alter release artifacts and access production infrastructure.
+Once discovered, we immediately fixed our CI system to prevent this attack from occurring. Our response team’s analysis found no evidence this vulnerability was exploited or any data was tampered with. Even so, we encoura…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
         </author>
     </entry>
     <entry>
@@ -41776,6 +42601,17 @@ The post AggregateError appeared first on David Walsh Blog.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Security Incident Containment with Teleport Session and Identity Locking]]></title>
+        <id>https://goteleport.com/blog/security-incident-containment-with-teleport/</id>
+        <link href="https://goteleport.com/blog/security-incident-containment-with-teleport/"/>
+        <updated>2021-09-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What would you do when a security incident is detected? Shut down the servers? Pull out the power cord from the data center? When an incident is detected, both the incident method and the time required to contain an incident are essential to limit the damage. The slower you are to react, the more damage an incident would incur. And a service downtime to contain an incident can cost businesses even more than a security incident itself.
+There have been advances in Security Orchestration, Automation, and Response (SOAR) platforms and Automated Incident Response tools that offer incident-specific playbooks and response automation tools for easy and systematic incident containment. However, their capabilities depend on containment features and automation API (or CLI tools) offered by infrastruc…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Thinking on ways to solve ​​SPLIT BUTTONS]]></title>
         <id>https://web.dev/shows/gui-challenges/Qcpru-fIgwk/</id>
         <link href="https://web.dev/shows/gui-challenges/Qcpru-fIgwk/"/>
@@ -41817,6 +42653,45 @@ Subscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://go
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Expert Advice on Starting a Career in Cybersecurity]]></title>
+        <id>https://goteleport.com/blog/cybersecurity-career/</id>
+        <link href="https://goteleport.com/blog/cybersecurity-career/"/>
+        <updated>2021-09-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you have what it takes to become a cybersecurity expert? We interviewed 3 security professionals to find out how they got their start and what advice they would give to someone starting their career in cybersecurity.
+With security threats increasing, much of business continuity has come to rely on data security. In particular, engineering teams building cloud software rely on access to an ever-growing number of computing resources. Security professionals — on their part — view new computing resources as increased attack surface area. The need for security professionals adept at interfacing with engineers and DevOps teams is high, but what does it actually take to become a security expert?
+Security is an incredibly multifaceted field, and the path that security professionals take to get …]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Secure Access to Cloud Infrastructure is Painful]]></title>
+        <id>https://goteleport.com/blog/secure-infrastructure-access/</id>
+        <link href="https://goteleport.com/blog/secure-infrastructure-access/"/>
+        <updated>2021-09-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Can you enumerate every single network socket which can be used to hack into your cloud environment and steal your data?
+When counting, are you including the laptops of people who already authenticated and have access? The purpose of opening with this question is not to instill fear. Trying to answer it probably leads to “it’s complicated” and the complexity of access is what this article will cover.
+Complexity is our collective enemy in the computing industry. Complex systems are admired, yet they are hard to reason about, hard to secure, and let’s not forget — often unpleasant to use. Below, I will try offering a simple framework for how to think about secure infrastructure access, about its complexity, and a possible solution.
+You are reading this on a web site of the Acces…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to HSM - Hardware Security Modules]]></title>
+        <id>https://goteleport.com/blog/what-is-hsm/</id>
+        <link href="https://goteleport.com/blog/what-is-hsm/"/>
+        <updated>2021-08-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What is an HSM?
+HSM stands for hardware security module. HSMs are hardware devices. They can be quite small and plugged into the main board of a computer, or they sit side by side in a server rack. They store sensitive data such as private keys. HSMs do not allow you to read that sensitive data back; instead, they expose only cryptographic operations like signing of certificates or encrypting data. This provides stronger protections for storing private keys compared to disks or databases. Even if an attacker gains remote access to a computer system with an HSM, they will not be able to read a private key.
+These security benefits are often used in regulatory regimes, like FIPS and PCI for highly sensitive environments.
+With the upcoming release of Teleport 7.2, our team will be adding suppo…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Luau Recap: August 2021]]></title>
         <id>https://luau-lang.org/2021/08/31/luau-recap-august-2021.html</id>
         <link href="https://luau-lang.org/2021/08/31/luau-recap-august-2021.html"/>
@@ -41851,6 +42726,18 @@ When you are designing for …]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Using Datalog to Test for Access]]></title>
+        <id>https://goteleport.com/blog/testing-access-datalog/</id>
+        <link href="https://goteleport.com/blog/testing-access-datalog/"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+This summer, I was fortunate enough to get an internship at Teleport. Being part of the co-op program at the University of Waterloo, I have worked at many different companies before, and this internship will be my fourth placement as I finish my first term of the third year. The project that I was assigned to was an interesting one.
+For some background, Teleport is an Access Plane that unifies access to SSH servers, Kubernetes clusters, web applications and databases across multiple environments. Teleport provides a Role-Based Access Control (RBAC) system that allows cluster administrators to allow or deny access to specific cluster resources such as SSH nodes, applications, databases, etc., based on the assigned labels. This system is similar to other cloud-based providers li…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[React usePrevious Hook]]></title>
         <id>https://davidwalsh.name/?p=27459</id>
         <link href="https://davidwalsh.name/react-useprevious-hook"/>
@@ -41859,6 +42746,93 @@ When you are designing for …]]></summary>
 The post React usePrevious Hook appeared first on David Walsh Blog.]]></summary>
         <author>
             <name>David Walsh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Okta Directory Security Hardening using Terraform]]></title>
+        <id>https://goteleport.com/blog/okta-terraform/</id>
+        <link href="https://goteleport.com/blog/okta-terraform/"/>
+        <updated>2021-08-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article I will show how to secure your Okta directory so it’s ready to grant access to servers and other highly sensitive resources.  There are 4 levels of Okta directory system security maturity we will walk through how to implement.
+Okta Security Maturity Model
+Level 0: Securing Authentication with Strong MFA
+Level 1: Creating permission-based Directory Groups
+Level 2: Writing role/attribute-based Group Rules
+Level 3: Creating Custom Least Privilege Admin Roles
+Level 4: SIEM Integration, Alerting on Changes Outside Terraform
+Introduction
+Identity aware authentication has been a massive improvement for SaaS application security; Single Sign on portals have become the standard for organizations because they improve both security and the user experience.
+Now organizations are extend…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Makes Teleport a Great Place to Work]]></title>
+        <id>https://goteleport.com/blog/teleport-a-great-place-to-work/</id>
+        <link href="https://goteleport.com/blog/teleport-a-great-place-to-work/"/>
+        <updated>2021-08-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[August has been a great month for Teleport. Our Series B round of funding, led by Kleiner Perkins, plus the arrival of secure MongoDB access with Teleport 7.0 is cause enough for celebration. In addition, Teleport has been officially Certified™ by Great Place to Work ®. This prestigious certification is based entirely on feedback from current employees;  this year, an incredible 100% of our team members told us we are a great place to work. This is compared to 59% of employees at a typical U.S.-based company. This is a huge achievement for our team, and reflects the time, focus, and resources we put towards our employees.
+What does it mean to be certified as a great place to work?
+Great Place to Work® is the global authority on workplace culture, employee experience, and the leadership beh…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teleport 7.0 Brings Identity-Based Access to MongoDB]]></title>
+        <id>https://goteleport.com/blog/secure-access-mongodb/</id>
+        <link href="https://goteleport.com/blog/secure-access-mongodb/"/>
+        <updated>2021-08-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MongoDB users — if you have multiple databases across several computing
+environments — this announcement of Teleport 7.0 is for you!
+This release comes on the heels of our recent funding news, and reinforces our
+goal to empower engineers and security professionals to unify access to
+computing resources.
+Teleport 7.0
+The highlight of this release is the MongoDB support. MongoDB users can now
+consolidate access to all of their databases in one place, making it more
+convenient but also ensuring industry best practices for secure access. What do
+these industry best practices look like? Regardless of the protocol, consider
+the following:
+Moving away from shared or static credentials to identity-based
+authentication using certificates issued daily via SSO with MFA
+Moving away from perimeter-base…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teleport Raises $30MM Series B and Expands its Access Plane Technology with MongoDB Support]]></title>
+        <id>https://goteleport.com/blog/series-b/</id>
+        <link href="https://goteleport.com/blog/series-b/"/>
+        <updated>2021-08-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Teleport, the Access Plane company, is announcing today that it has secured $30M
+in Series B funding. The company also released its latest version of its
+offering, Teleport 7.0 – introducing identity-based access for MongoDB.
+This funding round is led by S28 Capital and Kleiner Perkins and follows the
+company’s record-breaking quarter, with net new annual recurring revenue up 5x
+and total annual recurring revenue up 2.5x, compared to the second quarter of
+2020.
+“Since partnering with Teleport at Series A, we have watched them emerge as the
+leader in remote infrastructure access, while earning the trust of some of the
+largest and most security-conscious companies in the industry”, - said Bucky
+Moore, partner at Kleiner Perkins. “This made our decision to double down and
+lead their Series B …]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Startup Security Team: Advice from Security Experts]]></title>
+        <id>https://goteleport.com/blog/how-to-build-a-startup-security-team/</id>
+        <link href="https://goteleport.com/blog/how-to-build-a-startup-security-team/"/>
+        <updated>2021-08-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With the rise of security threats comes an increased need for strong security measures, but it’s hard to know where to invest your time and money, especially if you’re a small startup. Who should own security when you first get started? Is it worth it to hire a Chief Security Officer (CSO) right away? Is it better to build out an internal security team or hire an external agency instead?
+To help answer these questions, Ben Arent, one of our Developer Relations Engineers, sat down with two security experts to get their take. His conversations with Donnie Hasseltine (CSO at Xenon Partner and CEO at TeamPassword) and Luca Carettoni (co-founder of Doyensec) have provided insight into how teams can start building a strong security posture early on, even with limited bandwidth and resources.
+Whe…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
         </author>
     </entry>
     <entry>
@@ -41904,6 +42878,20 @@ Subscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://go
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Achieving SOC2 Compliance for Teleport Cloud with Teleport On-Prem]]></title>
+        <id>https://goteleport.com/blog/teleport-cloud-soc2-compliance/</id>
+        <link href="https://goteleport.com/blog/teleport-cloud-soc2-compliance/"/>
+        <updated>2021-08-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Teleport has been instrumental in helping our clients achieve difficult security and compliance requirements, and today we are proud to announce that our Cloud offering is now SOC2 Type II compliant.
+Last year our on-premises product was SOC2 Type II certified, and we published an overview on our blog helping explain what SOC2 is and why it has become table stakes for B2B SaaS companies.
+In this blog post, we would like to share how Teleport helped us get SOC2 compliant (we use it internally of course) and how you can achieve the same at your organization to make both developers and corporate security professionals happy.
+Teleport not only helps make securing access to your servers, Kubernetes clusters, web applications, and databases easier but also makes audits go much smoot…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Set a Default Node Version with nvm]]></title>
         <id>https://davidwalsh.name/?p=27454</id>
         <link href="https://davidwalsh.name/nvm-default-node"/>
@@ -41934,6 +42922,18 @@ This shift in the benchmark had profound effects; the world now knew that the fo
         <summary type="html"><![CDATA[For @JeromeHardaway, teaching in public on GitHub minimizes the point of entry for giving back, reinforces what you know, and improves your communication skills.]]></summary>
         <author>
             <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes API Access Security Hardening.]]></title>
+        <id>https://goteleport.com/blog/kubernetes-api-access-security/</id>
+        <link href="https://goteleport.com/blog/kubernetes-api-access-security/"/>
+        <updated>2021-08-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In a Kubernetes cluster, Control Plane controls Nodes, Nodes control Pods, Pods control containers, and containers control applications. But what controls the Control Plane?
+Kubernetes exposes APIs that let you configure the entire Kubernetes cluster management lifecycle. Thus, securing access to the Kubernetes API is one of the most security-sensitive aspects to consider when considering Kubernetes security. Even the recently published Kubernetes hardening guide by NSA also suggests to “Use strong authentication and authorization to limit user and administrator access as well as to limit the attack surface” as one of the essential security measures to consider while securing the Kubernetes cluster.
+This post primarily focuses on recipes and best practices concerning API access control har…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
         </author>
     </entry>
     <entry>
@@ -41979,6 +42979,29 @@ Computers have trouble because between spoken and written language, speech is mo
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Securing Access to Your MongoDB Database]]></title>
+        <id>https://goteleport.com/blog/securing-mongodb/</id>
+        <link href="https://goteleport.com/blog/securing-mongodb/"/>
+        <updated>2021-07-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+MongoDB is one of the most popular open-source databases. Unfortunately, this
+also means ubiquity of misconfigured and unsecured MongoDB deployments out in
+the wild. Just in recent years, we’ve seen several hacks involving thousands
+of MongoDB databases left exposed online without any protection, making them
+ripe for the hacker’s picking.
+It doesn’t have to be this way, though. There are many steps you can take to
+keep your MongoDB data safe — from protecting the network perimeter to using
+strong transport security to taking advantage of MongoDB’s advanced user
+management and role-based access control (RBAC) system.
+In this article, we will go over some of the most common ways to securing your
+MongoDB cluster.
+Change default port
+Let’s start with something simple. Just like an…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How open source maintainers keep contributors—and themselves—happy]]></title>
         <id>https://github.com/readme/featured/contributor-relations</id>
         <link href="https://github.com/readme/featured/contributor-relations"/>
@@ -41986,6 +43009,18 @@ Computers have trouble because between spoken and written language, speech is mo
         <summary type="html"><![CDATA[Get up to speed on one of the hottest topics in open source: contributor relations.]]></summary>
         <author>
             <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preventing Data Exfiltration with eBPF]]></title>
+        <id>https://goteleport.com/blog/preventing-data-exfiltration-with-ebpf/</id>
+        <link href="https://goteleport.com/blog/preventing-data-exfiltration-with-ebpf/"/>
+        <updated>2021-07-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The need for data exfiltration prevention
+To keep your business secure, it is important not only to keep the hackers from getting in but also to keep your data from getting out. Even if a malicious actor gains access to the server, for example via an SSH session, it is vital to keep the data from being exfiltrated to an unauthorized location, such as IP addresses not under your organization’s control. In considering a solution to protect against data exfiltration, it is critical to note that one policy does not fit all.
+Consider a service invoking webhooks. It will be running with limited data access but must be able to communicate with the entire Internet. Contrast that to an SSH session that’s been opened for troubleshooting purposes.  It will have access to the entire machine but does n…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
         </author>
     </entry>
     <entry>
@@ -42066,6 +43101,20 @@ Subscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://go
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RBAC and ABAC with AWS IAM]]></title>
+        <id>https://goteleport.com/blog/rbac-and-abac-with-aws-iam/</id>
+        <link href="https://goteleport.com/blog/rbac-and-abac-with-aws-iam/"/>
+        <updated>2021-07-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is a guest blog post from Shuo Yang in his blog series “Transitioning to Programming the Cloud”, as a part of our blog posts focusing on Identity, Security and Access.
+We talked about how AWS CIP, STS and IAM can serve as the foundation of application authorization in our last post, i.e., how the application gets the temporary credential representing a specific role (i.e. privileges) to access the resources of the applications — an architecture understanding how different building blocks work together under the hood.
+Now, we need to strategize how we actually build the authorization mechanism. When talking about application authorizations, we often encounter two concepts RBAC (role-based access control) and ABAC (attribute-based access control).
+RBAC: what is it?
+With role-based acces…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Fix Seeing “0” in Your JSX Code]]></title>
         <id>https://davidwalsh.name/?p=27444</id>
         <link href="https://davidwalsh.name/fix-your-jsx"/>
@@ -42099,6 +43148,18 @@ Design critique is not a one-shot process. Sure, any good feedback workflow cont
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Securing Access to Production MySQL Databases.]]></title>
+        <id>https://goteleport.com/blog/securing-access-to-production-mysql-databases/</id>
+        <link href="https://goteleport.com/blog/securing-access-to-production-mysql-databases/"/>
+        <updated>2021-06-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MySQL brands itself as the world’s most popular open source database. As popular as MySQL database is among developers and SQL enthusiasts, it is equally popular amongst hackers. Misconfigured server access, overprivileged roles, and weak authentication schemes are the most common security issues in  MySQL database. While access control features provided by MySQL are adequate enough at the SQL level, it is error-prone to manage access at the operational level. This post aims to give you a brief overview of securing access to production MySQL databases.
+We have categorized this post under topics as similar to how a malicious user can compromise the production database:
+Exploiting server security weakness (vulnerability in OS, vulnerable server components, insecure installation, weak connect…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Luau Recap: June 2021]]></title>
         <id>https://luau-lang.org/2021/06/30/luau-recap-june-2021.html</id>
         <link href="https://luau-lang.org/2021/06/30/luau-recap-june-2021.html"/>
@@ -42117,6 +43178,41 @@ Design critique is not a one-shot process. Sure, any good feedback workflow cont
 The post How to Upload a File via SSH and Command Line appeared first on David Walsh Blog.]]></summary>
         <author>
             <name>David Walsh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teleport has been named a Cool Vendor in Gartner's Identity-First Security report]]></title>
+        <id>https://goteleport.com/blog/gartner-cool-vendor/</id>
+        <link href="https://goteleport.com/blog/gartner-cool-vendor/"/>
+        <updated>2021-06-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today we are happy to announce that Teleport has been included as a Cool Vendor
+in Gartner Cool Vendors in Identity-First Security report.
+“We believe Teleport’s inclusion in the Identity-First Security Report by
+Gartner is confirmation that Teleport solves a huge problem of accessing
+cloud-native resources that traditional PAM tools did not,” said Ev Kontsevoy,
+co-founder and CEO of Teleport. “Our approach of leveraging user identity
+natively on the protocol level enables us to resolve the inherent conflict
+between productivity and security, so both engineers and security professionals
+can be happy.”
+According to the Gartner full report, “digital transformation and the
+increasing reliance on remote business continue to accelerate the adoption of
+new IAM technologies designed to meet busin…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How does AWS IAM role, STS and Identity Pool work with each other.]]></title>
+        <id>https://goteleport.com/blog/aws-iam-role-sts-and-identity-pool/</id>
+        <link href="https://goteleport.com/blog/aws-iam-role-sts-and-identity-pool/"/>
+        <updated>2021-06-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is a guest blog post from Shuo Yang in his blog series “Transitioning to Programming the Cloud”, as a part of our blog posts focusing on Identity, Security and Access.
+We talked about IAM in the past 3 posts, identities in IAM, manage users privilege as an IT person and control privilege boundaries:
+These are IAM topics that are probably trivial to security professionals, but we hope we gave enough ideas to a small startup which does not have full time security professionals yet.
+We also talked about how applications use AWS Cognito Identity Pool to get AWS temporary credentials to access AWS resources in early posts of “What I wish I could have learned before starting using AWS Cognito” and “Authentication and authorization with AWS Amplify under the hood”:
+Application engineers like…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
         </author>
     </entry>
     <entry>
@@ -42139,6 +43235,18 @@ Feedback is also one of the most underestimated tools, and often by assuming tha
 Practicing our skills is surely a good way to improve, but the learning gets even faster when it’s paired with a good foundation that channels and focuses the practice. What are some foundational…]]></summary>
         <author>
             <name>by</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS IAM in layman's terms]]></title>
+        <id>https://goteleport.com/blog/aws-iam-in-laymans-terms/</id>
+        <link href="https://goteleport.com/blog/aws-iam-in-laymans-terms/"/>
+        <updated>2021-06-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is a guest blog post from Shuo Yang in his blog series “Transitioning to Programming the Cloud”, as a part of our blog posts focusing on Identity, Security and Access.
+We alluded in one of our previous posts that the development team will own a lot of responsibility defining application-related resource access control, simply because the dev team owns the infrastructure as code (IaC) responsibility themselves.
+No matter how security-savvy and security-educated a development team is, the central security team still needs some control, some kind of “trust but verify”. In this post, we briefly talk about leveraging the right type of AWS IAM policy mechanisms to build the responsibility separation between the “central” team and the individual “development” team. Here central and individua…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
         </author>
     </entry>
     <entry>
@@ -42207,6 +43315,44 @@ Subscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://go
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Teleport 6.2]]></title>
+        <id>https://goteleport.com/blog/teleport-6-2/</id>
+        <link href="https://goteleport.com/blog/teleport-6-2/"/>
+        <updated>2021-05-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The team recently released Teleport 6.2. This post will walk you through some of the new features and additions included in this release.
+Quickly jump to these sections:
+6.2 - Application Access
+6.2 - Server Access
+6.2 - Database Access
+6.2 - Kubernetes Access
+Application Access
+We’ve made iterative improvements to Application Access. This release focus is on connecting to other applications.
+Pass-through header support
+We’ve added pass-through header support. Pass-through is a common way of accessing tools and is supported by Splunk, Jenkins, Grafana. This can be configured by rewriting the headers on a per-app basis.
+app_service:
+  enabled: "yes"
+  apps:
+  - name: "dumper"
+    description: "Header dumper"
+    uri: http://localhost:4321
+    public_addr: dumper-root.gravitational.io
+    re…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securing Open Source Infrastructure]]></title>
+        <id>https://goteleport.com/blog/securing-oss-infrastructure/</id>
+        <link href="https://goteleport.com/blog/securing-oss-infrastructure/"/>
+        <updated>2021-05-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Open Source software provides the community source code that anyone can inspect, modify, and enhance. OSS is so ubiquitous that it’s even on other planets. This post is for the people who run these projects.
+When you think of OSS projects, you might think the requirements are simple. All you need are contributors and a git repository. OSS Projects are seeing increased attacks, from supply chain attacks to account takeovers. Teleport can be used to secure hosted CI/CD systems, protect monitoring dashboards and secure databases, servers and Kubernetes clusters. As contributors come and go, you no longer have to worry about cleaning up access. Teleport integrates with GitHub and GitLab teams to quickly provide access. Once new contributors are added, you can rest assured that all actions are …]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[That’s Not My Burnout]]></title>
         <id>https://alistapart.com/article/thats-not-my-burnout/</id>
         <link href="https://alistapart.com/article/thats-not-my-burnout/"/>
@@ -42236,6 +43382,27 @@ Imagine a woman determined to do it all. She has two amazing children whom she, 
         <summary type="html"><![CDATA[React isn’t a framework. It’s an entire ecosystem at the heart of countless custom frameworks.]]></summary>
         <author>
             <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Access Requests for Infrastructure]]></title>
+        <id>https://goteleport.com/blog/access-requests/</id>
+        <link href="https://goteleport.com/blog/access-requests/"/>
+        <updated>2021-05-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Making frequent changes to cloud applications running in production is the
+de-facto standard. To minimize errors, engineers use CI/CD automation,
+techniques like code reviews, green-blue deployments and others.
+Git pull requests often serve as a foundational component for triggering code
+reviews, Slack notifications, and subsequent automation such as testing and
+deployments. This automated process enforces peer reviews and creates enough
+visibility to minimize human error. Pull requests work quite well.
+But what happens when a production PostgreSQL database, some SSH nodes, or a
+certain Kubernetes cluster needs troubleshooting? Unfortunately, quite often an
+engineer will just access those resources using a shared credential, without a
+formalized approval process, increasing po…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
         </author>
     </entry>
     <entry>
@@ -42281,6 +43448,18 @@ Subscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://go
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Teleport Cloud in 2021: Security Audit Results]]></title>
+        <id>https://goteleport.com/blog/teleport-cloud-security-audit/</id>
+        <link href="https://goteleport.com/blog/teleport-cloud-security-audit/"/>
+        <updated>2021-05-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This year we launched Teleport Cloud, a new service for providing a hosted version of Teleport Access Plane. One of the first problems the team had to tackle was how to secure the new infrastructure properly, and the team wanted to ensure the best possible results by engaging in an independent audit.
+As with the Teleport core product, we engaged with Doyensec to provide an independent security audit of our production environment. At Teleport, we believe independent auditors offer the best insight into where we are weak. In addition, Doyensec has demonstrated that their teams’ skill and attention to detail in attacking our infrastructure are unmatched.
+The audit occurred between January 11th and January 29th before we officially launched to customers in March. Therefore, some of the finding…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Beware the Cut ‘n’ Paste Persona]]></title>
         <id>https://alistapart.com/article/beware-the-cut-n-paste-persona/</id>
         <link href="https://alistapart.com/article/beware-the-cut-n-paste-persona/"/>
@@ -42301,6 +43480,29 @@ But strangely enough, designers use personas to inspire their design for the rea
         <summary type="html"><![CDATA[When Monica Powell was learning React, all the developer meetups were big and intimidating. She created @ReactJSLadies—and continues to nurture more intimate, creative spaces for others.]]></summary>
         <author>
             <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secure Session Transfer Between Web Apps on Different Domains]]></title>
+        <id>https://goteleport.com/blog/web-session-sharing-transfer/</id>
+        <link href="https://goteleport.com/blog/web-session-sharing-transfer/"/>
+        <updated>2021-05-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The need for cross-origin web sessions
+Writing a web application that supports securely logging into a website and
+managing your credentials is a surprisingly difficult task. You have to develop
+a way to manage sessions, understand how browsers store state (cookies), learn
+a cryptographically safe password storing technique (like bcrypt), all the
+while making sure you mitigate common web security vulnerabilities like
+XSS and
+CSRF.
+Even after you’ve implemented all of the above, you’ll still only be logged
+into a single application at a single domain, like example.org.
+What if you are running multiple applications under different domains and you
+want to transfer your session state to another domain, like example.com or
+acme.com, how do you implement it in a simple and secure way?
+You need t…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
         </author>
     </entry>
     <entry>
@@ -42403,6 +43605,27 @@ Subscribe to Google Chrome Developers  → https://goo.gle/GUIchallengeshttps://
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What I Wish I Knew About U2F and Other Hardware MFA Protocols]]></title>
+        <id>https://goteleport.com/blog/u2f-lessons-learned/</id>
+        <link href="https://goteleport.com/blog/u2f-lessons-learned/"/>
+        <updated>2021-04-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Teleport has supported multi-factor authentication (MFA) for a while now, via
+Authenticator Apps (TOTP) and Hardware Tokens (U2F) such as YubiKeys. But this
+support was pretty limited: you could only choose one MFA protocol and users
+could only register one device. If a user lost their device, they would be
+locked out and need an account reset by the administrator.
+So, for Teleport 6.0, we’ve reimplemented the MFA support to make it more
+flexible. You can now enable both TOTP and U2F, and each user can have as many
+devices registered as they please. If you lose your U2F key but still have a
+TOTP app registered, you can log back in and replace your lost U2F key. No need
+to nag the cluster admin.
+While working on this, I had the pleasure of learning about this exciting world
+of hardware MFA …]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Open Source on Mars: Community powers NASA’s Ingenuity Helicopter]]></title>
         <id>https://github.com/readme/featured/nasa-ingenuity-helicopter</id>
         <link href="https://github.com/readme/featured/nasa-ingenuity-helicopter"/>
@@ -42425,6 +43648,105 @@ Get his full story on the ReadME Project:]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How SAML 2.0 Authentication Works?]]></title>
+        <id>https://goteleport.com/blog/how-saml-authentication-works/</id>
+        <link href="https://goteleport.com/blog/how-saml-authentication-works/"/>
+        <updated>2021-04-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This article was originally published on July 29th, 2019.
+What is SAML 2.0?
+Security Assertion Markup Language (SAML) 2.0 is one of the most widely used open standard for authentication and authorizing between multiple parties. It’s one of the protocol that give users the single sign-on (SSO) experience for applications. The other adopted open standard is OAuth and OpenID. Of the two, SAML 2.0, released in 2005, remains the 800 pound gorilla in Enterprise SSO space. This post provides a detailed introduction on how SAML works
+At its core, Security Assertion Markup Language (SAML) 2.0 is a means to
+exchange authorization and authentication information between services. SAML is
+frequently used to implement internal corporate single sign-on (SSO) solutions
+where the user logs into a service t…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teleport in 2021: Security Audit Results]]></title>
+        <id>https://goteleport.com/blog/security-audit-2021/</id>
+        <link href="https://goteleport.com/blog/security-audit-2021/"/>
+        <updated>2021-04-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We now live in an era where the security of all layers of the software stack is
+immensely important, and simply open-sourcing a code base is not enough to
+ensure that security vulnerabilities surface and are addressed. At Teleport, we
+see it as a necessity to engage a third party that specializes in acting as an
+adversary, and provide an independent analysis of our sources.
+In 2021, we have continued to engage with Doyensec,
+an independent security research and development company, to provide a thorough
+independent analysis of Teleport. Here is the full report for
+Teleport.
+You can find all of our security audits here.
+Teleport Security Audit Results
+As we mentioned in the Teleport 5.2.1 release notes, the most
+serious issues found related to Teleport Application Access and Trusted
+Cluster…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://goteleport.com/blog/comparing-ssh-keys/</id>
+        <link href="https://goteleport.com/blog/comparing-ssh-keys/"/>
+        <updated>2021-04-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This blog post was originally released on 08/26/20.
+
+ 
+
+What’s worse than an unsafe private key? An unsafe public key.
+The “secure” in secure shell comes from the combination of hashing, symmetric encryption, and asymmetric encryption. Together, SSH uses cryptographic primitives to safely connect clients and servers. In the 25 years since its founding, computing power and speeds in accordance with Moore’s Law have necessitated increasingly complicated low-level algorithms. This article will focus on asymmetric keygen algorithms.
+As of 2020, the most widely adopted algorithms are RSA, DSA, ECDSA, and EdDSA, but it is RSA and EdDSA that provide the best security and performance.
+Encryption Within the SSH Protocol
+SSH is used almost universally to connect to shells on remote machines. The mos…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securing Your PostgreSQL Database]]></title>
+        <id>https://goteleport.com/blog/securing-postgres-postgresql/</id>
+        <link href="https://goteleport.com/blog/securing-postgres-postgresql/"/>
+        <updated>2021-04-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+Databases are the Holy Grail for hackers, and as such, must be protected
+with utmost care. This is the first in a series of articles in which we’ll give
+an overview of best practices for securing your databases. We’re starting with
+one of the most popular open-source databases, PostgreSQL, and will go over
+several levels of security you’d need to think about:
+Network-level security
+Transport-level security
+Database-level security
+Network-Level Security for PostgreSQL
+Firewalls
+In the ideal world, your PostgreSQL server would be completely isolated and not
+allow any inbound connections, SSH or psql. Unfortunately, this sort of
+air-gapped setup is not something PostgreSQL supports out-of-the-box.
+The next best thing you can do to improve the security of your database server
+is t…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up an SSH Jump Server]]></title>
+        <id>https://goteleport.com/blog/ssh-jump-server/</id>
+        <link href="https://goteleport.com/blog/ssh-jump-server/"/>
+        <updated>2021-03-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This blog post has been updated as of 03/30/2021.
+Introduction
+In this blog post we’ll cover how to set up an SSH jump server. We’ll cover two open source projects.
+A traditional SSH jump server using OpenSSH. The advantage of this method is that your servers already have OpenSSH pre-installed.
+A modern approach using Teleport, a newer open source alternative to OpenSSH.
+Both of these servers are easy to install and configure, are free and open-source, and are single-binary Linux daemons.
+What is an SSH Jump Server?
+An SSH jump server is a regular Linux server, accessible from the Internet, which is used as a gateway to access other Linux machines on a private network using the SSH protocol. Sometimes an SSH jump server is also called a “jump host” or a “bastion host”. The purpose of an SS…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Luau Recap: March 2021]]></title>
         <id>https://luau-lang.org/2021/03/29/luau-recap-march-2021.html</id>
         <link href="https://luau-lang.org/2021/03/29/luau-recap-march-2021.html"/>
@@ -42443,6 +43765,41 @@ Get his full story on the ReadME Project:]]></summary>
 Can you take a guess at which expert we want working on our team? If you said Expert 2, you’d be right. They’re a developer focused on delivering readable code—lines of JavaScript others can understand and maintain. Someone who can make the complex simple. But “readable” is rarely definitive—in fact, it’s largely based on the eyes of the beholder. So where does that lea…]]></summary>
         <author>
             <name>by</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSRF Attack Examples and Mitigations]]></title>
+        <id>https://goteleport.com/blog/ssrf-attacks/</id>
+        <link href="https://goteleport.com/blog/ssrf-attacks/"/>
+        <updated>2021-03-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Server-Side Request Forgery (SSRF) is an attack that can be used to make your application issue arbitrary HTTP requests. SSRF is used by attackers to proxy requests from services exposed on the internet to un-exposed internal endpoints. SSRF is a hacker reverse proxy. These arbitrary requests often target internal network endpoints to perform anything from reconnaissance to complete account takeover. SSRF, along with XSS and CSRF, are some of the most serious web security vulnerabilities due to pervasiveness and impact.
+What is SSRF?
+Upon first glance, adding the ability to issue a HTTP request from your application does not appear to be the type of feature that would require a security review. However, any time you allow a user to control the target of an HTTP request, an attacker can use…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSRF Attack Examples and Mitigations]]></title>
+        <id>https://goteleport.com/blog/csrf-attacks/</id>
+        <link href="https://goteleport.com/blog/csrf-attacks/"/>
+        <updated>2021-03-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What is a CSRF Attack?
+Cross-Site Request Forgery (CSRF) attacks allow an attacker to forge and submit
+requests as a logged-in user to a web application. CSRF exploits the fact that
+HTML elements send ambient credentials (like cookies) with requests, even
+cross-origin.
+Like XSS, to launch a CSRF attack the attacker has to convince the victim to
+either click on or navigate to a link. Unlike XSS, CSRF only allows an attacker
+to make requests to the victim’s origin and does not give the attacker code
+execution within that origin. This does not mean CSRF attacks are any less
+important to defend against. As we’ll see in the examples, CSRF can be as
+dangerous as XSS.
+Background of CSRF
+The web originated as a platform to view static documents. Interactivity was
+added fairly early with the additi…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
         </author>
     </entry>
     <entry>
@@ -42518,6 +43875,33 @@ What you decide to do with requests you intercept is a) your call and b) depends
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Teleport 6.0 Brings Identity-Aware Access to Databases Behind NAT]]></title>
+        <id>https://goteleport.com/blog/introducing-database-access/</id>
+        <link href="https://goteleport.com/blog/introducing-database-access/"/>
+        <updated>2021-03-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you have PostgreSQL or MySQL databases running behind NAT in multiple environments,
+this release of Teleport is worth downloading and playing with.
+In this release, we added support for the PostgreSQL and MySQL wire protocols, so now Teleport
+users get the following streamlined workflow:
+Authenticate with their identities via single sign-on (SSO) and multi-factor.
+List and see all database instances running somewhere behind NAT, including
+AWS RDS or Aurora.
+Get instant access to them using CLI tools like psql, mysql, or Web UIs.
+Meanwhile, Teleport ensures industry best practices for:
+Consolidating management of access requests
+Implementing role-based access controls
+Preventing data exfiltration
+Improving visibility into user behavior
+Auditing all activity
+
+
+
+All of this works across yo…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How Python is building a welcoming community for women]]></title>
         <id>https://github.com/readme/featured/women-in-tech-python</id>
         <link href="https://github.com/readme/featured/women-in-tech-python"/>
@@ -42564,6 +43948,18 @@ Get the full story on The ReadME Project:]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Teleport Compared to AWS SSM Session Manager]]></title>
+        <id>https://goteleport.com/blog/teleport-vs-aws-session-manager/</id>
+        <link href="https://goteleport.com/blog/teleport-vs-aws-session-manager/"/>
+        <updated>2021-03-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What is AWS SSM Session Manager?
+Amazon’s AWS Systems Manager, better known as SSM to long-time AWS users, was announced at the end of 2017, replacing the similarly named EC2 Systems Manager that had launched a year prior. Similar to other AWS products, System Manager provides a broad spectrum of features instead of a focused and opinionated product.
+SSM’s capabilities revolve around managing bare operating-system level details that would otherwise be inaccessible from Amazon’s ever-expanding and all-encompassing aws CLI and API control plane layer. It has grown into having its own dedicated interface within the Amazon AWS console and its underlying system-level agent has been released under an open source software license on Github. Amazon has touted SSM as a general-purpose devops tool -…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Get a Dysfunctional Team Back on Track]]></title>
         <id>https://alistapart.com/article/dysfunctional-teams-back-on-track/</id>
         <link href="https://alistapart.com/article/dysfunctional-teams-back-on-track/"/>
@@ -42586,6 +43982,26 @@ The first thing to understand is that you’re not the only person to ever encou
         <summary type="html"><![CDATA[An 80s baby who grew up in Alaska as one of five children, Kathy is no stranger to challenges and always puts her users first, from Google to GitHub.]]></summary>
         <author>
             <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Search of a Perfect Access Control System]]></title>
+        <id>https://goteleport.com/blog/access-controls/</id>
+        <link href="https://goteleport.com/blog/access-controls/"/>
+        <updated>2021-03-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Evergreen Challenge
+Every cloud has its own identity and access management system. AWS and Google use a bunch
+of JSON files specifying various rules. Open source projects like Kubernetes support
+three concurrent access control models - attribute-based, role-based and
+a webhook access control, all expressed using YAML. Some teams are going as far as
+inventing their own programming language to solve this evergreen problem.
+As many engineers before us, we faced the challenge of choosing the
+design and the tooling from the kaleidoscope of JSON, YAML and custom languages
+for our own software’s access controls. Which system is the best, and can there be one language to rule them all?
+What are the properties of a good access control system, and what mistakes of the past should we avoid?
+Time Shar…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
         </author>
     </entry>
     <entry>
@@ -42631,6 +44047,24 @@ But a new WebSockets-driven approach is catching web developers’ attention. On
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[XSS Attack Examples and Mitigations]]></title>
+        <id>https://goteleport.com/blog/xss-attacks/</id>
+        <link href="https://goteleport.com/blog/xss-attacks/"/>
+        <updated>2021-02-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What is an XSS Attack?
+Cross-site scripting (XSS) is an attack that allows JavaScript from one site to
+run on another. XSS is interesting not due to the technical difficulty of the
+attack but rather because it exploits some of the core security mechanisms of
+web browsers and because of its sheer pervasiveness. Understanding XSS and its
+mitigations provides substantial insight into how the web works and how sites
+are safely (and unsafely) isolated from each other.
+Background of XSS Attacks
+Initially the web was a collection of static HTML documents that the browser would render for users to view. As the web grew, demands for richer documents grew, which led to the development of JavaScript and cookies: JavaScript to make documents interactive and cookies to allow browsers to save the state …]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Designing Inclusive Content Models]]></title>
         <id>https://alistapart.com/article/designing-inclusive-content-models/</id>
         <link href="https://alistapart.com/article/designing-inclusive-content-models/"/>
@@ -42649,6 +44083,25 @@ Regardless of the details of Moses’s parkway project, it’s a particularly me
         <summary type="html"><![CDATA[Black voices bring much needed context to our data-driven society. Black communities are working together to democratize data and make the field more inclusive.]]></summary>
         <author>
             <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSH Certificates Security]]></title>
+        <id>https://goteleport.com/blog/ssh-certificates/</id>
+        <link href="https://goteleport.com/blog/ssh-certificates/"/>
+        <updated>2021-02-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SSH Access Hardening
+SSH certificates, when deployed properly, improve security.
+A half-baked access system using certs is more vulnerable than a public-key-based one if a user or host gets hacked.
+SSH is hard. Our team learned this at Rackspace, a large managed hosting and cloud provider.
+We started with deploying public keys to every server. We added a jump server with a second factor login to prevent
+hacks using stolen keys. Soon, infosec team asked us to log into a web portal to match SSH logins with emails.
+Evolution does not produce the most efficient result, and our system did not turn out great either.
+We were missing keys on some servers and found stale keys on others.
+No one liked login screens popping up multiple times a day.
+We received only one one-time password token, and som…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
         </author>
     </entry>
     <entry>
@@ -42713,6 +44166,17 @@ This article boils down the methods I’ve put into practice convinc…]]></summ
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SaaS Design Principles with Kubernetes]]></title>
+        <id>https://goteleport.com/blog/saas-design-kubernetes/</id>
+        <link href="https://goteleport.com/blog/saas-design-kubernetes/"/>
+        <updated>2021-02-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It seems like nowadays, every company is a SaaS company. We’ve even begun stratifying by what is sold, replacing the “software” in SaaS to whatever the product’s core competency is, search-as-a-service, chat-as-a-service, video-as-a-service. So, when we, at Teleport, set sail for the cloud after years of successfully navigating on-prem software, we came in with a different set of experiences.
+Turns out, porting a tool designed to be self-hosted to something hosted isn’t as simple as pulling our build image from quay.io. Well, in a way it is, but what I mean is that the SaaS route poses a different series of design challenges than on-prem. The product is the same, but not how users interface with it. This post explores how we deployed Teleport Cloud on Kubernetes, deliberately designing for…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[My differences are my superpowers]]></title>
         <id>https://github.com/readme/stories/angie-jones</id>
         <link href="https://github.com/readme/stories/angie-jones"/>
@@ -42754,6 +44218,49 @@ Subscribe to Google Chrome Developers  → http://goo.gl/LLLNvf
 #GUIChallenges #GUIsubmissions]]></summary>
         <author>
             <name>GUI Challenges on web.dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to SSH Properly]]></title>
+        <id>https://goteleport.com/blog/how-to-ssh-properly/</id>
+        <link href="https://goteleport.com/blog/how-to-ssh-properly/"/>
+        <updated>2021-01-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This blog post has been updated as of 01/25/2021.
+SSH Best Practices
+There’s no denying that SSH is the de facto tool for *nix server administration.
+It’s far from perfect, but it was designed with security in mind and there’s
+been a huge amount of tooling written over the years to make it easier to use.
+In addition, many popular products and just about every server deployment
+system integrates with SSH somehow. It is universally supported across pretty
+much all architectures and distributions, from Raspberry Pis all the way up to
+massive supercomputer clusters.
+SSH is a powerful tool which often grants a lot of access to anyone using it to
+log into a server. In this post, I’m going to talk about a few different ways
+that you can easily improve the security of your SSH model without needin…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microservices, Containers and Kubernetes in 10 minutes]]></title>
+        <id>https://goteleport.com/blog/microservices-containers-kubernetes/</id>
+        <link href="https://goteleport.com/blog/microservices-containers-kubernetes/"/>
+        <updated>2021-01-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This blog post has been updated as of 01/25/2021.
+What is a Microservice?
+What is a microservice? Should you be using microservices? How are
+microservices related to containers and Kubernetes? If these things keep coming
+up in your day-to-day and you need an overview in 10 minutes, this blog post is
+for you.
+Fundamentally, a microservice is just a computer program which runs on a server
+or a virtual computing instance and responds to network requests.
+How is this different from a typical Rails/Django/Node.js application? It is
+not different at all. In fact, you may discover that you already have a dozen
+of microservices deployed at your organization. There are not any new magical
+technologies that qualify your application to be called a microservice. A
+microservice is not defined by how it…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
         </author>
     </entry>
 </feed>
