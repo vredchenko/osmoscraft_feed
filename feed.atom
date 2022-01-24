@@ -2,10 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2022-01-23T01:09:55.466Z</updated>
+    <updated>2022-01-24T01:10:24.783Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hackaday Links: January 23, 2022]]></title>
+        <id>https://hackaday.com/?p=516290&amp;preview=true&amp;preview_id=516290</id>
+        <link href="https://hackaday.com/2022/01/23/hackaday-links-january-23-2022/"/>
+        <updated>2022-01-24T00:00:41.000Z</updated>
+        <summary type="html"><![CDATA[When Tonga’s Hunga-Tonga Hunga-Ha’apai volcano erupted on January 15, one hacker in the UK knew just what to do. Sandy Macdonald from York quickly cobbled together a Raspberry Pi and …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is That The Moon Worming Its Way Into Your BIOS?]]></title>
+        <id>https://hackaday.com/?p=516656</id>
+        <link href="https://hackaday.com/2022/01/23/is-that-the-moon-worming-its-way-into-your-bios/"/>
+        <updated>2022-01-23T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When facing a malware situation, the usual “guaranteed solution” is to reinstall your OS. The new developments in malware world will also require you to have a CH341 programmer handy. …read more]]></summary>
+        <author>
+            <name>Arsenijs Picugins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Display Your Speech In Realtime To Help Lipreaders In The Mask Era]]></title>
+        <id>https://hackaday.com/?p=516699</id>
+        <link href="https://hackaday.com/2022/01/23/display-your-speech-in-realtime-to-help-lipreaders-in-the-mask-era/"/>
+        <updated>2022-01-23T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Masks are all well and good when it comes to reducing the spread of deadly pathogens, but they can make it harder to understand people when they speak. They also …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – MinMax Algorithm in Game Tree (Game Theory, Tic Tac Toe)]]></title>
+        <id>https://helloacm.com/?p=148671</id>
+        <link href="https://helloacm.com/teaching-kids-programming-minmax-algorithm-in-game-tree-game-theory-tic-tac-toe/"/>
+        <updated>2022-01-23T17:17:13.000Z</updated>
+        <summary type="html"><![CDATA[Teaching Kids Programming: Videos on Data Structures and Algorithms The total number of possible game states in a Tic-Tac-Toe is 3^9 which is 19683, so small that we can bruteforce using computer....
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Printed Circuit Bird Family Calls For Us To Consider Analog]]></title>
+        <id>https://hackaday.com/?p=516638</id>
+        <link href="https://hackaday.com/2022/01/23/printed-circuit-bird-family-calls-for-us-to-consider-analog/"/>
+        <updated>2022-01-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On our favourite low-attention-span content site, [Kelly Heaton] has recently started sharing a series of “Printed Circuit Birds”. These are PCBs shaped like birds, looking like birds and chirping like …read more]]></summary>
+        <author>
+            <name>Arsenijs Picugins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cables Too Long? Try Cable Management Via DIY Coiling]]></title>
+        <id>https://hackaday.com/?p=516841</id>
+        <link href="https://hackaday.com/2022/01/23/cables-too-long-try-cable-management-via-diy-coiling/"/>
+        <updated>2022-01-23T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Annoyed by excessively-long cables? Tired of the dull drudgery and ugly results of bunching up the slack and wrapping it with a twist-tie? Suffer no longer, because the solution is …read more]]></summary>
+        <author>
+            <name>Donald Papp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web-Centric Gabuino Has Compiler, Will Travel]]></title>
+        <id>https://hackaday.com/?p=516826</id>
+        <link href="https://hackaday.com/2022/01/23/web-centric-gabuino-has-compiler-will-travel/"/>
+        <updated>2022-01-23T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Arguably the biggest advantage of the Arduino platform is its ease of use, especially when compared to what microcontroller development looked like before the introduction of the open source board …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Printing in Silicone]]></title>
+        <id>https://hackaday.com/?p=516668</id>
+        <link href="https://hackaday.com/2022/01/22/printing-in-silicone/"/>
+        <updated>2022-01-23T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When you think of making something out of silicone, you usually think of using a mold and injecting it with the material. Can you 3D print it? [Kimberly Beckett] answers …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zhengbang Pick & Places Your Confidential Data In The Bag, Slowly]]></title>
         <id>https://hackaday.com/?p=516657</id>
@@ -14,6 +97,36 @@
         <summary type="html"><![CDATA[Isn’t it convenient when your pick-and-place machine arrives with a fully-set-up computer inside of it? Plug in a keyboard, mouse and a monitor, and you have a production line ready …read more]]></summary>
         <author>
             <name>Arsenijs Picugins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Might Digital Marketing Look in 2030?]]></title>
+        <id>https://hackernoon.com/how-might-digital-marketing-look-in-2030?source=rss</id>
+        <link href="https://hackernoon.com/how-might-digital-marketing-look-in-2030?source=rss"/>
+        <updated>2022-01-22T22:29:19.000Z</updated>
+        <summary type="html"><![CDATA[AI and machine learning are two technologies that are transforming just about everything. Here's how they will disrupt marketing within the next 10 years.]]></summary>
+        <author>
+            <name>Elay Romanov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Latest Improvements in Vuetensils 0.10]]></title>
+        <id>https://hackernoon.com/the-latest-improvements-in-vuetensils-010?source=rss</id>
+        <link href="https://hackernoon.com/the-latest-improvements-in-vuetensils-010?source=rss"/>
+        <updated>2022-01-22T22:25:10.000Z</updated>
+        <summary type="html"><![CDATA[I’ve recently published the latest version of Vuetensils and wanted to take some time to share some of the features I’m most excited about.]]></summary>
+        <author>
+            <name>Austin Gil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Series A Startup Guide to Outsourcing Software Engineers in 2022]]></title>
+        <id>https://hackernoon.com/series-a-startup-guide-to-outsourcing-software-engineers-in-2022?source=rss</id>
+        <link href="https://hackernoon.com/series-a-startup-guide-to-outsourcing-software-engineers-in-2022?source=rss"/>
+        <updated>2022-01-22T21:17:20.000Z</updated>
+        <summary type="html"><![CDATA[Best practices of outsourcing software and outstaffing engineers in 2022]]></summary>
+        <author>
+            <name>Oleg</name>
         </author>
     </entry>
     <entry>
@@ -60,6 +173,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Animate 3D Models for Free Using your Webcam and Plask.ai]]></title>
+        <id>https://hackernoon.com/how-to-animate-3d-models-for-free-using-your-webcam-and-plaskai?source=rss</id>
+        <link href="https://hackernoon.com/how-to-animate-3d-models-for-free-using-your-webcam-and-plaskai?source=rss"/>
+        <updated>2022-01-22T14:26:30.000Z</updated>
+        <summary type="html"><![CDATA[Plask.ai is a free web app and service that can record you moving around using your webcam and convert it to an animated humanoid skeleton, which can be used to]]></summary>
+        <author>
+            <name>RichardJohnn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When To Go Serverless?]]></title>
+        <id>https://hackernoon.com/when-to-go-serverless?source=rss</id>
+        <link href="https://hackernoon.com/when-to-go-serverless?source=rss"/>
+        <updated>2022-01-22T14:04:44.000Z</updated>
+        <summary type="html"><![CDATA[It's hard to decide whether to go serverless or not. This article covers what is serverless in the first place and the pros & cons.]]></summary>
+        <author>
+            <name>Amr Hassan</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Online Tool Turns STLs into 3D ASCII Art]]></title>
         <id>https://hackaday.com/?p=516578</id>
         <link href="https://hackaday.com/2022/01/22/online-tool-turns-stls-into-3d-ascii-art/"/>
@@ -80,6 +213,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Start Investing in NFTs: For Complete Beginners]]></title>
+        <id>https://hackernoon.com/how-to-start-investing-in-nfts-for-complete-beginners?source=rss</id>
+        <link href="https://hackernoon.com/how-to-start-investing-in-nfts-for-complete-beginners?source=rss"/>
+        <updated>2022-01-22T07:45:22.000Z</updated>
+        <summary type="html"><![CDATA[How does investing in NFTs work? This guide will cover all you need to know to get started.]]></summary>
+        <author>
+            <name>Adam Fard</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sending Pics To Grandma, No Smartphone Needed]]></title>
         <id>https://hackaday.com/?p=516698</id>
         <link href="https://hackaday.com/2022/01/21/sending-pics-to-grandma-no-smartphone-needed/"/>
@@ -87,6 +230,26 @@
         <summary type="html"><![CDATA[When it comes to keeping in touch with the grandparents, a lack of familiarity with modern technology can get in the way. [palmerabollo] wanted to share photos with his grandmother, …read more]]></summary>
         <author>
             <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Voting for Startups Ends Next Week!]]></title>
+        <id>https://hackernoon.com/voting-for-startups-ends-next-week?source=rss</id>
+        <link href="https://hackernoon.com/voting-for-startups-ends-next-week?source=rss"/>
+        <updated>2022-01-22T02:39:30.000Z</updated>
+        <summary type="html"><![CDATA[Voting for BOTH Noonies and Startups for 2021 will end next week.]]></summary>
+        <author>
+            <name>Startups</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Noonies Voting Ends Next Week!]]></title>
+        <id>https://hackernoon.com/noonies-voting-ends-next-week?source=rss</id>
+        <link href="https://hackernoon.com/noonies-voting-ends-next-week?source=rss"/>
+        <updated>2022-01-22T02:13:44.000Z</updated>
+        <summary type="html"><![CDATA[Voting for BOTH Noonies and Startups for 2021 will end next week.]]></summary>
+        <author>
+            <name>Noonies 2021</name>
         </author>
     </entry>
     <entry>
@@ -1106,6 +1269,16 @@ Tags: birth]]></summary>
         <summary type="html"><![CDATA[Interested in crypto jobs? Understand the market and learn the 15 best ways you can find opportunities]]></summary>
         <author>
             <name>Request</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 Best IDO Launchpads in 2022]]></title>
+        <id>https://hackernoon.com/12-best-ido-launchpads-in-2022?source=rss</id>
+        <link href="https://hackernoon.com/12-best-ido-launchpads-in-2022?source=rss"/>
+        <updated>2022-01-20T08:27:12.000Z</updated>
+        <summary type="html"><![CDATA[IDO launchpads have a pivotal place in the cryptocurrency and blockchain space.]]></summary>
+        <author>
+            <name>Stephen Ray</name>
         </author>
     </entry>
     <entry>
