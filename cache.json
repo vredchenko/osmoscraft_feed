@@ -715,24 +715,6 @@
           "publishedOn": "2021-02-09T00:00:00.000Z",
           "wordCount": 2102,
           "title": "SaaS Design Principles with Kubernetes"
-        },
-        {
-          "id": "https://goteleport.com/blog/how-to-ssh-properly/",
-          "author": null,
-          "description": "This blog post has been updated as of 01/25/2021.\nSSH Best Practices\nThere’s no denying that SSH is the de facto tool for *nix server administration.\nIt’s far from perfect, but it was designed with security in mind and there’s\nbeen a huge amount of tooling written over the years to make it easier to use.\nIn addition, many popular products and just about every server deployment\nsystem integrates with SSH somehow. It is universally supported across pretty\nmuch all architectures and distributions, from Raspberry Pis all the way up to\nmassive supercomputer clusters.\nSSH is a powerful tool which often grants a lot of access to anyone using it to\nlog into a server. In this post, I’m going to talk about a few different ways\nthat you can easily improve the security of your SSH model without needin…",
-          "link": "https://goteleport.com/blog/how-to-ssh-properly/",
-          "publishedOn": "2021-01-25T00:00:00.000Z",
-          "wordCount": 3944,
-          "title": "How to SSH Properly"
-        },
-        {
-          "id": "https://goteleport.com/blog/microservices-containers-kubernetes/",
-          "author": null,
-          "description": "This blog post has been updated as of 01/25/2021.\nWhat is a Microservice?\nWhat is a microservice? Should you be using microservices? How are\nmicroservices related to containers and Kubernetes? If these things keep coming\nup in your day-to-day and you need an overview in 10 minutes, this blog post is\nfor you.\nFundamentally, a microservice is just a computer program which runs on a server\nor a virtual computing instance and responds to network requests.\nHow is this different from a typical Rails/Django/Node.js application? It is\nnot different at all. In fact, you may discover that you already have a dozen\nof microservices deployed at your organization. There are not any new magical\ntechnologies that qualify your application to be called a microservice. A\nmicroservice is not defined by how it…",
-          "link": "https://goteleport.com/blog/microservices-containers-kubernetes/",
-          "publishedOn": "2021-01-25T00:00:00.000Z",
-          "wordCount": 2712,
-          "title": "Microservices, Containers and Kubernetes in 10 minutes"
         }
       ]
     },
@@ -741,6 +723,42 @@
       "feedUrl": "https://www.i-programmer.info/index.php?option=com_ninjarsssyndicator&feed_id=3&format=raw",
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
+        {
+          "id": "http://www.i-programmer.info/programming/javascript/15167-javascript-jems-why-javascript-is-a-jem.html",
+          "author": null,
+          "description": "JavaScript should not be judged as if it was a poor version of the other popular languages - it isn't a Java or a C++ clone. It does things its own way. This is an extract from JavaScript Jems: The Amazing Parts.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/programming/javascript/15167-javascript-jems-why-javascript-is-a-jem.html",
+          "publishedOn": "2022-01-24T18:17:20.000Z",
+          "wordCount": 1323,
+          "title": "JavaScript Jems - Why JavaScript Is A Jem"
+        },
+        {
+          "id": "http://www.i-programmer.info/news/90-tools/15165-take-github-actions-course-for-free.html",
+          "author": null,
+          "description": "A beginner-friendly, and free, course to help you take your first steps as a DevOps engineer is available as a series of YouTube videos.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/90-tools/15165-take-github-actions-course-for-free.html",
+          "publishedOn": "2022-01-24T15:11:01.000Z",
+          "wordCount": 964,
+          "title": "Take GitHub Actions Course For Free"
+        },
+        {
+          "id": "http://www.i-programmer.info/book-watch-archive/15164-powerful-command-line-applications-in-go-pragmatic-programmer.html",
+          "author": null,
+          "description": "This book looks at writing Go command-line tools to automate tasks, analyze data, parse logs, talk to network services, or address other systems requirements. Ricardo Gerardi shows how to create command-line tools that work with files, connect to services, and even manage external processes, all while using tests and benchmarks to ensure your programs are fast and correct.\n\r\n<ASIN:168050696X>\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/book-watch-archive/15164-powerful-command-line-applications-in-go-pragmatic-programmer.html",
+          "publishedOn": "2022-01-24T15:08:55.000Z",
+          "wordCount": 456,
+          "title": "Powerful Command-Line Applications in Go (Pragmatic Programmer)"
+        },
+        {
+          "id": "http://www.i-programmer.info/news/84-database/15166-cockroachdb-strengthens-change-data-capture.html",
+          "author": null,
+          "description": "CockroachDB has been updated with improvements including stronger support for distributed Change Data Capture (CDC), new SQL syntax support and better monitoring of query performance.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/84-database/15166-cockroachdb-strengthens-change-data-capture.html",
+          "publishedOn": "2022-01-24T00:00:00.000Z",
+          "wordCount": 630,
+          "title": "CockroachDB Strengthens Change Data Capture"
+        },
         {
           "id": "http://www.i-programmer.info/news/169-robotics/15163-robots-cater-for-olympic-athletes.html",
           "author": null,
@@ -1313,6 +1331,15 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=360811",
+          "author": "Melanie Sumner",
+          "description": "You know that joke, “Two front-end developers walk into a bar and find they have nothing in common”? It’s funny, yet frustrating, because it’s true.\nThis article will present three different perspectives on accessibility in web design and development. Three …\nWhy Don’t Developers Take Accessibility Seriously? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/why-dont-developers-take-accessibility-seriously/",
+          "publishedOn": "2022-01-24T14:49:18.000Z",
+          "wordCount": 2759,
+          "title": "Why Don’t Developers Take Accessibility Seriously?"
+        },
         {
           "id": "https://css-tricks.com/?p=360346",
           "author": "Chris Coyier",
@@ -3219,6 +3246,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61e92726183181284a191e75",
+          "author": null,
+          "description": "Temporal Dead Zone and Hoisting are two essential terms in JavaScript. But understanding how they work can easily confuse you if you don't approach them properly. But don't fret! This article is here to help you get a good grasp of the two terms. So relax, grab your favorite cup",
+          "link": "https://www.freecodecamp.org/news/javascript-temporal-dead-zone-and-hoisting-explained/",
+          "publishedOn": "2022-01-24T23:10:03.000Z",
+          "wordCount": 1768,
+          "title": "Temporal Dead Zone (TDZ) and Hoisting in JavaScript – Explained with Examples"
+        },
+        {
+          "id": "61ebdebf011f8933034705af",
+          "author": null,
+          "description": "In this article you'll see how to use Python's .replace() method to perform substring substiution.  You'll also see how to perform case-insensitive substring substitution.  Let's get started!  What does the .replace() Python method do? When using the .replace() Python method, you are able to replace every instance of one specific",
+          "link": "https://www.freecodecamp.org/news/python-string-replace-function-in-python-for-substring-substitution/",
+          "publishedOn": "2022-01-24T16:59:25.000Z",
+          "wordCount": 1243,
+          "title": "Python String.Replace() – Function in Python for Substring Substitution"
+        },
+        {
+          "id": "61d543e4d2d9de084285c33d",
+          "author": null,
+          "description": "In this article, I'm going to show you 140 beginner friendly courses where you can learn computer science and programming for free. The freeCodeCamp courses are completely free and some of them include a free certification that you can add to your LinkedIn or résumé. Note that some of the",
+          "link": "https://www.freecodecamp.org/news/learn-programming-free-software-development-courses-for-beginners/",
+          "publishedOn": "2022-01-24T16:05:46.000Z",
+          "wordCount": 5128,
+          "title": "Learn Programming – Free Software Development Courses for Beginners"
+        },
         {
           "id": "61e3bb40b837d507ba0a3f30",
           "author": null,
@@ -6151,6 +6205,186 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/aaa-batteries?source=rss",
+          "author": "Top Tech Companies",
+          "description": "Having spare batteries around the house is always a good idea because you never know when you’ll need them. Here are the highest-rated AAA batteries.",
+          "link": "https://hackernoon.com/aaa-batteries?source=rss",
+          "publishedOn": "2022-01-24T08:57:36.000Z",
+          "wordCount": 45,
+          "title": "Power Up Your Devices with the Best AAA Batteries in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/best-webcam-for-streaming?source=rss",
+          "author": "Top Tech Companies",
+          "description": "Looking for a webcam that will make you look good on the screen? Say no more, check out our list of the top webcams for streaming this year.",
+          "link": "https://hackernoon.com/best-webcam-for-streaming?source=rss",
+          "publishedOn": "2022-01-24T08:52:07.000Z",
+          "wordCount": 45,
+          "title": "Look Your Best with The Best Webcam for Streaming in 2021"
+        },
+        {
+          "id": "https://hackernoon.com/3-black-women-of-the-20th-century-who-deserve-more-recognition?source=rss",
+          "author": "Anthony Watson",
+          "description": "Can you name them just from their photos?",
+          "link": "https://hackernoon.com/3-black-women-of-the-20th-century-who-deserve-more-recognition?source=rss",
+          "publishedOn": "2022-01-24T08:27:08.000Z",
+          "wordCount": 2391,
+          "title": "3 Black Women of the 20th Century Who Deserve More Recognition"
+        },
+        {
+          "id": "https://hackernoon.com/whats-on-your-2022-bucket-list?source=rss",
+          "author": "Sara Pinto",
+          "description": "With the new year starting, everyone is thinking about their goals for the year. Here's what the HN community had to say.",
+          "link": "https://hackernoon.com/whats-on-your-2022-bucket-list?source=rss",
+          "publishedOn": "2022-01-24T04:58:41.000Z",
+          "wordCount": 2008,
+          "title": "What's on your 2022 Bucket List?"
+        },
+        {
+          "id": "https://hackernoon.com/whats-the-most-pointless-technology-youve-come-across?source=rss",
+          "author": "Sara Pinto",
+          "description": "Our world is becoming more technological. In this slogging thread, the technology channel discussed the most pointless technology they've come across.",
+          "link": "https://hackernoon.com/whats-the-most-pointless-technology-youve-come-across?source=rss",
+          "publishedOn": "2022-01-24T04:55:37.000Z",
+          "wordCount": 2003,
+          "title": "What's the Most Pointless Technology You've Come Across?"
+        },
+        {
+          "id": "https://hackernoon.com/400-thought-provoking-software-engineering-quotes?source=rss",
+          "author": "Maximiliano Contieri",
+          "description": "The most complete curated collection of sofwtare and programming quotes",
+          "link": "https://hackernoon.com/400-thought-provoking-software-engineering-quotes?source=rss",
+          "publishedOn": "2022-01-24T04:50:09.000Z",
+          "wordCount": 13056,
+          "title": "400+ Thought-Provoking Software Engineering Quotes"
+        },
+        {
+          "id": "https://hackernoon.com/tech-career-stories-from-frontend-developer-to-principal-software-engineer?source=rss",
+          "author": "Daw-Chih Liou",
+          "description": "50+ books and resources that help me in my journey in tech.",
+          "link": "https://hackernoon.com/tech-career-stories-from-frontend-developer-to-principal-software-engineer?source=rss",
+          "publishedOn": "2022-01-24T04:48:19.000Z",
+          "wordCount": 2576,
+          "title": "Tech Career Stories: From Frontend Developer to Principal Software Engineer"
+        },
+        {
+          "id": "https://hackernoon.com/an-essential-guide-to-kubernetes-observability-challenges-with-pixie?source=rss",
+          "author": "Piotr",
+          "description": "Debugging on K8s is hard\nThe main reason that makes Kubernetes observability so difficult is the volatile and dynamic nature of workloads and resources.",
+          "link": "https://hackernoon.com/an-essential-guide-to-kubernetes-observability-challenges-with-pixie?source=rss",
+          "publishedOn": "2022-01-24T04:37:30.000Z",
+          "wordCount": 2290,
+          "title": "An Essential Guide to Kubernetes Observability Challenges with Pixie"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-implement-video-ads-in-react-native-apps?source=rss",
+          "author": "Christina Bharara",
+          "description": "A guide on how to add inline video ads to your react native iOS app",
+          "link": "https://hackernoon.com/how-to-implement-video-ads-in-react-native-apps?source=rss",
+          "publishedOn": "2022-01-24T04:33:55.000Z",
+          "wordCount": 2369,
+          "title": "How to Implement Video Ads in React Native Apps"
+        },
+        {
+          "id": "https://hackernoon.com/5-best-cloud-games-currently-available-on-nintendo-switch?source=rss",
+          "author": "Bryan Applegate",
+          "description": "Today, I'm gonna cover something that most people are not excited by: Cloud Gaming on Nintendo Switch.",
+          "link": "https://hackernoon.com/5-best-cloud-games-currently-available-on-nintendo-switch?source=rss",
+          "publishedOn": "2022-01-24T04:31:31.000Z",
+          "wordCount": 2737,
+          "title": "5 Best Cloud Games Currently Available on Nintendo Switch"
+        },
+        {
+          "id": "https://hackernoon.com/should-you-let-them-put-a-chip-in-your-brain?source=rss",
+          "author": "Edem Gold",
+          "description": "How Neuralink's Brain-Machine Interface works",
+          "link": "https://hackernoon.com/should-you-let-them-put-a-chip-in-your-brain?source=rss",
+          "publishedOn": "2022-01-24T04:13:17.000Z",
+          "wordCount": 2647,
+          "title": "Should You let them Put a Chip in Your Brain?"
+        },
+        {
+          "id": "https://hackernoon.com/towards-open-options-chains-part-ii-foundational-etl-code?source=rss",
+          "author": "Chris Chow",
+          "description": "In \"Towards Open Options Chains\", Chris Chow presents his solution for collecting options data: a data pipeline with Airflow, PostgreSQL, and Docker.",
+          "link": "https://hackernoon.com/towards-open-options-chains-part-ii-foundational-etl-code?source=rss",
+          "publishedOn": "2022-01-24T03:36:04.000Z",
+          "wordCount": 2641,
+          "title": "Towards Open Options Chains Part II: Foundational ETL Code"
+        },
+        {
+          "id": "https://hackernoon.com/introductory-guide-to-voice-technology-implementation?source=rss",
+          "author": "Tetiana Stoyko",
+          "description": "Discovering the possibilities of Voice Technology, by exploring its installation process. Here is revealed the needed code and screens for a successful setup.",
+          "link": "https://hackernoon.com/introductory-guide-to-voice-technology-implementation?source=rss",
+          "publishedOn": "2022-01-24T03:34:14.000Z",
+          "wordCount": 4212,
+          "title": "Introductory Guide to Voice Technology Implementation"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-solve-the-level-3-of-the-ethernaut-game?source=rss",
+          "author": "Kamil Polak",
+          "description": "In level 3 you have to play a game: coin flip. To complete this level you'll need to guess the correct outcome of a coin flip 10 times in a row",
+          "link": "https://hackernoon.com/how-to-solve-the-level-3-of-the-ethernaut-game?source=rss",
+          "publishedOn": "2022-01-24T03:29:52.000Z",
+          "wordCount": 1630,
+          "title": "How to Solve the Level 3 of the Ethernaut Game"
+        },
+        {
+          "id": "https://hackernoon.com/how-predictive-maintenance-can-quietly-transform-factory-operations?source=rss",
+          "author": "Arjun Chandar",
+          "description": "Predictive maintenance is one of the most funded uses of AI across all heavy industry sectors, from transportation to manufacturing and beyond. This is due to both its potential to improve budgeting and strategizing and reduce costs by providing an overview of the machinery that needs to be replaced.",
+          "link": "https://hackernoon.com/how-predictive-maintenance-can-quietly-transform-factory-operations?source=rss",
+          "publishedOn": "2022-01-24T03:26:12.000Z",
+          "wordCount": 2115,
+          "title": "How Predictive Maintenance Can Quietly Transform Factory Operations"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-keep-your-data-more-secure-in-2022?source=rss",
+          "author": "Louis Min",
+          "description": "Encrypting online data with Cryptomator before uploading to cloud storage services in 2022. How to protect sensitive online data with file encryption by Louis M",
+          "link": "https://hackernoon.com/how-to-keep-your-data-more-secure-in-2022?source=rss",
+          "publishedOn": "2022-01-24T03:06:17.000Z",
+          "wordCount": 1926,
+          "title": "How to Keep Your Data More Secure in 2022 🔒"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-get-a-stablecoin-loan-a-beginners-guide?source=rss",
+          "author": "Fringe Finance",
+          "description": "Review the criteria a project can use to choose a lending platform. Steps that users need to follow to take out a stablecoin loan.",
+          "link": "https://hackernoon.com/how-to-get-a-stablecoin-loan-a-beginners-guide?source=rss",
+          "publishedOn": "2022-01-24T02:54:30.000Z",
+          "wordCount": 1976,
+          "title": "How to Get a Stablecoin Loan: A Beginners Guide"
+        },
+        {
+          "id": "https://hackernoon.com/cloud-risk-management-with-resilient-patching?source=rss",
+          "author": "Araali Networks",
+          "description": "Resilient Patching is a robust framework to significantly reduce risk and increase cyber resilience for cloud-native applications.",
+          "link": "https://hackernoon.com/cloud-risk-management-with-resilient-patching?source=rss",
+          "publishedOn": "2022-01-24T02:41:13.000Z",
+          "wordCount": 1827,
+          "title": "Cloud Risk Management with Resilient Patching"
+        },
+        {
+          "id": "https://hackernoon.com/flutter-guide-to-building-apps-and-deploy-them-to-ios-without-mac?source=rss",
+          "author": "Codemagic CI/CD",
+          "description": "It's now possible to develop and distribute iOS apps without using macOS. Learn how to build ios apps on Linux.",
+          "link": "https://hackernoon.com/flutter-guide-to-building-apps-and-deploy-them-to-ios-without-mac?source=rss",
+          "publishedOn": "2022-01-24T02:33:19.000Z",
+          "wordCount": 2749,
+          "title": "Flutter Guide to Building Apps and Deploying them to iOS (without Mac)"
+        },
+        {
+          "id": "https://hackernoon.com/intro-guide-to-setting-up-a-custom-hashnode-blog-sub-domain-on-netlify?source=rss",
+          "author": "Martin Patino",
+          "description": "Is it possible to set up a custom subdomain with Hashnode? The answer is yes.",
+          "link": "https://hackernoon.com/intro-guide-to-setting-up-a-custom-hashnode-blog-sub-domain-on-netlify?source=rss",
+          "publishedOn": "2022-01-24T02:28:58.000Z",
+          "wordCount": 1449,
+          "title": "Intro Guide to Setting up a Custom Hashnode Blog Sub Domain on Netlify"
+        },
         {
           "id": "https://hackernoon.com/the-true-value-of-emeris-in-defi?source=rss",
           "author": "Cosmos - Internet of Blockchains",
@@ -19439,6 +19673,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=148689",
+          "author": "ACMer",
+          "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms Given the following Two MinMax Game Trees: We can discard the subtree x as we know the result doesn’t matter. For example,...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-alpha-beta-pruning-algorithm-game-theory/",
+          "publishedOn": "2022-01-24T21:53:09.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Alpha-Beta Pruning Algorithm (Game Theory)",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=148671",
           "author": "ACMer",
           "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms The total number of possible game states in a Tic-Tac-Toe is 3^9 which is 19683, so small that we can bruteforce using computer....\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -20395,6 +20639,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=516757",
+          "author": "Dave Rowntree",
+          "description": "The traditional Ethiopian Gojo is a circular domed dwelling constructed from a central vertical beam, and a surrounding structure of curved beams made from wood or bamboo. A covering of …read more",
+          "link": "https://hackaday.com/2022/01/24/rainwater-storing-gojo-is-a-stroke-of-genius/",
+          "publishedOn": "2022-01-25T00:00:23.000Z",
+          "wordCount": 1990,
+          "title": "Rainwater Storing Gojo Is A Stroke Of Genius"
+        },
+        {
+          "id": "https://hackaday.com/?p=516488",
+          "author": "Bryan Cockfield",
+          "description": "While it’s possible to make pizza from scratch at home right down to the dough itself, it’ll be a struggle to replicate the taste and exquisite mouthfeel without a pizza …read more",
+          "link": "https://hackaday.com/2022/01/24/portable-pizza-oven-has-temperature-level-over-900/",
+          "publishedOn": "2022-01-24T21:00:43.000Z",
+          "wordCount": 1840,
+          "title": "Portable Pizza Oven Has Temperature Level Over 900"
+        },
+        {
+          "id": "https://hackaday.com/?p=516642",
+          "author": "Arsenijs Picugins",
+          "description": "This is no ordinary heart-shaped PCB pendant project! To us, it’s also symbol representing the striking amount of love that [SaltyPaws] has put into its design and documentation. He tells …read more",
+          "link": "https://hackaday.com/2022/01/24/heart-shaped-heartwarming-valentines-day-pendant/",
+          "publishedOn": "2022-01-24T19:30:00.000Z",
+          "wordCount": 1093,
+          "title": "Heart-Shaped Heartwarming Valentine’s Day Pendant"
+        },
+        {
+          "id": "https://hackaday.com/?p=516317",
+          "author": "Kristina Panos",
+          "description": "We could all use a hug once in a while. Most people would probably say the shared warmth is nice, and the squishiness of another living, breathing meatbag is pretty …read more",
+          "link": "https://hackaday.com/2022/01/24/can-robots-give-good-hugs/",
+          "publishedOn": "2022-01-24T18:00:36.000Z",
+          "wordCount": 2115,
+          "title": "Can Robots Give Good Hugs?"
+        },
+        {
+          "id": "https://hackaday.com/?p=516343&preview=true&preview_id=516343",
+          "author": "Dan Maloney",
+          "description": "Join us on Wednesday, January 26 at noon Pacific for the Compliant Mechanisms Hack Chat with Amy Qian! When it comes to putting together complex mechanisms, we tend to think …read more",
+          "link": "https://hackaday.com/2022/01/24/compliant-mechanisms-hack-chat/",
+          "publishedOn": "2022-01-24T17:00:45.000Z",
+          "wordCount": 1198,
+          "title": "Compliant Mechanisms Hack Chat"
+        },
+        {
+          "id": "https://hackaday.com/?p=516819",
+          "author": "Donald Papp",
+          "description": "3D printers have come a long way from cranking out things like bottle openers and coat pegs, and [E. Soderberg]’s Print in Place Geared Hinge is a pretty nifty demonstration …read more",
+          "link": "https://hackaday.com/2022/01/24/one-piece-geared-hinge-can-take-the-weight/",
+          "publishedOn": "2022-01-24T16:00:00.000Z",
+          "wordCount": 2120,
+          "title": "One-piece Geared Hinge Can Take the Weight"
+        },
+        {
+          "id": "https://hackaday.com/?p=515851",
+          "author": "Lewin Day",
+          "description": "Photovoltaic solar panels are wonderful things, capable of capturing mere light and turning it into useful electricity. They’re often installed on residential and commercial rooftops for offsetting energy use at …read more",
+          "link": "https://hackaday.com/2022/01/24/floating-solar-farms-are-taking-the-worlds-reservoirs-by-storm/",
+          "publishedOn": "2022-01-24T15:00:43.000Z",
+          "wordCount": 3411,
+          "title": "Floating Solar Farms Are Taking The World’s Reservoirs By Storm"
+        },
         {
           "id": "https://hackaday.com/?p=516527",
           "author": "Dave Rowntree",
@@ -26865,6 +27172,46 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "B690AFCB-8F0A-4679-9093CAF2A5C97562",
+          "author": "Jean Chemnick, Hannah Northey, Sean Reilly, E&E News",
+          "description": "The Environmental Protection Agency is looking at achieving greenhouse gas emissions reductions by targeting other pollutants\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-biden-could-close-coal-plants-without-carbon-regulations/",
+          "publishedOn": "2022-01-24T19:00:00.000Z",
+          "wordCount": null,
+          "title": "How Biden Could Close Coal Plants without Carbon Regulations",
+          "itunes": {}
+        },
+        {
+          "id": "655597B2-AFAC-4D36-8C42B94C89AE2CEB",
+          "author": "Karen Pinchin",
+          "description": "Indigenous communities along Alaska’s coast are developing scientific networks to test shellfish for toxins because the state is not doing so\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/these-shellfish-could-kill-you/",
+          "publishedOn": "2022-01-24T16:00:00.000Z",
+          "wordCount": null,
+          "title": "These Shellfish Could Kill You",
+          "itunes": {}
+        },
+        {
+          "id": "7E4A8038-F6D0-4134-814B3D1B5A7F0C39",
+          "author": "The Editors",
+          "description": "Lessons about racial injustice help students understand reality\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/teaching-about-racism-is-essential-for-education/",
+          "publishedOn": "2022-01-24T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Teaching about Racism Is Essential for Education",
+          "itunes": {}
+        },
+        {
+          "id": "E40EFADF-4A58-4F6A-914A4985BA74277C",
+          "author": "Katie Peek",
+          "description": "The country’s audacious predator-eradication drive gains ground\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/track-new-zealands-bid-to-take-back-nature/",
+          "publishedOn": "2022-01-24T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Track New Zealand's Bid to Take Back Nature",
+          "itunes": {}
+        },
+        {
           "id": "F11B96BB-9AA3-460A-AE2A6C00454DD4CA",
           "author": "John Fialka, E&E News",
           "description": "Once deemed too expensive, triple-pane windows could help reduce emissions by improving energy efficiency\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -32286,6 +32633,15 @@
           "title": "Embracing Security by Design in Development"
         },
         {
+          "id": "https://devops.com/?p=149344",
+          "author": "ROELBOB",
+          "description": "The post Modern Morals appeared first on DevOps.com.",
+          "link": "https://devops.com/modern-morals/",
+          "publishedOn": "2022-01-24T07:00:49.000Z",
+          "wordCount": 434,
+          "title": "Modern Morals"
+        },
+        {
           "id": "https://devops.com/?p=149303",
           "author": "Mike Vizard",
           "description": "CircleCI has added a free unlimited access tier to its continuous integration/continuous delivery (CI/CD) platform. Jim Rose, CircleCI CEO, said in contrast to other ‘freemium’ offerings, CircleCI’s free tier provides developers and DevOps teams with frictionless access to all the premium capabilities of the platform. Those capabilities include up to 6,000 build minutes per month, […]\nThe post CircleCI Adds Free Unlimited Access Tier to CI/CD Service appeared first on DevOps.com.",
@@ -34777,6 +35133,15 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=111990",
+          "author": "Steven Strogatz",
+          "description": "Infinite sums are among the most underrated yet powerful concepts in mathematics, capable of linking concepts across math’s vast web.            \nThe post How Infinite Series Reveal the Unity of Mathematics first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-infinite-series-reveal-the-unity-of-mathematics-20220124/",
+          "publishedOn": "2022-01-24T14:36:16.000Z",
+          "wordCount": 2322,
+          "title": "How Infinite Series Reveal the Unity of Mathematics"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=111847",
           "author": "Natalie Wolchover",
           "description": "In a quest to map out a quantum theory of gravity, researchers have used logical rules to calculate how much Einstein’s theory must change. The result matches string theory perfectly.            \nThe post In a Numerical Coincidence, Some See Evidence for String Theory first appeared on Quanta Magazine",
@@ -35353,6 +35718,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66646",
+          "author": "Nathan Yau",
+          "description": "Manas Sharma and Simon Scarr used satellite imagery to show the scale of…\nTags: Reuters, satellite imagery, scale, Tonga, volcano",
+          "link": "https://flowingdata.com/2022/01/24/scale-of-the-tonga-eruption/",
+          "publishedOn": "2022-01-24T16:10:40.000Z",
+          "wordCount": 309,
+          "title": "Scale of the Tonga eruption"
+        },
         {
           "id": "https://flowingdata.com/?p=66621",
           "author": "Nathan Yau",
