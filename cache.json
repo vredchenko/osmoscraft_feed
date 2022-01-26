@@ -724,6 +724,24 @@
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
         {
+          "id": "http://www.i-programmer.info/news/141-cloud-computing/15169-azure-offers-directus-implementation.html",
+          "author": null,
+          "description": "Azure users now have a simple way to implement Directus, via an automatic GraphQL and REST endpoint for Azure SQL.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/141-cloud-computing/15169-azure-offers-directus-implementation.html",
+          "publishedOn": "2022-01-25T15:50:43.000Z",
+          "wordCount": 661,
+          "title": "Azure Offers Directus Implementation"
+        },
+        {
+          "id": "http://www.i-programmer.info/news/90-tools/15168-notepad-fixes-memory-leak.html",
+          "author": null,
+          "description": "Notepad++ has been updated with improvements including a fixed memory leak and better handling of UTF-8.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/90-tools/15168-notepad-fixes-memory-leak.html",
+          "publishedOn": "2022-01-25T15:47:44.000Z",
+          "wordCount": 680,
+          "title": "Notepad++ 8.2 Fixes Memory Leak"
+        },
+        {
           "id": "http://www.i-programmer.info/programming/javascript/15167-javascript-jems-why-javascript-is-a-jem.html",
           "author": null,
           "description": "JavaScript should not be judged as if it was a poor version of the other popular languages - it isn't a Java or a C++ clone. It does things its own way. This is an extract from JavaScript Jems: The Amazing Parts.\n\r\n\nRead more...",
@@ -1331,6 +1349,24 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=362044",
+          "author": "Chris Coyier",
+          "description": "Say you’ve got a <Card /> component. It’s highly likely it shouldn’t be butted right up against any other components with no spacing around it. That’s true for… pretty much every component. So, how do you handle component spacing in …\nHow Do You Handle Component Spacing in a Design System? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/component-spacing-design-system/",
+          "publishedOn": "2022-01-25T23:10:20.000Z",
+          "wordCount": 803,
+          "title": "How Do You Handle Component Spacing in a Design System?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360550",
+          "author": "Md Shuvo",
+          "description": "A little bit of animation on a site can add some flair, impress users, and get their attention. You could have them run, no matter where they are on the page, immediately when the page loads. But what if your …\nHow to Make a Scroll-Triggered Animation With Basic JavaScript originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/scroll-triggered-animation-vanilla-javascript/",
+          "publishedOn": "2022-01-25T14:14:11.000Z",
+          "wordCount": 1594,
+          "title": "How to Make a Scroll-Triggered Animation With Basic JavaScript"
+        },
         {
           "id": "https://css-tricks.com/?p=360811",
           "author": "Melanie Sumner",
@@ -3247,6 +3283,33 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "61eebd80f2ed6b06db5a37e5",
+          "author": "Kolade Chris",
+          "description": "If you're a Windows user, you've probably had your PC randomly shut down. This can be frustrating and negatively impact your productivity as it interrupts important tasks and activities. This random shutdown might be caused by software or hardware issues, or both on some occasions. I have researched 4 ways",
+          "link": "https://www.freecodecamp.org/news/pc-randomly-turns-off-how-to-fix-windows-computer-shutting-down/",
+          "publishedOn": "2022-01-25T21:30:59.000Z",
+          "wordCount": 1145,
+          "title": "PC Randomly Turns Off – How to Fix Windows Computer Shutting Down"
+        },
+        {
+          "id": "61f050d6f2ed6b06db5a5228",
+          "author": "Beau Carnes",
+          "description": "React is one of the most popular front-end JavaScript libraries for building user interfaces. Using TypeScript for your React projects can lead to a more robust codebase with less errors. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use React with",
+          "link": "https://www.freecodecamp.org/news/how-to-code-your-react-app-with-typescript/",
+          "publishedOn": "2022-01-25T19:46:29.000Z",
+          "wordCount": 565,
+          "title": "How to Code Your React App with TypeScript"
+        },
+        {
+          "id": "61e776e0183181284a19149b",
+          "author": "Sampurna Chapagain",
+          "description": "If you are a web developer or a web designer, it is essential for you to have a portfolio website. It lets you provide information about yourself and showcase your best work with your relevant skills and experience. In this blog post, I will discuss some of the benefits of",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-portfolio-website-using-html-css-javascript-and-bootstrap/",
+          "publishedOn": "2022-01-25T17:10:50.000Z",
+          "wordCount": 3262,
+          "title": "How to Create a Portfolio Website Using HTML, CSS, JavaScript, and Bootstrap 5"
+        },
+        {
           "id": "61e92726183181284a191e75",
           "author": null,
           "description": "Temporal Dead Zone and Hoisting are two essential terms in JavaScript. But understanding how they work can easily confuse you if you don't approach them properly. But don't fret! This article is here to help you get a good grasp of the two terms. So relax, grab your favorite cup",
@@ -3263,6 +3326,15 @@
           "publishedOn": "2022-01-24T16:59:25.000Z",
           "wordCount": 1243,
           "title": "Python String.Replace() – Function in Python for Substring Substitution"
+        },
+        {
+          "id": "61f01b62f2ed6b06db5a4e57",
+          "author": "Beau Carnes",
+          "description": "AutoCAD is a popular computer aided design software used to design and model in 2D and 3D. It is used by used by architects, engineers, designers, real estate developers, artists, and more. We just published a complete university AutoCAD course on the freeCodeCamp.org YouTube channel. Gediminas Kirdeikis developed this course.",
+          "link": "https://www.freecodecamp.org/news/learn-autocad-with-this-free-course/",
+          "publishedOn": "2022-01-24T16:58:00.000Z",
+          "wordCount": 447,
+          "title": "Learn AutoCAD with This Free Course"
         },
         {
           "id": "61d543e4d2d9de084285c33d",
@@ -6205,6 +6277,186 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/how-to-be-bored-the-right-way?source=rss",
+          "author": "Edem Gold",
+          "description": "Boredom is one of the biggest problems of modernity. Or is it?",
+          "link": "https://hackernoon.com/how-to-be-bored-the-right-way?source=rss",
+          "publishedOn": "2022-01-25T07:22:27.000Z",
+          "wordCount": 2489,
+          "title": "How to be Bored (the Right Way)"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-find-awesome-graphics-for-your-design-project?source=rss",
+          "author": "Sachin Chaurasiya",
+          "description": "When we work with website design and development, we often need to add a variety of different graphics.",
+          "link": "https://hackernoon.com/how-to-find-awesome-graphics-for-your-design-project?source=rss",
+          "publishedOn": "2022-01-25T06:45:08.000Z",
+          "wordCount": 1778,
+          "title": "How to Find Awesome Graphics for Your Design Project"
+        },
+        {
+          "id": "https://hackernoon.com/what-if-b2b-marketing-tactics-were-nba-players?source=rss",
+          "author": "Omri Hurwitz",
+          "description": "Here is why PPC advertising is the Steph Curry of B2B marketing tactics",
+          "link": "https://hackernoon.com/what-if-b2b-marketing-tactics-were-nba-players?source=rss",
+          "publishedOn": "2022-01-25T06:38:34.000Z",
+          "wordCount": 1879,
+          "title": "What if B2B Marketing Tactics were NBA Players?"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-create-a-social-media-budget-for-your-business?source=rss",
+          "author": "Pradnyesh Gumaste",
+          "description": "Get a maximum return on your investment by learning how to create an effective social media budget for your business!",
+          "link": "https://hackernoon.com/how-to-create-a-social-media-budget-for-your-business?source=rss",
+          "publishedOn": "2022-01-25T06:20:18.000Z",
+          "wordCount": 2975,
+          "title": "How to Create a Social Media Budget for Your Business"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-build-a-to-do-list-using-bb8-and-tokio_postgres?source=rss",
+          "author": "Maximilien Di Dio",
+          "description": "Good news! It’s easy to create a simple to-do list using bb8 and tokio_postgres for the data layer side.",
+          "link": "https://hackernoon.com/how-to-build-a-to-do-list-using-bb8-and-tokio_postgres?source=rss",
+          "publishedOn": "2022-01-25T05:34:39.000Z",
+          "wordCount": 2783,
+          "title": "How to Build a To-Do List Using bb8 and Tokio_Postgres"
+        },
+        {
+          "id": "https://hackernoon.com/how-much-do-twitch-streamers-and-youtubers-actually-make-from-donations?source=rss",
+          "author": "Tachat Igityan",
+          "description": "Most full-time streamers get an average $3000-$6500 per month. Gamers received up to $1,000,000 donations on Twitch.",
+          "link": "https://hackernoon.com/how-much-do-twitch-streamers-and-youtubers-actually-make-from-donations?source=rss",
+          "publishedOn": "2022-01-25T04:46:49.000Z",
+          "wordCount": 2029,
+          "title": "How Much Do Twitch Streamers and YouTubers ACTUALLY Make from Donations?"
+        },
+        {
+          "id": "https://hackernoon.com/wonderlandmoney-is-getting-80000percent-apy-really-possible?source=rss",
+          "author": "Crypto Badger",
+          "description": "80,00% APY - can this be legit? Great opportunity to earn passive income or a scam? Check out this article to find out more about Wonderland DAO.",
+          "link": "https://hackernoon.com/wonderlandmoney-is-getting-80000percent-apy-really-possible?source=rss",
+          "publishedOn": "2022-01-25T00:50:22.000Z",
+          "wordCount": 1838,
+          "title": "Wonderland.Money - Is Getting 80,000% APY Really Possible?"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-the-coinbase-effect-and-is-it-worth-relying-on?source=rss",
+          "author": "Tony Firsov",
+          "description": "Coinbase is the largest cryptocurrency exchange in the USA. It’s called the industry’s unicorn and a leader in mergers and acquisitions with the biggest influence across the USA market. The platform is second only to Binance in terms of trading volume while adhering to the rather old-fashioned policy in the listing procedure, which is why Coinbase supports fewer assets than Binance.",
+          "link": "https://hackernoon.com/what-is-the-coinbase-effect-and-is-it-worth-relying-on?source=rss",
+          "publishedOn": "2022-01-24T23:55:40.000Z",
+          "wordCount": 2858,
+          "title": "What is the Coinbase Effect and is it Worth Relying On"
+        },
+        {
+          "id": "https://hackernoon.com/about-ibm-as-400iseries-history-features-and-characteristics?source=rss",
+          "author": "Abel Willium",
+          "description": "IBM introduced AS400 in 1988, and the platform is still running successfully. How is the platform still relevant today, and why leading companies use it?",
+          "link": "https://hackernoon.com/about-ibm-as-400iseries-history-features-and-characteristics?source=rss",
+          "publishedOn": "2022-01-24T23:52:45.000Z",
+          "wordCount": 2624,
+          "title": "About IBM AS 400/iSeries: History, Features, and Characteristics"
+        },
+        {
+          "id": "https://hackernoon.com/debugging-my-love-life?source=rss",
+          "author": "Aaron Artille",
+          "description": "Tinder's \"Top Spotify Artists\" feature is shallow, but could be fixed easily. Here is a demonstration of how it works currently.",
+          "link": "https://hackernoon.com/debugging-my-love-life?source=rss",
+          "publishedOn": "2022-01-24T23:48:40.000Z",
+          "wordCount": 1745,
+          "title": "Debugging My Love Life"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-show-live-status-updates-in-emails?source=rss",
+          "author": "Niels van Brakel",
+          "description": "I got a speeding ticket... However I learned a great new lesson about live data in email campaigns. Learn how to show the payment status or even a countdown.",
+          "link": "https://hackernoon.com/how-to-show-live-status-updates-in-emails?source=rss",
+          "publishedOn": "2022-01-24T23:47:58.000Z",
+          "wordCount": 2143,
+          "title": "How to Show Live Status Updates in Emails"
+        },
+        {
+          "id": "https://hackernoon.com/streaming-platform-uses-ml-to-filter-out-awkward-looking-faces-in-auto-generated-movie-posters?source=rss",
+          "author": "Tural Gurbanov",
+          "description": "How to filter out awkward-looking faces in auto-generated movie posters.",
+          "link": "https://hackernoon.com/streaming-platform-uses-ml-to-filter-out-awkward-looking-faces-in-auto-generated-movie-posters?source=rss",
+          "publishedOn": "2022-01-24T23:46:32.000Z",
+          "wordCount": 2395,
+          "title": "Streaming Platform Uses ML to Filter Out Awkward-Looking Faces in Auto-Generated Movie Posters"
+        },
+        {
+          "id": "https://hackernoon.com/the-future-of-content-creation-sharing-profit-with-your-audience?source=rss",
+          "author": "An Le",
+          "description": "How can you earn money from viewing your favorite Youtuber's video in the future?",
+          "link": "https://hackernoon.com/the-future-of-content-creation-sharing-profit-with-your-audience?source=rss",
+          "publishedOn": "2022-01-24T23:33:20.000Z",
+          "wordCount": 2020,
+          "title": "The Future of Content Creation: Sharing Profit With Your Audience"
+        },
+        {
+          "id": "https://hackernoon.com/all-you-need-to-know-about-the-tesla-dojo-supercomputer?source=rss",
+          "author": "Edem Gold",
+          "description": "All about the Dojo Supercomputer, what it is, why it was created, how it works and what it will be used for",
+          "link": "https://hackernoon.com/all-you-need-to-know-about-the-tesla-dojo-supercomputer?source=rss",
+          "publishedOn": "2022-01-24T23:24:27.000Z",
+          "wordCount": 2341,
+          "title": "All You Need to Know About the Tesla Dojo Supercomputer"
+        },
+        {
+          "id": "https://hackernoon.com/create-a-temporary-gmail-account-with-python?source=rss",
+          "author": "Amir Ali Hashemi",
+          "description": "Sometimes you come across a number of adverts and websites that you need to signup for but don’t completely trust.",
+          "link": "https://hackernoon.com/create-a-temporary-gmail-account-with-python?source=rss",
+          "publishedOn": "2022-01-24T23:12:37.000Z",
+          "wordCount": 2040,
+          "title": "Create a Temporary Gmail Account With Python"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-solve-the-ethernaut-games-level-4-telephone?source=rss",
+          "author": "Kamil Polak",
+          "description": "In level 4 of the Ethernaut Game, our goal is to claim ownership of the Telephone contract.",
+          "link": "https://hackernoon.com/how-to-solve-the-ethernaut-games-level-4-telephone?source=rss",
+          "publishedOn": "2022-01-24T23:06:08.000Z",
+          "wordCount": 1697,
+          "title": "How to Solve the Ethernaut Game's Level 4: Telephone"
+        },
+        {
+          "id": "https://hackernoon.com/a-shift-in-saas-industries-the-future-is-vertical?source=rss",
+          "author": "shivani jha",
+          "description": "Saas industries are booming day by day. Here's how companies can stand out with new vertical Saas trends and achieve all their goals with this new technology",
+          "link": "https://hackernoon.com/a-shift-in-saas-industries-the-future-is-vertical?source=rss",
+          "publishedOn": "2022-01-24T23:03:55.000Z",
+          "wordCount": 2123,
+          "title": "A Shift in Saas Industries -The Future is Vertical"
+        },
+        {
+          "id": "https://hackernoon.com/devsecops-deep-dive-cicd-pipeline-security?source=rss",
+          "author": "Leandro Mantovani",
+          "description": "Best practices and Tools to master DevSecOps.",
+          "link": "https://hackernoon.com/devsecops-deep-dive-cicd-pipeline-security?source=rss",
+          "publishedOn": "2022-01-24T23:02:28.000Z",
+          "wordCount": 2395,
+          "title": "DevSecOps Deep Dive: CI/CD Pipeline Security"
+        },
+        {
+          "id": "https://hackernoon.com/a-guide-on-staking-the-axie-infinity-sidechain?source=rss",
+          "author": "Chel_Koby",
+          "description": "This is a complete guide for those who play Axie infinity and know it well BUT also for complete beginners with no previous knowledge of staking and Axie Tokens",
+          "link": "https://hackernoon.com/a-guide-on-staking-the-axie-infinity-sidechain?source=rss",
+          "publishedOn": "2022-01-24T23:00:10.000Z",
+          "wordCount": 2535,
+          "title": "A Guide on Staking the Axie Infinity Sidechain"
+        },
+        {
+          "id": "https://hackernoon.com/xbox-bought-activision-what-this-means-for-gaming-slogging-insights?source=rss",
+          "author": "Jack Boreham",
+          "description": "In this slogging thread, the team at Hackernoon discusses what we think of the recent acquisition of Activision by Microsoft. We discuss, why they bought them a",
+          "link": "https://hackernoon.com/xbox-bought-activision-what-this-means-for-gaming-slogging-insights?source=rss",
+          "publishedOn": "2022-01-24T14:52:36.000Z",
+          "wordCount": 2469,
+          "title": "Xbox Bought Activision: What this Means for Gaming (Slogging Insights)"
+        },
         {
           "id": "https://hackernoon.com/aaa-batteries?source=rss",
           "author": "Top Tech Companies",
@@ -19673,6 +19925,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=148709",
+          "author": "ACMer",
+          "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms Given a MinMax implementation, one problem is that there are two situations that we need to handle separately: maximizing and...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-negamax-algorithm-game-theory/",
+          "publishedOn": "2022-01-25T21:40:13.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – NegaMax Algorithm (Game Theory)",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=148689",
           "author": "ACMer",
           "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms Given the following Two MinMax Game Trees: We can discard the subtree x as we know the result doesn’t matter. For example,...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -20639,6 +20901,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=516935",
+          "author": "Dave Rowntree",
+          "description": "Many of us hardware-oriented types find it hard to walk past a lonely-looking discarded item of consumer electronics without thinking “If only I could lug that back to the car …read more",
+          "link": "https://hackaday.com/2022/01/25/reverse-engineering-trash-printer-gives-up-its-control-panel-secrets/",
+          "publishedOn": "2022-01-26T00:00:19.000Z",
+          "wordCount": 1257,
+          "title": "Reverse Engineering: Trash Printer Gives Up Its Control Panel Secrets"
+        },
+        {
+          "id": "https://hackaday.com/?p=517169",
+          "author": "Lewin Day",
+          "description": "As we all know, the lightsaber is an elegant weapon, for a more civilized age. [Alex Burkan] is doing what he can to bring that technology to fruition, and even …read more",
+          "link": "https://hackaday.com/2022/01/25/building-a-lightsaber-and-scoring-a-world-record-too/",
+          "publishedOn": "2022-01-25T21:00:06.000Z",
+          "wordCount": 1247,
+          "title": "Building a Lightsaber and Scoring a World Record, Too"
+        },
+        {
+          "id": "https://hackaday.com/?p=516994",
+          "author": "Ryan Flowers",
+          "description": "We’re Makers. By definition, we make things. Some of us prefer to build from scraps, while others like to make their own IC’s in their garage. [Make With Miles] on …read more",
+          "link": "https://hackaday.com/2022/01/25/young-maker-mixes-traditional-japanese-construction-with-modern-art/",
+          "publishedOn": "2022-01-25T19:30:46.000Z",
+          "wordCount": 1186,
+          "title": "Young Maker Mixes Traditional Japanese Construction With Modern Art"
+        },
+        {
+          "id": "https://hackaday.com/?p=515969",
+          "author": "Kristina Panos",
+          "description": "Every winter, millions of tons of rock salt is sprinkled across roads in the US, mostly in the Midwest and Northeast regions. It’s a cheap and effective way to prevent …read more",
+          "link": "https://hackaday.com/2022/01/25/the-road-is-peppered-with-rock-salt-alternatives/",
+          "publishedOn": "2022-01-25T18:00:20.000Z",
+          "wordCount": 4238,
+          "title": "The Road Is Peppered with Rock Salt Alternatives"
+        },
+        {
+          "id": "https://hackaday.com/?p=516439",
+          "author": "Bryan Cockfield",
+          "description": "Laser cutters and 3D printers are game-changing tools to have in the workshop. They make rapid prototyping or repairs to existing projects a breeze as they can churn out new …read more",
+          "link": "https://hackaday.com/2022/01/25/laser-z-axis-table-comes-into-focus/",
+          "publishedOn": "2022-01-25T16:30:11.000Z",
+          "wordCount": 1208,
+          "title": "Laser Z-Axis Table Comes Into Focus"
+        },
+        {
+          "id": "https://hackaday.com/?p=516517",
+          "author": "Lewin Day",
+          "description": "Nuclear war was very much a front-of-mind issue during the fraught political climate of the Cold War era. Since then, atomic sabre rattling has been less frequent, though has never …read more",
+          "link": "https://hackaday.com/2022/01/25/would-nuclear-winter-cancel-out-global-warming/",
+          "publishedOn": "2022-01-25T15:00:23.000Z",
+          "wordCount": 4979,
+          "title": "Would Nuclear Winter Cancel Out Global Warming?"
+        },
+        {
+          "id": "https://hackaday.com/?p=517083",
+          "author": "Ryan Flowers",
+          "description": "It seems only appropriate that hot on the heels of the conclusion of Hackaday’s 555 Timer Contest that [Ken Shirriff] posts a silicon die teardown of an early version of …read more",
+          "link": "https://hackaday.com/2022/01/25/555-teardown-isnt-just-a-good-time-its-to-die-for/",
+          "publishedOn": "2022-01-25T12:00:01.000Z",
+          "wordCount": 1472,
+          "title": "555 Teardown Isn’t Just A Good Time, It’s To Die For"
+        },
         {
           "id": "https://hackaday.com/?p=516757",
           "author": "Dave Rowntree",
@@ -27172,6 +27497,83 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "25FFD288-4368-45E3-8210EE6CBBC565D7",
+          "author": "Alexandra Witze, Nature magazine",
+          "description": "The ambitious observatory has arrived at its home—near a gravitationally stable spot called L2—for a premier view of the universe\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/webb-telescope-reaches-its-final-destination-far-from-earth/",
+          "publishedOn": "2022-01-25T18:45:00.000Z",
+          "wordCount": null,
+          "title": "Webb Telescope Reaches Its Final Destination Far from Earth",
+          "itunes": {}
+        },
+        {
+          "id": "AF125833-6924-45A2-B24CB32CB11867BE",
+          "author": "Christopher Intagliata",
+          "description": "Using a combination of fishing data and satellite tracking, scientists found that the sharks have shifted their range some 250 miles poleward over the last 40 years. \n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/podcast/episode/tiger-sharks-tracked-over-decades-are-shifting-their-haunts-with-ocean-warming/",
+          "publishedOn": "2022-01-25T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Tiger Sharks, Tracked Over Decades, Are Shifting Their Haunts With Ocean Warming",
+          "itunes": {
+            "duration": "02:23"
+          },
+          "enclosure": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=11D5544E-98E1-4AF0-966E1FEB0F012A6C",
+            "length": "2289613",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "E63EC444-5E0C-4C8B-8935B91A1DA9D5CB",
+          "author": "Daniel Leonard",
+          "description": "The observatory’s unprecedented infrared measurements might at last bridge a growing rift between astronomers over how fast the universe is expanding\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-james-webb-space-telescope-could-solve-one-of-cosmologys-deepest-mysteries/",
+          "publishedOn": "2022-01-25T15:00:00.000Z",
+          "wordCount": null,
+          "title": "The James Webb Space Telescope Could Solve One of Cosmology's Deepest Mysteries",
+          "itunes": {}
+        },
+        {
+          "id": "A7B04EF8-1F32-4799-8EB7F9A724AAA8D4",
+          "author": "Andrea Gawrylewski",
+          "description": "-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/cosmic-level-anxiety/",
+          "publishedOn": "2022-01-25T14:30:00.000Z",
+          "wordCount": null,
+          "title": "Cosmic-Level Anxiety",
+          "itunes": {}
+        },
+        {
+          "id": "D4ECF147-61B8-40C1-B96D998E552CBA37",
+          "author": "Melinda Wenner Moyer",
+          "description": "Although children are prime targets, educators cannot figure out how best to teach them to separate fact from fiction\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/schoolkids-are-falling-victim-to-disinformation-and-conspiracy-fantasies/",
+          "publishedOn": "2022-01-25T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Schoolkids Are Falling Victim to Disinformation and Conspiracy Fantasies",
+          "itunes": {}
+        },
+        {
+          "id": "EED04A11-01F1-46D2-A4534C31BBC94A0B",
+          "author": "Tara Haelle",
+          "description": "COVID shutdowns limited the spread of influenza in 2019–2020. Several factors could mean this season will be more severe\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/dangerous-flu-comeback-expected-atop-covid-this-winter/",
+          "publishedOn": "2022-01-25T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Dangerous Flu Comeback Expected atop COVID This Winter",
+          "itunes": {}
+        },
+        {
+          "id": "393DAC26-C398-42BA-B19347CE8379387D",
+          "author": "Marla Broadfoot",
+          "description": "The huge jump in cases means more hospitalizations. And children’s small airways can be more easily blocked by infections\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/why-omicron-is-putting-more-kids-in-the-hospital/",
+          "publishedOn": "2022-01-25T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Why Omicron Is Putting More Kids in the Hospital",
+          "itunes": {}
+        },
+        {
           "id": "B690AFCB-8F0A-4679-9093CAF2A5C97562",
           "author": "Jean Chemnick, Hannah Northey, Sean Reilly, E&E News",
           "description": "The Environmental Protection Agency is looking at achieving greenhouse gas emissions reductions by targeting other pollutants\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -32615,6 +33017,33 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=149360",
+          "author": "Mike Luedke",
+          "description": "Most people are painfully aware that security breaches have increased in recent years, while at the same time becoming much more sophisticated in their approach. Additionally, ever-expanding application environments and continuously evolving workloads have created more opportunities than ever for attackers. What’s not so apparent to those outside of the tech bubble: The world is […]\nThe post 4 Ways to Combat the DevOps and Security Workforce Shortage appeared first on DevOps.com.",
+          "link": "https://devops.com/4-ways-to-combat-the-devops-and-security-workforce-shortage/",
+          "publishedOn": "2022-01-25T14:00:55.000Z",
+          "wordCount": 1643,
+          "title": "4 Ways to Combat the DevOps and Security Workforce Shortage"
+        },
+        {
+          "id": "https://devops.com/?p=149218",
+          "author": "Gaurav Belani",
+          "description": "Source code is, of course, the foundation of any software development practice. Managing that source code is the first task tackled by modern software development pipelines, with all subsequent stages of the pipeline dependent on the source code for their success and functionality. Thus, it is critical that source code is properly managed without introducing […]\nThe post Source Code Management Best Practices appeared first on DevOps.com.",
+          "link": "https://devops.com/source-code-management-best-practices/",
+          "publishedOn": "2022-01-25T08:00:16.000Z",
+          "wordCount": 1275,
+          "title": "Source Code Management Best Practices"
+        },
+        {
+          "id": "https://devops.com/?p=149292",
+          "author": "Bill Doerrfeld",
+          "description": "The site reliability engineer (SRE) role is still gathering steam across organizations. In January 2022, LinkedIn listed SRE as the 21st job with the highest global demand throughout the past five years. That’s pretty high for such a specific tech role. And, looking to the future, it appears the SRE practice will only continue to […]\nThe post Site Reliability Engineering (SRE) Comes of Age in 2022 appeared first on DevOps.com.",
+          "link": "https://devops.com/site-reliability-engineering-sre-comes-of-age-in-2022/",
+          "publishedOn": "2022-01-25T07:30:11.000Z",
+          "wordCount": 1758,
+          "title": "Site Reliability Engineering (SRE) Comes of Age in 2022"
+        },
+        {
           "id": "https://devops.com/?p=149180",
           "author": "Andrew Davis",
           "description": "DevOps encompasses a wide variety of technical and social practices for improving the development, delivery and operation of IT systems. Salesforce has become more than a CRM system; it evolved into a full-featured ecosystem and a low-code platform that made development far simpler and more approachable than traditional code-based platforms. Cross-functional teams build on Salesforce […]\nThe post DevOps for Salesforce: CI/CD Challenges appeared first on DevOps.com.",
@@ -35133,6 +35562,15 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=112038",
+          "author": "Anil Ananthaswamy",
+          "description": "By using hypernetworks, researchers can now preemptively fine-tune artificial neural networks, saving some of the time and expense of training.            \nThe post Researchers Build AI That Builds AI first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/researchers-build-ai-that-builds-ai-20220125/",
+          "publishedOn": "2022-01-25T17:02:03.000Z",
+          "wordCount": 2390,
+          "title": "Researchers Build AI That Builds AI"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=111990",
           "author": "Steven Strogatz",
           "description": "Infinite sums are among the most underrated yet powerful concepts in mathematics, capable of linking concepts across math’s vast web.            \nThe post How Infinite Series Reveal the Unity of Mathematics first appeared on Quanta Magazine",
@@ -35718,6 +36156,24 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66012",
+          "author": "Maarten Lambrechts",
+          "description": "A more readable alternative to Venn diagrams for when you have more than a few sets.\nTags: ggplot2, R",
+          "link": "https://flowingdata.com/2022/01/25/how-to-make-upset-plots-in-r-with-ggplot2-and-ggupset/",
+          "publishedOn": "2022-01-25T19:30:50.000Z",
+          "wordCount": 384,
+          "title": "✚ How to Make UpSet Plots in R, with ggplot2 and ggupset"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66664",
+          "author": "Nathan Yau",
+          "description": "In case you’re not so good with the words, but feel the social…\nTags: game, Jonathan Olson, optimization, Wordle",
+          "link": "https://flowingdata.com/2022/01/25/optimized-wordle-solver/",
+          "publishedOn": "2022-01-25T08:43:53.000Z",
+          "wordCount": 372,
+          "title": "Optimized Wordle solver"
+        },
         {
           "id": "https://flowingdata.com/?p=66646",
           "author": "Nathan Yau",
