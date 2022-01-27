@@ -6,6 +6,15 @@
       "siteUrl": "https://goteleport.com/blog/",
       "articles": [
         {
+          "id": "https://goteleport.com/blog/aws-iam-multiple-accounts/",
+          "author": null,
+          "description": "AWS Identity and Access Management (IAM) is a keystone to accessing AWS accounts, but as companies grow, it can be difficult to understand and standardize, especially across many AWS accounts. To put some personality into the challenges of managing identity for multiple AWS resources and accounts, I’ll start with a short story about a fictional company that you might recognize as similar to the one you work in today!\nACME Net is growing fast. The engineering team spans 14 teams all working on core services, and there is also a raft of external contractors committing code on a daily basis. The frenetic pace of new features is keeping everyone busy.\nThe platform runs across a range of AWS services including EC2, S3, RDS and three of the six ways to run containers. The last round of funding w…",
+          "link": "https://goteleport.com/blog/aws-iam-multiple-accounts/",
+          "publishedOn": "2022-01-26T00:00:00.000Z",
+          "wordCount": 1600,
+          "title": "Unifying AWS IAM Access Across Multiple AWS Accounts and Products"
+        },
+        {
           "id": "https://goteleport.com/blog/how-to-use-ssh-agent-safely/",
           "author": null,
           "description": "The SSH agent (ssh-agent) is an SSH key manager that stores the SSH key in a process memory so that users can log into SSH servers without having to type the key’s passphrase every time they authenticate with the server. In addition to the key management feature, SSH agent supports agent forwarding, which helps to authenticate with servers that sit behind a bastion or jump server. As the agent works as a password manager for SSH keys, incorrect usage or faulty configuration can cause security risks.\nIn this article, we’ll explore how to avoid potential SSH agent pitfalls and recommend best practices to keep your SSH agent secure.\nSecurity risks of using SSH agent\nWhen you run an SSH agent, it is risky to leave your terminal unattended because anyone with physical access to your terminal ca…",
@@ -724,6 +733,33 @@
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
         {
+          "id": "http://www.i-programmer.info/book-watch-archive/15173-reliable-source-lessons-from-a-life-in-software-engineering.html",
+          "author": null,
+          "description": "This book provides a retrospective, not of a single project or subproject, but on an entire career in the software industry. James Bonang conveys solutions to the eclectic problems you'll encounter as a software professional. The book provides encounters with interesting software engineering personalities, homicidal computers, ancient gods and an extra-solar interloper. You'll match wits with the world's greatest (fictional) detective and discover how top engineers determine the root cause of the most catastrophic software failures. You'll absorb a lifetime of experience without all the fuss.\n\r\n<ASIN:‎ B09QCBVJ9V>\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/book-watch-archive/15173-reliable-source-lessons-from-a-life-in-software-engineering.html",
+          "publishedOn": "2022-01-26T12:27:49.000Z",
+          "wordCount": 507,
+          "title": "Reliable Source: Lessons from a Life in Software Engineering"
+        },
+        {
+          "id": "http://www.i-programmer.info/news/112-theory/15174-quantum-computers-too-slow-to-crack-bitcoin.html",
+          "author": null,
+          "description": "The huge amount of effort going in to building a quantum computer is based on the idea that it can compute useful things in a usefully short time. Now an analysis by researchers at the University of Sussex suggests that quantum advantage may not be enough - we may need really big hardware.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/112-theory/15174-quantum-computers-too-slow-to-crack-bitcoin.html",
+          "publishedOn": "2022-01-26T10:00:00.000Z",
+          "wordCount": 1047,
+          "title": "Quantum Computers Too Slow To Crack Bitcoin?"
+        },
+        {
+          "id": "http://www.i-programmer.info/news/150-training-a-education/15171-udacitys-new-aiazure-nanodegree-now-enrolling.html",
+          "author": null,
+          "description": "The latest addition to Udacity's ever-expanding list of Nanodegrees is a great opportunity to build a portfolio of AI projects using Microsoft Azure. Its inaugural session starts on February 2nd.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/150-training-a-education/15171-udacitys-new-aiazure-nanodegree-now-enrolling.html",
+          "publishedOn": "2022-01-26T00:00:00.000Z",
+          "wordCount": 1149,
+          "title": "Udacity's New AI/Azure Nanodegree Now Enrolling"
+        },
+        {
           "id": "http://www.i-programmer.info/news/141-cloud-computing/15169-azure-offers-directus-implementation.html",
           "author": null,
           "description": "Azure users now have a simple way to implement Directus, via an automatic GraphQL and REST endpoint for Azure SQL.\n\r\n\nRead more...",
@@ -740,6 +776,15 @@
           "publishedOn": "2022-01-25T15:47:44.000Z",
           "wordCount": 680,
           "title": "Notepad++ 8.2 Fixes Memory Leak"
+        },
+        {
+          "id": "http://www.i-programmer.info/bookreviews/14-other-languages/15170-beginning-rust-programming.html",
+          "author": null,
+          "description": "Author: Ric Messier\nPublisher: Wiley\nDate: March 2021\nPages: 416\nISBN: 978-1119712978\nPrint: 1119712971\nKindle: B08WZ2D7WC\nAudience: Developers wanting to learn Rust\nRating: 3\nReviewer: Mike James\nEveryone seems to want to know what makes Rust special. Does this book give the answers?\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/bookreviews/14-other-languages/15170-beginning-rust-programming.html",
+          "publishedOn": "2022-01-25T00:00:00.000Z",
+          "wordCount": 1067,
+          "title": "Beginning Rust Programming"
         },
         {
           "id": "http://www.i-programmer.info/programming/javascript/15167-javascript-jems-why-javascript-is-a-jem.html",
@@ -1349,6 +1394,24 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=361200",
+          "author": "Chris Coyier",
+          "description": "Say you have three HTML classes, and a DOM element should only have one of them at a time:\n<div class=\"state-1\"</div<div class=\"state-2\"</div<div class=\"state-3\"</div\nNow your job is to rotate them. That is, cycle through classes …\nHow to Cycle Through Classes on an HTML Element originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/cycle-through-classes-html-element/",
+          "publishedOn": "2022-01-26T19:48:49.000Z",
+          "wordCount": 1548,
+          "title": "How to Cycle Through Classes on an HTML Element"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362018",
+          "author": "Temani Afif",
+          "description": "Have you ever tried to make CSS borders in a repeating zig-zag pattern? Like where a colored section of a website ends and another differently colored section begins — not with a straight line, but angled zig zags, rounded humps, …\nFancy CSS Borders Using Masks originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/css-borders-using-masks/",
+          "publishedOn": "2022-01-26T14:26:49.000Z",
+          "wordCount": 2537,
+          "title": "Fancy CSS Borders Using Masks"
+        },
         {
           "id": "https://css-tricks.com/?p=362044",
           "author": "Chris Coyier",
@@ -3282,6 +3345,78 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61ee3dc2011f8933034719ea",
+          "author": "Camila Ramos Garzon",
+          "description": "In this article, we'll be discussing the get, put, and post HTTP methods. You'll learn what each HTTP method is used for as well as why we use them.  In order to get a deep understanding of how HTTP methods work, I'll also go over key context and background",
+          "link": "https://www.freecodecamp.org/news/http-request-methods-explained/",
+          "publishedOn": "2022-01-26T21:36:54.000Z",
+          "wordCount": 2959,
+          "title": "HTTP Request Methods – Get vs Put vs Post Explained with Code Examples"
+        },
+        {
+          "id": "61ebe09f011f8933034705df",
+          "author": "Ogundiran Ayobami",
+          "description": "In this tutorial we will build a YouTube clone step by step. You'll learn how to create layouts and add content to those layouts. If you have been struggling to build a real website with HTML & CSS, this is the article for you. Because I am about to teach",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-website-with-html-and-css-step-by-step/",
+          "publishedOn": "2022-01-26T21:32:57.000Z",
+          "wordCount": 3293,
+          "title": "HTML and CSS Project – How to Build A YouTube Clone Step by Step"
+        },
+        {
+          "id": "61d55c59d2d9de084285c367",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In this tutorial, you will learn what a binary search tree is, what parts make up a tree, and some of the common terms we use when describing parts of a tree.  We will also see how to traverse a tree using some of the common algorithms – all",
+          "link": "https://www.freecodecamp.org/news/binary-search-tree-traversal-inorder-preorder-post-order-for-bst/",
+          "publishedOn": "2022-01-26T20:01:40.000Z",
+          "wordCount": 1084,
+          "title": "Binary Search Tree Traversal – Inorder, Preorder, Post Order for BST"
+        },
+        {
+          "id": "61eb23e4011f893303470169",
+          "author": "Allan Campopiano",
+          "description": "In your native tongue, you are not aware of the translation between thought and speech. You think about what you want to say and say it. The pathway from thought to speech feels direct – it's an instantaneous, 1:1 mapping. When it comes to data visualization, however, there are often",
+          "link": "https://www.freecodecamp.org/news/data-viz-from-thought-to-chart/",
+          "publishedOn": "2022-01-26T19:57:11.000Z",
+          "wordCount": 1768,
+          "title": "How to Think Less About Data Visualization"
+        },
+        {
+          "id": "61f194d5f2ed6b06db5a5c3f",
+          "author": "Beau Carnes",
+          "description": "An important use for computer vision and deep learning is self driving cars. Perception and Computer Vision forms about 80% of the work that Self Driving Cars do to drive around. If you want to improve your deep learning skills, this is a great topic to learn about. We just",
+          "link": "https://www.freecodecamp.org/news/perception-for-self-driving-cars-deep-learning-course/",
+          "publishedOn": "2022-01-26T18:45:34.000Z",
+          "wordCount": 498,
+          "title": "Perception for Self-Driving Cars — Free Deep Learning Course"
+        },
+        {
+          "id": "61f10c21f2ed6b06db5a5942",
+          "author": "Kolade Chris",
+          "description": "You can use the HTML <hr> tag to separate out different topics on a page. We often use this tag when we want to create a thematic break or separate items on an HTML page. In this article, you'll learn how to use this tag in your HTML code. Table",
+          "link": "https://www.freecodecamp.org/news/html-horizontal-line-hr-tag-example/",
+          "publishedOn": "2022-01-26T18:36:53.000Z",
+          "wordCount": 748,
+          "title": "HTML Horizontal Line – HR Tag Example"
+        },
+        {
+          "id": "61e9575c183181284a1922c4",
+          "author": "navaneeth pk",
+          "description": "We launched our open source project [https://github.com/ToolJet/ToolJet] in June 2021, and since then we've gotten more than 4500 stars for our repository.  Here are the strategies that worked for us. This is not an article about how to just get more stars for your repository. The article instead explains",
+          "link": "https://www.freecodecamp.org/news/how-to-get-more-engagement-with-your-open-source-project/",
+          "publishedOn": "2022-01-26T14:54:43.000Z",
+          "wordCount": 1752,
+          "title": "How We Got 4.5K+ GitHub Stars on Our Open Source Project in 6 Months"
+        },
+        {
+          "id": "61e88961183181284a191dac",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Making your Windows taskbar transparent is a pretty cool thing to do. It looks great, and it's one of the few ways you can personalize your taskbar. Some resources about this topic require you to install different software to accomplish it. But in this tutorial we'll see how to make",
+          "link": "https://www.freecodecamp.org/news/transparent-taskbar-how-to-make-a-task-bar-transparent-in-windows-10-pc-2/",
+          "publishedOn": "2022-01-26T00:11:44.000Z",
+          "wordCount": 776,
+          "title": "Transparent Taskbar – How to Make a Task Bar Transparent in Windows 10 PC"
+        },
         {
           "id": "61eebd80f2ed6b06db5a37e5",
           "author": "Kolade Chris",
@@ -6277,6 +6412,186 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/are-paywalls-worth-it-heres-what-you-need-to-know?source=rss",
+          "author": "Evan SooHoo",
+          "description": "How I learned the opportunity cost of not using a paywall...kind of",
+          "link": "https://hackernoon.com/are-paywalls-worth-it-heres-what-you-need-to-know?source=rss",
+          "publishedOn": "2022-01-26T16:21:37.000Z",
+          "wordCount": 2604,
+          "title": "Are Paywalls Worth It? - Here's What You Need to Know"
+        },
+        {
+          "id": "https://hackernoon.com/the-4-main-types-of-data-breaches-definition-and-examples?source=rss",
+          "author": "James Keenan",
+          "description": "A data breach is a serious security violation; unfortunately, it can happen to the best of us. Let’s learn and keep aware of it together.",
+          "link": "https://hackernoon.com/the-4-main-types-of-data-breaches-definition-and-examples?source=rss",
+          "publishedOn": "2022-01-26T16:07:31.000Z",
+          "wordCount": 1786,
+          "title": "The 4 Main Types of Data Breaches: Definition and Examples"
+        },
+        {
+          "id": "https://hackernoon.com/machine-learning-engineer-edem-gold-may-build-an-ai-to-solve-the-traffic-challenge-for-bloggers?source=rss",
+          "author": "Edem Gold",
+          "description": "As a Machine Learning Engineer, I'm primarily in AI and how it can help better serve humanity.",
+          "link": "https://hackernoon.com/machine-learning-engineer-edem-gold-may-build-an-ai-to-solve-the-traffic-challenge-for-bloggers?source=rss",
+          "publishedOn": "2022-01-26T16:00:57.000Z",
+          "wordCount": 1874,
+          "title": "Machine Learning Engineer Edem Gold May Build an AI To Solve the Traffic Challenge for Bloggers"
+        },
+        {
+          "id": "https://hackernoon.com/fflonk-a-new-plonk-protocol-sin7y-tech-review-13?source=rss",
+          "author": "Sin7Y",
+          "description": "Through careful research, we found that a simple transformation can improve the performance of Verify significantly.",
+          "link": "https://hackernoon.com/fflonk-a-new-plonk-protocol-sin7y-tech-review-13?source=rss",
+          "publishedOn": "2022-01-26T15:00:49.000Z",
+          "wordCount": 2256,
+          "title": "Fflonk - A New Plonk Protocol: Sin7Y Tech Review (13)"
+        },
+        {
+          "id": "https://hackernoon.com/13-best-indie-games-to-look-forward-to-in-2022?source=rss",
+          "author": "Lacy Long",
+          "description": "This list includes the best indie games for 2022 and will cover a variety of genres, including popular titles such Cuphead's DLC to upcoming hidden gems.",
+          "link": "https://hackernoon.com/13-best-indie-games-to-look-forward-to-in-2022?source=rss",
+          "publishedOn": "2022-01-26T14:14:28.000Z",
+          "wordCount": 2560,
+          "title": "13 Best Indie Games to Look forward to in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/meet-the-writer-danielle-gruber-lover-of-brains-and-student-of-engineering?source=rss",
+          "author": "Danielle Gruber",
+          "description": "My name's Danielle and I'm an electrical engineering major with a passion for neuroscience.",
+          "link": "https://hackernoon.com/meet-the-writer-danielle-gruber-lover-of-brains-and-student-of-engineering?source=rss",
+          "publishedOn": "2022-01-26T06:38:34.000Z",
+          "wordCount": 1772,
+          "title": "Meet the Writer: Danielle Gruber, Lover of Brains & Student of Engineering"
+        },
+        {
+          "id": "https://hackernoon.com/an-entrepreneurs-guide-to-finding-growth-opportunities-through-customer-discovery-research?source=rss",
+          "author": "CustomerDiscovery.co",
+          "description": "Customer-discovery research is the only way to identify which strategy will work for your product or service.",
+          "link": "https://hackernoon.com/an-entrepreneurs-guide-to-finding-growth-opportunities-through-customer-discovery-research?source=rss",
+          "publishedOn": "2022-01-26T05:17:44.000Z",
+          "wordCount": 2246,
+          "title": "An Entrepreneur's Guide to Finding Growth Opportunities Through Customer-Discovery Research"
+        },
+        {
+          "id": "https://hackernoon.com/5-best-mystery-games-on-the-nintendo-switch?source=rss",
+          "author": "Jose",
+          "description": "With so many great games on the console, it's hard to choose the best mystery games on the Nintendo Switch. However, that's exactly what we did with this list.",
+          "link": "https://hackernoon.com/5-best-mystery-games-on-the-nintendo-switch?source=rss",
+          "publishedOn": "2022-01-26T04:25:56.000Z",
+          "wordCount": 2204,
+          "title": "5 Best Mystery Games on the Nintendo Switch"
+        },
+        {
+          "id": "https://hackernoon.com/tech-isnt-the-barrier-to-nft-game-interoperability?source=rss",
+          "author": "Adrian Krion",
+          "description": "NFTs can be the key to interoperable in-game assets, but the real reason why this is yet to happen is the business interest of their developers.",
+          "link": "https://hackernoon.com/tech-isnt-the-barrier-to-nft-game-interoperability?source=rss",
+          "publishedOn": "2022-01-26T04:24:07.000Z",
+          "wordCount": 2274,
+          "title": "Tech isn’t the Barrier to NFT-Game Interoperability"
+        },
+        {
+          "id": "https://hackernoon.com/syntax-and-global-configurations-changes-in-modern-wordpress-themes?source=rss",
+          "author": "jmau111",
+          "description": "WordPress keeps its efforts towards Full-Site editing.",
+          "link": "https://hackernoon.com/syntax-and-global-configurations-changes-in-modern-wordpress-themes?source=rss",
+          "publishedOn": "2022-01-26T03:48:32.000Z",
+          "wordCount": 1966,
+          "title": "Syntax and Global Configurations Changes in Modern WordPress Themes"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-rank-for-multiple-keywords?source=rss",
+          "author": "Syed Balkhi",
+          "description": "When you rank for multiple keywords, it becomes easier for you to show up in the top search results of Google.",
+          "link": "https://hackernoon.com/how-to-rank-for-multiple-keywords?source=rss",
+          "publishedOn": "2022-01-26T03:26:33.000Z",
+          "wordCount": 2068,
+          "title": "How to Rank for Multiple Keywords"
+        },
+        {
+          "id": "https://hackernoon.com/voting-closes-in-less-than-24-hours?source=rss",
+          "author": "Ellen Stevens",
+          "description": "Both the Noonies and Startups campaigns close in less than 24 hours.  The time to vote is now!",
+          "link": "https://hackernoon.com/voting-closes-in-less-than-24-hours?source=rss",
+          "publishedOn": "2022-01-25T23:41:28.000Z",
+          "wordCount": 1070,
+          "title": "Voting CLOSES in Less Than 24 Hours!"
+        },
+        {
+          "id": "https://hackernoon.com/top-tech-trends-to-influence-business-recovery-in-2022?source=rss",
+          "author": "Alcor",
+          "description": "The year of 2021 came to an end, which means it’s time for us to have a look at all the ups and downs that global business has gone through.",
+          "link": "https://hackernoon.com/top-tech-trends-to-influence-business-recovery-in-2022?source=rss",
+          "publishedOn": "2022-01-25T23:02:44.000Z",
+          "wordCount": 2462,
+          "title": "Top Tech Trends to Influence Business Recovery in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/blockchain-experts-share-predictions-for-the-metaverse-gamefi-and-web-30?source=rss",
+          "author": "Cleo",
+          "description": "Blockchain experts discuss the future of the metaverse, GameFi, Web 3.0, and what’s in store for Bitcoin in 2022.",
+          "link": "https://hackernoon.com/blockchain-experts-share-predictions-for-the-metaverse-gamefi-and-web-30?source=rss",
+          "publishedOn": "2022-01-25T22:58:50.000Z",
+          "wordCount": 2029,
+          "title": "Blockchain Experts Share Predictions for the Metaverse, GameFi, and Web 3.0"
+        },
+        {
+          "id": "https://hackernoon.com/kubernetes-secrets-and-configmaps?source=rss",
+          "author": "Asad Faizi",
+          "description": "In this article we will discuss about the applications of Kubernetes ConfigMaps and Secrets.",
+          "link": "https://hackernoon.com/kubernetes-secrets-and-configmaps?source=rss",
+          "publishedOn": "2022-01-25T22:54:17.000Z",
+          "wordCount": 2370,
+          "title": "Kubernetes Secrets and ConfigMaps"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-hack-your-brain-for-instant-motivation?source=rss",
+          "author": "Froala Labs",
+          "description": "“The best time to plant a tree was 20 years ago. The second best time is now.”",
+          "link": "https://hackernoon.com/how-to-hack-your-brain-for-instant-motivation?source=rss",
+          "publishedOn": "2022-01-25T22:52:23.000Z",
+          "wordCount": 3278,
+          "title": "How to Hack Your Brain for Instant Motivation"
+        },
+        {
+          "id": "https://hackernoon.com/top-crypto-trends-from-2016-to-2021-infographic?source=rss",
+          "author": "Vladislav Vaskin",
+          "description": "We can define recent years as the rise of a technology (DeFi, NFT, etc.) on the crypto market. The thing is that most of them rise long after their invention.",
+          "link": "https://hackernoon.com/top-crypto-trends-from-2016-to-2021-infographic?source=rss",
+          "publishedOn": "2022-01-25T22:49:47.000Z",
+          "wordCount": 1663,
+          "title": "Top Crypto Trends from 2016 to 2021 [Infographic]"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-manage-your-privacy-online?source=rss",
+          "author": "Arthur",
+          "description": "Think carefully before publishing your personal data (especially name, address, telephone number) in a user profile.",
+          "link": "https://hackernoon.com/how-to-manage-your-privacy-online?source=rss",
+          "publishedOn": "2022-01-25T22:48:56.000Z",
+          "wordCount": 1750,
+          "title": "How To Manage Your Privacy Online"
+        },
+        {
+          "id": "https://hackernoon.com/top-7-crypto-events-in-2022?source=rss",
+          "author": "Sergei Khitrov",
+          "description": "There are a lot of crypto events planned for 2022; so in this article I want to share my top 7 conferences for this year.",
+          "link": "https://hackernoon.com/top-7-crypto-events-in-2022?source=rss",
+          "publishedOn": "2022-01-25T22:46:42.000Z",
+          "wordCount": 2333,
+          "title": "Top 7 Crypto Events in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/capital-as-a-commodity-how-technology-is-reshaping-global-finance?source=rss",
+          "author": "Danny Wesley",
+          "description": "How this startup is reshaping global finance by making capital a commodity.",
+          "link": "https://hackernoon.com/capital-as-a-commodity-how-technology-is-reshaping-global-finance?source=rss",
+          "publishedOn": "2022-01-25T22:35:10.000Z",
+          "wordCount": 2234,
+          "title": "Capital as a Commodity: How Technology is Reshaping Global Finance"
+        },
         {
           "id": "https://hackernoon.com/how-to-be-bored-the-right-way?source=rss",
           "author": "Edem Gold",
@@ -20902,6 +21217,69 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
+          "id": "https://hackaday.com/?p=517168",
+          "author": "Lewin Day",
+          "description": "It used to be that you needed a well-equipped expensive new beige-box PC if you wanted to play Doom at all. Now, you can do so in a form factor …read more",
+          "link": "https://hackaday.com/2022/01/26/pocket-sized-doom-is-actually-playable/",
+          "publishedOn": "2022-01-27T00:00:25.000Z",
+          "wordCount": 1136,
+          "title": "Pocket-Sized Doom Is Actually Playable"
+        },
+        {
+          "id": "https://hackaday.com/?p=517353",
+          "author": "Lewin Day",
+          "description": "A home-built railway is one of the greatest things you could possibly use to shift loads around your farm. [Tim] and [Sandra] of YouTube channel [Way Out West] have just …read more",
+          "link": "https://hackaday.com/2022/01/26/building-switching-points-for-a-backyard-railway/",
+          "publishedOn": "2022-01-26T21:00:55.000Z",
+          "wordCount": 1267,
+          "title": "Building Switching Points For A Backyard Railway"
+        },
+        {
+          "id": "https://hackaday.com/?p=517170",
+          "author": "Lewin Day",
+          "description": "The NeXT computer was introduced in 1988, with the high-end machine finding favor with universities and financial institutions during its short time in the marketplace. [Spencer Nelson] came across a …read more",
+          "link": "https://hackaday.com/2022/01/26/reverse-engineering-the-next-computer-keyboard-protocol/",
+          "publishedOn": "2022-01-26T19:30:03.000Z",
+          "wordCount": 1934,
+          "title": "Reverse Engineering The NeXT Computer Keyboard Protocol"
+        },
+        {
+          "id": "https://hackaday.com/?p=517033",
+          "author": "Al Williams",
+          "description": "If you are a traditional programmer, using bash for scripting may seem limiting sometimes, but for certain tasks, bash can be very productive. It turns out, some of the limits …read more",
+          "link": "https://hackaday.com/2022/01/26/linux-fu-bash-strings/",
+          "publishedOn": "2022-01-26T18:00:09.000Z",
+          "wordCount": 3023,
+          "title": "Linux Fu: Bash Strings"
+        },
+        {
+          "id": "https://hackaday.com/?p=517421",
+          "author": "Bryan Cockfield",
+          "description": "One of the major reasons behind choosing Linux as an operating system is that it’s much more secure than Windows. There are plenty of reasons for this including appropriate user …read more",
+          "link": "https://hackaday.com/2022/01/26/major-bug-grants-root-for-all-major-linux-distributions/",
+          "publishedOn": "2022-01-26T16:30:33.000Z",
+          "wordCount": 4844,
+          "title": "Major Bug Grants Root for All Major Linux Distributions"
+        },
+        {
+          "id": "https://hackaday.com/?p=516308",
+          "author": "Al Williams",
+          "description": "Why do we build radios or clocks when you can buy them? Why do we make LEDs blink for no apparent purpose? Why do we try to squeeze one extra …read more",
+          "link": "https://hackaday.com/2022/01/26/strange-computer-languages-a-hackers-field-guide/",
+          "publishedOn": "2022-01-26T15:00:17.000Z",
+          "wordCount": 3574,
+          "title": "Strange Computer Languages: A Hacker’s Field Guide"
+        },
+        {
+          "id": "https://hackaday.com/?p=517003",
+          "author": "Ryan Flowers",
+          "description": "One of the joys of being a Maker and Hacker is solving problems and filling needs. When you can do both, well, that’s something special. [rodrigo.mejiasz]’s project surely fits into …read more",
+          "link": "https://hackaday.com/2022/01/26/monitor-for-bedridden-patients-aims-to-improve-care/",
+          "publishedOn": "2022-01-26T12:00:46.000Z",
+          "wordCount": 1658,
+          "title": "Monitor For Bedridden Patients Aims To Improve Care"
+        },
+        {
           "id": "https://hackaday.com/?p=516935",
           "author": "Dave Rowntree",
           "description": "Many of us hardware-oriented types find it hard to walk past a lonely-looking discarded item of consumer electronics without thinking “If only I could lug that back to the car …read more",
@@ -27497,6 +27875,46 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "F2549116-D38B-4349-B76D89E6C35D59FD",
+          "author": "Thomas Frank, E&E News",
+          "description": "The agency wants to examine if aid is distrubuted inequitably\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/fema-to-start-tracking-race-of-disaster-aid-applicants/",
+          "publishedOn": "2022-01-26T20:15:00.000Z",
+          "wordCount": null,
+          "title": "FEMA to Start Tracking Race of Disaster-Aid Applicants",
+          "itunes": {}
+        },
+        {
+          "id": "97D0D1E6-E628-45B3-B0A372679439C89B",
+          "author": "Sara Reardon",
+          "description": "It depends, but vaccinated people should generally wait five days after exposure before taking an antigen test. Here’s why\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/when-should-you-get-a-covid-test1/",
+          "publishedOn": "2022-01-26T14:00:00.000Z",
+          "wordCount": null,
+          "title": "When Should You Get a COVID Test?",
+          "itunes": {}
+        },
+        {
+          "id": "72ED4AE6-413E-4673-881CF8EE86E02CB1",
+          "author": "Anil Ananthaswamy",
+          "description": "Subtle signals from black hole mergers might confirm the existence of “Hawking radiation”—and gravitational-wave detectors may have already seen them\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/could-echoes-from-colliding-black-holes-prove-stephen-hawkings-greatest-prediction1/",
+          "publishedOn": "2022-01-26T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Could Echoes from Colliding Black Holes Prove Stephen Hawking's Greatest Prediction?",
+          "itunes": {}
+        },
+        {
+          "id": "77362F4E-71EF-4B50-B0FB16376F400434",
+          "author": "Emily Laber-Warren",
+          "description": "People in a study handily solved puzzles while juggling an unrelated mental task by relying on spontaneous insight, not analytic thinking\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/aha-moments-pop-up-from-below-the-level-of-conscious-awareness/",
+          "publishedOn": "2022-01-26T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Aha! Moments Pop Up from below the Level of Conscious Awareness",
+          "itunes": {}
+        },
+        {
           "id": "25FFD288-4368-45E3-8210EE6CBBC565D7",
           "author": "Alexandra Witze, Nature magazine",
           "description": "The ambitious observatory has arrived at its home—near a gravitationally stable spot called L2—for a premier view of the universe\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -27551,6 +27969,16 @@
           "publishedOn": "2022-01-25T14:00:00.000Z",
           "wordCount": null,
           "title": "Schoolkids Are Falling Victim to Disinformation and Conspiracy Fantasies",
+          "itunes": {}
+        },
+        {
+          "id": "EED04A11-01F1-46D2-A4534C31BBC94A0B",
+          "author": "Tara Haelle",
+          "description": "COVID shutdowns limited the spread of influenza in 2019–2020. Several factors could mean this season will be more severe\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/dangerous-flu-comeback-expected-atop-covid-this-winter1/",
+          "publishedOn": "2022-01-25T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Dangerous Flu Comeback Expected atop COVID This Winter",
           "itunes": {}
         },
         {
@@ -33017,6 +33445,24 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=149371",
+          "author": "Don Macvittie",
+          "description": "If you’ve seen Idiocracy (Side note: I am not recommending the movie; I’m using a phrase from it we’ve all heard. The movie itself was a comedy not at all meant to be family-friendly when it was made, and changes in social mores since its 2006 release make it far less acceptable today), you are […]\nThe post AI: It’s What Staff Crave! appeared first on DevOps.com.",
+          "link": "https://devops.com/ai-its-what-staff-craves/",
+          "publishedOn": "2022-01-26T07:30:56.000Z",
+          "wordCount": 1156,
+          "title": "AI: It’s What Staff Crave!"
+        },
+        {
+          "id": "https://devops.com/?p=149373",
+          "author": "Pieter Danhieux",
+          "description": "The recent Log4j vulnerability showed just how quickly a security bug could disrupt not just an industry, but the entire world. Organizations, especially federal agencies, will always find themselves at some level of risk, but they can also do more to mitigate those challenges. In November 2021, the Biden administration issued a directive through the […]\nThe post Improving Software Security in 2022 appeared first on DevOps.com.",
+          "link": "https://devops.com/improving-software-security-in-2022/",
+          "publishedOn": "2022-01-26T07:30:40.000Z",
+          "wordCount": 1300,
+          "title": "Improving Software Security in 2022"
+        },
+        {
           "id": "https://devops.com/?p=149360",
           "author": "Mike Luedke",
           "description": "Most people are painfully aware that security breaches have increased in recent years, while at the same time becoming much more sophisticated in their approach. Additionally, ever-expanding application environments and continuously evolving workloads have created more opportunities than ever for attackers. What’s not so apparent to those outside of the tech bubble: The world is […]\nThe post 4 Ways to Combat the DevOps and Security Workforce Shortage appeared first on DevOps.com.",
@@ -35562,6 +36008,15 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=112041",
+          "author": "Ben Brubaker",
+          "description": "The same phenomenon by which an opera singer can shatter a wineglass also underlies the very existence of subatomic particles.\r\n            \nThe post How the Physics of Resonance Shapes Reality first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-the-physics-of-resonance-shapes-reality-20220126/",
+          "publishedOn": "2022-01-26T17:07:40.000Z",
+          "wordCount": 1468,
+          "title": "How the Physics of Resonance Shapes Reality"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=112038",
           "author": "Anil Ananthaswamy",
           "description": "By using hypernetworks, researchers can now preemptively fine-tune artificial neural networks, saving some of the time and expense of training.            \nThe post Researchers Build AI That Builds AI first appeared on Quanta Magazine",
@@ -36156,6 +36611,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66674",
+          "author": "Nathan Yau",
+          "description": "Median income only tells you where the middle is. The distributions of income are a lot more interesting.\nTags: age, income",
+          "link": "https://flowingdata.com/2022/01/26/how-much-americans-make/",
+          "publishedOn": "2022-01-26T10:51:38.000Z",
+          "wordCount": 818,
+          "title": "How Much Americans Make"
+        },
         {
           "id": "https://flowingdata.com/?p=66012",
           "author": "Maarten Lambrechts",
