@@ -2,10 +2,455 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2022-01-27T01:10:11.691Z</updated>
+    <updated>2022-01-28T01:10:25.528Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – Alpha Beta Pruning Algorithm on NegaMax (Game Theory)]]></title>
+        <id>https://helloacm.com/?p=148729</id>
+        <link href="https://helloacm.com/teaching-kids-programming-alpha-beta-pruning-algorithm-on-negamax-game-theory/"/>
+        <updated>2022-01-28T00:20:47.000Z</updated>
+        <summary type="html"><![CDATA[Teaching Kids Programming: Videos on Data Structures and Algorithms The Alpha Beta Pruning Optimisation Algorithm can also be applied directly on NegaMax – so that we can combine both...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jukebox Electromechanical Automation Explained]]></title>
+        <id>https://hackaday.com/?p=517320</id>
+        <link href="https://hackaday.com/2022/01/27/jukebox-electromechanical-automation-explained/"/>
+        <updated>2022-01-28T00:00:29.000Z</updated>
+        <summary type="html"><![CDATA[If you ever been curious how old-school jukeboxes work, it’s all electromechanical and no computers. In a pair of videos, [Technology Connections] takes us through a detailed dive into the …read more]]></summary>
+        <author>
+            <name>Chris Lott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git: Switching Unstaged Changes to a New Branch]]></title>
+        <id>https://css-tricks.com/?p=360998</id>
+        <link href="https://css-tricks.com/git-switching-unstaged-changes-to-a-new-branch/"/>
+        <updated>2022-01-27T23:49:45.000Z</updated>
+        <summary type="html"><![CDATA[I’m always on the wrong branch. I’m either on master or main working on something that should be on a fix or feature branch. Or I’m on the last branch I was working on and should have cut a new …
+Git: Switching Unstaged Changes to a New Branch originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recreating MS Paint For The ESP32]]></title>
+        <id>https://hackaday.com/?p=517359</id>
+        <link href="https://hackaday.com/2022/01/27/recreating-ms-paint-for-the-esp32/"/>
+        <updated>2022-01-27T21:00:55.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Paint was one of the first creative outlets for many children when they first laid hands on a computer in the 1990s. Now, [Volos Projects] has brought the joy …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Custom Icons to Your Flutter Application]]></title>
+        <id>61f1a334f2ed6b06db5a5cbe</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-custom-icons-to-your-flutter-application/"/>
+        <updated>2022-01-27T20:54:03.000Z</updated>
+        <summary type="html"><![CDATA[When you want to add some style to your application, you likely look for ways to make your User Interface stand out.  Whether it is using a specific font or a different color palate, you want to make the user feel attracted to your UI.  One way to]]></summary>
+        <author>
+            <name>Tomer Ben Rachel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top JavaScript Concepts to Know Before Learning React]]></title>
+        <id>61eda498011f893303471695</id>
+        <link href="https://www.freecodecamp.org/news/top-javascript-concepts-to-know-before-learning-react/"/>
+        <updated>2022-01-27T20:34:48.000Z</updated>
+        <summary type="html"><![CDATA[If you want to learn React –or any JavaScript framework – you'll first need to understand the fundamental JavaScript methods and concepts. Otherwise it's like a youngster learning to run before learning to walk.  Many developers choose a "learn as you go" approach when learning React. But this often]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reject Modernity; Return To Tamagotchi]]></title>
+        <id>https://hackaday.com/?p=517246</id>
+        <link href="https://hackaday.com/2022/01/27/reject-modernity-return-to-tamagotchi/"/>
+        <updated>2022-01-27T19:30:39.000Z</updated>
+        <summary type="html"><![CDATA[Browsing through the recent projects on Hackaday.io, we’ve found this entry by [NanoCodeBug]: a single-PCB low-power trinket reviving the “pocket pet” concept while having some fun in the process! Some …read more]]></summary>
+        <author>
+            <name>Arsenijs Picugins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✚ Visualization Tools and Learning Resources, January 2022 Roundup]]></title>
+        <id>https://flowingdata.com/?p=66699</id>
+        <link href="https://flowingdata.com/2022/01/27/process-174-january-2022-roundup/"/>
+        <updated>2022-01-27T19:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Here's the good stuff for January.
+Tags: roundup]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Platformer Game with GDevelop]]></title>
+        <id>61f2dedef2ed6b06db5a651f</id>
+        <link href="https://www.freecodecamp.org/news/create-a-platformer-game-with-gdevelop/"/>
+        <updated>2022-01-27T18:20:37.000Z</updated>
+        <summary type="html"><![CDATA[Creating your own game is easier than ever! GDevelop is a beginner-friendly game engine that helps you create 2D games with little to no code. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use GDevelop to create 2D games. Wesley and Max]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remoticon 2021 // Voja Antonic Makes You a Digital Designer]]></title>
+        <id>https://hackaday.com/?p=516759</id>
+        <link href="https://hackaday.com/2022/01/27/remoticon-2021-voja-antonic-makes-you-a-digital-designer/"/>
+        <updated>2022-01-27T18:02:14.000Z</updated>
+        <summary type="html"><![CDATA[[Voja Antonic] has been building digital computers since before many of us were born. He designed with the Z80 when it was new, and has decades of freelance embedded experience, …read more]]></summary>
+        <author>
+            <name>Dave Rowntree</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn TypeScript – The Ultimate Beginners Guide]]></title>
+        <id>61e1733db837d507ba0a2813</id>
+        <link href="https://www.freecodecamp.org/news/learn-typescript-beginners-guide/"/>
+        <updated>2022-01-27T17:47:36.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript has become increasingly popular over the last few years, and many jobs are now requiring developers to know TypeScript.  But don't be alarmed – if you already know JavaScript, you will be able to pick up TypeScript quickly.  Even if you don't plan on using TypeScript, learning]]></summary>
+        <author>
+            <name>Danny Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google FLoC is Dead | Meta AI Supercomputer Lives | ARM Deal is Dead]]></title>
+        <id>https://devops.com/?p=149461</id>
+        <link href="https://devops.com/google-floc-is-dead-meta-ai-supercomputer-lives-arm-deal-is-dead/"/>
+        <updated>2022-01-27T17:22:21.000Z</updated>
+        <summary type="html"><![CDATA[In this week’s The Long View: Google’s FLoC proposal is dead, Meta/Facebook is buying RSC—a huge AI supercomputer, and Arm “will IPO” instead of selling to Nvidia.
+The post Google FLoC is Dead | Meta AI Supercomputer Lives | ARM Deal is Dead appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Richi Jennings</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gas Stoves Leak More Methane than Previously Thought]]></title>
+        <id>314DB98D-3A35-4284-848285EA611F10F4</id>
+        <link href="https://www.scientificamerican.com/article/gas-stoves-leak-more-methane-than-previously-thought/"/>
+        <updated>2022-01-27T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The appliances also release nitrogen dioxide, an air pollutant that can exacerbate asthma and other conditions
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>David Iaconangelo, E&amp;E News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robotic Xylophone Makes Music with MIDI Magic]]></title>
+        <id>https://hackaday.com/?p=517155</id>
+        <link href="https://hackaday.com/2022/01/27/robotic-xylophone-makes-music-with-midi-magic/"/>
+        <updated>2022-01-27T16:30:43.000Z</updated>
+        <summary type="html"><![CDATA[The MIDI format has long been used to create some banging electronic music, so it’s refreshing to see how [John P. Miller] applied the standard in his decidedly analog self-playing …read more]]></summary>
+        <author>
+            <name>Chris Wilkinson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Solution to the Faint-Sun Paradox Reveals a Narrow Window for Life]]></title>
+        <id>https://www.quantamagazine.org/?p=112044</id>
+        <link href="https://www.quantamagazine.org/the-sun-was-dimmer-when-earth-formed-how-did-life-emerge-20220127/"/>
+        <updated>2022-01-27T16:16:19.000Z</updated>
+        <summary type="html"><![CDATA[Back when the sun was 30% dimmer, Earth should have frozen solid. Yet water flowed and life blossomed. The solution to the paradox shows that we might have that faint sun to owe for life’s existence — with critical consequences for the possibility of life outside Earth.            
+The post A Solution to the Faint-Sun Paradox Reveals a Narrow Window for Life first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Jonathan O'Callaghan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA's 'Nuclear Option' May Be Crucial for Getting Humans to Mars]]></title>
+        <id>BEFABB9F-AE66-4185-B834DE675F522505</id>
+        <link href="https://www.scientificamerican.com/article/nasas-nuclear-option-may-be-crucial-for-getting-humans-to-mars/"/>
+        <updated>2022-01-27T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After decades of false starts, a new push for nuclear-powered rocketry could make or break the space agency’s plans to send astronauts to the Red Planet
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>David W. Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[neon-moon-ui]]></title>
+        <id>https://atom.io/packages/neon-moon-ui</id>
+        <link href="https://atom.io/packages/neon-moon-ui"/>
+        <updated>2022-01-27T15:48:09.000Z</updated>
+        <summary type="html"><![CDATA[Atom UI Theme Template
+This is a starter template for creating an Atom UI theme.
+This template only includes the minimum of styling needed and comes with a neutral look. It could already be used as a real theme, but its purpose is to serve as a basis for creating your own theme. It is documented throughout and invites you to make changes to your liking. For some inspiration take a look at other Atom themes at atom.io/themes. Or you're always free to fork a theme that already comes close to your vision.
+Happy theming! 🚀
+Getting started
+Fork this repository.
+Continue with step 2 from Creating a UI Theme
+
+
+If you get stuck somewhere, feel free to create an issue.
+ps. Don't forget to delete the above and edit the below in your own README.md.
+My UI theme
+A short description of your theme.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demystifying TypeScript Discriminated Unions]]></title>
+        <id>https://css-tricks.com/?p=362091</id>
+        <link href="https://css-tricks.com/typescript-discriminated-unions/"/>
+        <updated>2022-01-27T15:20:57.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript is a wonderful tool for writing JavaScript that scales. It’s more or less the de facto standard for the web when it comes to large JavaScript projects. As outstanding as it is, there are some tricky pieces for the …
+Demystifying TypeScript Discriminated Unions originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build, Ship, & Maintain Design Systems with Backlight]]></title>
+        <id>https://css-tricks.com/?p=361971</id>
+        <link href="https://css-tricks.com/design-systems-with-backlight/"/>
+        <updated>2022-01-27T15:18:25.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Design systems are an entire job these days. Agencies are hired to create them. In-house teams are formed to handle them, shipping them so that other teams can use them and helping ensure they …
+Build, Ship, & Maintain Design Systems with Backlight originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SHERLOC and the Search for Life on Mars]]></title>
+        <id>https://hackaday.com/?p=517126</id>
+        <link href="https://hackaday.com/2022/01/27/sherloc-and-the-search-for-life-on-mars/"/>
+        <updated>2022-01-27T15:00:55.000Z</updated>
+        <summary type="html"><![CDATA[Humanity has been wondering about whether life exists beyond our little backwater planet for so long that we’ve developed a kind of cultural bias as to how the answer to …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Louisiana's $2-Billion Gamble: Flood the Land to Save the Coast]]></title>
+        <id>7145A5AE-D3AE-46BA-99F5C1AB174D3F31</id>
+        <link href="https://www.scientificamerican.com/article/louisianas-2-billion-gamble-flood-the-land-to-save-the-coast/"/>
+        <updated>2022-01-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A new engineering project would bring much needed land to eroding marshes but at a huge cost to the fishing industry
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Duy Linh Tu, Julian Lim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nuclear-Testing 'Downwinders' Speak About History and Fear]]></title>
+        <id>FB4925CF-0391-4140-9E4FAEDF2C3139AD</id>
+        <link href="https://www.scientificamerican.com/article/nuclear-testing-downwinders-speak-about-history-and-fear/"/>
+        <updated>2022-01-27T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An archival project aims to document the experiences of people who suffered from U.S. nuclear weapons testing
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Sarah Scoles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Airlines Can Solve Their 5G Problem]]></title>
+        <id>D9C821ED-D05D-49A4-A4D62BB5B8B9B202</id>
+        <link href="https://www.scientificamerican.com/article/how-airlines-can-solve-their-5g-problem/"/>
+        <updated>2022-01-27T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A delayed rollout bought time to address worries that the new telecommunications standard would interfere with aviation instruments
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Sophie Bushwick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Up-To-Date Development Environment For The Nokia N-Gage]]></title>
+        <id>https://hackaday.com/?p=517249</id>
+        <link href="https://hackaday.com/2022/01/27/an-up-to-date-development-environment-for-the-nokia-n-gage/"/>
+        <updated>2022-01-27T12:00:12.000Z</updated>
+        <summary type="html"><![CDATA[One of the brave but unsuccessful plays from Nokia during their glory years was the N-Gage, an attempt to merge a Symbian smartphone and a handheld game console. It may …read more]]></summary>
+        <author>
+            <name>Jenny List</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Love You, Ringo]]></title>
+        <id>https://davidwalsh.name/?p=27498</id>
+        <link href="https://davidwalsh.name/ringo"/>
+        <updated>2022-01-27T11:32:58.000Z</updated>
+        <summary type="html"><![CDATA[Some things happen in your life at exactly the right time. It could be meeting the right person, discovering an open source project you go on to join, or even starting a blog when you’re bored with a job you don’t enjoy. All of those things happened to me at the right time and brought […]
+The post I Love You, Ringo appeared first on David Walsh Blog.]]></summary>
+        <author>
+            <name>David Walsh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whistleblowers Make Spaceflight Safer, Says Witness to Apollo Tragedy]]></title>
+        <id>C43CEFFE-9465-4D5D-A006952B384E4EC5</id>
+        <link href="https://www.scientificamerican.com/article/whistleblowers-make-spaceflight-safer-says-witness-to-apollo-tragedy/"/>
+        <updated>2022-01-27T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As we continue to push into space, the 55th anniversary of the deadly fire reminds us to prioritize both safety and people
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Matthew Beddingfield</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards Cruelty-Free Fashion with Lab-Grown Fur and Leather]]></title>
+        <id>https://hackernoon.com/towards-cruelty-free-fashion-with-lab-grown-fur-and-leather?source=rss</id>
+        <link href="https://hackernoon.com/towards-cruelty-free-fashion-with-lab-grown-fur-and-leather?source=rss"/>
+        <updated>2022-01-27T10:20:39.000Z</updated>
+        <summary type="html"><![CDATA[With consumer conscientiousness on the rise, more and more brands are finding ways to adapt to an ethical production of fur and leather.]]></summary>
+        <author>
+            <name>ÀLA.HAUSSE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3 Enables Users to Create and Own their Web Experience]]></title>
+        <id>https://hackernoon.com/web3-enables-users-to-create-and-own-their-web-experience?source=rss</id>
+        <link href="https://hackernoon.com/web3-enables-users-to-create-and-own-their-web-experience?source=rss"/>
+        <updated>2022-01-27T09:27:43.000Z</updated>
+        <summary type="html"><![CDATA[Fetch.ai is an AI-powered blockchain that allows businesses and individuals to use multi-agent system-based solutions to solve complex problems or coordination.]]></summary>
+        <author>
+            <name>Ishan Pandey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black Ink Rivers: A Ghastly Consequence of the Dye Industry]]></title>
+        <id>https://hackernoon.com/black-ink-rivers-a-ghastly-consequence-of-the-dye-industry?source=rss</id>
+        <link href="https://hackernoon.com/black-ink-rivers-a-ghastly-consequence-of-the-dye-industry?source=rss"/>
+        <updated>2022-01-27T09:14:38.000Z</updated>
+        <summary type="html"><![CDATA[The fashion industry's pollution is a major detriment to the environment, turning once beautiful and flowing exotic rivers toxic, and black as ink.]]></summary>
+        <author>
+            <name>ÀLA.HAUSSE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Investing in Artificial Intelligence: How MLOps Drives Enterprise AI Wins]]></title>
+        <id>https://devops.com/?p=149433</id>
+        <link href="https://devops.com/investing-in-artificial-intelligence-how-mlops-drives-enterprise-ai-wins/"/>
+        <updated>2022-01-27T09:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Insight Partners had a banner year in 2021, with more than $50 billion in capital commitments across over 200 investments. While we invest in founders across a wide spectrum of businesses, this series focuses on outlining our theses on four verticals that we’re particularly excited about in 2022: Artificial intelligence (AI), fintech, cybersecurity and healthtech.  […]
+The post Investing in Artificial Intelligence: How MLOps Drives Enterprise AI Wins appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Ganesh Bell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Every Resident Evil Game in Chronological Order: A Complete Timeline]]></title>
+        <id>https://hackernoon.com/every-resident-evil-game-in-chronological-order-a-complete-timeline?source=rss</id>
+        <link href="https://hackernoon.com/every-resident-evil-game-in-chronological-order-a-complete-timeline?source=rss"/>
+        <updated>2022-01-27T08:59:09.000Z</updated>
+        <summary type="html"><![CDATA[With a storyline spanning over 25 years, there is a lot to keep track of in Resident Evil. Here are all the Resident Evil games in chronological order.]]></summary>
+        <author>
+            <name>Adrian Morales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spotting spurious correlations in health news]]></title>
+        <id>https://flowingdata.com/?p=66693</id>
+        <link href="https://flowingdata.com/2022/01/27/spotting-spurious-correlations-in-health-news/"/>
+        <updated>2022-01-27T08:06:19.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to diet and health, you might see one day that…
+Tags: causation, correlation, health]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Lego Approach to Overcoming the Developer Divide]]></title>
+        <id>https://devops.com/?p=149383</id>
+        <link href="https://devops.com/the-lego-approach-to-overcoming-the-developer-divide/"/>
+        <updated>2022-01-27T08:00:23.000Z</updated>
+        <summary type="html"><![CDATA[As end-user demand for new services continues to rise and businesses adapt to changing times, digitalization has never been more important. Pressure is increasing on organizations to deliver digital transformation initiatives more quickly as 55% of CIOs in 2021 said they were increasing staff to accelerate their digital programs. The cloud is essential for this. […]
+The post The Lego Approach to Overcoming the Developer Divide appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Rahul Pradhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring Technical Debt]]></title>
+        <id>https://devops.com/?p=149398</id>
+        <link href="https://devops.com/measuring-technical-debt/"/>
+        <updated>2022-01-27T07:30:30.000Z</updated>
+        <summary type="html"><![CDATA[What is enterprise technical debt? Technical debt slows down organizations and hampers their ability to deliver. Studies show that technical debt can triple the cost of support for technical products and services. Beyond this, technical debt can cripple a company’s ability to make the rapid changes needed to compete in today’s marketplace. Those all describe […]
+The post Measuring Technical Debt appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Sean Mack</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anxiety and Identity]]></title>
+        <id>https://devops.com/?p=149445</id>
+        <link href="https://devops.com/anxiety-and-identity/"/>
+        <updated>2022-01-27T07:00:07.000Z</updated>
+        <summary type="html"><![CDATA[The post Anxiety and Identity appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>ROELBOB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Beginner's Introduction to the Python Programming Language]]></title>
+        <id>https://hackernoon.com/a-beginners-introduction-to-the-python-programming-language?source=rss</id>
+        <link href="https://hackernoon.com/a-beginners-introduction-to-the-python-programming-language?source=rss"/>
+        <updated>2022-01-27T01:38:41.000Z</updated>
+        <summary type="html"><![CDATA[Python is a language known for being modular. It has an extensive standard library and its simple to use syntax facilitates coding in the language.]]></summary>
+        <author>
+            <name>ahyanahmincy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart glasses are Rising From the Ashes of Google Glass Failure]]></title>
+        <id>https://hackernoon.com/smart-glasses-are-rising-from-the-ashes-of-google-glass-failure?source=rss</id>
+        <link href="https://hackernoon.com/smart-glasses-are-rising-from-the-ashes-of-google-glass-failure?source=rss"/>
+        <updated>2022-01-27T01:33:14.000Z</updated>
+        <summary type="html"><![CDATA[Smart glasses are rising from the ashes of Google Glass failure to woo consumers]]></summary>
+        <author>
+            <name>Craig Lebrau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving Security in your Microservices Architecture with Istio]]></title>
+        <id>https://hackernoon.com/improving-security-in-your-microservices-architecture-with-istio?source=rss</id>
+        <link href="https://hackernoon.com/improving-security-in-your-microservices-architecture-with-istio?source=rss"/>
+        <updated>2022-01-27T01:23:30.000Z</updated>
+        <summary type="html"><![CDATA[Security in a microservice architecture with Istio 1.12]]></summary>
+        <author>
+            <name>Ilia Feoktistov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Co-Pilot in a Nutshell]]></title>
+        <id>https://hackernoon.com/github-co-pilot-in-a-nutshell?source=rss</id>
+        <link href="https://hackernoon.com/github-co-pilot-in-a-nutshell?source=rss"/>
+        <updated>2022-01-27T00:35:21.000Z</updated>
+        <summary type="html"><![CDATA[Everything about the GitHub Co-Pilot from what it is to why it exists]]></summary>
+        <author>
+            <name>Edem Gold</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Have My Own AWS VPC, and Now You Can Too!]]></title>
+        <id>https://hackernoon.com/i-have-my-own-aws-vpc-and-now-you-can-too?source=rss</id>
+        <link href="https://hackernoon.com/i-have-my-own-aws-vpc-and-now-you-can-too?source=rss"/>
+        <updated>2022-01-27T00:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Let's see how a default VPC is configured in AWS, CIDR block, the associated subnets within it, routes, NACLs and Security Groups.]]></summary>
+        <author>
+            <name>Aditi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pocket-Sized Doom Is Actually Playable]]></title>
         <id>https://hackaday.com/?p=517168</id>
@@ -14,6 +459,122 @@
         <summary type="html"><![CDATA[It used to be that you needed a well-equipped expensive new beige-box PC if you wanted to play Doom at all. Now, you can do so in a form factor …read more]]></summary>
         <author>
             <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache Flink ML 2.0 Released]]></title>
+        <id>http://www.i-programmer.info/news/197-data-mining/15160-apache-flink-ml-20-released.html</id>
+        <link href="http://www.i-programmer.info/news/197-data-mining/15160-apache-flink-ml-20-released.html"/>
+        <updated>2022-01-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Flink ML 2.0.0 has been released. Flink ML is a library that provides APIs and infrastructure for building stream-batch unified machine learning algorithms, that can be easy-to-use and performant with (near-) real-time latency.
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Builds AI Supercomputer]]></title>
+        <id>http://www.i-programmer.info/news/105-artificial-intelligence/15172-meta-builds-ai-supercomputer.html</id>
+        <link href="http://www.i-programmer.info/news/105-artificial-intelligence/15172-meta-builds-ai-supercomputer.html"/>
+        <updated>2022-01-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Meta, formerly known as Facebook, has announced that its researchers have designed and built an AI Research SuperCluster (RSC) that they believe is among the fastest AI supercomputers running today and will be the fastest AI supercomputer in the world when, in mid-2022, it’s fully built.
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The New York Fashion Act is a Step in the Right Direction]]></title>
+        <id>https://hackernoon.com/the-new-york-fashion-act-is-a-step-in-the-right-direction?source=rss</id>
+        <link href="https://hackernoon.com/the-new-york-fashion-act-is-a-step-in-the-right-direction?source=rss"/>
+        <updated>2022-01-26T23:58:59.000Z</updated>
+        <summary type="html"><![CDATA[The recent New York Fashion Act is a revolutionairy demand, setting precedence to enabling transparency in the fahsion industry.]]></summary>
+        <author>
+            <name>ÀLA.HAUSSE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Give me a Unix Shell and I'll Build Container Images ... for Life]]></title>
+        <id>https://hackernoon.com/give-me-a-unix-shell-and-ill-build-container-images-for-life?source=rss</id>
+        <link href="https://hackernoon.com/give-me-a-unix-shell-and-ill-build-container-images-for-life?source=rss"/>
+        <updated>2022-01-26T23:55:37.000Z</updated>
+        <summary type="html"><![CDATA[People in the stone age used their bare hands to create container images!.]]></summary>
+        <author>
+            <name>inaeem</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are NFTs and Why Should I Care About Them]]></title>
+        <id>https://hackernoon.com/what-are-nfts-and-why-should-i-care-about-them?source=rss</id>
+        <link href="https://hackernoon.com/what-are-nfts-and-why-should-i-care-about-them?source=rss"/>
+        <updated>2022-01-26T23:52:37.000Z</updated>
+        <summary type="html"><![CDATA[Understanding NFTs, knowing what they are, what they are used for and how to buy or sell them]]></summary>
+        <author>
+            <name>Edem Gold</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Fashion Industry Deters Counterfeits]]></title>
+        <id>https://hackernoon.com/how-the-fashion-industry-deters-counterfeits?source=rss</id>
+        <link href="https://hackernoon.com/how-the-fashion-industry-deters-counterfeits?source=rss"/>
+        <updated>2022-01-26T23:39:19.000Z</updated>
+        <summary type="html"><![CDATA[Fashion counterfeits have been plaguing the industry since its beginning, but now designers have been fighting back, stronger than before.]]></summary>
+        <author>
+            <name>ÀLA.HAUSSE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the UN’s Sustainable Development Global Goals Align With the ÀLA.HAUSSE Mission]]></title>
+        <id>https://hackernoon.com/how-the-uns-sustainable-development-global-goals-align-with-the-alahausse-mission?source=rss</id>
+        <link href="https://hackernoon.com/how-the-uns-sustainable-development-global-goals-align-with-the-alahausse-mission?source=rss"/>
+        <updated>2022-01-26T23:36:05.000Z</updated>
+        <summary type="html"><![CDATA[The UN's Sustainable Development Goals initiative was a step towards global reconciliation, and we at ÀLA.HAUSSE share those foundational goals.]]></summary>
+        <author>
+            <name>ÀLA.HAUSSE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Voting CLOSES in Less Than 6 Hours!]]></title>
+        <id>https://hackernoon.com/voting-closes-in-less-than-6-hours?source=rss</id>
+        <link href="https://hackernoon.com/voting-closes-in-less-than-6-hours?source=rss"/>
+        <updated>2022-01-26T23:24:21.000Z</updated>
+        <summary type="html"><![CDATA[Both the Noonies and Startups campaigns close in less than 6 hours. The time to vote is now!]]></summary>
+        <author>
+            <name>Noonies 2021</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Full Stack Application With Supabase, React, and Tailwind CSS in Nextjs]]></title>
+        <id>61f03606f2ed6b06db5a5067</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-full-stack-application-with-tailwind-css-and-supabase-in-nextjs/"/>
+        <updated>2022-01-26T23:03:34.000Z</updated>
+        <summary type="html"><![CDATA[Serverless databases are all the rage these days. They allow you to develop a fully functional app without building a server or writing server code. A serverless database is a cloud computing solution that lets you distribute and flexibly manage your resources. In this tutorial, we'll build a full-stack application]]></summary>
+        <author>
+            <name>Idris Olubisi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WonderHero Becomes the First Play-to-Earn Game Launching 10 Major Guilds at Once]]></title>
+        <id>https://hackernoon.com/wonderhero-becomes-the-first-play-to-earn-game-launching-10-major-guilds-at-once?source=rss</id>
+        <link href="https://hackernoon.com/wonderhero-becomes-the-first-play-to-earn-game-launching-10-major-guilds-at-once?source=rss"/>
+        <updated>2022-01-26T23:02:38.000Z</updated>
+        <summary type="html"><![CDATA[WonderHero, a play-to-earn NFT based game, became the first game to launch 10 gaming guilds bringing nearly $2.5 million USDT in-game assets.]]></summary>
+        <author>
+            <name>Ishan Pandey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Colizeum Raises $8.4 Million From Deribit, SevenX Ventures, Axia8 and Genblock Capital]]></title>
+        <id>https://hackernoon.com/colizeum-raises-$84-million-from-deribit-sevenx-ventures-axia8-and-genblock-capital?source=rss</id>
+        <link href="https://hackernoon.com/colizeum-raises-$84-million-from-deribit-sevenx-ventures-axia8-and-genblock-capital?source=rss"/>
+        <updated>2022-01-26T23:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Colizeum, a software development kit startup that provides SDK for mobile game developers and the Play-2-Earn economy, raised $8.4 million.]]></summary>
+        <author>
+            <name>Ishan Pandey</name>
         </author>
     </entry>
     <entry>
@@ -133,6 +694,16 @@ How to Cycle Through Classes on an HTML Element originally published on CSS-Tric
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How We Built a Solution That Improves Google Cloud Security by Leveraging Managed Instance Groups]]></title>
+        <id>https://hackernoon.com/how-we-built-a-solution-that-improves-google-cloud-security-by-leveraging-managed-instance-groups?source=rss</id>
+        <link href="https://hackernoon.com/how-we-built-a-solution-that-improves-google-cloud-security-by-leveraging-managed-instance-groups?source=rss"/>
+        <updated>2022-01-26T17:22:13.000Z</updated>
+        <summary type="html"><![CDATA[Ckeckout some significant enhancements to CloudGuard’s integration with new and existing Google Cloud features to benefit from it.]]></summary>
+        <author>
+            <name>Check Point Software</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How the Physics of Resonance Shapes Reality]]></title>
         <id>https://www.quantamagazine.org/?p=112041</id>
         <link href="https://www.quantamagazine.org/how-the-physics-of-resonance-shapes-reality-20220126/"/>
@@ -223,6 +794,16 @@ The post How the Physics of Resonance Shapes Reality first appeared on Quanta Ma
 Fancy CSS Borders Using Masks originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Engaging to Earn with AdLunam Co-Founder Nadja Bester]]></title>
+        <id>https://hackernoon.com/engaging-to-earn-with-adlunam-co-founder-nadja-bester?source=rss</id>
+        <link href="https://hackernoon.com/engaging-to-earn-with-adlunam-co-founder-nadja-bester?source=rss"/>
+        <updated>2022-01-26T14:16:42.000Z</updated>
+        <summary type="html"><![CDATA[In this Slogging AMA, we chat to Nadja Bester, the cofounder of AdLunman, an IDO launchpad that uses the principles of engage to earn]]></summary>
+        <author>
+            <name>Jack Boreham</name>
         </author>
     </entry>
     <entry>
@@ -353,6 +934,16 @@ The post Improving Software Security in 2022 appeared first on DevOps.com.]]></s
         <summary type="html"><![CDATA[My name's Danielle and I'm an electrical engineering major with a passion for neuroscience.]]></summary>
         <author>
             <name>Danielle Gruber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy a React App to Heroku in 5 Minutes in 5 Easy Steps]]></title>
+        <id>https://hackernoon.com/how-to-deploy-a-react-app-to-heroku-in-5-minutes-in-5-easy-steps?source=rss</id>
+        <link href="https://hackernoon.com/how-to-deploy-a-react-app-to-heroku-in-5-minutes-in-5-easy-steps?source=rss"/>
+        <updated>2022-01-26T05:23:08.000Z</updated>
+        <summary type="html"><![CDATA[Deployment of a React app on Heroku is a way of hosting an application on a server, and the server provides everything to keep the app live on the internet]]></summary>
+        <author>
+            <name>Teri Eyenike</name>
         </author>
     </entry>
     <entry>

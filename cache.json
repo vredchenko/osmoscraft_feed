@@ -733,6 +733,24 @@
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
         {
+          "id": "http://www.i-programmer.info/news/197-data-mining/15160-apache-flink-ml-20-released.html",
+          "author": null,
+          "description": "Flink ML 2.0.0 has been released. Flink ML is a library that provides APIs and infrastructure for building stream-batch unified machine learning algorithms, that can be easy-to-use and performant with (near-) real-time latency.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/197-data-mining/15160-apache-flink-ml-20-released.html",
+          "publishedOn": "2022-01-27T00:00:00.000Z",
+          "wordCount": 724,
+          "title": "Apache Flink ML 2.0 Released"
+        },
+        {
+          "id": "http://www.i-programmer.info/news/105-artificial-intelligence/15172-meta-builds-ai-supercomputer.html",
+          "author": null,
+          "description": "Meta, formerly known as Facebook, has announced that its researchers have designed and built an AI Research SuperCluster (RSC) that they believe is among the fastest AI supercomputers running today and will be the fastest AI supercomputer in the world when, in mid-2022, it’s fully built.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/105-artificial-intelligence/15172-meta-builds-ai-supercomputer.html",
+          "publishedOn": "2022-01-27T00:00:00.000Z",
+          "wordCount": 746,
+          "title": "Meta Builds AI Supercomputer"
+        },
+        {
           "id": "http://www.i-programmer.info/book-watch-archive/15173-reliable-source-lessons-from-a-life-in-software-engineering.html",
           "author": null,
           "description": "This book provides a retrospective, not of a single project or subproject, but on an entire career in the software industry. James Bonang conveys solutions to the eclectic problems you'll encounter as a software professional. The book provides encounters with interesting software engineering personalities, homicidal computers, ancient gods and an extra-solar interloper. You'll match wits with the world's greatest (fictional) detective and discover how top engineers determine the root cause of the most catastrophic software failures. You'll absorb a lifetime of experience without all the fuss.\n\r\n<ASIN:‎ B09QCBVJ9V>\n\r\n\nRead more...",
@@ -919,6 +937,15 @@
       "feedUrl": "https://atom.io/packages.atom",
       "siteUrl": "https://atom.io",
       "articles": [
+        {
+          "id": "https://atom.io/packages/neon-moon-ui",
+          "author": null,
+          "description": "Atom UI Theme Template\nThis is a starter template for creating an Atom UI theme.\nThis template only includes the minimum of styling needed and comes with a neutral look. It could already be used as a real theme, but its purpose is to serve as a basis for creating your own theme. It is documented throughout and invites you to make changes to your liking. For some inspiration take a look at other Atom themes at atom.io/themes. Or you're always free to fork a theme that already comes close to your vision.\nHappy theming! 🚀\nGetting started\nFork this repository.\nContinue with step 2 from Creating a UI Theme\n\n\nIf you get stuck somewhere, feel free to create an issue.\nps. Don't forget to delete the above and edit the below in your own README.md.\nMy UI theme\nA short description of your theme.",
+          "link": "https://atom.io/packages/neon-moon-ui",
+          "publishedOn": "2022-01-27T15:48:09.000Z",
+          "wordCount": 215,
+          "title": "neon-moon-ui"
+        },
         {
           "id": "https://atom.io/packages/auto-sass",
           "author": null,
@@ -1394,6 +1421,33 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=360998",
+          "author": "Chris Coyier",
+          "description": "I’m always on the wrong branch. I’m either on master or main working on something that should be on a fix or feature branch. Or I’m on the last branch I was working on and should have cut a new …\nGit: Switching Unstaged Changes to a New Branch originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/git-switching-unstaged-changes-to-a-new-branch/",
+          "publishedOn": "2022-01-27T23:49:45.000Z",
+          "wordCount": 688,
+          "title": "Git: Switching Unstaged Changes to a New Branch"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362091",
+          "author": "Adam Rackis",
+          "description": "TypeScript is a wonderful tool for writing JavaScript that scales. It’s more or less the de facto standard for the web when it comes to large JavaScript projects. As outstanding as it is, there are some tricky pieces for the …\nDemystifying TypeScript Discriminated Unions originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/typescript-discriminated-unions/",
+          "publishedOn": "2022-01-27T15:20:57.000Z",
+          "wordCount": 1740,
+          "title": "Demystifying TypeScript Discriminated Unions"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361971",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nDesign systems are an entire job these days. Agencies are hired to create them. In-house teams are formed to handle them, shipping them so that other teams can use them and helping ensure they …\nBuild, Ship, & Maintain Design Systems with Backlight originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/design-systems-with-backlight/",
+          "publishedOn": "2022-01-27T15:18:25.000Z",
+          "wordCount": 1287,
+          "title": "Build, Ship, & Maintain Design Systems with Backlight"
+        },
         {
           "id": "https://css-tricks.com/?p=361200",
           "author": "Chris Coyier",
@@ -3345,6 +3399,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61f1a334f2ed6b06db5a5cbe",
+          "author": "Tomer Ben Rachel",
+          "description": "When you want to add some style to your application, you likely look for ways to make your User Interface stand out.  Whether it is using a specific font or a different color palate, you want to make the user feel attracted to your UI.  One way to",
+          "link": "https://www.freecodecamp.org/news/how-to-add-custom-icons-to-your-flutter-application/",
+          "publishedOn": "2022-01-27T20:54:03.000Z",
+          "wordCount": 1247,
+          "title": "How to Add Custom Icons to Your Flutter Application"
+        },
+        {
+          "id": "61eda498011f893303471695",
+          "author": "Joel Olawanle",
+          "description": "If you want to learn React –or any JavaScript framework – you'll first need to understand the fundamental JavaScript methods and concepts. Otherwise it's like a youngster learning to run before learning to walk.  Many developers choose a \"learn as you go\" approach when learning React. But this often",
+          "link": "https://www.freecodecamp.org/news/top-javascript-concepts-to-know-before-learning-react/",
+          "publishedOn": "2022-01-27T20:34:48.000Z",
+          "wordCount": 3921,
+          "title": "Top JavaScript Concepts to Know Before Learning React"
+        },
+        {
+          "id": "61f2dedef2ed6b06db5a651f",
+          "author": "Beau Carnes",
+          "description": "Creating your own game is easier than ever! GDevelop is a beginner-friendly game engine that helps you create 2D games with little to no code. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use GDevelop to create 2D games. Wesley and Max",
+          "link": "https://www.freecodecamp.org/news/create-a-platformer-game-with-gdevelop/",
+          "publishedOn": "2022-01-27T18:20:37.000Z",
+          "wordCount": 423,
+          "title": "Create a Platformer Game with GDevelop"
+        },
+        {
+          "id": "61e1733db837d507ba0a2813",
+          "author": "Danny Adams",
+          "description": "TypeScript has become increasingly popular over the last few years, and many jobs are now requiring developers to know TypeScript.  But don't be alarmed – if you already know JavaScript, you will be able to pick up TypeScript quickly.  Even if you don't plan on using TypeScript, learning",
+          "link": "https://www.freecodecamp.org/news/learn-typescript-beginners-guide/",
+          "publishedOn": "2022-01-27T17:47:36.000Z",
+          "wordCount": 6783,
+          "title": "Learn TypeScript – The Ultimate Beginners Guide"
+        },
+        {
+          "id": "61f03606f2ed6b06db5a5067",
+          "author": "Idris Olubisi",
+          "description": "Serverless databases are all the rage these days. They allow you to develop a fully functional app without building a server or writing server code. A serverless database is a cloud computing solution that lets you distribute and flexibly manage your resources. In this tutorial, we'll build a full-stack application",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-full-stack-application-with-tailwind-css-and-supabase-in-nextjs/",
+          "publishedOn": "2022-01-26T23:03:34.000Z",
+          "wordCount": 2564,
+          "title": "How to Build a Full Stack Application With Supabase, React, and Tailwind CSS in Nextjs"
+        },
         {
           "id": "61ee3dc2011f8933034719ea",
           "author": "Camila Ramos Garzon",
@@ -6413,6 +6512,168 @@
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
         {
+          "id": "https://hackernoon.com/towards-cruelty-free-fashion-with-lab-grown-fur-and-leather?source=rss",
+          "author": "ÀLA.HAUSSE",
+          "description": "With consumer conscientiousness on the rise, more and more brands are finding ways to adapt to an ethical production of fur and leather.",
+          "link": "https://hackernoon.com/towards-cruelty-free-fashion-with-lab-grown-fur-and-leather?source=rss",
+          "publishedOn": "2022-01-27T10:20:39.000Z",
+          "wordCount": 2167,
+          "title": "Towards Cruelty-Free Fashion with Lab-Grown Fur and Leather"
+        },
+        {
+          "id": "https://hackernoon.com/web3-enables-users-to-create-and-own-their-web-experience?source=rss",
+          "author": "Ishan Pandey",
+          "description": "Fetch.ai is an AI-powered blockchain that allows businesses and individuals to use multi-agent system-based solutions to solve complex problems or coordination.",
+          "link": "https://hackernoon.com/web3-enables-users-to-create-and-own-their-web-experience?source=rss",
+          "publishedOn": "2022-01-27T09:27:43.000Z",
+          "wordCount": 2323,
+          "title": "Web3 Enables Users to Create and Own their Web Experience"
+        },
+        {
+          "id": "https://hackernoon.com/black-ink-rivers-a-ghastly-consequence-of-the-dye-industry?source=rss",
+          "author": "ÀLA.HAUSSE",
+          "description": "The fashion industry's pollution is a major detriment to the environment, turning once beautiful and flowing exotic rivers toxic, and black as ink.",
+          "link": "https://hackernoon.com/black-ink-rivers-a-ghastly-consequence-of-the-dye-industry?source=rss",
+          "publishedOn": "2022-01-27T09:14:38.000Z",
+          "wordCount": 1962,
+          "title": "Black Ink Rivers: A Ghastly Consequence of the Dye Industry"
+        },
+        {
+          "id": "https://hackernoon.com/every-resident-evil-game-in-chronological-order-a-complete-timeline?source=rss",
+          "author": "Adrian Morales",
+          "description": "With a storyline spanning over 25 years, there is a lot to keep track of in Resident Evil. Here are all the Resident Evil games in chronological order.",
+          "link": "https://hackernoon.com/every-resident-evil-game-in-chronological-order-a-complete-timeline?source=rss",
+          "publishedOn": "2022-01-27T08:59:09.000Z",
+          "wordCount": 3593,
+          "title": "Every Resident Evil Game in Chronological Order: A Complete Timeline"
+        },
+        {
+          "id": "https://hackernoon.com/a-beginners-introduction-to-the-python-programming-language?source=rss",
+          "author": "ahyanahmincy",
+          "description": "Python is a language known for being modular. It has an extensive standard library and its simple to use syntax facilitates coding in the language.",
+          "link": "https://hackernoon.com/a-beginners-introduction-to-the-python-programming-language?source=rss",
+          "publishedOn": "2022-01-27T01:38:41.000Z",
+          "wordCount": 2104,
+          "title": "A Beginner's Introduction to the Python Programming Language"
+        },
+        {
+          "id": "https://hackernoon.com/smart-glasses-are-rising-from-the-ashes-of-google-glass-failure?source=rss",
+          "author": "Craig Lebrau",
+          "description": "Smart glasses are rising from the ashes of Google Glass failure to woo consumers",
+          "link": "https://hackernoon.com/smart-glasses-are-rising-from-the-ashes-of-google-glass-failure?source=rss",
+          "publishedOn": "2022-01-27T01:33:14.000Z",
+          "wordCount": 2041,
+          "title": "Smart glasses are Rising From the Ashes of Google Glass Failure"
+        },
+        {
+          "id": "https://hackernoon.com/improving-security-in-your-microservices-architecture-with-istio?source=rss",
+          "author": "Ilia Feoktistov",
+          "description": "Security in a microservice architecture with Istio 1.12",
+          "link": "https://hackernoon.com/improving-security-in-your-microservices-architecture-with-istio?source=rss",
+          "publishedOn": "2022-01-27T01:23:30.000Z",
+          "wordCount": 2544,
+          "title": "Improving Security in your Microservices Architecture with Istio"
+        },
+        {
+          "id": "https://hackernoon.com/github-co-pilot-in-a-nutshell?source=rss",
+          "author": "Edem Gold",
+          "description": "Everything about the GitHub Co-Pilot from what it is to why it exists",
+          "link": "https://hackernoon.com/github-co-pilot-in-a-nutshell?source=rss",
+          "publishedOn": "2022-01-27T00:35:21.000Z",
+          "wordCount": 2091,
+          "title": "GitHub Co-Pilot in a Nutshell"
+        },
+        {
+          "id": "https://hackernoon.com/i-have-my-own-aws-vpc-and-now-you-can-too?source=rss",
+          "author": "Aditi",
+          "description": "Let's see how a default VPC is configured in AWS, CIDR block, the associated subnets within it, routes, NACLs and Security Groups.",
+          "link": "https://hackernoon.com/i-have-my-own-aws-vpc-and-now-you-can-too?source=rss",
+          "publishedOn": "2022-01-27T00:01:00.000Z",
+          "wordCount": 1795,
+          "title": "I Have My Own AWS VPC, and Now You Can Too!"
+        },
+        {
+          "id": "https://hackernoon.com/the-new-york-fashion-act-is-a-step-in-the-right-direction?source=rss",
+          "author": "ÀLA.HAUSSE",
+          "description": "The recent New York Fashion Act is a revolutionairy demand, setting precedence to enabling transparency in the fahsion industry.",
+          "link": "https://hackernoon.com/the-new-york-fashion-act-is-a-step-in-the-right-direction?source=rss",
+          "publishedOn": "2022-01-26T23:58:59.000Z",
+          "wordCount": 2016,
+          "title": "The New York Fashion Act is a Step in the Right Direction"
+        },
+        {
+          "id": "https://hackernoon.com/give-me-a-unix-shell-and-ill-build-container-images-for-life?source=rss",
+          "author": "inaeem",
+          "description": "People in the stone age used their bare hands to create container images!.",
+          "link": "https://hackernoon.com/give-me-a-unix-shell-and-ill-build-container-images-for-life?source=rss",
+          "publishedOn": "2022-01-26T23:55:37.000Z",
+          "wordCount": 2624,
+          "title": "Give me a Unix Shell and I'll Build Container Images ... for Life"
+        },
+        {
+          "id": "https://hackernoon.com/what-are-nfts-and-why-should-i-care-about-them?source=rss",
+          "author": "Edem Gold",
+          "description": "Understanding NFTs, knowing what they are, what they are used for and how to buy or sell them",
+          "link": "https://hackernoon.com/what-are-nfts-and-why-should-i-care-about-them?source=rss",
+          "publishedOn": "2022-01-26T23:52:37.000Z",
+          "wordCount": 2083,
+          "title": "What are NFTs and Why Should I Care About Them"
+        },
+        {
+          "id": "https://hackernoon.com/how-the-fashion-industry-deters-counterfeits?source=rss",
+          "author": "ÀLA.HAUSSE",
+          "description": "Fashion counterfeits have been plaguing the industry since its beginning, but now designers have been fighting back, stronger than before.",
+          "link": "https://hackernoon.com/how-the-fashion-industry-deters-counterfeits?source=rss",
+          "publishedOn": "2022-01-26T23:39:19.000Z",
+          "wordCount": 2381,
+          "title": "How the Fashion Industry Deters Counterfeits"
+        },
+        {
+          "id": "https://hackernoon.com/how-the-uns-sustainable-development-global-goals-align-with-the-alahausse-mission?source=rss",
+          "author": "ÀLA.HAUSSE",
+          "description": "The UN's Sustainable Development Goals initiative was a step towards global reconciliation, and we at ÀLA.HAUSSE share those foundational goals.",
+          "link": "https://hackernoon.com/how-the-uns-sustainable-development-global-goals-align-with-the-alahausse-mission?source=rss",
+          "publishedOn": "2022-01-26T23:36:05.000Z",
+          "wordCount": 2490,
+          "title": "How the UN’s Sustainable Development Global Goals Align With the ÀLA.HAUSSE Mission"
+        },
+        {
+          "id": "https://hackernoon.com/voting-closes-in-less-than-6-hours?source=rss",
+          "author": "Noonies 2021",
+          "description": "Both the Noonies and Startups campaigns close in less than 6 hours. The time to vote is now!",
+          "link": "https://hackernoon.com/voting-closes-in-less-than-6-hours?source=rss",
+          "publishedOn": "2022-01-26T23:24:21.000Z",
+          "wordCount": 1102,
+          "title": "Voting CLOSES in Less Than 6 Hours!"
+        },
+        {
+          "id": "https://hackernoon.com/wonderhero-becomes-the-first-play-to-earn-game-launching-10-major-guilds-at-once?source=rss",
+          "author": "Ishan Pandey",
+          "description": "WonderHero, a play-to-earn NFT based game, became the first game to launch 10 gaming guilds bringing nearly $2.5 million USDT in-game assets.",
+          "link": "https://hackernoon.com/wonderhero-becomes-the-first-play-to-earn-game-launching-10-major-guilds-at-once?source=rss",
+          "publishedOn": "2022-01-26T23:02:38.000Z",
+          "wordCount": 1564,
+          "title": "WonderHero Becomes the First Play-to-Earn Game Launching 10 Major Guilds at Once"
+        },
+        {
+          "id": "https://hackernoon.com/colizeum-raises-$84-million-from-deribit-sevenx-ventures-axia8-and-genblock-capital?source=rss",
+          "author": "Ishan Pandey",
+          "description": "Colizeum, a software development kit startup that provides SDK for mobile game developers and the Play-2-Earn economy, raised $8.4 million.",
+          "link": "https://hackernoon.com/colizeum-raises-$84-million-from-deribit-sevenx-ventures-axia8-and-genblock-capital?source=rss",
+          "publishedOn": "2022-01-26T23:00:59.000Z",
+          "wordCount": 1531,
+          "title": "Colizeum Raises $8.4 Million From Deribit, SevenX Ventures, Axia8 and Genblock Capital"
+        },
+        {
+          "id": "https://hackernoon.com/how-we-built-a-solution-that-improves-google-cloud-security-by-leveraging-managed-instance-groups?source=rss",
+          "author": "Check Point Software",
+          "description": "Ckeckout some significant enhancements to CloudGuard’s integration with new and existing Google Cloud features to benefit from it.",
+          "link": "https://hackernoon.com/how-we-built-a-solution-that-improves-google-cloud-security-by-leveraging-managed-instance-groups?source=rss",
+          "publishedOn": "2022-01-26T17:22:13.000Z",
+          "wordCount": 2931,
+          "title": "How We Built a Solution That Improves Google Cloud Security by Leveraging Managed Instance Groups"
+        },
+        {
           "id": "https://hackernoon.com/are-paywalls-worth-it-heres-what-you-need-to-know?source=rss",
           "author": "Evan SooHoo",
           "description": "How I learned the opportunity cost of not using a paywall...kind of",
@@ -6449,6 +6710,15 @@
           "title": "Fflonk - A New Plonk Protocol: Sin7Y Tech Review (13)"
         },
         {
+          "id": "https://hackernoon.com/engaging-to-earn-with-adlunam-co-founder-nadja-bester?source=rss",
+          "author": "Jack Boreham",
+          "description": "In this Slogging AMA, we chat to Nadja Bester, the cofounder of AdLunman, an IDO launchpad that uses the principles of engage to earn",
+          "link": "https://hackernoon.com/engaging-to-earn-with-adlunam-co-founder-nadja-bester?source=rss",
+          "publishedOn": "2022-01-26T14:16:42.000Z",
+          "wordCount": 5105,
+          "title": "Engaging to Earn with AdLunam Co-Founder Nadja Bester"
+        },
+        {
           "id": "https://hackernoon.com/13-best-indie-games-to-look-forward-to-in-2022?source=rss",
           "author": "Lacy Long",
           "description": "This list includes the best indie games for 2022 and will cover a variety of genres, including popular titles such Cuphead's DLC to upcoming hidden gems.",
@@ -6465,6 +6735,15 @@
           "publishedOn": "2022-01-26T06:38:34.000Z",
           "wordCount": 1772,
           "title": "Meet the Writer: Danielle Gruber, Lover of Brains & Student of Engineering"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-deploy-a-react-app-to-heroku-in-5-minutes-in-5-easy-steps?source=rss",
+          "author": "Teri Eyenike",
+          "description": "Deployment of a React app on Heroku is a way of hosting an application on a server, and the server provides everything to keep the app live on the internet",
+          "link": "https://hackernoon.com/how-to-deploy-a-react-app-to-heroku-in-5-minutes-in-5-easy-steps?source=rss",
+          "publishedOn": "2022-01-26T05:23:08.000Z",
+          "wordCount": 1924,
+          "title": "How to Deploy a React App to Heroku in 5 Minutes in 5 Easy Steps"
         },
         {
           "id": "https://hackernoon.com/an-entrepreneurs-guide-to-finding-growth-opportunities-through-customer-discovery-research?source=rss",
@@ -19839,6 +20118,15 @@
       "siteUrl": "https://davidwalsh.name",
       "articles": [
         {
+          "id": "https://davidwalsh.name/?p=27498",
+          "author": "David Walsh",
+          "description": "Some things happen in your life at exactly the right time. It could be meeting the right person, discovering an open source project you go on to join, or even starting a blog when you’re bored with a job you don’t enjoy. All of those things happened to me at the right time and brought […]\nThe post I Love You, Ringo appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/ringo",
+          "publishedOn": "2022-01-27T11:32:58.000Z",
+          "wordCount": 918,
+          "title": "I Love You, Ringo"
+        },
+        {
           "id": "https://davidwalsh.name/?p=27510",
           "author": "David Walsh",
           "description": "There’s a common saying that adults spend more time with coworkers than family; for us software engineers, we spend more time with our text editor than our families. And why shouldn’t we? They’re our main tool to do a variety of things, and as these editors evolve, they’re capable of doing even more. UltraEdit, a […]\nThe post Amazing Text Editing Experiences with UltraEdit (Sponsored) appeared first on David Walsh Blog.",
@@ -20239,6 +20527,16 @@
       "feedUrl": "http://feeds.feedburner.com/helloacm?format=xml",
       "siteUrl": "https://helloacm.com",
       "articles": [
+        {
+          "id": "https://helloacm.com/?p=148729",
+          "author": "ACMer",
+          "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms The Alpha Beta Pruning Optimisation Algorithm can also be applied directly on NegaMax – so that we can combine both...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-alpha-beta-pruning-algorithm-on-negamax-game-theory/",
+          "publishedOn": "2022-01-28T00:20:47.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Alpha Beta Pruning Algorithm on NegaMax (Game Theory)",
+          "itunes": {}
+        },
         {
           "id": "https://helloacm.com/?p=148709",
           "author": "ACMer",
@@ -21216,6 +21514,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=517320",
+          "author": "Chris Lott",
+          "description": "If you ever been curious how old-school jukeboxes work, it’s all electromechanical and no computers. In a pair of videos, [Technology Connections] takes us through a detailed dive into the …read more",
+          "link": "https://hackaday.com/2022/01/27/jukebox-electromechanical-automation-explained/",
+          "publishedOn": "2022-01-28T00:00:29.000Z",
+          "wordCount": 1133,
+          "title": "Jukebox Electromechanical Automation Explained"
+        },
+        {
+          "id": "https://hackaday.com/?p=517359",
+          "author": "Lewin Day",
+          "description": "Microsoft Paint was one of the first creative outlets for many children when they first laid hands on a computer in the 1990s. Now, [Volos Projects] has brought the joy …read more",
+          "link": "https://hackaday.com/2022/01/27/recreating-ms-paint-for-the-esp32/",
+          "publishedOn": "2022-01-27T21:00:55.000Z",
+          "wordCount": 1219,
+          "title": "Recreating MS Paint For The ESP32"
+        },
+        {
+          "id": "https://hackaday.com/?p=517246",
+          "author": "Arsenijs Picugins",
+          "description": "Browsing through the recent projects on Hackaday.io, we’ve found this entry by [NanoCodeBug]: a single-PCB low-power trinket reviving the “pocket pet” concept while having some fun in the process! Some …read more",
+          "link": "https://hackaday.com/2022/01/27/reject-modernity-return-to-tamagotchi/",
+          "publishedOn": "2022-01-27T19:30:39.000Z",
+          "wordCount": 1240,
+          "title": "Reject Modernity; Return To Tamagotchi"
+        },
+        {
+          "id": "https://hackaday.com/?p=516759",
+          "author": "Dave Rowntree",
+          "description": "[Voja Antonic] has been building digital computers since before many of us were born. He designed with the Z80 when it was new, and has decades of freelance embedded experience, …read more",
+          "link": "https://hackaday.com/2022/01/27/remoticon-2021-voja-antonic-makes-you-a-digital-designer/",
+          "publishedOn": "2022-01-27T18:02:14.000Z",
+          "wordCount": 1324,
+          "title": "Remoticon 2021 // Voja Antonic Makes You a Digital Designer"
+        },
+        {
+          "id": "https://hackaday.com/?p=517155",
+          "author": "Chris Wilkinson",
+          "description": "The MIDI format has long been used to create some banging electronic music, so it’s refreshing to see how [John P. Miller] applied the standard in his decidedly analog self-playing …read more",
+          "link": "https://hackaday.com/2022/01/27/robotic-xylophone-makes-music-with-midi-magic/",
+          "publishedOn": "2022-01-27T16:30:43.000Z",
+          "wordCount": 1325,
+          "title": "Robotic Xylophone Makes Music with MIDI Magic"
+        },
+        {
+          "id": "https://hackaday.com/?p=517126",
+          "author": "Dan Maloney",
+          "description": "Humanity has been wondering about whether life exists beyond our little backwater planet for so long that we’ve developed a kind of cultural bias as to how the answer to …read more",
+          "link": "https://hackaday.com/2022/01/27/sherloc-and-the-search-for-life-on-mars/",
+          "publishedOn": "2022-01-27T15:00:55.000Z",
+          "wordCount": 4473,
+          "title": "SHERLOC and the Search for Life on Mars"
+        },
+        {
+          "id": "https://hackaday.com/?p=517249",
+          "author": "Jenny List",
+          "description": "One of the brave but unsuccessful plays from Nokia during their glory years was the N-Gage, an attempt to merge a Symbian smartphone and a handheld game console. It may …read more",
+          "link": "https://hackaday.com/2022/01/27/an-up-to-date-development-environment-for-the-nokia-n-gage/",
+          "publishedOn": "2022-01-27T12:00:12.000Z",
+          "wordCount": 2533,
+          "title": "An Up-To-Date Development Environment For The Nokia N-Gage"
+        },
         {
           "id": "https://hackaday.com/?p=517168",
           "author": "Lewin Day",
@@ -27875,6 +28236,66 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "314DB98D-3A35-4284-848285EA611F10F4",
+          "author": "David Iaconangelo, E&E News",
+          "description": "The appliances also release nitrogen dioxide, an air pollutant that can exacerbate asthma and other conditions\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/gas-stoves-leak-more-methane-than-previously-thought/",
+          "publishedOn": "2022-01-27T17:00:00.000Z",
+          "wordCount": null,
+          "title": "Gas Stoves Leak More Methane than Previously Thought",
+          "itunes": {}
+        },
+        {
+          "id": "BEFABB9F-AE66-4185-B834DE675F522505",
+          "author": "David W. Brown",
+          "description": "After decades of false starts, a new push for nuclear-powered rocketry could make or break the space agency’s plans to send astronauts to the Red Planet\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/nasas-nuclear-option-may-be-crucial-for-getting-humans-to-mars/",
+          "publishedOn": "2022-01-27T16:00:00.000Z",
+          "wordCount": null,
+          "title": "NASA's 'Nuclear Option' May Be Crucial for Getting Humans to Mars",
+          "itunes": {}
+        },
+        {
+          "id": "7145A5AE-D3AE-46BA-99F5C1AB174D3F31",
+          "author": "Duy Linh Tu, Julian Lim",
+          "description": "A new engineering project would bring much needed land to eroding marshes but at a huge cost to the fishing industry\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/louisianas-2-billion-gamble-flood-the-land-to-save-the-coast/",
+          "publishedOn": "2022-01-27T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Louisiana's $2-Billion Gamble: Flood the Land to Save the Coast",
+          "itunes": {}
+        },
+        {
+          "id": "FB4925CF-0391-4140-9E4FAEDF2C3139AD",
+          "author": "Sarah Scoles",
+          "description": "An archival project aims to document the experiences of people who suffered from U.S. nuclear weapons testing\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/nuclear-testing-downwinders-speak-about-history-and-fear/",
+          "publishedOn": "2022-01-27T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Nuclear-Testing 'Downwinders' Speak About History and Fear",
+          "itunes": {}
+        },
+        {
+          "id": "D9C821ED-D05D-49A4-A4D62BB5B8B9B202",
+          "author": "Sophie Bushwick",
+          "description": "A delayed rollout bought time to address worries that the new telecommunications standard would interfere with aviation instruments\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-airlines-can-solve-their-5g-problem/",
+          "publishedOn": "2022-01-27T13:00:00.000Z",
+          "wordCount": null,
+          "title": "How Airlines Can Solve Their 5G Problem",
+          "itunes": {}
+        },
+        {
+          "id": "C43CEFFE-9465-4D5D-A006952B384E4EC5",
+          "author": "Matthew Beddingfield",
+          "description": "As we continue to push into space, the 55th anniversary of the deadly fire reminds us to prioritize both safety and people\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/whistleblowers-make-spaceflight-safer-says-witness-to-apollo-tragedy/",
+          "publishedOn": "2022-01-27T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Whistleblowers Make Spaceflight Safer, Says Witness to Apollo Tragedy",
+          "itunes": {}
+        },
+        {
           "id": "F2549116-D38B-4349-B76D89E6C35D59FD",
           "author": "Thomas Frank, E&E News",
           "description": "The agency wants to examine if aid is distrubuted inequitably\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -33445,6 +33866,51 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=149461",
+          "author": "Richi Jennings",
+          "description": "In this week’s The Long View: Google’s FLoC proposal is dead, Meta/Facebook is buying RSC—a huge AI supercomputer, and Arm “will IPO” instead of selling to Nvidia.\nThe post Google FLoC is Dead | Meta AI Supercomputer Lives | ARM Deal is Dead appeared first on DevOps.com.",
+          "link": "https://devops.com/google-floc-is-dead-meta-ai-supercomputer-lives-arm-deal-is-dead/",
+          "publishedOn": "2022-01-27T17:22:21.000Z",
+          "wordCount": 1772,
+          "title": "Google FLoC is Dead | Meta AI Supercomputer Lives | ARM Deal is Dead"
+        },
+        {
+          "id": "https://devops.com/?p=149433",
+          "author": "Ganesh Bell",
+          "description": "Insight Partners had a banner year in 2021, with more than $50 billion in capital commitments across over 200 investments. While we invest in founders across a wide spectrum of businesses, this series focuses on outlining our theses on four verticals that we’re particularly excited about in 2022: Artificial intelligence (AI), fintech, cybersecurity and healthtech.  […]\nThe post Investing in Artificial Intelligence: How MLOps Drives Enterprise AI Wins appeared first on DevOps.com.",
+          "link": "https://devops.com/investing-in-artificial-intelligence-how-mlops-drives-enterprise-ai-wins/",
+          "publishedOn": "2022-01-27T09:00:26.000Z",
+          "wordCount": 1951,
+          "title": "Investing in Artificial Intelligence: How MLOps Drives Enterprise AI Wins"
+        },
+        {
+          "id": "https://devops.com/?p=149383",
+          "author": "Rahul Pradhan",
+          "description": "As end-user demand for new services continues to rise and businesses adapt to changing times, digitalization has never been more important. Pressure is increasing on organizations to deliver digital transformation initiatives more quickly as 55% of CIOs in 2021 said they were increasing staff to accelerate their digital programs. The cloud is essential for this. […]\nThe post The Lego Approach to Overcoming the Developer Divide appeared first on DevOps.com.",
+          "link": "https://devops.com/the-lego-approach-to-overcoming-the-developer-divide/",
+          "publishedOn": "2022-01-27T08:00:23.000Z",
+          "wordCount": 1442,
+          "title": "The Lego Approach to Overcoming the Developer Divide"
+        },
+        {
+          "id": "https://devops.com/?p=149398",
+          "author": "Sean Mack",
+          "description": "What is enterprise technical debt? Technical debt slows down organizations and hampers their ability to deliver. Studies show that technical debt can triple the cost of support for technical products and services. Beyond this, technical debt can cripple a company’s ability to make the rapid changes needed to compete in today’s marketplace. Those all describe […]\nThe post Measuring Technical Debt appeared first on DevOps.com.",
+          "link": "https://devops.com/measuring-technical-debt/",
+          "publishedOn": "2022-01-27T07:30:30.000Z",
+          "wordCount": 3563,
+          "title": "Measuring Technical Debt"
+        },
+        {
+          "id": "https://devops.com/?p=149445",
+          "author": "ROELBOB",
+          "description": "The post Anxiety and Identity appeared first on DevOps.com.",
+          "link": "https://devops.com/anxiety-and-identity/",
+          "publishedOn": "2022-01-27T07:00:07.000Z",
+          "wordCount": 429,
+          "title": "Anxiety and Identity"
+        },
+        {
           "id": "https://devops.com/?p=149371",
           "author": "Don Macvittie",
           "description": "If you’ve seen Idiocracy (Side note: I am not recommending the movie; I’m using a phrase from it we’ve all heard. The movie itself was a comedy not at all meant to be family-friendly when it was made, and changes in social mores since its 2006 release make it far less acceptable today), you are […]\nThe post AI: It’s What Staff Crave! appeared first on DevOps.com.",
@@ -36008,6 +36474,15 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=112044",
+          "author": "Jonathan O'Callaghan",
+          "description": "Back when the sun was 30% dimmer, Earth should have frozen solid. Yet water flowed and life blossomed. The solution to the paradox shows that we might have that faint sun to owe for life’s existence — with critical consequences for the possibility of life outside Earth.            \nThe post A Solution to the Faint-Sun Paradox Reveals a Narrow Window for Life first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/the-sun-was-dimmer-when-earth-formed-how-did-life-emerge-20220127/",
+          "publishedOn": "2022-01-27T16:16:19.000Z",
+          "wordCount": 2733,
+          "title": "A Solution to the Faint-Sun Paradox Reveals a Narrow Window for Life"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=112041",
           "author": "Ben Brubaker",
           "description": "The same phenomenon by which an opera singer can shatter a wineglass also underlies the very existence of subatomic particles.\r\n            \nThe post How the Physics of Resonance Shapes Reality first appeared on Quanta Magazine",
@@ -36611,6 +37086,24 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66699",
+          "author": "Nathan Yau",
+          "description": "Here's the good stuff for January.\nTags: roundup",
+          "link": "https://flowingdata.com/2022/01/27/process-174-january-2022-roundup/",
+          "publishedOn": "2022-01-27T19:30:07.000Z",
+          "wordCount": 285,
+          "title": "✚ Visualization Tools and Learning Resources, January 2022 Roundup"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66693",
+          "author": "Nathan Yau",
+          "description": "When it comes to diet and health, you might see one day that…\nTags: causation, correlation, health",
+          "link": "https://flowingdata.com/2022/01/27/spotting-spurious-correlations-in-health-news/",
+          "publishedOn": "2022-01-27T08:06:19.000Z",
+          "wordCount": 427,
+          "title": "Spotting spurious correlations in health news"
+        },
         {
           "id": "https://flowingdata.com/?p=66674",
           "author": "Nathan Yau",
