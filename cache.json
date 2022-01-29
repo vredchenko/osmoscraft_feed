@@ -6,6 +6,15 @@
       "siteUrl": "https://goteleport.com/blog/",
       "articles": [
         {
+          "id": "https://goteleport.com/blog/modern-pam-solutions-requirements/",
+          "author": null,
+          "description": "Privileged Access Management (PAM) is a go-to solution to prevent privilege misuse and insider threats, and limit malware propagation. After all, properly protecting and monitoring the keys to the kingdom is always a good practice. Privileged Access Management has been even more critical in recent times. With the advent of the cloud where infrastructure is provisioned with a single API call and authenticated with a single API key, the risk of someone misusing these credentials is far higher. Now adversaries can edit or even delete your entire infrastructure with a single API call. While the concept and strategy of Privileged Access Management remain the same, traditional PAM solutions struggle to adapt to current DevOps operations and, in many cases, disturb engineers’ workflow, slowing th…",
+          "link": "https://goteleport.com/blog/modern-pam-solutions-requirements/",
+          "publishedOn": "2022-01-28T00:00:00.000Z",
+          "wordCount": 2480,
+          "title": "What a Modern PAM Solution for Cloud-Native Applications Looks Like"
+        },
+        {
           "id": "https://goteleport.com/blog/aws-iam-multiple-accounts/",
           "author": null,
           "description": "AWS Identity and Access Management (IAM) is a keystone to accessing AWS accounts, but as companies grow, it can be difficult to understand and standardize, especially across many AWS accounts. To put some personality into the challenges of managing identity for multiple AWS resources and accounts, I’ll start with a short story about a fictional company that you might recognize as similar to the one you work in today!\nACME Net is growing fast. The engineering team spans 14 teams all working on core services, and there is also a raft of external contractors committing code on a daily basis. The frenetic pace of new features is keeping everyone busy.\nThe platform runs across a range of AWS services including EC2, S3, RDS and three of the six ways to run containers. The last round of funding w…",
@@ -76,6 +85,15 @@
           "publishedOn": "2022-01-11T00:00:00.000Z",
           "wordCount": 1539,
           "title": "What You Need to Know About Adding a SaaS Component to Your Hardware or Software Business"
+        },
+        {
+          "id": "https://goteleport.com/blog/ssh-2fa-tutorial/",
+          "author": null,
+          "description": "One way to enhance SSH login security is by using two-factor authentication (2FA). This approach forces an administrator to self-identify with an additional security verification in addition to the local admin credentials.\nThis tutorial guides you through setting up Google Authenticator PAM to enable SSH 2FA for users connecting to a Linux server. We’ll use nano as our editor in examples.\nPrerequisites\nTo follow along, ensure you’ve met the following prerequisites:\nAdministrative (sudo) access to a running Linux machine — for example, Ubuntu 20.04 or similar\nSSH server running on the Linux machine\nPreconfigured Google Authenticator app on iOS or Android mobile\nInstalling Google Authenticator PAM\nTo provide the 2FA mechanism for this Linux machine, you must install Google Pluggable Authenti…",
+          "link": "https://goteleport.com/blog/ssh-2fa-tutorial/",
+          "publishedOn": "2022-01-07T00:00:00.000Z",
+          "wordCount": 1267,
+          "title": "How to Set Up SSH 2fa (Two-Factor Authentication)"
         },
         {
           "id": "https://goteleport.com/blog/how-to-setup-ssh-2fa/",
@@ -732,6 +750,33 @@
       "feedUrl": "https://www.i-programmer.info/index.php?option=com_ninjarsssyndicator&feed_id=3&format=raw",
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
+        {
+          "id": "http://www.i-programmer.info/news/169-robotics/15176-new-darpa-challenge-takes-autonomous-driving-off-road.html",
+          "author": null,
+          "description": "Three teams are preparing to take part in a DARPA program that is focused on advancing off-road autonomy of combat vehicles. The idea is to test the limit of the vehicles' mechanical systems at high speed and over rough terrain.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/169-robotics/15176-new-darpa-challenge-takes-autonomous-driving-off-road.html",
+          "publishedOn": "2022-01-28T15:57:53.000Z",
+          "wordCount": 837,
+          "title": "New DARPA Challenge Takes Autonomous Driving Off Road"
+        },
+        {
+          "id": "http://www.i-programmer.info/news/150-training-a-education/15175-take-googles-machine-learning-crash-course.html",
+          "author": null,
+          "description": "Sometimes it is worth re-visiting things that matter. And this is one of them - a free course on Machine Learning for total beginners.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/150-training-a-education/15175-take-googles-machine-learning-crash-course.html",
+          "publishedOn": "2022-01-28T15:51:28.000Z",
+          "wordCount": 1350,
+          "title": "Take Google's Machine Learning Crash Course"
+        },
+        {
+          "id": "http://www.i-programmer.info/babbages-bag/455-introducing-xml.html",
+          "author": null,
+          "description": "XML is a general purpose markup language that can be used to control the structure of data. Despite the fact that many prefer the simplicity of JSON, it still has many advantages. What makes it so good?\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/babbages-bag/455-introducing-xml.html",
+          "publishedOn": "2022-01-27T00:00:00.000Z",
+          "wordCount": 1339,
+          "title": "Programmer's Introduction to  XML"
+        },
         {
           "id": "http://www.i-programmer.info/news/197-data-mining/15160-apache-flink-ml-20-released.html",
           "author": null,
@@ -1421,6 +1466,15 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=362382",
+          "author": "Silvestar Bistrović",
+          "description": "I was doing my Advent of UI Components, and I stumbled upon the from-font value for the text-decoration-thickness CSS property. I was curious about it, so I did a little research and I think what I found (and learned) …\nThe CSS from-font Value Explained in 4 Demos originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/from-font-value-text-decoration-thickness/",
+          "publishedOn": "2022-01-28T18:37:52.000Z",
+          "wordCount": 1056,
+          "title": "The CSS from-font Value Explained in 4 Demos"
+        },
         {
           "id": "https://css-tricks.com/?p=360998",
           "author": "Chris Coyier",
@@ -3399,6 +3453,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61f23b31f2ed6b06db5a6166",
+          "author": "TAPAS ADHIKARY",
+          "description": "Web Development is a fascinating area to explore, learn about, and understand.  As a learner, you have many libraries and frameworks that can help you develop projects for the web. It may even become tricky to pick one and get started at times.  But when it comes to",
+          "link": "https://www.freecodecamp.org/news/react-fundamentals-for-beginners/",
+          "publishedOn": "2022-01-28T20:25:24.000Z",
+          "wordCount": 3075,
+          "title": "Learn ReactJS – Complete Roadmap"
+        },
+        {
+          "id": "61f3bff1f2ed6b06db5a6c92",
+          "author": "Kolade Chris",
+          "description": "We use the CSS text-align property to align content inside a block-level element. Examples of block-level elements are paragraphs (<p>...</p>), divs ( <div>...</div>), sections (<section>...</section>), articles ( <article>...</article>), and so on. This alignment affects the horizontal axis only. So the text-align property is different from the vertical-align property which we",
+          "link": "https://www.freecodecamp.org/news/css-text-align-centered-justified-right-aligned-text-style-example/",
+          "publishedOn": "2022-01-28T17:30:39.000Z",
+          "wordCount": 876,
+          "title": "CSS Text Align – Centered, Justified, Right Aligned Text Style Example"
+        },
+        {
+          "id": "61d6d907d2d9de084285d104",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In this article, you will learn what the term REST means and how it lets us communicate with the server efficiently. Before we get into REST, let's learn what an API is. I believe this will help you understand REST better.  What is an API? Since we're talking about",
+          "link": "https://www.freecodecamp.org/news/what-is-rest-rest-api-definition-for-beginners/",
+          "publishedOn": "2022-01-28T17:21:43.000Z",
+          "wordCount": 1207,
+          "title": "What is REST? Rest API Definition for Beginners"
+        },
+        {
+          "id": "61f1d7d0f2ed6b06db5a60a9",
+          "author": "Edem Gold",
+          "description": "If you have ever built a Machine Learning model, you've probably thought \"well this was cool, but how will other people be able to see how cool it is?\"  Model deployment is a part of Machine Learning which isn't talked about as much as it should be. So in",
+          "link": "https://www.freecodecamp.org/news/build-gui-using-gradio-for-machine-learning-models/",
+          "publishedOn": "2022-01-27T21:00:00.000Z",
+          "wordCount": 1538,
+          "title": "How to Build a GUI Using Gradio for Machine Learning Models"
+        },
         {
           "id": "61f1a334f2ed6b06db5a5cbe",
           "author": "Tomer Ben Rachel",
@@ -6511,6 +6601,186 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/how-to-eliminate-nft-deployment-costs-and-smart-contract-hassles?source=rss",
+          "author": "Tatum",
+          "description": "The fastest and easiest way to mint NFTs. No coding or deploying smart contracts, no private keys, no need to hold crypto. 1 API call to mint on 5 blockchains.",
+          "link": "https://hackernoon.com/how-to-eliminate-nft-deployment-costs-and-smart-contract-hassles?source=rss",
+          "publishedOn": "2022-01-28T10:23:10.000Z",
+          "wordCount": 2235,
+          "title": "How to Eliminate NFT Deployment Costs and Smart Contract Hassles"
+        },
+        {
+          "id": "https://hackernoon.com/why-canva-figma-and-shopify-are-exploding-like-mentos-in-diet-coke?source=rss",
+          "author": "Toplyne",
+          "description": "From being great story-tellers to delivering value fast and leveraging product qualified leads (PQLs), the best PLG companies are a cut above the rest",
+          "link": "https://hackernoon.com/why-canva-figma-and-shopify-are-exploding-like-mentos-in-diet-coke?source=rss",
+          "publishedOn": "2022-01-28T10:15:50.000Z",
+          "wordCount": 3436,
+          "title": "Why Canva, Figma & Shopify are Exploding like Mentos in Diet Coke"
+        },
+        {
+          "id": "https://hackernoon.com/social-daos-an-essential-guide?source=rss",
+          "author": "XDAO",
+          "description": "The best overview of all social DAOs that you haven't heard about yet to understand how social DAOs actually work, what they have in common and what's different",
+          "link": "https://hackernoon.com/social-daos-an-essential-guide?source=rss",
+          "publishedOn": "2022-01-28T10:05:09.000Z",
+          "wordCount": 2293,
+          "title": "Social DAOs: An Essential Guide"
+        },
+        {
+          "id": "https://hackernoon.com/10-reasons-your-retention-is-so-low?source=rss",
+          "author": "Evgeniya Malina",
+          "description": "At Food Rocket, we consider retention our key metric, and this is especially true for doing business on the US market in general.",
+          "link": "https://hackernoon.com/10-reasons-your-retention-is-so-low?source=rss",
+          "publishedOn": "2022-01-28T09:59:21.000Z",
+          "wordCount": 2464,
+          "title": "10 Reasons Your Retention is So Low"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-scale-the-metaverse-with-decentralized-web3-computing?source=rss",
+          "author": "Marvin Tong",
+          "description": "The metaverse will be a critical piece of Web3, providing users with access to blockchain-based applications and services.",
+          "link": "https://hackernoon.com/how-to-scale-the-metaverse-with-decentralized-web3-computing?source=rss",
+          "publishedOn": "2022-01-28T09:52:50.000Z",
+          "wordCount": 1947,
+          "title": "How to Scale the Metaverse with Decentralized Web3 Computing"
+        },
+        {
+          "id": "https://hackernoon.com/an-brief-look-at-of-some-of-the-richest-nft-collectors-of-all-time?source=rss",
+          "author": "Apollo42",
+          "description": "As you may know, Apollo42 tracks top NFT traders based on profit made. Notably, that means the top wallet holders are sure to stand out among the rest. We took the time to examine these top traders so you can learn a little more about stories and people behind those shocking NFT profits.",
+          "link": "https://hackernoon.com/an-brief-look-at-of-some-of-the-richest-nft-collectors-of-all-time?source=rss",
+          "publishedOn": "2022-01-28T09:47:51.000Z",
+          "wordCount": 1477,
+          "title": "A Brief Look at of Some of the Richest NFT Collectors of all Time"
+        },
+        {
+          "id": "https://hackernoon.com/the-crypto-economy-is-too-conservative-and-its-your-fault?source=rss",
+          "author": "Tobias W. Kaiser",
+          "description": "This may be crypto’s largest problem right now: It rewards repetition, instead of innovation. Here's what you can do to help.",
+          "link": "https://hackernoon.com/the-crypto-economy-is-too-conservative-and-its-your-fault?source=rss",
+          "publishedOn": "2022-01-28T08:37:37.000Z",
+          "wordCount": 2361,
+          "title": "The Crypto Economy is Too Conservative and it’s Your Fault"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-build-your-own-seo-dashboard?source=rss",
+          "author": "Roch Oliveira",
+          "description": "How to build an auto-updating SEO dashboard with no code using free tools",
+          "link": "https://hackernoon.com/how-to-build-your-own-seo-dashboard?source=rss",
+          "publishedOn": "2022-01-28T08:27:39.000Z",
+          "wordCount": 4702,
+          "title": "How to Build Your Own SEO Dashboard"
+        },
+        {
+          "id": "https://hackernoon.com/how-india-revolutionised-its-digital-payment-system?source=rss",
+          "author": "Kaushal Joshi",
+          "description": "UPI has revolutionised the way Indians used to look at digital payment systems. In four years, it has surpassed Visa and MasterCard.",
+          "link": "https://hackernoon.com/how-india-revolutionised-its-digital-payment-system?source=rss",
+          "publishedOn": "2022-01-28T08:11:13.000Z",
+          "wordCount": 2989,
+          "title": "How India Revolutionised its Digital Payment System"
+        },
+        {
+          "id": "https://hackernoon.com/faang-engineers-report-median-base-salary-of-$150k-to-$200k?source=rss",
+          "author": "Rick Chen",
+          "description": "According to a user-created poll, the median base salary of a user on Blind is between $150,000 to $200,000",
+          "link": "https://hackernoon.com/faang-engineers-report-median-base-salary-of-$150k-to-$200k?source=rss",
+          "publishedOn": "2022-01-28T07:44:43.000Z",
+          "wordCount": 1540,
+          "title": "FAANG Engineers Report Median Base Salary of $150k to $200k"
+        },
+        {
+          "id": "https://hackernoon.com/why-is-tiktok-obsessed-with-tarot-card-readings?source=rss",
+          "author": "Tuan Anh Vu",
+          "description": "First of all, Nostradamus has nothing to do with Tarot.",
+          "link": "https://hackernoon.com/why-is-tiktok-obsessed-with-tarot-card-readings?source=rss",
+          "publishedOn": "2022-01-28T07:23:41.000Z",
+          "wordCount": 1859,
+          "title": "Why is TikTok Obsessed With Tarot Card Readings?"
+        },
+        {
+          "id": "https://hackernoon.com/please-enjoy-some-brain-candy-this-weekend?source=rss",
+          "author": "Official Writing Prompts",
+          "description": "Food for thought is delicious.",
+          "link": "https://hackernoon.com/please-enjoy-some-brain-candy-this-weekend?source=rss",
+          "publishedOn": "2022-01-28T06:10:27.000Z",
+          "wordCount": 1343,
+          "title": "Please Enjoy Some Brain Candy This Weekend!"
+        },
+        {
+          "id": "https://hackernoon.com/gaming-giant-ubisoft-invests-in-rebelbots-p2e-game-during-$2m-private-token-sale?source=rss",
+          "author": "RebelBots",
+          "description": "Rebel Bots announced today it has secured investments from top tier investors including Ubisoft, Overwolf, and Makers Fund, via a $2M private token sale.",
+          "link": "https://hackernoon.com/gaming-giant-ubisoft-invests-in-rebelbots-p2e-game-during-$2m-private-token-sale?source=rss",
+          "publishedOn": "2022-01-28T03:03:58.000Z",
+          "wordCount": 1591,
+          "title": "Gaming Giant Ubisoft Invests in RebelBots P2E Game During $2M Private Token Sale"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-solve-the-ethernaut-games-level-5-token?source=rss",
+          "author": "Kamil Polak",
+          "description": "In challenge 5 you are given 20 tokens to start with and you will beat the level if you somehow manage to get your hands on any additional tokens.",
+          "link": "https://hackernoon.com/how-to-solve-the-ethernaut-games-level-5-token?source=rss",
+          "publishedOn": "2022-01-27T23:48:05.000Z",
+          "wordCount": 1650,
+          "title": "How to Solve the Ethernaut Game's Level 5: Token"
+        },
+        {
+          "id": "https://hackernoon.com/towards-open-options-chains-part-iii-getting-started-with-airflow?source=rss",
+          "author": "Chris Chow",
+          "description": "In \"Towards Open Options Chains\", Chris Chow presents his solution for collecting options data: a data pipeline with Airflow, PostgreSQL, and Docker.",
+          "link": "https://hackernoon.com/towards-open-options-chains-part-iii-getting-started-with-airflow?source=rss",
+          "publishedOn": "2022-01-27T23:46:21.000Z",
+          "wordCount": 2121,
+          "title": "Towards Open Options Chains - Part III: Get Started with Airflow"
+        },
+        {
+          "id": "https://hackernoon.com/is-fantom-the-last-undervalued-l1?source=rss",
+          "author": "This Morning On Chain",
+          "description": "Fantom is a layer 1 blockchain that seems to have solved the blockchain trilemma---and it's Total Value Locked to Market Cap multiple is absurdly low.",
+          "link": "https://hackernoon.com/is-fantom-the-last-undervalued-l1?source=rss",
+          "publishedOn": "2022-01-27T23:25:24.000Z",
+          "wordCount": 2432,
+          "title": "Is Fantom the Last Undervalued L1?"
+        },
+        {
+          "id": "https://hackernoon.com/true-privacy-is-when-users-decide-who-sees-and-uses-their-data-unhased-23?source=rss",
+          "author": "Mohammad Musharraf",
+          "description": "Unhashed is a QnA series where I speak with top execs of new and established blockchain projects to unravel the mystery of blockchain & crypto.",
+          "link": "https://hackernoon.com/true-privacy-is-when-users-decide-who-sees-and-uses-their-data-unhased-23?source=rss",
+          "publishedOn": "2022-01-27T23:23:19.000Z",
+          "wordCount": 2417,
+          "title": "True Privacy is When Users Decide Who Sees and Uses Their Data: Unhased #23"
+        },
+        {
+          "id": "https://hackernoon.com/build-an-sms-app-with-infobip?source=rss",
+          "author": "Tyler Hawkins",
+          "description": "SMS is a powerful way to connect with your users. Let's build a “Fun Fact of the Day” web app using the SMS API from Infobip, a cloud communications platform.",
+          "link": "https://hackernoon.com/build-an-sms-app-with-infobip?source=rss",
+          "publishedOn": "2022-01-27T23:19:03.000Z",
+          "wordCount": 1863,
+          "title": "Build an SMS App With Infobip"
+        },
+        {
+          "id": "https://hackernoon.com/answering-the-biggest-aws-lambda-questions?source=rss",
+          "author": "Taavi Rehemägi",
+          "description": "Learn all about AWS Lambda, an Amazon serverless computing system that features a custom back-end service and real-time data processing >>",
+          "link": "https://hackernoon.com/answering-the-biggest-aws-lambda-questions?source=rss",
+          "publishedOn": "2022-01-27T23:17:59.000Z",
+          "wordCount": 1919,
+          "title": "Answering the Biggest AWS Lambda Questions"
+        },
+        {
+          "id": "https://hackernoon.com/hacking-the-asphalt-economy-an-infographic?source=rss",
+          "author": "Brian Wallace",
+          "description": "A look at the asphalt economy - the most recycled material on the planet.",
+          "link": "https://hackernoon.com/hacking-the-asphalt-economy-an-infographic?source=rss",
+          "publishedOn": "2022-01-27T23:15:12.000Z",
+          "wordCount": 1506,
+          "title": "Hacking the Asphalt Economy, an Infographic"
+        },
         {
           "id": "https://hackernoon.com/towards-cruelty-free-fashion-with-lab-grown-fur-and-leather?source=rss",
           "author": "ÀLA.HAUSSE",
@@ -21515,6 +21785,69 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
+          "id": "https://hackaday.com/?p=517351",
+          "author": "Lewin Day",
+          "description": "[Elite Worm] had a problem; there had been two minor burglaries from a storage unit. The unit had thick concrete walls, cellular signal was poor down there, and permanent wiring …read more",
+          "link": "https://hackaday.com/2022/01/28/long-range-burglar-alarm-relies-on-lora-modules/",
+          "publishedOn": "2022-01-29T00:00:48.000Z",
+          "wordCount": 1100,
+          "title": "Long Range Burglar Alarm Relies on LoRa Modules"
+        },
+        {
+          "id": "https://hackaday.com/?p=517074",
+          "author": "Tom Nardi",
+          "description": "We’ve often heard it said that springs come in in all shapes and sizes…except for the one you need. In light of this, the hardware hacker would do well to …read more",
+          "link": "https://hackaday.com/2022/01/28/3d-printed-jig-makes-custom-springs-a-snap/",
+          "publishedOn": "2022-01-28T21:00:23.000Z",
+          "wordCount": 1323,
+          "title": "3D Printed Jig Makes Custom Springs a Snap"
+        },
+        {
+          "id": "https://hackaday.com/?p=517072",
+          "author": "Bryan Cockfield",
+          "description": "The core ethos of “hacking” is usually interpreted as modifying something for a use that it wasn’t originally built for. Plenty of builds are modifications or improvements on existing technology, …read more",
+          "link": "https://hackaday.com/2022/01/28/custom-piano-tickles-the-ivories/",
+          "publishedOn": "2022-01-28T19:30:06.000Z",
+          "wordCount": 1199,
+          "title": "Custom Piano Tickles the Ivories"
+        },
+        {
+          "id": "https://hackaday.com/?p=516563",
+          "author": "Al Williams",
+          "description": "If you are old enough, you may remember that, for a time, almost every year was the year that home video was going to take off. Except it never was, …read more",
+          "link": "https://hackaday.com/2022/01/28/shelf-actualization/",
+          "publishedOn": "2022-01-28T18:00:07.000Z",
+          "wordCount": 3119,
+          "title": "Shelf Actualization"
+        },
+        {
+          "id": "https://hackaday.com/?p=517686&preview=true&preview_id=517686",
+          "author": "Tom Nardi",
+          "description": "Join Hackaday Editor-in-Chief Elliot Williams and Managing Editor Tom Nardi on another whirlwind tour of the week’s top stories, hacks, and projects. We start off with some breaking Linux security …read more",
+          "link": "https://hackaday.com/2022/01/28/hackaday-podcast-153-a-555-teardown-to-die-for-tetrabyte-is-not-a-typo-diy-injection-molding-and-using-all-the-parts-of-the-trash-printer/",
+          "publishedOn": "2022-01-28T17:00:43.000Z",
+          "wordCount": 1277,
+          "title": "Hackaday Podcast 153: A 555 Teardown to Die For, Tetrabyte is Not a Typo, DIY Injection Molding, and Using All the Parts of the Trash Printer"
+        },
+        {
+          "id": "https://hackaday.com/?p=517329",
+          "author": "Chris Lott",
+          "description": "There’s an unknown piece of military electronic gear being investigated over on [Usagi Electric]’s YouTube channel (see video below the break). The few markings and labels on the box aren’t …read more",
+          "link": "https://hackaday.com/2022/01/28/mystery-wwii-navy-gear-with-magic-eye/",
+          "publishedOn": "2022-01-28T16:30:58.000Z",
+          "wordCount": 1935,
+          "title": "Mystery WWII Navy Gear with Magic Eye"
+        },
+        {
+          "id": "https://hackaday.com/?p=517401",
+          "author": "Jonathan Bennett",
+          "description": "The CIA Hacktivists have launched a sort of ransomware campaign against the Belarusian rail system, but instead of cryptocurrency, they want the release of political prisoners and removal of Russian …read more",
+          "link": "https://hackaday.com/2022/01/28/this-week-in-security-geopolitical-hacktivism-antivirus-mining-and-linux-malware/",
+          "publishedOn": "2022-01-28T15:00:44.000Z",
+          "wordCount": 2744,
+          "title": "This Week in Security: Geopolitical Hacktivism, Antivirus Mining, and Linux Malware"
+        },
+        {
           "id": "https://hackaday.com/?p=517320",
           "author": "Chris Lott",
           "description": "If you ever been curious how old-school jukeboxes work, it’s all electromechanical and no computers. In a pair of videos, [Technology Connections] takes us through a detailed dive into the …read more",
@@ -28236,6 +28569,66 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "2D81321E-92D2-4F8A-B0DB7D6ECACAF1D2",
+          "author": "Esther Mullens, The Conversation US",
+          "description": "An atmospheric scientist explains\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/what-is-a-bomb-cyclone/",
+          "publishedOn": "2022-01-28T19:00:00.000Z",
+          "wordCount": null,
+          "title": "What is a Bomb Cyclone?",
+          "itunes": {}
+        },
+        {
+          "id": "E66A2219-14E0-45C7-8448B6A20CFBBCA5",
+          "author": "Chelsea Harvey, E&E News",
+          "description": "The psychological effects of climate change are a growing concern among mental health experts\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-a-record-breaking-heat-wave-fueled-climate-anxiety/",
+          "publishedOn": "2022-01-28T18:00:00.000Z",
+          "wordCount": null,
+          "title": "How a Record-Breaking Heat Wave Fueled Climate Anxiety",
+          "itunes": {}
+        },
+        {
+          "id": "ACB59C86-E1C9-4D0C-B9C4D0CD5FC8276F",
+          "author": "Justin Pelletier, The Conversation US",
+          "description": "Direct system invasions are possible, but efforts to sow confusion and division are more likely\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/russian-cyberattacks-against-the-u-s-could-focus-on-disinformation/",
+          "publishedOn": "2022-01-28T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Russian Cyberattacks against the U.S. Could Focus on Disinformation",
+          "itunes": {}
+        },
+        {
+          "id": "BB3B21FE-4D49-4DF3-8D684041F75659BE",
+          "author": "Saugat Bolakhe",
+          "description": "The neuromorphic computing device solved the puzzle by working like an animal brain would\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/lego-robot-with-an-organic-brain-learns-to-navigate-a-maze/",
+          "publishedOn": "2022-01-28T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Lego Robot with an Organic 'Brain' Learns to Navigate a Maze",
+          "itunes": {}
+        },
+        {
+          "id": "A788716C-5451-436B-B1FF4A57834D802A",
+          "author": "Jacqueline Gerson",
+          "description": "Mitigation strategies typically do not include forests, but my team’s research suggests they should\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/gold-mining-is-poisoning-amazon-forests-with-mercury/",
+          "publishedOn": "2022-01-28T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Gold Mining Is Poisoning Amazon Forests with Mercury",
+          "itunes": {}
+        },
+        {
+          "id": "9CEC4147-0B6D-4A63-BCF1A97586E8BE77",
+          "author": "Clara Moskowitz",
+          "description": "From Neolithic constructions to atomic clocks, how humans measure time reveals what we value most\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-measuring-time-shaped-history/",
+          "publishedOn": "2022-01-28T11:45:00.000Z",
+          "wordCount": null,
+          "title": "How Measuring Time Shaped History",
+          "itunes": {}
+        },
+        {
           "id": "314DB98D-3A35-4284-848285EA611F10F4",
           "author": "David Iaconangelo, E&E News",
           "description": "The appliances also release nitrogen dioxide, an air pollutant that can exacerbate asthma and other conditions\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -33866,6 +34259,24 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=149503",
+          "author": "Venkat Ram Donga",
+          "description": "Simple, safe, reliable software installs and uninstalls are always best, but getting there isn’t easy. Applications break each other—or even the operating system itself. MSIX, Microsoft’s packaging format, is the newest replacement for the decades-old Microsoft Software Installer (MSI) and setup exe installer technologies. MSIX is gaining acceptance and wider adoption because of the benefits […]\nThe post Building a Reliable App Installation Experience with MSIX appeared first on DevOps.com.",
+          "link": "https://devops.com/building-a-reliable-app-installation-experience-with-msix/",
+          "publishedOn": "2022-01-28T08:00:44.000Z",
+          "wordCount": 1502,
+          "title": "Building a Reliable App Installation Experience with MSIX"
+        },
+        {
+          "id": "https://devops.com/?p=149409",
+          "author": "Bill Doerrfeld",
+          "description": "On average, about a quarter of all IT budgets are allocated to handling technical debt each year. And this figure is set to rise, as 68% of organizations say their technical debt will increase in 2022. As digital acceleration continues to drive more IT investment across divisions, the technical burden almost seems like an inevitable […]\nThe post A Pandemic Side Effect: Rampant Technical Debt appeared first on DevOps.com.",
+          "link": "https://devops.com/a-pandemic-side-effect-rampant-technical-debt/",
+          "publishedOn": "2022-01-28T07:30:02.000Z",
+          "wordCount": 1499,
+          "title": "A Pandemic Side Effect: Rampant Technical Debt"
+        },
+        {
           "id": "https://devops.com/?p=149461",
           "author": "Richi Jennings",
           "description": "In this week’s The Long View: Google’s FLoC proposal is dead, Meta/Facebook is buying RSC—a huge AI supercomputer, and Arm “will IPO” instead of selling to Nvidia.\nThe post Google FLoC is Dead | Meta AI Supercomputer Lives | ARM Deal is Dead appeared first on DevOps.com.",
@@ -37086,6 +37497,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66712",
+          "author": "Nathan Yau",
+          "description": "Eggs aren’t always white, which is oddly calming in this photo by way…\nTags: color, egg, physical",
+          "link": "https://flowingdata.com/2022/01/28/chicken-egg-color-spectrum/",
+          "publishedOn": "2022-01-28T08:48:21.000Z",
+          "wordCount": 257,
+          "title": "Chicken egg color spectrum"
+        },
         {
           "id": "https://flowingdata.com/?p=66699",
           "author": "Nathan Yau",
