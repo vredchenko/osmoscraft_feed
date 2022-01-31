@@ -751,6 +751,15 @@
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
         {
+          "id": "http://www.i-programmer.info/news/181-algorithms/15179-ams-award-for-max-cut-algorithm.html",
+          "author": null,
+          "description": "Michel Goemans and David Williamson recently received the 2022 AMS Steele Prize for Seminal Contribution to Research for a 1995 paper which focused on the Max‐Cut problem, a core problem in combinatorial optimization, and has had sustained impact on the fields of theoretical computer science and optimization theory.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/181-algorithms/15179-ams-award-for-max-cut-algorithm.html",
+          "publishedOn": "2022-01-30T11:05:24.000Z",
+          "wordCount": 1158,
+          "title": "AMS Award For Max Cut Algorithm"
+        },
+        {
           "id": "http://www.i-programmer.info/i-programmer-weekly/238-i-programmer-weekly-2022/15177-january-week-4.html",
           "author": null,
           "description": "This week we start with an extract from JavaScript Jems, a recent addition to the I Programmer Library which sets out to show you what makes JavaScript an amazing language. We also have an artlice about the Altair from our History section. As usual, this digest has a summary of this week's news written for programmers by programmers.\n\r\n\nRead more...",
@@ -1000,6 +1009,42 @@
       "feedUrl": "https://atom.io/packages.atom",
       "siteUrl": "https://atom.io",
       "articles": [
+        {
+          "id": "https://atom.io/packages/xentu-lua-snippets-atom",
+          "author": null,
+          "description": "Xentu Lua Snippets for Atom\nThis extension provides code snippets for the Xentu game engine for use in Atom.\nSupports keywords, properties, functions, and also constants for things like Keyboard & Mouse.\nSome features are not yet added, such as class properties and functions, these will be provided soon. For now now refer to the documentation if you get stuck, found at https://docs.xentu.net\nThis package is part of the Xentu game engine project: https://xentu.net\n\nRunning a Xentu game from Atom\nIf you have the Xentu SDK installed, you can enhance your coding experience by\nadding a few shortcuts to your Atom editor. Here is a script that can be added\nunder File -> Init Script... that allows you to launch a game from within the\neditor:\n# adds a function to allow running a Xentu game within Atom.\nspawn = require('child_process').spawn\natom.commands.add 'atom-text-editor', 'xentu-play', ->\n\tfile = atom.workspace.getActiveTextEditor().getPath()\n\tdir = atom.project.getDirectoryForProjectPath(file).path\n\tproc = spawn('xentusdk', ['play'], { cwd: dir })\n\tproc.stdout.on \"data\", (uint8array) ->\n\t\tdata = new TextDecoder().decode(uint8array)\n\t\tconsole.log data\n\tproc.stdout.on \"close\", () ->\n\t\tconsole.log \"Game Ended\"\n\n\nOnce you've added the code above, restart Atom, then when you are editing your game.lua file, use CTRL+SHIFT+P and type \"Xentu Play\" to launch your game. Optionally also use CTRL+SHIFT+I to show the Atom developer console also before running the play command to see the console output.\nHappy coding!",
+          "link": "https://atom.io/packages/xentu-lua-snippets-atom",
+          "publishedOn": "2022-01-31T00:42:40.000Z",
+          "wordCount": 293,
+          "title": "xentu-lua-snippets-atom"
+        },
+        {
+          "id": "https://atom.io/packages/gris-theme-ui",
+          "author": null,
+          "description": "Atom UI Theme Template\nThis is a starter template for creating an Atom UI theme.\nThis template only includes the minimum of styling needed and comes with a neutral look. It could already be used as a real theme, but its purpose is to serve as a basis for creating your own theme. It is documented throughout and invites you to make changes to your liking. For some inspiration take a look at other Atom themes at atom.io/themes. Or you're always free to fork a theme that already comes close to your vision.\nHappy theming! 🚀\nGetting started\nFork this repository.\nContinue with step 2 from Creating a UI Theme\n\n\nIf you get stuck somewhere, feel free to create an issue.\nps. Don't forget to delete the above and edit the below in your own README.md.\nMy UI theme\nA short description of your theme.",
+          "link": "https://atom.io/packages/gris-theme-ui",
+          "publishedOn": "2022-01-30T23:37:06.000Z",
+          "wordCount": 222,
+          "title": "gris-theme-ui"
+        },
+        {
+          "id": "https://atom.io/packages/gris-theme-syntax",
+          "author": null,
+          "description": "g-r-i-s-syntax theme\nA short description of your theme.",
+          "link": "https://atom.io/packages/gris-theme-syntax",
+          "publishedOn": "2022-01-30T23:34:45.000Z",
+          "wordCount": 83,
+          "title": "gris-theme-syntax"
+        },
+        {
+          "id": "https://atom.io/packages/tree-sitter-regex-unicode-js",
+          "author": null,
+          "description": "tree-sitter-regex-unicode-js\n \nTree-sitter grammar for JavaScript regular expressions. This grammar is specific to patterns that have the Unicode flag set.",
+          "link": "https://atom.io/packages/tree-sitter-regex-unicode-js",
+          "publishedOn": "2022-01-30T02:58:31.000Z",
+          "wordCount": 92,
+          "title": "tree-sitter-regex-unicode-js"
+        },
         {
           "id": "https://atom.io/packages/vibrant-syntax",
           "author": null,
@@ -6628,6 +6673,78 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/5-reasons-to-build-on-the-internet-computer?source=rss",
+          "author": "Cryptonomicon",
+          "description": "The Internet Computer is a new computing platform that enables developers to reap the benefits blockchain technology offers without sacrificing performance.",
+          "link": "https://hackernoon.com/5-reasons-to-build-on-the-internet-computer?source=rss",
+          "publishedOn": "2022-01-29T20:25:29.000Z",
+          "wordCount": 2416,
+          "title": "5 Reasons to Build on the Internet Computer"
+        },
+        {
+          "id": "https://hackernoon.com/in-crypto-people-trust-programmers-who-release-the-code-to-the-public-shaz-of-dca-stack?source=rss",
+          "author": "Crypto Fireside",
+          "description": "In this latest Crypto Fireside chat, Andrei R talks to Shaz a student that built DCAStack.com, a dollar cost averaging bot for crypto...",
+          "link": "https://hackernoon.com/in-crypto-people-trust-programmers-who-release-the-code-to-the-public-shaz-of-dca-stack?source=rss",
+          "publishedOn": "2022-01-29T20:18:56.000Z",
+          "wordCount": 4028,
+          "title": "In Crypto, People Trust Programmers Who Release The Code To The Public - Shaz of DCA Stack"
+        },
+        {
+          "id": "https://hackernoon.com/fed-up-with-banks-welcome-to-the-crypto-club?source=rss",
+          "author": "Elena Obukhova",
+          "description": "Failing banking system, cryptocurrency adoption, DeFi, cross-border payments, and other financial aspects that should evolve to brink the unbanked into the game",
+          "link": "https://hackernoon.com/fed-up-with-banks-welcome-to-the-crypto-club?source=rss",
+          "publishedOn": "2022-01-29T20:13:38.000Z",
+          "wordCount": 2138,
+          "title": "Fed Up with Banks? Welcome to the Crypto Club."
+        },
+        {
+          "id": "https://hackernoon.com/investing-in-crypto-etfs-a-look-at-the-pros-and-cons?source=rss",
+          "author": "The Ascent",
+          "description": "Crypto ETFs offer some advantages, but they aren't the right option for every investor.",
+          "link": "https://hackernoon.com/investing-in-crypto-etfs-a-look-at-the-pros-and-cons?source=rss",
+          "publishedOn": "2022-01-29T20:07:56.000Z",
+          "wordCount": 1878,
+          "title": "Investing in Crypto ETFs: A Look At The Pros and Cons"
+        },
+        {
+          "id": "https://hackernoon.com/twitters-hexagon-nft-pfp-all-show-with-unanswered-questions-on-scams-bullying-and-centralization?source=rss",
+          "author": "Adrien Book",
+          "description": "A few thoughts on Twitter’s NFT nightmare",
+          "link": "https://hackernoon.com/twitters-hexagon-nft-pfp-all-show-with-unanswered-questions-on-scams-bullying-and-centralization?source=rss",
+          "publishedOn": "2022-01-29T19:21:19.000Z",
+          "wordCount": 2046,
+          "title": "Twitter's  Hexagon NFT pfp: All Show With Unanswered Questions on Scams, Bullying, & Centralization"
+        },
+        {
+          "id": "https://hackernoon.com/how-22-year-old-emery-kelly-an-indie-artist-found-success-with-nfts-talent-and-social-media?source=rss",
+          "author": "Corite",
+          "description": "Story about how the 23-year-old artist caught the eye of millions of people on Twitter and Instagram, and the admiration of fans worldwide",
+          "link": "https://hackernoon.com/how-22-year-old-emery-kelly-an-indie-artist-found-success-with-nfts-talent-and-social-media?source=rss",
+          "publishedOn": "2022-01-29T14:43:40.000Z",
+          "wordCount": 2124,
+          "title": "How 22 Year-Old Emery Kelly, An Indie Artist Found Success with NFTs, Talent, and Social Media"
+        },
+        {
+          "id": "https://hackernoon.com/privacy-scales-better-understanding-zcash-zero-knowledge-proofs-zkp-and-electric-coin-company?source=rss",
+          "author": "BlocksAdvisors",
+          "description": "innovations at the ECC show not only  that Privacy and Scalability are correlated but also that Governance and Development is more fruitful when rewarded.",
+          "link": "https://hackernoon.com/privacy-scales-better-understanding-zcash-zero-knowledge-proofs-zkp-and-electric-coin-company?source=rss",
+          "publishedOn": "2022-01-29T14:37:14.000Z",
+          "wordCount": 1978,
+          "title": "Privacy Scales Better: Understanding Zcash, Zero Knowledge Proofs (zKP) & Electric Coin Company"
+        },
+        {
+          "id": "https://hackernoon.com/15-top-nft-marketplaces-to-check-out-in-2022?source=rss",
+          "author": "Ravi Prajapati",
+          "description": "NFT marketplaces are emerging quickly, but among them, choosing the right one is essential. Click on the link to know the top-15 NFT marketplace.",
+          "link": "https://hackernoon.com/15-top-nft-marketplaces-to-check-out-in-2022?source=rss",
+          "publishedOn": "2022-01-29T14:25:34.000Z",
+          "wordCount": 3377,
+          "title": "15 Top NFT Marketplaces To Check Out in 2022"
+        },
         {
           "id": "https://hackernoon.com/gamefi-sector-and-the-most-up-and-coming-gaming-platforms?source=rss",
           "author": "Tony Firsov",
@@ -21005,6 +21122,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=148769",
+          "author": "ACMer",
+          "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms Given a list of integer nums, return the earliest index i such that the sum of the numbers left of i is equal to the sum of numbers...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-index-with-equal-left-and-right-sums-prefix-and-suffix-sum-algorithm/",
+          "publishedOn": "2022-01-30T20:02:39.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Index with Equal Left and Right Sums (Prefix and Suffix Sum Algorithm)",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=148753",
           "author": "ACMer",
           "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms You are given a 0-indexed integer array nums of even length consisting of an equal number of positive and negative integers. You...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -22001,6 +22128,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=517286&preview=true&preview_id=517286",
+          "author": "Dan Maloney",
+          "description": "After all the fuss and bother along the way, it seems a bit anticlimactic now that the James Webb Space Telescope has arrived at its forever home orbiting around L2. …read more",
+          "link": "https://hackaday.com/2022/01/30/hackaday-links-january-30-2022/",
+          "publishedOn": "2022-01-31T00:00:00.000Z",
+          "wordCount": 1719,
+          "title": "Hackaday Links: January 30, 2022"
+        },
+        {
+          "id": "https://hackaday.com/?p=517664",
+          "author": "Dan Maloney",
+          "description": "Roomba aside, domestic robots are still in search of the killer app they need to really take off. For the other kind of home automation to succeed, designers are going …read more",
+          "link": "https://hackaday.com/2022/01/30/laundry-bot-tackles-the-tedium-of-t-shirt-folding/",
+          "publishedOn": "2022-01-30T21:00:45.000Z",
+          "wordCount": 1319,
+          "title": "Laundry Bot Tackles the Tedium of T-Shirt Folding"
+        },
+        {
+          "id": "https://hackaday.com/?p=517503",
+          "author": "Tom Nardi",
+          "description": "The Nintendo Game Boy and its many permutations represent one of the most well-known and successful gaming platforms ever produced. There was a decades-long stretch of time where the most …read more",
+          "link": "https://hackaday.com/2022/01/30/esp32-and-raspberry-pi-take-over-game-boy-lcd/",
+          "publishedOn": "2022-01-30T18:00:22.000Z",
+          "wordCount": 1224,
+          "title": "ESP32 and Raspberry Pi Take Over Game Boy LCD"
+        },
+        {
+          "id": "https://hackaday.com/?p=517760",
+          "author": "Al Williams",
+          "description": "We all know that you can convert heat into electricity. Usually, you do that with some form of steam, but there are other methods, too, including thermocouples. If you’ve ever …read more",
+          "link": "https://hackaday.com/2022/01/30/power-for-nothing-and-your-kicks-for-free/",
+          "publishedOn": "2022-01-30T15:00:39.000Z",
+          "wordCount": 3531,
+          "title": "Power for Nothing and Your Kicks for Free"
+        },
+        {
+          "id": "https://hackaday.com/?p=517548",
+          "author": "Arsenijs Picugins",
+          "description": "We don’t often get a Tips line submission where the “Subject” line auto-translates as “Yoshi Yoshi Yoshi”, linking to a short video by [Yasunari Industries] (embedded below). For many, it …read more",
+          "link": "https://hackaday.com/2022/01/30/relay-driven-nixie-clock-gets-you-to-stop-scrolling/",
+          "publishedOn": "2022-01-30T12:00:05.000Z",
+          "wordCount": 1315,
+          "title": "Relay-Driven Nixie Clock Gets You To Stop Scrolling"
+        },
+        {
+          "id": "https://hackaday.com/?p=517703",
+          "author": "Chris Lott",
+          "description": "Over in the Swedish city of Södertälje, about 30 km southwest of Stockholm, a pilot program is being explored which will enlist crows to clean up discarded cigarette butts. Butts account for …read more",
+          "link": "https://hackaday.com/2022/01/30/crows-trade-cigarettes-for-food/",
+          "publishedOn": "2022-01-30T09:00:16.000Z",
+          "wordCount": 2015,
+          "title": "Crows Trade Cigarettes for Food"
+        },
+        {
+          "id": "https://hackaday.com/?p=517358",
+          "author": "Lewin Day",
+          "description": "If you don’t own a cat, hearing the sound of one meowing from somewhere in the house probably comes as quite a shock. The Cat Prank box built by [Reuben] …read more",
+          "link": "https://hackaday.com/2022/01/29/meowing-box-will-befuddle-your-friends/",
+          "publishedOn": "2022-01-30T06:00:51.000Z",
+          "wordCount": 1231,
+          "title": "Meowing Box Will Befuddle Your Friends"
+        },
         {
           "id": "https://hackaday.com/?p=517705",
           "author": "Jenny List",

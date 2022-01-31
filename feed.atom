@@ -2,10 +2,186 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2022-01-30T01:10:59.993Z</updated>
+    <updated>2022-01-31T01:08:18.354Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[xentu-lua-snippets-atom]]></title>
+        <id>https://atom.io/packages/xentu-lua-snippets-atom</id>
+        <link href="https://atom.io/packages/xentu-lua-snippets-atom"/>
+        <updated>2022-01-31T00:42:40.000Z</updated>
+        <summary type="html"><![CDATA[Xentu Lua Snippets for Atom
+This extension provides code snippets for the Xentu game engine for use in Atom.
+Supports keywords, properties, functions, and also constants for things like Keyboard & Mouse.
+Some features are not yet added, such as class properties and functions, these will be provided soon. For now now refer to the documentation if you get stuck, found at https://docs.xentu.net
+This package is part of the Xentu game engine project: https://xentu.net
+
+Running a Xentu game from Atom
+If you have the Xentu SDK installed, you can enhance your coding experience by
+adding a few shortcuts to your Atom editor. Here is a script that can be added
+under File -> Init Script... that allows you to launch a game from within the
+editor:
+# adds a function to allow running a Xentu game within Atom.
+spawn = require('child_process').spawn
+atom.commands.add 'atom-text-editor', 'xentu-play', ->
+	file = atom.workspace.getActiveTextEditor().getPath()
+	dir = atom.project.getDirectoryForProjectPath(file).path
+	proc = spawn('xentusdk', ['play'], { cwd: dir })
+	proc.stdout.on "data", (uint8array) ->
+		data = new TextDecoder().decode(uint8array)
+		console.log data
+	proc.stdout.on "close", () ->
+		console.log "Game Ended"
+
+
+Once you've added the code above, restart Atom, then when you are editing your game.lua file, use CTRL+SHIFT+P and type "Xentu Play" to launch your game. Optionally also use CTRL+SHIFT+I to show the Atom developer console also before running the play command to see the console output.
+Happy coding!]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackaday Links: January 30, 2022]]></title>
+        <id>https://hackaday.com/?p=517286&amp;preview=true&amp;preview_id=517286</id>
+        <link href="https://hackaday.com/2022/01/30/hackaday-links-january-30-2022/"/>
+        <updated>2022-01-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After all the fuss and bother along the way, it seems a bit anticlimactic now that the James Webb Space Telescope has arrived at its forever home orbiting around L2. …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gris-theme-ui]]></title>
+        <id>https://atom.io/packages/gris-theme-ui</id>
+        <link href="https://atom.io/packages/gris-theme-ui"/>
+        <updated>2022-01-30T23:37:06.000Z</updated>
+        <summary type="html"><![CDATA[Atom UI Theme Template
+This is a starter template for creating an Atom UI theme.
+This template only includes the minimum of styling needed and comes with a neutral look. It could already be used as a real theme, but its purpose is to serve as a basis for creating your own theme. It is documented throughout and invites you to make changes to your liking. For some inspiration take a look at other Atom themes at atom.io/themes. Or you're always free to fork a theme that already comes close to your vision.
+Happy theming! 🚀
+Getting started
+Fork this repository.
+Continue with step 2 from Creating a UI Theme
+
+
+If you get stuck somewhere, feel free to create an issue.
+ps. Don't forget to delete the above and edit the below in your own README.md.
+My UI theme
+A short description of your theme.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gris-theme-syntax]]></title>
+        <id>https://atom.io/packages/gris-theme-syntax</id>
+        <link href="https://atom.io/packages/gris-theme-syntax"/>
+        <updated>2022-01-30T23:34:45.000Z</updated>
+        <summary type="html"><![CDATA[g-r-i-s-syntax theme
+A short description of your theme.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laundry Bot Tackles the Tedium of T-Shirt Folding]]></title>
+        <id>https://hackaday.com/?p=517664</id>
+        <link href="https://hackaday.com/2022/01/30/laundry-bot-tackles-the-tedium-of-t-shirt-folding/"/>
+        <updated>2022-01-30T21:00:45.000Z</updated>
+        <summary type="html"><![CDATA[Roomba aside, domestic robots are still in search of the killer app they need to really take off. For the other kind of home automation to succeed, designers are going …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – Index with Equal Left and Right Sums (Prefix and Suffix Sum Algorithm)]]></title>
+        <id>https://helloacm.com/?p=148769</id>
+        <link href="https://helloacm.com/teaching-kids-programming-index-with-equal-left-and-right-sums-prefix-and-suffix-sum-algorithm/"/>
+        <updated>2022-01-30T20:02:39.000Z</updated>
+        <summary type="html"><![CDATA[Teaching Kids Programming: Videos on Data Structures and Algorithms Given a list of integer nums, return the earliest index i such that the sum of the numbers left of i is equal to the sum of numbers...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ESP32 and Raspberry Pi Take Over Game Boy LCD]]></title>
+        <id>https://hackaday.com/?p=517503</id>
+        <link href="https://hackaday.com/2022/01/30/esp32-and-raspberry-pi-take-over-game-boy-lcd/"/>
+        <updated>2022-01-30T18:00:22.000Z</updated>
+        <summary type="html"><![CDATA[The Nintendo Game Boy and its many permutations represent one of the most well-known and successful gaming platforms ever produced. There was a decades-long stretch of time where the most …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power for Nothing and Your Kicks for Free]]></title>
+        <id>https://hackaday.com/?p=517760</id>
+        <link href="https://hackaday.com/2022/01/30/power-for-nothing-and-your-kicks-for-free/"/>
+        <updated>2022-01-30T15:00:39.000Z</updated>
+        <summary type="html"><![CDATA[We all know that you can convert heat into electricity. Usually, you do that with some form of steam, but there are other methods, too, including thermocouples. If you’ve ever …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Relay-Driven Nixie Clock Gets You To Stop Scrolling]]></title>
+        <id>https://hackaday.com/?p=517548</id>
+        <link href="https://hackaday.com/2022/01/30/relay-driven-nixie-clock-gets-you-to-stop-scrolling/"/>
+        <updated>2022-01-30T12:00:05.000Z</updated>
+        <summary type="html"><![CDATA[We don’t often get a Tips line submission where the “Subject” line auto-translates as “Yoshi Yoshi Yoshi”, linking to a short video by [Yasunari Industries] (embedded below). For many, it …read more]]></summary>
+        <author>
+            <name>Arsenijs Picugins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMS Award For Max Cut Algorithm]]></title>
+        <id>http://www.i-programmer.info/news/181-algorithms/15179-ams-award-for-max-cut-algorithm.html</id>
+        <link href="http://www.i-programmer.info/news/181-algorithms/15179-ams-award-for-max-cut-algorithm.html"/>
+        <updated>2022-01-30T11:05:24.000Z</updated>
+        <summary type="html"><![CDATA[Michel Goemans and David Williamson recently received the 2022 AMS Steele Prize for Seminal Contribution to Research for a 1995 paper which focused on the Max‐Cut problem, a core problem in combinatorial optimization, and has had sustained impact on the fields of theoretical computer science and optimization theory.
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crows Trade Cigarettes for Food]]></title>
+        <id>https://hackaday.com/?p=517703</id>
+        <link href="https://hackaday.com/2022/01/30/crows-trade-cigarettes-for-food/"/>
+        <updated>2022-01-30T09:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Over in the Swedish city of Södertälje, about 30 km southwest of Stockholm, a pilot program is being explored which will enlist crows to clean up discarded cigarette butts. Butts account for …read more]]></summary>
+        <author>
+            <name>Chris Lott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meowing Box Will Befuddle Your Friends]]></title>
+        <id>https://hackaday.com/?p=517358</id>
+        <link href="https://hackaday.com/2022/01/29/meowing-box-will-befuddle-your-friends/"/>
+        <updated>2022-01-30T06:00:51.000Z</updated>
+        <summary type="html"><![CDATA[If you don’t own a cat, hearing the sound of one meowing from somewhere in the house probably comes as quite a shock. The Cat Prank box built by [Reuben] …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tree-sitter-regex-unicode-js]]></title>
+        <id>https://atom.io/packages/tree-sitter-regex-unicode-js</id>
+        <link href="https://atom.io/packages/tree-sitter-regex-unicode-js"/>
+        <updated>2022-01-30T02:58:31.000Z</updated>
+        <summary type="html"><![CDATA[tree-sitter-regex-unicode-js
+ 
+Tree-sitter grammar for JavaScript regular expressions. This grammar is specific to patterns that have the Unicode flag set.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Planar PCB Coils As An Alternative To Winding Transformers]]></title>
         <id>https://hackaday.com/?p=517705</id>
@@ -37,6 +213,56 @@
         <summary type="html"><![CDATA[Seems like all the cool kids are rewriting legacy C programs in Rust these days, so we suppose it was only a matter of time before somebody decided to combine …read more]]></summary>
         <author>
             <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Reasons to Build on the Internet Computer]]></title>
+        <id>https://hackernoon.com/5-reasons-to-build-on-the-internet-computer?source=rss</id>
+        <link href="https://hackernoon.com/5-reasons-to-build-on-the-internet-computer?source=rss"/>
+        <updated>2022-01-29T20:25:29.000Z</updated>
+        <summary type="html"><![CDATA[The Internet Computer is a new computing platform that enables developers to reap the benefits blockchain technology offers without sacrificing performance.]]></summary>
+        <author>
+            <name>Cryptonomicon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Crypto, People Trust Programmers Who Release The Code To The Public - Shaz of DCA Stack]]></title>
+        <id>https://hackernoon.com/in-crypto-people-trust-programmers-who-release-the-code-to-the-public-shaz-of-dca-stack?source=rss</id>
+        <link href="https://hackernoon.com/in-crypto-people-trust-programmers-who-release-the-code-to-the-public-shaz-of-dca-stack?source=rss"/>
+        <updated>2022-01-29T20:18:56.000Z</updated>
+        <summary type="html"><![CDATA[In this latest Crypto Fireside chat, Andrei R talks to Shaz a student that built DCAStack.com, a dollar cost averaging bot for crypto...]]></summary>
+        <author>
+            <name>Crypto Fireside</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fed Up with Banks? Welcome to the Crypto Club.]]></title>
+        <id>https://hackernoon.com/fed-up-with-banks-welcome-to-the-crypto-club?source=rss</id>
+        <link href="https://hackernoon.com/fed-up-with-banks-welcome-to-the-crypto-club?source=rss"/>
+        <updated>2022-01-29T20:13:38.000Z</updated>
+        <summary type="html"><![CDATA[Failing banking system, cryptocurrency adoption, DeFi, cross-border payments, and other financial aspects that should evolve to brink the unbanked into the game]]></summary>
+        <author>
+            <name>Elena Obukhova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Investing in Crypto ETFs: A Look At The Pros and Cons]]></title>
+        <id>https://hackernoon.com/investing-in-crypto-etfs-a-look-at-the-pros-and-cons?source=rss</id>
+        <link href="https://hackernoon.com/investing-in-crypto-etfs-a-look-at-the-pros-and-cons?source=rss"/>
+        <updated>2022-01-29T20:07:56.000Z</updated>
+        <summary type="html"><![CDATA[Crypto ETFs offer some advantages, but they aren't the right option for every investor.]]></summary>
+        <author>
+            <name>The Ascent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter's  Hexagon NFT pfp: All Show With Unanswered Questions on Scams, Bullying, & Centralization]]></title>
+        <id>https://hackernoon.com/twitters-hexagon-nft-pfp-all-show-with-unanswered-questions-on-scams-bullying-and-centralization?source=rss</id>
+        <link href="https://hackernoon.com/twitters-hexagon-nft-pfp-all-show-with-unanswered-questions-on-scams-bullying-and-centralization?source=rss"/>
+        <updated>2022-01-29T19:21:19.000Z</updated>
+        <summary type="html"><![CDATA[A few thoughts on Twitter’s NFT nightmare]]></summary>
+        <author>
+            <name>Adrien Book</name>
         </author>
     </entry>
     <entry>
@@ -81,6 +307,36 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[The really nice thing about doing something the “wrong” way is that there’s just so much variety! If you’re doing something the right way, the fastest way, or the optimal …read more]]></summary>
         <author>
             <name>Elliot Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How 22 Year-Old Emery Kelly, An Indie Artist Found Success with NFTs, Talent, and Social Media]]></title>
+        <id>https://hackernoon.com/how-22-year-old-emery-kelly-an-indie-artist-found-success-with-nfts-talent-and-social-media?source=rss</id>
+        <link href="https://hackernoon.com/how-22-year-old-emery-kelly-an-indie-artist-found-success-with-nfts-talent-and-social-media?source=rss"/>
+        <updated>2022-01-29T14:43:40.000Z</updated>
+        <summary type="html"><![CDATA[Story about how the 23-year-old artist caught the eye of millions of people on Twitter and Instagram, and the admiration of fans worldwide]]></summary>
+        <author>
+            <name>Corite</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privacy Scales Better: Understanding Zcash, Zero Knowledge Proofs (zKP) & Electric Coin Company]]></title>
+        <id>https://hackernoon.com/privacy-scales-better-understanding-zcash-zero-knowledge-proofs-zkp-and-electric-coin-company?source=rss</id>
+        <link href="https://hackernoon.com/privacy-scales-better-understanding-zcash-zero-knowledge-proofs-zkp-and-electric-coin-company?source=rss"/>
+        <updated>2022-01-29T14:37:14.000Z</updated>
+        <summary type="html"><![CDATA[innovations at the ECC show not only  that Privacy and Scalability are correlated but also that Governance and Development is more fruitful when rewarded.]]></summary>
+        <author>
+            <name>BlocksAdvisors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15 Top NFT Marketplaces To Check Out in 2022]]></title>
+        <id>https://hackernoon.com/15-top-nft-marketplaces-to-check-out-in-2022?source=rss</id>
+        <link href="https://hackernoon.com/15-top-nft-marketplaces-to-check-out-in-2022?source=rss"/>
+        <updated>2022-01-29T14:25:34.000Z</updated>
+        <summary type="html"><![CDATA[NFT marketplaces are emerging quickly, but among them, choosing the right one is essential. Click on the link to know the top-15 NFT marketplace.]]></summary>
+        <author>
+            <name>Ravi Prajapati</name>
         </author>
     </entry>
     <entry>

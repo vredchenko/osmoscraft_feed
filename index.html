@@ -16,12 +16,216 @@
 <body>
 <!-- %after-body-begin.html% -->
   <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2022-01-30">2022-01-30</time></h2>
+    <h2 class="daily-heading"><time datatime="2022-01-31">2022-01-31</time></h2>
     <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://atom.io">Atom Packages and Themes</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">xentu-lua-snippets-atom</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://atom.io/packages/xentu-lua-snippets-atom">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>Xentu Lua Snippets for Atom
+This extension provides code snippets for the Xentu game engine for use in Atom.
+Supports keywords, properties, functions, and also constants for things like Keyboard &amp; Mouse.
+Some features are not yet added, such as class properties and functions, these will be provided soon. For now now refer to the documentation if you get stuck, found at https://docs.xentu.net
+This package is part of the Xentu game engine project: https://xentu.net
+
+Running a Xentu game from Atom
+If you have the Xentu SDK installed, you can enhance your coding experience by
+adding a few shortcuts to your Atom editor. Here is a script that can be added
+under File -&gt; Init Script... that allows you to launch a game from within the
+editor:
+# adds a function to allow running a Xentu game within Atom.
+spawn &#x3D; require(&#x27;child_process&#x27;).spawn
+atom.commands.add &#x27;atom-text-editor&#x27;, &#x27;xentu-play&#x27;, -&gt;
+	file &#x3D; atom.workspace.getActiveTextEditor().getPath()
+	dir &#x3D; atom.project.getDirectoryForProjectPath(file).path
+	proc &#x3D; spawn(&#x27;xentusdk&#x27;, [&#x27;play&#x27;], { cwd: dir })
+	proc.stdout.on &quot;data&quot;, (uint8array) -&gt;
+		data &#x3D; new TextDecoder().decode(uint8array)
+		console.log data
+	proc.stdout.on &quot;close&quot;, () -&gt;
+		console.log &quot;Game Ended&quot;
+
+
+Once you&#x27;ve added the code above, restart Atom, then when you are editing your game.lua file, use CTRL+SHIFT+P and type &quot;Xentu Play&quot; to launch your game. Optionally also use CTRL+SHIFT+I to show the Atom developer console also before running the play command to see the console output.
+Happy coding!</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
       <li class="source">
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://hackaday.com">Blog – Hackaday</a></h3>
           <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Hackaday Links: January 30, 2022</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://hackaday.com/2022/01/30/hackaday-links-january-30-2022/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(6 min)</span>
+                    <span>After all the fuss and bother along the way, it seems a bit anticlimactic now that the James Webb Space Telescope has arrived at its forever home orbiting around L2. …read more</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2022-01-30">2022-01-30</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://helloacm.com">Algorithms, Blockchain and Cloud</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Teaching Kids Programming – Index with Equal Left and Right Sums (Prefix and Suffix Sum Algorithm)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://helloacm.com/teaching-kids-programming-index-with-equal-left-and-right-sums-prefix-and-suffix-sum-algorithm/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>Teaching Kids Programming: Videos on Data Structures and Algorithms Given a list of integer nums, return the earliest index i such that the sum of the numbers left of i is equal to the sum of numbers...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://atom.io">Atom Packages and Themes</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">gris-theme-ui</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://atom.io/packages/gris-theme-ui">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>Atom UI Theme Template
+This is a starter template for creating an Atom UI theme.
+This template only includes the minimum of styling needed and comes with a neutral look. It could already be used as a real theme, but its purpose is to serve as a basis for creating your own theme. It is documented throughout and invites you to make changes to your liking. For some inspiration take a look at other Atom themes at atom.io/themes. Or you&#x27;re always free to fork a theme that already comes close to your vision.
+Happy theming! 🚀
+Getting started
+Fork this repository.
+Continue with step 2 from Creating a UI Theme
+
+
+If you get stuck somewhere, feel free to create an issue.
+ps. Don&#x27;t forget to delete the above and edit the below in your own README.md.
+My UI theme
+A short description of your theme.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">gris-theme-syntax</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://atom.io/packages/gris-theme-syntax">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>g-r-i-s-syntax theme
+A short description of your theme.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">tree-sitter-regex-unicode-js</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://atom.io/packages/tree-sitter-regex-unicode-js">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>tree-sitter-regex-unicode-js
+ 
+Tree-sitter grammar for JavaScript regular expressions. This grammar is specific to patterns that have the Unicode flag set.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://hackaday.com">Blog – Hackaday</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Laundry Bot Tackles the Tedium of T-Shirt Folding</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://hackaday.com/2022/01/30/laundry-bot-tackles-the-tedium-of-t-shirt-folding/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(4 min)</span>
+                    <span>Roomba aside, domestic robots are still in search of the killer app they need to really take off. For the other kind of home automation to succeed, designers are going …read more</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">ESP32 and Raspberry Pi Take Over Game Boy LCD</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://hackaday.com/2022/01/30/esp32-and-raspberry-pi-take-over-game-boy-lcd/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(4 min)</span>
+                    <span>The Nintendo Game Boy and its many permutations represent one of the most well-known and successful gaming platforms ever produced. There was a decades-long stretch of time where the most …read more</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Power for Nothing and Your Kicks for Free</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://hackaday.com/2022/01/30/power-for-nothing-and-your-kicks-for-free/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(12 min)</span>
+                    <span>We all know that you can convert heat into electricity. Usually, you do that with some form of steam, but there are other methods, too, including thermocouples. If you’ve ever …read more</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Relay-Driven Nixie Clock Gets You To Stop Scrolling</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://hackaday.com/2022/01/30/relay-driven-nixie-clock-gets-you-to-stop-scrolling/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(4 min)</span>
+                    <span>We don’t often get a Tips line submission where the “Subject” line auto-translates as “Yoshi Yoshi Yoshi”, linking to a short video by [Yasunari Industries] (embedded below). For many, it …read more</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Crows Trade Cigarettes for Food</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://hackaday.com/2022/01/30/crows-trade-cigarettes-for-food/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(7 min)</span>
+                    <span>Over in the Swedish city of Södertälje, about 30 km southwest of Stockholm, a pilot program is being explored which will enlist crows to clean up discarded cigarette butts. Butts account for …read more</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Meowing Box Will Befuddle Your Friends</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://hackaday.com/2022/01/29/meowing-box-will-befuddle-your-friends/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(4 min)</span>
+                    <span>If you don’t own a cat, hearing the sound of one meowing from somewhere in the house probably comes as quite a shock. The Cat Prank box built by [Reuben] …read more</span>
+                  </div>
+                </a>
+              </details>
+            </article>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">Planar PCB Coils As An Alternative To Winding Transformers</summary>
@@ -29,6 +233,26 @@
                   <div class="article-summary-box-inner">
                     <span class="article-reading-time">(4 min)</span>
                     <span>Those readers who have experimented with winding their own inductors will know that it’s not an easy task, and when those inductors are handling high voltages it can be especially …read more</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.i-programmer.info/">I Programmer - full contents</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">AMS Award For Max Cut Algorithm</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://www.i-programmer.info/news/181-algorithms/15179-ams-award-for-max-cut-algorithm.html">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(4 min)</span>
+                    <span>Michel Goemans and David Williamson recently received the 2022 AMS Steele Prize for Seminal Contribution to Research for a 1995 paper which focused on the Max‐Cut problem, a core problem in combinatorial optimization, and has had sustained impact on the fields of theoretical computer science and optimization theory.
+
+
+Read more...</span>
                   </div>
                 </a>
               </details>
@@ -165,6 +389,94 @@ Colourful light syntax theme.</span>
         <section>
           <h3 class="source-name"><a class="source-name__link" href="http://github.com/dylang/node-rss">Hacker Noon</a></h3>
           <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">5 Reasons to Build on the Internet Computer</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://hackernoon.com/5-reasons-to-build-on-the-internet-computer?source&#x3D;rss">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(8 min)</span>
+                    <span>The Internet Computer is a new computing platform that enables developers to reap the benefits blockchain technology offers without sacrificing performance.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">In Crypto, People Trust Programmers Who Release The Code To The Public - Shaz of DCA Stack</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://hackernoon.com/in-crypto-people-trust-programmers-who-release-the-code-to-the-public-shaz-of-dca-stack?source&#x3D;rss">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(13 min)</span>
+                    <span>In this latest Crypto Fireside chat, Andrei R talks to Shaz a student that built DCAStack.com, a dollar cost averaging bot for crypto...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Fed Up with Banks? Welcome to the Crypto Club.</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://hackernoon.com/fed-up-with-banks-welcome-to-the-crypto-club?source&#x3D;rss">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(7 min)</span>
+                    <span>Failing banking system, cryptocurrency adoption, DeFi, cross-border payments, and other financial aspects that should evolve to brink the unbanked into the game</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Investing in Crypto ETFs: A Look At The Pros and Cons</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://hackernoon.com/investing-in-crypto-etfs-a-look-at-the-pros-and-cons?source&#x3D;rss">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(6 min)</span>
+                    <span>Crypto ETFs offer some advantages, but they aren&#x27;t the right option for every investor.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Twitter&#x27;s  Hexagon NFT pfp: All Show With Unanswered Questions on Scams, Bullying, &amp; Centralization</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://hackernoon.com/twitters-hexagon-nft-pfp-all-show-with-unanswered-questions-on-scams-bullying-and-centralization?source&#x3D;rss">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(7 min)</span>
+                    <span>A few thoughts on Twitter’s NFT nightmare</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">How 22 Year-Old Emery Kelly, An Indie Artist Found Success with NFTs, Talent, and Social Media</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://hackernoon.com/how-22-year-old-emery-kelly-an-indie-artist-found-success-with-nfts-talent-and-social-media?source&#x3D;rss">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(7 min)</span>
+                    <span>Story about how the 23-year-old artist caught the eye of millions of people on Twitter and Instagram, and the admiration of fans worldwide</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Privacy Scales Better: Understanding Zcash, Zero Knowledge Proofs (zKP) &amp; Electric Coin Company</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://hackernoon.com/privacy-scales-better-understanding-zcash-zero-knowledge-proofs-zkp-and-electric-coin-company?source&#x3D;rss">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(7 min)</span>
+                    <span>innovations at the ECC show not only  that Privacy and Scalability are correlated but also that Governance and Development is more fruitful when rewarded.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">15 Top NFT Marketplaces To Check Out in 2022</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://hackernoon.com/15-top-nft-marketplaces-to-check-out-in-2022?source&#x3D;rss">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(11 min)</span>
+                    <span>NFT marketplaces are emerging quickly, but among them, choosing the right one is essential. Click on the link to know the top-15 NFT marketplace.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">GameFi Sector And The Most Up-And-Coming Gaming Platforms</summary>
@@ -58487,7 +58799,7 @@ Subscribe to Google Chrome Developers  → http://goo.gl/LLLNvf
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2022-01-30T01:10:59.864Z">2022-01-30T01:10:59.864Z</time>
+    <time id="build-timestamp" datetime="2022-01-31T01:08:18.203Z">2022-01-31T01:08:18.203Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.12.0</a></span>
   </footer>
   <script src="index.js"></script>
