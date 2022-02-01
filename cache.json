@@ -751,6 +751,33 @@
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
         {
+          "id": "http://www.i-programmer.info/news/193-android/15182-android-studio-bumblebee-adds-support-for-adb-over-wifi.html",
+          "author": null,
+          "description": "The latest version of Android Studio, Bumblebee, is now available in a stable version, as is the latest release of the Android Gradle plugin (AGP). The developers say they've improved functionality across a broad area of the typical developer workflow, specifically, build and deploy, profiling and inspection, and design.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/193-android/15182-android-studio-bumblebee-adds-support-for-adb-over-wifi.html",
+          "publishedOn": "2022-01-31T17:32:07.000Z",
+          "wordCount": 768,
+          "title": "Android Studio Bumblebee Adds Support For ADB Over WiFi"
+        },
+        {
+          "id": "http://www.i-programmer.info/book-watch-archive/15180-seriously-good-software-manning.html",
+          "author": null,
+          "description": "In this book, Marco Faella teaches techniques for writing better code. You’ll start with a simple application and follow it through seven careful refactorings, each designed to explore another dimension of quality. The book explores fundamental dimensions of code quality by enhancing a simple implementation into a robust, professional-quality application. Questions, exercises, and Java-based examples ensure you’ll get a firm grasp of the concepts as you go.\n\r\n<ASIN:1617296295>\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/book-watch-archive/15180-seriously-good-software-manning.html",
+          "publishedOn": "2022-01-31T17:29:57.000Z",
+          "wordCount": 467,
+          "title": "Seriously Good Software (Manning)"
+        },
+        {
+          "id": "http://www.i-programmer.info/news/150-training-a-education/15183-computer-science-for-beginners-with-harvards-cs50x-.html",
+          "author": null,
+          "description": "CS50x is a highly popular online introductory course to Computer Science that just keeps going. You can now enrol in the self-paced 2022 edition for free on the revamped edX platform.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/150-training-a-education/15183-computer-science-for-beginners-with-harvards-cs50x-.html",
+          "publishedOn": "2022-01-31T00:00:00.000Z",
+          "wordCount": 1351,
+          "title": "Computer Science For Beginners With Harvard's CS50x"
+        },
+        {
           "id": "http://www.i-programmer.info/news/181-algorithms/15179-ams-award-for-max-cut-algorithm.html",
           "author": null,
           "description": "Michel Goemans and David Williamson recently received the 2022 AMS Steele Prize for Seminal Contribution to Research for a 1995 paper which focused on the Max‐Cut problem, a core problem in combinatorial optimization, and has had sustained impact on the fields of theoretical computer science and optimization theory.\n\r\n\nRead more...",
@@ -1538,6 +1565,33 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=362886",
+          "author": "Chris Coyier",
+          "description": "Maggie Appleton gets into what is perhaps the foremost metaphor the web is founded on: paper. \nPaper documents were the original metaphor for the web. […]\nThe page you’re reading this on still mimics paper. We still call it \n…\nMetaphors We Web By originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/metaphors-we-web-by/",
+          "publishedOn": "2022-02-01T00:03:57.000Z",
+          "wordCount": 552,
+          "title": "Metaphors We Web By"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362730",
+          "author": "Chris Coyier",
+          "description": "Lemme do this one quick-hits style:\nMary Lou published a quintessentially-Codrops-y demo called Alternate Column Scroll.\nThe scrolling effect is powered by Locomotive Scroll, which we’ve coincidentally covered before.\nBramus has been exploring native CSS scrolling effects \n…\nNotes on Reverse-Scrolling Columns With CSS Scroll-Timeline originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/css-scroll-timeline-reverse-motion-preference/",
+          "publishedOn": "2022-01-31T21:02:06.000Z",
+          "wordCount": 659,
+          "title": "Notes on Reverse-Scrolling Columns With CSS Scroll-Timeline"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362478",
+          "author": "Mamta Dalal",
+          "description": "It’s 2022. And the current relevance of TypeScript is undisputed. TypeScript has dominated the front-end developer experience by many, many accounts. By now you likely already know that TypeScript is a superset of JavaScript, building on JavaScript by adding …\nThe Relevance of TypeScript in 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/the-relevance-of-typescript-in-2022/",
+          "publishedOn": "2022-01-31T15:16:01.000Z",
+          "wordCount": 2663,
+          "title": "The Relevance of TypeScript in 2022"
+        },
         {
           "id": "https://css-tricks.com/?p=362382",
           "author": "Silvestar Bistrović",
@@ -3525,6 +3579,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61ec2da1011f893303470c78",
+          "author": "Jason Dsouza",
+          "description": "Strings are essential components in any programming language, and C++ is no exception.  Whether you want to store text, manipulate it, or accept keyboard inputs and outputs, understanding what strings are and how to effectively use them is extremely important. This article will teach everything you need to know",
+          "link": "https://www.freecodecamp.org/news/c-string-std-string-example-in-cpp/",
+          "publishedOn": "2022-01-31T23:37:41.000Z",
+          "wordCount": 1257,
+          "title": "C++ String – std::string Example in C++"
+        },
+        {
+          "id": "61e11e85b837d507ba0a253b",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Sometimes your PC may not detect your second monitor. In this tutorial, you'll learn some steps you can take to solve this problem. Check for improper connection Before we do anything technical, make sure you crosscheck your connections first. Make sure that all the cables fit in firmly and are",
+          "link": "https://www.freecodecamp.org/news/second-monitor-not-detected-fixed-windows10/",
+          "publishedOn": "2022-01-31T23:25:23.000Z",
+          "wordCount": 616,
+          "title": "Second Monitor Not Detected – Fixed for Windows 10 PC Laptop Dual Monitor Display"
+        },
+        {
+          "id": "61e85078183181284a191b21",
+          "author": "Naomi Carrigan",
+          "description": "The 100 Days of Code challenge [/news/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d/]  is very popular among new coders and developers looking to level up their skills. It's so popular that our Discord server [/news/freecodecamp-discord-chat-room-server/] has an entire channel dedicated to it. By popular demand, we built a Discord bot that helps people track their",
+          "link": "https://www.freecodecamp.org/news/build-a-100-days-of-code-discord-bot-with-typescript-mongodb-and-discord-js-13/",
+          "publishedOn": "2022-01-31T21:41:05.000Z",
+          "wordCount": 8722,
+          "title": "Build a 100 Days of Code Discord Bot with TypeScript, MongoDB, and Discord.js 13"
+        },
+        {
+          "id": "61f7c2aef2ed6b06db5a92c6",
+          "author": "Ilenia Magoni",
+          "description": "In this guide, you'll learn to how to collect all 54 achievements and reach all six endings of the LearnToCodeRPG.  According to the game's creator, Lynn Zheng [/news/author/lynn/], > Learn to Code RPG is an interactive visual novel game where you will teach yourself to code, make friends in",
+          "link": "https://www.freecodecamp.org/news/learntocoderpg-player-guide-how-to-unlock-all-achievements-and-endings/",
+          "publishedOn": "2022-01-31T21:32:45.000Z",
+          "wordCount": 1466,
+          "title": "LearnToCodeRPG Player Guide – How to Unlock All Achievements and Endings"
+        },
+        {
+          "id": "61f4ec99f2ed6b06db5a7708",
+          "author": "Dionysia Lemonaki",
+          "description": "In this article, you'll learn how to use Python arrays. You'll see how to define them and the different methods commonly used for performing operations on them. The artcile covers arrays that you create by importing the array module. We won't cover NumPy arrays here. Table of Contents  1.",
+          "link": "https://www.freecodecamp.org/news/python-array-tutorial-define-index-methods/",
+          "publishedOn": "2022-01-31T18:35:31.000Z",
+          "wordCount": 2844,
+          "title": "Python Array Tutorial – Define, Index, Methods"
+        },
+        {
+          "id": "61f7f661f2ed6b06db5a946e",
+          "author": "Kolade Chris",
+          "description": "An ordered list is a list in which the items are numbered and the order matters. This is as opposed to an unordered list where the items are bulleted by default (and the order doesn't matter). Basic Syntax of the <ol> tag The <ol> tag defines ordered lists in HTML.",
+          "link": "https://www.freecodecamp.org/news/ordered-list-in-html-ol-tag-example/",
+          "publishedOn": "2022-01-31T18:34:40.000Z",
+          "wordCount": 742,
+          "title": "Ordered List in HTML – OL Tag Example"
+        },
+        {
+          "id": "61d543d1d2d9de084285c339",
+          "author": "Jessica Wilkins",
+          "description": "The term full stack [/news/what-is-a-full-stack-developer-back-end-front-end-full-stack-engineer/]  developer refers to working with both the frontend and backend components of a web application.  The frontend is what the user interacts with, while the backend is the logic for the web application.  In this article, I will cover some resources that",
+          "link": "https://www.freecodecamp.org/news/learn-web-development-free-full-stack-developer-courses-for-beginners/",
+          "publishedOn": "2022-01-31T18:14:59.000Z",
+          "wordCount": 1054,
+          "title": "Learn Web Development – Free Full Stack Developer Courses for Beginners"
+        },
+        {
+          "id": "61eae40d011f89330346ff65",
+          "author": "Yasir Tobbileh",
+          "description": "PostCSS is a Node.js tool that transforms your styles using JavaScript plugins. It generates more downloads per week on NPM [https://www.npmtrends.com/less-vs-postcss-vs-sass-vs-stylus] than other CSS preprocessors like Sass, Less, and Stylus combined. PostCSS download trends comparing to other CSS preprocessorsIn this article we will discuss:  * What is PostCSS?",
+          "link": "https://www.freecodecamp.org/news/what-is-postcss/",
+          "publishedOn": "2022-01-31T17:29:16.000Z",
+          "wordCount": 2453,
+          "title": "What is PostCSS? How to Use Plugins to Automate CSS Tasks"
+        },
+        {
+          "id": "61ec0522011f893303470824",
+          "author": "Suchandra Datta",
+          "description": "I've always been fascinated with languages and the inherent beauty of words. But I used to think that language comprehension was an exclusive human trait.  So when machines started generating, understanding, classifying, and summarizing text using Transformers, I was excited to learn more. And I wanted to learn how",
+          "link": "https://www.freecodecamp.org/news/getting-started-with-ner-models-using-huggingface/",
+          "publishedOn": "2022-01-31T15:42:18.000Z",
+          "wordCount": 2307,
+          "title": "How to Fine-Tune BERT for NER Using HuggingFace"
+        },
+        {
+          "id": "61f42d96f2ed6b06db5a7032",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Sometimes you might accidentally close your Word application without saving your file. You might think that your progress has been lost, but there's actually a way to recover the file without losing any of your content. And that is exactly what this article will show you how to do. To",
+          "link": "https://www.freecodecamp.org/news/how-to-recover-an-unsaved-word-document-restore-a-deleted-word-file/",
+          "publishedOn": "2022-01-31T15:17:51.000Z",
+          "wordCount": 591,
+          "title": "How to Recover an Unsaved Word Document – Restore a Deleted Word File"
+        },
         {
           "id": "61f23b31f2ed6b06db5a6166",
           "author": "TAPAS ADHIKARY",
@@ -6674,6 +6818,177 @@
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
         {
+          "id": "https://hackernoon.com/hacker-noon-haiku?source=rss",
+          "author": "Nebojsa \"Nesha\" Todorovic",
+          "description": "The Way of the CybeRonin",
+          "link": "https://hackernoon.com/hacker-noon-haiku?source=rss",
+          "publishedOn": "2022-01-31T09:06:22.000Z",
+          "wordCount": 1083,
+          "title": "HackerNoon Haiku"
+        },
+        {
+          "id": "https://hackernoon.com/writing-prompt-women-in-tech-interview-series?source=rss",
+          "author": "Official Writing Prompts",
+          "description": "We need more women in technology, and by sharing stories, we can encourage many girls to follow their dreams. Share your story today!",
+          "link": "https://hackernoon.com/writing-prompt-women-in-tech-interview-series?source=rss",
+          "publishedOn": "2022-01-31T09:03:01.000Z",
+          "wordCount": 1317,
+          "title": "[Writing Prompt] Women in Tech Interview Series"
+        },
+        {
+          "id": "https://hackernoon.com/what-does-randd-stand-for-in-business-and-why-is-it-important?source=rss",
+          "author": "Fayrix",
+          "description": "Innovation is the main source of competitive business advantage, and, as a result, it determines the success of every leading company in any industry. However, today the basis of a leadership strategy is not even access to technology itself but the company’s ability to bring its technological potential in line with market requirements.",
+          "link": "https://hackernoon.com/what-does-randd-stand-for-in-business-and-why-is-it-important?source=rss",
+          "publishedOn": "2022-01-31T08:52:56.000Z",
+          "wordCount": 2909,
+          "title": "What Does R&D Stand for in Business and Why is it Important?"
+        },
+        {
+          "id": "https://hackernoon.com/top-9-free-beginner-tutorials-for-machine-learning-ml?source=rss",
+          "author": "Kelsey Foster",
+          "description": "This post includes a round-up of some of the best free beginner tutorials for Machine Learning.",
+          "link": "https://hackernoon.com/top-9-free-beginner-tutorials-for-machine-learning-ml?source=rss",
+          "publishedOn": "2022-01-31T08:15:32.000Z",
+          "wordCount": 1848,
+          "title": "Top 9 Free Beginner Tutorials for Machine Learning (ML)"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-onboard-software-engineers-remotely-in-2022-to-help-you-go-to-the-moon?source=rss",
+          "author": "Ralabs",
+          "description": "A practical guide on the remote hiring process in 2022. Hire the right software engineers.",
+          "link": "https://hackernoon.com/how-to-onboard-software-engineers-remotely-in-2022-to-help-you-go-to-the-moon?source=rss",
+          "publishedOn": "2022-01-31T08:06:40.000Z",
+          "wordCount": 2494,
+          "title": "How to Onboard Software Engineers Remotely in 2022 to Help You Go to the Moon"
+        },
+        {
+          "id": "https://hackernoon.com/the-rewards-card-system-is-broken-and-here-is-how-i-tried-to-fix-it?source=rss",
+          "author": "John Vester",
+          "description": "Rewards cards are a way to incentivize customer loyalty. Check out how easy this concept can become a reality - just by using the Marqeta service.",
+          "link": "https://hackernoon.com/the-rewards-card-system-is-broken-and-here-is-how-i-tried-to-fix-it?source=rss",
+          "publishedOn": "2022-01-31T07:50:51.000Z",
+          "wordCount": 2582,
+          "title": "The Rewards Card System is Broken and Here is How I Tried to Fix It"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-find-minimum-viable-product-market-fit-pmf?source=rss",
+          "author": "Zoe Chew",
+          "description": "Focus on the problem, not the solution",
+          "link": "https://hackernoon.com/how-to-find-minimum-viable-product-market-fit-pmf?source=rss",
+          "publishedOn": "2022-01-31T07:47:22.000Z",
+          "wordCount": 2668,
+          "title": "How to Find Minimum Viable Product-Market Fit (PMF)"
+        },
+        {
+          "id": "https://hackernoon.com/miki-agrawal-is-developing-an-eco-friendly-toilet?source=rss",
+          "author": "Miki Agrawal",
+          "description": "As seen in Forbes, Miki Agrawal is on a mission to create an eco-friendly toilet, and foster sustainability within the personal care industry all at once.",
+          "link": "https://hackernoon.com/miki-agrawal-is-developing-an-eco-friendly-toilet?source=rss",
+          "publishedOn": "2022-01-31T07:43:35.000Z",
+          "wordCount": 2009,
+          "title": "Miki Agrawal is Developing an Eco-Friendly Toilet"
+        },
+        {
+          "id": "https://hackernoon.com/linux-postfix-how-to-add-opendkim-to-dns?source=rss",
+          "author": "EasyDMARC",
+          "description": "Outsourcing is the process of a company contracting with a third party to do a certain task. This post will show how these two elements can work together.",
+          "link": "https://hackernoon.com/linux-postfix-how-to-add-opendkim-to-dns?source=rss",
+          "publishedOn": "2022-01-31T07:09:14.000Z",
+          "wordCount": 1934,
+          "title": "Linux Postfix-How to Add OpenDKIM to DNS"
+        },
+        {
+          "id": "https://hackernoon.com/nigerian-contemporary-art-the-nft-marketplace-and-people-that-dont-know-how-to-quit?source=rss",
+          "author": "Asher Umerie",
+          "description": "The concept of governance has evolved extensively. This is evident in the evolution from the first ‘city-state’ notion of it practiced in Greece (born out of necessity and aided by the Mediterranean geography) to a largely democratic system, attainable in most parts of civilized society today.",
+          "link": "https://hackernoon.com/nigerian-contemporary-art-the-nft-marketplace-and-people-that-dont-know-how-to-quit?source=rss",
+          "publishedOn": "2022-01-31T03:37:43.000Z",
+          "wordCount": 2210,
+          "title": "Nigerian Contemporary Art:\t\nThe NFT Marketplace and People that Don’t Know How to Quit"
+        },
+        {
+          "id": "https://hackernoon.com/nft-copyright-protection-for-beginners?source=rss",
+          "author": "Arti Agarwal",
+          "description": "Demystifying ownership and legality of NFTs. What NFTs are--they are representation of ownership. But what does it mean for copyrights?",
+          "link": "https://hackernoon.com/nft-copyright-protection-for-beginners?source=rss",
+          "publishedOn": "2022-01-31T03:32:49.000Z",
+          "wordCount": 2420,
+          "title": "NFT Copyright Protection for Beginners"
+        },
+        {
+          "id": "https://hackernoon.com/exploring-the-neo4j-graph-database?source=rss",
+          "author": "Unegbu kingsley",
+          "description": "In this article you'll learn more about the NoSQL Graph database - NEO4J.",
+          "link": "https://hackernoon.com/exploring-the-neo4j-graph-database?source=rss",
+          "publishedOn": "2022-01-30T23:42:48.000Z",
+          "wordCount": 1825,
+          "title": "Exploring the Neo4J Graph Database"
+        },
+        {
+          "id": "https://hackernoon.com/the-react-virtual-dom-explained?source=rss",
+          "author": "Ateev Duggal",
+          "description": "Virtual DOM Is Just A Virtual Copy Of The Actual Object That The DOM Has Created For A Specific Node And...",
+          "link": "https://hackernoon.com/the-react-virtual-dom-explained?source=rss",
+          "publishedOn": "2022-01-30T23:38:28.000Z",
+          "wordCount": 1985,
+          "title": "The React Virtual DOM Explained"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-create-an-instant-search-input-with-debounce-in-reactjs?source=rss",
+          "author": "Anderson Osayerie",
+          "description": "I recently built an anime app that fetches details about animes from an external API. The project had an input field where you could type in the name of an anime to search for. The text typed in the input field was then used to query the API for animes matching the input. The input field was to use “instant search” mechanism. This meant that users where not required to hit enter or press a button for the search to occur. To prevent making a call to the API on every keystroke, I had to debounce the queries made to the API.",
+          "link": "https://hackernoon.com/how-to-create-an-instant-search-input-with-debounce-in-reactjs?source=rss",
+          "publishedOn": "2022-01-30T22:16:16.000Z",
+          "wordCount": 1617,
+          "title": "How to Create an Instant Search Input with Debounce in React.js"
+        },
+        {
+          "id": "https://hackernoon.com/building-defi-20-with-cross-chain-compatibility?source=rss",
+          "author": "Clover.Finance",
+          "description": "Clover's wallet provides industry-leading cross-chain compatibility and solves a major issue in the DeFi landscape.",
+          "link": "https://hackernoon.com/building-defi-20-with-cross-chain-compatibility?source=rss",
+          "publishedOn": "2022-01-30T22:15:40.000Z",
+          "wordCount": 1908,
+          "title": "Building DeFi 2.0 With Cross Chain Compatibility"
+        },
+        {
+          "id": "https://hackernoon.com/10-best-python-tools-libraries-and-ides-you-can-learn-to-become-a-better-python-programmer?source=rss",
+          "author": "Javin Paul",
+          "description": "If you are looking for the best Python tools, libraries, and best IDEs for Python development, then you have come to the right place.",
+          "link": "https://hackernoon.com/10-best-python-tools-libraries-and-ides-you-can-learn-to-become-a-better-python-programmer?source=rss",
+          "publishedOn": "2022-01-30T22:13:19.000Z",
+          "wordCount": 3530,
+          "title": "10 Best Python Tools, Libraries, and IDEs You Can Learn to Become a Better Python Programmer"
+        },
+        {
+          "id": "https://hackernoon.com/owasp-audit-how-to-make-sure-your-app-is-secure?source=rss",
+          "author": "FamilyGo",
+          "description": "FamilyGo conducted an audit on themselves to see how mobile apps may be compromised by common threats and how the app managed to fix the vulnerabilities",
+          "link": "https://hackernoon.com/owasp-audit-how-to-make-sure-your-app-is-secure?source=rss",
+          "publishedOn": "2022-01-30T22:04:44.000Z",
+          "wordCount": 2616,
+          "title": "OWASP Audit: How to Make Sure Your App is Secure"
+        },
+        {
+          "id": "https://hackernoon.com/ci-for-apis-with-the-kong-insomnia-cli-and-github-actions?source=rss",
+          "author": "Tyler Hawkins",
+          "description": "Create a simple server with Node.js and Express, write API tests using Kong Insomnia, and then run these tests in our CI pipeline with Inso and GitHub Actions.",
+          "link": "https://hackernoon.com/ci-for-apis-with-the-kong-insomnia-cli-and-github-actions?source=rss",
+          "publishedOn": "2022-01-30T21:27:44.000Z",
+          "wordCount": 2521,
+          "title": "CI for APIs with the Kong Insomnia CLI and GitHub Actions"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-get-your-first-uxui-design-job?source=rss",
+          "author": "Product Designer",
+          "description": "I want to share some alternatives to finding jobs that you can use if you are currently looking for a job as a junior designer.",
+          "link": "https://hackernoon.com/how-to-get-your-first-uxui-design-job?source=rss",
+          "publishedOn": "2022-01-30T20:53:31.000Z",
+          "wordCount": 2161,
+          "title": "How to Get Your First UX/UI Design Job"
+        },
+        {
           "id": "https://hackernoon.com/5-reasons-to-build-on-the-internet-computer?source=rss",
           "author": "Cryptonomicon",
           "description": "The Internet Computer is a new computing platform that enables developers to reap the benefits blockchain technology offers without sacrificing performance.",
@@ -6996,6 +7311,15 @@
           "publishedOn": "2022-01-28T08:11:13.000Z",
           "wordCount": 2989,
           "title": "How India Revolutionised its Digital Payment System"
+        },
+        {
+          "id": "https://hackernoon.com/omicron-variant-is-drastically-slowing-down-return-to-office-plans-in-us-tech-companies?source=rss",
+          "author": "Rick Chen",
+          "description": "A large majority of U.S. employers have asked their workforces to come back home for another month or longer",
+          "link": "https://hackernoon.com/omicron-variant-is-drastically-slowing-down-return-to-office-plans-in-us-tech-companies?source=rss",
+          "publishedOn": "2022-01-28T07:58:20.000Z",
+          "wordCount": 1768,
+          "title": "Omicron Variant is Drastically Slowing Down Return-to-Office Plans in US Tech Companies"
         },
         {
           "id": "https://hackernoon.com/faang-engineers-report-median-base-salary-of-$150k-to-$200k?source=rss",
@@ -20712,6 +21036,15 @@
       "siteUrl": "https://davidwalsh.name",
       "articles": [
         {
+          "id": "https://davidwalsh.name/?p=27523",
+          "author": "David Walsh",
+          "description": "Readers of my blog will know that I’ve been banging the Cloudinary drum for years. Their awesome media capabilities allow users to optimally deliver images, video, and audio in any format and to any device. Performance, customization, flexibility, optimized delivery… Cloudinary makes media better for everyone. Another aspect of Cloudinary that I like? Their commitment […]\nThe post Easy Asset Access with the Cloudinary Media Library Browser Extension appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/easy-asset-access-with-the-cloudinary-media-library-browser-extension",
+          "publishedOn": "2022-01-31T10:12:38.000Z",
+          "wordCount": 775,
+          "title": "Easy Asset Access with the Cloudinary Media Library Browser Extension"
+        },
+        {
           "id": "https://davidwalsh.name/?p=27498",
           "author": "David Walsh",
           "description": "Some things happen in your life at exactly the right time. It could be meeting the right person, discovering an open source project you go on to join, or even starting a blog when you’re bored with a job you don’t enjoy. All of those things happened to me at the right time and brought […]\nThe post I Love You, Ringo appeared first on David Walsh Blog.",
@@ -22128,6 +22461,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=517923",
+          "author": "Robin Kearey",
+          "description": "Although Christmas may be several weeks behind us, various colorful LED contraptions can nowadays be found in our houses at any time of year. [Tim] got his hands on an …read more",
+          "link": "https://hackaday.com/2022/01/31/reverse-engineering-a-two-wire-led-strip-protocol/",
+          "publishedOn": "2022-02-01T00:00:05.000Z",
+          "wordCount": 1385,
+          "title": "Reverse-Engineering a Two-Wire LED Strip Protocol"
+        },
+        {
+          "id": "https://hackaday.com/?p=517986",
+          "author": "Arsenijs Picugins",
+          "description": "Bending various proprietary devices to our will is a hacker’s rite of passage. When it comes to proprietary wall sockets, we’d often reverse-engineer and emulate their protocol – but you …read more",
+          "link": "https://hackaday.com/2022/01/31/reusing-proprietary-wireless-sockets-without-wireless-hacking/",
+          "publishedOn": "2022-01-31T21:00:57.000Z",
+          "wordCount": 1735,
+          "title": "Reusing Proprietary Wireless Sockets Without Wireless Hacking"
+        },
+        {
+          "id": "https://hackaday.com/?p=517867",
+          "author": "Dave Rowntree",
+          "description": "Over on Hackaday.io, user [Tomasz Jastrzebski] has designed a tidy-looking custom controller for driving temperature-controlled soldering irons. The design is intended to be general purpose, capable of operating with irons …read more",
+          "link": "https://hackaday.com/2022/01/31/another-neat-general-purpose-soldering-iron-driver/",
+          "publishedOn": "2022-01-31T19:00:13.000Z",
+          "wordCount": 1560,
+          "title": "Another Neat General Purpose Soldering Iron Driver"
+        },
+        {
+          "id": "https://hackaday.com/?p=517391",
+          "author": "Al Williams",
+          "description": "There’s an old joke about the Thermos bottle that keeps things hot and cold, so someone loaded it with soup and ice cream. That joke is a little close to …read more",
+          "link": "https://hackaday.com/2022/01/31/3d-printering-water-cooled-hotends/",
+          "publishedOn": "2022-01-31T18:00:48.000Z",
+          "wordCount": 2190,
+          "title": "3D Printering: Water-Cooled Hotends"
+        },
+        {
+          "id": "https://hackaday.com/?p=517101&preview=true&preview_id=517101",
+          "author": "Dan Maloney",
+          "description": "Join us on Wednesday, February 2 at noon Pacific for the Floppy Interfacing Hack Chat with Adafruit’s Limor “Ladyada” Fried and Phillip Torrone! When a tiny fleck of plastic-covered silicon …read more",
+          "link": "https://hackaday.com/2022/01/31/floppy-interfacing-hack-chat-with-adafruit/",
+          "publishedOn": "2022-01-31T17:00:38.000Z",
+          "wordCount": 1704,
+          "title": "Floppy Interfacing Hack Chat with Adafruit"
+        },
+        {
+          "id": "https://hackaday.com/?p=517876",
+          "author": "Arsenijs Picugins",
+          "description": "The acoustic properties of a room have a surprising impact when you want to use a microphone. [RayP24]’s son was trying to make his bedroom into a better recording studio, …read more",
+          "link": "https://hackaday.com/2022/01/31/diy-acoustic-panels-or-modern-artwork-cant-tell/",
+          "publishedOn": "2022-01-31T16:00:08.000Z",
+          "wordCount": 1622,
+          "title": "DIY Acoustic Panels Or Modern Artwork? Can’t Tell"
+        },
+        {
+          "id": "https://hackaday.com/?p=517200",
+          "author": "Chris Lott",
+          "description": "A few months ago, I was discussing the control of GPIB equipment with a colleague. Based on only on my gut feeling and the briefest of research, I told him …read more",
+          "link": "https://hackaday.com/2022/01/31/save-money-and-have-fun-using-ieee-488/",
+          "publishedOn": "2022-01-31T15:00:21.000Z",
+          "wordCount": 3939,
+          "title": "Save Money and Have Fun Using IEEE-488"
+        },
         {
           "id": "https://hackaday.com/?p=517286&preview=true&preview_id=517286",
           "author": "Dan Maloney",
@@ -29039,6 +29435,66 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "8ABCB0CB-0AAA-4045-83BB8AD3042312A4",
+          "author": "Anne C. Mulkern, E&E News",
+          "description": "The city council voted unanimously to end drilling in the city for public health reasons\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/los-angeles-bans-new-oil-wells-will-phase-out-existing-ones/",
+          "publishedOn": "2022-01-31T20:30:00.000Z",
+          "wordCount": null,
+          "title": "Los Angeles Bans New Oil Wells, Will Phase Out Existing Ones",
+          "itunes": {}
+        },
+        {
+          "id": "D1F1C2FA-AF2B-4AD2-87720F07C46BB29F",
+          "author": "Clare Watson, Nature magazine",
+          "description": "Endless boosting might not be a practical or sustainable strategy, scientists say\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-many-covid-vaccine-boosters-will-we-need/",
+          "publishedOn": "2022-01-31T20:15:00.000Z",
+          "wordCount": null,
+          "title": "How Many COVID Vaccine Boosters Will We Need?",
+          "itunes": {}
+        },
+        {
+          "id": "7047B06D-725D-4B59-8F3E0F10D6132D25",
+          "author": "Stephanie Pappas",
+          "description": "New research suggests there are 14 percent more tree species out there than previously believed\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/thousands-of-tree-species-remain-unknown-to-science/",
+          "publishedOn": "2022-01-31T20:00:00.000Z",
+          "wordCount": null,
+          "title": "Thousands of Tree Species Remain Unknown to Science",
+          "itunes": {}
+        },
+        {
+          "id": "F6189206-1493-4E1B-88CB35F3FC5A5755",
+          "author": "Spencer Greenberg, Holly Muir",
+          "description": "New research underscores that almost everyone’s personality blends “more often seen in men” and “more-often-seen in women” characteristics\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/most-of-us-combine-personality-traits-from-different-genders/",
+          "publishedOn": "2022-01-31T18:00:00.000Z",
+          "wordCount": null,
+          "title": "Most of Us Combine Personality Traits from Different Genders",
+          "itunes": {}
+        },
+        {
+          "id": "9611A4A4-FA0F-4320-A2041D139AF34AF1",
+          "author": "Gabe Andrews",
+          "description": "Turtle eggs feed the dunes in which they are laid and serve as a reminder of how humans conservation efforts reap positive effects\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/restoring-sea-turtles-numbers-also-restored-their-ecosystem/",
+          "publishedOn": "2022-01-31T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Restoring Sea Turtles' Numbers Also Restored Their Ecosystem",
+          "itunes": {}
+        },
+        {
+          "id": "B9C78A42-4D18-41DE-AB3580B2E19DE4E1",
+          "author": "Lars Fischer",
+          "description": "Health-damaging PFASs are nearly impossible to break down—but a new hot-water technique can destroy them\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-to-destroy-forever-chemicals/",
+          "publishedOn": "2022-01-31T11:45:00.000Z",
+          "wordCount": null,
+          "title": "How to Destroy 'Forever Chemicals'",
+          "itunes": {}
+        },
+        {
           "id": "2D81321E-92D2-4F8A-B0DB7D6ECACAF1D2",
           "author": "Esther Mullens, The Conversation US",
           "description": "An atmospheric scientist explains\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -34729,6 +35185,33 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=149549",
+          "author": "Veronica Haggar",
+          "description": "Continuous deployment orchestration software company, Octopus Deploy, announces acquisition of Dist, a cloud-native container registry solution.  Dist’s technology will provide seamless container registry experience to Octopus Deploy customers Brisbane-based company’s first acquisition since USD$172.5m capital raise from Insight Partners BRISBANE, Australia – Feb. 1, 2022  (Jan. 31, 2022) – Octopus Deploy, a leading provider of continuous deployment […]\nThe post Octopus Deploy Acquires Dist to Power Cloud-Native Software Deployments appeared first on DevOps.com.",
+          "link": "https://devops.com/octopus-deploy-acquires-dist-to-power-cloud-native-software-deployments/",
+          "publishedOn": "2022-01-31T14:15:03.000Z",
+          "wordCount": 1051,
+          "title": "Octopus Deploy Acquires Dist to Power Cloud-Native Software Deployments"
+        },
+        {
+          "id": "https://devops.com/?p=149505",
+          "author": "Galeal Zino",
+          "description": "In Steven Bellovin’s book, “Thinking Security: Stopping Next Year’s Hackers,” (2015) he wrote: “Companies are spending a great deal on security, but we read of massive computer-related attacks. Clearly, something is wrong. The root of the problem is two-fold: We’re protecting (and spending money on protecting) the wrong things, and we’re hurting productivity in the […]\nThe post Embedded Connectivity Solves the Right (and Left) Problem appeared first on DevOps.com.",
+          "link": "https://devops.com/embedded-connectivity-solves-the-right-and-left-problem/",
+          "publishedOn": "2022-01-31T07:30:35.000Z",
+          "wordCount": 1206,
+          "title": "Embedded Connectivity Solves the Right (and Left) Problem"
+        },
+        {
+          "id": "https://devops.com/?p=149541",
+          "author": "ROELBOB",
+          "description": "The post The 5 Stages of VR Transformation appeared first on DevOps.com.",
+          "link": "https://devops.com/the-5-stages-of-vr-transformation/",
+          "publishedOn": "2022-01-31T07:00:27.000Z",
+          "wordCount": 448,
+          "title": "The 5 Stages of VR Transformation"
+        },
+        {
           "id": "https://devops.com/?p=149503",
           "author": "Venkat Ram Donga",
           "description": "Simple, safe, reliable software installs and uninstalls are always best, but getting there isn’t easy. Applications break each other—or even the operating system itself. MSIX, Microsoft’s packaging format, is the newest replacement for the decades-old Microsoft Software Installer (MSI) and setup exe installer technologies. MSIX is gaining acceptance and wider adoption because of the benefits […]\nThe post Building a Reliable App Installation Experience with MSIX appeared first on DevOps.com.",
@@ -34747,6 +35230,15 @@
           "title": "A Pandemic Side Effect: Rampant Technical Debt"
         },
         {
+          "id": "https://devops.com/?p=149555",
+          "author": "Veronica Haggar",
+          "description": "Graviti Data Platform Will Power Enterprises to Manage Unstructured Data at Scale New York, NY, Jan. 27, 2022 — Graviti, a New York based modern data infrastructure startup that has been in stealth mode for the past three years, is today launching its first product – Graviti Data Platform. Graviti Data Platform is designed to eliminate one […]\nThe post Graviti Launches Game-Changing Data Platform Out of Stealth Mode appeared first on DevOps.com.",
+          "link": "https://devops.com/graviti-launches-game-changing-data-platform-out-of-stealth-mode/",
+          "publishedOn": "2022-01-27T18:00:44.000Z",
+          "wordCount": 1228,
+          "title": "Graviti Launches Game-Changing Data Platform Out of Stealth Mode"
+        },
+        {
           "id": "https://devops.com/?p=149461",
           "author": "Richi Jennings",
           "description": "In this week’s The Long View: Google’s FLoC proposal is dead, Meta/Facebook is buying RSC—a huge AI supercomputer, and Arm “will IPO” instead of selling to Nvidia.\nThe post Google FLoC is Dead | Meta AI Supercomputer Lives | ARM Deal is Dead appeared first on DevOps.com.",
@@ -34754,6 +35246,15 @@
           "publishedOn": "2022-01-27T17:22:21.000Z",
           "wordCount": 1772,
           "title": "Google FLoC is Dead | Meta AI Supercomputer Lives | ARM Deal is Dead"
+        },
+        {
+          "id": "https://devops.com/?p=149553",
+          "author": "Veronica Haggar",
+          "description": "New program helps DevOps Institute Learning Community Members stay up-to-date on skills necessary to advance their careers by renewing certifications through continuing education units Lehigh Acres, FL, Jan. 27, 2022 — DevOps Institute, a professional member association and certification authority for advancing the human elements of DevOps, today announced its new Continuing Education Program. DevOps Institute’s […]\nThe post DevOps Institute Launches Continuing Education Program to Foster Lifelong Learning for IT Professionals and Organizations appeared first on DevOps.com.",
+          "link": "https://devops.com/devops-institute-launches-continuing-education-program-to-foster-lifelong-learning-for-it-professionals-and-organizations/",
+          "publishedOn": "2022-01-27T14:00:20.000Z",
+          "wordCount": 1196,
+          "title": "DevOps Institute Launches Continuing Education Program to Foster Lifelong Learning for IT Professionals and Organizations"
         },
         {
           "id": "https://devops.com/?p=149433",
@@ -37355,6 +37856,15 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=112170",
+          "author": "Patrick Honner",
+          "description": "The triangle angle sum theorem makes working with triangles easy. What happens when you can’t rely on it?            \nThe post Why Triangles Are Easy and Tetrahedra Are Hard first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/triangles-are-easy-tetrahedra-are-hard-20220131/",
+          "publishedOn": "2022-01-31T15:14:32.000Z",
+          "wordCount": 2650,
+          "title": "Why Triangles Are Easy and Tetrahedra Are Hard"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=112044",
           "author": "Jonathan O'Callaghan",
           "description": "Back when the sun was 30% dimmer, Earth should have frozen solid. Yet water flowed and life blossomed. The solution to the paradox shows that we might have that faint sun to owe for life’s existence — with critical consequences for the possibility of life outside Earth.            \nThe post A Solution to the Faint-Sun Paradox Reveals a Narrow Window for Life first appeared on Quanta Magazine",
@@ -37967,6 +38477,24 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66724",
+          "author": "Nathan Yau",
+          "description": "Ella Koeze, Denise Lu, and Charlie Smart for The New York Times made…\nTags: game, gerrymandering, New York Times",
+          "link": "https://flowingdata.com/2022/01/31/a-game-to-gerrymander-your-party-to-power/",
+          "publishedOn": "2022-01-31T11:54:52.000Z",
+          "wordCount": 303,
+          "title": "A game to gerrymander your party to power"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66718",
+          "author": "Nathan Yau",
+          "description": "Tennis player Novak Djokovic is not vaccinated against the coronavirus, and as a…\nTags: BBC, coronavirus, Novak Djokovic, tennis",
+          "link": "https://flowingdata.com/2022/01/31/questioning-novak-djokovics-covid-tests-based-on-data/",
+          "publishedOn": "2022-01-31T08:40:03.000Z",
+          "wordCount": 339,
+          "title": "Questioning Novak Djokovic’s Covid tests, based on data"
+        },
         {
           "id": "https://flowingdata.com/?p=66712",
           "author": "Nathan Yau",
