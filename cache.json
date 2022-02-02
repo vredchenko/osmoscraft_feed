@@ -6,6 +6,15 @@
       "siteUrl": "https://goteleport.com/blog/",
       "articles": [
         {
+          "id": "https://goteleport.com/blog/ssh-port-knocking/",
+          "author": null,
+          "description": "This article will explore methods for “hiding” SSH servers so that the server is harder to discover by malicious users on public networks. We’ll focus on changing the default SSH port and implementing SSH port knocking to make it more difficult for unwanted users to discover or locate the server. This is a technique known as security through obscurity and is fun to implement but it is not wildly practiced as it does not play well with automated SSH access and adds operational complexity of implementation if you have multiple SSH servers.\nTo follow this tutorial, you need:\nA Linux OS with OpenSSH server. This is the server you want to hide. You will need SSH access to this server with a sudo privilege to perform configurations shown in this post.\nA local machine to access the SSH server.\nCh…",
+          "link": "https://goteleport.com/blog/ssh-port-knocking/",
+          "publishedOn": "2022-02-01T00:00:00.000Z",
+          "wordCount": 2151,
+          "title": "Using SSH Port Knocking to Hide an SSH Server"
+        },
+        {
           "id": "https://goteleport.com/blog/modern-pam-solutions-requirements/",
           "author": null,
           "description": "Privileged Access Management (PAM) is a go-to solution to prevent privilege misuse and insider threats, and limit malware propagation. After all, properly protecting and monitoring the keys to the kingdom is always a good practice. Privileged Access Management has been even more critical in recent times. With the advent of the cloud where infrastructure is provisioned with a single API call and authenticated with a single API key, the risk of someone misusing these credentials is far higher. Now adversaries can edit or even delete your entire infrastructure with a single API call. While the concept and strategy of Privileged Access Management remain the same, traditional PAM solutions struggle to adapt to current DevOps operations and, in many cases, disturb engineers’ workflow, slowing th…",
@@ -751,6 +760,24 @@
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
         {
+          "id": "http://www.i-programmer.info/bookreviews/1-vb/15187-azure-storage-streaming-and-batch-analytics.html",
+          "author": null,
+          "description": "Author: Richard Nuckolls\nPublisher: Manning\nPages:448\n ISBN: 978-1617296307\nPrint:‎ 1617296309\nKindle: B09781TWFJ\n Audience: Data engineers\nRating: 4.5\nReviewer: Kay Ewbank\n\r\nThis book is aimed at developers and system engineers who need to successfully collect and process data in Azure, specifically using the Azure Lambda architecture.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/bookreviews/1-vb/15187-azure-storage-streaming-and-batch-analytics.html",
+          "publishedOn": "2022-02-01T18:24:25.000Z",
+          "wordCount": 982,
+          "title": "Azure Storage, Streaming and Batch Analytics"
+        },
+        {
+          "id": "http://www.i-programmer.info/news/197-data-mining/15181-kafka-31-adds-oidc-support.html",
+          "author": null,
+          "description": "Apache Kafka, the distributed streaming platform that can be used for building real-time streaming data pipelines between systems or applications, has been updated. Improvements include extending SASL/OAUTHBEARER to add support for Open ID Connect (OIDC).\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/197-data-mining/15181-kafka-31-adds-oidc-support.html",
+          "publishedOn": "2022-01-31T17:34:09.000Z",
+          "wordCount": 688,
+          "title": "Kafka 3.1 Adds OIDC Support"
+        },
+        {
           "id": "http://www.i-programmer.info/news/193-android/15182-android-studio-bumblebee-adds-support-for-adb-over-wifi.html",
           "author": null,
           "description": "The latest version of Android Studio, Bumblebee, is now available in a stable version, as is the latest release of the Android Gradle plugin (AGP). The developers say they've improved functionality across a broad area of the typical developer workflow, specifically, build and deploy, profiling and inspection, and design.\n\r\n\nRead more...",
@@ -767,6 +794,15 @@
           "publishedOn": "2022-01-31T17:29:57.000Z",
           "wordCount": 467,
           "title": "Seriously Good Software (Manning)"
+        },
+        {
+          "id": "http://www.i-programmer.info/programming/theory/15184-the-trick-of-the-mind-the-strange-incident-of-the-goto-considered-harmful.html",
+          "author": null,
+          "description": "In this chapter from my recent book we learn about the strange case of the goto instruction and why it caused such a storm - and perhaps still does.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/programming/theory/15184-the-trick-of-the-mind-the-strange-incident-of-the-goto-considered-harmful.html",
+          "publishedOn": "2022-01-31T00:00:00.000Z",
+          "wordCount": 1315,
+          "title": "The Trick Of The Mind -The Strange Incident of The Goto Considered Harmful"
         },
         {
           "id": "http://www.i-programmer.info/news/150-training-a-education/15183-computer-science-for-beginners-with-harvards-cs50x-.html",
@@ -1036,6 +1072,15 @@
       "feedUrl": "https://atom.io/packages.atom",
       "siteUrl": "https://atom.io",
       "articles": [
+        {
+          "id": "https://atom.io/packages/abandoncream-syntax",
+          "author": null,
+          "description": "abadon-cream-syntax theme\nAtom Syntax Theme based on my Abadon Syntax Theme.\nAbadon Creame is light theme with highlighting in pastels. Punctuation is called out in different colors as well as HTML entities. I use this with the One Dark UI theme. This theme is update to date with Atom 1.56 release.\nThis theme includes AmpScript spefic hightlighting as well..because SFMC and email FTW. Screenshots on GitHub.\nView on Github\nScreenshots (Forthcoming)",
+          "link": "https://atom.io/packages/abandoncream-syntax",
+          "publishedOn": "2022-02-01T08:00:17.000Z",
+          "wordCount": 145,
+          "title": "abandoncream-syntax"
+        },
         {
           "id": "https://atom.io/packages/xentu-lua-snippets-atom",
           "author": null,
@@ -1566,6 +1611,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=362169",
+          "author": "Eric Bailey",
+          "description": "I have a coworker who is smart, capable, and technologically-literate. Like me, they work on the web full-time.\nWhen they are sharing their screen in a meeting, I find myself disassociating fixating on the red update button in their copy …\n“Evergreen” Does Not Mean Immediately Available originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/evergreen-does-not-mean-immediately-available/",
+          "publishedOn": "2022-02-01T15:38:41.000Z",
+          "wordCount": 2050,
+          "title": "“Evergreen” Does Not Mean Immediately Available"
+        },
+        {
           "id": "https://css-tricks.com/?p=362886",
           "author": "Chris Coyier",
           "description": "Maggie Appleton gets into what is perhaps the foremost metaphor the web is founded on: paper. \nPaper documents were the original metaphor for the web. […]\nThe page you’re reading this on still mimics paper. We still call it \n…\nMetaphors We Web By originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
@@ -1591,6 +1645,15 @@
           "publishedOn": "2022-01-31T15:16:01.000Z",
           "wordCount": 2663,
           "title": "The Relevance of TypeScript in 2022"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362890",
+          "author": "Chris Coyier",
+          "description": "Jim Nielsen’s mom couldn’t open a website. Jim worked on confirming the issue and documented how he got to the bottom of it:\n“[…] well it can’t be a browser issue. It’s not like my Mom is using Internet Explorer! \n…\nThe Optional Chaining Operator, “Modern” Browsers, and My Mom originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/the-optional-chaining-operator-modern-browsers-and-my-mom/",
+          "publishedOn": "2022-01-30T21:49:15.000Z",
+          "wordCount": 633,
+          "title": "The Optional Chaining Operator, “Modern” Browsers, and My Mom"
         },
         {
           "id": "https://css-tricks.com/?p=362382",
@@ -3579,6 +3642,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61f8b7e5f2ed6b06db5a9eed",
+          "author": "Zach Snoek",
+          "description": "You may have come across or written code similar to this when writing JavaScript: function sayWord(word) { \treturn () => console.log(word); } const sayHello = sayWord(\"hello\"); sayHello(); // \"hello\" This code is interesting for a couple of reasons. First, we can access word in the function returned from sayWord. Second,",
+          "link": "https://www.freecodecamp.org/news/scope-and-closures-in-javascript/",
+          "publishedOn": "2022-02-01T23:52:27.000Z",
+          "wordCount": 1695,
+          "title": "Scope and Closures in JavaScript – Explained with Examples"
+        },
+        {
+          "id": "61f9b031f2ed6b06db5aaa4e",
+          "author": "Beau Carnes",
+          "description": "Creating a serverless API can often be a better choice than coding a backend in Node.js, Laravel, Spring Boot, or some other backend framework. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code and deploy a serverless API using Go and AWS.",
+          "link": "https://www.freecodecamp.org/news/code-and-deploy-a-serverless-api-using-go-and-aws/",
+          "publishedOn": "2022-02-01T22:24:50.000Z",
+          "wordCount": 417,
+          "title": "Code and Deploy a Serverless API Using Go and AWS"
+        },
+        {
+          "id": "61f556d0f2ed6b06db5a7f43",
+          "author": "Logan Kilpatrick",
+          "description": "Julia is a high-level, dynamic, and open-source programming language. It's designed to be as easy to use as Python while remaining as performant as C or C++.  Many early use cases for Julia were in the scientific domains where massive computational processing was and still is required. But as",
+          "link": "https://www.freecodecamp.org/news/how-to-build-web-apps-in-julia/",
+          "publishedOn": "2022-02-01T21:33:45.000Z",
+          "wordCount": 3280,
+          "title": "How to Build Your First Web App in Julia with Genie.jl 🧞‍♂️"
+        },
+        {
+          "id": "61f920a8f2ed6b06db5aa13a",
+          "author": "Kolade Chris",
+          "description": "If you're making websites with HTML and CSS, you will be working with images a lot. Developers often struggle with image alignment in CSS, especially when trying to figure out how to center an image. Centering anything in CSS is not really a straightforward thing - especially for beginners. This",
+          "link": "https://www.freecodecamp.org/news/html-center-image-css-align-img-center-example/",
+          "publishedOn": "2022-02-01T21:16:57.000Z",
+          "wordCount": 862,
+          "title": "HTML Center Image – CSS Align Img Center Example"
+        },
+        {
+          "id": "61f68d36f2ed6b06db5a8963",
+          "author": "Nishant Kumar",
+          "description": "Next.js is a server-side rendering framework based on React, which is search engine optimized. So, let's build an Evernote clone using Next.js to learn how it works. We will use the following tech stack:  1. Next.js for the UI  2. Firebase for the database and for hosting our",
+          "link": "https://www.freecodecamp.org/news/nextjs-firebase-tutorial-build-an-evernote-clone/",
+          "publishedOn": "2022-02-01T18:30:40.000Z",
+          "wordCount": 4527,
+          "title": "Next.js and Firebase Tutorial – How to Build an Evernote Clone"
+        },
+        {
+          "id": "61ef7522f2ed6b06db5a420b",
+          "author": "Rishit Dagli",
+          "description": "Graph Neural Networks are getting more and more popular and are being used extensively in a wide variety of projects.  In this article, I help you get started and understand how graph neural networks work while also trying to address the question \"why\" at each stage.  Finally we",
+          "link": "https://www.freecodecamp.org/news/graph-neural-networks-explained-with-examples/",
+          "publishedOn": "2022-02-01T16:50:35.000Z",
+          "wordCount": 3885,
+          "title": "What Are Graph Neural Networks? How GNNs Work, Explained with Examples"
+        },
+        {
+          "id": "61990e8b11d3cb08287a9bf9",
+          "author": "Shahan Chowdhury",
+          "description": "In this article, you'll learn how to build a racing game in Python using the Turtle library in just 39 lines of code.  Here's what we're going to create: Turtle Racing Game Project Overview🧵 Prerequisites Very basic knowledge of Python programming will be enough to go through this tutorial.",
+          "link": "https://www.freecodecamp.org/news/how-to-make-racing-game-using-python/",
+          "publishedOn": "2022-02-01T15:49:24.000Z",
+          "wordCount": 1916,
+          "title": "Python Game Development – How to Make a Turtle Racing Game with PyCharm"
+        },
         {
           "id": "61ec2da1011f893303470c78",
           "author": "Jason Dsouza",
@@ -6818,6 +6944,150 @@
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
         {
+          "id": "https://hackernoon.com/how-to-write-clean-well-maintained-code-using-a-static-analyzer-and-pmd?source=rss",
+          "author": "Michael",
+          "description": "A static analyzer can reduce the possibility of bugs, such as when you accidentally overwrite a variable with another value.",
+          "link": "https://hackernoon.com/how-to-write-clean-well-maintained-code-using-a-static-analyzer-and-pmd?source=rss",
+          "publishedOn": "2022-01-31T17:56:44.000Z",
+          "wordCount": 2555,
+          "title": "How to Write Clean, Well Maintained Code Using a Static Analyzer and PMD"
+        },
+        {
+          "id": "https://hackernoon.com/5-traits-to-look-for-when-choosing-a-business-partner?source=rss",
+          "author": "@web monitization Anupriya",
+          "description": "The days when your company was forced to accept expensive consultants who delayed your project by a few months are over. We interviewed key global executives to find out what methods they use to find partners.",
+          "link": "https://hackernoon.com/5-traits-to-look-for-when-choosing-a-business-partner?source=rss",
+          "publishedOn": "2022-01-31T16:44:58.000Z",
+          "wordCount": 1635,
+          "title": "5 Traits to Look for When Choosing a Business Partner"
+        },
+        {
+          "id": "https://hackernoon.com/scarcity-mentality-may-be-stopping-you-from-seeing-the-size-of-the-pie?source=rss",
+          "author": "Wade Meredith",
+          "description": "The market for ideas (the pie) is bigger than we can imagine. PIEces of the pie are bigger than we can imagine, so don't let people say it's small.",
+          "link": "https://hackernoon.com/scarcity-mentality-may-be-stopping-you-from-seeing-the-size-of-the-pie?source=rss",
+          "publishedOn": "2022-01-31T16:41:28.000Z",
+          "wordCount": 1561,
+          "title": "Scarcity Mentality May Be Stopping You From Seeing the Size of the Pie"
+        },
+        {
+          "id": "https://hackernoon.com/video-games-can-help-kids-choose-future-careers?source=rss",
+          "author": "CSL",
+          "description": "Netflix documentary series on video games: High Score. Video games were the exact reasons I chose to study computers in college and work in IT.",
+          "link": "https://hackernoon.com/video-games-can-help-kids-choose-future-careers?source=rss",
+          "publishedOn": "2022-01-31T15:25:43.000Z",
+          "wordCount": 2115,
+          "title": "Video Games Can Help Kids Choose Future Careers"
+        },
+        {
+          "id": "https://hackernoon.com/is-the-metaverse-virtual-insanity-or-a-virtual-gold-mine?source=rss",
+          "author": "Fortuitapps",
+          "description": "Elon Musk recently mentioned that “he doesn’t get Virtual Reality”",
+          "link": "https://hackernoon.com/is-the-metaverse-virtual-insanity-or-a-virtual-gold-mine?source=rss",
+          "publishedOn": "2022-01-31T14:32:51.000Z",
+          "wordCount": 3098,
+          "title": "Is the Metaverse Virtual Insanity or a Virtual Gold Mine?"
+        },
+        {
+          "id": "https://hackernoon.com/how-brave-browser-gained-the-favor-of-crypto-enthusiasts?source=rss",
+          "author": "BlocksAdvisors",
+          "description": "By leveraging early adopters across verticals, Brave is compounding network effects. Users like a holistic interface. Investors look at the Sum of the Parts.",
+          "link": "https://hackernoon.com/how-brave-browser-gained-the-favor-of-crypto-enthusiasts?source=rss",
+          "publishedOn": "2022-01-31T14:18:37.000Z",
+          "wordCount": 1797,
+          "title": "How Brave Browser Gained the Favor of Crypto Enthusiasts"
+        },
+        {
+          "id": "https://hackernoon.com/hacking-the-future-of-school?source=rss",
+          "author": "Brian Wallace",
+          "description": "A look at where the direction of the future of school is going.",
+          "link": "https://hackernoon.com/hacking-the-future-of-school?source=rss",
+          "publishedOn": "2022-01-31T14:00:01.000Z",
+          "wordCount": 1531,
+          "title": "Hacking the Future of School"
+        },
+        {
+          "id": "https://hackernoon.com/3-reasons-why-wordle-is-so-addicting?source=rss",
+          "author": "Mariia Yuskevych",
+          "description": "Let's discuss three reasons behind the immense popularity of the Wordle game.",
+          "link": "https://hackernoon.com/3-reasons-why-wordle-is-so-addicting?source=rss",
+          "publishedOn": "2022-01-31T13:52:25.000Z",
+          "wordCount": 1637,
+          "title": "3 Reasons Why Wordle is So Addicting"
+        },
+        {
+          "id": "https://hackernoon.com/keeping-track-of-group-expenses-with-telegram-bot-aws-and-nodejs?source=rss",
+          "author": "Arpan Kc",
+          "description": "Automate thankless tasks like splitting grocery bills using a Telegram Bot and AWS.",
+          "link": "https://hackernoon.com/keeping-track-of-group-expenses-with-telegram-bot-aws-and-nodejs?source=rss",
+          "publishedOn": "2022-01-31T13:41:47.000Z",
+          "wordCount": 3443,
+          "title": "Build Your own Telegram Bot with AWS and Node.js"
+        },
+        {
+          "id": "https://hackernoon.com/10-best-games-on-xbox-game-pass-in-2022?source=rss",
+          "author": "Evgeny Kim",
+          "description": "Xbox Game Pass is constantly evolving. In this article, we'll talk about some of the best games on Xbox Game Pass in 2022 to help you find titles you'll love.",
+          "link": "https://hackernoon.com/10-best-games-on-xbox-game-pass-in-2022?source=rss",
+          "publishedOn": "2022-01-31T13:15:02.000Z",
+          "wordCount": 2613,
+          "title": "10 Best Games on Xbox Game Pass in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/best-playstation-4-games-for-kids-rated-e-for-everyone?source=rss",
+          "author": "Marc Magrini",
+          "description": "What are the best PS4 games for kids and families?",
+          "link": "https://hackernoon.com/best-playstation-4-games-for-kids-rated-e-for-everyone?source=rss",
+          "publishedOn": "2022-01-31T13:09:59.000Z",
+          "wordCount": 2294,
+          "title": "Best PlayStation 4 Games for Kids: Rated E for Everyone"
+        },
+        {
+          "id": "https://hackernoon.com/10-best-sega-genesis-games-of-all-time-ranked-by-sales?source=rss",
+          "author": "Marc Magrini",
+          "description": "Check out the 10 best Sega Genesis games in terms of copies sold!",
+          "link": "https://hackernoon.com/10-best-sega-genesis-games-of-all-time-ranked-by-sales?source=rss",
+          "publishedOn": "2022-01-31T13:09:08.000Z",
+          "wordCount": 2682,
+          "title": "10 Best Sega Genesis Games of All Time Ranked by Sales"
+        },
+        {
+          "id": "https://hackernoon.com/simplifying-api-with-tynydev-founder-patrick-pittich-rinnerthaler?source=rss",
+          "author": "Jack Boreham",
+          "description": "Totally Nerdy Cofounder Patrick Pittich-Rinnerthaler joins us in this Slogging AMA to talk about his API technology tyny.dev.",
+          "link": "https://hackernoon.com/simplifying-api-with-tynydev-founder-patrick-pittich-rinnerthaler?source=rss",
+          "publishedOn": "2022-01-31T13:04:02.000Z",
+          "wordCount": 3170,
+          "title": "Simplifying API with Tyny.dev Founder Patrick Pittich-Rinnerthaler"
+        },
+        {
+          "id": "https://hackernoon.com/spend-zero-time-on-devops-with-render-paas?source=rss",
+          "author": "John Vester",
+          "description": "Check out how efficient it is to create a new API using Go, and then deploy it to the Render PaaS, both for the first time with zero DevOps.",
+          "link": "https://hackernoon.com/spend-zero-time-on-devops-with-render-paas?source=rss",
+          "publishedOn": "2022-01-31T12:17:03.000Z",
+          "wordCount": 2748,
+          "title": "Spend Zero Time on DevOps with Render PaaS"
+        },
+        {
+          "id": "https://hackernoon.com/why-async-communication-is-important-in-remote-work?source=rss",
+          "author": "Pawan Kumar",
+          "description": "In this article, You will learn the benefits of asynchronous communication for remote workers.",
+          "link": "https://hackernoon.com/why-async-communication-is-important-in-remote-work?source=rss",
+          "publishedOn": "2022-01-31T12:12:36.000Z",
+          "wordCount": 1562,
+          "title": "Why Asynchronous Communication is Important in Remote Work"
+        },
+        {
+          "id": "https://hackernoon.com/the-addie-training-model-of-instructional-design-an-in-depth-analysis?source=rss",
+          "author": "Celine Aju",
+          "description": "ADDIE is a linear 5-step framework used to design and develop educational and training programs. ADDIE stands for Analysis, Design, Development, Implementation.",
+          "link": "https://hackernoon.com/the-addie-training-model-of-instructional-design-an-in-depth-analysis?source=rss",
+          "publishedOn": "2022-01-31T11:01:29.000Z",
+          "wordCount": 2530,
+          "title": "The ADDIE Training Model of Instructional Design: An In-Depth Analysis"
+        },
+        {
           "id": "https://hackernoon.com/hacker-noon-haiku?source=rss",
           "author": "Nebojsa \"Nesha\" Todorovic",
           "description": "The Way of the CybeRonin",
@@ -7034,6 +7304,15 @@
           "title": "Twitter's  Hexagon NFT pfp: All Show With Unanswered Questions on Scams, Bullying, & Centralization"
         },
         {
+          "id": "https://hackernoon.com/fueling-the-creator-economy-with-a-partnership-with-kakaos-klaytn-and-an-incubator-program?source=rss",
+          "author": "F10 Incubator  & Accelerator",
+          "description": "NFTs which you are already familiar with, has a huge range of possibilities for business, influencers, creative artists, freelancers, brands to capitalise on something that wasn't possible before. Seamlessly across borders, anybody can monetise \"memberships\" and gives \"hodlers\" incentives for being part of a community.",
+          "link": "https://hackernoon.com/fueling-the-creator-economy-with-a-partnership-with-kakaos-klaytn-and-an-incubator-program?source=rss",
+          "publishedOn": "2022-01-29T15:28:42.000Z",
+          "wordCount": 1391,
+          "title": "Fueling The Creator Economy With A Partnership with Kakao's Klaytn And An Incubator Program"
+        },
+        {
           "id": "https://hackernoon.com/how-22-year-old-emery-kelly-an-indie-artist-found-success-with-nfts-talent-and-social-media?source=rss",
           "author": "Corite",
           "description": "Story about how the 23-year-old artist caught the eye of millions of people on Twitter and Instagram, and the admiration of fans worldwide",
@@ -7230,6 +7509,15 @@
           "publishedOn": "2022-01-28T23:12:34.000Z",
           "wordCount": 2631,
           "title": "8 Things to Have An Upper Hand on Before Developing Your 1st Android App"
+        },
+        {
+          "id": "https://hackernoon.com/create-your-very-own-writing-contest-with-hackernoon?source=rss",
+          "author": "@SPONSOR",
+          "description": "Skip the influencers. Start a Writing Contest with HackerNoon.",
+          "link": "https://hackernoon.com/create-your-very-own-writing-contest-with-hackernoon?source=rss",
+          "publishedOn": "2022-01-28T14:41:28.000Z",
+          "wordCount": 1667,
+          "title": "Create Your Very Own Writing Contest with HackerNoon!"
         },
         {
           "id": "https://hackernoon.com/how-to-eliminate-nft-deployment-costs-and-smart-contract-hassles?source=rss",
@@ -21036,6 +21324,15 @@
       "siteUrl": "https://davidwalsh.name",
       "articles": [
         {
+          "id": "https://davidwalsh.name/?p=27535",
+          "author": "David Walsh",
+          "description": "One of my aspects of JavaScript that drew me to it as a young developers was that its syntax was loose and I could code quickly. As you gain experience as an engineer, you start to realize that some traditional coding structure is a good thing, even if it slows you down. Using Jest or […]\nThe post JavaScript Class Privates appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/javascript-class-privates",
+          "publishedOn": "2022-02-01T10:54:21.000Z",
+          "wordCount": 806,
+          "title": "JavaScript Class Privates"
+        },
+        {
           "id": "https://davidwalsh.name/?p=27523",
           "author": "David Walsh",
           "description": "Readers of my blog will know that I’ve been banging the Cloudinary drum for years. Their awesome media capabilities allow users to optimally deliver images, video, and audio in any format and to any device. Performance, customization, flexibility, optimized delivery… Cloudinary makes media better for everyone. Another aspect of Cloudinary that I like? Their commitment […]\nThe post Easy Asset Access with the Cloudinary Media Library Browser Extension appeared first on David Walsh Blog.",
@@ -21454,6 +21751,16 @@
       "feedUrl": "http://feeds.feedburner.com/helloacm?format=xml",
       "siteUrl": "https://helloacm.com",
       "articles": [
+        {
+          "id": "https://helloacm.com/?p=148783",
+          "author": "ACMer",
+          "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms Given a binary tree, determine if it is height-balanced. For this problem, a height-balanced binary tree is defined as: a binary...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-top-down-and-bottom-up-recursive-algorithms-to-determine-a-balanced-binary-tree/",
+          "publishedOn": "2022-02-01T21:56:34.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Top Down and Bottom Up Recursive Algorithms to Determine a Balanced Binary Tree",
+          "itunes": {}
+        },
         {
           "id": "https://helloacm.com/?p=148769",
           "author": "ACMer",
@@ -22461,6 +22768,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=518180",
+          "author": "Lewin Day",
+          "description": "Oftentimes, when programming, we’ll put configuration switches into a config file in order to control the behaviour of our code. However, having to regularly open a text editor to make …read more",
+          "link": "https://hackaday.com/2022/02/01/rainbow-dip-switch-is-the-coolest-way-to-configure-your-project/",
+          "publishedOn": "2022-02-02T00:00:26.000Z",
+          "wordCount": 1315,
+          "title": "Rainbow DIP Switch Is the Coolest Way To Configure Your Project"
+        },
+        {
+          "id": "https://hackaday.com/?p=517793",
+          "author": "Bryan Cockfield",
+          "description": "Older Apple computers can often be something of a collector’s item, with the oldest fetching an enormously high price in auctions. The ones from the late ’80s and early ’90s …read more",
+          "link": "https://hackaday.com/2022/02/01/custom-macintosh-with-a-real-486/",
+          "publishedOn": "2022-02-01T21:00:18.000Z",
+          "wordCount": 1338,
+          "title": "Custom Macintosh with a Real 486"
+        },
+        {
+          "id": "https://hackaday.com/?p=518149",
+          "author": "Dan Maloney",
+          "description": "For as much of a genius as Leonardo da Vinci obviously was, modern eyes looking upon his notebooks from the 1400s tend to see his designs as somewhat quaint. After …read more",
+          "link": "https://hackaday.com/2022/02/01/renaissance-style-drone-would-make-da-vinci-proud-four-times-over/",
+          "publishedOn": "2022-02-01T19:30:49.000Z",
+          "wordCount": 1231,
+          "title": "Renaissance-Style Drone Would Make da Vinci Proud Four Times Over"
+        },
+        {
+          "id": "https://hackaday.com/?p=512669",
+          "author": "Arsenijs Picugins",
+          "description": "We’ve gotten used to the GPIO-available functions of Raspberry Pi computers remaining largely the same over the years, which is why it might have flown a little bit under the …read more",
+          "link": "https://hackaday.com/2022/02/01/did-you-know-that-the-raspberry-pi-4-has-more-spi-i2c-uart-ports/",
+          "publishedOn": "2022-02-01T18:00:07.000Z",
+          "wordCount": 2524,
+          "title": "Did You Know That The Raspberry Pi 4 Has More SPI, I2C, UART Ports?"
+        },
+        {
+          "id": "https://hackaday.com/?p=518053",
+          "author": "Robin Kearey",
+          "description": "Although the tides in the ocean are caused by the motion of the Sun and the Moon, both of which are easy to observe, accurately predicting the tide more than …read more",
+          "link": "https://hackaday.com/2022/02/01/analog-computer-made-from-lego-predicts-tides/",
+          "publishedOn": "2022-02-01T16:30:29.000Z",
+          "wordCount": 1254,
+          "title": "Analog Computer Made From LEGO Predicts Tides"
+        },
+        {
+          "id": "https://hackaday.com/?p=518249&preview=true&preview_id=518249",
+          "author": "Lewin Day",
+          "description": "On the 14th of January, 2022, the Hunga Tonga-Hunga Ha’apai volcano began a gigantic eruption that would go on to peak in ferocity the next day. The uninhabited island volcano …read more",
+          "link": "https://hackaday.com/2022/02/01/how-the-hunga-tonga-volcano-eruption-was-felt-around-the-world/",
+          "publishedOn": "2022-02-01T15:00:14.000Z",
+          "wordCount": 2208,
+          "title": "How The Hunga Tonga Volcano Eruption Was Felt Around The World"
+        },
+        {
+          "id": "https://hackaday.com/?p=518092",
+          "author": "Jenny List",
+          "description": "How do you look back over your life and divide it up? Maybe by decades, cultural moments, or geopolitical events. For radio amateurs with older callsigns there’s a temptation to …read more",
+          "link": "https://hackaday.com/2022/02/01/radio-amateurs-skywatchers-rejoice-sat-operators-worry-solar-storm-incoming/",
+          "publishedOn": "2022-02-01T12:00:10.000Z",
+          "wordCount": 1829,
+          "title": "Radio Amateurs & Skywatchers Rejoice, Sat Operators Worry: Solar Storm Incoming"
+        },
         {
           "id": "https://hackaday.com/?p=517923",
           "author": "Robin Kearey",
@@ -29435,6 +29805,86 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "B6EB3839-B449-4FB3-A8188AA54E1485EE",
+          "author": "Oliver Wing, Carolyn Kousky, Jeremy Porter, Paul Bates, The Conversation US",
+          "description": "Future flooding will disproportionately affect black communities\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/new-maps-show-us-flood-damage-rising-26-percent-in-next-30-years/",
+          "publishedOn": "2022-02-01T20:00:00.000Z",
+          "wordCount": null,
+          "title": "New Maps Show US Flood Damage Rising 26 Percent in Next 30 Years",
+          "itunes": {}
+        },
+        {
+          "id": "D3453520-DFED-430E-83E5D8716630D904",
+          "author": "Sara Schonhardt, E&E News",
+          "description": "Ratcheting up national commitments to lower greenhouse gas emissions is crucial to limiting global warming\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/countries-back-away-from-pledge-to-update-climate-goals-this-year/",
+          "publishedOn": "2022-02-01T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Countries Back Away from Pledge to Update Climate Goals This Year",
+          "itunes": {}
+        },
+        {
+          "id": "87AD35B8-2DA3-499D-A94B1581E3CA0FD3",
+          "author": "Ewen Callaway, Nature magazine",
+          "description": "A genetic change that evolved from ancient wolves can help make dogs giant or small\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/from-great-dane-to-tiny-terrier-a-mutation-creates-enormous-variation-in-dog-sizes/",
+          "publishedOn": "2022-02-01T15:15:00.000Z",
+          "wordCount": null,
+          "title": "From Great Dane to Tiny Terrier, A Mutation Creates Enormous Variation in Dog Sizes",
+          "itunes": {}
+        },
+        {
+          "id": "E6440F76-1A5F-4ABC-A4E4DA5AC807BA9F",
+          "author": "Andrea Gawrylewski",
+          "description": "-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/mind-from-matter/",
+          "publishedOn": "2022-02-01T14:30:00.000Z",
+          "wordCount": null,
+          "title": "Mind from Matter",
+          "itunes": {}
+        },
+        {
+          "id": "3C8742AA-1BA5-48F4-BAC799D77504B59D",
+          "author": "Mark Fischetti",
+          "description": "Laser television; mastodons in New York\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/50-100-150-years-ago-february-2022/",
+          "publishedOn": "2022-02-01T14:00:00.000Z",
+          "wordCount": null,
+          "title": "50, 100 & 150 Years Ago: February 2022",
+          "itunes": {}
+        },
+        {
+          "id": "F792297A-A056-4F30-BD19936ADC9441BC",
+          "author": "Daniela Mocker, Nikk Ogasa",
+          "description": "Without the sun’s guiding light, these tiny animals’ behavior still follows a circadian rhythm\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/arctic-krill-track-day-and-night-even-in-polar-darkness/",
+          "publishedOn": "2022-02-01T13:30:00.000Z",
+          "wordCount": null,
+          "title": "Arctic Krill Track Day and Night Even in Polar Darkness",
+          "itunes": {}
+        },
+        {
+          "id": "B21D3996-884A-40F2-AA57EC34647BD23A",
+          "author": "Jordan Wilkerson",
+          "description": "A novel method of recycling such batteries could help meet skyrocketing demand\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/recycled-lithium-ion-batteries-can-perform-better-than-new-ones/",
+          "publishedOn": "2022-02-01T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Recycled Lithium-Ion Batteries Can Perform Better Than New Ones",
+          "itunes": {}
+        },
+        {
+          "id": "8ABCB0CB-0AAA-4045-83BB8AD3042312A4",
+          "author": "Anne C. Mulkern, E&E News",
+          "description": "The Los Angeles City Council voted unanimously to end drilling in the city for public health reasons\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/los-angeles-bans-new-oil-wells-and-will-phase-out-existing-ones/",
+          "publishedOn": "2022-01-31T20:30:00.000Z",
+          "wordCount": null,
+          "title": "Los Angeles Bans New Oil Wells and Will Phase Out Existing Ones",
+          "itunes": {}
+        },
+        {
           "id": "8ABCB0CB-0AAA-4045-83BB8AD3042312A4",
           "author": "Anne C. Mulkern, E&E News",
           "description": "The city council voted unanimously to end drilling in the city for public health reasons\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -35185,6 +35635,42 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=149600",
+          "author": "Richi Jennings",
+          "description": "In this week’s The Long View: The Open App Markets Act polls well among devs, Germany fines a website for using Google Fonts, and the NY Times buys Wordle for an unfeasible sum.\nThe post App Store Antitrust Bill | GDPR vs. Google Fonts | Wordle Worth $10M+ appeared first on DevOps.com.",
+          "link": "https://devops.com/app-store-antitrust-bill-gdpr-vs-google-fonts-wordle-worth-10m/",
+          "publishedOn": "2022-02-01T17:52:43.000Z",
+          "wordCount": 1824,
+          "title": "App Store Antitrust Bill | GDPR vs. Google Fonts | Wordle Worth $10M+"
+        },
+        {
+          "id": "https://devops.com/?p=149583",
+          "author": "Mike Vizard",
+          "description": "A global survey of 412 organizations published today by the Linux Foundation found nearly half of respondents (47%) producing or consuming software bills of material (SBOMs), and more than three-quarters said they expected to produce or consume them in 2022. SBOMs have become a bigger area of focus in the wake of a series of […]\nThe post Linux Foundation Survey Sees Rise in SBOM Use appeared first on DevOps.com.",
+          "link": "https://devops.com/linux-foundation-survey-sees-rise-in-sbom-use/",
+          "publishedOn": "2022-02-01T14:09:36.000Z",
+          "wordCount": 1120,
+          "title": "Linux Foundation Survey Sees Rise in SBOM Use"
+        },
+        {
+          "id": "https://devops.com/?p=149537",
+          "author": "Brittany Greenfield",
+          "description": "Following a wave of high-profile cyberattacks and the White House’s release of the executive order on improving the nation’s cybersecurity, how to build a successful cybersecurity program has never been so hotly debated as it is now. From SolarWinds to the Colonial Pipeline attacks, these events demonstrate that defensive measures alone cannot mitigate cybersecurity risk, […]\nThe post Continuous Security: The Next Evolution of CI/CD appeared first on DevOps.com.",
+          "link": "https://devops.com/continuous-security-the-next-evolution-of-ci-cd/",
+          "publishedOn": "2022-02-01T08:00:36.000Z",
+          "wordCount": 1267,
+          "title": "Continuous Security: The Next Evolution of CI/CD"
+        },
+        {
+          "id": "https://devops.com/?p=149319",
+          "author": "Bill Doerrfeld",
+          "description": "The number of tools engineers use to provision software architecture in the cloud is starting to get a little out of hand. There are many competing ways to do one thing. Most often, people simply adopt a new tool to solve a DevOps problem in the moment, not always considering the longevity of the solution […]\nThe post How Does IT Management Govern EverythingOps? appeared first on DevOps.com.",
+          "link": "https://devops.com/how-does-it-management-govern-everythingops/",
+          "publishedOn": "2022-02-01T07:30:00.000Z",
+          "wordCount": 1343,
+          "title": "How Does IT Management Govern EverythingOps?"
+        },
+        {
           "id": "https://devops.com/?p=149549",
           "author": "Veronica Haggar",
           "description": "Continuous deployment orchestration software company, Octopus Deploy, announces acquisition of Dist, a cloud-native container registry solution.  Dist’s technology will provide seamless container registry experience to Octopus Deploy customers Brisbane-based company’s first acquisition since USD$172.5m capital raise from Insight Partners BRISBANE, Australia – Feb. 1, 2022  (Jan. 31, 2022) – Octopus Deploy, a leading provider of continuous deployment […]\nThe post Octopus Deploy Acquires Dist to Power Cloud-Native Software Deployments appeared first on DevOps.com.",
@@ -38478,6 +38964,24 @@
       "siteUrl": "https://flowingdata.com",
       "articles": [
         {
+          "id": "https://flowingdata.com/?p=66736",
+          "author": "Nathan Yau",
+          "description": "One of the attractions of crypto is that values can swing into the…\nTags: cryptocurrency, New York Times",
+          "link": "https://flowingdata.com/2022/02/01/crypto-volatility-charts/",
+          "publishedOn": "2022-02-01T18:13:10.000Z",
+          "wordCount": 292,
+          "title": "Crypto volatility charts"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66732",
+          "author": "Nathan Yau",
+          "description": "Adrian Blanco for The Washington Post used squares connected at the corners to…\nTags: diversity, Joe Biden, judges",
+          "link": "https://flowingdata.com/2022/02/01/diversity-of-federal-judge-picks-compared-by-president/",
+          "publishedOn": "2022-02-01T10:05:09.000Z",
+          "wordCount": 285,
+          "title": "Diversity of federal judge picks, compared by president"
+        },
+        {
           "id": "https://flowingdata.com/?p=66724",
           "author": "Nathan Yau",
           "description": "Ella Koeze, Denise Lu, and Charlie Smart for The New York Times made…\nTags: game, gerrymandering, New York Times",
@@ -40129,6 +40633,15 @@
       "feedUrl": "https://luau-lang.org/feed.xml",
       "siteUrl": "https://luau-lang.org/",
       "articles": [
+        {
+          "id": "https://luau-lang.org/2022/01/27/luau-recap-january-2022.html",
+          "author": null,
+          "description": "Luau is our programming language that you can read more about at https://luau-lang.org.",
+          "link": "https://luau-lang.org/2022/01/27/luau-recap-january-2022.html",
+          "publishedOn": "2022-01-27T00:00:00.000Z",
+          "wordCount": 663,
+          "title": "Luau Recap: January 2022"
+        },
         {
           "id": "https://luau-lang.org/2021/11/29/luau-recap-november-2021.html",
           "author": null,
