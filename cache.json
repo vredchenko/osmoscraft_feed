@@ -760,6 +760,33 @@
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
         {
+          "id": "http://www.i-programmer.info/book-watch-archive/15189-practical-sql-2nd-edition-no-starch.html",
+          "author": null,
+          "description": "This book is an approachable and fast-paced guide to SQL (Structured Query Language), the standard programming language for defining, organizing, and exploring data in relational databases. Anthony DeBarros, a journalist and data analyst, focuses on using SQL to find the story within your data. The examples and code use the open-source database PostgreSQL and its companion pgAdmin interface, and the concepts you learn will apply to most database management systems, including MySQL, Oracle, SQLite, and others.\n\r\n<ASIN:1718501064>\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/book-watch-archive/15189-practical-sql-2nd-edition-no-starch.html",
+          "publishedOn": "2022-02-02T18:15:17.000Z",
+          "wordCount": 508,
+          "title": "Practical SQL, 2nd Edition (No Starch)"
+        },
+        {
+          "id": "http://www.i-programmer.info/news/99-professional/15185-end-of-the-line-for-stack-overflow-jobs.html",
+          "author": null,
+          "description": "Stack Overflow, which is now owned by Prosus, has announced the \"sunsetting\" of Stack Overflow Jobs and Developer Stories. This decision, which hasn't been widely reported, isn't welcomed by developers. \n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/99-professional/15185-end-of-the-line-for-stack-overflow-jobs.html",
+          "publishedOn": "2022-02-02T00:00:00.000Z",
+          "wordCount": 1408,
+          "title": "End of the Line For Stack Overflow Jobs"
+        },
+        {
+          "id": "http://www.i-programmer.info/news/99-professional/15186-app-developers-support-open-app-markets-act.html",
+          "author": null,
+          "description": "A poll conducted on behalf of the Coalition for App Fairness reveals that 84% of developers support an antitrust bill aimed at curtailing the market power of Apple's and Google's app stores.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/99-professional/15186-app-developers-support-open-app-markets-act.html",
+          "publishedOn": "2022-02-02T00:00:00.000Z",
+          "wordCount": 1074,
+          "title": "App Developers Support Open App Markets Act"
+        },
+        {
           "id": "http://www.i-programmer.info/bookreviews/1-vb/15187-azure-storage-streaming-and-batch-analytics.html",
           "author": null,
           "description": "Author: Richard Nuckolls\nPublisher: Manning\nPages:448\n ISBN: 978-1617296307\nPrint:‎ 1617296309\nKindle: B09781TWFJ\n Audience: Data engineers\nRating: 4.5\nReviewer: Kay Ewbank\n\r\nThis book is aimed at developers and system engineers who need to successfully collect and process data in Azure, specifically using the Azure Lambda architecture.\n\r\n\nRead more...",
@@ -767,6 +794,15 @@
           "publishedOn": "2022-02-01T18:24:25.000Z",
           "wordCount": 982,
           "title": "Azure Storage, Streaming and Batch Analytics"
+        },
+        {
+          "id": "http://www.i-programmer.info/news/112-theory/15188-eight-queens-solved.html",
+          "author": null,
+          "description": "Well not really - but it is still an interesting move in the right direction to understand this most simple of configuration problems.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/112-theory/15188-eight-queens-solved.html",
+          "publishedOn": "2022-02-01T10:40:44.000Z",
+          "wordCount": 899,
+          "title": "Eight Queens Solved!"
         },
         {
           "id": "http://www.i-programmer.info/news/197-data-mining/15181-kafka-31-adds-oidc-support.html",
@@ -1610,6 +1646,24 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=362893",
+          "author": "Chris Coyier",
+          "description": "Here’s a super classy demo from Michelle Barker over on Codrops that shows how to build a scrollable and draggable timeline with GSAP. It’s an interesting challenge to have two different interactions (vertical scrolling and horizontal dragging) be tied together …\nBuilding a Scrollable and Draggable Timeline with GSAP originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/building-a-scrollable-and-draggable-timeline-with-gsap/",
+          "publishedOn": "2022-02-02T21:11:55.000Z",
+          "wordCount": 381,
+          "title": "Building a Scrollable and Draggable Timeline with GSAP"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362521",
+          "author": "Taminoturoko Briggs",
+          "description": "The ability to identify users is vital for maintaining the security of any applications. Equally important is the code that’s written to manage user identities, particularly when it comes to avoiding loopholes for unauthorized access to data held by an …\nUser Registration and Auth Using Firebase and React originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/user-registration-authentication-firebase-react/",
+          "publishedOn": "2022-02-02T15:42:43.000Z",
+          "wordCount": 4765,
+          "title": "User Registration and Auth Using Firebase and React"
+        },
         {
           "id": "https://css-tricks.com/?p=362169",
           "author": "Eric Bailey",
@@ -3642,6 +3696,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61fad67af2ed6b06db5ab66f",
+          "author": "Beau Carnes",
+          "description": "If you want to design your app in the best way possible, it is important to really understand the needs of your users. This can be done through user research. We just published a UI / UX design course on the freeCodeCamp.org YouTube channel that will teach you how to",
+          "link": "https://www.freecodecamp.org/news/use-user-reseach-to-create-the-perfect-ui-design/",
+          "publishedOn": "2022-02-02T19:17:05.000Z",
+          "wordCount": 34802,
+          "title": "Use User Research to Create the Perfect UI Design"
+        },
+        {
+          "id": "61f8480bf2ed6b06db5a9d2b",
+          "author": "Edan Ben-Atar",
+          "description": "WordPress, Shopify, and Ghost are some of the most powerful and popular CMS platforms out there. And you might wonder why so many people use them. Well, it's because they're easy to use, cost-effective, and highly efficient. With WordPress, Shopify, and Ghost, you can create a website from scratch in",
+          "link": "https://www.freecodecamp.org/news/chose-a-cms-wordpress-vs-shopify-vs-ghost/",
+          "publishedOn": "2022-02-02T17:05:13.000Z",
+          "wordCount": 2308,
+          "title": "How to Choose a CMS – WordPress vs Ghost vs Shopify"
+        },
+        {
+          "id": "61f62beff2ed6b06db5a854b",
+          "author": "Ashutosh Krishna",
+          "description": "Python is a fantastic programming language that allows you to use both functional and object-oriented programming paradigms.  Python programmers should be able to use fundamental object-oriented programming concepts, whether they are software developers, machine learning engineers, or something else.  All four core aspects of a generic OOP framework",
+          "link": "https://www.freecodecamp.org/news/object-oriented-programming-in-python/",
+          "publishedOn": "2022-02-02T15:24:30.000Z",
+          "wordCount": 2289,
+          "title": "Object-Oriented Programming in Python"
+        },
         {
           "id": "61f8b7e5f2ed6b06db5a9eed",
           "author": "Zach Snoek",
@@ -6943,6 +7024,186 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/bungie-joins-sony-in-surprise-acquisition?source=rss",
+          "author": "Limarc Ambalina",
+          "description": "Bungie announced that they've joined the biggest name in gaming, Sony Interactive Entertainment.",
+          "link": "https://hackernoon.com/bungie-joins-sony-in-surprise-acquisition?source=rss",
+          "publishedOn": "2022-02-02T17:04:04.000Z",
+          "wordCount": 2834,
+          "title": "Bungie Joins Sony in Surprise Acquisition"
+        },
+        {
+          "id": "https://hackernoon.com/pokemon-arceus-is-out-what-is-your-favorite-pokemon?source=rss",
+          "author": "Jack Boreham",
+          "description": "To celebrate the release of Pokemon Legends Arceus, the team at Hackernoon discusses their favourite Pokemon and why! Spoilers it is definitely not Pikachu.",
+          "link": "https://hackernoon.com/pokemon-arceus-is-out-what-is-your-favorite-pokemon?source=rss",
+          "publishedOn": "2022-02-02T14:55:07.000Z",
+          "wordCount": 1927,
+          "title": "Pokemon Arceus is Out! What is Your Favorite Pokemon?"
+        },
+        {
+          "id": "https://hackernoon.com/introducing-a-new-nft-project-based-on-ethereum-creator-vitalik-buterin?source=rss",
+          "author": "ART101.io",
+          "description": "Art101 announced a Vitalik Buterin NFT collection 'Based Vitalik'",
+          "link": "https://hackernoon.com/introducing-a-new-nft-project-based-on-ethereum-creator-vitalik-buterin?source=rss",
+          "publishedOn": "2022-02-02T06:11:46.000Z",
+          "wordCount": 1623,
+          "title": "Introducing a New NFT Project Based on Ethereum Creator Vitalik Buterin"
+        },
+        {
+          "id": "https://hackernoon.com/the-complete-guide-to-iot-update-management?source=rss",
+          "author": "SumatoSoft",
+          "description": "Updating your Internet of Things (IoT) Devices can get very challenging, especially with networks of dozens of devices. Managing those updates is difficult.",
+          "link": "https://hackernoon.com/the-complete-guide-to-iot-update-management?source=rss",
+          "publishedOn": "2022-02-02T05:59:22.000Z",
+          "wordCount": 3718,
+          "title": "The Complete Guide to IoT Update Management"
+        },
+        {
+          "id": "https://hackernoon.com/then-vs-now-how-banking-has-changed-over-time?source=rss",
+          "author": "anderson",
+          "description": "If someone told us that the beginning of 2020 would change our lives completely and that we’d have to wear masks wherever we go, refrain from hugging people in public, and maintain social distancing even at a bank, I would probably not believe it. I mean, after all, the concept of wearing a mask was strictly forbidden back in the 1920s because it was a sign of robbery. But it all now seems very normal.",
+          "link": "https://hackernoon.com/then-vs-now-how-banking-has-changed-over-time?source=rss",
+          "publishedOn": "2022-02-02T04:19:41.000Z",
+          "wordCount": 2127,
+          "title": "Then Vs Now: How Banking Has Changed Over Time?"
+        },
+        {
+          "id": "https://hackernoon.com/what-does-it-mean-to-be-a-futurist-an-interview-with-vanessa-mason?source=rss",
+          "author": "TechSoup",
+          "description": "Roshen Sethna sat down with Vanessa Mason to discuss futurism. What it means, what they do, and what skills they need to succeed.",
+          "link": "https://hackernoon.com/what-does-it-mean-to-be-a-futurist-an-interview-with-vanessa-mason?source=rss",
+          "publishedOn": "2022-02-02T03:59:29.000Z",
+          "wordCount": 2743,
+          "title": "What Does it Mean to be a Futurist? : An Interview With Vanessa Mason"
+        },
+        {
+          "id": "https://hackernoon.com/how-much-internet-regulation-does-facebook-support?source=rss",
+          "author": "The Markup",
+          "description": "For more than a year, Simpson had been noticing ads pop up with the same phrasing: Facebook “supports updated internet regulations,” the ads always said.",
+          "link": "https://hackernoon.com/how-much-internet-regulation-does-facebook-support?source=rss",
+          "publishedOn": "2022-02-02T03:57:32.000Z",
+          "wordCount": 3864,
+          "title": "How Much Internet Regulation Does Facebook Support?"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-use-in-cluster-communication-to-secure-kubernetes?source=rss",
+          "author": "Piotr",
+          "description": "Cloud-native applications require a different architectural approach.",
+          "link": "https://hackernoon.com/how-to-use-in-cluster-communication-to-secure-kubernetes?source=rss",
+          "publishedOn": "2022-02-02T03:48:46.000Z",
+          "wordCount": 1875,
+          "title": "How to Use In-Cluster Communication to Secure Kubernetes"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-set-yourself-up-for-business-success-as-a-writer-in-2022?source=rss",
+          "author": "Odunayo Sonde",
+          "description": "If you don’t believe you should be paid six figures, no one will hire you for that amount; Your words will reveal the richness of your mind.",
+          "link": "https://hackernoon.com/how-to-set-yourself-up-for-business-success-as-a-writer-in-2022?source=rss",
+          "publishedOn": "2022-02-02T03:22:12.000Z",
+          "wordCount": 2574,
+          "title": "How to Set Yourself Up For Business Success as a Writer in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/discover-how-iot-is-transforming-the-retail-industry?source=rss",
+          "author": "Aprajeeta Singh",
+          "description": "IoT enables data sharing among all the devices in the network, irrespective of their medium of connectivity.",
+          "link": "https://hackernoon.com/discover-how-iot-is-transforming-the-retail-industry?source=rss",
+          "publishedOn": "2022-02-02T02:57:56.000Z",
+          "wordCount": 1798,
+          "title": "Discover How IoT is Transforming the Retail Industry"
+        },
+        {
+          "id": "https://hackernoon.com/job-hunting-are-technical-tests-worth-your-time?source=rss",
+          "author": "Clint Veasey",
+          "description": "How to - hopefully - not drive yourself up the wall preparing and fretting over technical tests.",
+          "link": "https://hackernoon.com/job-hunting-are-technical-tests-worth-your-time?source=rss",
+          "publishedOn": "2022-02-02T00:49:36.000Z",
+          "wordCount": 1665,
+          "title": "Job Hunting: Are Technical Tests Worth Your Time?"
+        },
+        {
+          "id": "https://hackernoon.com/5-easy-steps-to-become-a-brave-verified-creator?source=rss",
+          "author": "Pasquale Convertini",
+          "description": "A guide to obtain the Brave Verified Creator badge and start collecting BAT contributions.",
+          "link": "https://hackernoon.com/5-easy-steps-to-become-a-brave-verified-creator?source=rss",
+          "publishedOn": "2022-02-02T00:28:06.000Z",
+          "wordCount": 2592,
+          "title": "How to become a Brave Verified Creator"
+        },
+        {
+          "id": "https://hackernoon.com/top-10-ways-to-customize-your-audio-data-collection-projects?source=rss",
+          "author": "SunTec.AI",
+          "description": "Know what speech data collection is all about & how you can leverage the same to customize your project for catering to your requirements in an organized way.",
+          "link": "https://hackernoon.com/top-10-ways-to-customize-your-audio-data-collection-projects?source=rss",
+          "publishedOn": "2022-02-02T00:10:25.000Z",
+          "wordCount": 2207,
+          "title": "Top 10 Ways to Customize Your Audio Data Collection Projects"
+        },
+        {
+          "id": "https://hackernoon.com/how-i-went-from-the-set-of-new-girl-to-a-startup-product-manager?source=rss",
+          "author": "rhortx",
+          "description": "There are a hundred roads to becoming a Product Manager. This one involved working as an extra on The New Girl.",
+          "link": "https://hackernoon.com/how-i-went-from-the-set-of-new-girl-to-a-startup-product-manager?source=rss",
+          "publishedOn": "2022-02-02T00:03:58.000Z",
+          "wordCount": 4482,
+          "title": "How I Went from the Set of New Girl to a Startup Product Manager"
+        },
+        {
+          "id": "https://hackernoon.com/an-introduction-to-api-gateways?source=rss",
+          "author": "Adisakshya Chauhan",
+          "description": "Understanding what API Gateways are, how they differ from a reverse proxy & load balancer and their use in a microservices environment",
+          "link": "https://hackernoon.com/an-introduction-to-api-gateways?source=rss",
+          "publishedOn": "2022-02-02T00:03:16.000Z",
+          "wordCount": 2450,
+          "title": "An Introduction to API Gateways"
+        },
+        {
+          "id": "https://hackernoon.com/india-legalizes-crypto-digital-rupee-cbdc-and-taxation-of-virtual-digital-assets-explained-simply?source=rss",
+          "author": "Utsav Jaiswal",
+          "description": "This is a step in the right direction, towards greater acceptance and greater transparency into how residents of India use crypto.",
+          "link": "https://hackernoon.com/india-legalizes-crypto-digital-rupee-cbdc-and-taxation-of-virtual-digital-assets-explained-simply?source=rss",
+          "publishedOn": "2022-02-01T23:59:35.000Z",
+          "wordCount": 3121,
+          "title": "India Legalizes Crypto: Digital Rupee CBDC and Taxation of Virtual Digital Assets Explained Simply"
+        },
+        {
+          "id": "https://hackernoon.com/adding-a-direct-twilio-sms-integration-with-sendgrid-emails?source=rss",
+          "author": "Courier",
+          "description": "A How-to guide for adding a direct Twilio SMS integration with Sendgrid emails",
+          "link": "https://hackernoon.com/adding-a-direct-twilio-sms-integration-with-sendgrid-emails?source=rss",
+          "publishedOn": "2022-02-01T23:57:11.000Z",
+          "wordCount": 3205,
+          "title": "Adding a Direct Twilio SMS Integration With Sendgrid Emails"
+        },
+        {
+          "id": "https://hackernoon.com/16-commands-to-set-up-react-apps-for-every-use-in-seconds?source=rss",
+          "author": "Madza",
+          "description": "In this article, I have handpicked 16 commands to set up your React apps in seconds.",
+          "link": "https://hackernoon.com/16-commands-to-set-up-react-apps-for-every-use-in-seconds?source=rss",
+          "publishedOn": "2022-02-01T23:52:19.000Z",
+          "wordCount": 2034,
+          "title": "16 Commands For Every Use Case to Set Up React Apps in Seconds ⚡🚀"
+        },
+        {
+          "id": "https://hackernoon.com/a-streamlined-workflow-for-forwarding-customer-data-to-snowflake?source=rss",
+          "author": "mParticle",
+          "description": "Connecting your CDP to your Data Warehouse is a great way to simplify the flow of your customer data and eliminate overhead for your engineering team.",
+          "link": "https://hackernoon.com/a-streamlined-workflow-for-forwarding-customer-data-to-snowflake?source=rss",
+          "publishedOn": "2022-02-01T23:51:35.000Z",
+          "wordCount": 1786,
+          "title": "A Streamlined Workflow for Forwarding Customer Data to Snowflake"
+        },
+        {
+          "id": "https://hackernoon.com/harmony-ecosystem-fund-approved-21-new-grants-in-january?source=rss",
+          "author": "kadeemclarke.eth",
+          "description": "Harmony Protocol has already approved 21 proposals to be part of its $300M Ecosystem Fund in January 2022.",
+          "link": "https://hackernoon.com/harmony-ecosystem-fund-approved-21-new-grants-in-january?source=rss",
+          "publishedOn": "2022-02-01T23:49:46.000Z",
+          "wordCount": 2182,
+          "title": "Harmony Ecosystem Fund Approved 21 New Grants in January"
+        },
         {
           "id": "https://hackernoon.com/how-to-write-clean-well-maintained-code-using-a-static-analyzer-and-pmd?source=rss",
           "author": "Michael",
@@ -21752,6 +22013,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=148801",
+          "author": "ACMer",
+          "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms Let’s take a look at this golden ratio continued fraction: We can see the pattern is recursive (infinitely) and thus we can...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-estimate-the-continued-fraction-value-in-python-recursion-and-iterative-algorithm/",
+          "publishedOn": "2022-02-02T21:07:48.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Estimate the Math Continued Fraction Value in Python (Recursion and Iterative Algorithm)",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=148783",
           "author": "ACMer",
           "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms Given a binary tree, determine if it is height-balanced. For this problem, a height-balanced binary tree is defined as: a binary...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -22768,6 +23039,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=518181",
+          "author": "Lewin Day",
+          "description": "Keeping track of your appointments on Google Calendar is easy enough if you’re holding a phone or sitting at a computer, but sometimes you just want to know what’s going …read more",
+          "link": "https://hackaday.com/2022/02/02/keep-track-of-your-google-calendar-with-this-custom-build/",
+          "publishedOn": "2022-02-03T00:00:34.000Z",
+          "wordCount": 1048,
+          "title": "Keep Track Of Your Google Calendar With This Custom Build"
+        },
+        {
+          "id": "https://hackaday.com/?p=518351",
+          "author": "Dave Rowntree",
+          "description": "[Thane Hunt] needed to find a way to make a variety of different heat-seal patterns on a fluid heat exchanger made from polyolefin film, and didn’t want all the lead …read more",
+          "link": "https://hackaday.com/2022/02/02/the-wanhao-duplicator-cnc-heat-sealer/",
+          "publishedOn": "2022-02-02T21:00:14.000Z",
+          "wordCount": 1329,
+          "title": "The Wanhao Duplicator CNC Heat Sealer"
+        },
+        {
+          "id": "https://hackaday.com/?p=517721",
+          "author": "Al Williams",
+          "description": "Most of us want our 3D prints to be perfect. But at Cornell University, they’ve been experimenting with deliberately introducing defects into printed titanium. Why? Because using a post-print treatment …read more",
+          "link": "https://hackaday.com/2022/02/02/defective-3d-printing-for-great-strength/",
+          "publishedOn": "2022-02-02T19:30:51.000Z",
+          "wordCount": 1198,
+          "title": "Defective 3D Printing for Great Strength"
+        },
+        {
+          "id": "https://hackaday.com/?p=517883",
+          "author": "Jenny List",
+          "description": "We’ve now spent several months in this series journeying through the world of audio, and along the way we’ve looked at the various parts of a Hi-Fi system from the …read more",
+          "link": "https://hackaday.com/2022/02/02/know-audio-a-mess-of-cables/",
+          "publishedOn": "2022-02-02T18:00:54.000Z",
+          "wordCount": 4875,
+          "title": "Know Audio: A Mess Of Cables"
+        },
+        {
+          "id": "https://hackaday.com/?p=518353",
+          "author": "Tom Nardi",
+          "description": "Regular Hackaday readers will know that we’re big supporters of free/libre and open source software (FLOSS) around these parts. There’s an excellent chance you are too, as so many of …read more",
+          "link": "https://hackaday.com/2022/02/02/hackaday-invades-the-floss-weekly-podcast/",
+          "publishedOn": "2022-02-02T16:30:31.000Z",
+          "wordCount": 1175,
+          "title": "Hackaday Invades the FLOSS Weekly Podcast"
+        },
+        {
+          "id": "https://hackaday.com/?p=517691",
+          "author": "Lewin Day",
+          "description": "Pumped hydro storage is one of the oldest grid storage technologies, and one of the most widely deployed, too. The concept is simple – use excess energy to pump a …read more",
+          "link": "https://hackaday.com/2022/02/02/underwater-tanks-turn-energy-storage-upside-down/",
+          "publishedOn": "2022-02-02T15:00:23.000Z",
+          "wordCount": 5047,
+          "title": "Underwater Tanks Turn Energy Storage Upside-Down"
+        },
+        {
+          "id": "https://hackaday.com/?p=518182",
+          "author": "Lewin Day",
+          "description": "When it comes to building decent aerodynamic devices, you want to focus on getting your geometry accurate, and making sure your parts are strong enough to deal with the force …read more",
+          "link": "https://hackaday.com/2022/02/02/building-forged-carbon-fiber-wings-for-radio-control-cars/",
+          "publishedOn": "2022-02-02T12:00:30.000Z",
+          "wordCount": 1262,
+          "title": "Building Forged Carbon Fiber Wings For Radio Control Cars"
+        },
         {
           "id": "https://hackaday.com/?p=518180",
           "author": "Lewin Day",
@@ -29805,6 +30139,73 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "4D0452CA-502D-4599-95F9C2EF6BF2E2E8",
+          "author": "Chelsea Gohd, SPACE.com",
+          "description": "The Trojan asteroid 2020 XL5 is projected to linger in our planet’s vicinity for the next 4,000 years\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/earth-has-a-new-asteroid-companion-but-not-for-long1/",
+          "publishedOn": "2022-02-02T20:00:00.000Z",
+          "wordCount": null,
+          "title": "Earth Has a New Asteroid Companion, but Not for Long",
+          "itunes": {}
+        },
+        {
+          "id": "E84F3F94-BD5D-477B-BBCFDE7C644D9827",
+          "author": "Chelsea Harvey, E&E News",
+          "description": "The trend, revealed in 250 years of records, is happening worldwide\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/spring-in-the-u-k-arrives-a-month-earlier-than-in-the-1980s/",
+          "publishedOn": "2022-02-02T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Spring in the U.K. Arrives a Month Earlier than in the 1980s",
+          "itunes": {}
+        },
+        {
+          "id": "334ECF34-18E8-4CEB-96DDD726C1667D6E",
+          "author": "Karen Hopkin",
+          "description": "What shape do you see when you hear “bouba”? What about “kiki”? It turns out that nonsense words that evoke certain shapes have something to say about the origins of...\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/podcast/episode/what-is-the-shape-of-this-word/",
+          "publishedOn": "2022-02-02T15:00:00.000Z",
+          "wordCount": null,
+          "title": "What Is the Shape of This Word?",
+          "itunes": {
+            "duration": "06:12"
+          },
+          "enclosure": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=435D8DB5-6A5D-4DB2-A71F4C88D9AF3CC0",
+            "length": "5234799",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "5AC6CA15-B615-4B01-8B744C4483591EFA",
+          "author": "Douglas Fox",
+          "description": "Yet the unfit creatures survive, challenging our long-held view of evolution\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/junk-dna-deforms-salamander-bodies/",
+          "publishedOn": "2022-02-02T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Junk DNA Deforms Salamander Bodies",
+          "itunes": {}
+        },
+        {
+          "id": "982BC0BC-E877-488C-900BCA73D904A05E",
+          "author": "John Horgan",
+          "description": "A radical quantum hypothesis casts doubt on objective reality\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/does-quantum-mechanics-reveal-that-life-is-but-a-dream/",
+          "publishedOn": "2022-02-02T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Does Quantum Mechanics Reveal That Life Is But a Dream?",
+          "itunes": {}
+        },
+        {
+          "id": "351D9E79-159E-490C-9A2485F4F08C8773",
+          "author": "Philip Ball",
+          "description": "In a world first, the National Ignition Facility has generated a “burning plasma,” a fusion reaction on the cusp of being self-sustaining\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/u-s-project-reaches-major-milestone-toward-practical-fusion-power/",
+          "publishedOn": "2022-02-02T11:45:00.000Z",
+          "wordCount": null,
+          "title": "U.S. Project Reaches Major Milestone toward Practical Fusion Power",
+          "itunes": {}
+        },
+        {
           "id": "B6EB3839-B449-4FB3-A8188AA54E1485EE",
           "author": "Oliver Wing, Carolyn Kousky, Jeremy Porter, Paul Bates, The Conversation US",
           "description": "Future flooding will disproportionately affect black communities\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -35635,6 +36036,24 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=149545",
+          "author": "Doug Dooley",
+          "description": "An application programming interface (API) is a data transfer approach that enables services within an application to talk to other applications (or other services within a system). Essentially, it enables Service A to talk to Service B in a uniform way. Companies benefit from APIs on a daily basis without even thinking about them. APIs […]\nThe post Taking a DevSecOps Approach to API Security appeared first on DevOps.com.",
+          "link": "https://devops.com/why-traditional-approaches-to-api-security-dont-work/",
+          "publishedOn": "2022-02-02T07:30:33.000Z",
+          "wordCount": 1451,
+          "title": "Taking a DevSecOps Approach to API Security"
+        },
+        {
+          "id": "https://devops.com/?p=149558",
+          "author": "Don Macvittie",
+          "description": "At this point, we’ve got a ton of experience with the bits of Git that we use. And locking down Git is well-documented. Okay, it is documented; we can say that, at least. Interestingly, much of the ‘how to secure Git’ information out there is actually ‘how to keep critical information out of Git,’ and […]\nThe post It is Time to Secure Git appeared first on DevOps.com.",
+          "link": "https://devops.com/it-is-time-to-secure-git/",
+          "publishedOn": "2022-02-02T07:30:33.000Z",
+          "wordCount": 1144,
+          "title": "It is Time to Secure Git"
+        },
+        {
           "id": "https://devops.com/?p=149600",
           "author": "Richi Jennings",
           "description": "In this week’s The Long View: The Open App Markets Act polls well among devs, Germany fines a website for using Google Fonts, and the NY Times buys Wordle for an unfeasible sum.\nThe post App Store Antitrust Bill | GDPR vs. Google Fonts | Wordle Worth $10M+ appeared first on DevOps.com.",
@@ -38342,6 +38761,15 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=112176",
+          "author": "Viviane Callier",
+          "description": "Large blocks of genes conserved through hundreds of millions of years of evolution hint at how the first animal chromosomes came to be.            \nThe post Secrets of Early Animal Evolution Revealed by Chromosome ‘Tectonics’ first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/secrets-of-early-animal-evolution-revealed-by-chromosome-tectonics-20220202/",
+          "publishedOn": "2022-02-02T07:00:11.000Z",
+          "wordCount": 2345,
+          "title": "Secrets of Early Animal Evolution Revealed by Chromosome ‘Tectonics’"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=112170",
           "author": "Patrick Honner",
           "description": "The triangle angle sum theorem makes working with triangles easy. What happens when you can’t rely on it?            \nThe post Why Triangles Are Easy and Tetrahedra Are Hard first appeared on Quanta Magazine",
@@ -38963,6 +39391,24 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66756",
+          "author": "Nathan Yau",
+          "description": "Tom Brady announced his retirement from the National Football League, which ends a…\nTags: football, Tom Brady, Upshot",
+          "link": "https://flowingdata.com/2022/02/02/charts-showing-tom-bradys-standout-career/",
+          "publishedOn": "2022-02-02T17:45:33.000Z",
+          "wordCount": 304,
+          "title": "Charts showing Tom Brady’s standout career"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66753",
+          "author": "Nathan Yau",
+          "description": "Crisis Text Line was sharing data with a for-profit business started by its…\nTags: Crisis Text Line, ethics, privacy",
+          "link": "https://flowingdata.com/2022/02/02/crisis-text-line-and-data-sharing/",
+          "publishedOn": "2022-02-02T10:14:07.000Z",
+          "wordCount": 432,
+          "title": "Crisis Text Line and data sharing"
+        },
         {
           "id": "https://flowingdata.com/?p=66736",
           "author": "Nathan Yau",
