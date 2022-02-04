@@ -2,10 +2,392 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2022-02-03T01:07:48.051Z</updated>
+    <updated>2022-02-04T01:07:50.752Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[3D Printing Goes Near Infrared]]></title>
+        <id>https://hackaday.com/?p=518302</id>
+        <link href="https://hackaday.com/2022/02/03/3d-printing-goes-near-infrared/"/>
+        <updated>2022-02-04T00:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Researchers at the University of Texas have been experimenting with optical 3D printing using near infrared (NIR) light instead of the more traditional ultraviolet. They claim to have a proof …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a newbie-friendly codebase]]></title>
+        <id>https://css-tricks.com/?p=362884</id>
+        <link href="https://css-tricks.com/building-a-newbie-friendly-codebase/"/>
+        <updated>2022-02-03T22:32:58.000Z</updated>
+        <summary type="html"><![CDATA[Pedro Santos suggests:
+Using naming conventions such that you can learn them once and apply them everywhere
+Unidirectional data flows. Make it easy to follow the app flow.
+No magic numbers. I’d add they are even worse in CSS
+…
+Building a newbie-friendly codebase originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Low-Code Tide is Rising]]></title>
+        <id>https://devops.com/?p=149666</id>
+        <link href="https://devops.com/the-low-code-tide-is-rising/"/>
+        <updated>2022-02-03T21:44:59.000Z</updated>
+        <summary type="html"><![CDATA[Click to read The Low-Code Tide is Rising
+The post The Low-Code Tide is Rising appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Amanda Razani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – Clone (Deep Copy) a Undirected Connected Graph using Recursive Depth First Search Algorithm]]></title>
+        <id>https://helloacm.com/?p=148821</id>
+        <link href="https://helloacm.com/teaching-kids-programming-clone-deep-copy-a-undirected-connected-graph-using-recursive-depth-first-search-algorithm/"/>
+        <updated>2022-02-03T21:25:37.000Z</updated>
+        <summary type="html"><![CDATA[Teaching Kids Programming: Videos on Data Structures and Algorithms Given a reference of a node in a connected undirected graph. Return a deep copy (clone) of the graph. Each node in the graph...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Root On Linux Amplifier Adds New Inputs]]></title>
+        <id>https://hackaday.com/?p=518422</id>
+        <link href="https://hackaday.com/2022/02/03/getting-root-on-linux-amplifier-adds-new-inputs/"/>
+        <updated>2022-02-03T21:00:19.000Z</updated>
+        <summary type="html"><![CDATA[We remember when getting Linux on your average desktop computer was a tricky enough endeavor that only those with the most luxurious of graybeards would even attempt it. A “Linux …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Your Own Google Chrome Extension]]></title>
+        <id>61f66e8bf2ed6b06db5a880a</id>
+        <link href="https://www.freecodecamp.org/news/building-chrome-extension/"/>
+        <updated>2022-02-03T19:42:43.000Z</updated>
+        <summary type="html"><![CDATA[If you are a Google Chrome user, you've probably used some extensions in the browser.  Have you ever wondered how to build one yourself? In this article, I will show you how you can create a Chrome extension from scratch. Table Of Contents  * What is a Chrome]]></summary>
+        <author>
+            <name>Sampurna Chapagain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✚ Editing Carefully and That White House Bar Chart with the Weird y-axis – The Process 175]]></title>
+        <id>https://flowingdata.com/?p=66765</id>
+        <link href="https://flowingdata.com/2022/02/03/process-175-editing/"/>
+        <updated>2022-02-03T19:30:41.000Z</updated>
+        <summary type="html"><![CDATA[The White House posted a chart with a messed up y-axis. Intentional or no?
+Tags: editing, error]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keep Track of Toilet Paper Usage with This IoT Roll Holder]]></title>
+        <id>https://hackaday.com/?p=518418</id>
+        <link href="https://hackaday.com/2022/02/03/keep-track-of-toilet-paper-usage-with-this-iot-roll-holder/"/>
+        <updated>2022-02-03T19:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Remember the Great Toilet Paper Crisis of 2020? We sure do, and it looks like our old friend [Vije Miller] does as well, while seemingly harboring a somewhat morbid fascination …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20 Award-Winning JavaScript Games – js13kGames 2021 Winners]]></title>
+        <id>61fc2478f2ed6b06db5ac159</id>
+        <link href="https://www.freecodecamp.org/news/20-award-winning-javascript-games-js13kgames-2021-winners/"/>
+        <updated>2022-02-03T19:01:19.000Z</updated>
+        <summary type="html"><![CDATA[You are just about to learn about 20 great examples of code from 20 insanely talented developers. Js13kGames is a JavaScript coding competition open to everyone and anyone wanting to try out Game Development. The 2021 winners have been announced, and you can play the games for free. As the]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extreme Heat Becomes New Normal for Oceans]]></title>
+        <id>5A16FE12-BA01-4A18-B418AAB56E785D92</id>
+        <link href="https://www.scientificamerican.com/article/extreme-heat-becomes-new-normal-for-oceans/"/>
+        <updated>2022-02-03T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Once rare marine heat waves have become routine, threatening coral reefs and other sea creatures
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Chelsea Harvey, E&amp;E News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unreal Engine 5 Crash Course with Blueprint]]></title>
+        <id>61fc1f32f2ed6b06db5ac129</id>
+        <link href="https://www.freecodecamp.org/news/unreal-engine-5-crash-course-with-blueprint/"/>
+        <updated>2022-02-03T18:38:19.000Z</updated>
+        <summary type="html"><![CDATA[Unreal Engine is one of the most popular game engines in use today. It can be helpful to learn if you are interested in 3D or 2D game development. We just published an Unreal Engine 5 crash course on the freeCodeCamp.org YouTube channel. Varnos Games created this course. You will]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astronomers Find First-Ever Rogue Black Hole Adrift in the Milky Way]]></title>
+        <id>FF0CBA46-AD93-41C4-81F8ABF13413D972</id>
+        <link href="https://www.scientificamerican.com/article/astronomers-find-first-ever-rogue-black-hole-adrift-in-the-milky-way/"/>
+        <updated>2022-02-03T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Weighing in at seven times the mass of our sun, the dark object is by far the best-yet candidate for a free-floating stellar-mass black hole
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Jonathan O'Callaghan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remoticon 2021 // Colin O’Flynn Zaps Chips (And They Talk)]]></title>
+        <id>https://hackaday.com/?p=518370</id>
+        <link href="https://hackaday.com/2022/02/03/remoticon-2021-colin-oflynn-zaps-chips-and-they-talk/"/>
+        <updated>2022-02-03T18:02:16.000Z</updated>
+        <summary type="html"><![CDATA[One of the many fascinating fields that’s covered by Hackaday’s remit lies in the world of hardware security, working with physical electronic hardware to reveal inner secrets concealed in its …read more]]></summary>
+        <author>
+            <name>Jenny List</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agonizing Cough of Croup Rising in Kids with COVID]]></title>
+        <id>9259DDF8-F787-43C3-AA403F137005EE60</id>
+        <link href="https://www.scientificamerican.com/article/agonizing-cough-of-croup-rising-in-kids-with-covid/"/>
+        <updated>2022-02-03T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The omicron variant appears to be creating more cases in small children
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Joanna Thompson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Cheat Sheet – HTML Elements List Reference]]></title>
+        <id>61f19aaff2ed6b06db5a5c9f</id>
+        <link href="https://www.freecodecamp.org/news/html-cheat-sheet-html-elements-list-reference/"/>
+        <updated>2022-02-03T17:00:24.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we will go over commonly used HTML tags, elements, and attributes. We'll also see examples of how these tags, elements, and attributes work. You can use this article as a reference guide whether you're a beginner or experienced developer. What Makes Up an HTML Document? The following]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COVID Vaccines Can Be Safe for People with Prior Allergic Reactions]]></title>
+        <id>B748F65E-97F3-40A0-88DBD1968AAE59E0</id>
+        <link href="https://www.scientificamerican.com/article/covid-vaccines-can-be-safe-for-people-with-prior-allergic-reactions/"/>
+        <updated>2022-02-03T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[My colleagues and I use a protocol to inoculate safely, and the CDC needs to revise its recommendations
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Charles Feng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Div Background Color – How to Change Background Color in CSS]]></title>
+        <id>61fbafd8f2ed6b06db5abd39</id>
+        <link href="https://www.freecodecamp.org/news/div-background-color-how-to-change-background-color-in-css/"/>
+        <updated>2022-02-03T16:50:46.000Z</updated>
+        <summary type="html"><![CDATA[If you're working on a web development project, setting a nice background color can give the website a more enticing look. To set a background color for a div or related element in CSS, you use the  background-color property. While setting this background color, your creativity is your limit]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Best Practices – Tips for Writing Better React Code in 2022]]></title>
+        <id>61ebc3d6011f893303470420</id>
+        <link href="https://www.freecodecamp.org/news/best-practices-for-react/"/>
+        <updated>2022-02-03T16:41:47.000Z</updated>
+        <summary type="html"><![CDATA[Two years ago, I started to learn and use React. And today I'm still using it at my day job as a Software Developer and in my own side projects. During that time I've come across a lot of "typical" issues. So I searched around and found some best practices]]></summary>
+        <author>
+            <name>Jean-Marc Möckel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Label – Label Tag Example]]></title>
+        <id>61fa3eb0f2ed6b06db5aac87</id>
+        <link href="https://www.freecodecamp.org/news/html-label-label-tag-example/"/>
+        <updated>2022-02-03T16:37:47.000Z</updated>
+        <summary type="html"><![CDATA[You use the HTML <label> tag to caption form controls. <label> is an inline element – meaning it doesn't take up an entire line unless you put a break tag before it. By definition, form controls refer to the elements inside a form element. Examples of form controls include <input]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Started in Tech]]></title>
+        <id>61fa254ff2ed6b06db5aab3f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-started-in-tech/"/>
+        <updated>2022-02-03T16:31:30.000Z</updated>
+        <summary type="html"><![CDATA[If you are just starting out in tech but do not know which path to take, then this article is for you. If you've started learning, but you're still confused on which programming language or tools to choose, don't worry – we'll discuss that here. And if you've ever wondered]]></summary>
+        <author>
+            <name>Njoku Samson Ebere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supersized Power Bank Built From an EV Battery]]></title>
+        <id>https://hackaday.com/?p=518121</id>
+        <link href="https://hackaday.com/2022/02/03/supersized-power-bank-built-from-an-ev-battery/"/>
+        <updated>2022-02-03T16:30:59.000Z</updated>
+        <summary type="html"><![CDATA[Perhaps one day in the future when our portable electronics are powered by inexhaustible dilithium crystals, we’ll look back fondly on the 2020s when we carried around power banks to …read more]]></summary>
+        <author>
+            <name>Jenny List</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Making of Atomic CSS: An Interview With Thierry Koblentz]]></title>
+        <id>https://css-tricks.com/?p=362578</id>
+        <link href="https://css-tricks.com/thierry-koblentz-atomic-css/"/>
+        <updated>2022-02-03T15:24:01.000Z</updated>
+        <summary type="html"><![CDATA[I interviewed Thierry Koblentz, creator of Atomic CSS, to understand the history and background that led to making of the popular CSS framework. Thierry, now retired, has vast experience writing CSS at large scale and has previously worked …
+The Making of Atomic CSS: An Interview With Thierry Koblentz originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Pankaj Parashar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shining A Different Light On Reality With Short-Wave Infrared Radiation]]></title>
+        <id>https://hackaday.com/?p=517032</id>
+        <link href="https://hackaday.com/2022/02/03/shining-a-different-light-on-reality-with-short-wave-infrared-radiation/"/>
+        <updated>2022-02-03T15:00:23.000Z</updated>
+        <summary type="html"><![CDATA[As great as cameras that operate in the visual light spectrum are, they omit a lot of the information that can be gleaned from other wavelengths. There is also the …read more]]></summary>
+        <author>
+            <name>Maya Posch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathematicians Prove 30-Year-Old André-Oort Conjecture]]></title>
+        <id>https://www.quantamagazine.org/?p=112179</id>
+        <link href="https://www.quantamagazine.org/mathematicians-prove-30-year-old-andre-oort-conjecture-20220203/"/>
+        <updated>2022-02-03T14:56:51.000Z</updated>
+        <summary type="html"><![CDATA[A team of mathematicians has solved an important question about how solutions to polynomial equations relate to sophisticated geometric objects called Shimura varieties.            
+The post Mathematicians Prove 30-Year-Old André-Oort Conjecture first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Leila Sloman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA Plans a Fiery End for the International Space Station by 2031]]></title>
+        <id>8087CFC4-43BE-40EC-BBDDBE0C103481F2</id>
+        <link href="https://www.scientificamerican.com/article/nasa-plans-a-fiery-end-for-the-international-space-station-by-2031/"/>
+        <updated>2022-02-03T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The space agency has announced the timing of the ISS’s demise as part of a long-planned transition to private orbital outposts
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Mike Wall, SPACE.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Long-Haul COVID Cases Could Spike after Latest Wave]]></title>
+        <id>54305D9C-E755-4FBC-8A84F995FB7E782D</id>
+        <link href="https://www.scientificamerican.com/article/long-haul-covid-cases-could-spike-after-latest-wave/"/>
+        <updated>2022-02-03T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The huge number of Omicron infections could add a lot more people with disabling long-term symptoms. Vaccinations could blunt the impact
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Melinda Wenner Moyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arduino Activated Automotive Aerodynamic Apparatus is… (Spoiler Alert!)]]></title>
+        <id>https://hackaday.com/?p=518293</id>
+        <link href="https://hackaday.com/2022/02/03/arduino-activated-automotive-aerodynamic-apparatus-is-spoiler-alert/"/>
+        <updated>2022-02-03T12:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes a great hack is great for no other reason than that it’s fun, and [Michael Rechtin]’s DIY Active Aero Spoiler and Air Brake certainly qualifies as a fun hack. …read more]]></summary>
+        <author>
+            <name>Ryan Flowers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Strange Creature Discards Genes to Make a Better Heart]]></title>
+        <id>45925370-4EB1-457C-922C530FEC2AB568</id>
+        <link href="https://www.scientificamerican.com/article/a-strange-creature-discards-genes-to-make-a-better-heart/"/>
+        <updated>2022-02-03T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The sea squirt relative demonstrates that sometimes less is more: losing genes can be adaptive
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Viviane Callier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can DeepMind's Alpha Code Outperform Human Coders?]]></title>
+        <id>http://www.i-programmer.info/news/105-artificial-intelligence/15191-can-deepminds-alpha-code-outperform-human-coders.html</id>
+        <link href="http://www.i-programmer.info/news/105-artificial-intelligence/15191-can-deepminds-alpha-code-outperform-human-coders.html"/>
+        <updated>2022-02-03T11:25:40.000Z</updated>
+        <summary type="html"><![CDATA[DeepMind has developed an AI capable of solving some competitive programming problems. When tried out on recent CodeForces contests AlphaCode achieved a rank within the top 54% of participants.
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JetPack Window Manager Improves Foldable Support]]></title>
+        <id>http://www.i-programmer.info/news/193-android/15190-jetpack-window-manager-improves-foldable-support.html</id>
+        <link href="http://www.i-programmer.info/news/193-android/15190-jetpack-window-manager-improves-foldable-support.html"/>
+        <updated>2022-02-03T11:17:47.000Z</updated>
+        <summary type="html"><![CDATA[The Jetpack Window Manager library is now available as a stable 1.0 release. The library gives application developers the means to support new device form factors and multi-window environments. It provides a common API surface for API versions 14 and later.
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When There Were More Deaths Than Births in the U.S.]]></title>
+        <id>https://flowingdata.com/?p=66773</id>
+        <link href="https://flowingdata.com/2022/02/03/when-there-were-more-deaths-than-births-in-the-u-s/"/>
+        <updated>2022-02-03T08:01:06.000Z</updated>
+        <summary type="html"><![CDATA[The two counts have been getting closer to each other. The past couple of years accelerated the process.
+Tags: birth, mortality]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Database Virtualization: Breaking Vendor Lock-In]]></title>
+        <id>https://devops.com/?p=149630</id>
+        <link href="https://devops.com/database-virtualization-breaking-vendor-lock-in/"/>
+        <updated>2022-02-03T08:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Every enterprise is battling vendor lock-in—constantly. Ask any IT leader about what keeps them up at night and vendor lock-in is certainly near, if not at, the top of the list. And while network, storage and compute have long been democratized by virtualization, one discipline has held out as the last bastion of vendor lock-in: […]
+The post Database Virtualization: Breaking Vendor Lock-In appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Mike Waas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trends in the API Industry]]></title>
+        <id>https://devops.com/?p=149525</id>
+        <link href="https://devops.com/trends-in-the-api-industry/"/>
+        <updated>2022-02-03T07:30:57.000Z</updated>
+        <summary type="html"><![CDATA[The application programming interface (API) economy is chugging along full steam ahead. The API management market alone is expected to expand 35% by 2025, supported by the sheer number of web APIs coming to market. APIs have become ubiquitous across microservices architectures, public product initiatives, SaaS platform offerings, IoT and partner-partner integrations. The industry has […]
+The post Trends in the API Industry appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Bill Doerrfeld</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attention Deficit]]></title>
+        <id>https://devops.com/?p=149662</id>
+        <link href="https://devops.com/attention-deficit/"/>
+        <updated>2022-02-03T07:00:11.000Z</updated>
+        <summary type="html"><![CDATA[The post Attention Deficit appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>ROELBOB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Keep Track Of Your Google Calendar With This Custom Build]]></title>
         <id>https://hackaday.com/?p=518181</id>
@@ -14,6 +396,17 @@
         <summary type="html"><![CDATA[Keeping track of your appointments on Google Calendar is easy enough if you’re holding a phone or sitting at a computer, but sometimes you just want to know what’s going …read more]]></summary>
         <author>
             <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Set Up SSH Keys]]></title>
+        <id>https://goteleport.com/blog/how-to-set-up-ssh-keys/</id>
+        <link href="https://goteleport.com/blog/how-to-set-up-ssh-keys/"/>
+        <updated>2022-02-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[At Teleport, we advocate SSH certificates over SSH keys and passwords as the best authentication method for SSH. Nothing beats the security and operational flexibility of using certificate-based authentication for a large fleet of SSH servers running on dynamic infrastructure. But in practice, certificate-based authentication is far from the de facto authentication method, and sometimes we may need to use SSH keys. For example, in my daily workflow I use SSH keys when accessing DigitalOcean servers or to check repositories in my GitHub personal account because SSH keys are the default available methods (alongside passwords). So it helps to learn the best way to generate and use SSH keys.
+This post is targeted towards individuals who need to generate and manage SSH keys and keep them secure…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
         </author>
     </entry>
     <entry>
@@ -632,6 +1025,29 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Next.js is a server-side rendering framework based on React, which is search engine optimized. So, let's build an Evernote clone using Next.js to learn how it works. We will use the following tech stack:  1. Next.js for the UI  2. Firebase for the database and for hosting our]]></summary>
         <author>
             <name>Nishant Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Storage, Streaming and Batch Analytics]]></title>
+        <id>http://www.i-programmer.info/bookreviews/114-cloud-computing/15187-azure-storage-streaming-and-batch-analytics.html</id>
+        <link href="http://www.i-programmer.info/bookreviews/114-cloud-computing/15187-azure-storage-streaming-and-batch-analytics.html"/>
+        <updated>2022-02-01T18:24:25.000Z</updated>
+        <summary type="html"><![CDATA[Author: Richard Nuckolls
+Publisher: Manning
+Pages:448
+ ISBN: 978-1617296307
+Print:1617296309
+Kindle: B09781TWFJ
+ Audience: Data engineers
+Rating: 4.5
+Reviewer: Kay Ewbank
+
+This book is aimed at developers and system engineers who need to successfully collect and process data in Azure, specifically using the Azure Lambda architecture.
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
         </author>
     </entry>
     <entry>
@@ -49175,40 +49591,6 @@ Turns out, porting a tool designed to be self-hosted to something hosted isn’t
         <summary type="html"><![CDATA[Angie Jones has 26 patented inventions, including one for time travel! She’s also an automation architect, international keynote speaker, Java Champion, and GitHub Star.]]></summary>
         <author>
             <name>The ReadME Project</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dream big, and follow through even bigger]]></title>
-        <id>https://github.com/readme/stories/safia-abdalla</id>
-        <link href="https://github.com/readme/stories/safia-abdalla"/>
-        <updated>2021-02-04T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Safia’s role as a maintainer is about more than open source—she’s using her power for good, and inspiring other women of color to follow suit.]]></summary>
-        <author>
-            <name>The ReadME Project</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Submission shoutouts for SIDENAV]]></title>
-        <id>https://web.dev/shows/gui-challenges/1omr0HzI_N0/</id>
-        <link href="https://web.dev/shows/gui-challenges/1omr0HzI_N0/"/>
-        <updated>2021-02-03T18:00:07.000Z</updated>
-        <summary type="html"><![CDATA[We asked the community to build a sidenav component your way and you all delivered! Check out the submissions:
-@a_nurella → 
-@mayeedwin1 → 
-@_developit → 
-@EvroMalarkey → 
-
-http://goo.gle/3j9bmQmhttp://goo.gle/2Lin1A4http://goo.gle/3j907HRhttps://goo.gle/3cwJZP2
-Do you have another way you’d create a side navigation? Send it our way!
-Watch the GUI sidenav episode → https://goo.gle/3o4UYS1
-Code along → 
-Read along → 
-Try a demo → https://goo.gle/3sQ8Xifhttps://goo.gle/2Np83J9http://goo.gle/3bVBFYT
-
-Subscribe to Google Chrome Developers  → http://goo.gl/LLLNvf
-#GUIChallenges #GUIsubmissions]]></summary>
-        <author>
-            <name>GUI Challenges on web.dev</name>
         </author>
     </entry>
 </feed>
