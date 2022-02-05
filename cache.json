@@ -769,6 +769,33 @@
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
         {
+          "id": "http://www.i-programmer.info/book-watch-archive/15193-the-c-players-guide-5th-ed-starbound-software.html",
+          "author": null,
+          "description": "This book aims to shake off the dusty, dull, dryness of the typical programming book, replacing it with something more exciting and flavorful. R B Whitaker combines a bit of humor, a casual tone, and examples involving dragons and asteroids instead of bank accounts and employees. And since you learn to program by doing instead of just reading, this book contains over 100 hands-on programming challenges.\n\r\n<ASIN:0985580151>\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/book-watch-archive/15193-the-c-players-guide-5th-ed-starbound-software.html",
+          "publishedOn": "2022-02-04T17:41:01.000Z",
+          "wordCount": 559,
+          "title": "The C# Player's Guide 5th Ed (Starbound Software)"
+        },
+        {
+          "id": "http://www.i-programmer.info/news/126-os/15192-64-bit-raspberry-pi-os-out-of-beta.html",
+          "author": null,
+          "description": "Raspberry Pi has been trialing a beta of the 64-bit version of Pi OS for over a year. Now it's ready to make the transition to a fully supported OS option on 64-bit Pi hardware, including the Pi 3, Pi 4 and Pi Zero 2 W.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/126-os/15192-64-bit-raspberry-pi-os-out-of-beta.html",
+          "publishedOn": "2022-02-04T11:57:46.000Z",
+          "wordCount": 915,
+          "title": "64-bit Raspberry Pi OS Out Of Beta"
+        },
+        {
+          "id": "http://www.i-programmer.info/news/193-android/15194-android-12-for-tablets-gets-closer.html",
+          "author": null,
+          "description": "Google is increasing its support for using Android on tablets and foldable devices, with an imminent update to the developer preview of Android 12 along with moves to create an Android Tablet group within Google. \n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/193-android/15194-android-12-for-tablets-gets-closer.html",
+          "publishedOn": "2022-02-04T00:00:00.000Z",
+          "wordCount": 769,
+          "title": "Android 12 For Tablets Gets Closer"
+        },
+        {
           "id": "http://www.i-programmer.info/news/105-artificial-intelligence/15191-can-deepminds-alpha-code-outperform-human-coders.html",
           "author": null,
           "description": "DeepMind has developed an AI capable of solving some competitive programming problems. When tried out on recent CodeForces contests AlphaCode achieved a rank within the top 54% of participants.\n\r\n\nRead more...",
@@ -785,6 +812,15 @@
           "publishedOn": "2022-02-03T11:17:47.000Z",
           "wordCount": 685,
           "title": "JetPack Window Manager Improves Foldable Support"
+        },
+        {
+          "id": "http://www.i-programmer.info/history/machines/4972-a-1960-computer-the-ict-1301-flossie-.html",
+          "author": null,
+          "description": "Flossie is the nickname given to a historic ICT 1301 computer that has been rescued from the scrap heap for the third time in its 50-year history. It has been donated to The National Museum of Computing, located at Bletchley Park, where it will go on display when space permits and when, and if, the project is ever completed.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/history/machines/4972-a-1960-computer-the-ict-1301-flossie-.html",
+          "publishedOn": "2022-02-03T00:00:00.000Z",
+          "wordCount": 674,
+          "title": "ICT 1301 - A 1960's Computer"
         },
         {
           "id": "http://www.i-programmer.info/book-watch-archive/15189-practical-sql-2nd-edition-no-starch.html",
@@ -1144,6 +1180,24 @@
       "feedUrl": "https://atom.io/packages.atom",
       "siteUrl": "https://atom.io",
       "articles": [
+        {
+          "id": "https://atom.io/packages/language-algounareil",
+          "author": null,
+          "description": "algounareil\nPemet d'avoir la même syntaxe algo que celle que j'apprends en cours dans atom.\nIl est basé sur le programme https://github.com/Le-Bennou/language-pseudocodefr",
+          "link": "https://atom.io/packages/language-algounareil",
+          "publishedOn": "2022-02-04T14:05:05.000Z",
+          "wordCount": 86,
+          "title": "language-algounareil"
+        },
+        {
+          "id": "https://atom.io/packages/atom-theme-switcher",
+          "author": null,
+          "description": "Preview\n \nDescription\nGeneral\nThis package is a theme switcher for the atom.io code editor. \nThe package can work both in manual and automatic mode. \nThe ability to set topics and time points by the user is supported.\nWorking mode\nThe mode of operation is the mode that will affect the monitored actions by the plugin and further performance.\nThis package supports two modes of operation - manual and automatic. \nIf the mode of operation is not set, then the package will run in manual mode, waiting for intervention.",
+          "link": "https://atom.io/packages/atom-theme-switcher",
+          "publishedOn": "2022-02-04T11:31:45.000Z",
+          "wordCount": 159,
+          "title": "atom-theme-switcher"
+        },
         {
           "id": "https://atom.io/packages/abandoncream-syntax",
           "author": null,
@@ -1682,6 +1736,15 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=362799",
+          "author": "Ganesh Dahal",
+          "description": "The relatively new WordPress editor, also known as the WordPress Block Editor, always under development via the Gutenberg plugin, has been with us since 2018. You can use the block editor on any WordPress theme, provided the theme …\nA Deep Introduction to WordPress Block Themes originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/a-deep-introduction-to-wordpress-block-themes/",
+          "publishedOn": "2022-02-04T15:07:04.000Z",
+          "wordCount": 6063,
+          "title": "A Deep Introduction to WordPress Block Themes"
+        },
         {
           "id": "https://css-tricks.com/?p=362884",
           "author": "Chris Coyier",
@@ -3750,6 +3813,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61f8eea6f2ed6b06db5a9fd6",
+          "author": "Nuno Bispo",
+          "description": "Heroku is a well-known PaaS widely used by developers. And as a fun and useful project, you can easily make your own Heroku-like PaaS with Dokku. What is Heroku? Heroku is a platform as a service (PaaS) company founded in 2007. The platform runs on AWS, and its ephemeral storage",
+          "link": "https://www.freecodecamp.org/news/how-to-build-your-on-heroku-with-dokku/",
+          "publishedOn": "2022-02-04T19:01:06.000Z",
+          "wordCount": 4308,
+          "title": "How to Build Your Own Heroku with Dokku"
+        },
+        {
+          "id": "61fc2f52f2ed6b06db5ac1b7",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In this article, we will talk about arrays in Java. We will go over some examples to help you understand what an array is, how to declare them, and how to use them in your Java code. What is an array? In Java, you use an array to store multiple",
+          "link": "https://www.freecodecamp.org/news/java-array-how-to-declare-and-initialize-an-array-in-java-example/",
+          "publishedOn": "2022-02-04T16:42:44.000Z",
+          "wordCount": 758,
+          "title": "Java Array – How to Declare and Initialize an Array in Java Example"
+        },
         {
           "id": "61f66e8bf2ed6b06db5a880a",
           "author": "Sampurna Chapagain",
@@ -7150,6 +7231,186 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/the-great-gatsby-chapter-8?source=rss",
+          "author": "F. Scott Fitzgerald",
+          "description": "The Great Gatsby, Chapter 8 by F. Scott Fitzgerald is part of HackerNoon’s Book Blog Post series.",
+          "link": "https://hackernoon.com/the-great-gatsby-chapter-8?source=rss",
+          "publishedOn": "2022-02-04T09:57:11.000Z",
+          "wordCount": 5641,
+          "title": "The Great Gatsby: Chapter 8"
+        },
+        {
+          "id": "https://hackernoon.com/trust-machine-raises-$150-million-in-funding-from-breyer-capital-dcg-and-hivemind-to-expand-web-3?source=rss",
+          "author": "Ishan Pandey",
+          "description": "Trust Machines raised $150 million to bring Web 3 to Bitcoin with funding from VCs.",
+          "link": "https://hackernoon.com/trust-machine-raises-$150-million-in-funding-from-breyer-capital-dcg-and-hivemind-to-expand-web-3?source=rss",
+          "publishedOn": "2022-02-04T09:52:32.000Z",
+          "wordCount": 3014,
+          "title": "Trust Machine Raises $150 Million in Funding from Breyer Capital, DCG and Hivemind to Expand Web 3"
+        },
+        {
+          "id": "https://hackernoon.com/the-great-gatsby-chapter-7?source=rss",
+          "author": "F. Scott Fitzgerald",
+          "description": "The Great Gatsby, Chapter 7 by F. Scott Fitzgerald is part of HackerNoon’s Book Blog Post series.",
+          "link": "https://hackernoon.com/the-great-gatsby-chapter-7?source=rss",
+          "publishedOn": "2022-02-04T09:50:40.000Z",
+          "wordCount": 9518,
+          "title": "The Great Gatsby: Chapter 7"
+        },
+        {
+          "id": "https://hackernoon.com/the-great-gatsby-chapter-6?source=rss",
+          "author": "F. Scott Fitzgerald",
+          "description": "The Great Gatsby, Chapter 6 by F. Scott Fitzgerald is part of HackerNoon’s Book Blog Post series.",
+          "link": "https://hackernoon.com/the-great-gatsby-chapter-6?source=rss",
+          "publishedOn": "2022-02-04T09:46:20.000Z",
+          "wordCount": 5112,
+          "title": "The Great Gatsby: Chapter 6"
+        },
+        {
+          "id": "https://hackernoon.com/introducing-the-road-to-web3-hackathon-powered-by-polygon?source=rss",
+          "author": "Shodipo Ayomide",
+          "description": "The time has come, to build the next era of technology, to build the community-owned web, to build a decentralized future. It’s time to shift lanes.",
+          "link": "https://hackernoon.com/introducing-the-road-to-web3-hackathon-powered-by-polygon?source=rss",
+          "publishedOn": "2022-02-04T08:35:29.000Z",
+          "wordCount": 2464,
+          "title": "Introducing the Road to Web3 Hackathon Powered by Polygon"
+        },
+        {
+          "id": "https://hackernoon.com/5-ways-data-quality-can-impact-your-ai-solution?source=rss",
+          "author": "AritaWeb Inc.",
+          "description": "Read about how data quality can impact your AI solution",
+          "link": "https://hackernoon.com/5-ways-data-quality-can-impact-your-ai-solution?source=rss",
+          "publishedOn": "2022-02-04T08:27:42.000Z",
+          "wordCount": 2158,
+          "title": "5 Ways Data Quality can Impact your AI Solution"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-a-developers-worst-enemy?source=rss",
+          "author": "Abraham Israel",
+          "description": "We developers get stuck working hard for a long period on multiple projects, that seems impossible to complete.",
+          "link": "https://hackernoon.com/what-is-a-developers-worst-enemy?source=rss",
+          "publishedOn": "2022-02-04T08:15:20.000Z",
+          "wordCount": 2231,
+          "title": "What is a Developer's Worst Enemy?"
+        },
+        {
+          "id": "https://hackernoon.com/top-10-javascript-file-managers-to-use-in-2022?source=rss",
+          "author": "Nataliya",
+          "description": "A brief intro to 10 file managers for software developers",
+          "link": "https://hackernoon.com/top-10-javascript-file-managers-to-use-in-2022?source=rss",
+          "publishedOn": "2022-02-04T08:00:09.000Z",
+          "wordCount": 2104,
+          "title": "Top 10 Javascript File Managers to Use in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/ocearch-npo-partners-with-rogue-shards-solana-nft-project-to-help-save-our-oceans?source=rss",
+          "author": "Rogue Sharks",
+          "description": "OCEARCH and Rogue Sharks Announce New Strategic Partnership to Protect Our Oceans",
+          "link": "https://hackernoon.com/ocearch-npo-partners-with-rogue-shards-solana-nft-project-to-help-save-our-oceans?source=rss",
+          "publishedOn": "2022-02-04T07:48:24.000Z",
+          "wordCount": 2605,
+          "title": "OCEARCH NPO Partners with Rogue Sharks Solana NFT Project to Help Save our Oceans"
+        },
+        {
+          "id": "https://hackernoon.com/why-solanas-rise-is-largely-thanks-to-the-solpunks-nft-collection?source=rss",
+          "author": "Olayimika Oyebanji",
+          "description": "The Solana blockchain has recently earned a glowing reputation for its ability to serve the NFT industry better than Ethereum.",
+          "link": "https://hackernoon.com/why-solanas-rise-is-largely-thanks-to-the-solpunks-nft-collection?source=rss",
+          "publishedOn": "2022-02-04T07:37:35.000Z",
+          "wordCount": 3258,
+          "title": "Solana’s Rise is Thanks to Low Gas Fees and the SolPunks NFT Collection"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-transition-from-full-stack-developer-to-web3-pioneer-in-2022?source=rss",
+          "author": "John Vester",
+          "description": "Looking to dive into Web3 development? Here is an intro and quick example of how full-stack developers can get started in the decentralized web.",
+          "link": "https://hackernoon.com/how-to-transition-from-full-stack-developer-to-web3-pioneer-in-2022?source=rss",
+          "publishedOn": "2022-02-04T06:44:35.000Z",
+          "wordCount": 8737,
+          "title": "How to Transition from Full-Stack Developer to Web3 Pioneer in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/saying-no-to-your-boss-is-never-easy-but-sometimes-its-necessary?source=rss",
+          "author": "Vinita Bansal",
+          "description": "It was a Friday morning and I was waiting in the conference room for my manager. We had just achieved a great milestone as a team and delivered a highly critical time sensitive project. It wasn’t an ordinary success as the entire organization was counting on this platform for a mega event.",
+          "link": "https://hackernoon.com/saying-no-to-your-boss-is-never-easy-but-sometimes-its-necessary?source=rss",
+          "publishedOn": "2022-02-04T05:49:05.000Z",
+          "wordCount": 2450,
+          "title": "Saying No to Your Boss is Never Easy, But Sometimes it's Necessary"
+        },
+        {
+          "id": "https://hackernoon.com/understanding-the-power-of-quantum-computing?source=rss",
+          "author": "Edem Gold",
+          "description": "\"If anyone tells you they understand quantum mechanics then they don't understand quantum mechanics\".",
+          "link": "https://hackernoon.com/understanding-the-power-of-quantum-computing?source=rss",
+          "publishedOn": "2022-02-04T04:56:54.000Z",
+          "wordCount": 3568,
+          "title": "Understanding the Power of Quantum Computing"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-find-the-right-ethereum-development-company-for-2022?source=rss",
+          "author": "MobileCoderz",
+          "description": "This article provides a concise list of the top Ethereum development companies for 2022.",
+          "link": "https://hackernoon.com/how-to-find-the-right-ethereum-development-company-for-2022?source=rss",
+          "publishedOn": "2022-02-04T04:33:47.000Z",
+          "wordCount": 1836,
+          "title": "How to Find the Right Ethereum Development Company in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/ai-is-not-the-future-you-need-it-today?source=rss",
+          "author": "Mayank Sharma",
+          "description": "While the technology has been around for decades, there’s a need to create awareness and educate non-technical sections about the perks of AI.",
+          "link": "https://hackernoon.com/ai-is-not-the-future-you-need-it-today?source=rss",
+          "publishedOn": "2022-02-04T04:02:12.000Z",
+          "wordCount": 3078,
+          "title": "AI is Not 'the Future.' You Need it Today"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-protect-hackers-from-your-privacy?source=rss",
+          "author": "Morpheuslord",
+          "description": "Web accounts are really easy to hack. All that the process really needs is patience.",
+          "link": "https://hackernoon.com/how-to-protect-hackers-from-your-privacy?source=rss",
+          "publishedOn": "2022-02-04T03:06:04.000Z",
+          "wordCount": 3502,
+          "title": "How to Protect Hackers From Your Privacy"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-mount-web3-storage-as-a-folder-on-your-desktop?source=rss",
+          "author": "Filebase",
+          "description": "Learn in this post how to mount Web3 Decentralized Storage as a folder on your desktop. Drag and Drop onto Web3 in seconds using Filebase and Mountain Duck.",
+          "link": "https://hackernoon.com/how-to-mount-web3-storage-as-a-folder-on-your-desktop?source=rss",
+          "publishedOn": "2022-02-03T23:45:27.000Z",
+          "wordCount": 1508,
+          "title": "Mounting Web3 Storage as a Folder on Your Desktop"
+        },
+        {
+          "id": "https://hackernoon.com/three-lessons-for-building-a-killer-ad-game?source=rss",
+          "author": "Max Albert",
+          "description": "Use elite marketing tactics in combination with gaming to sell your product, generate leads, and land new customers. Marketing made simple with gaming.",
+          "link": "https://hackernoon.com/three-lessons-for-building-a-killer-ad-game?source=rss",
+          "publishedOn": "2022-02-03T23:35:57.000Z",
+          "wordCount": 2024,
+          "title": "Three Lessons For Building a Killer Ad Game"
+        },
+        {
+          "id": "https://hackernoon.com/blockchain-and-ai-equal-the-future-of-secure-data-processing-and-storage?source=rss",
+          "author": "Ketan Parmar",
+          "description": "Nobody knows how blockchain and AI technologies will be combined in the future, but as data privacy and data abuse become regular conversations.",
+          "link": "https://hackernoon.com/blockchain-and-ai-equal-the-future-of-secure-data-processing-and-storage?source=rss",
+          "publishedOn": "2022-02-03T23:34:33.000Z",
+          "wordCount": 2017,
+          "title": "Blockchain and AI Equal the Future Of Secure Data Processing And Storage"
+        },
+        {
+          "id": "https://hackernoon.com/mobile-apps-are-eating-up-traditional-e-commerce-distribution-channels?source=rss",
+          "author": "Craig Lebrau",
+          "description": "Mobile apps are eating up traditional ecommerce distribution channels",
+          "link": "https://hackernoon.com/mobile-apps-are-eating-up-traditional-e-commerce-distribution-channels?source=rss",
+          "publishedOn": "2022-02-03T23:33:04.000Z",
+          "wordCount": 2057,
+          "title": "Mobile Apps are Eating-Up Traditional E-Commerce Distribution Channels"
+        },
         {
           "id": "https://hackernoon.com/bungie-joins-sony-in-surprise-acquisition?source=rss",
           "author": "Limarc Ambalina",
@@ -23176,6 +23437,69 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
+          "id": "https://hackaday.com/?p=518525",
+          "author": "Tom Nardi",
+          "description": "Don’t get too excited, a 3D printed radiation shield won’t keep you from getting irradiated during WWIII. But until the Doomsday Clock starts clanging its midnight bell, you can use …read more",
+          "link": "https://hackaday.com/2022/02/04/3d-printed-radiation-shields-get-put-to-the-test/",
+          "publishedOn": "2022-02-05T00:00:43.000Z",
+          "wordCount": 1286,
+          "title": "3D Printed Radiation Shields Get Put to the Test"
+        },
+        {
+          "id": "https://hackaday.com/?p=518364",
+          "author": "Dave Rowntree",
+          "description": "[Maurice-Michel Didelot] owns a Sonos smart speaker, and was lamenting the devices inability (or plain unwillingness) to stream music from online sources without using a subscription service. YouTube Music will …read more",
+          "link": "https://hackaday.com/2022/02/04/python-web-proxy-convinces-sonos-to-stream-youtube/",
+          "publishedOn": "2022-02-04T21:00:00.000Z",
+          "wordCount": 1401,
+          "title": "Python Web Proxy Convinces Sonos to Stream YouTube"
+        },
+        {
+          "id": "https://hackaday.com/?p=518042",
+          "author": "Jenny List",
+          "description": "Over the years we’ve seen many small computer boards of various abilities, among them many powerful enough to be almost-useful Linux general purpose computers. We’ve also seen more than a …read more",
+          "link": "https://hackaday.com/2022/02/04/the-fifteen-dollar-linux-computer/",
+          "publishedOn": "2022-02-04T19:30:26.000Z",
+          "wordCount": 2611,
+          "title": "The Fifteen Dollar Linux Computer"
+        },
+        {
+          "id": "https://hackaday.com/?p=516547",
+          "author": "Jenny List",
+          "description": "Last week brought the story of a group of crypto enthusiasts who paid well over the going rate for a rare sci-fi book, then proposed encoding scans of all its …read more",
+          "link": "https://hackaday.com/2022/02/04/copyright-what-you-need-to-know/",
+          "publishedOn": "2022-02-04T18:00:54.000Z",
+          "wordCount": 4516,
+          "title": "Copyright, What You Need To Know"
+        },
+        {
+          "id": "https://hackaday.com/?p=518545&preview=true&preview_id=518545",
+          "author": "Tom Nardi",
+          "description": "Join Hackaday Editor-in-Chief Elliot Williams and Staff Writer Dan Maloney for this week’s podcast as we talk about Elliot’s “defection” to another podcast, the pros and cons of CNC builds, …read more",
+          "link": "https://hackaday.com/2022/02/04/hackaday-podcast-154-a-good-enough-cnc-stepper-motors-unrolled-smart-two-wire-leds-a-volcano-heard-around-the-world/",
+          "publishedOn": "2022-02-04T17:00:38.000Z",
+          "wordCount": 1309,
+          "title": "Hackaday Podcast 154: A Good Enough CNC, Stepper Motors Unrolled, Smart Two-Wire LEDs, a Volcano Heard Around the World"
+        },
+        {
+          "id": "https://hackaday.com/?p=518596",
+          "author": "Tom Nardi",
+          "description": "You might think the era of the 3.5 inch “floppy” disk is over, and of course, you’d be right. But when has that ever stopped hackers before? Just because these …read more",
+          "link": "https://hackaday.com/2022/02/04/adafruit-hack-chat-helps-you-copy-that-floppy/",
+          "publishedOn": "2022-02-04T16:00:28.000Z",
+          "wordCount": 1817,
+          "title": "Adafruit Hack Chat Helps You Copy That Floppy"
+        },
+        {
+          "id": "https://hackaday.com/?p=518416",
+          "author": "Jonathan Bennett",
+          "description": "Samba has a very serious vulnerability, CVE-2021-44142, that was just patched in new releases 4.13.17, 4.14.12, and 4.15.5. Discovered by researchers at TrendMicro, this unauthenticated RCE bug weighs in at …read more",
+          "link": "https://hackaday.com/2022/02/04/this-week-in-security-samba-wormhole-crypto-heist-and-a-bogus-cve/",
+          "publishedOn": "2022-02-04T15:00:03.000Z",
+          "wordCount": 2189,
+          "title": "This Week in Security: Samba, Wormhole Crypto Heist, And A Bogus CVE"
+        },
+        {
           "id": "https://hackaday.com/?p=518302",
           "author": "Al Williams",
           "description": "Researchers at the University of Texas have been experimenting with optical 3D printing using near infrared (NIR) light instead of the more traditional ultraviolet. They claim to have a proof …read more",
@@ -30338,6 +30662,73 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "229C6A3C-5C53-4B56-96681B8C1C24E003",
+          "author": "James Hendler, The Conversation US",
+          "description": "Government agencies are tapping a facial recognition company to prove you’re you\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/facial-recognition-plan-from-irs-raises-big-concerns/",
+          "publishedOn": "2022-02-04T20:30:00.000Z",
+          "wordCount": null,
+          "title": "Facial Recognition Plan from IRS Raises Big Concerns",
+          "itunes": {}
+        },
+        {
+          "id": "F75E41E1-40A6-481F-BE2C204ABC4353B9",
+          "author": "Nora Kenworthy, Mark Igra",
+          "description": "Despite growing popularity, the fundraising strategy will never be social safety net\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/crowdfunding-isnt-enough-in-a-crisis/",
+          "publishedOn": "2022-02-04T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Crowdfunding Isn't Enough in a Crisis",
+          "itunes": {}
+        },
+        {
+          "id": "840010AA-7EE3-4B12-AB0D6AE835A86C17",
+          "author": "Tasha Lemley, Lydia Chain",
+          "description": "This new guest podcast from Undark takes up the case of Pervis Payne, and why his death penalty case reveals the convoluted relationship between science and the courts.\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/when-an-intellectual-disability-means-life-or-death/",
+          "publishedOn": "2022-02-04T18:00:00.000Z",
+          "wordCount": null,
+          "title": "When an Intellectual Disability Means Life or Death",
+          "itunes": {}
+        },
+        {
+          "id": "26315CE7-A88B-4E8D-A5B49EA646A64D32",
+          "author": "Josh Fischman, Jeffery DelViscio",
+          "description": "Today we bring you a new episode in our podcast series COVID, Quickly. Every two weeks, Scientific American’s senior health editors Tanya Lewis and Josh Fischman catch you up on the...\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/podcast/episode/more-kids-get-covid-long-haulers-and-a-vaccine-milestone-covid-quickly-episode-23/",
+          "publishedOn": "2022-02-04T16:00:00.000Z",
+          "wordCount": null,
+          "title": "More Kids Get COVID, Long Haulers, and a Vaccine Milestone | COVID Quickly, Episode 23",
+          "itunes": {
+            "duration": "06:27"
+          },
+          "enclosure": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=8C9E1AC1-5C43-4E81-BBA91896796451EF",
+            "length": "9550821",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "7CB1FC40-3B3E-474E-BDE4C986659FD687",
+          "author": "Joanna Thompson",
+          "description": "Scientists say that the new material is even more durable than real dental enamel\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/synthetic-enamel-could-make-teeth-stronger-and-smarter/",
+          "publishedOn": "2022-02-04T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Synthetic Enamel Could Make Teeth Stronger and Smarter",
+          "itunes": {}
+        },
+        {
+          "id": "18DADBB9-8EE0-472D-82571B58BFCEA1DD",
+          "author": "Sophie Bushwick",
+          "description": "The method could extend the lifetime of lithium-metal batteries by 30 percent, a new study suggests\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/new-charging-technique-puts-crumbling-batteries-back-together/",
+          "publishedOn": "2022-02-04T11:45:00.000Z",
+          "wordCount": null,
+          "title": "New Charging Technique Puts Crumbling Batteries Back Together",
+          "itunes": {}
+        },
+        {
           "id": "5A16FE12-BA01-4A18-B418AAB56E785D92",
           "author": "Chelsea Harvey, E&E News",
           "description": "Once rare marine heat waves have become routine, threatening coral reefs and other sea creatures\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -36305,6 +36696,33 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=149700",
+          "author": "Mike Vizard",
+          "description": "WhiteSource has added the Microsoft Azure DevOps platform to the list of continuous integration/continuous delivery (CI/CD) platforms its open source vulnerability scanning tools natively supports. Susan St. Clair, director of product management for WhiteSource, said while developers are always encouraged to scan for vulnerabilities, it’s more effective if organizations implement scanning by default every time […]\nThe post WhiteSource Tightens Code Scanning Tool Integration with Azure DevOps appeared first on DevOps.com.",
+          "link": "https://devops.com/whitesource-tightens-code-scanning-tool-integration-with-azure-devops/",
+          "publishedOn": "2022-02-04T16:55:02.000Z",
+          "wordCount": 995,
+          "title": "WhiteSource Tightens Code Scanning Tool Integration with Azure DevOps"
+        },
+        {
+          "id": "https://devops.com/?p=149648",
+          "author": "James Reinders",
+          "description": "As hardware advances and diversifies, we’re entering what many see as a new golden age of computer architecture. However, the idea of an ever-expanding hardware landscape can be daunting for software developers, because while hardware diversity is wonderful for price and innovation, it can lead to spiraling software complexity on the back end. So many […]\nThe post Heterogeneous Hardware Needs Universal Software appeared first on DevOps.com.",
+          "link": "https://devops.com/heterogeneous-hardware-needs-universal-software/",
+          "publishedOn": "2022-02-04T08:00:57.000Z",
+          "wordCount": 1200,
+          "title": "Heterogeneous Hardware Needs Universal Software"
+        },
+        {
+          "id": "https://devops.com/?p=149579",
+          "author": "Abhishek Nayak",
+          "description": "The general public often thinks about software development in terms of a lone software developer hacking away tirelessly at their keyboard. Of course, that is an anachronism, at best. What is true is that collaboration among software engineers, especially with their colleagues in IT operations which evolved into DevOps, has become the norm for rolling […]\nThe post Front-End Frameworks Enable Better Dev Collaboration appeared first on DevOps.com.",
+          "link": "https://devops.com/front-end-frameworks-enable-better-dev-collaboration/",
+          "publishedOn": "2022-02-04T08:00:06.000Z",
+          "wordCount": 1399,
+          "title": "Front-End Frameworks Enable Better Dev Collaboration"
+        },
+        {
           "id": "https://devops.com/?p=149666",
           "author": "Amanda Razani",
           "description": "Click to read The Low-Code Tide is Rising\nThe post The Low-Code Tide is Rising appeared first on DevOps.com.",
@@ -39066,6 +39484,15 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=112173",
+          "author": "Max G. Levy",
+          "description": "Two teams have shown how quantum approaches can solve problems faster than classical computers, bringing physics and computer science closer together.            \nThe post Machine Learning Gets a Quantum Speedup first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/ai-gets-a-quantum-computing-speedup-20220204/",
+          "publishedOn": "2022-02-04T15:23:36.000Z",
+          "wordCount": 2536,
+          "title": "Machine Learning Gets a Quantum Speedup"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=112179",
           "author": "Leila Sloman",
           "description": "A team of mathematicians has solved an important question about how solutions to polynomial equations relate to sophisticated geometric objects called Shimura varieties.            \nThe post Mathematicians Prove 30-Year-Old André-Oort Conjecture first appeared on Quanta Magazine",
@@ -39705,6 +40132,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66761",
+          "author": "Nathan Yau",
+          "description": "For FiveThirtyEight, Simran Parwani and Kaleigh Rogers compared Groundhog Day predictions against actual…\nTags: FiveThirtyEight, Groundhog Day, prediction",
+          "link": "https://flowingdata.com/2022/02/04/accuracy-of-groundhog-weather-prediction/",
+          "publishedOn": "2022-02-04T09:00:15.000Z",
+          "wordCount": 357,
+          "title": "Accuracy of groundhog weather prediction"
+        },
         {
           "id": "https://flowingdata.com/?p=66765",
           "author": "Nathan Yau",
