@@ -769,6 +769,42 @@
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
         {
+          "id": "http://www.i-programmer.info/programming/hardware/15200-pi-iot-in-python-using-gpio-zero-compound-devices.html",
+          "author": null,
+          "description": "Most devices are complex with more than one function. To cope with these we need to build compound devices. In this extract from a new book on using GPIO Zero on the Pi in Python we look at how to get started.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/programming/hardware/15200-pi-iot-in-python-using-gpio-zero-compound-devices.html",
+          "publishedOn": "2022-02-07T17:50:13.000Z",
+          "wordCount": 936,
+          "title": "Pi IoT In Python Using GPIO Zero - Compound Devices"
+        },
+        {
+          "id": "http://www.i-programmer.info/news/150-training-a-education/15199-open-source-software-development-professional-certificate-on-edxlinux-.html",
+          "author": null,
+          "description": "The Linux Foundation has three new courses focused on developing open source software with Linux and Git on the edX platform. Take all three to earn a Professional Certificate.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/150-training-a-education/15199-open-source-software-development-professional-certificate-on-edxlinux-.html",
+          "publishedOn": "2022-02-07T15:43:04.000Z",
+          "wordCount": 1208,
+          "title": "Open Source Software Development Professional Certificate on edXLinux"
+        },
+        {
+          "id": "http://www.i-programmer.info/news/80-java/15198-groovy-4-improves-query-support.html",
+          "author": null,
+          "description": "Groovy 4 has been released with improvements including a new query language and support for switch expressions. The developers describe it as being designed for JDK8+ with much improved JPMS support. Groovy is an optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/80-java/15198-groovy-4-improves-query-support.html",
+          "publishedOn": "2022-02-07T14:58:14.000Z",
+          "wordCount": 771,
+          "title": "Groovy 4 Improves Query Support"
+        },
+        {
+          "id": "http://www.i-programmer.info/book-watch-archive/15197-murachs-java-programming-6th-ed-murach.html",
+          "author": null,
+          "description": "This book starts with a 9-chapter course that gets anyone off to a great start building object-oriented applications in Java. Joel Murach then builds on that base by presenting more on object-oriented programming, the essentials for developing GUIs, and additional skills that every professional Java programmer should have, including how to work with a database. By the end of the book, Murach has covered Java skills including developing object-oriented applications that use a graphical user interface (GUI) and a database.\n\r\n<ASIN:1943872872>\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/book-watch-archive/15197-murachs-java-programming-6th-ed-murach.html",
+          "publishedOn": "2022-02-07T14:53:41.000Z",
+          "wordCount": 474,
+          "title": "Murach's Java Programming 6th Ed (Murach)"
+        },
+        {
           "id": "http://www.i-programmer.info/news/169-robotics/15196-how-is-noa-doing-now.html",
           "author": null,
           "description": "Despite retaining \"his\" childlike appearance, at 18 NAO is almost a grown up. A recent paper looks at a decade's worth of Human-NAO Interaction Research which revealed that more than 13,000 NAO robots are used in more than 70 countries around the world.\n\r\n\nRead more...",
@@ -1754,6 +1790,24 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=363102",
+          "author": "Chris Coyier",
+          "description": "A little gradient generator tool from Tom Quinonero. You’d think fading one color to another would be an obvious, simple, solved problem — it’s actually anything but!\nTom’s generator does two things that help make a gradient better:\nYou \n…\nUsing Different Color Spaces for Non-Boring Gradients originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/color-spaces-for-more-interesting-css-gradients/",
+          "publishedOn": "2022-02-07T21:46:18.000Z",
+          "wordCount": 624,
+          "title": "Using Different Color Spaces for Non-Boring Gradients"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362616",
+          "author": "Stephanie Eckles",
+          "description": "Virtual conferences have changed the game in terms of how a presenter is able to deliver content to an audience. At a live event it’s likely you just have your laptop, but at home, you may have multiple monitors so …\nCSS Scroll Snap Slide Deck That Supports Live Coding originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/css-scroll-snap-slide-deck/",
+          "publishedOn": "2022-02-07T15:24:44.000Z",
+          "wordCount": 4367,
+          "title": "CSS Scroll Snap Slide Deck That Supports Live Coding"
+        },
         {
           "id": "https://css-tricks.com/?p=362799",
           "author": "Ganesh Dahal",
@@ -3831,6 +3885,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61fefcc0f2ed6b06db5ad6a9",
+          "author": "Peter Lynch",
+          "description": "It's not a big secret that building a developer portfolio can greatly increase your chances of getting hired. Everyone tells you that. But, they don't always tell you what makes a good one. You see, many portfolios are generic and rather uninspiring. If your portfolio looks just like everyone else's,",
+          "link": "https://www.freecodecamp.org/news/level-up-developer-portfolio/",
+          "publishedOn": "2022-02-07T18:38:59.000Z",
+          "wordCount": 2903,
+          "title": "How to Level Up Your Developer Portfolio"
+        },
+        {
+          "id": "61e5b6f7b837d507ba0a4acb",
+          "author": "Natalie Pina",
+          "description": "Optional chaining is a safe and concise way to perform access checks for nested object properties. The optional chaining operator ?. takes the reference to its left and checks if it is undefined or null. If the reference is either of these nullish values, the checks will stop and return",
+          "link": "https://www.freecodecamp.org/news/javascript-optional-chaining/",
+          "publishedOn": "2022-02-07T17:13:35.000Z",
+          "wordCount": 933,
+          "title": "How to Use Optional Chaining in JavaScript"
+        },
+        {
+          "id": "61d5437fd2d9de084285c32d",
+          "author": "Jessica Wilkins",
+          "description": "JSON (JavaScript Object Notation) is a popular way to structure data. It's used to exchange information between a web application and the server. But how do you read a JSON file in Python? In this article, I will show you how to use the json.loads() and json.load()  methods to",
+          "link": "https://www.freecodecamp.org/news/python-parse-json-how-to-read-a-json-file/",
+          "publishedOn": "2022-02-07T17:03:18.000Z",
+          "wordCount": 961,
+          "title": "Python Parse JSON – How to Read a JSON File"
+        },
+        {
+          "id": "61fd30e8f2ed6b06db5ac7af",
+          "author": "Dionysia Lemonaki",
+          "description": "In this article you'll see how to style a button using CSS. My goal here is mostly to showcase how different CSS rules and styles are applied and used. We won't see much design inspiration nor will we discuss ideas for styling. Instead, this will be more of an overview",
+          "link": "https://www.freecodecamp.org/news/css-button-style-hover-color-and-background/",
+          "publishedOn": "2022-02-07T15:56:18.000Z",
+          "wordCount": 1896,
+          "title": "CSS Button Style – Hover, Color, and Background"
+        },
+        {
+          "id": "61fd07ebf2ed6b06db5ac708",
+          "author": "Ihechikara Vincent Abba",
+          "description": "A loop in programming is a sequence of instructions that run continuously until a certain condition is met. In this article, we will learn about the for and forEach loops in Java. Syntax for a for loop in Java Here is the syntax for creating a for loop: for (initialization;",
+          "link": "https://www.freecodecamp.org/news/for-loop-in-java-foreach-loop-syntax-example/",
+          "publishedOn": "2022-02-07T15:08:46.000Z",
+          "wordCount": 855,
+          "title": "For Loop in Java + forEach Loop Syntax Example"
+        },
+        {
+          "id": "61e498cab837d507ba0a458a",
+          "author": "CESS",
+          "description": "If you're a web developer, you probably appreciate a well-designed and attractive website.  And you might see a color scheme or font on a specific website that you want to incorporate into your blog or web app. But you'll need a browser extension to see the website's color scheme",
+          "link": "https://www.freecodecamp.org/news/how-to-use-css-overview-in-chrome-developer-tools/",
+          "publishedOn": "2022-02-07T14:52:34.000Z",
+          "wordCount": 1549,
+          "title": "How to Use CSS Overview in Chrome Dev Tools"
+        },
+        {
+          "id": "61e07a60b837d507ba0a2136",
+          "author": "Periklis Gkolias",
+          "description": "I was watching the TV series, La Casa De Papel (Money Heist), on Netflix a few weeks ago. I realized that the story of the gang can reveal some best practices we should use while dealing with the security of the products we build. Beware – this text contains spoilers.",
+          "link": "https://www.freecodecamp.org/news/cybersecurity-lessons-from-money-heist-show/",
+          "publishedOn": "2022-02-07T14:49:47.000Z",
+          "wordCount": 1158,
+          "title": "What Can Money Heist Teach Us About Cybersecurity?"
+        },
         {
           "id": "61f8eea6f2ed6b06db5a9fd6",
           "author": "Nuno Bispo",
@@ -7250,6 +7367,150 @@
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
         {
+          "id": "https://hackernoon.com/5-best-low-code-development-platforms-in-2022?source=rss",
+          "author": "Alex Lashkov",
+          "description": "What Low-Code development platform to choose in 2022?",
+          "link": "https://hackernoon.com/5-best-low-code-development-platforms-in-2022?source=rss",
+          "publishedOn": "2022-02-07T15:37:34.000Z",
+          "wordCount": 1842,
+          "title": "5 Best Low-Code Development Platforms in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/why-streaming-has-not-conquered-the-world?source=rss",
+          "author": "David Deal",
+          "description": "Read this post to understand how the trials of Netflix and Spotify have underlined a reality about the fragility of the streaming industry.",
+          "link": "https://hackernoon.com/why-streaming-has-not-conquered-the-world?source=rss",
+          "publishedOn": "2022-02-07T15:09:21.000Z",
+          "wordCount": 2139,
+          "title": "Why Streaming Has Not Conquered the World"
+        },
+        {
+          "id": "https://hackernoon.com/the-facebook-business-model-might-die?source=rss",
+          "author": "Aleksandr Zakharov",
+          "description": "This article is in reply to \"How Much Internet Regulation Does Facebook Support?\"",
+          "link": "https://hackernoon.com/the-facebook-business-model-might-die?source=rss",
+          "publishedOn": "2022-02-07T12:28:51.000Z",
+          "wordCount": 1616,
+          "title": "The Facebook Business Model Might Die"
+        },
+        {
+          "id": "https://hackernoon.com/devops-and-technical-debt-a-guide-for-businesses?source=rss",
+          "author": "Hiren Dhaduk",
+          "description": "Let’s see how organizations should entwine some essential practices into various phases of the DevOps lifecycle to address the technical debt challenges.",
+          "link": "https://hackernoon.com/devops-and-technical-debt-a-guide-for-businesses?source=rss",
+          "publishedOn": "2022-02-07T12:18:01.000Z",
+          "wordCount": 1973,
+          "title": "DevOps and Technical Debt: A Guide for Businesses"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-the-filibuster-political-terms-every-american-should-know?source=rss",
+          "author": "Anthony Watson",
+          "description": "What are these weird parliamentary rules causing the United States to be broken?",
+          "link": "https://hackernoon.com/what-is-the-filibuster-political-terms-every-american-should-know?source=rss",
+          "publishedOn": "2022-02-07T03:00:24.000Z",
+          "wordCount": 2149,
+          "title": "What is the Filibuster? - Political Terms Every American Should Know"
+        },
+        {
+          "id": "https://hackernoon.com/5-most-profitable-industries-in-tech-in-2022-slogging-insights?source=rss",
+          "author": "Slogging (Slack Blogging)",
+          "description": "In this slogging thread, our community shared their guesses on the most profitable industries at the moment.",
+          "link": "https://hackernoon.com/5-most-profitable-industries-in-tech-in-2022-slogging-insights?source=rss",
+          "publishedOn": "2022-02-07T01:42:45.000Z",
+          "wordCount": 2022,
+          "title": "5 Most Profitable Industries in Tech in 2022 (Slogging Insights)"
+        },
+        {
+          "id": "https://hackernoon.com/understanding-b2b-marketing-with-jessica-moller?source=rss",
+          "author": "Slogging (Slack Blogging)",
+          "description": "In this AMA, Jessica Moller tells us all about personal branding, marketing trends, wellness, and her own company, Aligned Practitioner.",
+          "link": "https://hackernoon.com/understanding-b2b-marketing-with-jessica-moller?source=rss",
+          "publishedOn": "2022-02-07T01:42:29.000Z",
+          "wordCount": 2939,
+          "title": "Understanding B2B Marketing with Jessica Moller"
+        },
+        {
+          "id": "https://hackernoon.com/antivax-campaigns-glitches-in-the-matrix-and-political-correctness-in-comedy?source=rss",
+          "author": "Sara Pinto",
+          "description": "Sometimes, we find ourselves with some opinions that can be controversial. In this slogging thread, the unpopular opinion channel discussed some of them.",
+          "link": "https://hackernoon.com/antivax-campaigns-glitches-in-the-matrix-and-political-correctness-in-comedy?source=rss",
+          "publishedOn": "2022-02-07T01:05:08.000Z",
+          "wordCount": 2539,
+          "title": "Antivax Campaigns, Glitches in the Matrix and Political Correctness in Comedy"
+        },
+        {
+          "id": "https://hackernoon.com/reversing-nodejs-malware-part-2-analysing-the-source-code?source=rss",
+          "author": "The Devops Guy",
+          "description": "Following my last article about a Discord malware, we now take a deeper look inside the inner workings of the PirateStealer malware.",
+          "link": "https://hackernoon.com/reversing-nodejs-malware-part-2-analysing-the-source-code?source=rss",
+          "publishedOn": "2022-02-06T22:00:20.000Z",
+          "wordCount": 1915,
+          "title": "Analyzing the Source Code of Popular Desktop Apps for NodeJS Malware. Part2"
+        },
+        {
+          "id": "https://hackernoon.com/is-the-programming-market-oversaturated?source=rss",
+          "author": "Aleksandr Zakharov",
+          "description": "Every so often I hear that the programming market will be saturated eventually and we are all going to end up on the streets. Is this really true?",
+          "link": "https://hackernoon.com/is-the-programming-market-oversaturated?source=rss",
+          "publishedOn": "2022-02-06T21:52:12.000Z",
+          "wordCount": 1490,
+          "title": "Is the Programming Market Oversaturated?"
+        },
+        {
+          "id": "https://hackernoon.com/impress-your-friends-with-these-30-nft-and-web3-acronyms?source=rss",
+          "author": "Patrick Widen",
+          "description": "An easy-to-read introduction to the major terms and concepts of web3 and NFTs",
+          "link": "https://hackernoon.com/impress-your-friends-with-these-30-nft-and-web3-acronyms?source=rss",
+          "publishedOn": "2022-02-06T21:20:14.000Z",
+          "wordCount": 2010,
+          "title": "Impress Your Friends with these 30 NFT and Web3 Acronyms"
+        },
+        {
+          "id": "https://hackernoon.com/9-javascript-design-patters-you-will-love?source=rss",
+          "author": "Pedro Henrique",
+          "description": "Design patterns are reusable solutions for common problems that occur during software development. Here are my 9 favorite design patterns for JavaScript",
+          "link": "https://hackernoon.com/9-javascript-design-patters-you-will-love?source=rss",
+          "publishedOn": "2022-02-06T21:13:12.000Z",
+          "wordCount": 5520,
+          "title": "9 JavaScript Design Patterns You Will Love"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-build-a-decoupled-microservices-using-materialize?source=rss",
+          "author": "Bobby Iliev",
+          "description": "One way to handle data in microservice architectures is to use decoupled microservices architecture. This form of architecture can bring many benefits.",
+          "link": "https://hackernoon.com/how-to-build-a-decoupled-microservices-using-materialize?source=rss",
+          "publishedOn": "2022-02-06T20:26:01.000Z",
+          "wordCount": 2131,
+          "title": "How to Build a Decoupled Microservice Using Materialize"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-write-better-tests-and-prevent-flaky-tests?source=rss",
+          "author": "Aleksandr Kozhenkov",
+          "description": "Flaky tests ruin the development experience. In this article, we will talk about how to avoid creating such tests.",
+          "link": "https://hackernoon.com/how-to-write-better-tests-and-prevent-flaky-tests?source=rss",
+          "publishedOn": "2022-02-06T20:11:08.000Z",
+          "wordCount": 1662,
+          "title": "How to Write Better Tests and Prevent Flaky Tests"
+        },
+        {
+          "id": "https://hackernoon.com/build-a-single-page-web3-app-with-vue-3-vite-and-pinia?source=rss",
+          "author": "Pineview.io",
+          "description": "A complete how-to guide on creating, testing, and deploying an example bookstore application with Vue 3, Vite, Pinia, Nightwatch",
+          "link": "https://hackernoon.com/build-a-single-page-web3-app-with-vue-3-vite-and-pinia?source=rss",
+          "publishedOn": "2022-02-06T20:01:53.000Z",
+          "wordCount": 5682,
+          "title": "Build a Single Page Web3 App with Vue 3, Vite and Pinia"
+        },
+        {
+          "id": "https://hackernoon.com/launching-on-ph-the-open-source-shopify-alternative?source=rss",
+          "author": "Medusa",
+          "description": "Launch of our nodejs based open source headless commerce platform, Medusa. A developer-focused platform aimed to give you full control of your commerce stack",
+          "link": "https://hackernoon.com/launching-on-ph-the-open-source-shopify-alternative?source=rss",
+          "publishedOn": "2022-02-06T17:38:17.000Z",
+          "wordCount": 1601,
+          "title": "Launching on PH: the Open Source Shopify Alternative"
+        },
+        {
           "id": "https://hackernoon.com/what-is-the-best-pokemon-fusion?source=rss",
           "author": "Sara Pinto",
           "description": "In this slogging thread, the gaming community discovered a website where we could experience Pokémon fusions, and we discussed which one was the best.",
@@ -7644,6 +7905,15 @@
           "publishedOn": "2022-02-04T08:27:42.000Z",
           "wordCount": 2158,
           "title": "5 Ways Data Quality can Impact your AI Solution"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-build-an-image-search-engine-to-find-similar-images?source=rss",
+          "author": "EORA",
+          "description": "After reading this article, you will be able to create a search engine for similar images for your objective from scratch",
+          "link": "https://hackernoon.com/how-to-build-an-image-search-engine-to-find-similar-images?source=rss",
+          "publishedOn": "2022-02-04T08:20:41.000Z",
+          "wordCount": 4553,
+          "title": "How to Build an Image Search Engine to Find Similar Images"
         },
         {
           "id": "https://hackernoon.com/what-is-a-developers-worst-enemy?source=rss",
@@ -22778,6 +23048,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=148876",
+          "author": "ACMer",
+          "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms Given a 0-indexed integer array nums, return true if it can be made strictly increasing after removing exactly one element, or...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-remove-one-element-to-make-the-array-strictly-increasing-lis-algorithms/",
+          "publishedOn": "2022-02-07T21:25:31.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Remove One Element to Make the Array Strictly Increasing (LIS Algorithms)",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=148855",
           "author": "ACMer",
           "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms You are given a 0-indexed integer array nums. Rearrange the values of nums according to the following rules: Sort the values at odd...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -23834,6 +24114,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=518839",
+          "author": "Michael Shaub",
+          "description": "Fire up those 3D printers because if you’re like us, you’ll want your own PlottyBot. Still, have a pile of “thank you notes” to write from recent winter holiday gift …read more",
+          "link": "https://hackaday.com/2022/02/07/plottybot-a-drawbot-that-plots-a-lot/",
+          "publishedOn": "2022-02-08T00:00:38.000Z",
+          "wordCount": 1132,
+          "title": "PlottyBot: A DrawBot That Plots a Lot"
+        },
+        {
+          "id": "https://hackaday.com/?p=518883",
+          "author": "Chris Lott",
+          "description": "Among his many interests, [Dave Jones] likes test and measurement equipment. He recently posted a few videos on his EEVblog exploring the reasons why Fluke voltmeters are so expensive. In the …read more",
+          "link": "https://hackaday.com/2022/02/07/fluke-dmm-hack-adds-one-digit-to-model-number/",
+          "publishedOn": "2022-02-07T21:00:45.000Z",
+          "wordCount": 1721,
+          "title": "Fluke DMM Hack Adds One Digit to Model Number"
+        },
+        {
+          "id": "https://hackaday.com/?p=518940",
+          "author": "Robin Kearey",
+          "description": "Introduced in 1984, the Psion Organiser series defined the first generation of electronic organizers or PDAs (personal digital assistants). Even though these devices are now over 30 years old, the …read more",
+          "link": "https://hackaday.com/2022/02/07/arduino-nano-adds-usb-interface-to-the-psion-organiser-ii/",
+          "publishedOn": "2022-02-07T19:30:45.000Z",
+          "wordCount": 1169,
+          "title": "Arduino Nano Adds USB Interface to the Psion Organiser II"
+        },
+        {
+          "id": "https://hackaday.com/?p=517856",
+          "author": "Maya Posch",
+          "description": "Crimp connectors provide an easy and convenient way to connect electronics while still allowing for them to be removed and swapped without having to reach for a soldering iron and …read more",
+          "link": "https://hackaday.com/2022/02/07/crimping-tools-and-the-cost-of-being-cheap/",
+          "publishedOn": "2022-02-07T18:00:06.000Z",
+          "wordCount": 8338,
+          "title": "Crimping Tools And The Cost Of Being Cheap"
+        },
+        {
+          "id": "https://hackaday.com/?p=518142&preview=true&preview_id=518142",
+          "author": "Dan Maloney",
+          "description": "Join us on Wednesday, February 9 at noon Pacific for the Pick and Place Hack Chat with Chris Denney! We in the hacker trade are pretty used to miracles — …read more",
+          "link": "https://hackaday.com/2022/02/07/pick-and-place-hack-chat/",
+          "publishedOn": "2022-02-07T17:00:57.000Z",
+          "wordCount": 1173,
+          "title": "Pick and Place Hack Chat"
+        },
+        {
+          "id": "https://hackaday.com/?p=518786",
+          "author": "Dave Rowntree",
+          "description": "A lamp used to be simple thing: just stick a filament in a glass bulb, pass a current through it and behold! Let there be light. A bigger lamp meant …read more",
+          "link": "https://hackaday.com/2022/02/07/is-your-flashlight-a-lumen-liar-build-a-diy-integrating-sphere/",
+          "publishedOn": "2022-02-07T16:00:12.000Z",
+          "wordCount": 1398,
+          "title": "Is Your Flashlight a Lumen Liar? Build a DIY Integrating Sphere"
+        },
+        {
+          "id": "https://hackaday.com/?p=517828",
+          "author": "Chris Lott",
+          "description": "Back in the late 80s, our company managed to procure the complete 28 volume MIT Radiation Laboratory (Rad Lab) series, published in 1947, for the company library. To me, these …read more",
+          "link": "https://hackaday.com/2022/02/07/remembering-the-mit-radiation-laboratory/",
+          "publishedOn": "2022-02-07T15:00:20.000Z",
+          "wordCount": 3479,
+          "title": "Remembering the MIT Radiation Laboratory"
+        },
         {
           "id": "https://hackaday.com/?p=518177&preview=true&preview_id=518177",
           "author": "Dan Maloney",
@@ -31186,6 +31529,76 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "75D9C5F7-22F9-4448-B76A4F51D558EFB3",
+          "author": "Anne C. Mulkern, E&E News",
+          "description": "Without enough capacity to meet demand, energy utilities may have to stage rolling blackouts during heat waves\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/spikes-in-air-conditioning-use-with-warming-could-tax-electric-grid/",
+          "publishedOn": "2022-02-07T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Spikes in Air Conditioning Use with Warming Could Tax Electric Grid",
+          "itunes": {}
+        },
+        {
+          "id": "76E1C748-D6C5-4D26-A01427CDDB491D8A",
+          "author": "Jennifer M. Mitchell",
+          "description": "MDMA, known as Ecstasy in the clubs, gained high marks in a clinical trial for PTSD\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/a-psychedelic-may-soon-go-to-the-fda-for-approval-to-treat-trauma/",
+          "publishedOn": "2022-02-07T18:30:00.000Z",
+          "wordCount": null,
+          "title": "A Psychedelic May Soon Go to the FDA for Approval to Treat Trauma",
+          "itunes": {}
+        },
+        {
+          "id": "BEE421DD-2D63-45A4-BB373AFDCB785B4F",
+          "author": "Bret Stetka",
+          "description": "A new system that targets specific spinal nerves restored motor function quickly in three patients unable to move their legs or trunk\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/spinal-stimulation-helps-people-with-paralysis-walk-canoe-and-stand-at-a-bar/",
+          "publishedOn": "2022-02-07T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Spinal Stimulation Helps People with Paralysis Walk, Canoe and Stand at a Bar",
+          "itunes": {}
+        },
+        {
+          "id": "2BB769A9-1B1D-45F5-85B81579EF4F44AC",
+          "author": "Josephine Latu-Sanft",
+          "description": "As the country rebuilds, its leaders need to plan for natural disasters and climate change\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-tongan-volcano-is-a-reminder-of-island-nations-vulnerabilities/",
+          "publishedOn": "2022-02-07T15:00:00.000Z",
+          "wordCount": null,
+          "title": "The Tongan Volcano Is a Reminder of Island Nations' Vulnerabilities",
+          "itunes": {}
+        },
+        {
+          "id": "C7F72A47-2CAC-455A-A3FE6591A10786D5",
+          "author": "Robin Lloyd",
+          "description": "Hamsters eating Cocoa Krispies reveal inflammation pathways from the olfactory system to the brain\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/covid-smell-loss-and-long-covid-linked-to-inflammation1/",
+          "publishedOn": "2022-02-07T14:00:00.000Z",
+          "wordCount": null,
+          "title": "COVID Smell Loss and Long COVID Linked to Inflammation",
+          "itunes": {}
+        },
+        {
+          "id": "58B26420-46CA-4A43-957A24D59FAE778B",
+          "author": "Peter Sutoris",
+          "description": "Our current innovation policies aim to preserve the way we live now, rather than what would do the least damage\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/our-environmental-crisis-requires-political-fixes-not-technological-ones/",
+          "publishedOn": "2022-02-07T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Our Environmental Crisis Requires Political Fixes, Not Technological Ones",
+          "itunes": {}
+        },
+        {
+          "id": "2451925C-3261-46A9-92C101784BE6F78F",
+          "author": "Isobel Whitcomb",
+          "description": "Dams mop up debris that would otherwise kill fish and other downstream wildlife, new observations suggest\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/beaver-dams-help-wildfire-ravaged-ecosystems-recover-long-after-flames-subside/",
+          "publishedOn": "2022-02-07T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Beaver Dams Help Wildfire-Ravaged Ecosystems Recover Long after Flames Subside",
+          "itunes": {}
+        },
+        {
           "id": "2A0EE41A-CDFC-4907-BCE2511F2AD13F1D",
           "author": "Nikk Ogasa",
           "description": "Top news from around the world\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -37240,6 +37653,42 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=149729",
+          "author": "Mike Vizard",
+          "description": "Codenotary has launched a Codenotary Cloud platform that can automatically generate a software bill of materials (SBOM) and make it easier to discover what components have been included in an application. Moshe Bar, Codenotary CEO, said that capability can also play a key role in identifying which components in an application might contain, for example, […]\nThe post Codenotary Launches Cloud Service to Generate SBOMs appeared first on DevOps.com.",
+          "link": "https://devops.com/codenotary-launches-cloud-service-to-generate-sboms/",
+          "publishedOn": "2022-02-07T14:54:43.000Z",
+          "wordCount": 1014,
+          "title": "Codenotary Launches Cloud Service to Generate SBOMs"
+        },
+        {
+          "id": "https://devops.com/?p=149691",
+          "author": "Harshil Parikh",
+          "description": "DevOps culture and rapid cloud adoption mean developers are shipping code faster than ever and, in many cases, security teams struggle to keep up. To avoid relegating security to afterthought status, organizations must shift left and adopt a developer-first approach to application security (AppSec). Organizations that depend on software development need a solution that accomplishes […]\nThe post Why Developer-First is the Future of AppSec appeared first on DevOps.com.",
+          "link": "https://devops.com/why-developer-first-is-the-future-of-application-security-and-how-to-choose-a-platform/",
+          "publishedOn": "2022-02-07T08:00:40.000Z",
+          "wordCount": 1339,
+          "title": "Why Developer-First is the Future of AppSec"
+        },
+        {
+          "id": "https://devops.com/?p=149684",
+          "author": "Rob Zuber",
+          "description": "In my 20 years leading software development teams, I’ve witnessed the industry’s continuous growth alongside technology’s evolution. As we enter 2022, the only thing we know for certain is that the industry will continue to change and winning businesses will be those that build with change in mind, backed by effective, fast-moving software teams. This […]\nThe post 4 Ways to Uplevel Your Software Engineering Team in 2022 appeared first on DevOps.com.",
+          "link": "https://devops.com/4-ways-to-uplevel-your-software-engineering-team-in-2022/",
+          "publishedOn": "2022-02-07T07:30:31.000Z",
+          "wordCount": 1242,
+          "title": "4 Ways to Uplevel Your Software Engineering Team in 2022"
+        },
+        {
+          "id": "https://devops.com/?p=149725",
+          "author": "ROELBOB",
+          "description": "The post Credible Crypto appeared first on DevOps.com.",
+          "link": "https://devops.com/credible-crypto/",
+          "publishedOn": "2022-02-07T07:00:21.000Z",
+          "wordCount": 437,
+          "title": "Credible Crypto"
+        },
+        {
           "id": "https://devops.com/?p=149700",
           "author": "Mike Vizard",
           "description": "WhiteSource has added the Microsoft Azure DevOps platform to the list of continuous integration/continuous delivery (CI/CD) platforms its open source vulnerability scanning tools natively supports. Susan St. Clair, director of product management for WhiteSource, said while developers are always encouraged to scan for vulnerabilities, it’s more effective if organizations implement scanning by default every time […]\nThe post WhiteSource Tightens Code Scanning Tool Integration with Azure DevOps appeared first on DevOps.com.",
@@ -40028,6 +40477,15 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=112374",
+          "author": "Charlie Wood",
+          "description": "If only scientists understood exactly how electrons act in molecules, they’d be able to predict the behavior of everything from experimental drugs to high-temperature superconductors. Following decades of physics-based insights, artificial intelligence systems are taking the next leap.            \nThe post Quantum Complexity Tamed by Machine Learning first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/quantum-complexity-tamed-by-machine-learning-20220207/",
+          "publishedOn": "2022-02-07T15:54:09.000Z",
+          "wordCount": 2619,
+          "title": "Quantum Complexity Tamed by Machine Learning"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=112173",
           "author": "Max G. Levy",
           "description": "Two teams have shown how quantum approaches can solve problems faster than classical computers, bringing physics and computer science closer together.            \nThe post Machine Learning Gets a Quantum Speedup first appeared on Quanta Magazine",
@@ -40676,6 +41134,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66789",
+          "author": "Nathan Yau",
+          "description": "Walk into a boba shop and usually you’ll see a large menu that…\nTags: boba, combinations, Daisy Chung, Julia Janicki",
+          "link": "https://flowingdata.com/2022/02/07/bubble-tea-combinations-a-visual-breakdown/",
+          "publishedOn": "2022-02-07T08:12:27.000Z",
+          "wordCount": 284,
+          "title": "Bubble tea combinations, a visual breakdown"
+        },
         {
           "id": "https://flowingdata.com/?p=66761",
           "author": "Nathan Yau",
@@ -42365,15 +42832,6 @@
           "publishedOn": "2021-02-17T08:00:00.000Z",
           "wordCount": 1754,
           "title": "Taking a chance on others, and yourself"
-        },
-        {
-          "id": "https://github.com/readme/stories/angie-jones",
-          "author": null,
-          "description": "Angie Jones has 26 patented inventions, including one for time travel! She’s also an automation architect, international keynote speaker, Java Champion, and GitHub Star.",
-          "link": "https://github.com/readme/stories/angie-jones",
-          "publishedOn": "2021-02-08T08:00:00.000Z",
-          "wordCount": 1994,
-          "title": "My differences are my superpowers"
         }
       ]
     },
