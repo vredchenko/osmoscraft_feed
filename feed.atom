@@ -2,10 +2,601 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2022-02-08T01:13:04.163Z</updated>
+    <updated>2022-02-09T01:16:34.631Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Tuning Fork Clock, With Discreet Logic]]></title>
+        <id>https://hackaday.com/?p=519078</id>
+        <link href="https://hackaday.com/2022/02/08/a-tuning-fork-clock-with-discreet-logic/"/>
+        <updated>2022-02-09T00:00:30.000Z</updated>
+        <summary type="html"><![CDATA[[Willem Koopman aka Secretbatcave] was looking at a master clock he has in his collection which was quite a noisy device, but wanted to use the matching solenoid slave clock …read more]]></summary>
+        <author>
+            <name>Dave Rowntree</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printed Maglev Switches Are So Hot Right Now]]></title>
+        <id>https://hackaday.com/?p=517950</id>
+        <link href="https://hackaday.com/2022/02/08/3d-printed-maglev-switches-are-so-hot-right-now/"/>
+        <updated>2022-02-08T21:00:23.000Z</updated>
+        <summary type="html"><![CDATA[It doesn’t happen all the time, but over the years we’ve noticed that once we feature a project, a number of very similar builds often find themselves in our tip …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Motion Isn’t Always prefers-reduced-motion]]></title>
+        <id>https://css-tricks.com/?p=363057</id>
+        <link href="https://css-tricks.com/nuking-motion-with-prefers-reduced-motion/"/>
+        <updated>2022-02-08T20:55:51.000Z</updated>
+        <summary type="html"><![CDATA[There is a code snippet that I see all the time when the media query prefers-reduced-motion is talked about. Here it is:
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  
+…
+No Motion Isn’t Always prefers-reduced-motion originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mountain Glaciers Have Less Ice than Previously Thought]]></title>
+        <id>FD27C584-E9F0-4E1D-87A81E68D91412F1</id>
+        <link href="https://www.scientificamerican.com/article/mountain-glaciers-have-less-ice-than-previously-thought/"/>
+        <updated>2022-02-08T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Some communities may run out of fresh water faster than expected
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Chelsea Harvey, ClimateWire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cast a Function in SQL – Convert Char to Int SQL Server Example]]></title>
+        <id>6200d99bf2ed6b06db5ae8aa</id>
+        <link href="https://www.freecodecamp.org/news/cast-a-function-in-sql-convert-char-to-int-sql-server-example/"/>
+        <updated>2022-02-08T19:35:48.000Z</updated>
+        <summary type="html"><![CDATA[Converting from one data type to another is a common operation you'll perform when working in databases.  And SQL provides a useful utility known as CAST to achieve this. We'll see how it works in this article. What is the CAST Function in SQL? CAST enables us to convert]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a CSS-Only Ribbon for Your Website]]></title>
+        <id>6200d9e8f2ed6b06db5ae8ae</id>
+        <link href="https://www.freecodecamp.org/news/make-a-css-only-ribbon/"/>
+        <updated>2022-02-08T19:33:59.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever noticed those fancy ribbons on websites that alert users to some special feature or event? They're great to have, but for many developers, it's a nightmare to create them.  You can easily find a lot of ready-to-use code for such a component, but they are not]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Palm Portable Keyboard Goes Wireless]]></title>
+        <id>https://hackaday.com/?p=519019</id>
+        <link href="https://hackaday.com/2022/02/08/palm-portable-keyboard-goes-wireless/"/>
+        <updated>2022-02-08T19:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Long ago when digital portables where in their infancy, people were already loath to type on tiny keyboards, stylus or not. So Palm made a sweet little portable keyboard that …read more]]></summary>
+        <author>
+            <name>Kristina Panos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Enhance Nmap with Python]]></title>
+        <id>61fe8960f2ed6b06db5ad178</id>
+        <link href="https://www.freecodecamp.org/news/enhance-nmap-with-python/"/>
+        <updated>2022-02-08T19:28:43.000Z</updated>
+        <summary type="html"><![CDATA[Very few pieces of Open Source software generate so much hype [https://nmap.org/movies/] as Nmap [https://nmap.org/]. It is one of those tools that packs in so many useful features that it can help you make your systems more secure by just running it with a few flags. Nmap ("Network Mapper") is]]></summary>
+        <author>
+            <name>Jose Vicente Nunez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROW_NUMBER in SQL – Select Top Example in SQL and SQL Server]]></title>
+        <id>620002cff2ed6b06db5ae51b</id>
+        <link href="https://www.freecodecamp.org/news/row_number-in-sql-select-top-example-in-sql-and-sql-server2/"/>
+        <updated>2022-02-08T19:14:49.000Z</updated>
+        <summary type="html"><![CDATA[SQL, or structured query language, lets us gather data from a database through queries. It also enables us to insert, update, and delete that data.  In this blog post, we will focus on how to fetch data and limit the results using SQL.  Why should you limit SQL]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java Operator – &amp;, &amp;&amp; (AND) || (OR) Logical Operators]]></title>
+        <id>6200d9eff2ed6b06db5ae8b2</id>
+        <link href="https://www.freecodecamp.org/news/java-operator-and-or-logical-operators/"/>
+        <updated>2022-02-08T18:38:13.000Z</updated>
+        <summary type="html"><![CDATA[We use operators in most programming languages to perform operations on variables.  They are divided into various categories like arithmetic operators, assignment operators, comparison operators, logical operators, and so on.  In this article, we will be talking about the bitwise AND operator, and the AND  (&&) and]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Figure skating animated jumps]]></title>
+        <id>https://flowingdata.com/?p=66800</id>
+        <link href="https://flowingdata.com/2022/02/08/figure-skating-animated-jumps/"/>
+        <updated>2022-02-08T18:09:51.000Z</updated>
+        <summary type="html"><![CDATA[Figure skater Nathan Chen set a world record with his performance in the…
+Tags: Nathan Chen, New York Times, Olympics, sports]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Industrial Sewing Machine: Acquired]]></title>
+        <id>https://hackaday.com/?p=518386</id>
+        <link href="https://hackaday.com/2022/02/08/industrial-sewing-machine-acquired/"/>
+        <updated>2022-02-08T18:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Well, it’s done. After weeks of trawling Craigslist, an hour-long phone call with an intelligent stranger about a different machine that wasn’t going suit my needs, and a two-week delay …read more]]></summary>
+        <author>
+            <name>Kristina Panos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Language for Digital Transformation]]></title>
+        <id>https://devops.com/?p=149770</id>
+        <link href="https://devops.com/a-new-language-for-digital-transformation/"/>
+        <updated>2022-02-08T17:37:02.000Z</updated>
+        <summary type="html"><![CDATA[Charlene O’Hanlon and Rich Nanda discuss a new Deloitte study, “A New Language for Digital Transformation,” which explores why so many transformations fail to deliver concrete impact. The video is below followed by a complete transcript of the conversation.   Announcer: This is Digital Anarchist. Charlene O’Hanlon: Welcome back to Techstrong TV. I’m Charlene O’Hanlon […]
+The post A New Language for Digital Transformation appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Charlene O'Hanlon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Video – How to Embed a Video Player with the HTML 5 Video Tag]]></title>
+        <id>6200fe06f2ed6b06db5aeafe</id>
+        <link href="https://www.freecodecamp.org/news/html-video-how-to-embed-a-video-player-with-the-html-5-video-tag/"/>
+        <updated>2022-02-08T16:59:19.000Z</updated>
+        <summary type="html"><![CDATA[Before the advent of HTML 5, web developers had to embed video on a web page with a plugin like Adobe flash player. Today, you can easily embed videos in an HTML document with the <video> tag. In this article, we'll see how the <video> tag works in HTML. Table]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IBM Eagle Has A Lot of Qubits]]></title>
+        <id>https://hackaday.com/?p=518960</id>
+        <link href="https://hackaday.com/2022/02/08/ibm-eagle-has-a-lot-of-qubits/"/>
+        <updated>2022-02-08T16:30:37.000Z</updated>
+        <summary type="html"><![CDATA[How many qubits do you need in a quantum computer? Plenty, if you want to anything useful. However, today, we have to settle for a lot fewer than we would …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Rich Library with Python]]></title>
+        <id>61ff5115f2ed6b06db5adab7</id>
+        <link href="https://www.freecodecamp.org/news/use-the-rich-library-in-python/"/>
+        <updated>2022-02-08T16:15:49.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll learn about a powerful library for Python called Rich [https://rich.readthedocs.io/en/stable/introduction.html]. Rich is a Python library for writing rich text (with color and style) to the terminal. It lets you display advanced content such as tables, markdown, and syntax-highlighted code. So, why is this useful? Well, if]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[100 Years Ago, a Quantum Experiment Explained Why We Don't Fall through Our Chairs]]></title>
+        <id>6826DA34-ECDB-4606-8A47B93923CB2A90</id>
+        <link href="https://www.scientificamerican.com/article/100-years-ago-a-quantum-experiment-explained-why-we-dont-fall-through-our-chairs/"/>
+        <updated>2022-02-08T16:15:00.000Z</updated>
+        <summary type="html"><![CDATA[The basic concept of quantum spin provides an understanding of a vast range of physical phenomena
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Davide Castelvecchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surprise Fossil-Munching Sponges Found in Arctic Seafloor Wasteland]]></title>
+        <id>A939F003-7382-402E-A78FEA891F185732</id>
+        <link href="https://www.scientificamerican.com/article/surprise-fossil-munching-sponges-found-in-arctic-seafloor-wasteland/"/>
+        <updated>2022-02-08T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The colony thrives in a frigid ocean covered by ice year-round
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Jack Tamisiea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swift and C++ Interoperability Workgroup Announced]]></title>
+        <id>http://www.i-programmer.info/news/98-languages/15203-swift-and-c-interoperability-workgroup-announced.html</id>
+        <link href="http://www.i-programmer.info/news/98-languages/15203-swift-and-c-interoperability-workgroup-announced.html"/>
+        <updated>2022-02-08T15:49:25.000Z</updated>
+        <summary type="html"><![CDATA[The Swift community has announced the formation of a workgroup the aim of which is to advance the interoperability support between Swift, the language originally developed by Apple as an alternative language to Objective C, and C++. 
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Season Of Docs 2022 Announced]]></title>
+        <id>http://www.i-programmer.info/news/136-open-source/15202-season-of-docs-2022-announced.html</id>
+        <link href="http://www.i-programmer.info/news/136-open-source/15202-season-of-docs-2022-announced.html"/>
+        <updated>2022-02-08T15:44:46.000Z</updated>
+        <summary type="html"><![CDATA[The 2022 Season of Docs has been announced. The project, which is supported by Google, aims to bring open source organizations and technical writers together. Participating projects receive funds to create, improve, or expand their documentation, while Google benefits by increased knowledge of effective metrics for evaluating open source documentation.
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replace JavaScript Dialogs With the New HTML Dialog Element]]></title>
+        <id>https://css-tricks.com/?p=362672</id>
+        <link href="https://css-tricks.com/replace-javascript-dialogs-html-dialog-element/"/>
+        <updated>2022-02-08T15:09:40.000Z</updated>
+        <summary type="html"><![CDATA[You know how there are JavaScript dialogs for alerting, confirming, and prompting user actions? Say you want to replace JavaScript dialogs with the new HTML dialog element.
+Let me explain.
+I recently worked on a project with a lot of …
+Replace JavaScript Dialogs With the New HTML Dialog Element originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Mads Stoumann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netlify Has Scheduled Functions]]></title>
+        <id>https://css-tricks.com/?p=363380</id>
+        <link href="https://css-tricks.com/netlify-has-scheduled-functions/"/>
+        <updated>2022-02-08T15:08:47.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Hey! Scheduled Functions are cool! Think of them like a CRON job. I want this code to run every Monday at 2pm. I want this code run every hour on the hour. That kind …
+Netlify Has Scheduled Functions originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hair Today Gone Tomorrow: Four Men Go To Fix A Wafer Prober]]></title>
+        <id>https://hackaday.com/?p=516167</id>
+        <link href="https://hackaday.com/2022/02/08/hair-today-gone-tomorrow-four-men-go-to-fix-a-wafer-prober/"/>
+        <updated>2022-02-08T15:00:15.000Z</updated>
+        <summary type="html"><![CDATA[I’ve had a fairly varied early part of my career in the semiconductors business: a series of events caused me to jump disciplines a little bit, and after one such …read more]]></summary>
+        <author>
+            <name>Dave Rowntree</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Ancient Geometry Problem Falls to New Mathematical Techniques]]></title>
+        <id>https://www.quantamagazine.org/?p=112408</id>
+        <link href="https://www.quantamagazine.org/an-ancient-geometry-problem-falls-to-new-mathematical-techniques-20220208/"/>
+        <updated>2022-02-08T14:58:36.000Z</updated>
+        <summary type="html"><![CDATA[Three mathematicians show, for the first time, how to form a square with the same area as a circle by cutting them into interchangeable pieces that can be visualized.            
+The post An Ancient Geometry Problem Falls to New Mathematical Techniques first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Steve Nadis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The High-Speed Physics of Olympic Sledding, Explained]]></title>
+        <id>25F9ECCE-B439-497D-B36D522CFCD31F18</id>
+        <link href="https://www.scientificamerican.com/article/the-high-speed-physics-of-olympic-sledding-explained/"/>
+        <updated>2022-02-08T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There is more to the bobsled, luge and skeleton events than merely sliding down steep, icy slopes
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>John Eric Goff, The Conversation US</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Sneezing Hamsters Sparked a COVID Outbreak in Hong Kong]]></title>
+        <id>58B7C6A3-3510-4D8F-B485FDB5FB656D39</id>
+        <link href="https://www.scientificamerican.com/article/how-sneezing-hamsters-sparked-a-covid-outbreak-in-hong-kong/"/>
+        <updated>2022-02-08T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hamsters are only the second species known to have spread SARS-CoV-2 to humans
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Smriti Mallapaty, Nature magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Invisible 3D Printed Codes Make Objects Interactive]]></title>
+        <id>https://hackaday.com/?p=518841</id>
+        <link href="https://hackaday.com/2022/02/08/invisible-3d-printed-codes-make-objects-interactive/"/>
+        <updated>2022-02-08T12:00:20.000Z</updated>
+        <summary type="html"><![CDATA[An interesting research project out of MIT shows that it’s possible to embed machine-readable labels into 3D printed objects using nothing more than an FDM printer and filament that is …read more]]></summary>
+        <author>
+            <name>Donald Papp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turbulence Equations Discovered after Century-Long Quest]]></title>
+        <id>3C6D08E7-D0A9-4E97-8517452F92864E18</id>
+        <link href="https://www.scientificamerican.com/article/turbulence-equations-discovered-after-century-long-quest/"/>
+        <updated>2022-02-08T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The formulas describe the complex behavior of a liquid when it meets a boundary
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Rachel Crowell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving electric vehicle adoption rates]]></title>
+        <id>https://flowingdata.com/?p=66794</id>
+        <link href="https://flowingdata.com/2022/02/08/improving-electric-vehicle-adoption-rates/"/>
+        <updated>2022-02-08T10:52:47.000Z</updated>
+        <summary type="html"><![CDATA[Gas-powered vehicles contribute a big part of total carbon production, so to get…
+Tags: electric vehicle, Reuters]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[atomberhadiah]]></title>
+        <id>https://atom.io/packages/atomberhadiah</id>
+        <link href="https://atom.io/packages/atomberhadiah"/>
+        <updated>2022-02-08T10:12:37.000Z</updated>
+        <summary type="html"><![CDATA[atomberhadiah package
+A short description of your package.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Strict Mode vs. Bad Programming Practices]]></title>
+        <id>https://hackernoon.com/javascript-strict-mode-vs-bad-programming-practices?source=rss</id>
+        <link href="https://hackernoon.com/javascript-strict-mode-vs-bad-programming-practices?source=rss"/>
+        <updated>2022-02-08T08:15:16.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript Strict mode is used to turn mistakes into errors for easier debugging and to help you write better code.]]></summary>
+        <author>
+            <name>John Palmgren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Evolution of Incident Management]]></title>
+        <id>https://devops.com/?p=149711</id>
+        <link href="https://devops.com/the-evolution-of-incident-management/"/>
+        <updated>2022-02-08T08:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever thought about the history of incident management? If you’re an SRE, you might be so caught up in the day-to-day work of managing reliability and responding to incidents that you never take time to step back and reflect on the evolution of your role and your responsibilities. And that’s a shame because […]
+The post The Evolution of Incident Management appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>JJ Tang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Stream Processing Goes Beyond Real-Time]]></title>
+        <id>https://devops.com/?p=149530</id>
+        <link href="https://devops.com/how-stream-processing-goes-beyond-real-time/"/>
+        <updated>2022-02-08T07:30:57.000Z</updated>
+        <summary type="html"><![CDATA[How fast is real-time? According to Robert Miller’s 1968 seminal study on human-computer interaction, we perceive a response time of 100 milliseconds or less as instantaneous. This is much quicker than the average human reaction time, which one online test clocks at 273 milliseconds. Nowadays, customer-facing applications need to respond in as close to real-time […]
+The post How Stream Processing Goes Beyond Real-Time appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Bill Doerrfeld</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why is the Swift Language Gaining Popularity? Is it Tailored Swift?]]></title>
+        <id>https://hackernoon.com/why-is-swift-language-gaining-popularity-is-it-tailored-swift?source=rss</id>
+        <link href="https://hackernoon.com/why-is-swift-language-gaining-popularity-is-it-tailored-swift?source=rss"/>
+        <updated>2022-02-08T06:19:20.000Z</updated>
+        <summary type="html"><![CDATA[Swift combines decades of experience in building Apple platforms with the latest research in programming languages.]]></summary>
+        <author>
+            <name>BeyondKey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does Time Exist?]]></title>
+        <id>https://hackernoon.com/does-time-exist?source=rss</id>
+        <link href="https://hackernoon.com/does-time-exist?source=rss"/>
+        <updated>2022-02-08T05:57:10.000Z</updated>
+        <summary type="html"><![CDATA[The arbitrary system of reference for time that we use is something we usually don’t even think about.]]></summary>
+        <author>
+            <name>Miguel Rodriguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[abandon-mint-syntax]]></title>
+        <id>https://atom.io/packages/abandon-mint-syntax</id>
+        <link href="https://atom.io/packages/abandon-mint-syntax"/>
+        <updated>2022-02-08T02:40:15.000Z</updated>
+        <summary type="html"><![CDATA[Abandon Mint Syntax Theme
+Atom Syntax Theme based on my Abaddon Cream Syntax Theme. I spelled Abadon wrong and decided to stick with it.
+Abadon Creame is light theme with highlighting in pastels. Punctuation is called out in different colors as well as HTML entities. I use this with the One Light UI theme. This theme is update to date with Atom 1.56 release.
+This theme includes AmpScript spefic hightlighting as well..because SFMC and email FTW. Screenshots on GitHub.
+View on Github
+Screenshots (Forthcoming)]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Bored Ape Yacht Club? + Why The NFT's Are So Popular]]></title>
+        <id>https://hackernoon.com/what-is-the-bored-ape-yacht-club-and-why-the-nfts-are-so-popular?source=rss</id>
+        <link href="https://hackernoon.com/what-is-the-bored-ape-yacht-club-and-why-the-nfts-are-so-popular?source=rss"/>
+        <updated>2022-02-08T02:23:11.000Z</updated>
+        <summary type="html"><![CDATA[In this post we'll have a quick look at the story behind Bored Ape Yacht Club and why it has attracted so much attention and prestige.]]></summary>
+        <author>
+            <name>Cryptonite</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brag now, remember later: Document your accomplishments]]></title>
+        <id>https://github.com/readme/guides/document-success</id>
+        <link href="https://github.com/readme/guides/document-success"/>
+        <updated>2022-02-08T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When you think of your “wins,” what comes to mind? Do you have a healthy mix of qualitative and quantitative results? @indigitalcolor has tips to document your success:]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What we talk about when we talk about ‘root cause’]]></title>
+        <id>https://github.com/readme/guides/root-cause</id>
+        <link href="https://github.com/readme/guides/root-cause"/>
+        <updated>2022-02-08T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Instead of finding the ‘root cause’ to incidents and issues, @allspaw says it’s more accurate to try and break down what created the ‘perfect storm’:]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Move over JavaScript: Back-end languages are coming to the front-end]]></title>
+        <id>https://github.com/readme/featured/server-side-languages-for-front-end</id>
+        <link href="https://github.com/readme/featured/server-side-languages-for-front-end"/>
+        <updated>2022-02-08T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A new crop of tools is helping developers build web UI components on the backend—no JavaScript required!]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keeping an Ace up your sleeve]]></title>
+        <id>https://github.com/readme/stories/adewale-abati</id>
+        <link href="https://github.com/readme/stories/adewale-abati"/>
+        <updated>2022-02-08T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For @ace_kyd, greatness is all about taking small steps, and he’s taken a lot of them on his journey to @codesandbox and Made-in-Nigeria. Hear more about his OSS journey, now on The ReadME Project:]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Move intentionally and fix things]]></title>
+        <id>https://github.com/readme/stories/tatiana-mac</id>
+        <link href="https://github.com/readme/stories/tatiana-mac"/>
+        <updated>2022-02-08T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From building a popular N*SYNC fan site to creating the collaborative, inclusive @SelfDefinedApp, @TatianaTMac’s story is now on The ReadME Project:]]></summary>
+        <author>
+            <name>The ReadME Project</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create and Implement a Design System with CSS]]></title>
+        <id>620192b1f2ed6b06db5af582</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-and-implement-a-design-system-with-css/"/>
+        <updated>2022-02-08T01:45:18.000Z</updated>
+        <summary type="html"><![CDATA[If you are going to build a multi-page website, it is good to create a design system to help tie everything together. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create and implement a design system with CSS. Kevin Powell created this]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Set Up Hardhat with Typescript]]></title>
+        <id>https://hackernoon.com/set-up-hardhat-with-typescript?source=rss</id>
+        <link href="https://hackernoon.com/set-up-hardhat-with-typescript?source=rss"/>
+        <updated>2022-02-08T00:34:43.000Z</updated>
+        <summary type="html"><![CDATA[In this tutor, we will set up Hardhat with Typescript.
+Hardhat is a development environment for compiling, deploying, testing, and debugging Solidity Smart Cont]]></summary>
+        <author>
+            <name>Johannes Müller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nevermind the Shitcoins is Back (and bigger than ever!)]]></title>
+        <id>https://hackernoon.com/nevermind-the-shitcoins-is-back-and-bigger-than-ever?source=rss</id>
+        <link href="https://hackernoon.com/nevermind-the-shitcoins-is-back-and-bigger-than-ever?source=rss"/>
+        <updated>2022-02-08T00:30:34.000Z</updated>
+        <summary type="html"><![CDATA[What do you get if you cross the latest blockchain and cryptocurrency news with a very British host who dreams of hosting his own comedy panel quiz show?]]></summary>
+        <author>
+            <name>Benjamin Bateman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFTs & Traditional Art - Can They Co-Exist? The Daring Venture of MunchiesNFT]]></title>
+        <id>https://hackernoon.com/nfts-and-traditional-art-can-they-co-exist-the-daring-venture-of-munchiesnft?source=rss</id>
+        <link href="https://hackernoon.com/nfts-and-traditional-art-can-they-co-exist-the-daring-venture-of-munchiesnft?source=rss"/>
+        <updated>2022-02-08T00:28:51.000Z</updated>
+        <summary type="html"><![CDATA[I met an NFT artist on a flight to the US. Here's what he taught me about NFTs.]]></summary>
+        <author>
+            <name>FarahKim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plagiarism and Stolen Art with NFTs]]></title>
+        <id>https://hackernoon.com/plagiarism-and-stolen-art-with-nfts?source=rss</id>
+        <link href="https://hackernoon.com/plagiarism-and-stolen-art-with-nfts?source=rss"/>
+        <updated>2022-02-08T00:25:23.000Z</updated>
+        <summary type="html"><![CDATA[Non-fungible tokens (NFTs) are pretty fascinating. These Ethereum-based assets are unique elements on a blockchain that cannot be traded or exchanged.]]></summary>
+        <author>
+            <name>jmau111</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are The Common Kubernetes Security Vulnerabilities]]></title>
+        <id>https://hackernoon.com/what-are-the-common-kubernetes-security-vulnerabilities?source=rss</id>
+        <link href="https://hackernoon.com/what-are-the-common-kubernetes-security-vulnerabilities?source=rss"/>
+        <updated>2022-02-08T00:24:19.000Z</updated>
+        <summary type="html"><![CDATA[Kubernetes has become the de-facto standard for managing containerized applications. However, this usage also led to an increased attack surface for K8s.]]></summary>
+        <author>
+            <name>Asad Faizi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best JavaScript Framework Alternatives to Open Source]]></title>
+        <id>https://hackernoon.com/best-javascript-framework-alternatives-to-open-source?source=rss</id>
+        <link href="https://hackernoon.com/best-javascript-framework-alternatives-to-open-source?source=rss"/>
+        <updated>2022-02-08T00:23:39.000Z</updated>
+        <summary type="html"><![CDATA[Every organization has different tools to support internal processes. As companies scale, IT teams are faced with the growing complexity of user requirements, which often go beyond the capacity of consumer software.]]></summary>
+        <author>
+            <name>Sencha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook, The Cost of Consumer Profiling: Or My High Functioning Alcoholism]]></title>
+        <id>https://hackernoon.com/facebook-the-cost-of-consumer-profiling-or-my-high-functioning-alcoholism?source=rss</id>
+        <link href="https://hackernoon.com/facebook-the-cost-of-consumer-profiling-or-my-high-functioning-alcoholism?source=rss"/>
+        <updated>2022-02-08T00:21:25.000Z</updated>
+        <summary type="html"><![CDATA[Facebook recently saw a massive drop in share prices and blamed Apple but we all know what’s really going on. They have also seen a huge drop off in users and according to Lou Kerner at salon.com the engagement slide in the article is proof that Facebook is dying.]]></summary>
+        <author>
+            <name>Sarah Othman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Incorporating On-Chain Analytics into your Digital Asset Investing Strategy]]></title>
+        <id>https://hackernoon.com/incorporating-on-chain-analytics-into-your-digital-asset-investing-strategy?source=rss</id>
+        <link href="https://hackernoon.com/incorporating-on-chain-analytics-into-your-digital-asset-investing-strategy?source=rss"/>
+        <updated>2022-02-08T00:15:22.000Z</updated>
+        <summary type="html"><![CDATA[What is on-chain analysis and why is it important to consider when making cryptocurrency investment decisions?]]></summary>
+        <author>
+            <name>Audrey Nesbitt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain Metaverse Environments are Becoming More Than a Concept]]></title>
+        <id>https://hackernoon.com/blockchain-metaverse-environments-are-becoming-more-than-a-concept?source=rss</id>
+        <link href="https://hackernoon.com/blockchain-metaverse-environments-are-becoming-more-than-a-concept?source=rss"/>
+        <updated>2022-02-08T00:09:31.000Z</updated>
+        <summary type="html"><![CDATA[Metaverse is not a brand new concept. It came from 1992 in the sci model snow crash by Neal Stephenson.]]></summary>
+        <author>
+            <name>LD Capital</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vizzu: Open Source Library For Animated Data Visualizations and Data Stories]]></title>
+        <id>https://hackernoon.com/vizzu-open-source-library-for-animated-data-visualizations-and-data-stories?source=rss</id>
+        <link href="https://hackernoon.com/vizzu-open-source-library-for-animated-data-visualizations-and-data-stories?source=rss"/>
+        <updated>2022-02-08T00:04:51.000Z</updated>
+        <summary type="html"><![CDATA[How Vizzu, a new open-source library for animated data visualizations and data stories came to be and how it all works behind the scenes with sources.]]></summary>
+        <author>
+            <name>Laszlo Simon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improve Kubernetes Network Security with Cilium]]></title>
+        <id>https://hackernoon.com/improve-kubernetes-network-security-with-cilium?source=rss</id>
+        <link href="https://hackernoon.com/improve-kubernetes-network-security-with-cilium?source=rss"/>
+        <updated>2022-02-08T00:02:30.000Z</updated>
+        <summary type="html"><![CDATA[This article will show how to, using Cilium, tackle the authorization concern and move to push it to the underlying platform from the application code.]]></summary>
+        <author>
+            <name>Piotr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PlottyBot: A DrawBot That Plots a Lot]]></title>
         <id>https://hackaday.com/?p=518839</id>
@@ -14,6 +605,56 @@
         <summary type="html"><![CDATA[Fire up those 3D printers because if you’re like us, you’ll want your own PlottyBot. Still, have a pile of “thank you notes” to write from recent winter holiday gift …read more]]></summary>
         <author>
             <name>Michael Shaub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Challenges of NFT Whitelisting]]></title>
+        <id>https://hackernoon.com/the-challenges-of-nft-whitelisting?source=rss</id>
+        <link href="https://hackernoon.com/the-challenges-of-nft-whitelisting?source=rss"/>
+        <updated>2022-02-07T23:56:09.000Z</updated>
+        <summary type="html"><![CDATA[Problems and solutions to the popular process of NFT whitelisting]]></summary>
+        <author>
+            <name>Spark</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 ways Enterprises can Streamline their Professional Services using FinancialForce PSA]]></title>
+        <id>https://hackernoon.com/4-ways-enterprises-can-streamline-their-professional-services-using-financialforce-psa?source=rss</id>
+        <link href="https://hackernoon.com/4-ways-enterprises-can-streamline-their-professional-services-using-financialforce-psa?source=rss"/>
+        <updated>2022-02-07T23:53:45.000Z</updated>
+        <summary type="html"><![CDATA[To enhance the probability of success enterprises can enhance their services delivery using FinancialForce PSA which led to having held significant results.]]></summary>
+        <author>
+            <name>AblyPro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[API Technologies and How They Will Help Create the Metaverse]]></title>
+        <id>https://hackernoon.com/api-technologies-and-how-they-will-help-create-the-metaverse?source=rss</id>
+        <link href="https://hackernoon.com/api-technologies-and-how-they-will-help-create-the-metaverse?source=rss"/>
+        <updated>2022-02-07T23:52:27.000Z</updated>
+        <summary type="html"><![CDATA[API's such as tyny.dev will be used more heavily in the future, as the Metaverse proliferates.]]></summary>
+        <author>
+            <name>Totally Nerdy Ltd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate Guide to Data Structures & Algorithms for Beginners]]></title>
+        <id>https://hackernoon.com/the-ultimate-guide-to-data-structures-and-algorithms-for-beginners?source=rss</id>
+        <link href="https://hackernoon.com/the-ultimate-guide-to-data-structures-and-algorithms-for-beginners?source=rss"/>
+        <updated>2022-02-07T23:50:26.000Z</updated>
+        <summary type="html"><![CDATA[The need of the hour, especially in the corporate world, is to find professionals who have sufficient knowledge about data structures and algorithms.]]></summary>
+        <author>
+            <name>Sonia Jessica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Speed Up File Downloads With Python]]></title>
+        <id>https://hackernoon.com/how-to-speed-up-file-downloads-with-python?source=rss</id>
+        <link href="https://hackernoon.com/how-to-speed-up-file-downloads-with-python?source=rss"/>
+        <updated>2022-02-07T23:47:33.000Z</updated>
+        <summary type="html"><![CDATA[Very often, some admins set limits on the speed of downloading files, this reduces the load on the network, but at the same time it is very annoying for users, especially when you need to download a large file (from 1 GB), and the speed fluctuates around 1 megabit per second (125 kilobytes per second). Based on these data, we conclude that the download speed will be at least 8192 seconds (2 hours 16 minutes 32 seconds). Although our bandwidth allows us to transfer up to 16 Mbps (2 MB per second) and it will take 512 seconds (8 minutes 32 seconds).]]></summary>
+        <author>
+            <name>Maksim Kuznetsov</name>
         </author>
     </entry>
     <entry>
@@ -51266,17 +51907,6 @@ It’s not exactly easy to connect the benefits of a design system directly to r
 This article boils down the methods I’ve put into practice convinc…]]></summary>
         <author>
             <name>by</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SaaS Design Principles with Kubernetes]]></title>
-        <id>https://goteleport.com/blog/saas-design-kubernetes/</id>
-        <link href="https://goteleport.com/blog/saas-design-kubernetes/"/>
-        <updated>2021-02-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It seems like nowadays, every company is a SaaS company. We’ve even begun stratifying by what is sold, replacing the “software” in SaaS to whatever the product’s core competency is, search-as-a-service, chat-as-a-service, video-as-a-service. So, when we, at Teleport, set sail for the cloud after years of successfully navigating on-prem software, we came in with a different set of experiences.
-Turns out, porting a tool designed to be self-hosted to something hosted isn’t as simple as pulling our build image from quay.io. Well, in a way it is, but what I mean is that the SaaS route poses a different series of design challenges than on-prem. The product is the same, but not how users interface with it. This post explores how we deployed Teleport Cloud on Kubernetes, deliberately designing for…]]></summary>
-        <author>
-            <name>The Teleport Blog</name>
         </author>
     </entry>
 </feed>

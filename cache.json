@@ -751,15 +751,6 @@
           "publishedOn": "2021-02-18T00:00:00.000Z",
           "wordCount": 2051,
           "title": "SSH Certificates Security"
-        },
-        {
-          "id": "https://goteleport.com/blog/saas-design-kubernetes/",
-          "author": null,
-          "description": "It seems like nowadays, every company is a SaaS company. We’ve even begun stratifying by what is sold, replacing the “software” in SaaS to whatever the product’s core competency is, search-as-a-service, chat-as-a-service, video-as-a-service. So, when we, at Teleport, set sail for the cloud after years of successfully navigating on-prem software, we came in with a different set of experiences.\nTurns out, porting a tool designed to be self-hosted to something hosted isn’t as simple as pulling our build image from quay.io. Well, in a way it is, but what I mean is that the SaaS route poses a different series of design challenges than on-prem. The product is the same, but not how users interface with it. This post explores how we deployed Teleport Cloud on Kubernetes, deliberately designing for…",
-          "link": "https://goteleport.com/blog/saas-design-kubernetes/",
-          "publishedOn": "2021-02-09T00:00:00.000Z",
-          "wordCount": 2102,
-          "title": "SaaS Design Principles with Kubernetes"
         }
       ]
     },
@@ -768,6 +759,24 @@
       "feedUrl": "https://www.i-programmer.info/index.php?option=com_ninjarsssyndicator&feed_id=3&format=raw",
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
+        {
+          "id": "http://www.i-programmer.info/news/98-languages/15203-swift-and-c-interoperability-workgroup-announced.html",
+          "author": null,
+          "description": "The Swift community has announced the formation of a workgroup the aim of which is to advance the interoperability support between Swift, the language originally developed by Apple as an alternative language to Objective C, and C++. \n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/98-languages/15203-swift-and-c-interoperability-workgroup-announced.html",
+          "publishedOn": "2022-02-08T15:49:25.000Z",
+          "wordCount": 684,
+          "title": "Swift and C++ Interoperability Workgroup Announced"
+        },
+        {
+          "id": "http://www.i-programmer.info/news/136-open-source/15202-season-of-docs-2022-announced.html",
+          "author": null,
+          "description": "The 2022 Season of Docs has been announced. The project, which is supported by Google, aims to bring open source organizations and technical writers together. Participating projects receive funds to create, improve, or expand their documentation, while Google benefits by increased knowledge of effective metrics for evaluating open source documentation.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/136-open-source/15202-season-of-docs-2022-announced.html",
+          "publishedOn": "2022-02-08T15:44:46.000Z",
+          "wordCount": 668,
+          "title": "Season Of Docs 2022 Announced"
+        },
         {
           "id": "http://www.i-programmer.info/programming/hardware/15200-pi-iot-in-python-using-gpio-zero-compound-devices.html",
           "author": null,
@@ -1234,6 +1243,24 @@
       "feedUrl": "https://atom.io/packages.atom",
       "siteUrl": "https://atom.io",
       "articles": [
+        {
+          "id": "https://atom.io/packages/atomberhadiah",
+          "author": null,
+          "description": "atomberhadiah package\nA short description of your package.",
+          "link": "https://atom.io/packages/atomberhadiah",
+          "publishedOn": "2022-02-08T10:12:37.000Z",
+          "wordCount": 74,
+          "title": "atomberhadiah"
+        },
+        {
+          "id": "https://atom.io/packages/abandon-mint-syntax",
+          "author": null,
+          "description": "Abandon Mint Syntax Theme\nAtom Syntax Theme based on my Abaddon Cream Syntax Theme. I spelled Abadon wrong and decided to stick with it.\nAbadon Creame is light theme with highlighting in pastels. Punctuation is called out in different colors as well as HTML entities. I use this with the One Light UI theme. This theme is update to date with Atom 1.56 release.\nThis theme includes AmpScript spefic hightlighting as well..because SFMC and email FTW. Screenshots on GitHub.\nView on Github\nScreenshots (Forthcoming)",
+          "link": "https://atom.io/packages/abandon-mint-syntax",
+          "publishedOn": "2022-02-08T02:40:15.000Z",
+          "wordCount": 161,
+          "title": "abandon-mint-syntax"
+        },
         {
           "id": "https://atom.io/packages/language-algounareil",
           "author": null,
@@ -1790,6 +1817,33 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=363057",
+          "author": "Chris Coyier",
+          "description": "There is a code snippet that I see all the time when the media query prefers-reduced-motion is talked about. Here it is:\n@media (prefers-reduced-motion: reduce) {\n  * {\n    animation-duration: 0.01ms !important;\n    animation-iteration-count: 1 !important;\n    transition-duration: 0.01ms !important;\n    scroll-behavior: auto !important;\n  \n…\nNo Motion Isn’t Always prefers-reduced-motion originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/nuking-motion-with-prefers-reduced-motion/",
+          "publishedOn": "2022-02-08T20:55:51.000Z",
+          "wordCount": 1062,
+          "title": "No Motion Isn’t Always prefers-reduced-motion"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362672",
+          "author": "Mads Stoumann",
+          "description": "You know how there are JavaScript dialogs for alerting, confirming, and prompting user actions? Say you want to replace JavaScript dialogs with the new HTML dialog element.\nLet me explain.\nI recently worked on a project with a lot of …\nReplace JavaScript Dialogs With the New HTML Dialog Element originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/replace-javascript-dialogs-html-dialog-element/",
+          "publishedOn": "2022-02-08T15:09:40.000Z",
+          "wordCount": 3242,
+          "title": "Replace JavaScript Dialogs With the New HTML Dialog Element"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363380",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nHey! Scheduled Functions are cool! Think of them like a CRON job. I want this code to run every Monday at 2pm. I want this code run every hour on the hour. That kind …\nNetlify Has Scheduled Functions originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/netlify-has-scheduled-functions/",
+          "publishedOn": "2022-02-08T15:08:47.000Z",
+          "wordCount": 715,
+          "title": "Netlify Has Scheduled Functions"
+        },
         {
           "id": "https://css-tricks.com/?p=363102",
           "author": "Chris Coyier",
@@ -3885,6 +3939,78 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "6200d99bf2ed6b06db5ae8aa",
+          "author": "Zaira Hira",
+          "description": "Converting from one data type to another is a common operation you'll perform when working in databases.  And SQL provides a useful utility known as CAST to achieve this. We'll see how it works in this article. What is the CAST Function in SQL? CAST enables us to convert",
+          "link": "https://www.freecodecamp.org/news/cast-a-function-in-sql-convert-char-to-int-sql-server-example/",
+          "publishedOn": "2022-02-08T19:35:48.000Z",
+          "wordCount": 775,
+          "title": "Cast a Function in SQL – Convert Char to Int SQL Server Example"
+        },
+        {
+          "id": "6200d9e8f2ed6b06db5ae8ae",
+          "author": "Temani Afif",
+          "description": "Have you ever noticed those fancy ribbons on websites that alert users to some special feature or event? They're great to have, but for many developers, it's a nightmare to create them.  You can easily find a lot of ready-to-use code for such a component, but they are not",
+          "link": "https://www.freecodecamp.org/news/make-a-css-only-ribbon/",
+          "publishedOn": "2022-02-08T19:33:59.000Z",
+          "wordCount": 1985,
+          "title": "How to Create a CSS-Only Ribbon for Your Website"
+        },
+        {
+          "id": "61fe8960f2ed6b06db5ad178",
+          "author": "Jose Vicente Nunez",
+          "description": "Very few pieces of Open Source software generate so much hype [https://nmap.org/movies/] as Nmap [https://nmap.org/]. It is one of those tools that packs in so many useful features that it can help you make your systems more secure by just running it with a few flags. Nmap (\"Network Mapper\") is",
+          "link": "https://www.freecodecamp.org/news/enhance-nmap-with-python/",
+          "publishedOn": "2022-02-08T19:28:43.000Z",
+          "wordCount": 8033,
+          "title": "How to Enhance Nmap with Python"
+        },
+        {
+          "id": "620002cff2ed6b06db5ae51b",
+          "author": "Zaira Hira",
+          "description": "SQL, or structured query language, lets us gather data from a database through queries. It also enables us to insert, update, and delete that data.  In this blog post, we will focus on how to fetch data and limit the results using SQL.  Why should you limit SQL",
+          "link": "https://www.freecodecamp.org/news/row_number-in-sql-select-top-example-in-sql-and-sql-server2/",
+          "publishedOn": "2022-02-08T19:14:49.000Z",
+          "wordCount": 751,
+          "title": "ROW_NUMBER in SQL – Select Top Example in SQL and SQL Server"
+        },
+        {
+          "id": "6200d9eff2ed6b06db5ae8b2",
+          "author": "Ihechikara Vincent Abba",
+          "description": "We use operators in most programming languages to perform operations on variables.  They are divided into various categories like arithmetic operators, assignment operators, comparison operators, logical operators, and so on.  In this article, we will be talking about the bitwise AND operator, and the AND  (&&) and",
+          "link": "https://www.freecodecamp.org/news/java-operator-and-or-logical-operators/",
+          "publishedOn": "2022-02-08T18:38:13.000Z",
+          "wordCount": 946,
+          "title": "Java Operator – &amp;, &amp;&amp; (AND) || (OR) Logical Operators"
+        },
+        {
+          "id": "6200fe06f2ed6b06db5aeafe",
+          "author": "Kolade Chris",
+          "description": "Before the advent of HTML 5, web developers had to embed video on a web page with a plugin like Adobe flash player. Today, you can easily embed videos in an HTML document with the <video> tag. In this article, we'll see how the <video> tag works in HTML. Table",
+          "link": "https://www.freecodecamp.org/news/html-video-how-to-embed-a-video-player-with-the-html-5-video-tag/",
+          "publishedOn": "2022-02-08T16:59:19.000Z",
+          "wordCount": 1044,
+          "title": "HTML Video – How to Embed a Video Player with the HTML 5 Video Tag"
+        },
+        {
+          "id": "61ff5115f2ed6b06db5adab7",
+          "author": "Ashutosh Krishna",
+          "description": "In this article, we'll learn about a powerful library for Python called Rich [https://rich.readthedocs.io/en/stable/introduction.html]. Rich is a Python library for writing rich text (with color and style) to the terminal. It lets you display advanced content such as tables, markdown, and syntax-highlighted code. So, why is this useful? Well, if",
+          "link": "https://www.freecodecamp.org/news/use-the-rich-library-in-python/",
+          "publishedOn": "2022-02-08T16:15:49.000Z",
+          "wordCount": 1342,
+          "title": "How to Use the Rich Library with Python"
+        },
+        {
+          "id": "620192b1f2ed6b06db5af582",
+          "author": "Beau Carnes",
+          "description": "If you are going to build a multi-page website, it is good to create a design system to help tie everything together. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create and implement a design system with CSS. Kevin Powell created this",
+          "link": "https://www.freecodecamp.org/news/how-to-create-and-implement-a-design-system-with-css/",
+          "publishedOn": "2022-02-08T01:45:18.000Z",
+          "wordCount": 529,
+          "title": "How to Create and Implement a Design System with CSS"
+        },
         {
           "id": "61fefcc0f2ed6b06db5ad6a9",
           "author": "Peter Lynch",
@@ -7366,6 +7492,186 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/javascript-strict-mode-vs-bad-programming-practices?source=rss",
+          "author": "John Palmgren",
+          "description": "JavaScript Strict mode is used to turn mistakes into errors for easier debugging and to help you write better code.",
+          "link": "https://hackernoon.com/javascript-strict-mode-vs-bad-programming-practices?source=rss",
+          "publishedOn": "2022-02-08T08:15:16.000Z",
+          "wordCount": 2198,
+          "title": "JavaScript Strict Mode vs. Bad Programming Practices"
+        },
+        {
+          "id": "https://hackernoon.com/why-is-swift-language-gaining-popularity-is-it-tailored-swift?source=rss",
+          "author": "BeyondKey",
+          "description": "Swift combines decades of experience in building Apple platforms with the latest research in programming languages.",
+          "link": "https://hackernoon.com/why-is-swift-language-gaining-popularity-is-it-tailored-swift?source=rss",
+          "publishedOn": "2022-02-08T06:19:20.000Z",
+          "wordCount": 1952,
+          "title": "Why is the Swift Language Gaining Popularity? Is it Tailored Swift?"
+        },
+        {
+          "id": "https://hackernoon.com/does-time-exist?source=rss",
+          "author": "Miguel Rodriguez",
+          "description": "The arbitrary system of reference for time that we use is something we usually don’t even think about.",
+          "link": "https://hackernoon.com/does-time-exist?source=rss",
+          "publishedOn": "2022-02-08T05:57:10.000Z",
+          "wordCount": 1744,
+          "title": "Does Time Exist?"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-the-bored-ape-yacht-club-and-why-the-nfts-are-so-popular?source=rss",
+          "author": "Cryptonite",
+          "description": "In this post we'll have a quick look at the story behind Bored Ape Yacht Club and why it has attracted so much attention and prestige.",
+          "link": "https://hackernoon.com/what-is-the-bored-ape-yacht-club-and-why-the-nfts-are-so-popular?source=rss",
+          "publishedOn": "2022-02-08T02:23:11.000Z",
+          "wordCount": 2701,
+          "title": "What Is Bored Ape Yacht Club? + Why The NFT's Are So Popular"
+        },
+        {
+          "id": "https://hackernoon.com/set-up-hardhat-with-typescript?source=rss",
+          "author": "Johannes Müller",
+          "description": "In this tutor, we will set up Hardhat with Typescript.\nHardhat is a development environment for compiling, deploying, testing, and debugging Solidity Smart Cont",
+          "link": "https://hackernoon.com/set-up-hardhat-with-typescript?source=rss",
+          "publishedOn": "2022-02-08T00:34:43.000Z",
+          "wordCount": 1955,
+          "title": "Set Up Hardhat with Typescript"
+        },
+        {
+          "id": "https://hackernoon.com/nevermind-the-shitcoins-is-back-and-bigger-than-ever?source=rss",
+          "author": "Benjamin Bateman",
+          "description": "What do you get if you cross the latest blockchain and cryptocurrency news with a very British host who dreams of hosting his own comedy panel quiz show?",
+          "link": "https://hackernoon.com/nevermind-the-shitcoins-is-back-and-bigger-than-ever?source=rss",
+          "publishedOn": "2022-02-08T00:30:34.000Z",
+          "wordCount": 1959,
+          "title": "Nevermind the Shitcoins is Back (and bigger than ever!)"
+        },
+        {
+          "id": "https://hackernoon.com/nfts-and-traditional-art-can-they-co-exist-the-daring-venture-of-munchiesnft?source=rss",
+          "author": "FarahKim",
+          "description": "I met an NFT artist on a flight to the US. Here's what he taught me about NFTs.",
+          "link": "https://hackernoon.com/nfts-and-traditional-art-can-they-co-exist-the-daring-venture-of-munchiesnft?source=rss",
+          "publishedOn": "2022-02-08T00:28:51.000Z",
+          "wordCount": 2426,
+          "title": "NFTs & Traditional Art - Can They Co-Exist? The Daring Venture of MunchiesNFT"
+        },
+        {
+          "id": "https://hackernoon.com/plagiarism-and-stolen-art-with-nfts?source=rss",
+          "author": "jmau111",
+          "description": "Non-fungible tokens (NFTs) are pretty fascinating. These Ethereum-based assets are unique elements on a blockchain that cannot be traded or exchanged.",
+          "link": "https://hackernoon.com/plagiarism-and-stolen-art-with-nfts?source=rss",
+          "publishedOn": "2022-02-08T00:25:23.000Z",
+          "wordCount": 1727,
+          "title": "Plagiarism and Stolen Art with NFTs"
+        },
+        {
+          "id": "https://hackernoon.com/what-are-the-common-kubernetes-security-vulnerabilities?source=rss",
+          "author": "Asad Faizi",
+          "description": "Kubernetes has become the de-facto standard for managing containerized applications. However, this usage also led to an increased attack surface for K8s.",
+          "link": "https://hackernoon.com/what-are-the-common-kubernetes-security-vulnerabilities?source=rss",
+          "publishedOn": "2022-02-08T00:24:19.000Z",
+          "wordCount": 2078,
+          "title": "What Are The Common Kubernetes Security Vulnerabilities"
+        },
+        {
+          "id": "https://hackernoon.com/best-javascript-framework-alternatives-to-open-source?source=rss",
+          "author": "Sencha",
+          "description": "Every organization has different tools to support internal processes. As companies scale, IT teams are faced with the growing complexity of user requirements, which often go beyond the capacity of consumer software.",
+          "link": "https://hackernoon.com/best-javascript-framework-alternatives-to-open-source?source=rss",
+          "publishedOn": "2022-02-08T00:23:39.000Z",
+          "wordCount": 2123,
+          "title": "Best JavaScript Framework Alternatives to Open Source"
+        },
+        {
+          "id": "https://hackernoon.com/facebook-the-cost-of-consumer-profiling-or-my-high-functioning-alcoholism?source=rss",
+          "author": "Sarah Othman",
+          "description": "Facebook recently saw a massive drop in share prices and blamed Apple but we all know what’s really going on. They have also seen a huge drop off in users and according to Lou Kerner at salon.com the engagement slide in the article is proof that Facebook is dying.",
+          "link": "https://hackernoon.com/facebook-the-cost-of-consumer-profiling-or-my-high-functioning-alcoholism?source=rss",
+          "publishedOn": "2022-02-08T00:21:25.000Z",
+          "wordCount": 2859,
+          "title": "Facebook, The Cost of Consumer Profiling: Or My High Functioning Alcoholism"
+        },
+        {
+          "id": "https://hackernoon.com/incorporating-on-chain-analytics-into-your-digital-asset-investing-strategy?source=rss",
+          "author": "Audrey Nesbitt",
+          "description": "What is on-chain analysis and why is it important to consider when making cryptocurrency investment decisions?",
+          "link": "https://hackernoon.com/incorporating-on-chain-analytics-into-your-digital-asset-investing-strategy?source=rss",
+          "publishedOn": "2022-02-08T00:15:22.000Z",
+          "wordCount": 2235,
+          "title": "Incorporating On-Chain Analytics into your Digital Asset Investing Strategy"
+        },
+        {
+          "id": "https://hackernoon.com/blockchain-metaverse-environments-are-becoming-more-than-a-concept?source=rss",
+          "author": "LD Capital",
+          "description": "Metaverse is not a brand new concept. It came from 1992 in the sci model snow crash by Neal Stephenson.",
+          "link": "https://hackernoon.com/blockchain-metaverse-environments-are-becoming-more-than-a-concept?source=rss",
+          "publishedOn": "2022-02-08T00:09:31.000Z",
+          "wordCount": 2234,
+          "title": "Blockchain Metaverse Environments are Becoming More Than a Concept"
+        },
+        {
+          "id": "https://hackernoon.com/vizzu-open-source-library-for-animated-data-visualizations-and-data-stories?source=rss",
+          "author": "Laszlo Simon",
+          "description": "How Vizzu, a new open-source library for animated data visualizations and data stories came to be and how it all works behind the scenes with sources.",
+          "link": "https://hackernoon.com/vizzu-open-source-library-for-animated-data-visualizations-and-data-stories?source=rss",
+          "publishedOn": "2022-02-08T00:04:51.000Z",
+          "wordCount": 1883,
+          "title": "Vizzu: Open Source Library For Animated Data Visualizations and Data Stories"
+        },
+        {
+          "id": "https://hackernoon.com/improve-kubernetes-network-security-with-cilium?source=rss",
+          "author": "Piotr",
+          "description": "This article will show how to, using Cilium, tackle the authorization concern and move to push it to the underlying platform from the application code.",
+          "link": "https://hackernoon.com/improve-kubernetes-network-security-with-cilium?source=rss",
+          "publishedOn": "2022-02-08T00:02:30.000Z",
+          "wordCount": 2582,
+          "title": "Improve Kubernetes Network Security with Cilium"
+        },
+        {
+          "id": "https://hackernoon.com/the-challenges-of-nft-whitelisting?source=rss",
+          "author": "Spark",
+          "description": "Problems and solutions to the popular process of NFT whitelisting",
+          "link": "https://hackernoon.com/the-challenges-of-nft-whitelisting?source=rss",
+          "publishedOn": "2022-02-07T23:56:09.000Z",
+          "wordCount": 1489,
+          "title": "The Challenges of NFT Whitelisting"
+        },
+        {
+          "id": "https://hackernoon.com/4-ways-enterprises-can-streamline-their-professional-services-using-financialforce-psa?source=rss",
+          "author": "AblyPro",
+          "description": "To enhance the probability of success enterprises can enhance their services delivery using FinancialForce PSA which led to having held significant results.",
+          "link": "https://hackernoon.com/4-ways-enterprises-can-streamline-their-professional-services-using-financialforce-psa?source=rss",
+          "publishedOn": "2022-02-07T23:53:45.000Z",
+          "wordCount": 1975,
+          "title": "4 ways Enterprises can Streamline their Professional Services using FinancialForce PSA"
+        },
+        {
+          "id": "https://hackernoon.com/api-technologies-and-how-they-will-help-create-the-metaverse?source=rss",
+          "author": "Totally Nerdy Ltd",
+          "description": "API's such as tyny.dev will be used more heavily in the future, as the Metaverse proliferates.",
+          "link": "https://hackernoon.com/api-technologies-and-how-they-will-help-create-the-metaverse?source=rss",
+          "publishedOn": "2022-02-07T23:52:27.000Z",
+          "wordCount": 1812,
+          "title": "API Technologies and How They Will Help Create the Metaverse"
+        },
+        {
+          "id": "https://hackernoon.com/the-ultimate-guide-to-data-structures-and-algorithms-for-beginners?source=rss",
+          "author": "Sonia Jessica",
+          "description": "The need of the hour, especially in the corporate world, is to find professionals who have sufficient knowledge about data structures and algorithms.",
+          "link": "https://hackernoon.com/the-ultimate-guide-to-data-structures-and-algorithms-for-beginners?source=rss",
+          "publishedOn": "2022-02-07T23:50:26.000Z",
+          "wordCount": 1812,
+          "title": "The Ultimate Guide to Data Structures & Algorithms for Beginners"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-speed-up-file-downloads-with-python?source=rss",
+          "author": "Maksim Kuznetsov",
+          "description": "Very often, some admins set limits on the speed of downloading files, this reduces the load on the network, but at the same time it is very annoying for users, especially when you need to download a large file (from 1 GB), and the speed fluctuates around 1 megabit per second (125 kilobytes per second). Based on these data, we conclude that the download speed will be at least 8192 seconds (2 hours 16 minutes 32 seconds). Although our bandwidth allows us to transfer up to 16 Mbps (2 MB per second) and it will take 512 seconds (8 minutes 32 seconds).",
+          "link": "https://hackernoon.com/how-to-speed-up-file-downloads-with-python?source=rss",
+          "publishedOn": "2022-02-07T23:47:33.000Z",
+          "wordCount": 2163,
+          "title": "How to Speed Up File Downloads With Python"
+        },
         {
           "id": "https://hackernoon.com/5-best-low-code-development-platforms-in-2022?source=rss",
           "author": "Alex Lashkov",
@@ -24115,6 +24421,69 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
+          "id": "https://hackaday.com/?p=519078",
+          "author": "Dave Rowntree",
+          "description": "[Willem Koopman aka Secretbatcave] was looking at a master clock he has in his collection which was quite a noisy device, but wanted to use the matching solenoid slave clock …read more",
+          "link": "https://hackaday.com/2022/02/08/a-tuning-fork-clock-with-discreet-logic/",
+          "publishedOn": "2022-02-09T00:00:30.000Z",
+          "wordCount": 1243,
+          "title": "A Tuning Fork Clock, With Discreet Logic"
+        },
+        {
+          "id": "https://hackaday.com/?p=517950",
+          "author": "Tom Nardi",
+          "description": "It doesn’t happen all the time, but over the years we’ve noticed that once we feature a project, a number of very similar builds often find themselves in our tip …read more",
+          "link": "https://hackaday.com/2022/02/08/3d-printed-maglev-switches-are-so-hot-right-now/",
+          "publishedOn": "2022-02-08T21:00:23.000Z",
+          "wordCount": 1472,
+          "title": "3D Printed Maglev Switches Are So Hot Right Now"
+        },
+        {
+          "id": "https://hackaday.com/?p=519019",
+          "author": "Kristina Panos",
+          "description": "Long ago when digital portables where in their infancy, people were already loath to type on tiny keyboards, stylus or not. So Palm made a sweet little portable keyboard that …read more",
+          "link": "https://hackaday.com/2022/02/08/palm-portable-keyboard-goes-wireless/",
+          "publishedOn": "2022-02-08T19:30:19.000Z",
+          "wordCount": 1503,
+          "title": "Palm Portable Keyboard Goes Wireless"
+        },
+        {
+          "id": "https://hackaday.com/?p=518386",
+          "author": "Kristina Panos",
+          "description": "Well, it’s done. After weeks of trawling Craigslist, an hour-long phone call with an intelligent stranger about a different machine that wasn’t going suit my needs, and a two-week delay …read more",
+          "link": "https://hackaday.com/2022/02/08/industrial-sewing-machine-acquired/",
+          "publishedOn": "2022-02-08T18:00:56.000Z",
+          "wordCount": 2781,
+          "title": "Industrial Sewing Machine: Acquired"
+        },
+        {
+          "id": "https://hackaday.com/?p=518960",
+          "author": "Al Williams",
+          "description": "How many qubits do you need in a quantum computer? Plenty, if you want to anything useful. However, today, we have to settle for a lot fewer than we would …read more",
+          "link": "https://hackaday.com/2022/02/08/ibm-eagle-has-a-lot-of-qubits/",
+          "publishedOn": "2022-02-08T16:30:37.000Z",
+          "wordCount": 1413,
+          "title": "IBM Eagle Has A Lot of Qubits"
+        },
+        {
+          "id": "https://hackaday.com/?p=516167",
+          "author": "Dave Rowntree",
+          "description": "I’ve had a fairly varied early part of my career in the semiconductors business: a series of events caused me to jump disciplines a little bit, and after one such …read more",
+          "link": "https://hackaday.com/2022/02/08/hair-today-gone-tomorrow-four-men-go-to-fix-a-wafer-prober/",
+          "publishedOn": "2022-02-08T15:00:15.000Z",
+          "wordCount": 4429,
+          "title": "Hair Today Gone Tomorrow: Four Men Go To Fix A Wafer Prober"
+        },
+        {
+          "id": "https://hackaday.com/?p=518841",
+          "author": "Donald Papp",
+          "description": "An interesting research project out of MIT shows that it’s possible to embed machine-readable labels into 3D printed objects using nothing more than an FDM printer and filament that is …read more",
+          "link": "https://hackaday.com/2022/02/08/invisible-3d-printed-codes-make-objects-interactive/",
+          "publishedOn": "2022-02-08T12:00:20.000Z",
+          "wordCount": 1582,
+          "title": "Invisible 3D Printed Codes Make Objects Interactive"
+        },
+        {
           "id": "https://hackaday.com/?p=518839",
           "author": "Michael Shaub",
           "description": "Fire up those 3D printers because if you’re like us, you’ll want your own PlottyBot. Still, have a pile of “thank you notes” to write from recent winter holiday gift …read more",
@@ -31529,6 +31898,66 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "FD27C584-E9F0-4E1D-87A81E68D91412F1",
+          "author": "Chelsea Harvey, ClimateWire",
+          "description": "Some communities may run out of fresh water faster than expected\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/mountain-glaciers-have-less-ice-than-previously-thought/",
+          "publishedOn": "2022-02-08T20:00:00.000Z",
+          "wordCount": null,
+          "title": "Mountain Glaciers Have Less Ice than Previously Thought",
+          "itunes": {}
+        },
+        {
+          "id": "6826DA34-ECDB-4606-8A47B93923CB2A90",
+          "author": "Davide Castelvecchi",
+          "description": "The basic concept of quantum spin provides an understanding of a vast range of physical phenomena\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/100-years-ago-a-quantum-experiment-explained-why-we-dont-fall-through-our-chairs/",
+          "publishedOn": "2022-02-08T16:15:00.000Z",
+          "wordCount": null,
+          "title": "100 Years Ago, a Quantum Experiment Explained Why We Don't Fall through Our Chairs",
+          "itunes": {}
+        },
+        {
+          "id": "A939F003-7382-402E-A78FEA891F185732",
+          "author": "Jack Tamisiea",
+          "description": "The colony thrives in a frigid ocean covered by ice year-round\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/surprise-fossil-munching-sponges-found-in-arctic-seafloor-wasteland/",
+          "publishedOn": "2022-02-08T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Surprise Fossil-Munching Sponges Found in Arctic Seafloor Wasteland",
+          "itunes": {}
+        },
+        {
+          "id": "25F9ECCE-B439-497D-B36D522CFCD31F18",
+          "author": "John Eric Goff, The Conversation US",
+          "description": "There is more to the bobsled, luge and skeleton events than merely sliding down steep, icy slopes\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-high-speed-physics-of-olympic-sledding-explained/",
+          "publishedOn": "2022-02-08T14:00:00.000Z",
+          "wordCount": null,
+          "title": "The High-Speed Physics of Olympic Sledding, Explained",
+          "itunes": {}
+        },
+        {
+          "id": "58B7C6A3-3510-4D8F-B485FDB5FB656D39",
+          "author": "Smriti Mallapaty, Nature magazine",
+          "description": "Hamsters are only the second species known to have spread SARS-CoV-2 to humans\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-sneezing-hamsters-sparked-a-covid-outbreak-in-hong-kong/",
+          "publishedOn": "2022-02-08T13:00:00.000Z",
+          "wordCount": null,
+          "title": "How Sneezing Hamsters Sparked a COVID Outbreak in Hong Kong",
+          "itunes": {}
+        },
+        {
+          "id": "3C6D08E7-D0A9-4E97-8517452F92864E18",
+          "author": "Rachel Crowell",
+          "description": "The formulas describe the complex behavior of a liquid when it meets a boundary\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/turbulence-equations-discovered-after-century-long-quest/",
+          "publishedOn": "2022-02-08T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Turbulence Equations Discovered after Century-Long Quest",
+          "itunes": {}
+        },
+        {
           "id": "75D9C5F7-22F9-4448-B76A4F51D558EFB3",
           "author": "Anne C. Mulkern, E&E News",
           "description": "Without enough capacity to meet demand, energy utilities may have to stage rolling blackouts during heat waves\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -37653,6 +38082,33 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=149770",
+          "author": "Charlene O'Hanlon",
+          "description": "Charlene O’Hanlon and Rich Nanda discuss a new Deloitte study, “A New Language for Digital Transformation,” which explores why so many transformations fail to deliver concrete impact. The video is below followed by a complete transcript of the conversation.   Announcer: This is Digital Anarchist. Charlene O’Hanlon: Welcome back to Techstrong TV. I’m Charlene O’Hanlon […]\nThe post A New Language for Digital Transformation appeared first on DevOps.com.",
+          "link": "https://devops.com/a-new-language-for-digital-transformation/",
+          "publishedOn": "2022-02-08T17:37:02.000Z",
+          "wordCount": 2389,
+          "title": "A New Language for Digital Transformation"
+        },
+        {
+          "id": "https://devops.com/?p=149711",
+          "author": "JJ Tang",
+          "description": "Have you ever thought about the history of incident management? If you’re an SRE, you might be so caught up in the day-to-day work of managing reliability and responding to incidents that you never take time to step back and reflect on the evolution of your role and your responsibilities. And that’s a shame because […]\nThe post The Evolution of Incident Management appeared first on DevOps.com.",
+          "link": "https://devops.com/the-evolution-of-incident-management/",
+          "publishedOn": "2022-02-08T08:00:05.000Z",
+          "wordCount": 1307,
+          "title": "The Evolution of Incident Management"
+        },
+        {
+          "id": "https://devops.com/?p=149530",
+          "author": "Bill Doerrfeld",
+          "description": "How fast is real-time? According to Robert Miller’s 1968 seminal study on human-computer interaction, we perceive a response time of 100 milliseconds or less as instantaneous. This is much quicker than the average human reaction time, which one online test clocks at 273 milliseconds. Nowadays, customer-facing applications need to respond in as close to real-time […]\nThe post How Stream Processing Goes Beyond Real-Time appeared first on DevOps.com.",
+          "link": "https://devops.com/how-stream-processing-goes-beyond-real-time/",
+          "publishedOn": "2022-02-08T07:30:57.000Z",
+          "wordCount": 1473,
+          "title": "How Stream Processing Goes Beyond Real-Time"
+        },
+        {
           "id": "https://devops.com/?p=149729",
           "author": "Mike Vizard",
           "description": "Codenotary has launched a Codenotary Cloud platform that can automatically generate a software bill of materials (SBOM) and make it easier to discover what components have been included in an application. Moshe Bar, Codenotary CEO, said that capability can also play a key role in identifying which components in an application might contain, for example, […]\nThe post Codenotary Launches Cloud Service to Generate SBOMs appeared first on DevOps.com.",
@@ -40477,6 +40933,15 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=112408",
+          "author": "Steve Nadis",
+          "description": "Three mathematicians show, for the first time, how to form a square with the same area as a circle by cutting them into interchangeable pieces that can be visualized.            \nThe post An Ancient Geometry Problem Falls to New Mathematical Techniques first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/an-ancient-geometry-problem-falls-to-new-mathematical-techniques-20220208/",
+          "publishedOn": "2022-02-08T14:58:36.000Z",
+          "wordCount": 1390,
+          "title": "An Ancient Geometry Problem Falls to New Mathematical Techniques"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=112374",
           "author": "Charlie Wood",
           "description": "If only scientists understood exactly how electrons act in molecules, they’d be able to predict the behavior of everything from experimental drugs to high-temperature superconductors. Following decades of physics-based insights, artificial intelligence systems are taking the next leap.            \nThe post Quantum Complexity Tamed by Machine Learning first appeared on Quanta Magazine",
@@ -41134,6 +41599,24 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66800",
+          "author": "Nathan Yau",
+          "description": "Figure skater Nathan Chen set a world record with his performance in the…\nTags: Nathan Chen, New York Times, Olympics, sports",
+          "link": "https://flowingdata.com/2022/02/08/figure-skating-animated-jumps/",
+          "publishedOn": "2022-02-08T18:09:51.000Z",
+          "wordCount": 288,
+          "title": "Figure skating animated jumps"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66794",
+          "author": "Nathan Yau",
+          "description": "Gas-powered vehicles contribute a big part of total carbon production, so to get…\nTags: electric vehicle, Reuters",
+          "link": "https://flowingdata.com/2022/02/08/improving-electric-vehicle-adoption-rates/",
+          "publishedOn": "2022-02-08T10:52:47.000Z",
+          "wordCount": 314,
+          "title": "Improving electric vehicle adoption rates"
+        },
         {
           "id": "https://flowingdata.com/?p=66789",
           "author": "Nathan Yau",
@@ -42329,6 +42812,51 @@
       "feedUrl": "https://github.com/readme.rss",
       "siteUrl": "https://github.com/readme",
       "articles": [
+        {
+          "id": "https://github.com/readme/guides/document-success",
+          "author": null,
+          "description": "When you think of your “wins,” what comes to mind? Do you have a healthy mix of qualitative and quantitative results? @indigitalcolor has tips to document your success:",
+          "link": "https://github.com/readme/guides/document-success",
+          "publishedOn": "2022-02-08T02:00:00.000Z",
+          "wordCount": 1830,
+          "title": "Brag now, remember later: Document your accomplishments"
+        },
+        {
+          "id": "https://github.com/readme/guides/root-cause",
+          "author": null,
+          "description": "Instead of finding the ‘root cause’ to incidents and issues, @allspaw says it’s more accurate to try and break down what created the ‘perfect storm’:",
+          "link": "https://github.com/readme/guides/root-cause",
+          "publishedOn": "2022-02-08T02:00:00.000Z",
+          "wordCount": 2145,
+          "title": "What we talk about when we talk about ‘root cause’"
+        },
+        {
+          "id": "https://github.com/readme/featured/server-side-languages-for-front-end",
+          "author": null,
+          "description": "A new crop of tools is helping developers build web UI components on the backend—no JavaScript required!",
+          "link": "https://github.com/readme/featured/server-side-languages-for-front-end",
+          "publishedOn": "2022-02-08T02:00:00.000Z",
+          "wordCount": 2669,
+          "title": "Move over JavaScript: Back-end languages are coming to the front-end"
+        },
+        {
+          "id": "https://github.com/readme/stories/adewale-abati",
+          "author": null,
+          "description": "For @ace_kyd, greatness is all about taking small steps, and he’s taken a lot of them on his journey to @codesandbox and Made-in-Nigeria. Hear more about his OSS journey, now on The ReadME Project:",
+          "link": "https://github.com/readme/stories/adewale-abati",
+          "publishedOn": "2022-02-08T02:00:00.000Z",
+          "wordCount": 2485,
+          "title": "Keeping an Ace up your sleeve"
+        },
+        {
+          "id": "https://github.com/readme/stories/tatiana-mac",
+          "author": null,
+          "description": "From building a popular N*SYNC fan site to creating the collaborative, inclusive @SelfDefinedApp, @TatianaTMac’s story is now on The ReadME Project:",
+          "link": "https://github.com/readme/stories/tatiana-mac",
+          "publishedOn": "2022-02-08T02:00:00.000Z",
+          "wordCount": 2744,
+          "title": "Move intentionally and fix things"
+        },
         {
           "id": "https://github.com/readme/guides/making-decisions-in-OSS",
           "author": null,
