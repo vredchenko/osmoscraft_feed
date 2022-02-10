@@ -2,10 +2,589 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2022-02-09T01:16:34.631Z</updated>
+    <updated>2022-02-10T01:13:07.009Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[metals-lsp-adapter]]></title>
+        <id>https://atom.io/packages/metals-lsp-adapter</id>
+        <link href="https://atom.io/packages/metals-lsp-adapter"/>
+        <updated>2022-02-10T00:50:53.000Z</updated>
+        <summary type="html"><![CDATA[Scala (Metals) LSP Adapter for Atom
+Overview
+Minimal LSP adapter for Atom to replace the inactive ide-scala package.
+
+Dependencies
+Requires atom-ide-base.
+Installation
+Using Coursier install Metals as follows:
+coursier bootstrap org.scalameta:metals_2.12:0.11.1 -o metals -f
+
+
+Then either put the location on your PATH or enter the full path in the config.
+May require restart of Atom.
+License
+MIT License.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3-Wheeled Electric Skateboard Does Things Differently]]></title>
+        <id>https://hackaday.com/?p=519205</id>
+        <link href="https://hackaday.com/2022/02/09/3-wheeled-electric-skateboard-does-things-differently/"/>
+        <updated>2022-02-10T00:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Typically, electric skateboards drive one or more wheels with brushless motors, while keeping everything mounted on otherwise fairly-standard trucks to maintain maneuverability. However, [swedishFeetballs] decided to go a different route, …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tailwindcss-autocomplete]]></title>
+        <id>https://atom.io/packages/tailwindcss-autocomplete</id>
+        <link href="https://atom.io/packages/tailwindcss-autocomplete"/>
+        <updated>2022-02-09T23:39:16.000Z</updated>
+        <summary type="html"><![CDATA[tailwindcss-autocomplete
+This package uses the great work of raybrownco/atom-tailwindcss and vinkla/autocomplete-tailwind. Unfortunately, both projects are stuck at Tailwind CSS v1 and there does not seem to be any activity in both repositories.
+This project is updated to include the classnames of Tailwind CSS v2.2.19 and has been fixed to show a preview of the color names.
+Manually Installing this Atom Package
+git clone https://github.com/toddy15/tailwindcss-autocomplete.git
+cd tailwindcss-autocomplete
+npm install
+npm run build
+apm install
+apm link .
+
+
+
+Creating a New Release
+The following process should be followed to create a new release of this package. (I'm writing these words just as much for myself as I am for anyone interested in sending a PR.)
+# If the project's not set up yet:
+git clone https://github.com/toddy15/tailwindcss-autocomplete.git
+cd tailwindcss-autocomplete
+npm install
+ 
+# Grab the latest version of Tailwind CSS
+npm update tailwindcss
+ 
+# Run a script to update the `src/completions.json` file
+npm run build
+ 
+# Run tests to make sure the update hasn't broken anything
+npm run test
+ 
+# Perform a manual visual inspection of the completions
+git diff src/completions.json
+
+
+If nothing has failed and the inspection goes well enough, you're ready to create a new version! All this means is that you crack open package.json and bump the version number. After that's done, send a pull request!
+MIT © Dr. Tobias Quathamer]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[git-link]]></title>
+        <id>https://atom.io/packages/git-link</id>
+        <link href="https://atom.io/packages/git-link"/>
+        <updated>2022-02-09T21:57:18.000Z</updated>
+        <summary type="html"><![CDATA[Requirements
+You must have git installed.
+Quick Start
+CLI:
+apm install git-link
+
+Or search for the git-link package via Settings > Packages. Read more on Atom Packages.
+Supported platforms
+Works for GitHub.com (public, tested).
+Works for GitLab.com (public, tested).
+It might work for others (untested).
+Features
+Share and open what you've worked on, or a bug you've spotted.
+Copy a link to a line, selection or file for the current commit
+Built with convenience in mind (#tips)
+Handles non-typical file and folders okay - e.g. [myfolder]/my#file.txt
+
+References markdown files in plaintext.
+Command list
+No keymaps are currently set by default.
+I recommended you configure your own keybindings and use what is comfortable for you. You can do this by going to Settings > Keybindings or open it from t…]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVGcode for “Live Tracing” Raster Images]]></title>
+        <id>https://css-tricks.com/?p=362777</id>
+        <link href="https://css-tricks.com/svgcode-raster-to-vector/"/>
+        <updated>2022-02-09T21:39:41.000Z</updated>
+        <summary type="html"><![CDATA[Say you have a bitmap graphic — like a JPG, PNG, or GIF — and you wish it was vector, like SVG. What do you do? You could trace it yourself in some kind of design software. Or tools within …
+SVGcode for “Live Tracing” Raster Images originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – Math Simplified Fractions where Denominator is Less-than-or-equal-to N]]></title>
+        <id>https://helloacm.com/?p=148892</id>
+        <link href="https://helloacm.com/teaching-kids-programming-math-simplified-fractions-where-denominator-is-less-than-or-equal-to-n/"/>
+        <updated>2022-02-09T21:29:24.000Z</updated>
+        <summary type="html"><![CDATA[Teaching Kids Programming: Videos on Data Structures and Algorithms Given an integer n, return a list of all simplified fractions between 0 and 1 (exclusive) such that the denominator is...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Your Own CRT TV]]></title>
+        <id>https://hackaday.com/?p=519149</id>
+        <link href="https://hackaday.com/2022/02/09/build-your-own-crt-tv/"/>
+        <updated>2022-02-09T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There was a time following the Second World War when TV sets for the nascent broadcast medium were still very expensive, but there was an ample supply of war-surplus electronic …read more]]></summary>
+        <author>
+            <name>Jenny List</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Artificial Intelligence From Its Early Development to the Present Day]]></title>
+        <id>6202d8fe56125b0677c62f23</id>
+        <link href="https://www.freecodecamp.org/news/artificial-intelligence-from-its-early-development-to-the-present-day/"/>
+        <updated>2022-02-09T20:29:11.000Z</updated>
+        <summary type="html"><![CDATA[Before we get started, I'll just say this: don't leave this article without at least reading the final two paragraphs. I won't spoil it for you. But trust me, you won't want to miss it! The history of artificial intelligence can be traced back to early philosophical and scientific thinking]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s Always Floppy Time!]]></title>
+        <id>https://hackaday.com/?p=519047</id>
+        <link href="https://hackaday.com/2022/02/09/its-always-floppy-time/"/>
+        <updated>2022-02-09T19:30:46.000Z</updated>
+        <summary type="html"><![CDATA[On [Jan Derogee]’s desk is something that wouldn’t look out of place for many of us, a pile of computer magazines with a case of 3.5″ floppy disks on top …read more]]></summary>
+        <author>
+            <name>Jenny List</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Dynamic Forms in React]]></title>
+        <id>61ffb402f2ed6b06db5ae0f7</id>
+        <link href="https://www.freecodecamp.org/news/build-dynamic-forms-in-react/"/>
+        <updated>2022-02-09T18:08:52.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, let's learn how to build dynamic forms in React. Using dynamic forms, we can add fields or remove them depending on our needs.  So, let's get started. How to Create a Form in React Let's create a simple form first. The syntax is straightforward: import './App.css';]]></summary>
+        <author>
+            <name>Nishant Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Logging Web App with Server-Sent Events, RxJS, and Express]]></title>
+        <id>62012010f2ed6b06db5aeee0</id>
+        <link href="https://www.freecodecamp.org/news/build-a-logging-web-app-with-server-sent-events-rxjs-and-express/"/>
+        <updated>2022-02-09T18:06:54.000Z</updated>
+        <summary type="html"><![CDATA[Say you're working on your new great idea – a web or mobile app, and a back end server. Nothing too complicated so far. Until you realize that you need to stream data from your server to these clients.  Usually, when working on this, the first thing that comes]]></summary>
+        <author>
+            <name>Shayan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Snake Game with React, Redux, and Redux Saga]]></title>
+        <id>61ff69c0f2ed6b06db5adbae</id>
+        <link href="https://www.freecodecamp.org/news/build-a-snake-game-with-react-redux-and-redux-sagas/"/>
+        <updated>2022-02-09T18:03:35.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I am going to walk you through creating a snake game using a React application. It is a simple 2d game built using TypeScript, and we won't need to use any third-party graphics libraries to build it.  This is what we'll make in this tutorial: Snake]]></summary>
+        <author>
+            <name>Keyur Paralkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hands-On Data Preprocessing in Python (Packt)]]></title>
+        <id>http://www.i-programmer.info/book-watch-archive/15206-hands-on-data-preprocessing-in-python-packt.html</id>
+        <link href="http://www.i-programmer.info/book-watch-archive/15206-hands-on-data-preprocessing-in-python-packt.html"/>
+        <updated>2022-02-09T18:00:12.000Z</updated>
+        <summary type="html"><![CDATA[This book teaches data preprocessing techniques from multiple perspectives. Roy Jafari looks at different technical and analytical aspects of data preprocessing – data collection, data cleaning, data integration, data reduction, and data transformation – and describes how to get to grips with implementing them using the open source Python programming environment.
+
+<ASIN:1801072132>
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mining and Refining: Lithium, Powering the Future with Brine]]></title>
+        <id>https://hackaday.com/?p=516967</id>
+        <link href="https://hackaday.com/2022/02/09/mining-and-refining-lithium-powering-the-future-with-brine/"/>
+        <updated>2022-02-09T18:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Many years ago, I read an article about the new hotness: lithium batteries. The author opened with what he no doubt thought was a clever pop culture reference by saying …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Past redlining still seen in the present]]></title>
+        <id>https://flowingdata.com/?p=66833</id>
+        <link href="https://flowingdata.com/2022/02/09/past-redlining-still-seen-in-the-present/"/>
+        <updated>2022-02-09T17:47:25.000Z</updated>
+        <summary type="html"><![CDATA[In the 1930s, a group called the Home Owners’ Loan Corporation went to…
+Tags: FiveThirtyEight, racism, redlining]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thinking on ways to solve SVG FAVICON]]></title>
+        <id>https://web.dev/shows/gui-challenges/4pJahmCR8kQ/</id>
+        <link href="https://web.dev/shows/gui-challenges/4pJahmCR8kQ/"/>
+        <updated>2022-02-09T17:45:44.000Z</updated>
+        <summary type="html"><![CDATA[In today's GUI Challenge, @Adam Argyle shares thinking on a way to build an adaptive favicon with SVG. SVG not only delivers an infinitely scalable icon, it also allows inlining styles that can hook into CSS media queries like the light and dark preference queries.
+Chapters:
+0:00 - Introduction
+0:36 - Overview
+1:59 - Light and Dark
+2:48 - Loading
+3:22 - Markup
+4:45 - SVG preparation
+5:31 - Outro
+
+
+
+
+Resources:
+Read along → 
+Try a demo → 
+Get the source → 
+
+https://goo.gle/3uASh1shttps://goo.gle/3GAzzt4https://goo.gle/3ov8x08
+Watch more GUI Challenges → 
+Subscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttps://goo.gle/ChromeDevs
+
+#GUIchallenges #CSS #ChromeDeveloper]]></summary>
+        <author>
+            <name>GUI Challenges on web.dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Developer Career Questions Answered]]></title>
+        <id>61bb6e3e07222107a6c7ae69</id>
+        <link href="https://www.freecodecamp.org/news/your-developer-career-questions-answered/"/>
+        <updated>2022-02-09T16:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Will AI ever replace developers? Which programming language should you learn first? What's the best way to learn programming? Learn the answers to these questions and more from a group of experienced developers and technical course creators. We just published a video on the freeCodeCamp.org YouTube channel where experienced developers]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[That Clock on the Wall is Actually a Network Ping Display]]></title>
+        <id>https://hackaday.com/?p=519081</id>
+        <link href="https://hackaday.com/2022/02/09/that-clock-on-the-wall-is-actually-a-network-ping-display/"/>
+        <updated>2022-02-09T16:30:20.000Z</updated>
+        <summary type="html"><![CDATA[We’ve all been online from home a bit more than usual lately, in ways that often stretch the limits of what our ISP can muster. You know the signs — …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing JavaScript Applications]]></title>
+        <id>http://www.i-programmer.info/bookreviews/29-javascript/15205-testing-javascript-applications.html</id>
+        <link href="http://www.i-programmer.info/bookreviews/29-javascript/15205-testing-javascript-applications.html"/>
+        <updated>2022-02-09T15:47:14.000Z</updated>
+        <summary type="html"><![CDATA[Author: Lucas da Costa
+Publisher: Manning
+Date: April 2021
+Pages: 512
+ISBN: 978-1617297915
+Print: 1617297917
+Audience: JavaScript developers
+Level: Intermediate
+Rating: 5
+Reviewer: Ian Elliot
+Testing the most web's fundamental language is clearly important...
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make CSS Slanted Containers]]></title>
+        <id>https://css-tricks.com/?p=362940</id>
+        <link href="https://css-tricks.com/css-slanted-containers/"/>
+        <updated>2022-02-09T15:19:47.000Z</updated>
+        <summary type="html"><![CDATA[I was updating my portfolio and wanted to use the forward slash (/) as a visual element for the site’s main layout. I hadn’t attempted to create a slanted container in CSS before, but it seemed like it …
+How to Make CSS Slanted Containers originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Dave Seidman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China Loves Battery Swapping EVs, But Will They Ever Make It Here?]]></title>
+        <id>https://hackaday.com/?p=517515</id>
+        <link href="https://hackaday.com/2022/02/09/china-loves-battery-swapping-evs-but-will-they-ever-make-it-here/"/>
+        <updated>2022-02-09T15:00:33.000Z</updated>
+        <summary type="html"><![CDATA[Electric vehicles promise efficiency gains over their gas-fuelled predecessors, but the issue of recharging remains a hurdle for many eager to jump on board with the technology. The problem is …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Climate Change Will Hit Younger Generations]]></title>
+        <id>A121DA39-3645-4391-B5A2011204FD7503</id>
+        <link href="https://www.scientificamerican.com/article/how-climate-change-will-hit-younger-generations/"/>
+        <updated>2022-02-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A new analysis shows that people born later will experience vastly more severe weather events
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Andrea Thompson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[skript-syntax]]></title>
+        <id>https://atom.io/packages/skript-syntax</id>
+        <link href="https://atom.io/packages/skript-syntax"/>
+        <updated>2022-02-09T14:44:57.000Z</updated>
+        <summary type="html"><![CDATA[Skript Grammar (Atom.io)
+Syntax highlighting support for the Skript language.
+See here for the official SkriptLang org.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rockshelter Discoveries Show Neandertals Were a Lot like Us]]></title>
+        <id>06E54F49-D6CC-4F35-9EF38C142D195A4E</id>
+        <link href="https://www.scientificamerican.com/article/rockshelter-discoveries-show-neandertals-were-a-lot-like-us/"/>
+        <updated>2022-02-09T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Our much maligned cousins made sophisticated ornaments and probably had language
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>David W. Frayer, Davorka Radovcic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Major African Radio Telescope Will Help to Image Black Holes]]></title>
+        <id>5466F9A3-D5EF-4572-B57819123D4AFB78</id>
+        <link href="https://www.scientificamerican.com/article/major-african-radio-telescope-will-help-to-image-black-holes1/"/>
+        <updated>2022-02-09T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The $25-million facility in Namibia will be the continent’s first millimeter-range astronomical observatory
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Sarah Wild, Nature magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Desperately Need to Modernize Climate Change Emissions Tracking]]></title>
+        <id>35FDAB45-BB93-4DE2-ABF7847D3D01EE76</id>
+        <link href="https://www.scientificamerican.com/article/we-desperately-need-to-modernize-climate-change-emissions-tracking/"/>
+        <updated>2022-02-09T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain and other technologies could help improve data collection worldwide
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Angel Hsu, Marco Schletz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Techstrong Research DevOps Radar Report 2022]]></title>
+        <id>https://devops.com/?p=149802</id>
+        <link href="https://devops.com/techstrong-research-devops-radar-report-2022/"/>
+        <updated>2022-02-09T12:01:31.000Z</updated>
+        <summary type="html"><![CDATA[You can’t control the pace of change; instead, consider that we are in a process of reinvention—both with regard to the way organizations use technology and how vendors position their offerings. At the same time, it’s never been more important for IT organizations to have complete visibility into the way technology is used from both […]
+The post Techstrong Research DevOps Radar Report 2022 appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Dan Kirsch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mystery Effect Causing LEDs To Glow During Reflow]]></title>
+        <id>https://hackaday.com/?p=519199</id>
+        <link href="https://hackaday.com/2022/02/09/mystery-effect-causing-leds-to-glow-during-reflow/"/>
+        <updated>2022-02-09T12:00:40.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes you notice something small that nevertheless you can’t explain. [Greg Davill] found himself in just such a situation this week when he noticed some green LEDs glowing dimly when …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frequency trails in the snow]]></title>
+        <id>https://flowingdata.com/?p=66828</id>
+        <link href="https://flowingdata.com/2022/02/09/frequency-trails-in-the-snow/"/>
+        <updated>2022-02-09T11:51:33.000Z</updated>
+        <summary type="html"><![CDATA[Same vibes pic.twitter.com/oXjhdwS3yW
+— Matt Blackwell (@matt_blackwell) February 7, 2022
+ 
+This is a…
+Tags: humor, snow]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyberattack Misinformation Could Be Plan for Ukraine Invasion]]></title>
+        <id>5155335B-E680-49AA-AE514A832D308CE4</id>
+        <link href="https://www.scientificamerican.com/article/cyberattack-misinformation-could-be-plan-for-ukraine-invasion/"/>
+        <updated>2022-02-09T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[A falsified video would be an update on the traditional use of propaganda campaigns during warfare
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Sophie Bushwick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Apply A/B Split Testing to Marketing]]></title>
+        <id>https://hackernoon.com/how-to-apply-ab-split-testing-to-marketing?source=rss</id>
+        <link href="https://hackernoon.com/how-to-apply-ab-split-testing-to-marketing?source=rss"/>
+        <updated>2022-02-09T08:17:42.000Z</updated>
+        <summary type="html"><![CDATA[A/B Split Testing takes the guesswork out of optimization.]]></summary>
+        <author>
+            <name>LEO Digital Marketing</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Technologies Driving Business Sustainability]]></title>
+        <id>https://devops.com/?p=149759</id>
+        <link href="https://devops.com/3-technologies-driving-business-sustainability/"/>
+        <updated>2022-02-09T08:00:02.000Z</updated>
+        <summary type="html"><![CDATA[The pandemic highlighted many things, not least of which was the shift in consumer behavior toward further encouraging companies to change their operations and act with sustainability in mind. An overwhelming 96% of businesses said the pandemic shifted their focus to the social component of environmental, social and governance (ESG) strategies. Technology has been a key […]
+The post 3 Technologies Driving Business Sustainability appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Rick Veague</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Work hard and be ready for failure before success"]]></title>
+        <id>https://hackernoon.com/work-hard-and-be-ready-for-failure-before-success?source=rss</id>
+        <link href="https://hackernoon.com/work-hard-and-be-ready-for-failure-before-success?source=rss"/>
+        <updated>2022-02-09T07:42:48.000Z</updated>
+        <summary type="html"><![CDATA[I love our team because every person is community-focused and gives back.]]></summary>
+        <author>
+            <name>LEO Digital Marketing</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✚ How to Make a Line Chart with a Color Gradient in R]]></title>
+        <id>https://flowingdata.com/?p=66804</id>
+        <link href="https://flowingdata.com/2022/02/08/how-to-make-a-line-chart-with-a-color-gradient-in-r/"/>
+        <updated>2022-02-09T07:40:24.000Z</updated>
+        <summary type="html"><![CDATA[Use color to reinforce or add another layer of meaning to a regular line chart.
+Tags: R]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day in the Life of a Site Reliability Engineer (SRE)]]></title>
+        <id>https://devops.com/?p=149718</id>
+        <link href="https://devops.com/day-in-the-life-of-a-site-reliability-engineer-sre/"/>
+        <updated>2022-02-09T07:30:05.000Z</updated>
+        <summary type="html"><![CDATA[By now, most of us are familiar with the concept of site reliability engineering (SRE). The term was originally coined by Google and SRE has been gaining traction in recent years as a role dedicated to increasing the resilience of digital ecosystems. To accomplish this, a big part of the SRE doctrine is “automating your […]
+The post Day in the Life of a Site Reliability Engineer (SRE) appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Bill Doerrfeld</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automated Offline Backups Can Save the World]]></title>
+        <id>https://hackernoon.com/automated-offline-backups-can-save-the-world?source=rss</id>
+        <link href="https://hackernoon.com/automated-offline-backups-can-save-the-world?source=rss"/>
+        <updated>2022-02-09T06:45:51.000Z</updated>
+        <summary type="html"><![CDATA[Ransomware is worse than malware: Systems and data are all locked up, and backups are all encrypted, too.]]></summary>
+        <author>
+            <name>Acroname</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ways to Use Images in Your Marketing Campaigns]]></title>
+        <id>https://hackernoon.com/ways-to-use-images-in-your-marketing-campaigns?source=rss</id>
+        <link href="https://hackernoon.com/ways-to-use-images-in-your-marketing-campaigns?source=rss"/>
+        <updated>2022-02-09T06:18:39.000Z</updated>
+        <summary type="html"><![CDATA[Images are critical to the success of your campaign due to their huge impact on emotions.]]></summary>
+        <author>
+            <name>Iliyasu Mohammed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[berhadiah2]]></title>
+        <id>https://atom.io/packages/berhadiah2</id>
+        <link href="https://atom.io/packages/berhadiah2"/>
+        <updated>2022-02-09T06:07:21.000Z</updated>
+        <summary type="html"><![CDATA[berhadiah2 package]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the Long-Term Impact of Living in a Technological World?]]></title>
+        <id>https://hackernoon.com/what-is-the-long-term-impact-of-living-in-a-technological-world?source=rss</id>
+        <link href="https://hackernoon.com/what-is-the-long-term-impact-of-living-in-a-technological-world?source=rss"/>
+        <updated>2022-02-09T04:48:19.000Z</updated>
+        <summary type="html"><![CDATA[A technological world sure has its pros and cons]]></summary>
+        <author>
+            <name>Felix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are the Best Data Analytics Tools?]]></title>
+        <id>https://hackernoon.com/what-are-the-best-data-analytics-tools?source=rss</id>
+        <link href="https://hackernoon.com/what-are-the-best-data-analytics-tools?source=rss"/>
+        <updated>2022-02-09T04:24:49.000Z</updated>
+        <summary type="html"><![CDATA[Data analytics is used for transforming raw data into useful insights.]]></summary>
+        <author>
+            <name>Saajan Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Communicate With the  Beneficiaries of Your Nonprofit in 2022]]></title>
+        <id>https://hackernoon.com/how-to-communicate-with-the-beneficiaries-of-your-nonprofit-in-2022?source=rss</id>
+        <link href="https://hackernoon.com/how-to-communicate-with-the-beneficiaries-of-your-nonprofit-in-2022?source=rss"/>
+        <updated>2022-02-09T03:55:50.000Z</updated>
+        <summary type="html"><![CDATA[Running a non-profit can be tough, especially when it comes to communication. To make things easier, here are some ways to get better at it.]]></summary>
+        <author>
+            <name>TechSoup</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Secure Your Vaccination Status]]></title>
+        <id>https://hackernoon.com/how-to-secure-your-vaccination-status?source=rss</id>
+        <link href="https://hackernoon.com/how-to-secure-your-vaccination-status?source=rss"/>
+        <updated>2022-02-09T03:48:18.000Z</updated>
+        <summary type="html"><![CDATA[It can be a hassle to take your vaccination card everywhere, especially when it's easy to lose. However, there are ways to have it on your phone.]]></summary>
+        <author>
+            <name>The Markup</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud-Native Buildpacks, BuildKit, and Container Images: Qu'est-ce Que C'est?]]></title>
+        <id>https://hackernoon.com/cloud-native-buildpacks-buildkit-and-container-images-quest-ce-que-cest?source=rss</id>
+        <link href="https://hackernoon.com/cloud-native-buildpacks-buildkit-and-container-images-quest-ce-que-cest?source=rss"/>
+        <updated>2022-02-09T03:33:03.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll do a deep dive into the Buildpacks BuikdKit frontend implementation and see how it actually works under the hood.]]></summary>
+        <author>
+            <name>Shem Leong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Import JavaScript and CSS from a Public CDN]]></title>
+        <id>61f804bbf2ed6b06db5a95a9</id>
+        <link href="https://www.freecodecamp.org/news/import-javascript-and-css-from-a-public-cdn/"/>
+        <updated>2022-02-09T00:38:48.000Z</updated>
+        <summary type="html"><![CDATA[When you're writing a Vanilla JavaScript application, you don't have to host all the code you use on your own site. Most popular JavaScript libraries are available from a public Content Delivery Network (CDN). This can simplify deploying the application and keeping dependencies up to date. In fact, if you've]]></summary>
+        <author>
+            <name>Alan Richardson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Tuning Fork Clock, With Discreet Logic]]></title>
         <id>https://hackaday.com/?p=519078</id>
@@ -14,6 +593,162 @@
         <summary type="html"><![CDATA[[Willem Koopman aka Secretbatcave] was looking at a master clock he has in his collection which was quite a noisy device, but wanted to use the matching solenoid slave clock …read more]]></summary>
         <author>
             <name>Dave Rowntree</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Teleport Uses Teleport to Create and Maintain Shared Demo Environments]]></title>
+        <id>https://goteleport.com/blog/shared-demo-environment/</id>
+        <link href="https://goteleport.com/blog/shared-demo-environment/"/>
+        <updated>2022-02-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Our Solution Engineering (SE) team is full of individuals who have vast real-world experience building and maintaining complex IT access systems with sophisticated audit layers through their work as DevOps engineers. The problems that we have all faced before joining Teleport are the exact problems that our customers face. So when it comes to our demos, we like to show real-world scenarios aligned to customer usage patterns, in environments similar to our customers. That means that we regularly create resources like EC2 instances, RDS databases, Jenkins clusters, and more to show how Teleport combines connectivity, authentication, authorization, and audit into a single platform to improve security and productivity.
+Because these demo environments mimic the real production environments of o…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Sponsor-Only Repos On GitHub]]></title>
+        <id>http://www.i-programmer.info/news/136-open-source/15201-new-sponsor-only-repos-on-github.html</id>
+        <link href="http://www.i-programmer.info/news/136-open-source/15201-new-sponsor-only-repos-on-github.html"/>
+        <updated>2022-02-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GitHub has announced several improvements to its Sponsors program including sponsors-only repositories, a feature that will give developers more options for engaging with their sponsors. 
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glassdoor's Best Jobs For 2022]]></title>
+        <id>http://www.i-programmer.info/news/99-professional/15204-glassdoors-best-jobs-for-2022.html</id>
+        <link href="http://www.i-programmer.info/news/99-professional/15204-glassdoors-best-jobs-for-2022.html"/>
+        <updated>2022-02-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In its new rankings of Best Jobs, Glassdoor put Enterprise Architect top of its list for the USA and Java Developer top in the UK.
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Full Stack NFT Minting DApp Using Hardhat, Ethers.js, Next.js, and TailwindCSS]]></title>
+        <id>https://hackernoon.com/building-a-full-stack-nft-minting-dapp-using-hardhat-ethersjs-nextjs-and-tailwindcss?source=rss</id>
+        <link href="https://hackernoon.com/building-a-full-stack-nft-minting-dapp-using-hardhat-ethersjs-nextjs-and-tailwindcss?source=rss"/>
+        <updated>2022-02-08T23:54:18.000Z</updated>
+        <summary type="html"><![CDATA[Building a Full Stack NFT minting Dapp using Hardhat, ethers.js, Next.js, and TailwindCSS]]></summary>
+        <author>
+            <name>Abhinav Pathak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Webflow is Redefining Website Design and Development]]></title>
+        <id>https://hackernoon.com/how-webflow-is-redefining-website-design-and-development?source=rss</id>
+        <link href="https://hackernoon.com/how-webflow-is-redefining-website-design-and-development?source=rss"/>
+        <updated>2022-02-08T23:50:38.000Z</updated>
+        <summary type="html"><![CDATA[We’re here to give control back to our clients. That’s why we use Webflow to create a smarter and better website design that puts you in the driver’s seat.]]></summary>
+        <author>
+            <name>HppyHour Digital</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here's How P2E Gaming is Building New Wealth Opportunities]]></title>
+        <id>https://hackernoon.com/heres-how-p2e-gaming-is-building-new-wealth-opportunities?source=rss</id>
+        <link href="https://hackernoon.com/heres-how-p2e-gaming-is-building-new-wealth-opportunities?source=rss"/>
+        <updated>2022-02-08T23:47:41.000Z</updated>
+        <summary type="html"><![CDATA[The world of P2E gaming has been gaining popularity in recent years.]]></summary>
+        <author>
+            <name>Ricky Rathore</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using ConfigCat's Feature Flags in a Phaser.io Application]]></title>
+        <id>https://hackernoon.com/using-configcats-feature-flags-in-a-phaserio-application?source=rss</id>
+        <link href="https://hackernoon.com/using-configcats-feature-flags-in-a-phaserio-application?source=rss"/>
+        <updated>2022-02-08T23:45:36.000Z</updated>
+        <summary type="html"><![CDATA[Let's take a look at how practical a feature flag can be in a Phaser.io application.]]></summary>
+        <author>
+            <name>ConfigCat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OAuth2.0 Grants — Cheatsheet for WSO2 Identity Server or Asgardeo]]></title>
+        <id>https://hackernoon.com/oauth20-grants-cheatsheet-for-wso2-identity-server-or-asgardeo?source=rss</id>
+        <link href="https://hackernoon.com/oauth20-grants-cheatsheet-for-wso2-identity-server-or-asgardeo?source=rss"/>
+        <updated>2022-02-08T23:37:38.000Z</updated>
+        <summary type="html"><![CDATA[OAuth2.0 is still the most commonly used specification in the area of application security. Hence, this cheat sheet will help you with important code commands.]]></summary>
+        <author>
+            <name>Dinali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Design for User Retention That Works]]></title>
+        <id>https://hackernoon.com/how-to-design-for-user-retention-that-works?source=rss</id>
+        <link href="https://hackernoon.com/how-to-design-for-user-retention-that-works?source=rss"/>
+        <updated>2022-02-08T23:34:44.000Z</updated>
+        <summary type="html"><![CDATA[Tips on how to create enjoyable and habit-forming UX/UI design in every digital product.]]></summary>
+        <author>
+            <name>Erik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Tutorial to Deploy the Node.Js App to Nginx Server]]></title>
+        <id>https://hackernoon.com/a-tutorial-to-deploy-the-nodejs-app-to-nginx-server?source=rss</id>
+        <link href="https://hackernoon.com/a-tutorial-to-deploy-the-nodejs-app-to-nginx-server?source=rss"/>
+        <updated>2022-02-08T23:33:03.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial guide, we will explain the step-by-step process of deploying your first Node.Js application to the server.]]></summary>
+        <author>
+            <name>sarrahpitaliya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Best Online Courses to Learn Oracle and PL/SQL for Beginners]]></title>
+        <id>https://hackernoon.com/10-best-online-courses-to-learn-oracle-and-plsql-for-beginners?source=rss</id>
+        <link href="https://hackernoon.com/10-best-online-courses-to-learn-oracle-and-plsql-for-beginners?source=rss"/>
+        <updated>2022-02-08T23:30:53.000Z</updated>
+        <author>
+            <name>Javin Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decoding NFTs, GameFi and Metaverse with Helen Hai, Head of Binance NFT]]></title>
+        <id>https://hackernoon.com/decoding-nfts-gamefi-and-metaverse-with-helen-hai-head-of-binance-nft?source=rss</id>
+        <link href="https://hackernoon.com/decoding-nfts-gamefi-and-metaverse-with-helen-hai-head-of-binance-nft?source=rss"/>
+        <updated>2022-02-08T23:27:50.000Z</updated>
+        <summary type="html"><![CDATA[Head of Binance NFT, Helen Hai, is the head of the NFT platform talks about NFTs, Metaverse and GameFi.]]></summary>
+        <author>
+            <name>Ishan Pandey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Bitcoin Really Bad for the Environment?]]></title>
+        <id>https://hackernoon.com/the-bitcoin-sustainability-question-is-it-really-bad-for-the-environment?source=rss</id>
+        <link href="https://hackernoon.com/the-bitcoin-sustainability-question-is-it-really-bad-for-the-environment?source=rss"/>
+        <updated>2022-02-08T23:00:59.000Z</updated>
+        <summary type="html"><![CDATA[While there is some legitimacy to Bitcoin's negative carbon footprint, the claims are overblown and distributed ledgers can actually help the environment.]]></summary>
+        <author>
+            <name>Masha Prusso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring Performance After Migration from .NET5 to .NET 6]]></title>
+        <id>https://hackernoon.com/measuring-performance-after-migration-from-net5-to-net-6?source=rss</id>
+        <link href="https://hackernoon.com/measuring-performance-after-migration-from-net5-to-net-6?source=rss"/>
+        <updated>2022-02-08T22:48:28.000Z</updated>
+        <summary type="html"><![CDATA[An article about benchmarks of the open-source eCommerce platform after migrating to the latest Microsoft technology, .NET 6.]]></summary>
+        <author>
+            <name>nopCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Replace – How to Use the String.prototype.replace() Method JS Example]]></title>
+        <id>62026d96f2ed6b06db5af947</id>
+        <link href="https://www.freecodecamp.org/news/javascript-replace-how-to-use-the-string-prototype-replace-method-js-example/"/>
+        <updated>2022-02-08T21:26:21.000Z</updated>
+        <summary type="html"><![CDATA[The String.prototype.replace() method searches for the first occurrence of a string and replaces it with the specified string. It does this without mutating the original string. This method works for regular expressions, too, so the item you're searching for may be expressed as a regular expression. The value to return]]></summary>
+        <author>
+            <name>Kolade Chris</name>
         </author>
     </entry>
     <entry>
@@ -230,6 +965,17 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>I Programmer - full contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Map of Meaning in the Brain Changes Ideas About Memory]]></title>
+        <id>https://www.quantamagazine.org/?p=112413</id>
+        <link href="https://www.quantamagazine.org/new-map-of-meaning-in-the-brain-changes-ideas-about-memory-20220208/"/>
+        <updated>2022-02-08T15:44:11.000Z</updated>
+        <summary type="html"><![CDATA[Researchers have mapped hundreds of semantic categories to the tiny bits of the cortex that represent them in our thoughts and perceptions. What they discovered might change our view of memory.            
+The post New Map of Meaning in the Brain Changes Ideas About Memory first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Jordana Cepelewicz</name>
         </author>
     </entry>
     <entry>

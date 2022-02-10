@@ -6,6 +6,15 @@
       "siteUrl": "https://goteleport.com/blog/",
       "articles": [
         {
+          "id": "https://goteleport.com/blog/shared-demo-environment/",
+          "author": null,
+          "description": "Our Solution Engineering (SE) team is full of individuals who have vast real-world experience building and maintaining complex IT access systems with sophisticated audit layers through their work as DevOps engineers. The problems that we have all faced before joining Teleport are the exact problems that our customers face. So when it comes to our demos, we like to show real-world scenarios aligned to customer usage patterns, in environments similar to our customers. That means that we regularly create resources like EC2 instances, RDS databases, Jenkins clusters, and more to show how Teleport combines connectivity, authentication, authorization, and audit into a single platform to improve security and productivity.\nBecause these demo environments mimic the real production environments of o…",
+          "link": "https://goteleport.com/blog/shared-demo-environment/",
+          "publishedOn": "2022-02-09T00:00:00.000Z",
+          "wordCount": 1871,
+          "title": "How Teleport Uses Teleport to Create and Maintain Shared Demo Environments"
+        },
+        {
           "id": "https://goteleport.com/blog/how-to-set-up-ssh-keys/",
           "author": null,
           "description": "At Teleport, we advocate SSH certificates over SSH keys and passwords as the best authentication method for SSH. Nothing beats the security and operational flexibility of using certificate-based authentication for a large fleet of SSH servers running on dynamic infrastructure. But in practice, certificate-based authentication is far from the de facto authentication method, and sometimes we may need to use SSH keys. For example, in my daily workflow I use SSH keys when accessing DigitalOcean servers or to check repositories in my GitHub personal account because SSH keys are the default available methods (alongside passwords). So it helps to learn the best way to generate and use SSH keys.\nThis post is targeted towards individuals who need to generate and manage SSH keys and keep them secure…",
@@ -760,6 +769,42 @@
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
         {
+          "id": "http://www.i-programmer.info/book-watch-archive/15206-hands-on-data-preprocessing-in-python-packt.html",
+          "author": null,
+          "description": "This book teaches data preprocessing techniques from multiple perspectives. Roy Jafari looks at different technical and analytical aspects of data preprocessing – data collection, data cleaning, data integration, data reduction, and data transformation – and describes how to get to grips with implementing them using the open source Python programming environment.\n\r\n<ASIN:1801072132>\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/book-watch-archive/15206-hands-on-data-preprocessing-in-python-packt.html",
+          "publishedOn": "2022-02-09T18:00:12.000Z",
+          "wordCount": 526,
+          "title": "Hands-On Data Preprocessing in Python (Packt)"
+        },
+        {
+          "id": "http://www.i-programmer.info/bookreviews/29-javascript/15205-testing-javascript-applications.html",
+          "author": null,
+          "description": "Author: Lucas da Costa\nPublisher: Manning\nDate: April 2021\nPages: 512\nISBN: 978-1617297915\nPrint: 1617297917\nAudience: JavaScript developers\nLevel: Intermediate\nRating: 5\nReviewer: Ian Elliot\nTesting the most web's fundamental language is clearly important...\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/bookreviews/29-javascript/15205-testing-javascript-applications.html",
+          "publishedOn": "2022-02-09T15:47:14.000Z",
+          "wordCount": 837,
+          "title": "Testing JavaScript Applications"
+        },
+        {
+          "id": "http://www.i-programmer.info/news/136-open-source/15201-new-sponsor-only-repos-on-github.html",
+          "author": null,
+          "description": "GitHub has announced several improvements to its Sponsors program including sponsors-only repositories, a feature that will give developers more options for engaging with their sponsors. \n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/136-open-source/15201-new-sponsor-only-repos-on-github.html",
+          "publishedOn": "2022-02-09T00:00:00.000Z",
+          "wordCount": 871,
+          "title": "New Sponsor-Only Repos On GitHub"
+        },
+        {
+          "id": "http://www.i-programmer.info/news/99-professional/15204-glassdoors-best-jobs-for-2022.html",
+          "author": null,
+          "description": "In its new rankings of Best Jobs, Glassdoor put Enterprise Architect top of its list for the USA and Java Developer top in the UK.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/99-professional/15204-glassdoors-best-jobs-for-2022.html",
+          "publishedOn": "2022-02-09T00:00:00.000Z",
+          "wordCount": 1224,
+          "title": "Glassdoor's Best Jobs For 2022"
+        },
+        {
           "id": "http://www.i-programmer.info/news/98-languages/15203-swift-and-c-interoperability-workgroup-announced.html",
           "author": null,
           "description": "The Swift community has announced the formation of a workgroup the aim of which is to advance the interoperability support between Swift, the language originally developed by Apple as an alternative language to Objective C, and C++. \n\r\n\nRead more...",
@@ -1243,6 +1288,51 @@
       "feedUrl": "https://atom.io/packages.atom",
       "siteUrl": "https://atom.io",
       "articles": [
+        {
+          "id": "https://atom.io/packages/metals-lsp-adapter",
+          "author": null,
+          "description": "Scala (Metals) LSP Adapter for Atom\nOverview\nMinimal LSP adapter for Atom to replace the inactive ide-scala package.\n\nDependencies\nRequires atom-ide-base.\nInstallation\nUsing Coursier install Metals as follows:\ncoursier bootstrap org.scalameta:metals_2.12:0.11.1 -o metals -f\n\n\nThen either put the location on your PATH or enter the full path in the config.\nMay require restart of Atom.\nLicense\nMIT License.",
+          "link": "https://atom.io/packages/metals-lsp-adapter",
+          "publishedOn": "2022-02-10T00:50:53.000Z",
+          "wordCount": 127,
+          "title": "metals-lsp-adapter"
+        },
+        {
+          "id": "https://atom.io/packages/tailwindcss-autocomplete",
+          "author": null,
+          "description": "tailwindcss-autocomplete\nThis package uses the great work of raybrownco/atom-tailwindcss and vinkla/autocomplete-tailwind. Unfortunately, both projects are stuck at Tailwind CSS v1 and there does not seem to be any activity in both repositories.\nThis project is updated to include the classnames of Tailwind CSS v2.2.19 and has been fixed to show a preview of the color names.\nManually Installing this Atom Package\ngit clone https://github.com/toddy15/tailwindcss-autocomplete.git\ncd tailwindcss-autocomplete\nnpm install\nnpm run build\napm install\napm link .\n\n\n\nCreating a New Release\nThe following process should be followed to create a new release of this package. (I'm writing these words just as much for myself as I am for anyone interested in sending a PR.)\n# If the project's not set up yet:\ngit clone https://github.com/toddy15/tailwindcss-autocomplete.git\ncd tailwindcss-autocomplete\nnpm install\n \n# Grab the latest version of Tailwind CSS\nnpm update tailwindcss\n \n# Run a script to update the `src/completions.json` file\nnpm run build\n \n# Run tests to make sure the update hasn't broken anything\nnpm run test\n \n# Perform a manual visual inspection of the completions\ngit diff src/completions.json\n\n\nIf nothing has failed and the inspection goes well enough, you're ready to create a new version! All this means is that you crack open package.json and bump the version number. After that's done, send a pull request!\nMIT © Dr. Tobias Quathamer",
+          "link": "https://atom.io/packages/tailwindcss-autocomplete",
+          "publishedOn": "2022-02-09T23:39:16.000Z",
+          "wordCount": 284,
+          "title": "tailwindcss-autocomplete"
+        },
+        {
+          "id": "https://atom.io/packages/git-link",
+          "author": null,
+          "description": "Requirements\nYou must have git installed.\nQuick Start\nCLI:\napm install git-link\n\nOr search for the git-link package via Settings > Packages. Read more on Atom Packages.\nSupported platforms\nWorks for GitHub.com (public, tested).\nWorks for GitLab.com (public, tested).\nIt might work for others (untested).\nFeatures\nShare and open what you've worked on, or a bug you've spotted.\nCopy a link to a line, selection or file for the current commit\nBuilt with convenience in mind (#tips)\nHandles non-typical file and folders okay - e.g. [myfolder]/my#file.txt\n\nReferences markdown files in plaintext.\nCommand list\nNo keymaps are currently set by default.\nI recommended you configure your own keybindings and use what is comfortable for you. You can do this by going to Settings > Keybindings or open it from t…",
+          "link": "https://atom.io/packages/git-link",
+          "publishedOn": "2022-02-09T21:57:18.000Z",
+          "wordCount": 458,
+          "title": "git-link"
+        },
+        {
+          "id": "https://atom.io/packages/skript-syntax",
+          "author": null,
+          "description": "Skript Grammar (Atom.io)\nSyntax highlighting support for the Skript language.\nSee here for the official SkriptLang org.",
+          "link": "https://atom.io/packages/skript-syntax",
+          "publishedOn": "2022-02-09T14:44:57.000Z",
+          "wordCount": 88,
+          "title": "skript-syntax"
+        },
+        {
+          "id": "https://atom.io/packages/berhadiah2",
+          "author": null,
+          "description": "berhadiah2 package",
+          "link": "https://atom.io/packages/berhadiah2",
+          "publishedOn": "2022-02-09T06:07:21.000Z",
+          "wordCount": 69,
+          "title": "berhadiah2"
+        },
         {
           "id": "https://atom.io/packages/atomberhadiah",
           "author": null,
@@ -1817,6 +1907,24 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=362777",
+          "author": "Chris Coyier",
+          "description": "Say you have a bitmap graphic — like a JPG, PNG, or GIF — and you wish it was vector, like SVG. What do you do? You could trace it yourself in some kind of design software. Or tools within …\nSVGcode for “Live Tracing” Raster Images originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/svgcode-raster-to-vector/",
+          "publishedOn": "2022-02-09T21:39:41.000Z",
+          "wordCount": 737,
+          "title": "SVGcode for “Live Tracing” Raster Images"
+        },
+        {
+          "id": "https://css-tricks.com/?p=362940",
+          "author": "Dave Seidman",
+          "description": "I was updating my portfolio and wanted to use the forward slash (/) as a visual element for the site’s main layout. I hadn’t attempted to create a slanted container in CSS before, but it seemed like it …\nHow to Make CSS Slanted Containers originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/css-slanted-containers/",
+          "publishedOn": "2022-02-09T15:19:47.000Z",
+          "wordCount": 1242,
+          "title": "How to Make CSS Slanted Containers"
+        },
         {
           "id": "https://css-tricks.com/?p=363057",
           "author": "Chris Coyier",
@@ -3939,6 +4047,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "6202d8fe56125b0677c62f23",
+          "author": "David Clinton",
+          "description": "Before we get started, I'll just say this: don't leave this article without at least reading the final two paragraphs. I won't spoil it for you. But trust me, you won't want to miss it! The history of artificial intelligence can be traced back to early philosophical and scientific thinking",
+          "link": "https://www.freecodecamp.org/news/artificial-intelligence-from-its-early-development-to-the-present-day/",
+          "publishedOn": "2022-02-09T20:29:11.000Z",
+          "wordCount": 1678,
+          "title": "Artificial Intelligence From Its Early Development to the Present Day"
+        },
+        {
+          "id": "61ffb402f2ed6b06db5ae0f7",
+          "author": "Nishant Kumar",
+          "description": "In this tutorial, let's learn how to build dynamic forms in React. Using dynamic forms, we can add fields or remove them depending on our needs.  So, let's get started. How to Create a Form in React Let's create a simple form first. The syntax is straightforward: import './App.css';",
+          "link": "https://www.freecodecamp.org/news/build-dynamic-forms-in-react/",
+          "publishedOn": "2022-02-09T18:08:52.000Z",
+          "wordCount": 1384,
+          "title": "How to Build Dynamic Forms in React"
+        },
+        {
+          "id": "62012010f2ed6b06db5aeee0",
+          "author": "Shayan",
+          "description": "Say you're working on your new great idea – a web or mobile app, and a back end server. Nothing too complicated so far. Until you realize that you need to stream data from your server to these clients.  Usually, when working on this, the first thing that comes",
+          "link": "https://www.freecodecamp.org/news/build-a-logging-web-app-with-server-sent-events-rxjs-and-express/",
+          "publishedOn": "2022-02-09T18:06:54.000Z",
+          "wordCount": 1595,
+          "title": "How to Build a Logging Web App with Server-Sent Events, RxJS, and Express"
+        },
+        {
+          "id": "61ff69c0f2ed6b06db5adbae",
+          "author": "Keyur Paralkar",
+          "description": "In this article, I am going to walk you through creating a snake game using a React application. It is a simple 2d game built using TypeScript, and we won't need to use any third-party graphics libraries to build it.  This is what we'll make in this tutorial: Snake",
+          "link": "https://www.freecodecamp.org/news/build-a-snake-game-with-react-redux-and-redux-sagas/",
+          "publishedOn": "2022-02-09T18:03:35.000Z",
+          "wordCount": 8818,
+          "title": "How to Build a Snake Game with React, Redux, and Redux Saga"
+        },
+        {
+          "id": "61bb6e3e07222107a6c7ae69",
+          "author": "Beau Carnes",
+          "description": "Will AI ever replace developers? Which programming language should you learn first? What's the best way to learn programming? Learn the answers to these questions and more from a group of experienced developers and technical course creators. We just published a video on the freeCodeCamp.org YouTube channel where experienced developers",
+          "link": "https://www.freecodecamp.org/news/your-developer-career-questions-answered/",
+          "publishedOn": "2022-02-09T16:54:00.000Z",
+          "wordCount": 449,
+          "title": "Your Developer Career Questions Answered"
+        },
+        {
+          "id": "61f804bbf2ed6b06db5a95a9",
+          "author": "Alan Richardson",
+          "description": "When you're writing a Vanilla JavaScript application, you don't have to host all the code you use on your own site. Most popular JavaScript libraries are available from a public Content Delivery Network (CDN). This can simplify deploying the application and keeping dependencies up to date. In fact, if you've",
+          "link": "https://www.freecodecamp.org/news/import-javascript-and-css-from-a-public-cdn/",
+          "publishedOn": "2022-02-09T00:38:48.000Z",
+          "wordCount": 1677,
+          "title": "How to Import JavaScript and CSS from a Public CDN"
+        },
+        {
+          "id": "62026d96f2ed6b06db5af947",
+          "author": "Kolade Chris",
+          "description": "The String.prototype.replace() method searches for the first occurrence of a string and replaces it with the specified string. It does this without mutating the original string. This method works for regular expressions, too, so the item you're searching for may be expressed as a regular expression. The value to return",
+          "link": "https://www.freecodecamp.org/news/javascript-replace-how-to-use-the-string-prototype-replace-method-js-example/",
+          "publishedOn": "2022-02-08T21:26:21.000Z",
+          "wordCount": 1167,
+          "title": "JavaScript Replace – How to Use the String.prototype.replace() Method JS Example"
+        },
         {
           "id": "6200d99bf2ed6b06db5ae8aa",
           "author": "Zaira Hira",
@@ -7492,6 +7663,186 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/how-to-apply-ab-split-testing-to-marketing?source=rss",
+          "author": "LEO Digital Marketing",
+          "description": "A/B Split Testing takes the guesswork out of optimization.",
+          "link": "https://hackernoon.com/how-to-apply-ab-split-testing-to-marketing?source=rss",
+          "publishedOn": "2022-02-09T08:17:42.000Z",
+          "wordCount": 1475,
+          "title": "How to Apply A/B Split Testing to Marketing"
+        },
+        {
+          "id": "https://hackernoon.com/work-hard-and-be-ready-for-failure-before-success?source=rss",
+          "author": "LEO Digital Marketing",
+          "description": "I love our team because every person is community-focused and gives back.",
+          "link": "https://hackernoon.com/work-hard-and-be-ready-for-failure-before-success?source=rss",
+          "publishedOn": "2022-02-09T07:42:48.000Z",
+          "wordCount": 1458,
+          "title": "\"Work hard and be ready for failure before success\""
+        },
+        {
+          "id": "https://hackernoon.com/automated-offline-backups-can-save-the-world?source=rss",
+          "author": "Acroname",
+          "description": "Ransomware is worse than malware: Systems and data are all locked up, and backups are all encrypted, too.",
+          "link": "https://hackernoon.com/automated-offline-backups-can-save-the-world?source=rss",
+          "publishedOn": "2022-02-09T06:45:51.000Z",
+          "wordCount": 1768,
+          "title": "Automated Offline Backups Can Save the World"
+        },
+        {
+          "id": "https://hackernoon.com/ways-to-use-images-in-your-marketing-campaigns?source=rss",
+          "author": "Iliyasu Mohammed",
+          "description": "Images are critical to the success of your campaign due to their huge impact on emotions.",
+          "link": "https://hackernoon.com/ways-to-use-images-in-your-marketing-campaigns?source=rss",
+          "publishedOn": "2022-02-09T06:18:39.000Z",
+          "wordCount": 1580,
+          "title": "Ways to Use Images in Your Marketing Campaigns"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-the-long-term-impact-of-living-in-a-technological-world?source=rss",
+          "author": "Felix",
+          "description": "A technological world sure has its pros and cons",
+          "link": "https://hackernoon.com/what-is-the-long-term-impact-of-living-in-a-technological-world?source=rss",
+          "publishedOn": "2022-02-09T04:48:19.000Z",
+          "wordCount": 2032,
+          "title": "What is the Long-Term Impact of Living in a Technological World?"
+        },
+        {
+          "id": "https://hackernoon.com/what-are-the-best-data-analytics-tools?source=rss",
+          "author": "Saajan Sharma",
+          "description": "Data analytics is used for transforming raw data into useful insights.",
+          "link": "https://hackernoon.com/what-are-the-best-data-analytics-tools?source=rss",
+          "publishedOn": "2022-02-09T04:24:49.000Z",
+          "wordCount": 2235,
+          "title": "What are the Best Data Analytics Tools?"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-communicate-with-the-beneficiaries-of-your-nonprofit-in-2022?source=rss",
+          "author": "TechSoup",
+          "description": "Running a non-profit can be tough, especially when it comes to communication. To make things easier, here are some ways to get better at it.",
+          "link": "https://hackernoon.com/how-to-communicate-with-the-beneficiaries-of-your-nonprofit-in-2022?source=rss",
+          "publishedOn": "2022-02-09T03:55:50.000Z",
+          "wordCount": 2862,
+          "title": "How to Communicate With the  Beneficiaries of Your Nonprofit in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-secure-your-vaccination-status?source=rss",
+          "author": "The Markup",
+          "description": "It can be a hassle to take your vaccination card everywhere, especially when it's easy to lose. However, there are ways to have it on your phone.",
+          "link": "https://hackernoon.com/how-to-secure-your-vaccination-status?source=rss",
+          "publishedOn": "2022-02-09T03:48:18.000Z",
+          "wordCount": 2151,
+          "title": "How to Secure Your Vaccination Status"
+        },
+        {
+          "id": "https://hackernoon.com/cloud-native-buildpacks-buildkit-and-container-images-quest-ce-que-cest?source=rss",
+          "author": "Shem Leong",
+          "description": "In this article, we’ll do a deep dive into the Buildpacks BuikdKit frontend implementation and see how it actually works under the hood.",
+          "link": "https://hackernoon.com/cloud-native-buildpacks-buildkit-and-container-images-quest-ce-que-cest?source=rss",
+          "publishedOn": "2022-02-09T03:33:03.000Z",
+          "wordCount": 2240,
+          "title": "Cloud-Native Buildpacks, BuildKit, and Container Images: Qu'est-ce Que C'est?"
+        },
+        {
+          "id": "https://hackernoon.com/building-a-full-stack-nft-minting-dapp-using-hardhat-ethersjs-nextjs-and-tailwindcss?source=rss",
+          "author": "Abhinav Pathak",
+          "description": "Building a Full Stack NFT minting Dapp using Hardhat, ethers.js, Next.js, and TailwindCSS",
+          "link": "https://hackernoon.com/building-a-full-stack-nft-minting-dapp-using-hardhat-ethersjs-nextjs-and-tailwindcss?source=rss",
+          "publishedOn": "2022-02-08T23:54:18.000Z",
+          "wordCount": 3822,
+          "title": "Building a Full Stack NFT Minting DApp Using Hardhat, Ethers.js, Next.js, and TailwindCSS"
+        },
+        {
+          "id": "https://hackernoon.com/how-webflow-is-redefining-website-design-and-development?source=rss",
+          "author": "HppyHour Digital",
+          "description": "We’re here to give control back to our clients. That’s why we use Webflow to create a smarter and better website design that puts you in the driver’s seat.",
+          "link": "https://hackernoon.com/how-webflow-is-redefining-website-design-and-development?source=rss",
+          "publishedOn": "2022-02-08T23:50:38.000Z",
+          "wordCount": 1928,
+          "title": "How Webflow is Redefining Website Design and Development"
+        },
+        {
+          "id": "https://hackernoon.com/heres-how-p2e-gaming-is-building-new-wealth-opportunities?source=rss",
+          "author": "Ricky Rathore",
+          "description": "The world of P2E gaming has been gaining popularity in recent years.",
+          "link": "https://hackernoon.com/heres-how-p2e-gaming-is-building-new-wealth-opportunities?source=rss",
+          "publishedOn": "2022-02-08T23:47:41.000Z",
+          "wordCount": 2026,
+          "title": "Here's How P2E Gaming is Building New Wealth Opportunities"
+        },
+        {
+          "id": "https://hackernoon.com/using-configcats-feature-flags-in-a-phaserio-application?source=rss",
+          "author": "ConfigCat",
+          "description": "Let's take a look at how practical a feature flag can be in a Phaser.io application.",
+          "link": "https://hackernoon.com/using-configcats-feature-flags-in-a-phaserio-application?source=rss",
+          "publishedOn": "2022-02-08T23:45:36.000Z",
+          "wordCount": 2494,
+          "title": "Using ConfigCat's Feature Flags in a Phaser.io Application"
+        },
+        {
+          "id": "https://hackernoon.com/oauth20-grants-cheatsheet-for-wso2-identity-server-or-asgardeo?source=rss",
+          "author": "Dinali",
+          "description": "OAuth2.0 is still the most commonly used specification in the area of application security. Hence, this cheat sheet will help you with important code commands.",
+          "link": "https://hackernoon.com/oauth20-grants-cheatsheet-for-wso2-identity-server-or-asgardeo?source=rss",
+          "publishedOn": "2022-02-08T23:37:38.000Z",
+          "wordCount": 2117,
+          "title": "OAuth2.0 Grants — Cheatsheet for WSO2 Identity Server or Asgardeo"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-design-for-user-retention-that-works?source=rss",
+          "author": "Erik",
+          "description": "Tips on how to create enjoyable and habit-forming UX/UI design in every digital product.",
+          "link": "https://hackernoon.com/how-to-design-for-user-retention-that-works?source=rss",
+          "publishedOn": "2022-02-08T23:34:44.000Z",
+          "wordCount": 3595,
+          "title": "How to Design for User Retention That Works"
+        },
+        {
+          "id": "https://hackernoon.com/a-tutorial-to-deploy-the-nodejs-app-to-nginx-server?source=rss",
+          "author": "sarrahpitaliya",
+          "description": "In this tutorial guide, we will explain the step-by-step process of deploying your first Node.Js application to the server.",
+          "link": "https://hackernoon.com/a-tutorial-to-deploy-the-nodejs-app-to-nginx-server?source=rss",
+          "publishedOn": "2022-02-08T23:33:03.000Z",
+          "wordCount": 2928,
+          "title": "A Tutorial to Deploy the Node.Js App to Nginx Server"
+        },
+        {
+          "id": "https://hackernoon.com/10-best-online-courses-to-learn-oracle-and-plsql-for-beginners?source=rss",
+          "author": "Javin Paul",
+          "description": "",
+          "link": "https://hackernoon.com/10-best-online-courses-to-learn-oracle-and-plsql-for-beginners?source=rss",
+          "publishedOn": "2022-02-08T23:30:53.000Z",
+          "wordCount": 2765,
+          "title": "10 Best Online Courses to Learn Oracle and PL/SQL for Beginners"
+        },
+        {
+          "id": "https://hackernoon.com/decoding-nfts-gamefi-and-metaverse-with-helen-hai-head-of-binance-nft?source=rss",
+          "author": "Ishan Pandey",
+          "description": "Head of Binance NFT, Helen Hai, is the head of the NFT platform talks about NFTs, Metaverse and GameFi.",
+          "link": "https://hackernoon.com/decoding-nfts-gamefi-and-metaverse-with-helen-hai-head-of-binance-nft?source=rss",
+          "publishedOn": "2022-02-08T23:27:50.000Z",
+          "wordCount": 2777,
+          "title": "Decoding NFTs, GameFi and Metaverse with Helen Hai, Head of Binance NFT"
+        },
+        {
+          "id": "https://hackernoon.com/the-bitcoin-sustainability-question-is-it-really-bad-for-the-environment?source=rss",
+          "author": "Masha Prusso",
+          "description": "While there is some legitimacy to Bitcoin's negative carbon footprint, the claims are overblown and distributed ledgers can actually help the environment.",
+          "link": "https://hackernoon.com/the-bitcoin-sustainability-question-is-it-really-bad-for-the-environment?source=rss",
+          "publishedOn": "2022-02-08T23:00:59.000Z",
+          "wordCount": 2482,
+          "title": "Is Bitcoin Really Bad for the Environment?"
+        },
+        {
+          "id": "https://hackernoon.com/measuring-performance-after-migration-from-net5-to-net-6?source=rss",
+          "author": "nopCommerce",
+          "description": "An article about benchmarks of the open-source eCommerce platform after migrating to the latest Microsoft technology, .NET 6.",
+          "link": "https://hackernoon.com/measuring-performance-after-migration-from-net5-to-net-6?source=rss",
+          "publishedOn": "2022-02-08T22:48:28.000Z",
+          "wordCount": 2066,
+          "title": "Measuring Performance After Migration from .NET5 to .NET 6"
+        },
         {
           "id": "https://hackernoon.com/javascript-strict-mode-vs-bad-programming-practices?source=rss",
           "author": "John Palmgren",
@@ -23354,6 +23705,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=148892",
+          "author": "ACMer",
+          "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms Given an integer n, return a list of all simplified fractions between 0 and 1 (exclusive) such that the denominator is...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-math-simplified-fractions-where-denominator-is-less-than-or-equal-to-n/",
+          "publishedOn": "2022-02-09T21:29:24.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Math Simplified Fractions where Denominator is Less-than-or-equal-to N",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=148876",
           "author": "ACMer",
           "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms Given a 0-indexed integer array nums, return true if it can be made strictly increasing after removing exactly one element, or...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -24420,6 +24781,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=519205",
+          "author": "Lewin Day",
+          "description": "Typically, electric skateboards drive one or more wheels with brushless motors, while keeping everything mounted on otherwise fairly-standard trucks to maintain maneuverability. However, [swedishFeetballs] decided to go a different route, …read more",
+          "link": "https://hackaday.com/2022/02/09/3-wheeled-electric-skateboard-does-things-differently/",
+          "publishedOn": "2022-02-10T00:00:26.000Z",
+          "wordCount": 1070,
+          "title": "3-Wheeled Electric Skateboard Does Things Differently"
+        },
+        {
+          "id": "https://hackaday.com/?p=519149",
+          "author": "Jenny List",
+          "description": "There was a time following the Second World War when TV sets for the nascent broadcast medium were still very expensive, but there was an ample supply of war-surplus electronic …read more",
+          "link": "https://hackaday.com/2022/02/09/build-your-own-crt-tv/",
+          "publishedOn": "2022-02-09T21:00:00.000Z",
+          "wordCount": 2621,
+          "title": "Build Your Own CRT TV"
+        },
+        {
+          "id": "https://hackaday.com/?p=519047",
+          "author": "Jenny List",
+          "description": "On [Jan Derogee]’s desk is something that wouldn’t look out of place for many of us, a pile of computer magazines with a case of 3.5″ floppy disks on top …read more",
+          "link": "https://hackaday.com/2022/02/09/its-always-floppy-time/",
+          "publishedOn": "2022-02-09T19:30:46.000Z",
+          "wordCount": 1159,
+          "title": "It’s Always Floppy Time!"
+        },
+        {
+          "id": "https://hackaday.com/?p=516967",
+          "author": "Dan Maloney",
+          "description": "Many years ago, I read an article about the new hotness: lithium batteries. The author opened with what he no doubt thought was a clever pop culture reference by saying …read more",
+          "link": "https://hackaday.com/2022/02/09/mining-and-refining-lithium-powering-the-future-with-brine/",
+          "publishedOn": "2022-02-09T18:00:03.000Z",
+          "wordCount": 3030,
+          "title": "Mining and Refining: Lithium, Powering the Future with Brine"
+        },
+        {
+          "id": "https://hackaday.com/?p=519081",
+          "author": "Dan Maloney",
+          "description": "We’ve all been online from home a bit more than usual lately, in ways that often stretch the limits of what our ISP can muster. You know the signs — …read more",
+          "link": "https://hackaday.com/2022/02/09/that-clock-on-the-wall-is-actually-a-network-ping-display/",
+          "publishedOn": "2022-02-09T16:30:20.000Z",
+          "wordCount": 1376,
+          "title": "That Clock on the Wall is Actually a Network Ping Display"
+        },
+        {
+          "id": "https://hackaday.com/?p=517515",
+          "author": "Lewin Day",
+          "description": "Electric vehicles promise efficiency gains over their gas-fuelled predecessors, but the issue of recharging remains a hurdle for many eager to jump on board with the technology. The problem is …read more",
+          "link": "https://hackaday.com/2022/02/09/china-loves-battery-swapping-evs-but-will-they-ever-make-it-here/",
+          "publishedOn": "2022-02-09T15:00:33.000Z",
+          "wordCount": 6497,
+          "title": "China Loves Battery Swapping EVs, But Will They Ever Make It Here?"
+        },
+        {
+          "id": "https://hackaday.com/?p=519199",
+          "author": "Lewin Day",
+          "description": "Sometimes you notice something small that nevertheless you can’t explain. [Greg Davill] found himself in just such a situation this week when he noticed some green LEDs glowing dimly when …read more",
+          "link": "https://hackaday.com/2022/02/09/mystery-effect-causing-leds-to-glow-during-reflow/",
+          "publishedOn": "2022-02-09T12:00:40.000Z",
+          "wordCount": 2696,
+          "title": "Mystery Effect Causing LEDs To Glow During Reflow"
+        },
         {
           "id": "https://hackaday.com/?p=519078",
           "author": "Dave Rowntree",
@@ -31898,6 +32322,56 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "A121DA39-3645-4391-B5A2011204FD7503",
+          "author": "Andrea Thompson",
+          "description": "A new analysis shows that people born later will experience vastly more severe weather events\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-climate-change-will-hit-younger-generations/",
+          "publishedOn": "2022-02-09T15:00:00.000Z",
+          "wordCount": null,
+          "title": "How Climate Change Will Hit Younger Generations",
+          "itunes": {}
+        },
+        {
+          "id": "06E54F49-D6CC-4F35-9EF38C142D195A4E",
+          "author": "David W. Frayer, Davorka Radovcic",
+          "description": "Our much maligned cousins made sophisticated ornaments and probably had language\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/rockshelter-discoveries-show-neandertals-were-a-lot-like-us/",
+          "publishedOn": "2022-02-09T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Rockshelter Discoveries Show Neandertals Were a Lot like Us",
+          "itunes": {}
+        },
+        {
+          "id": "5466F9A3-D5EF-4572-B57819123D4AFB78",
+          "author": "Sarah Wild, Nature magazine",
+          "description": "The $25-million facility in Namibia will be the continent’s first millimeter-range astronomical observatory\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/major-african-radio-telescope-will-help-to-image-black-holes1/",
+          "publishedOn": "2022-02-09T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Major African Radio Telescope Will Help to Image Black Holes",
+          "itunes": {}
+        },
+        {
+          "id": "35FDAB45-BB93-4DE2-ABF7847D3D01EE76",
+          "author": "Angel Hsu, Marco Schletz",
+          "description": "Blockchain and other technologies could help improve data collection worldwide\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/we-desperately-need-to-modernize-climate-change-emissions-tracking/",
+          "publishedOn": "2022-02-09T13:00:00.000Z",
+          "wordCount": null,
+          "title": "We Desperately Need to Modernize Climate Change Emissions Tracking",
+          "itunes": {}
+        },
+        {
+          "id": "5155335B-E680-49AA-AE514A832D308CE4",
+          "author": "Sophie Bushwick",
+          "description": "A falsified video would be an update on the traditional use of propaganda campaigns during warfare\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/cyberattack-misinformation-could-be-plan-for-ukraine-invasion/",
+          "publishedOn": "2022-02-09T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Cyberattack Misinformation Could Be Plan for Ukraine Invasion",
+          "itunes": {}
+        },
+        {
           "id": "FD27C584-E9F0-4E1D-87A81E68D91412F1",
           "author": "Chelsea Harvey, ClimateWire",
           "description": "Some communities may run out of fresh water faster than expected\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -38082,6 +38556,33 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=149802",
+          "author": "Dan Kirsch",
+          "description": "You can’t control the pace of change; instead, consider that we are in a process of reinvention—both with regard to the way organizations use technology and how vendors position their offerings. At the same time, it’s never been more important for IT organizations to have complete visibility into the way technology is used from both […]\nThe post Techstrong Research DevOps Radar Report 2022 appeared first on DevOps.com.",
+          "link": "https://devops.com/techstrong-research-devops-radar-report-2022/",
+          "publishedOn": "2022-02-09T12:01:31.000Z",
+          "wordCount": 1559,
+          "title": "Techstrong Research DevOps Radar Report 2022"
+        },
+        {
+          "id": "https://devops.com/?p=149759",
+          "author": "Rick Veague",
+          "description": "The pandemic highlighted many things, not least of which was the shift in consumer behavior toward further encouraging companies to change their operations and act with sustainability in mind. An overwhelming 96% of businesses said the pandemic shifted their focus to the social component of environmental, social and governance (ESG) strategies. Technology has been a key […]\nThe post 3 Technologies Driving Business Sustainability appeared first on DevOps.com.",
+          "link": "https://devops.com/3-technologies-driving-business-sustainability/",
+          "publishedOn": "2022-02-09T08:00:02.000Z",
+          "wordCount": 1459,
+          "title": "3 Technologies Driving Business Sustainability"
+        },
+        {
+          "id": "https://devops.com/?p=149718",
+          "author": "Bill Doerrfeld",
+          "description": "By now, most of us are familiar with the concept of site reliability engineering (SRE). The term was originally coined by Google and SRE has been gaining traction in recent years as a role dedicated to increasing the resilience of digital ecosystems. To accomplish this, a big part of the SRE doctrine is “automating your […]\nThe post Day in the Life of a Site Reliability Engineer (SRE) appeared first on DevOps.com.",
+          "link": "https://devops.com/day-in-the-life-of-a-site-reliability-engineer-sre/",
+          "publishedOn": "2022-02-09T07:30:05.000Z",
+          "wordCount": 1749,
+          "title": "Day in the Life of a Site Reliability Engineer (SRE)"
+        },
+        {
           "id": "https://devops.com/?p=149770",
           "author": "Charlene O'Hanlon",
           "description": "Charlene O’Hanlon and Rich Nanda discuss a new Deloitte study, “A New Language for Digital Transformation,” which explores why so many transformations fail to deliver concrete impact. The video is below followed by a complete transcript of the conversation.   Announcer: This is Digital Anarchist. Charlene O’Hanlon: Welcome back to Techstrong TV. I’m Charlene O’Hanlon […]\nThe post A New Language for Digital Transformation appeared first on DevOps.com.",
@@ -40933,6 +41434,15 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=112413",
+          "author": "Jordana Cepelewicz",
+          "description": "Researchers have mapped hundreds of semantic categories to the tiny bits of the cortex that represent them in our thoughts and perceptions. What they discovered might change our view of memory.            \nThe post New Map of Meaning in the Brain Changes Ideas About Memory first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/new-map-of-meaning-in-the-brain-changes-ideas-about-memory-20220208/",
+          "publishedOn": "2022-02-08T15:44:11.000Z",
+          "wordCount": 2345,
+          "title": "New Map of Meaning in the Brain Changes Ideas About Memory"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=112408",
           "author": "Steve Nadis",
           "description": "Three mathematicians show, for the first time, how to form a square with the same area as a circle by cutting them into interchangeable pieces that can be visualized.            \nThe post An Ancient Geometry Problem Falls to New Mathematical Techniques first appeared on Quanta Magazine",
@@ -41599,6 +42109,33 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66833",
+          "author": "Nathan Yau",
+          "description": "In the 1930s, a group called the Home Owners’ Loan Corporation went to…\nTags: FiveThirtyEight, racism, redlining",
+          "link": "https://flowingdata.com/2022/02/09/past-redlining-still-seen-in-the-present/",
+          "publishedOn": "2022-02-09T17:47:25.000Z",
+          "wordCount": 339,
+          "title": "Past redlining still seen in the present"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66828",
+          "author": "Nathan Yau",
+          "description": "Same vibes pic.twitter.com/oXjhdwS3yW\n— Matt Blackwell (@matt_blackwell) February 7, 2022\n \nThis is a…\nTags: humor, snow",
+          "link": "https://flowingdata.com/2022/02/09/frequency-trails-in-the-snow/",
+          "publishedOn": "2022-02-09T11:51:33.000Z",
+          "wordCount": 261,
+          "title": "Frequency trails in the snow"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66804",
+          "author": "Nathan Yau",
+          "description": "Use color to reinforce or add another layer of meaning to a regular line chart.\nTags: R",
+          "link": "https://flowingdata.com/2022/02/08/how-to-make-a-line-chart-with-a-color-gradient-in-r/",
+          "publishedOn": "2022-02-09T07:40:24.000Z",
+          "wordCount": 516,
+          "title": "✚ How to Make a Line Chart with a Color Gradient in R"
+        },
         {
           "id": "https://flowingdata.com/?p=66800",
           "author": "Nathan Yau",
@@ -43474,6 +44011,15 @@
       "feedUrl": "https://web.dev/shows/gui-challenges/feed.xml",
       "siteUrl": "https://web.dev/shows/gui-challenges/feed.xml",
       "articles": [
+        {
+          "id": "https://web.dev/shows/gui-challenges/4pJahmCR8kQ/",
+          "author": null,
+          "description": "In today's GUI Challenge, @Adam Argyle shares thinking on a way to build an adaptive favicon with SVG. SVG not only delivers an infinitely scalable icon, it also allows inlining styles that can hook into CSS media queries like the light and dark preference queries.\nChapters:\n0:00 - Introduction\n0:36 - Overview\n1:59 - Light and Dark\n2:48 - Loading\n3:22 - Markup\n4:45 - SVG preparation\n5:31 - Outro\n\n\n\n\nResources:\nRead along → \nTry a demo → \nGet the source → \n\nhttps://goo.gle/3uASh1shttps://goo.gle/3GAzzt4https://goo.gle/3ov8x08\nWatch more GUI Challenges → \nSubscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttps://goo.gle/ChromeDevs\n\n#GUIchallenges #CSS #ChromeDeveloper",
+          "link": "https://web.dev/shows/gui-challenges/4pJahmCR8kQ/",
+          "publishedOn": "2022-02-09T17:45:44.000Z",
+          "wordCount": 165,
+          "title": "Thinking on ways to solve SVG FAVICON"
+        },
         {
           "id": "https://web.dev/shows/gui-challenges/kZiS1QStIWc/",
           "author": null,
