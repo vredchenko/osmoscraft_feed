@@ -2,10 +2,480 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2022-02-10T01:13:07.009Z</updated>
+    <updated>2022-02-11T01:16:31.551Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Turning the PS4 into a Useful Linux Machine]]></title>
+        <id>https://hackaday.com/?p=519295</id>
+        <link href="https://hackaday.com/2022/02/10/turning-the-ps4-into-a-useful-linux-machine/"/>
+        <updated>2022-02-11T00:00:32.000Z</updated>
+        <summary type="html"><![CDATA[When the PlayStation 3 first launched, one of its most lauded features was its ability to officially run full Linux distributions. This was of course famously and permanently borked by …read more]]></summary>
+        <author>
+            <name>Bryan Cockfield</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Whistle-Stop Tour of 4 New CSS Color Features]]></title>
+        <id>https://css-tricks.com/?p=362285</id>
+        <link href="https://css-tricks.com/new-css-color-features-preview/"/>
+        <updated>2022-02-10T23:01:55.000Z</updated>
+        <summary type="html"><![CDATA[I was just writing in my “What’s new in since CSS3?” article about recent and possible future changes to CSS colors. It’s weirdly a lot. There are just as many or more new and upcoming ways to define colors than …
+A Whistle-Stop Tour of 4 New CSS Color Features originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developers Speculating About the Long-Distant Future: 2022]]></title>
+        <id>https://css-tricks.com/?p=363480</id>
+        <link href="https://css-tricks.com/developers-speculating-about-the-long-distant-future-2022/"/>
+        <updated>2022-02-10T21:45:09.000Z</updated>
+        <summary type="html"><![CDATA[This is a wonderful roundup from Jeremy, who I picture circling January 1, 2022, in red marker on a giant paper calendar back in 2008 and patiently counting the days.
+See, there was a little smattering of internet drama …
+Developers Speculating About the Long-Distant Future: 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kong Enterprise 2.7 Simplifies API Management]]></title>
+        <id>https://devops.com/?p=149893</id>
+        <link href="https://devops.com/kong-enterprise-2-7-simplifies-api-management/"/>
+        <updated>2022-02-10T21:29:48.000Z</updated>
+        <summary type="html"><![CDATA[Kong Inc. this week advanced its service connectivity platform strategy with an update to Kong Enterprise that makes it simpler to collectively manage groups of application programming interfaces (APIs). Michael Heap, director of developer experience for Kong, Inc., said that capability will make it simpler to, for example, assign rate limits to different tiers of […]
+The post Kong Enterprise 2.7 Simplifies API Management appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Mike Vizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn to Code in Japanese – The Japanese freeCodeCamp Curriculum is Now Live]]></title>
+        <id>61fd8a56f2ed6b06db5acd03</id>
+        <link href="https://www.freecodecamp.org/news/learn-programming-freecodecamp-japanese-released/"/>
+        <updated>2022-02-10T21:06:15.000Z</updated>
+        <summary type="html"><![CDATA[The Japanese freeCodeCamp curriculum [https://www.freecodecamp.org/japanese/learn] is now live. In Japan, I have seen many comments, tweets, and blog posts saying "freeCodeCamp looks awesome, but unfortunately, I can't use it because I can't read English." Currently, most information and learning resources related to programming are in English. But we want freeCodeCamp]]></summary>
+        <author>
+            <name>Yoko Matsuda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resin-Printed Gears Versus PLA: Which Is Tougher?]]></title>
+        <id>https://hackaday.com/?p=519390</id>
+        <link href="https://hackaday.com/2022/02/10/resin-printed-gears-versus-pla-which-is-tougher/"/>
+        <updated>2022-02-10T21:00:56.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to making gearboxes, 3D printing has the benefit that it lets you whip up whatever strange gears you might need without a whole lot of hunting around …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – Proof of Logarithm Rules: log(ab)=log(a)+log(b) and log(a/b)=log(a)-log(b)]]></title>
+        <id>https://helloacm.com/?p=148909</id>
+        <link href="https://helloacm.com/teaching-kids-programming-proof-of-logarithm-rules-logablogalogb-and-loga-bloga-logb/"/>
+        <updated>2022-02-10T20:35:50.000Z</updated>
+        <summary type="html"><![CDATA[Teaching Kids Programming: Videos on Data Structures and Algorithms The logarithm functions are the inverse of exponential functions. For example: is the inverse of and mathematically speaking, they...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Execution Context – How JS Works Behind The Scenes]]></title>
+        <id>61fc8bbef2ed6b06db5ac470</id>
+        <link href="https://www.freecodecamp.org/news/execution-context-how-javascript-works-behind-the-scenes/"/>
+        <updated>2022-02-10T19:56:18.000Z</updated>
+        <summary type="html"><![CDATA[All JavaScript code needs to be hosted and run in some kind of environment. In most cases, that environment would be a web browser.  For any piece of JavaScript code to be executed in a web browser, a lot of processes take place behind the scenes. In this article,]]></summary>
+        <author>
+            <name>Victor Ikechukwu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There’s a Wrinkle In This 3D Printed Wankel]]></title>
+        <id>https://hackaday.com/?p=519269</id>
+        <link href="https://hackaday.com/2022/02/10/theres-a-wrinkle-in-this-3d-printed-wankel/"/>
+        <updated>2022-02-10T19:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Rotary engines such as the Wankel have strange shapes that can be difficult to machine (as evidenced by the specialized production machines and patents in the 70s), which means it …read more]]></summary>
+        <author>
+            <name>Matthew Carlson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✚ Good Redundant – The Process 176]]></title>
+        <id>https://flowingdata.com/?p=66840</id>
+        <link href="https://flowingdata.com/2022/02/10/process-176-redundant/"/>
+        <updated>2022-02-10T19:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Think of the redundancies as reinforcement for a clearer signal.
+Tags: encoding, redundancy]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Possible Third Planet Spotted around Proxima Centauri, Our Sun's Nearest Neighbor Star]]></title>
+        <id>054E1900-F7FA-4FDA-A24582400984AEFC</id>
+        <link href="https://www.scientificamerican.com/article/possible-third-planet-spotted-around-proxima-centauri-our-suns-nearest-neighbor-star/"/>
+        <updated>2022-02-10T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Proxima d might be only a quarter the mass of Earth, potentially making it one of the smallest worlds yet discovered beyond our solar system
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Mike Wall, SPACE.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remoticon 2021 // Sergiy Nesterenko Keeps Hardware Running Through Lightning and Cosmic Rays]]></title>
+        <id>https://hackaday.com/?p=518269</id>
+        <link href="https://hackaday.com/2022/02/10/remoticon-2021-sergiy-nesterenko-keeps-hardware-running-through-lightning-and-cosmic-rays/"/>
+        <updated>2022-02-10T18:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Getting to space is hard enough. You have to go up a few hundred miles, then go sideways really fast to enter orbit. But getting something into space is one …read more]]></summary>
+        <author>
+            <name>Robin Kearey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Antimalware Service Executable? Why is it High CPU Disk Usage?]]></title>
+        <id>6204e89c56125b0677c639a4</id>
+        <link href="https://www.freecodecamp.org/news/what-is-antimalware-service-executable-why-is-it-high-cpu-disk-usage/"/>
+        <updated>2022-02-10T17:31:27.000Z</updated>
+        <summary type="html"><![CDATA[Antimalware service executable is a component of Windows Security that runs in the background. But sometimes antimalware service executable can impact Windows 10 computers negatively by using too much CPU. In this guide, I will show you what antimalware service executable is, why it uses so much CPU, and how]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[White House Rolls Out $5 Billion Electric Vehicle Charging Program]]></title>
+        <id>07E79B5E-CB5F-4AA9-8993E37035379C86</id>
+        <link href="https://www.scientificamerican.com/article/white-house-rolls-out-5-billion-electric-vehicle-charging-program/"/>
+        <updated>2022-02-10T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The announcement unleashes a flood of federal money to states for the construction of a national network of charging stations
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Arianna Skibell, E&amp;E News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Supabase Authentication to a Vue App]]></title>
+        <id>6203e7fe56125b0677c6337b</id>
+        <link href="https://www.freecodecamp.org/news/add-supabase-authentication-to-vue/"/>
+        <updated>2022-02-10T16:40:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post we will walk through getting authentication set up using Supabase and Vue 3.  This will also work with Vue 2, but you'll need to move things around to work with the options API. I am using Vue 3 as it is now the default version [https://blog.vuejs.org/posts/vue-3-as-the-new-default.html].]]></summary>
+        <author>
+            <name>Brian Barrow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Markdown Cheat Sheet – How to Write in Markdown with Examples]]></title>
+        <id>61f43d0ff2ed6b06db5a7157</id>
+        <link href="https://www.freecodecamp.org/news/markdown-cheat-sheet/"/>
+        <updated>2022-02-10T16:31:38.000Z</updated>
+        <summary type="html"><![CDATA[Markdown has gained popularity because it's easy to use and it's widely accepted across platforms.  You can use markdown to write content that can be conveyed in plain text. A good example would be a blog post. In this article, you'll learn what markdown is and how to use]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CX-6000 Pen Plotter Upgrade]]></title>
+        <id>https://hackaday.com/?p=519184</id>
+        <link href="https://hackaday.com/2022/02/10/cx-6000-pen-plotter-upgrade/"/>
+        <updated>2022-02-10T16:30:48.000Z</updated>
+        <summary type="html"><![CDATA[[Terje Io] decided to breathe new life into an old pen plotter — the CX6000 from C. Itoh, a Japanese company that made several printers for Apple in the 1980s. …read more]]></summary>
+        <author>
+            <name>Chris Lott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer Scientists Prove Why Bigger Neural Networks Do Better]]></title>
+        <id>https://www.quantamagazine.org/?p=112416</id>
+        <link href="https://www.quantamagazine.org/computer-scientists-prove-why-bigger-neural-networks-do-better-20220210/"/>
+        <updated>2022-02-10T15:58:46.000Z</updated>
+        <summary type="html"><![CDATA[Two researchers show that for neural networks to be able to remember better, they need far more parameters than previously thought.            
+The post Computer Scientists Prove Why Bigger Neural Networks Do Better first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Mordechai Rorvig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unreliable Server Scare | Information Batteries | ARM IPO PDQ]]></title>
+        <id>https://devops.com/?p=149866</id>
+        <link href="https://devops.com/unreliable-server-scare-information-batteries-arm-ipo-pdq/"/>
+        <updated>2022-02-10T15:56:09.000Z</updated>
+        <summary type="html"><![CDATA[In this week’s The Long View: We worry about chips failing randomly, we ponder a new way of thinking about workload shifting, and we grok Arm’s IPO.
+The post Unreliable Server Scare | Information Batteries | ARM IPO PDQ appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Richi Jennings</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helpful Tips for Starting a Next.js Chrome Extension]]></title>
+        <id>https://css-tricks.com/?p=363079</id>
+        <link href="https://css-tricks.com/nextjs-chrome-extension-starter/"/>
+        <updated>2022-02-10T15:24:02.000Z</updated>
+        <summary type="html"><![CDATA[I recently rewrote one of my projects — Minimal Theme for Twitter — as a Next.js Chrome extension because I wanted to use React for the pop-up. Using React would allow me to clearly separate my extension’s pop-up component and …
+Helpful Tips for Starting a Next.js Chrome Extension originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Thomas Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly]]></title>
+        <id>https://css-tricks.com/?p=362991</id>
+        <link href="https://css-tricks.com/a-chrome-extension-for-cloudinary-that-helps-you-pluck-out-useful-media-urls-from-your-library-quickly/"/>
+        <updated>2022-02-10T15:23:31.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Cloudinary is a host for your digital assets like images and video. If you don’t already know them, you should, because you can build it into the asset management you almost certainly need to …
+A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keebin’ with Kristina: the One with the Ballpoint Typewriters]]></title>
+        <id>https://hackaday.com/?p=517066</id>
+        <link href="https://hackaday.com/2022/02/10/keebin-with-kristina-the-one-with-the-ballpoint-typewriters/"/>
+        <updated>2022-02-10T15:00:19.000Z</updated>
+        <summary type="html"><![CDATA[So you want to minimize finger movement when you type, but don’t have three grand to drop on an old DataHand, or enough time to build the open-source lalboard? Check …read more]]></summary>
+        <author>
+            <name>Kristina Panos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eric Lander's Departure Is a Step toward Safer Workplaces in Science]]></title>
+        <id>5982DB6C-ED70-4D68-838530D2D6E6EDFE</id>
+        <link href="https://www.scientificamerican.com/article/eric-landers-departure-is-a-step-toward-safer-workplaces-in-science/"/>
+        <updated>2022-02-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The investigation into Lander’s management shows the importance of equitable leadership and strong protections
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Andrew A. Rosenberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain APIs - How to Query on the Blockchain]]></title>
+        <id>6204203956125b0677c6377b</id>
+        <link href="https://www.freecodecamp.org/news/blockchain-apis-how-to-query-on-the-blockchain/"/>
+        <updated>2022-02-10T14:51:41.000Z</updated>
+        <summary type="html"><![CDATA[If you wanna build apps on the blockchain, you are likely going to need a way to query data. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to query data on the blockchain in order to build your own decentralized apps. Ania Kubów]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astonishing Conscious Mind]]></title>
+        <id>CC0325AE-7372-4AAF-B7EBD32755C87E8E</id>
+        <link href="https://www.scientificamerican.com/article/astonishing-conscious-mind/"/>
+        <updated>2022-02-10T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Neuroscientists may have discovered the brain regions that give rise to our identity
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Andrea Gawrylewski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There Is Nothing Normal about One Million People Dead from COVID]]></title>
+        <id>1BEE492B-6FBB-44B4-964A3CDD22D2060B</id>
+        <link href="https://www.scientificamerican.com/article/there-is-nothing-normal-about-one-million-people-dead-from-covid1/"/>
+        <updated>2022-02-10T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mass media and policy makers are pushing for a return to pre‐COVID times while trying to normalize a staggering death toll
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Steven W. Thrasher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask Hackaday: What’s Going on with Mazdas in Seattle?]]></title>
+        <id>https://hackaday.com/?p=519321</id>
+        <link href="https://hackaday.com/2022/02/10/ask-hackaday-whats-going-on-with-mazdas-in-seattle/"/>
+        <updated>2022-02-10T12:00:08.000Z</updated>
+        <summary type="html"><![CDATA[What hacker doesn’t love a puzzle? We have a doozy for you. According to KUOW — the NPR affiliate in Seattle — they have been getting an unusual complaint. Apparently, …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Levitate Ice--With Science]]></title>
+        <id>9BF0D16A-6A4B-47F9-B0915B4370B4FB2B</id>
+        <link href="https://www.scientificamerican.com/article/how-to-levitate-ice-with-science/"/>
+        <updated>2022-02-10T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[New research leverages old physics to turn ice pucks into hovercraft
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Joanna Thompson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modernized version of a mid-19th century encylopedia]]></title>
+        <id>https://flowingdata.com/?p=66847</id>
+        <link href="https://flowingdata.com/2022/02/10/modernized-version-of-a-mid-19th-century-encylopedia/"/>
+        <updated>2022-02-10T10:29:43.000Z</updated>
+        <summary type="html"><![CDATA[Between 1849 and 1851, J.G. Heck published a 10-part encyclopedia called Iconographic Encyclopædia…
+Tags: encyclopedia, J. G. Heck, Nicholas Rougeux, restoration]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ExpressVPN Offers $100K Bug Bounty]]></title>
+        <id>http://www.i-programmer.info/news/149-security/15207-expressvpn-offers-100k-bug-bounty.html</id>
+        <link href="http://www.i-programmer.info/news/149-security/15207-expressvpn-offers-100k-bug-bounty.html"/>
+        <updated>2022-02-10T10:28:58.000Z</updated>
+        <summary type="html"><![CDATA[ExpressVPN claims that its TrustedServer technology raises the bar for online privacy and security and to put this to the test it is offering a one-time $100,000 bug bounty bonus to the first person to hack it - ethically of course. 
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elevating Agile With Financial Discipline]]></title>
+        <id>https://devops.com/?p=149754</id>
+        <link href="https://devops.com/elevating-agile-with-financial-discipline/"/>
+        <updated>2022-02-10T08:00:33.000Z</updated>
+        <summary type="html"><![CDATA[A corporate axiom is changing, shifting from “Big eats small” to “Fast eats slow.” But change doesn’t happen overnight. While Agile and lean methods continue to chip away at the status quo, making gains and increasingly moving beyond pockets of teams to the portfolio and then enterprise-wide adoption levels, waterfall approaches to delivery persist. Rumors […]
+The post Elevating Agile With Financial Discipline appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Andrey Mihailenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Matter How Things Change, Have a Plan]]></title>
+        <id>https://devops.com/?p=149745</id>
+        <link href="https://devops.com/no-matter-how-things-change-have-a-plan/"/>
+        <updated>2022-02-10T07:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Had enough change yet? It is almost amusing that I and some other tech people had that conversation a decade ago, and since then, nothing has slowed down. Our conclusion was that, for the near future, change would be constant. That conclusion was right; I’d have to ping everyone else to see what they think, […]
+The post No Matter How Things Change, Have a Plan appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Don Macvittie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Augmented Reality]]></title>
+        <id>https://devops.com/?p=149836</id>
+        <link href="https://devops.com/augmented-reality/"/>
+        <updated>2022-02-10T07:00:27.000Z</updated>
+        <summary type="html"><![CDATA[The post Augmented Reality appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>ROELBOB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metaverse Imaginaries, Sci Fi Vignette #1: The Future of Work, Land, Investing in the Metaverse]]></title>
+        <id>https://hackernoon.com/metaverse-imaginaries-sci-fi-vignette-1-the-future-of-work-land-investing-in-the-metaverse?source=rss</id>
+        <link href="https://hackernoon.com/metaverse-imaginaries-sci-fi-vignette-1-the-future-of-work-land-investing-in-the-metaverse?source=rss"/>
+        <updated>2022-02-10T01:37:12.000Z</updated>
+        <summary type="html"><![CDATA[Science Fiction vignette about the future of the metaverse.  This vignette is about virtual employees, virtual land, running businesses and investing.]]></summary>
+        <author>
+            <name>Rizwan Virk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overcome Developer Burnout - Here Are 6 Ways How]]></title>
+        <id>https://hackernoon.com/overcome-developer-burnout-here-are-6-ways-how?source=rss</id>
+        <link href="https://hackernoon.com/overcome-developer-burnout-here-are-6-ways-how?source=rss"/>
+        <updated>2022-02-10T01:26:55.000Z</updated>
+        <summary type="html"><![CDATA[We all know how it feels to be tired from work. You’ve had a few late nights, you’re feeling the pressure of a deadline, or you’re a little under the weather. You can’t wait for the weekend to arrive so you can unwind before doing it all over again.]]></summary>
+        <author>
+            <name>Filestack</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Initiating the CyOp Protocol]]></title>
+        <id>https://hackernoon.com/initiating-the-cyop-protocol?source=rss</id>
+        <link href="https://hackernoon.com/initiating-the-cyop-protocol?source=rss"/>
+        <updated>2022-02-10T01:21:14.000Z</updated>
+        <summary type="html"><![CDATA[It’s no secret that we’re in the middle of a major crypto boom. Not only has the market reached unprecedented highs over the past year...]]></summary>
+        <author>
+            <name>Ascend Agency</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Blockchain Forecast - from Public Chain to Cross-Chain, Everything You Need to Know in 2022]]></title>
+        <id>https://hackernoon.com/the-blockchain-forecast-from-public-chain-to-cross-chain-everything-you-need-to-know-in-2022?source=rss</id>
+        <link href="https://hackernoon.com/the-blockchain-forecast-from-public-chain-to-cross-chain-everything-you-need-to-know-in-2022?source=rss"/>
+        <updated>2022-02-10T01:11:36.000Z</updated>
+        <summary type="html"><![CDATA[2022 blockchain and side chain forkcast]]></summary>
+        <author>
+            <name>LD Capital</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's Your Favorite Guilty Pleasure in Film, TV or Music?]]></title>
+        <id>https://hackernoon.com/whats-your-favorite-guilty-pleasure-in-film-tv-or-music?source=rss</id>
+        <link href="https://hackernoon.com/whats-your-favorite-guilty-pleasure-in-film-tv-or-music?source=rss"/>
+        <updated>2022-02-10T01:02:47.000Z</updated>
+        <summary type="html"><![CDATA[This Slogging thread by Zaeem Shoaib, Limarc Ambalina, Sara Pinto, Mónica Freitas and Jack Boreham occurred in slogging's official #pop-culture channel, and has been edited for readability.]]></summary>
+        <author>
+            <name>Zaeem Shoaib</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Would the Next Go-to NFT Marketplace Look Like?]]></title>
+        <id>https://hackernoon.com/what-would-the-next-go-to-nft-marketplace-look-like?source=rss</id>
+        <link href="https://hackernoon.com/what-would-the-next-go-to-nft-marketplace-look-like?source=rss"/>
+        <updated>2022-02-10T01:02:15.000Z</updated>
+        <summary type="html"><![CDATA[The profit-sharing mechanism, reward system, and creator's royalty would probably be the future go-to features NFT marketplace wanna be equipped.]]></summary>
+        <author>
+            <name>LD Capital</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Studio Code Improves GitHub Support]]></title>
+        <id>http://www.i-programmer.info/news/90-tools/15208-visual-studio-code-improves-github-support.html</id>
+        <link href="http://www.i-programmer.info/news/90-tools/15208-visual-studio-code-improves-github-support.html"/>
+        <updated>2022-02-10T01:00:06.000Z</updated>
+        <summary type="html"><![CDATA[The latest monthly release of Visual Studio Code has a new layout and better support for GitHub commits from the fully web-based version.
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT Advantages in Gaming for Publishers and Players]]></title>
+        <id>https://hackernoon.com/nft-advantages-in-gaming-for-publishers-and-players?source=rss</id>
+        <link href="https://hackernoon.com/nft-advantages-in-gaming-for-publishers-and-players?source=rss"/>
+        <updated>2022-02-10T00:55:01.000Z</updated>
+        <summary type="html"><![CDATA[NFT is an emerging technology with the potential of revolutionizing the gaming sector. It has already started changing how people used to earn from games.]]></summary>
+        <author>
+            <name>Karan Vora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards Open Options Chains Part V: Containerizing the Pipeline]]></title>
+        <id>https://hackernoon.com/towards-open-options-chains-part-v-containerizing-the-pipeline?source=rss</id>
+        <link href="https://hackernoon.com/towards-open-options-chains-part-v-containerizing-the-pipeline?source=rss"/>
+        <updated>2022-02-10T00:54:53.000Z</updated>
+        <summary type="html"><![CDATA[In "Towards Open Options Chains", Chris Chow presents his solution for collecting options data: a data pipeline with Airflow, PostgreSQL, and Docker.]]></summary>
+        <author>
+            <name>Chris Chow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8+ Portfolio and Resume Templates to To Showcase Your Skills 💼✨]]></title>
+        <id>https://hackernoon.com/8-portfolio-and-resume-templates-to-to-showcase-your-skills?source=rss</id>
+        <link href="https://hackernoon.com/8-portfolio-and-resume-templates-to-to-showcase-your-skills?source=rss"/>
+        <updated>2022-02-10T00:52:23.000Z</updated>
+        <summary type="html"><![CDATA[A professional-looking portfolio and a well-written resume are both essential to succeed in the job-seeking phase.]]></summary>
+        <author>
+            <name>Madza</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[metals-lsp-adapter]]></title>
         <id>https://atom.io/packages/metals-lsp-adapter</id>
@@ -31,6 +501,46 @@ MIT License.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Gather ERC-20 tokens in One Wallet on Polygon with Web3.js 1.7.0]]></title>
+        <id>https://hackernoon.com/how-to-gather-erc-20-tokens-to-one-wallet-on-polygon-with-web3js-170?source=rss</id>
+        <link href="https://hackernoon.com/how-to-gather-erc-20-tokens-to-one-wallet-on-polygon-with-web3js-170?source=rss"/>
+        <updated>2022-02-10T00:46:07.000Z</updated>
+        <summary type="html"><![CDATA[Let’s assume we have a lot of wallets on Polygon network that belong to us and we would like to gather all the tokens(say, WETH) to one of them....]]></summary>
+        <author>
+            <name>Cy6erNinja</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Python is Best Programming Language for Data Science & Machine Learning?]]></title>
+        <id>https://hackernoon.com/why-python-is-best-programming-language-for-data-science-and-machine-learning?source=rss</id>
+        <link href="https://hackernoon.com/why-python-is-best-programming-language-for-data-science-and-machine-learning?source=rss"/>
+        <updated>2022-02-10T00:32:48.000Z</updated>
+        <summary type="html"><![CDATA[If you want to become a Data Scientist  and are curious about which programming language should you learn then you have come to the right place.]]></summary>
+        <author>
+            <name>Javin Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Advertising is Technology Driven with a Focus on Targeted Products]]></title>
+        <id>https://hackernoon.com/crypto-advertising-is-technology-driven-with-a-focus-on-targeted-products?source=rss</id>
+        <link href="https://hackernoon.com/crypto-advertising-is-technology-driven-with-a-focus-on-targeted-products?source=rss"/>
+        <updated>2022-02-10T00:31:01.000Z</updated>
+        <summary type="html"><![CDATA[Jim Walsh is the founder of CryptoDSP.io, a startup that helps micro-target web 3.0 innovations to people that are interested in it on Web 2.0.]]></summary>
+        <author>
+            <name>Ishan Pandey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Weights and Biases to Perform Hyperparameter Optimization]]></title>
+        <id>https://hackernoon.com/using-weights-and-biases-to-perform-hyperparameter-optimization?source=rss</id>
+        <link href="https://hackernoon.com/using-weights-and-biases-to-perform-hyperparameter-optimization?source=rss"/>
+        <updated>2022-02-10T00:20:05.000Z</updated>
+        <summary type="html"><![CDATA[Hands on tutorial for hyperparameter optimization of a RandomForestClassifier for Heart Disease UCI dataset with Weights and Biases Sweeps.]]></summary>
+        <author>
+            <name>CodeChem</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[3-Wheeled Electric Skateboard Does Things Differently]]></title>
         <id>https://hackaday.com/?p=519205</id>
         <link href="https://hackaday.com/2022/02/09/3-wheeled-electric-skateboard-does-things-differently/"/>
@@ -38,6 +548,44 @@ MIT License.]]></summary>
         <summary type="html"><![CDATA[Typically, electric skateboards drive one or more wheels with brushless motors, while keeping everything mounted on otherwise fairly-standard trucks to maintain maneuverability. However, [swedishFeetballs] decided to go a different route, …read more]]></summary>
         <author>
             <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Authentication (AuthN) vs. Authorization (AuthZ)]]></title>
+        <id>https://goteleport.com/blog/authn-vs-authz/</id>
+        <link href="https://goteleport.com/blog/authn-vs-authz/"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Often referred to as AuthN (authentication) and AuthZ (authorization) in the modern access control paradigm, both authentication and authorization are a method to control access to resources. These resources can be files, programs, web applications, mobile applications, operating systems, network devices, etc. Let’s explore three common scenarios on how authentication and authorization are involved.
+Accessing a web application. Signing in to a web application using a username and password combination or single sign-on (SSO) involves authentication. But the ability to view certain web pages and update application data is subjected to authorization.
+
+
+
+Accessing an operating system. Signing in to a remote Windows desktop using a password involves authentication. But the ability to run comman…]]></summary>
+        <author>
+            <name>The Teleport Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Data Structures - Stacks, Queues and Deques]]></title>
+        <id>http://www.i-programmer.info/programming/javascript/1674-javascript-data-structures-stacks-queues-and-deques.html</id>
+        <link href="http://www.i-programmer.info/programming/javascript/1674-javascript-data-structures-stacks-queues-and-deques.html"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Stacks, queues and deques are the most basic of the slightly more advanced data structures you will meet. The good news is that they are very, very easy to implement in JavaScript.
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Choose the Right Type of MVP for Your Startup Idea]]></title>
+        <id>https://hackernoon.com/how-to-choose-the-right-type-of-mvp-for-your-startup-idea?source=rss</id>
+        <link href="https://hackernoon.com/how-to-choose-the-right-type-of-mvp-for-your-startup-idea?source=rss"/>
+        <updated>2022-02-09T23:39:32.000Z</updated>
+        <summary type="html"><![CDATA[MVPs can come in a thousand shapes and forms. So, in this article, we will focus on the most popular ones.]]></summary>
+        <author>
+            <name>CodeChem</name>
         </author>
     </entry>
     <entry>
@@ -85,6 +633,26 @@ MIT © Dr. Tobias Quathamer]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AWS RDS from a Serverless Perspective]]></title>
+        <id>https://hackernoon.com/aws-rds-from-a-serverless-perspective?source=rss</id>
+        <link href="https://hackernoon.com/aws-rds-from-a-serverless-perspective?source=rss"/>
+        <updated>2022-02-09T23:12:25.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll deep dive into all the basics to help you hit the ground running when it comes to AWS RDS.]]></summary>
+        <author>
+            <name>Taavi Rehemägi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Venus Protocol Launches $1 Million Dollar Grant Program to Promote Innovation in DeFi]]></title>
+        <id>https://hackernoon.com/venus-protocol-launches-$1-million-dollar-grant-program-to-promote-innovation-in-defi?source=rss</id>
+        <link href="https://hackernoon.com/venus-protocol-launches-$1-million-dollar-grant-program-to-promote-innovation-in-defi?source=rss"/>
+        <updated>2022-02-09T22:57:39.000Z</updated>
+        <summary type="html"><![CDATA[Venus, is introducing a grants programme to stimulate innovation within its ecosystem.]]></summary>
+        <author>
+            <name>Ishan Pandey</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[git-link]]></title>
         <id>https://atom.io/packages/git-link</id>
         <link href="https://atom.io/packages/git-link"/>
@@ -112,6 +680,16 @@ No keymaps are currently set by default.
 I recommended you configure your own keybindings and use what is comfortable for you. You can do this by going to Settings > Keybindings or open it from t…]]></summary>
         <author>
             <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Brief History of Money]]></title>
+        <id>https://hackernoon.com/a-brief-history-of-money?source=rss</id>
+        <link href="https://hackernoon.com/a-brief-history-of-money?source=rss"/>
+        <updated>2022-02-09T21:47:03.000Z</updated>
+        <summary type="html"><![CDATA[Money was invented (or perfected) by scientists, not economists.  Meet: Copernicus, Newton, Priestley and Stornetta.]]></summary>
+        <author>
+            <name>Ralph Benko</name>
         </author>
     </entry>
     <entry>
@@ -264,6 +842,26 @@ Subscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttps://g
 #GUIchallenges #CSS #ChromeDeveloper]]></summary>
         <author>
             <name>GUI Challenges on web.dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Working on an Analytics Product Can Teach Us About Data]]></title>
+        <id>https://hackernoon.com/what-working-on-an-analytics-product-can-teach-us-about-data?source=rss</id>
+        <link href="https://hackernoon.com/what-working-on-an-analytics-product-can-teach-us-about-data?source=rss"/>
+        <updated>2022-02-09T17:32:24.000Z</updated>
+        <summary type="html"><![CDATA[The ubiquity of analytics hides potential complexity underneath, especially when you start to consider products where the analytics are more front and centre.]]></summary>
+        <author>
+            <name>ChartMogul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a Supply-Chain Breach Put at Risk Atlassian Accounts]]></title>
+        <id>https://hackernoon.com/how-a-supply-chain-breach-put-at-risk-atlassian-accounts?source=rss</id>
+        <link href="https://hackernoon.com/how-a-supply-chain-breach-put-at-risk-atlassian-accounts?source=rss"/>
+        <updated>2022-02-09T17:03:22.000Z</updated>
+        <summary type="html"><![CDATA[On November 16, 2020 Check Point Research (CPR) uncovered chained vulnerabilities that together can be used to take over an account and control Atlassian apps.]]></summary>
+        <author>
+            <name>Check Point Software</name>
         </author>
     </entry>
     <entry>
