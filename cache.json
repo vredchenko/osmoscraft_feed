@@ -6,6 +6,15 @@
       "siteUrl": "https://goteleport.com/blog/",
       "articles": [
         {
+          "id": "https://goteleport.com/blog/comparing-passwordless-ssh-authentication-methods/",
+          "author": null,
+          "description": "There are essentially four ways you can implement passwordless SSH access. SSH certificate-based authentication, SSH key-based authentication, SSH host-based authentication, or using a custom PAM module that supports out-of-band authentication. If you want to live dangerously, there’s also a fifth method of passwordless access — disable authentication at all. But that’s not who you are!\nThis post will discuss passwordless authentication methods available for SSH access and evaluate the pros and cons of each method. If you are curious about why you should implement passwordless access, our previous blog post on why you have to get rid of passwords for your infrastructure is a good place to start.\nLet’s compare the four passwordless SSH authentication methods.\n1. SSH key authentication\nOpenS…",
+          "link": "https://goteleport.com/blog/comparing-passwordless-ssh-authentication-methods/",
+          "publishedOn": "2022-02-11T00:00:00.000Z",
+          "wordCount": 1755,
+          "title": "Comparing Passwordless SSH Authentication Methods"
+        },
+        {
           "id": "https://goteleport.com/blog/authn-vs-authz/",
           "author": null,
           "description": "Often referred to as AuthN (authentication) and AuthZ (authorization) in the modern access control paradigm, both authentication and authorization are a method to control access to resources. These resources can be files, programs, web applications, mobile applications, operating systems, network devices, etc. Let’s explore three common scenarios on how authentication and authorization are involved.\nAccessing a web application. Signing in to a web application using a username and password combination or single sign-on (SSO) involves authentication. But the ability to view certain web pages and update application data is subjected to authorization.\n\n\n\nAccessing an operating system. Signing in to a remote Windows desktop using a password involves authentication. But the ability to run comman…",
@@ -778,6 +787,33 @@
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
         {
+          "id": "http://www.i-programmer.info/news/150-training-a-education/15209-free-and-easy-a-new-introduction-to-scratch.html",
+          "author": null,
+          "description": "The Raspberry Pi Foundation has once again joined forces with FutureLearn and Teach Computing. This time it is to offer a course that introduces the fundamentals of computing using the block-based programming language Scratch.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/150-training-a-education/15209-free-and-easy-a-new-introduction-to-scratch.html",
+          "publishedOn": "2022-02-11T14:21:16.000Z",
+          "wordCount": 974,
+          "title": "Free 'n Easy - A New Introduction To Scratch Programming"
+        },
+        {
+          "id": "http://www.i-programmer.info/news/149-security/15210-european-union-will-pay-for-finding-bugs-in-open-source-software.html",
+          "author": null,
+          "description": "The European Commission's Open Source Programme Office has decided to offer bug bounties on popular open source software. What better way of acknowledging OSS's importance than by a state driven sponsorship?\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/149-security/15210-european-union-will-pay-for-finding-bugs-in-open-source-software.html",
+          "publishedOn": "2022-02-11T14:13:37.000Z",
+          "wordCount": 1135,
+          "title": "European Union Will Pay For Finding Bugs In Open Source Software"
+        },
+        {
+          "id": "http://www.i-programmer.info/book-watch-archive/15211-the-age-of-data-embracing-algorithms-in-art-a-design-niggli-verlag.html",
+          "author": null,
+          "description": "This book focuses on the esthetics and creativity of a new generation of designers who are using algorithm-supported tools along the vertical.  Christoph Grünberger asked the biggest names in the world of data-driven design to present their most important work on the basis of facts, aspects, and stories and to provide insights into their creative processes. These range from the vision via the underlying code and challenges in the implementation concept, to the finished work.\n\r\n\n\r\n<ASIN:3721210158>\n\r\n\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/book-watch-archive/15211-the-age-of-data-embracing-algorithms-in-art-a-design-niggli-verlag.html",
+          "publishedOn": "2022-02-11T14:01:47.000Z",
+          "wordCount": 459,
+          "title": "The Age of Data: Embracing Algorithms in Art &amp; Design (Niggli Verlag)"
+        },
+        {
           "id": "http://www.i-programmer.info/news/149-security/15207-expressvpn-offers-100k-bug-bounty.html",
           "author": null,
           "description": "ExpressVPN claims that its TrustedServer technology raises the bar for online privacy and security and to put this to the test it is offering a one-time $100,000 bug bounty bonus to the first person to hack it - ethically of course. \n\r\n\nRead more...",
@@ -1324,6 +1360,33 @@
       "feedUrl": "https://atom.io/packages.atom",
       "siteUrl": "https://atom.io",
       "articles": [
+        {
+          "id": "https://atom.io/packages/language-roll20-script",
+          "author": null,
+          "description": "Syntax highlighting for Roll20 scripts\n \nTree-sitter parser for macros, abilities, and roll templates on Roll20.\nThis supports elements nested (i.e., HTML-escaped) within roll queries, grouped rolls, rollable tables, and ability command buttons.\nUses the tree-sitter-roll20-script parser.",
+          "link": "https://atom.io/packages/language-roll20-script",
+          "publishedOn": "2022-02-12T00:00:25.000Z",
+          "wordCount": 105,
+          "title": "language-roll20-script"
+        },
+        {
+          "id": "https://atom.io/packages/remix-syntax",
+          "author": null,
+          "description": "Remix Grammar (Atom.io)",
+          "link": "https://atom.io/packages/remix-syntax",
+          "publishedOn": "2022-02-11T22:53:50.000Z",
+          "wordCount": 72,
+          "title": "remix-syntax"
+        },
+        {
+          "id": "https://atom.io/packages/select-next-multiline-comment",
+          "author": null,
+          "description": "select-next-multiline-comment package\nSelects the next multiline style comment (for jumping to snippet fields).\nThis package selects the next multiline style comment which occupies only one\nline. When using a snippet, the hotkey can be used to quickly edit the\nplaceholder fields.\nusage:\nctrl-alt-n : select-next-multiline-comment:next",
+          "link": "https://atom.io/packages/select-next-multiline-comment",
+          "publishedOn": "2022-02-11T01:40:17.000Z",
+          "wordCount": 114,
+          "title": "select-next-multiline-comment"
+        },
         {
           "id": "https://atom.io/packages/metals-lsp-adapter",
           "author": null,
@@ -1943,6 +2006,24 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=363396",
+          "author": "Chris Coyier",
+          "description": "Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Like React and JavaScript! Here’s a list of nine links to other articles about them that I’ve been saving up and …\n9 New React and JavaScript Links for February 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/9-new-react-and-javascript-links-for-february-2022/",
+          "publishedOn": "2022-02-11T23:11:28.000Z",
+          "wordCount": 951,
+          "title": "9 New React and JavaScript Links for February 2022"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363027",
+          "author": "Yair Even Or",
+          "description": "Imagine you have an element with a multi-value CSS property, such as transform: optional custom property values:\n.el {\n  transform: translate(100px) scale(1.5) skew(5deg);\n}\nNow imagine you don’t always want all the transform values to be applied, so some …\nMulti-Value CSS Properties With Optional Custom Property Values originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/optional-custom-property-values-trick/",
+          "publishedOn": "2022-02-11T15:30:11.000Z",
+          "wordCount": 782,
+          "title": "Multi-Value CSS Properties With Optional Custom Property Values"
+        },
         {
           "id": "https://css-tricks.com/?p=362285",
           "author": "Chris Coyier",
@@ -4119,6 +4200,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "62062b0b56125b0677c63fe4",
+          "author": "Dionysia Lemonaki",
+          "description": "Having problems with our computers is never fun. And what's often worse than the problems themselves is that they seem to occur when we're in the middle of an important task that needs to get done. The computer starts to significanlty slow down and an app we are using might",
+          "link": "https://www.freecodecamp.org/news/how-to-open-task-manager-on-mac-apple-shortcut-tutorial/",
+          "publishedOn": "2022-02-11T21:36:17.000Z",
+          "wordCount": 1943,
+          "title": "How to Open Task Manager on Mac – Apple Shortcut Tutorial"
+        },
+        {
+          "id": "61f587bbf2ed6b06db5a8380",
+          "author": "Nitheesh Poojary",
+          "description": "Recently, I've been considering developing a complete end-to-end green field DevOps personal lab project.  The term \"greenfield software project\" refers to the development of a system for a new product that requires development from scratch with no legacy code.  This is a method you use when you are",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-aws-infrastructure-with-terraform-and-github-actions-a-practical-multi-environment-ci-cd-guide/",
+          "publishedOn": "2022-02-11T19:09:46.000Z",
+          "wordCount": 2818,
+          "title": "How to Deploy AWS Infrastructure with Terraform and Github Actions – A Multi-Environment CI/CD Guide"
+        },
+        {
+          "id": "6203730c56125b0677c632a1",
+          "author": "TAPAS ADHIKARY",
+          "description": "GitHub is a great application that helps you manage your Git repositories. You can also use it to contribute to the open source ecosystem and collaborate with other contributors.  Public repositories on GitHub often get lots of attention from contributors, and this helps enhance the project. So how can",
+          "link": "https://www.freecodecamp.org/news/how-to-fork-a-github-repository/",
+          "publishedOn": "2022-02-11T18:02:16.000Z",
+          "wordCount": 1173,
+          "title": "How to Fork a GitHub Repository – A Complete Workflow"
+        },
+        {
+          "id": "6204325356125b0677c637f0",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In this tutorial, we will talk about the parseInt function in JavaScript. This function parses (break down) a string and returns an integer or NaN (Not a Number).  How the parseInt function works The main purpose of using the parseInt function is to extract a number from a string.",
+          "link": "https://www.freecodecamp.org/news/parseint-in-javascript-js-string-to-int-example/",
+          "publishedOn": "2022-02-11T00:44:09.000Z",
+          "wordCount": 819,
+          "title": "parseInt() in JavaScript – JS String to Int Example"
+        },
         {
           "id": "61fd8a56f2ed6b06db5acd03",
           "author": "Yoko Matsuda",
@@ -7789,6 +7906,177 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/top-5-video-marketing-tools-for-businesses-in-2022?source=rss",
+          "author": "Khamisi Hamisi",
+          "description": "Are you taking advantage of video marketing? Here are 5 video marketing tools you can use to boost your business.",
+          "link": "https://hackernoon.com/top-5-video-marketing-tools-for-businesses-in-2022?source=rss",
+          "publishedOn": "2022-02-11T11:30:09.000Z",
+          "wordCount": 2316,
+          "title": "Top 5 Video Marketing Tools for Businesses in 2022"
+        },
+        {
+          "id": "https://hackernoon.com/finding-threat-actors-in-the-dark?source=rss",
+          "author": "Craig Lebrau",
+          "description": "Should dark web threat intelligence be automated?",
+          "link": "https://hackernoon.com/finding-threat-actors-in-the-dark?source=rss",
+          "publishedOn": "2022-02-11T10:58:26.000Z",
+          "wordCount": 1939,
+          "title": "Finding Threat Actors in the Dark"
+        },
+        {
+          "id": "https://hackernoon.com/is-true-decentralization-possible-without-decentralized-computing?source=rss",
+          "author": "ExtraChain",
+          "description": "High demand and high interest in decentralization made it high-profitable, hundreds of millions USD, even for mediocre products.",
+          "link": "https://hackernoon.com/is-true-decentralization-possible-without-decentralized-computing?source=rss",
+          "publishedOn": "2022-02-11T10:37:49.000Z",
+          "wordCount": 1702,
+          "title": "Is ‘True’ Decentralization Possible without Decentralized Computing?"
+        },
+        {
+          "id": "https://hackernoon.com/can-we-decentralize-zomatoswiggy?source=rss",
+          "author": "HRithik",
+          "description": "A simple approach on how to decentralize food-delivery ecosystem.",
+          "link": "https://hackernoon.com/can-we-decentralize-zomatoswiggy?source=rss",
+          "publishedOn": "2022-02-11T09:49:43.000Z",
+          "wordCount": 2822,
+          "title": "Can We Decentralize Zomato/Swiggy?"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-set-up-a-private-blockchain-network-with-xdc-network-codebase?source=rss",
+          "author": "XinFin (XDC) Network",
+          "description": "This article walks you through the step-by-step setup of a XinFin private network with three masternodes (or, network nodes).",
+          "link": "https://hackernoon.com/how-to-set-up-a-private-blockchain-network-with-xdc-network-codebase?source=rss",
+          "publishedOn": "2022-02-11T05:18:59.000Z",
+          "wordCount": 2412,
+          "title": "How to Set Up a Private Blockchain Network with XDC Network Codebase"
+        },
+        {
+          "id": "https://hackernoon.com/make-it-easy-on-me-how-to-invest-in-crypto-even-if-you-have-not-had-the-time-to-choose?source=rss",
+          "author": "BostonTrading.co",
+          "description": "Bogle believed that “investing is for everyone.”",
+          "link": "https://hackernoon.com/make-it-easy-on-me-how-to-invest-in-crypto-even-if-you-have-not-had-the-time-to-choose?source=rss",
+          "publishedOn": "2022-02-11T05:17:45.000Z",
+          "wordCount": 2117,
+          "title": "Make it Easy on Me: How to Easily Invest in Crypto Even if You Have No Time"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-chainlink-intro-to-the-oracle-network-for-hybrid-smart-contracts?source=rss",
+          "author": "BlocksAdvisors",
+          "description": "Staking will further define the value accruing mechanisms of the Chainlink Ecosystem. To become Truth Machine for society at large it will have to decentralize.",
+          "link": "https://hackernoon.com/what-is-chainlink-intro-to-the-oracle-network-for-hybrid-smart-contracts?source=rss",
+          "publishedOn": "2022-02-11T05:05:23.000Z",
+          "wordCount": 2000,
+          "title": "What is Chainlink? - Intro to the Oracle Network for Hybrid Smart Contracts"
+        },
+        {
+          "id": "https://hackernoon.com/deepminds-alphacode-wont-steal-your-job-either?source=rss",
+          "author": "Maximiliano Contieri",
+          "description": "Another new fancy AI tool. We keep getting closer to the singularity. But not on programming.",
+          "link": "https://hackernoon.com/deepminds-alphacode-wont-steal-your-job-either?source=rss",
+          "publishedOn": "2022-02-11T05:01:14.000Z",
+          "wordCount": 1367,
+          "title": "DeepMind's AlphaCode Won't Steal Your Job Either"
+        },
+        {
+          "id": "https://hackernoon.com/the-best-original-arcade-games-slogging-insights?source=rss",
+          "author": "Slogging (Slack Blogging)",
+          "description": "Arcade games were a big part of our childhood, filling our hours and memories with fun moments. In this slogging thread, we share our favorite arcade games.",
+          "link": "https://hackernoon.com/the-best-original-arcade-games-slogging-insights?source=rss",
+          "publishedOn": "2022-02-11T04:51:43.000Z",
+          "wordCount": 1640,
+          "title": "The Best Original Arcade Games (Slogging Insights)"
+        },
+        {
+          "id": "https://hackernoon.com/yes-women-also-belong-in-stem?source=rss",
+          "author": "Maya Faibish",
+          "description": "Scientific spaces belong to us just as they belong to everyone else, regardless of gender.",
+          "link": "https://hackernoon.com/yes-women-also-belong-in-stem?source=rss",
+          "publishedOn": "2022-02-11T04:32:19.000Z",
+          "wordCount": 1989,
+          "title": "Yes, Women Also Belong in STEM"
+        },
+        {
+          "id": "https://hackernoon.com/robotic-process-automation-cost-deciphered?source=rss",
+          "author": "ITRex",
+          "description": "Office employees spend around 69 days per year on administrative tasks. This costs US businesses $2.87 trillion in lost productivity annually.",
+          "link": "https://hackernoon.com/robotic-process-automation-cost-deciphered?source=rss",
+          "publishedOn": "2022-02-11T01:27:57.000Z",
+          "wordCount": 3130,
+          "title": "Robotic Process Automation Cost, Deciphered"
+        },
+        {
+          "id": "https://hackernoon.com/a-short-guide-to-digital-privacy-for-college-students?source=rss",
+          "author": "Avast Secure Browser",
+          "description": "Many learning management systems are compatible with Chrome, making it a challenge to maintain your digital privacy while getting your homework done.",
+          "link": "https://hackernoon.com/a-short-guide-to-digital-privacy-for-college-students?source=rss",
+          "publishedOn": "2022-02-11T01:24:25.000Z",
+          "wordCount": 1723,
+          "title": "A Short Guide to Digital Privacy for College Students"
+        },
+        {
+          "id": "https://hackernoon.com/acala-network-launches-ausd-polkadots-native-multi-collateral-stablecoin?source=rss",
+          "author": "Ishan Pandey",
+          "description": "The Acala Dollar, a multi-collateral stablecoin, has been released by Acala. The stablecoin (aUSD) protocol acts as the Polkadot ecosystem.",
+          "link": "https://hackernoon.com/acala-network-launches-ausd-polkadots-native-multi-collateral-stablecoin?source=rss",
+          "publishedOn": "2022-02-11T01:22:49.000Z",
+          "wordCount": 2381,
+          "title": "Acala Network Launches aUSD Polkadot's Native Multi-Collateral Stablecoin"
+        },
+        {
+          "id": "https://hackernoon.com/unix-a-crypto-gaming-guild-is-launching-karmaverse-one-of-the-first-triple-a-rated-blockchain-game?source=rss",
+          "author": "Ishan Pandey",
+          "description": "UniX Gaming was one of the first blockchain gaming companies to use the play-2-earn (P2E) concept is launching Karmaverse.",
+          "link": "https://hackernoon.com/unix-a-crypto-gaming-guild-is-launching-karmaverse-one-of-the-first-triple-a-rated-blockchain-game?source=rss",
+          "publishedOn": "2022-02-11T01:22:46.000Z",
+          "wordCount": 1821,
+          "title": "UniX a Crypto Gaming Guild is Launching Karmaverse, One of the First Triple A-Rated Blockchain Games"
+        },
+        {
+          "id": "https://hackernoon.com/concordium-blockchain-valued-at-$445-billion-in-its-last-private-sale-is-now-live?source=rss",
+          "author": "Ishan Pandey",
+          "description": "Concordium is a public, layer-1, proof-of-stake blockchain with a unique ID layer at the protocol level to assist with regulatory compliance.",
+          "link": "https://hackernoon.com/concordium-blockchain-valued-at-$445-billion-in-its-last-private-sale-is-now-live?source=rss",
+          "publishedOn": "2022-02-11T01:22:44.000Z",
+          "wordCount": 1777,
+          "title": "Concordium Blockchain valued at $4.45 Billion in its Last Private Sale is now Live"
+        },
+        {
+          "id": "https://hackernoon.com/ola-finance-is-bringing-customized-lending-network-to-flare-blockchain?source=rss",
+          "author": "Ishan Pandey",
+          "description": "DeFi projects building on Songbird and Flare can deploy a lending network through Ola’s protocol.",
+          "link": "https://hackernoon.com/ola-finance-is-bringing-customized-lending-network-to-flare-blockchain?source=rss",
+          "publishedOn": "2022-02-11T01:22:18.000Z",
+          "wordCount": 1806,
+          "title": "Ola Finance is Bringing Customized Lending Network to Flare Blockchain"
+        },
+        {
+          "id": "https://hackernoon.com/uncover-the-dark-side-of-smart-contracts?source=rss",
+          "author": "Emmanuel Awosika",
+          "description": "There's no doubt smart contracts will be useful, but it's important to separate reality from hype.",
+          "link": "https://hackernoon.com/uncover-the-dark-side-of-smart-contracts?source=rss",
+          "publishedOn": "2022-02-11T00:22:49.000Z",
+          "wordCount": 4927,
+          "title": "Uncover the Dark Side of Smart Contracts"
+        },
+        {
+          "id": "https://hackernoon.com/a-youtuber-faces-issues-over-reviewing-apps-available-on-google-play?source=rss",
+          "author": "TorrentFreak",
+          "description": "TechDoctorUK is experiencing some interesting problems with YouTube's policies that ban discussion of ways to bypass payment for digital content and services.",
+          "link": "https://hackernoon.com/a-youtuber-faces-issues-over-reviewing-apps-available-on-google-play?source=rss",
+          "publishedOn": "2022-02-10T21:53:14.000Z",
+          "wordCount": 1836,
+          "title": "A YouTuber Faces Issues Over Reviewing Apps Available on Google Play"
+        },
+        {
+          "id": "https://hackernoon.com/using-public-infrastructure-to-handle-ownership-rights-interview-with-sillytuna?source=rss",
+          "author": "Sillytuna",
+          "description": "Decentralized internet interview with Sillytuna.",
+          "link": "https://hackernoon.com/using-public-infrastructure-to-handle-ownership-rights-interview-with-sillytuna?source=rss",
+          "publishedOn": "2022-02-10T16:31:55.000Z",
+          "wordCount": 2270,
+          "title": "'Using Public Infrastructure to Handle Ownership Rights': Interview with Sillytuna"
+        },
         {
           "id": "https://hackernoon.com/metaverse-imaginaries-sci-fi-vignette-1-the-future-of-work-land-investing-in-the-metaverse?source=rss",
           "author": "Rizwan Virk",
@@ -23984,15 +24272,6 @@
           "publishedOn": "2021-02-18T15:00:00.000Z",
           "wordCount": 2855,
           "title": "Designing Inclusive Content Models"
-        },
-        {
-          "id": "https://alistapart.com/article/selling-design-systems/",
-          "author": "by",
-          "description": "I’m willing to bet that you probably didn’t start your web career because you wanted to be a politician or a salesperson. But here’s the cold, hard truth, friend: if you want to work on design systems, you don’t have a choice. Someone has to pay for your time, and that means someone has to sell what you do to an audience that speaks value in an entirely different language. \nIt’s not exactly easy to connect the benefits of a design system directly to revenue. With an ecomm site, you can add a feature and measure the impact. With other conversion-based digital experiences, if your work is good, your customers will convert more. But because a design system is (usually) an internal tool, it’s just harder to connect those dots. \nThis article boils down the methods I’ve put into practice convinc…",
-          "link": "https://alistapart.com/article/selling-design-systems/",
-          "publishedOn": "2021-02-11T15:00:00.000Z",
-          "wordCount": 3743,
-          "title": "The Never-Ending Job of Selling Design Systems"
         }
       ]
     },
@@ -25088,6 +25367,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=519573",
+          "author": "Al Williams",
+          "description": "Have you ever seen a Wilson cloud chamber — a science experiment that lets you visualize ionizing radiation? How hard would it be to build one? If you follow [stoppi’s] …read more",
+          "link": "https://hackaday.com/2022/02/11/maybe-the-simplest-cloud-chamber/",
+          "publishedOn": "2022-02-12T00:00:47.000Z",
+          "wordCount": 1190,
+          "title": "Maybe the Simplest Cloud Chamber"
+        },
+        {
+          "id": "https://hackaday.com/?p=519371",
+          "author": "Chris Lott",
+          "description": "Twisting stranded wire with your fingers in preparation for tinning and/or soldering is almost a reflex for folks making electronic assemblies. But what if the wires are too close to …read more",
+          "link": "https://hackaday.com/2022/02/11/one-tool-twists-wires-and-skewers-shish-kebabs/",
+          "publishedOn": "2022-02-11T21:00:29.000Z",
+          "wordCount": 1498,
+          "title": "One Tool Twists Wires, and Skewers Shish Kebabs"
+        },
+        {
+          "id": "https://hackaday.com/?p=519307",
+          "author": "Dan Maloney",
+          "description": "For those of us who grew up before the Internet, the center of pretty much every house was the TV. It was the shrine before which we all worshipped, gathering …read more",
+          "link": "https://hackaday.com/2022/02/11/tiny-tv-celebrates-the-forgotten-tech-of-crts/",
+          "publishedOn": "2022-02-11T19:30:17.000Z",
+          "wordCount": 2354,
+          "title": "Tiny TV Celebrates the Forgotten Tech of CRTs"
+        },
+        {
+          "id": "https://hackaday.com/?p=519577",
+          "author": "Tom Nardi",
+          "description": "These days we’ve got powerful free tools to do CAD and circuit design, cheap desktop 3D printers that can knock out bespoke enclosures, and convenient services that will spin up …read more",
+          "link": "https://hackaday.com/2022/02/11/pick-and-place-hack-chat-reveals-assembly-secrets/",
+          "publishedOn": "2022-02-11T18:00:00.000Z",
+          "wordCount": 1948,
+          "title": "Pick and Place Hack Chat Reveals Assembly Secrets"
+        },
+        {
+          "id": "https://hackaday.com/?p=519489&preview=true&preview_id=519489",
+          "author": "Tom Nardi",
+          "description": "This week Hackaday Editor-in-Chief Elliot Williams and Managing Editor Tom Nardi take a close look at two pairs of projects that demonstrate the wildly different approaches that hackers can take …read more",
+          "link": "https://hackaday.com/2022/02/11/hackaday-podcast-155-dual-integrating-spheres-more-magnetic-switches-plottybot-red-hair-in-your-wafers/",
+          "publishedOn": "2022-02-11T17:00:59.000Z",
+          "wordCount": 1328,
+          "title": "Hackaday Podcast 155: Dual Integrating Spheres, More Magnetic Switches, PlottyBot, Red Hair in Your Wafers"
+        },
+        {
+          "id": "https://hackaday.com/?p=519399",
+          "author": "Lewin Day",
+          "description": "Lego Technic is a wonderful thing, making it easy to toy around with all manner of complicated mechanical assemblies without needing to do any difficult fabrication. [touthomme] recently posted one …read more",
+          "link": "https://hackaday.com/2022/02/11/a-most-unconventional-lego-walker/",
+          "publishedOn": "2022-02-11T16:30:00.000Z",
+          "wordCount": 1831,
+          "title": "A Most Unconventional Lego Walker"
+        },
+        {
+          "id": "https://hackaday.com/?p=519334",
+          "author": "Jonathan Bennett",
+          "description": "Unknown attackers have been exploiting a 0-day attack against the Zimbra e-mail suite. Researchers at Volexity first discovered the attack back in December of last year, detected by their monitoring …read more",
+          "link": "https://hackaday.com/2022/02/11/this-week-in-security-zimbra-lockbit-2-and-hacking-nk/",
+          "publishedOn": "2022-02-11T15:00:24.000Z",
+          "wordCount": 2594,
+          "title": "This Week in Security: Zimbra, Lockbit 2, And Hacking NK"
+        },
         {
           "id": "https://hackaday.com/?p=519295",
           "author": "Bryan Cockfield",
@@ -32692,6 +33034,73 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "0576A8B6-1B78-4098-8263648B0655892E",
+          "author": "Sophie Bushwick",
+          "description": "The program also challenges certain assumptions about self-driving cars\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/ai-outraces-human-champs-at-the-video-game-gran-turismo/",
+          "publishedOn": "2022-02-11T20:00:00.000Z",
+          "wordCount": null,
+          "title": "AI Outraces Human Champs at the Video Game Gran Turismo",
+          "itunes": {}
+        },
+        {
+          "id": "FFB15C9E-B54A-41CF-A0BCCDCADF6E325C",
+          "author": "Sara Schonhardt, E&E News",
+          "description": "Scientists outlined the risks of climate inaction ahead of a major IPCC report later this month\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/earth-could-surpass-ability-of-ecosystems-to-recover-from-warming/",
+          "publishedOn": "2022-02-11T19:30:00.000Z",
+          "wordCount": null,
+          "title": "Earth Could Surpass Ability of Ecosystems to Recover from Warming",
+          "itunes": {}
+        },
+        {
+          "id": "0CCFB076-1626-4E9A-A44A3F146C2235B8",
+          "author": "Alison L. Antes",
+          "description": "Building a positive research environment requires intention, support and a belief that kindness isn’t weakness\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-to-be-a-great-leader-in-science/",
+          "publishedOn": "2022-02-11T19:15:00.000Z",
+          "wordCount": null,
+          "title": "How to Be a Great Leader in Science",
+          "itunes": {}
+        },
+        {
+          "id": "49211D53-F897-4088-A221FD4920E1691D",
+          "author": "Amy Pope, The Conversation US",
+          "description": "An interplay of gravity, lift and drag allows athletes to soar astonishingly far through the air\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/olympic-ski-jumping-falling-or-flying-in-style/",
+          "publishedOn": "2022-02-11T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Olympic Ski Jumping: Falling or Flying in Style?",
+          "itunes": {}
+        },
+        {
+          "id": "0B1D168F-00A8-4B74-BCAD1453EB5871BE",
+          "author": "Emily Schwing",
+          "description": "Equally surprising is the fact that we still do not know how birds actually stay airborne.\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/podcast/episode/answering-an-age-old-mystery-how-do-birds-actually-fly/",
+          "publishedOn": "2022-02-11T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Answering an Age Old Mystery: How do Birds Actually Fly?",
+          "itunes": {
+            "duration": "06:14"
+          },
+          "enclosure": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=54A04832-D888-4E03-8775ADDC7D54E599",
+            "length": "5258752",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "786BB941-0386-4E12-A8BF7BA9F713F74E",
+          "author": "Megan Scudellari",
+          "description": "Specific mutations hide the COVID variant from the immune system and give it a new route into more cells\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/omicrons-surprising-anatomy-explains-why-it-is-wildly-contagious/",
+          "publishedOn": "2022-02-11T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Omicron's Surprising Anatomy Explains Why It Is Wildly Contagious",
+          "itunes": {}
+        },
+        {
           "id": "054E1900-F7FA-4FDA-A24582400984AEFC",
           "author": "Mike Wall, SPACE.com",
           "description": "Proxima d might be only a quarter the mass of Earth, potentially making it one of the smallest worlds yet discovered beyond our solar system\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -38986,6 +39395,33 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=149917",
+          "author": "Mike Vizard",
+          "description": "Dynatrace, at its online Perform 2022 event, launched a bevy of updates to its portfolio that make it easier for DevOps teams to programmatically embed observability and other software intelligence capabilities within applications. At the same time, Dynatrace also revealed that it has extended the reach of its observability platform to now include all the […]\nThe post Dynatrace Advances Application Environments as Code appeared first on DevOps.com.",
+          "link": "https://devops.com/dynatrace-advances-application-environments-as-code/",
+          "publishedOn": "2022-02-11T19:33:48.000Z",
+          "wordCount": 849,
+          "title": "Dynatrace Advances Application Environments as Code"
+        },
+        {
+          "id": "https://devops.com/?p=149812",
+          "author": "Matthew Clemente",
+          "description": "DevOps issues can be a thorny subject. The coming together in harmony of Dev (developer) and Ops (operations) represents an arranged marriage of sorts that, for some, will never have a ‘happily ever after’ ending as both parties ultimately grapple with irreconcilable differences. But despite the naysayers, the very existence of DevOps as a portmanteau […]\nThe post Irreconcilable Differences: DevOps Grapples With Issues appeared first on DevOps.com.",
+          "link": "https://devops.com/the-top-5-contentious-devops-issues/",
+          "publishedOn": "2022-02-11T08:00:40.000Z",
+          "wordCount": 1589,
+          "title": "Irreconcilable Differences: DevOps Grapples With Issues"
+        },
+        {
+          "id": "https://devops.com/?p=149840",
+          "author": "Ganesh Datta",
+          "description": "A technology company’s most valuable assets are its people and data, especially data about the organization itself. By knowing what data to track over time, engineering leaders can measure how efficiently their DevOps teams are operating and enable them to maximize their value stream to deliver the best possible product to end users. After years […]\nThe post How DORA Metrics Can Measure and Improve Performance appeared first on DevOps.com.",
+          "link": "https://devops.com/how-dora-metrics-can-measure-and-improve-performance/",
+          "publishedOn": "2022-02-11T07:30:19.000Z",
+          "wordCount": 1842,
+          "title": "How DORA Metrics Can Measure and Improve Performance"
+        },
+        {
           "id": "https://devops.com/?p=149893",
           "author": "Mike Vizard",
           "description": "Kong Inc. this week advanced its service connectivity platform strategy with an update to Kong Enterprise that makes it simpler to collectively manage groups of application programming interfaces (APIs). Michael Heap, director of developer experience for Kong, Inc., said that capability will make it simpler to, for example, assign rate limits to different tiers of […]\nThe post Kong Enterprise 2.7 Simplifies API Management appeared first on DevOps.com.",
@@ -42593,6 +43029,15 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66858",
+          "author": "Nathan Yau",
+          "description": "It's a wide range, based on data from the National Center for Health Statistics.\nTags: age, birth, motherhood",
+          "link": "https://flowingdata.com/2022/02/11/age-of-moms-when-kids-are-born/",
+          "publishedOn": "2022-02-11T08:42:28.000Z",
+          "wordCount": 548,
+          "title": "Age of Moms When Kids are Born"
+        },
         {
           "id": "https://flowingdata.com/?p=66840",
           "author": "Nathan Yau",
