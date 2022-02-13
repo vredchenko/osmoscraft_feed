@@ -787,6 +787,15 @@
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
         {
+          "id": "http://www.i-programmer.info/i-programmer-weekly/238-i-programmer-weekly-2022/15212-february-week-1.html",
+          "author": null,
+          "description": "This weekly digest is an extended version of the newsletter emailed to subscribers every Wednesday. As well as listing the week's news items, it also includes the week's Book Review, additions to Book Watch and latest news from the I Programmer Library. Top of the list come the week's two feature articles.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/i-programmer-weekly/238-i-programmer-weekly-2022/15212-february-week-1.html",
+          "publishedOn": "2022-02-12T14:57:58.000Z",
+          "wordCount": 1343,
+          "title": "February Week 1"
+        },
+        {
           "id": "http://www.i-programmer.info/news/150-training-a-education/15209-free-and-easy-a-new-introduction-to-scratch.html",
           "author": null,
           "description": "The Raspberry Pi Foundation has once again joined forces with FutureLearn and Teach Computing. This time it is to offer a course that introduces the fundamentals of computing using the block-based programming language Scratch.\n\r\n\nRead more...",
@@ -2006,6 +2015,15 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=363498",
+          "author": "Chris Coyier",
+          "description": "Kilian Valkhof:\n[…] Mobile Safari increases the default font-size when you switch a website from portrait to landscape. On phones that is, it doesn’t do it on iPad. Safari has been doing this for a long time, as a \n…\nYour CSS reset needs text-size-adjust (probably) originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/your-css-reset-needs-text-size-adjust-probably/",
+          "publishedOn": "2022-02-12T00:46:40.000Z",
+          "wordCount": 608,
+          "title": "Your CSS reset needs text-size-adjust (probably)"
+        },
         {
           "id": "https://css-tricks.com/?p=363396",
           "author": "Chris Coyier",
@@ -7906,6 +7924,96 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/architecting-a-thousand-node-data-orchestration-platform-to-accelerate-game-ai-training-at-tencent?source=rss",
+          "author": "Bin Fan",
+          "description": "Tencent has implemented a 1000-node Alluxio cluster and designed a scalable, robust, and performant architecture to accelerate the game AI training.",
+          "link": "https://hackernoon.com/architecting-a-thousand-node-data-orchestration-platform-to-accelerate-game-ai-training-at-tencent?source=rss",
+          "publishedOn": "2022-02-11T22:56:29.000Z",
+          "wordCount": 3618,
+          "title": "Architecting a Thousand-Node Data Orchestration Platform to Accelerate Game AI Training at Tencent"
+        },
+        {
+          "id": "https://hackernoon.com/polyester-a-sustainable-option?source=rss",
+          "author": "ÀLA.HAUSSE",
+          "description": "Polyester is the most widely used modern fabric in the world, yet raises a question between the boundaries of sustainability and convenience.",
+          "link": "https://hackernoon.com/polyester-a-sustainable-option?source=rss",
+          "publishedOn": "2022-02-11T22:53:18.000Z",
+          "wordCount": 2126,
+          "title": "Polyester: A Sustainable Option?"
+        },
+        {
+          "id": "https://hackernoon.com/how-elon-musk-prioritizes-sustainability-in-his-businesses?source=rss",
+          "author": "ÀLA.HAUSSE",
+          "description": "Elon Musk has demonstrated great sustainability efforts in his high-scale projects, showing his value towards the betterment of society.",
+          "link": "https://hackernoon.com/how-elon-musk-prioritizes-sustainability-in-his-businesses?source=rss",
+          "publishedOn": "2022-02-11T22:51:47.000Z",
+          "wordCount": 2100,
+          "title": "How Elon Musk Prioritizes Sustainability in his Businesses"
+        },
+        {
+          "id": "https://hackernoon.com/how-biodiversity-is-harmfully-affected-by-the-overlapping-effects-of-fast-fashion?source=rss",
+          "author": "ÀLA.HAUSSE",
+          "description": "Biodiversity is crucial for the sustainability and fruition of Earth, however, the effects of fast fashion are acting as a major detriment.",
+          "link": "https://hackernoon.com/how-biodiversity-is-harmfully-affected-by-the-overlapping-effects-of-fast-fashion?source=rss",
+          "publishedOn": "2022-02-11T22:48:30.000Z",
+          "wordCount": 2324,
+          "title": "How Biodiversity is Harmfully Affected by the Overlapping Effects of Fast Fashion"
+        },
+        {
+          "id": "https://hackernoon.com/from-the-origins-of-the-internet-to-decentralized-web-30?source=rss",
+          "author": "Mickey Maler",
+          "description": "Read about the history and underlying Web1.0 and 2.0 technologies. Let the article provide you with a vision about the decentralized internet future of Web 3.0.",
+          "link": "https://hackernoon.com/from-the-origins-of-the-internet-to-decentralized-web-30?source=rss",
+          "publishedOn": "2022-02-11T22:46:15.000Z",
+          "wordCount": 11642,
+          "title": "From the Origins of the Internet to Decentralized Web 3.0"
+        },
+        {
+          "id": "https://hackernoon.com/its-a-fine-line-between-caring-for-people-and-holding-them-accountable-at-work?source=rss",
+          "author": "Vinita Bansal",
+          "description": "I have been a people person as far as I could remember. So when I first became a manager, I thought “How hard could this be?”",
+          "link": "https://hackernoon.com/its-a-fine-line-between-caring-for-people-and-holding-them-accountable-at-work?source=rss",
+          "publishedOn": "2022-02-11T22:44:34.000Z",
+          "wordCount": 2578,
+          "title": "It's a Fine Line Between Caring for People and Holding them Accountable at Work"
+        },
+        {
+          "id": "https://hackernoon.com/building-your-chat-app-from-scratch-vs-integrating-with-a-chat-api?source=rss",
+          "author": "Asloob Hashmi",
+          "description": "If you're contemplating whether to build a chat from scratch or buy Chat APIs, then you must read this article to find out which option is best for you.",
+          "link": "https://hackernoon.com/building-your-chat-app-from-scratch-vs-integrating-with-a-chat-api?source=rss",
+          "publishedOn": "2022-02-11T22:18:12.000Z",
+          "wordCount": 2304,
+          "title": "Building your Chat App From Scratch vs Integrating with a Chat API"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-add-internationalisation-to-your-products-notification?source=rss",
+          "author": "Courier",
+          "description": "In this article, you’ll learn about the scope of internationalization and the tools that are available to build software with internationalization logic.",
+          "link": "https://hackernoon.com/how-to-add-internationalisation-to-your-products-notification?source=rss",
+          "publishedOn": "2022-02-11T21:53:57.000Z",
+          "wordCount": 2489,
+          "title": "How to Add Internationalisation to your Product's Notifications"
+        },
+        {
+          "id": "https://hackernoon.com/metablaze-to-introduce-nft-based-perpetual-royalties-on-ethereum?source=rss",
+          "author": "Ishan Pandey",
+          "description": "Metablaze is introducing perpetual royalties to the Binance Smart Chain.",
+          "link": "https://hackernoon.com/metablaze-to-introduce-nft-based-perpetual-royalties-on-ethereum?source=rss",
+          "publishedOn": "2022-02-11T21:12:53.000Z",
+          "wordCount": 1821,
+          "title": "Metablaze to Introduce NFT based Perpetual Royalties on Ethereum"
+        },
+        {
+          "id": "https://hackernoon.com/permutation-argument-in-halo-2-sin7y-tech-review-15?source=rss",
+          "author": "Sin7Y",
+          "description": "The algorithm mentioned in the Halo2 book is a bit obscure. Here we will use a simple example to briefly express its main idea. Let’s look at a definition.",
+          "link": "https://hackernoon.com/permutation-argument-in-halo-2-sin7y-tech-review-15?source=rss",
+          "publishedOn": "2022-02-11T18:59:31.000Z",
+          "wordCount": 2407,
+          "title": "Permutation Argument in Halo 2: Sin7Y Tech Review (15)"
+        },
         {
           "id": "https://hackernoon.com/top-5-video-marketing-tools-for-businesses-in-2022?source=rss",
           "author": "Khamisi Hamisi",
@@ -24281,6 +24389,16 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=148929",
+          "author": "ACMer",
+          "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms You are given an integer num. Rearrange the digits of num such that its value is minimized and it does not contain any leading...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-smallest-value-of-the-rearranged-number/",
+          "publishedOn": "2022-02-12T20:25:11.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Algorithm to Compute the Smallest Value of the Rearranged Number (Math)",
+          "itunes": {}
+        },
+        {
           "id": "https://helloacm.com/?p=148909",
           "author": "ACMer",
           "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms The logarithm functions are the inverse of exponential functions. For example: is the inverse of and mathematically speaking, they...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -25367,6 +25485,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=519146",
+          "author": "Kristina Panos",
+          "description": "Even though it’s not the right tool for the job, we’ve all used a flat head screwdriver for other purposes. Admit it — you’ve pried open a thing or two …read more",
+          "link": "https://hackaday.com/2022/02/12/spin-some-spudgers-from-secondhand-silverware/",
+          "publishedOn": "2022-02-13T00:00:00.000Z",
+          "wordCount": 1119,
+          "title": "Spin Some Spudgers from Secondhand Silverware"
+        },
+        {
+          "id": "https://hackaday.com/?p=519480",
+          "author": "Dave Rowntree",
+          "description": "Prolific hacker [Sulfuroid] is a medical doctor by day, and an electronics hobbyist by night, and quite how he finds the time, we have no idea. The project we want …read more",
+          "link": "https://hackaday.com/2022/02/12/this-esp32-pico-wristwatch-has-plenty-of-potential/",
+          "publishedOn": "2022-02-12T21:00:00.000Z",
+          "wordCount": 1271,
+          "title": "This ESP32 Pico Wristwatch Has Plenty Of Potential"
+        },
+        {
+          "id": "https://hackaday.com/?p=519391",
+          "author": "Lewin Day",
+          "description": "2022 is a good year for puzzles, and if you’re getting tired of Wordle, you might be after a new challenge. This color puzzle from [Sebastian Coddington] could be just …read more",
+          "link": "https://hackaday.com/2022/02/12/color-dot-puzzle-will-wrinkle-your-brain/",
+          "publishedOn": "2022-02-12T18:00:51.000Z",
+          "wordCount": 1078,
+          "title": "Color Dot Puzzle Will Wrinkle Your Brain"
+        },
+        {
+          "id": "https://hackaday.com/?p=519645",
+          "author": "Elliot Williams",
+          "description": "My son was into “Secret Coders“, a graphic novel series wherein a pair of kids discover and thwart a plot to take over the world by learning to program in …read more",
+          "link": "https://hackaday.com/2022/02/12/the-real-world-strikes-back/",
+          "publishedOn": "2022-02-12T15:00:28.000Z",
+          "wordCount": 2221,
+          "title": "The Real World Strikes Back"
+        },
+        {
+          "id": "https://hackaday.com/?p=519398",
+          "author": "Lewin Day",
+          "description": "Addressable LEDs are wonderful things, with products like Neopixels making it easy to create all kinds of vibrant, blinking glowables. However, for those without a lot of electronics experience, using …read more",
+          "link": "https://hackaday.com/2022/02/12/tutorial-teaches-you-to-use-neopixels-with-micropython/",
+          "publishedOn": "2022-02-12T12:00:55.000Z",
+          "wordCount": 1186,
+          "title": "Tutorial Teaches You To Use Neopixels With Micropython"
+        },
+        {
+          "id": "https://hackaday.com/?p=519358",
+          "author": "Chris Lott",
+          "description": "When you’re building a quick prototype or a one-off project it’s nice to be able to securely mount the various modules and development boards. Sometimes these boards have mounting holes, …read more",
+          "link": "https://hackaday.com/2022/02/12/simple-dev-board-module-socket/",
+          "publishedOn": "2022-02-12T09:00:32.000Z",
+          "wordCount": 1743,
+          "title": "Simple Dev Board Module Socket"
+        },
+        {
+          "id": "https://hackaday.com/?p=519560",
+          "author": "Al Williams",
+          "description": "You have a few choices if you want to use a probe to level your 3D printer bed. Rarely, you’ll see optical or capacitive probes. More commonly, though, your probe …read more",
+          "link": "https://hackaday.com/2022/02/11/homemade-probe-for-3d-printer-3/",
+          "publishedOn": "2022-02-12T06:00:18.000Z",
+          "wordCount": 2988,
+          "title": "Homemade Probe for 3D Printer: $3"
+        },
         {
           "id": "https://hackaday.com/?p=519573",
           "author": "Al Williams",
@@ -33033,6 +33214,16 @@
       "feedUrl": "http://rss.sciam.com/scientificamerican-global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "66154959-73CC-4231-A3F698B9CD5DDDEB",
+          "author": "Peter Veals, The Conversation US",
+          "description": "Artificial snow can affect he performance of skiers and snowboarders\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-olympics-has-100-percent-fake-snow-heres-the-science-of-how-it-gets-made/",
+          "publishedOn": "2022-02-12T13:00:00.000Z",
+          "wordCount": null,
+          "title": "The Olympics Has 100 Percent Fake Snow--Here's The Science of How It Gets Made",
+          "itunes": {}
+        },
         {
           "id": "0576A8B6-1B78-4098-8263648B0655892E",
           "author": "Sophie Bushwick",
@@ -45078,5 +45269,5 @@
       ]
     }
   ],
-  "cliVersion": "1.12.0"
+  "cliVersion": "1.12.1"
 }
