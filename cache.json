@@ -787,6 +787,16 @@
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
         {
+          "id": "http://www.i-programmer.info/news/105-artificial-intelligence/15213-fake-70s-sc-fi-courtesy-of-open-ai.html",
+          "author": null,
+          "description": "No, this isn't a vintage Si-Fi paperback from a newly discovered author. Both the author's name and the book's title are AI generated, as is the cover artwork. Sadly the story hasn't been written.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/105-artificial-intelligence/15213-fake-70s-sc-fi-courtesy-of-open-ai.html",
+          "publishedOn": "2022-02-13T12:09:42.000Z",
+          "wordCount": 912,
+          "title": "Fake 70's Sci-Fi Courtesy Of Open AI",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.i-programmer.info/i-programmer-weekly/238-i-programmer-weekly-2022/15212-february-week-1.html",
           "author": null,
           "description": "This weekly digest is an extended version of the newsletter emailed to subscribers every Wednesday. As well as listing the week's news items, it also includes the week's Book Review, additions to Book Watch and latest news from the I Programmer Library. Top of the list come the week's two feature articles.\n\r\n\nRead more...",
@@ -1369,6 +1379,26 @@
       "feedUrl": "https://atom.io/packages.atom",
       "siteUrl": "https://atom.io",
       "articles": [
+        {
+          "id": "https://atom.io/packages/kotlin-lsp-adapter",
+          "author": null,
+          "description": "Kotlin LSP Adapter for Atom\nOverview\nMinimal LSP adapter for Atom to replace the inactive atom-ide-kotlin package.\nDependencies\nRequires atom-ide-base.\nInstallation\nMake sure you have Java and Gradle installed (check Gradle for instructions).\nFollow the instructions to install to build the Kotlin Language Server.\nFor simplicity:\nDownload the source files for the language server here\n\nExtract it to a location of your choosing (eg. c:/program files/kotlin/)\ncd into the source directory and run gradlew :server:installDist\n\nLocate the executable files (eg. kotlin-language-server.bat) in the kotlin-language-server-main\\server\\build\\install\\server\\bin folder\nThen either put the location on your PATH or enter the full path in the config.\nMay require restart of Atom.\nLicense\nMIT License.",
+          "link": "https://atom.io/packages/kotlin-lsp-adapter",
+          "publishedOn": "2022-02-13T17:55:08.000Z",
+          "wordCount": 176,
+          "title": "kotlin-lsp-adapter",
+          "imageUrl": "http://og.github.com/atom-mark/atom-mark@1200x630.png"
+        },
+        {
+          "id": "https://atom.io/packages/lang-smallbasic",
+          "author": null,
+          "description": "SmallBASIC syntax coloring for Atom\nThis Atom package adds syntax coloring and snippets for the SmallBASIC language (https://smallbasic.github.io/)\nFeatures:\nSyntax coloring\nCode snippets (e.g. For ... Next, If ... Else ... EndIf)\nInstallation\nFrom repository\nCopy this folder to the atom package directory (i.e. ~/.atom/packages in Linux) and restart Atom.\nFrom Atom packages\nSearch for \"lang-smallbasic\" and install the package.",
+          "link": "https://atom.io/packages/lang-smallbasic",
+          "publishedOn": "2022-02-13T15:54:02.000Z",
+          "wordCount": 126,
+          "title": "lang-smallbasic",
+          "imageUrl": "http://og.github.com/atom-mark/atom-mark@1200x630.png"
+        },
         {
           "id": "https://atom.io/packages/language-roll20-script",
           "author": null,
@@ -7924,6 +7954,206 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/hyper-converged-infrastructure-all-the-eyes-in-one-basket?source=rss",
+          "author": "atiq malik",
+          "description": "Hyper-converged infrastructure or HCI is a virtual approach to conventional hardware systems.",
+          "link": "https://hackernoon.com/hyper-converged-infrastructure-all-the-eyes-in-one-basket?source=rss",
+          "publishedOn": "2022-02-13T12:02:55.000Z",
+          "wordCount": 2108,
+          "title": "Hyper Converged Infrastructure: 'All the Eyes in One Basket'",
+          "imageUrl": "https://cdn.hackernoon.com/images/ZWJk6aP2hSUZhXrfkHqCjuYHvPB2-5e93hym.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/nerd-valentine-use-notion-miro-canva-and-latex-for-love?source=rss",
+          "author": "Words of Hummus",
+          "description": "Three of the nerdiest valentine's day ideas to surprise your partner.",
+          "link": "https://hackernoon.com/nerd-valentine-use-notion-miro-canva-and-latex-for-love?source=rss",
+          "publishedOn": "2022-02-13T07:10:49.000Z",
+          "wordCount": 1987,
+          "title": "Nerd Valentine: Use Notion, Miro, Canva, and Latex for Love",
+          "imageUrl": "https://cdn.hackernoon.com/images/YXK5nnAbnEWrluQtSPj3It6rtyd2-brp3gws.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/6-levels-of-learning-in-blooms-taxonomy-from-1d-to-2d-realm?source=rss",
+          "author": "Celine Aju",
+          "description": "Blooms taxonomy is a multi-layered model of instructional design which classifies learning and provides an evaluation on six (6) cognitive levels.",
+          "link": "https://hackernoon.com/6-levels-of-learning-in-blooms-taxonomy-from-1d-to-2d-realm?source=rss",
+          "publishedOn": "2022-02-13T06:39:29.000Z",
+          "wordCount": 2285,
+          "title": "6 Levels of Learning in Bloom's Taxonomy from 1D to 2D Realm",
+          "imageUrl": "https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-anb3jau.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/new-and-improved-php-backend-roadmap?source=rss",
+          "author": "Surinder Rawat",
+          "description": "we decided to create a step-by-step guide demonstrating the bigger picture and providing easy-to-follow guidelines for people who want to learn PHP.",
+          "link": "https://hackernoon.com/new-and-improved-php-backend-roadmap?source=rss",
+          "publishedOn": "2022-02-13T00:06:57.000Z",
+          "wordCount": 2406,
+          "title": "New and Improved PHP Backend Roadmap",
+          "imageUrl": "https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-i993z1q.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-go-from-idea-to-mvp?source=rss",
+          "author": "Matthew Busel",
+          "description": "Simple steps to get an idea off the ground and start building momentum.",
+          "link": "https://hackernoon.com/how-to-go-from-idea-to-mvp?source=rss",
+          "publishedOn": "2022-02-13T00:02:36.000Z",
+          "wordCount": 1423,
+          "title": "How to go From Idea to MVP",
+          "imageUrl": "https://cdn.hackernoon.com/images/k0Lqj7QdAKdyvTwph1EPDMe8Tq52-b3a3ham.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/what-nft-wallet-are-you-sporting?source=rss",
+          "author": "Sam Brandon",
+          "description": "A review on the pros and cons of the best nft wallets: MetaMask, Coinbase, and Trust Wallet.",
+          "link": "https://hackernoon.com/what-nft-wallet-are-you-sporting?source=rss",
+          "publishedOn": "2022-02-12T23:59:56.000Z",
+          "wordCount": 1709,
+          "title": "What NFT Wallet Are You Sporting?",
+          "imageUrl": "https://cdn.hackernoon.com/images/2Cjw5Is6GETS7ubIvLKyRIrCnFN2-be93g4j.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/what-they-dont-tell-you-about-headless-cms?source=rss",
+          "author": "Simon Schreiber",
+          "description": "Reflections on two headless CMS implementation projects.",
+          "link": "https://hackernoon.com/what-they-dont-tell-you-about-headless-cms?source=rss",
+          "publishedOn": "2022-02-12T23:59:15.000Z",
+          "wordCount": 2195,
+          "title": "What They Don't Tell You About Headless CMS'",
+          "imageUrl": "https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-g593z99.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/why-the-real-definition-of-money-explains-the-rise-of-cardano?source=rss",
+          "author": "COR Stake Pool",
+          "description": "The reason Cardano is the most the decentralized crypto and most developed project on Github is because it it best satisfies the real definition of money.",
+          "link": "https://hackernoon.com/why-the-real-definition-of-money-explains-the-rise-of-cardano?source=rss",
+          "publishedOn": "2022-02-12T23:57:14.000Z",
+          "wordCount": 3247,
+          "title": "Why The Real Definition of Money Explains the Rise of Cardano",
+          "imageUrl": "https://cdn.hackernoon.com/images/IrZsKZVCuIXFPRgoWjKvOwPouOp1-grb3ilo.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-become-a-machine-learning-practitioner-fast?source=rss",
+          "author": null,
+          "description": "Learn machine learning fast in 2022.",
+          "link": "https://hackernoon.com/how-to-become-a-machine-learning-practitioner-fast?source=rss",
+          "publishedOn": "2022-02-12T23:53:45.000Z",
+          "wordCount": 1544,
+          "title": "How To Become A Machine Learning Practitioner Fast",
+          "imageUrl": "https://cdn.hackernoon.com/images/6AS2LZQ2kqfeGq1d9IpZv3EOcfJ2-cab3jri.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/have-we-meta-before?source=rss",
+          "author": "StevieSats",
+          "description": "The metaverse is a network of virtual spaces where users, builders, and AI can interact. From P2E and NFTs to DAOs, gilds, and DeFi — new tech transforms.",
+          "link": "https://hackernoon.com/have-we-meta-before?source=rss",
+          "publishedOn": "2022-02-12T23:53:12.000Z",
+          "wordCount": 1942,
+          "title": "Have we Met(A) Before?",
+          "imageUrl": "https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-ky93zfg.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-integrate-github-actions-and-cicd-with-your-next-python-project?source=rss",
+          "author": "Karol Horosin",
+          "description": "We're going to create a CI/CD pipeline for a typical Python package. The text focuses on practical aspects and should be enough to get you started!",
+          "link": "https://hackernoon.com/how-to-integrate-github-actions-and-cicd-with-your-next-python-project?source=rss",
+          "publishedOn": "2022-02-12T23:49:02.000Z",
+          "wordCount": 2447,
+          "title": "How to Integrate GitHub Actions and CI/CD With Your Next Python Project",
+          "imageUrl": "https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-rg93zy2.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-ask-better-questions-as-a-junior-software-developer?source=rss",
+          "author": "tratnayake",
+          "description": "How to ask better questions that get you better answers, and help you feel more confident as a junior engineer.",
+          "link": "https://hackernoon.com/how-to-ask-better-questions-as-a-junior-software-developer?source=rss",
+          "publishedOn": "2022-02-12T23:44:19.000Z",
+          "wordCount": 3630,
+          "title": "How to Ask Better Questions as a Junior Software Developer",
+          "imageUrl": "https://cdn.hackernoon.com/images/RbrJuqSBmkOs4gA3hq6cCDcaxmE3-j9e3lfq.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/comparing-bitcoin-atms?source=rss",
+          "author": "Anthony Watson",
+          "description": "Which Bitcoin ATM offers the best exchange rate, dollars for crypto?",
+          "link": "https://hackernoon.com/comparing-bitcoin-atms?source=rss",
+          "publishedOn": "2022-02-12T23:39:30.000Z",
+          "wordCount": 1802,
+          "title": "Comparing Bitcoin ATMs",
+          "imageUrl": "https://cdn.hackernoon.com/images/Y8OnbrBlePVzFHizwYeYKtHAbMn1-qh93f8c.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/google-releases-flutter-for-windows?source=rss",
+          "author": "Ketan Parmar",
+          "description": "Google announces a significant update to Flutter to make building apps for Windows easier.",
+          "link": "https://hackernoon.com/google-releases-flutter-for-windows?source=rss",
+          "publishedOn": "2022-02-12T23:36:25.000Z",
+          "wordCount": 1234,
+          "title": "Google Releases Flutter for Windows",
+          "imageUrl": "https://cdn.hackernoon.com/images/yEPQ6i4CCAdpczrPlRcHgxdggFC2-7793gh2.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-choose-the-right-business-process-automation-technology?source=rss",
+          "author": "Hannah Gerstaecker",
+          "description": "This article will give you some insight into what to look for when selecting business process automation software to enhance your productivity.",
+          "link": "https://hackernoon.com/how-to-choose-the-right-business-process-automation-technology?source=rss",
+          "publishedOn": "2022-02-12T23:34:32.000Z",
+          "wordCount": 1999,
+          "title": "How To Choose The Right Business Process Automation Technology",
+          "imageUrl": "https://cdn.hackernoon.com/images/bEBV44U8FJVL41WsXNQsDFCgm6F3-mm93g30.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/8-chrome-extensions-for-uiux-designers?source=rss",
+          "author": "Product Designer",
+          "description": "I have compiled eight chrome extensions to help get the job done faster and more productive.",
+          "link": "https://hackernoon.com/8-chrome-extensions-for-uiux-designers?source=rss",
+          "publishedOn": "2022-02-12T23:31:22.000Z",
+          "wordCount": 1594,
+          "title": "8 Chrome Extensions for UI/UX Designers",
+          "imageUrl": "https://cdn.hackernoon.com/images/5oXTQ8W6TqTa1ouikp3LOkznIZj1-9sh3h3f.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/building-the-virtual-economy-nft-projects-that-are-here-to-stay?source=rss",
+          "author": "Dan Stein",
+          "description": "From the swoon-worthy apes and toads to the futuristic entertainment NFTs, here are the projects that sealed the deal for NFTs so far.",
+          "link": "https://hackernoon.com/building-the-virtual-economy-nft-projects-that-are-here-to-stay?source=rss",
+          "publishedOn": "2022-02-12T23:28:19.000Z",
+          "wordCount": 1876,
+          "title": "Building the Virtual Economy: NFT Projects that are Here to Stay",
+          "imageUrl": "https://cdn.hackernoon.com/images/Lskaa1YC56RnIMHMaWXVpPxLKHg2-0w93f26.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/what-you-may-not-know-about-the-usestate-hook-in-react?source=rss",
+          "author": "Aravind Sanjeev",
+          "description": "The useState hook helps manage local state in functional components. Let's learn all about it.",
+          "link": "https://hackernoon.com/what-you-may-not-know-about-the-usestate-hook-in-react?source=rss",
+          "publishedOn": "2022-02-12T23:25:18.000Z",
+          "wordCount": 4777,
+          "title": "What You May not Know about the useState Hook in React",
+          "imageUrl": "https://cdn.hackernoon.com/images/5LUYFYaQ0wRzuRiiFyVPEjrusAN2-iz92n9l.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/is-a-web-development-bootcamp-worth-it-in-2022?source=rss",
+          "author": "John Palmgren",
+          "description": "Is a web development bootcamp right for you? How likely is it that it will lead to a job and is it worth the money?",
+          "link": "https://hackernoon.com/is-a-web-development-bootcamp-worth-it-in-2022?source=rss",
+          "publishedOn": "2022-02-12T23:17:17.000Z",
+          "wordCount": 2565,
+          "title": "Is a Web Development Bootcamp Worth it in 2022?",
+          "imageUrl": "https://cdn.hackernoon.com/images/SfLKUONj1dNQfd8Bo4oz4aGegv73-z793fx1.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/build-faster-nextjs-static-sites-using-mdx-and-contentlayer?source=rss",
+          "author": "Daw-Chih Liou",
+          "description": "Publishing static content becomes so effortless with Next.js, MDX, and Contentlayer. This article will show you how easy it is to implement that system.",
+          "link": "https://hackernoon.com/build-faster-nextjs-static-sites-using-mdx-and-contentlayer?source=rss",
+          "publishedOn": "2022-02-12T23:06:24.000Z",
+          "wordCount": 2820,
+          "title": "Build Faster Next.js Static Sites Using MDX And Contentlayer",
+          "imageUrl": "https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-m393zyp.jpeg"
+        },
         {
           "id": "https://hackernoon.com/architecting-a-thousand-node-data-orchestration-platform-to-accelerate-game-ai-training-at-tencent?source=rss",
           "author": "Bin Fan",
@@ -24389,6 +24619,17 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=148945",
+          "author": "ACMer",
+          "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms The LOGO (Turtle Graphic) programming was popular in 1980s. And it has been ported to Python as a Library which we can do this:...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-turtle-graphics-canvas-programming-in-python/",
+          "publishedOn": "2022-02-13T19:55:45.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Turtle Graphics/Canvas Programming in Python",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://helloacm.com/?p=148929",
           "author": "ACMer",
           "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms You are given an integer num. Rearrange the digits of num such that its value is minimized and it does not contain any leading...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -25485,6 +25726,76 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=519158&preview=true&preview_id=519158",
+          "author": "Dan Maloney",
+          "description": "If you need evidence that our outwardly peaceful little neck of the solar system is actually a dangerous place, look no further than the 40 newly launched Starlink satellites that …read more",
+          "link": "https://hackaday.com/2022/02/13/hackaday-links-february-13-2022/",
+          "publishedOn": "2022-02-14T00:00:56.000Z",
+          "wordCount": 1718,
+          "title": "Hackaday Links: February 13, 2022",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=519553",
+          "author": "Dan Maloney",
+          "description": "All things considered, it’s pretty easy to get one LED is a strip to light up sequentially, and have it bounce back and forth. Turning that simple animation into a …read more",
+          "link": "https://hackaday.com/2022/02/13/no-leds-required-for-this-servo-controlled-larson-scanner/",
+          "publishedOn": "2022-02-13T21:00:00.000Z",
+          "wordCount": 1381,
+          "title": "No LEDs Required for This Servo-Controlled Larson Scanner",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/servo-larson-scanner.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=519477",
+          "author": "Al Williams",
+          "description": "Sometimes the best ideas are simple and seem obvious after you’ve heard them. [Danny] showed us a great idea that fits that description. He uses a peristaltic pump to move …read more",
+          "link": "https://hackaday.com/2022/02/13/pump-up-the-resin/",
+          "publishedOn": "2022-02-13T18:00:00.000Z",
+          "wordCount": 1395,
+          "title": "Pump up the Resin",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/pump.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=519647",
+          "author": "Bryan Cockfield",
+          "description": "Measuring air quality at any particular location isn’t too complicated. Just a sensor or two and a small microcontroller is generally all that’s needed. Predicting the upcoming air quality is …read more",
+          "link": "https://hackaday.com/2022/02/13/weather-station-predicts-air-quality/",
+          "publishedOn": "2022-02-13T15:00:00.000Z",
+          "wordCount": 1632,
+          "title": "Weather Station Predicts Air Quality",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/machine-learning-weather-main.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=519470",
+          "author": "Al Williams",
+          "description": "[The Action Lab] had a very serious technical problem. His daughter wanted to 3D print sparkly unicorns. But how do you make a 3D print sparkly? Turns out, he had …read more",
+          "link": "https://hackaday.com/2022/02/13/3d-printing-rainbows/",
+          "publishedOn": "2022-02-13T12:00:00.000Z",
+          "wordCount": 1410,
+          "title": "3D Printing Rainbows",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/diff.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=519463",
+          "author": "Al Williams",
+          "description": "[Carl] is always looking at making heater plates for PCB reflow and other applications. In his latest video, he shows how he is using thin flexible PCBs with adhesive backs …read more",
+          "link": "https://hackaday.com/2022/02/13/sticker-brings-the-heat/",
+          "publishedOn": "2022-02-13T09:00:00.000Z",
+          "wordCount": 1571,
+          "title": "Sticker Brings the Heat",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/heat.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=519389",
+          "author": "Lewin Day",
+          "description": "We’ve all seen those “river” tables where a lovely old piece of tree is filled with some blue resin to create a water-like aesthetic. This project from [smartyleowl] takes that …read more",
+          "link": "https://hackaday.com/2022/02/12/epoxy-resin-night-light-is-an-amazing-ocean-themed-build/",
+          "publishedOn": "2022-02-13T06:00:00.000Z",
+          "wordCount": 1641,
+          "title": "Epoxy Resin Night Light Is An Amazing Ocean-Themed Build",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/waterlamp.jpg"
+        },
         {
           "id": "https://hackaday.com/?p=519146",
           "author": "Kristina Panos",
@@ -45269,5 +45580,5 @@
       ]
     }
   ],
-  "cliVersion": "1.12.1"
+  "cliVersion": "1.13.0"
 }

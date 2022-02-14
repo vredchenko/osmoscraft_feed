@@ -2,10 +2,203 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2022-02-13T01:17:39.941Z</updated>
-    <generator>osmosfeed 1.12.1</generator>
+    <updated>2022-02-14T01:09:24.410Z</updated>
+    <generator>osmosfeed 1.13.0</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hackaday Links: February 13, 2022]]></title>
+        <id>https://hackaday.com/?p=519158&amp;preview=true&amp;preview_id=519158</id>
+        <link href="https://hackaday.com/2022/02/13/hackaday-links-february-13-2022/"/>
+        <updated>2022-02-14T00:00:56.000Z</updated>
+        <summary type="html"><![CDATA[If you need evidence that our outwardly peaceful little neck of the solar system is actually a dangerous place, look no further than the 40 newly launched Starlink satellites that …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No LEDs Required for This Servo-Controlled Larson Scanner]]></title>
+        <id>https://hackaday.com/?p=519553</id>
+        <link href="https://hackaday.com/2022/02/13/no-leds-required-for-this-servo-controlled-larson-scanner/"/>
+        <updated>2022-02-13T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[All things considered, it’s pretty easy to get one LED is a strip to light up sequentially, and have it bounce back and forth. Turning that simple animation into a …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – Turtle Graphics/Canvas Programming in Python]]></title>
+        <id>https://helloacm.com/?p=148945</id>
+        <link href="https://helloacm.com/teaching-kids-programming-turtle-graphics-canvas-programming-in-python/"/>
+        <updated>2022-02-13T19:55:45.000Z</updated>
+        <summary type="html"><![CDATA[Teaching Kids Programming: Videos on Data Structures and Algorithms The LOGO (Turtle Graphic) programming was popular in 1980s. And it has been ported to Python as a Library which we can do this:...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pump up the Resin]]></title>
+        <id>https://hackaday.com/?p=519477</id>
+        <link href="https://hackaday.com/2022/02/13/pump-up-the-resin/"/>
+        <updated>2022-02-13T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes the best ideas are simple and seem obvious after you’ve heard them. [Danny] showed us a great idea that fits that description. He uses a peristaltic pump to move …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kotlin-lsp-adapter]]></title>
+        <id>https://atom.io/packages/kotlin-lsp-adapter</id>
+        <link href="https://atom.io/packages/kotlin-lsp-adapter"/>
+        <updated>2022-02-13T17:55:08.000Z</updated>
+        <summary type="html"><![CDATA[Kotlin LSP Adapter for Atom
+Overview
+Minimal LSP adapter for Atom to replace the inactive atom-ide-kotlin package.
+Dependencies
+Requires atom-ide-base.
+Installation
+Make sure you have Java and Gradle installed (check Gradle for instructions).
+Follow the instructions to install to build the Kotlin Language Server.
+For simplicity:
+Download the source files for the language server here
+
+Extract it to a location of your choosing (eg. c:/program files/kotlin/)
+cd into the source directory and run gradlew :server:installDist
+
+Locate the executable files (eg. kotlin-language-server.bat) in the kotlin-language-server-main\server\build\install\server\bin folder
+Then either put the location on your PATH or enter the full path in the config.
+May require restart of Atom.
+License
+MIT License.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lang-smallbasic]]></title>
+        <id>https://atom.io/packages/lang-smallbasic</id>
+        <link href="https://atom.io/packages/lang-smallbasic"/>
+        <updated>2022-02-13T15:54:02.000Z</updated>
+        <summary type="html"><![CDATA[SmallBASIC syntax coloring for Atom
+This Atom package adds syntax coloring and snippets for the SmallBASIC language (https://smallbasic.github.io/)
+Features:
+Syntax coloring
+Code snippets (e.g. For ... Next, If ... Else ... EndIf)
+Installation
+From repository
+Copy this folder to the atom package directory (i.e. ~/.atom/packages in Linux) and restart Atom.
+From Atom packages
+Search for "lang-smallbasic" and install the package.]]></summary>
+        <author>
+            <name>Atom Packages and Themes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weather Station Predicts Air Quality]]></title>
+        <id>https://hackaday.com/?p=519647</id>
+        <link href="https://hackaday.com/2022/02/13/weather-station-predicts-air-quality/"/>
+        <updated>2022-02-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Measuring air quality at any particular location isn’t too complicated. Just a sensor or two and a small microcontroller is generally all that’s needed. Predicting the upcoming air quality is …read more]]></summary>
+        <author>
+            <name>Bryan Cockfield</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fake 70's Sci-Fi Courtesy Of Open AI]]></title>
+        <id>http://www.i-programmer.info/news/105-artificial-intelligence/15213-fake-70s-sc-fi-courtesy-of-open-ai.html</id>
+        <link href="http://www.i-programmer.info/news/105-artificial-intelligence/15213-fake-70s-sc-fi-courtesy-of-open-ai.html"/>
+        <updated>2022-02-13T12:09:42.000Z</updated>
+        <summary type="html"><![CDATA[No, this isn't a vintage Si-Fi paperback from a newly discovered author. Both the author's name and the book's title are AI generated, as is the cover artwork. Sadly the story hasn't been written.
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hyper Converged Infrastructure: 'All the Eyes in One Basket']]></title>
+        <id>https://hackernoon.com/hyper-converged-infrastructure-all-the-eyes-in-one-basket?source=rss</id>
+        <link href="https://hackernoon.com/hyper-converged-infrastructure-all-the-eyes-in-one-basket?source=rss"/>
+        <updated>2022-02-13T12:02:55.000Z</updated>
+        <summary type="html"><![CDATA[Hyper-converged infrastructure or HCI is a virtual approach to conventional hardware systems.]]></summary>
+        <author>
+            <name>atiq malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printing Rainbows]]></title>
+        <id>https://hackaday.com/?p=519470</id>
+        <link href="https://hackaday.com/2022/02/13/3d-printing-rainbows/"/>
+        <updated>2022-02-13T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[The Action Lab] had a very serious technical problem. His daughter wanted to 3D print sparkly unicorns. But how do you make a 3D print sparkly? Turns out, he had …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sticker Brings the Heat]]></title>
+        <id>https://hackaday.com/?p=519463</id>
+        <link href="https://hackaday.com/2022/02/13/sticker-brings-the-heat/"/>
+        <updated>2022-02-13T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[Carl] is always looking at making heater plates for PCB reflow and other applications. In his latest video, he shows how he is using thin flexible PCBs with adhesive backs …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nerd Valentine: Use Notion, Miro, Canva, and Latex for Love]]></title>
+        <id>https://hackernoon.com/nerd-valentine-use-notion-miro-canva-and-latex-for-love?source=rss</id>
+        <link href="https://hackernoon.com/nerd-valentine-use-notion-miro-canva-and-latex-for-love?source=rss"/>
+        <updated>2022-02-13T07:10:49.000Z</updated>
+        <summary type="html"><![CDATA[Three of the nerdiest valentine's day ideas to surprise your partner.]]></summary>
+        <author>
+            <name>Words of Hummus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Levels of Learning in Bloom's Taxonomy from 1D to 2D Realm]]></title>
+        <id>https://hackernoon.com/6-levels-of-learning-in-blooms-taxonomy-from-1d-to-2d-realm?source=rss</id>
+        <link href="https://hackernoon.com/6-levels-of-learning-in-blooms-taxonomy-from-1d-to-2d-realm?source=rss"/>
+        <updated>2022-02-13T06:39:29.000Z</updated>
+        <summary type="html"><![CDATA[Blooms taxonomy is a multi-layered model of instructional design which classifies learning and provides an evaluation on six (6) cognitive levels.]]></summary>
+        <author>
+            <name>Celine Aju</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epoxy Resin Night Light Is An Amazing Ocean-Themed Build]]></title>
+        <id>https://hackaday.com/?p=519389</id>
+        <link href="https://hackaday.com/2022/02/12/epoxy-resin-night-light-is-an-amazing-ocean-themed-build/"/>
+        <updated>2022-02-13T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’ve all seen those “river” tables where a lovely old piece of tree is filled with some blue resin to create a water-like aesthetic. This project from [smartyleowl] takes that …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New and Improved PHP Backend Roadmap]]></title>
+        <id>https://hackernoon.com/new-and-improved-php-backend-roadmap?source=rss</id>
+        <link href="https://hackernoon.com/new-and-improved-php-backend-roadmap?source=rss"/>
+        <updated>2022-02-13T00:06:57.000Z</updated>
+        <summary type="html"><![CDATA[we decided to create a step-by-step guide demonstrating the bigger picture and providing easy-to-follow guidelines for people who want to learn PHP.]]></summary>
+        <author>
+            <name>Surinder Rawat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to go From Idea to MVP]]></title>
+        <id>https://hackernoon.com/how-to-go-from-idea-to-mvp?source=rss</id>
+        <link href="https://hackernoon.com/how-to-go-from-idea-to-mvp?source=rss"/>
+        <updated>2022-02-13T00:02:36.000Z</updated>
+        <summary type="html"><![CDATA[Simple steps to get an idea off the ground and start building momentum.]]></summary>
+        <author>
+            <name>Matthew Busel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spin Some Spudgers from Secondhand Silverware]]></title>
         <id>https://hackaday.com/?p=519146</id>
@@ -14,6 +207,156 @@
         <summary type="html"><![CDATA[Even though it’s not the right tool for the job, we’ve all used a flat head screwdriver for other purposes. Admit it — you’ve pried open a thing or two …read more]]></summary>
         <author>
             <name>Kristina Panos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What NFT Wallet Are You Sporting?]]></title>
+        <id>https://hackernoon.com/what-nft-wallet-are-you-sporting?source=rss</id>
+        <link href="https://hackernoon.com/what-nft-wallet-are-you-sporting?source=rss"/>
+        <updated>2022-02-12T23:59:56.000Z</updated>
+        <summary type="html"><![CDATA[A review on the pros and cons of the best nft wallets: MetaMask, Coinbase, and Trust Wallet.]]></summary>
+        <author>
+            <name>Sam Brandon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What They Don't Tell You About Headless CMS']]></title>
+        <id>https://hackernoon.com/what-they-dont-tell-you-about-headless-cms?source=rss</id>
+        <link href="https://hackernoon.com/what-they-dont-tell-you-about-headless-cms?source=rss"/>
+        <updated>2022-02-12T23:59:15.000Z</updated>
+        <summary type="html"><![CDATA[Reflections on two headless CMS implementation projects.]]></summary>
+        <author>
+            <name>Simon Schreiber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why The Real Definition of Money Explains the Rise of Cardano]]></title>
+        <id>https://hackernoon.com/why-the-real-definition-of-money-explains-the-rise-of-cardano?source=rss</id>
+        <link href="https://hackernoon.com/why-the-real-definition-of-money-explains-the-rise-of-cardano?source=rss"/>
+        <updated>2022-02-12T23:57:14.000Z</updated>
+        <summary type="html"><![CDATA[The reason Cardano is the most the decentralized crypto and most developed project on Github is because it it best satisfies the real definition of money.]]></summary>
+        <author>
+            <name>COR Stake Pool</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Become A Machine Learning Practitioner Fast]]></title>
+        <id>https://hackernoon.com/how-to-become-a-machine-learning-practitioner-fast?source=rss</id>
+        <link href="https://hackernoon.com/how-to-become-a-machine-learning-practitioner-fast?source=rss"/>
+        <updated>2022-02-12T23:53:45.000Z</updated>
+        <summary type="html"><![CDATA[Learn machine learning fast in 2022.]]></summary>
+        <author>
+            <name>Hacker Noon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Have we Met(A) Before?]]></title>
+        <id>https://hackernoon.com/have-we-meta-before?source=rss</id>
+        <link href="https://hackernoon.com/have-we-meta-before?source=rss"/>
+        <updated>2022-02-12T23:53:12.000Z</updated>
+        <summary type="html"><![CDATA[The metaverse is a network of virtual spaces where users, builders, and AI can interact. From P2E and NFTs to DAOs, gilds, and DeFi — new tech transforms.]]></summary>
+        <author>
+            <name>StevieSats</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Integrate GitHub Actions and CI/CD With Your Next Python Project]]></title>
+        <id>https://hackernoon.com/how-to-integrate-github-actions-and-cicd-with-your-next-python-project?source=rss</id>
+        <link href="https://hackernoon.com/how-to-integrate-github-actions-and-cicd-with-your-next-python-project?source=rss"/>
+        <updated>2022-02-12T23:49:02.000Z</updated>
+        <summary type="html"><![CDATA[We're going to create a CI/CD pipeline for a typical Python package. The text focuses on practical aspects and should be enough to get you started!]]></summary>
+        <author>
+            <name>Karol Horosin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Ask Better Questions as a Junior Software Developer]]></title>
+        <id>https://hackernoon.com/how-to-ask-better-questions-as-a-junior-software-developer?source=rss</id>
+        <link href="https://hackernoon.com/how-to-ask-better-questions-as-a-junior-software-developer?source=rss"/>
+        <updated>2022-02-12T23:44:19.000Z</updated>
+        <summary type="html"><![CDATA[How to ask better questions that get you better answers, and help you feel more confident as a junior engineer.]]></summary>
+        <author>
+            <name>tratnayake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comparing Bitcoin ATMs]]></title>
+        <id>https://hackernoon.com/comparing-bitcoin-atms?source=rss</id>
+        <link href="https://hackernoon.com/comparing-bitcoin-atms?source=rss"/>
+        <updated>2022-02-12T23:39:30.000Z</updated>
+        <summary type="html"><![CDATA[Which Bitcoin ATM offers the best exchange rate, dollars for crypto?]]></summary>
+        <author>
+            <name>Anthony Watson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Releases Flutter for Windows]]></title>
+        <id>https://hackernoon.com/google-releases-flutter-for-windows?source=rss</id>
+        <link href="https://hackernoon.com/google-releases-flutter-for-windows?source=rss"/>
+        <updated>2022-02-12T23:36:25.000Z</updated>
+        <summary type="html"><![CDATA[Google announces a significant update to Flutter to make building apps for Windows easier.]]></summary>
+        <author>
+            <name>Ketan Parmar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Choose The Right Business Process Automation Technology]]></title>
+        <id>https://hackernoon.com/how-to-choose-the-right-business-process-automation-technology?source=rss</id>
+        <link href="https://hackernoon.com/how-to-choose-the-right-business-process-automation-technology?source=rss"/>
+        <updated>2022-02-12T23:34:32.000Z</updated>
+        <summary type="html"><![CDATA[This article will give you some insight into what to look for when selecting business process automation software to enhance your productivity.]]></summary>
+        <author>
+            <name>Hannah Gerstaecker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8 Chrome Extensions for UI/UX Designers]]></title>
+        <id>https://hackernoon.com/8-chrome-extensions-for-uiux-designers?source=rss</id>
+        <link href="https://hackernoon.com/8-chrome-extensions-for-uiux-designers?source=rss"/>
+        <updated>2022-02-12T23:31:22.000Z</updated>
+        <summary type="html"><![CDATA[I have compiled eight chrome extensions to help get the job done faster and more productive.]]></summary>
+        <author>
+            <name>Product Designer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building the Virtual Economy: NFT Projects that are Here to Stay]]></title>
+        <id>https://hackernoon.com/building-the-virtual-economy-nft-projects-that-are-here-to-stay?source=rss</id>
+        <link href="https://hackernoon.com/building-the-virtual-economy-nft-projects-that-are-here-to-stay?source=rss"/>
+        <updated>2022-02-12T23:28:19.000Z</updated>
+        <summary type="html"><![CDATA[From the swoon-worthy apes and toads to the futuristic entertainment NFTs, here are the projects that sealed the deal for NFTs so far.]]></summary>
+        <author>
+            <name>Dan Stein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What You May not Know about the useState Hook in React]]></title>
+        <id>https://hackernoon.com/what-you-may-not-know-about-the-usestate-hook-in-react?source=rss</id>
+        <link href="https://hackernoon.com/what-you-may-not-know-about-the-usestate-hook-in-react?source=rss"/>
+        <updated>2022-02-12T23:25:18.000Z</updated>
+        <summary type="html"><![CDATA[The useState hook helps manage local state in functional components. Let's learn all about it.]]></summary>
+        <author>
+            <name>Aravind Sanjeev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is a Web Development Bootcamp Worth it in 2022?]]></title>
+        <id>https://hackernoon.com/is-a-web-development-bootcamp-worth-it-in-2022?source=rss</id>
+        <link href="https://hackernoon.com/is-a-web-development-bootcamp-worth-it-in-2022?source=rss"/>
+        <updated>2022-02-12T23:17:17.000Z</updated>
+        <summary type="html"><![CDATA[Is a web development bootcamp right for you? How likely is it that it will lead to a job and is it worth the money?]]></summary>
+        <author>
+            <name>John Palmgren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Faster Next.js Static Sites Using MDX And Contentlayer]]></title>
+        <id>https://hackernoon.com/build-faster-nextjs-static-sites-using-mdx-and-contentlayer?source=rss</id>
+        <link href="https://hackernoon.com/build-faster-nextjs-static-sites-using-mdx-and-contentlayer?source=rss"/>
+        <updated>2022-02-12T23:06:24.000Z</updated>
+        <summary type="html"><![CDATA[Publishing static content becomes so effortless with Next.js, MDX, and Contentlayer. This article will show you how easy it is to implement that system.]]></summary>
+        <author>
+            <name>Daw-Chih Liou</name>
         </author>
     </entry>
     <entry>
