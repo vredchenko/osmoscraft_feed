@@ -787,6 +787,36 @@
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
         {
+          "id": "http://www.i-programmer.info/book-watch-archive/15215-professional-scrum-development-with-azure-devops-microsoft-press.html",
+          "author": null,
+          "description": "This book is designed to help development teams plan, track, and manage work far more effectively, by combining today's leading agile framework (Scrum) and Microsoft's ALM/DevOps toolset (Azure DevOps). Richard Hundhausen covers team formation, backlogs, Sprints, test plans, collaboration, flow, continuous improvement, Azure Boards, Azure Test Plans, and the real-world tradeoffs associated with DevOps.\n\r\n<ASIN:0136789234>\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/book-watch-archive/15215-professional-scrum-development-with-azure-devops-microsoft-press.html",
+          "publishedOn": "2022-02-14T18:46:49.000Z",
+          "wordCount": 522,
+          "title": "Professional Scrum Development with Azure DevOps (Microsoft Press)",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/news/89-net/15214-net-celebrates-20th-anniversary-of-launch.html",
+          "author": null,
+          "description": "The first stable version of the .NET Framework was released on February 14th, 2002, after being in beta for almost two years. So today we can wish .NET a Happy Birthday and consider its highs and lows.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/89-net/15214-net-celebrates-20th-anniversary-of-launch.html",
+          "publishedOn": "2022-02-14T15:39:18.000Z",
+          "wordCount": 1250,
+          "title": ".NET Celebrates 20th Anniversary of Launch",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/news/87-web-development/15216-flutter-21-has-stable-windows-support.html",
+          "author": null,
+          "description": "Flutter 2.1 has been released with improvements including stable support for Windows, performance enhancements, new support for icons and colors in the framework, and some tooling improvements.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/87-web-development/15216-flutter-21-has-stable-windows-support.html",
+          "publishedOn": "2022-02-14T00:00:00.000Z",
+          "wordCount": 768,
+          "title": "Flutter 2.1 Has Stable Windows Support",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.i-programmer.info/news/105-artificial-intelligence/15213-fake-70s-sc-fi-courtesy-of-open-ai.html",
           "author": null,
           "description": "No, this isn't a vintage Si-Fi paperback from a newly discovered author. Both the author's name and the book's title are AI generated, as is the cover artwork. Sadly the story hasn't been written.\n\r\n\nRead more...",
@@ -2045,6 +2075,26 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=363555",
+          "author": "Chris Coyier",
+          "description": "Last year, Elise Blanchard did some great historical research and discovered that blue hyperlinks replaced black hyperlinks in 1993. They’ve been blue for so long now that the general advice I always hear is to keep them that way. There …\nWhy are hyperlinks blue? originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/why-are-hyperlinks-blue/",
+          "publishedOn": "2022-02-14T20:13:31.000Z",
+          "wordCount": 584,
+          "title": "Why are hyperlinks blue?",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363555"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363339",
+          "author": "Charlie Gerard",
+          "description": "The File System Access API is a web API that allows read and write access to a user’s local files. It unlocks new capabilities to build powerful web applications, such as text editors or IDEs, image editing tools, improved …\nGetting Started With the File System Access API originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/getting-started-with-the-file-system-access-api/",
+          "publishedOn": "2022-02-14T16:01:21.000Z",
+          "wordCount": 1638,
+          "title": "Getting Started With the File System Access API",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363339"
+        },
         {
           "id": "https://css-tricks.com/?p=363498",
           "author": "Chris Coyier",
@@ -4246,8 +4296,58 @@
     {
       "title": "freeCodeCamp.org",
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
-      "siteUrl": "https://www.freecodecamp.org/news",
+      "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "620a618e56125b0677c64e72",
+          "author": "Victor Ikechukwu",
+          "description": "Functional components weren't always the preferred method for declaring components in React.  Before React version 16.8 was introduced, functional components were treated much like second-class citizens. They couldn't handle state, logic, and lots of other React features, and we only used them for rendering very simple components to the",
+          "link": "https://www.freecodecamp.org/news/the-beginners-guide-to-react-hooks/",
+          "publishedOn": "2022-02-14T21:04:27.000Z",
+          "wordCount": 2294,
+          "title": "Learn React Hooks – A Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/The-Beginner-s-Guide-to-React-Hooks.png"
+        },
+        {
+          "id": "61e80555183181284a1916cd",
+          "author": "Nyior Clement",
+          "description": "As developers, we are always trying to optimize everything from how people communicate to how people buy things. The goal is to make humans arguably more productive.  In the spirit of making humans more productive, the software development landscape has seen a dramatic rise in the emergence of developer",
+          "link": "https://www.freecodecamp.org/news/how-to-setup-a-basic-serverless-backend-with-aws-lambda-and-api-gateway/",
+          "publishedOn": "2022-02-14T19:10:14.000Z",
+          "wordCount": 3561,
+          "title": "How to Setup a Basic Serverless REST API with AWS Lambda and API Gateway",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/01/Serverless-computing-768x402-1.png"
+        },
+        {
+          "id": "620a9e7521bfb3068cf286fe",
+          "author": "Beau Carnes",
+          "description": "How can you find customers? How can you get a meeting with anyone? How can you take your career to the next level?  Learn the answers to these questions and more in an entrepreneurship course we just published on the freeCodeCamp.org YouTube channel. Business Insider wrote an article stating",
+          "link": "https://www.freecodecamp.org/news/important-lessons-they-dont-teach-you-in-business-school/",
+          "publishedOn": "2022-02-14T18:30:23.000Z",
+          "wordCount": 596,
+          "title": "Important Lessons they Don't Teach You in Business School",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/ENTRE.png"
+        },
+        {
+          "id": "6207facb56125b0677c649a3",
+          "author": "Reed Barger",
+          "description": "Do you want to get up to speed with React as quickly as possible? I’ve put together a super helpful cheatsheet to give you a complete overview of all of the React concepts you need to know in 2022. Let’s get started! Table of Contents  * React Elements",
+          "link": "https://www.freecodecamp.org/news/the-react-cheatsheet/",
+          "publishedOn": "2022-02-14T17:02:30.000Z",
+          "wordCount": 2432,
+          "title": "The React Cheatsheet for 2022",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/mugshotbot.com_customize_theme-two_up-mode-light-color-pink-pattern-bubbles-image-9129875b-url-https___freecodecamp.org.png"
+        },
+        {
+          "id": "61fcba1ef2ed6b06db5ac4db",
+          "author": "Ateev Duggal",
+          "description": "PropTypes are a good first line defense when it comes to debugging your apps. But before getting into detail about PropTypes, we have to understand the concept of props. Props [https://tekolio.com/what-are-props-in-react-and-how-to-use-them/] are the read-only properties that are shared between components to give the unidirectional flow of React a dynamic touch.",
+          "link": "https://www.freecodecamp.org/news/how-to-use-proptypes-in-react/",
+          "publishedOn": "2022-02-14T16:36:09.000Z",
+          "wordCount": 1643,
+          "title": "How to Use PropTypes in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/props.png"
+        },
         {
           "id": "62062b0b56125b0677c63fe4",
           "author": "Dionysia Lemonaki",
@@ -7954,6 +8054,206 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/how-i-made-a-fortune-from-the-2020-bear-market?source=rss",
+          "author": "Ben Knaus",
+          "description": "A brief overview of how Ben Knaus went all in during the 2020 Bear market. And how in 2021 those risks turned to huge rewards. Also 7 rules for bear marets",
+          "link": "https://hackernoon.com/how-i-made-a-fortune-from-the-2020-bear-market?source=rss",
+          "publishedOn": "2022-02-14T07:56:42.000Z",
+          "wordCount": 2472,
+          "title": "How I Made a Fortune from the 2020 Bear Market",
+          "imageUrl": "https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-jm93j2x.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/reinventing-rarity-by-the-foot-with-tiptoepunks-nfts?source=rss",
+          "author": "Justin Roberti",
+          "description": "TiptoePunks NFTs add an interlocking feature to address the role of luck in scarcity.",
+          "link": "https://hackernoon.com/reinventing-rarity-by-the-foot-with-tiptoepunks-nfts?source=rss",
+          "publishedOn": "2022-02-14T07:49:26.000Z",
+          "wordCount": 3621,
+          "title": "Reinventing Rarity by the Foot with TiptoePunks NFTs",
+          "imageUrl": "https://cdn.hackernoon.com/images/E94jeG4kuxf5Akvr1TBep1bZVSg1-32b3jkr.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/hacking-against-inflation-through-real-estate-infographic?source=rss",
+          "author": "Brian Wallace",
+          "description": "A look at how to hedge against inflation by investing in real estate.",
+          "link": "https://hackernoon.com/hacking-against-inflation-through-real-estate-infographic?source=rss",
+          "publishedOn": "2022-02-14T07:47:44.000Z",
+          "wordCount": 1499,
+          "title": "Hacking Against Inflation Through Real Estate [Infographic]",
+          "imageUrl": "https://cdn.hackernoon.com/images/mRtmiu2SfNY3sGIulKnQU0BZTv23-eza3hde.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/a-brief-introduction-to-ethereum-swarm?source=rss",
+          "author": "Laszlo Fazekas",
+          "description": "The idea for Swarm came from Gavin Wood, one of the founders of Ethereum.",
+          "link": "https://hackernoon.com/a-brief-introduction-to-ethereum-swarm?source=rss",
+          "publishedOn": "2022-02-14T07:31:53.000Z",
+          "wordCount": 3336,
+          "title": "A Brief Introduction to Ethereum Swarm",
+          "imageUrl": "https://cdn.hackernoon.com/images/YwSHEC3KytbshzaHd9gfS1alGs52-a292jpu.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/do-we-really-need-a-like-button-the-pros-and-cons-of-social-media?source=rss",
+          "author": "Sara Pinto",
+          "description": "Social media is here to stay. Yet, not everything is beneficial. In this slogging thread, the technology channel discussed the pros and cons of social media.",
+          "link": "https://hackernoon.com/do-we-really-need-a-like-button-the-pros-and-cons-of-social-media?source=rss",
+          "publishedOn": "2022-02-14T07:30:36.000Z",
+          "wordCount": 2213,
+          "title": "Do We Really Need a Like Button? - The Pros and Cons of Social Media",
+          "imageUrl": "https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-4w93gkm.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/an-intro-to-user-analytics-in-the-gaming-industry?source=rss",
+          "author": "47Billion",
+          "description": "Gaming analytics can be best defined as is the whole process of applying user behavior data to guide sales & marketing, product enhancements, etc",
+          "link": "https://hackernoon.com/an-intro-to-user-analytics-in-the-gaming-industry?source=rss",
+          "publishedOn": "2022-02-14T07:27:18.000Z",
+          "wordCount": 3917,
+          "title": "An Intro to User Analytics in the Gaming Industry",
+          "imageUrl": "https://cdn.hackernoon.com/images/vMIW1g3rtVOLLixHAieMFeUFpbz1-or93g5h.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-overhaul-your-website-to-improve-seo?source=rss",
+          "author": "Service Direct",
+          "description": "There is a place in most marketing campaigns for pay-per-click ads, but ongoing high levels of organic traffic are simply impossible to replace.",
+          "link": "https://hackernoon.com/how-to-overhaul-your-website-to-improve-seo?source=rss",
+          "publishedOn": "2022-02-14T07:17:32.000Z",
+          "wordCount": 2423,
+          "title": "How to Overhaul Your Website to Improve SEO",
+          "imageUrl": "https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-e893zfw.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/why-free-hosting-is-a-waste-of-your-time?source=rss",
+          "author": null,
+          "description": "Free hosting is real but it has hidden costs. Free hosting has drawbacks & hosting providers use it for advertising. Reliable hosting will always come at a cost",
+          "link": "https://hackernoon.com/why-free-hosting-is-a-waste-of-your-time?source=rss",
+          "publishedOn": "2022-02-14T07:10:48.000Z",
+          "wordCount": 2108,
+          "title": "Why Free Hosting is a Waste of Your Time",
+          "imageUrl": "https://cdn.hackernoon.com/images/u5KXJTw462ZghD8FpAbVLpyKjHq2-v2934iy.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/ranking-to-sell-how-to-rank-on-google-so-you-can-sell-more?source=rss",
+          "author": "juliarivera",
+          "description": "Conducting successful sales online has never been an easy task, especially with the dawn of SEO ranking on Google. The ranking system on Google is in such a way that websites ranking outside the first ten results hardly get recognition. This means that their products are rarely bought online, reducing their sales and e-commerce business. Therefore, you need to ensure your online business website ranks among the first ten on Google to guarantee your online visibility and improve your sales. Although it could be a daunting task, this article has compiled the best ways to ensure your Google ranking soars up, and your sales increase over time.",
+          "link": "https://hackernoon.com/ranking-to-sell-how-to-rank-on-google-so-you-can-sell-more?source=rss",
+          "publishedOn": "2022-02-14T07:09:44.000Z",
+          "wordCount": 2050,
+          "title": "Ranking to Sell: How to Rank on Google so you Can Sell More",
+          "imageUrl": "https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-4o93z8f.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/an-intro-to-ens-ethereum-name-services-and-why-you-should-get-one?source=rss",
+          "author": "Renjit Philip",
+          "description": "Many people ask me about a simple way to get involved in the brave new world of Web3, Decentralized apps, and blockchains in general. I have now learnt that the",
+          "link": "https://hackernoon.com/an-intro-to-ens-ethereum-name-services-and-why-you-should-get-one?source=rss",
+          "publishedOn": "2022-02-14T07:05:43.000Z",
+          "wordCount": 3447,
+          "title": "An Intro to ENS (Ethereum Name Services) and Why You Should Get One",
+          "imageUrl": "https://cdn.hackernoon.com/images/AVjFr77HYCX0MsvFuE0rftOItUx1-9y93frt.png"
+        },
+        {
+          "id": "https://hackernoon.com/crypto-is-struggling-to-be-the-alternative-financial-system-we-thought-it-would-be?source=rss",
+          "author": "David O.",
+          "description": "This is the information that holds the key to thr next level of growth and adoption for the crypto industry. Crypto meets branding.",
+          "link": "https://hackernoon.com/crypto-is-struggling-to-be-the-alternative-financial-system-we-thought-it-would-be?source=rss",
+          "publishedOn": "2022-02-14T06:57:01.000Z",
+          "wordCount": 2218,
+          "title": "Crypto is Struggling to Become the Alternative Financial System We Thought it Would Be",
+          "imageUrl": "https://cdn.hackernoon.com/images/hxy8qxsZMaPAcd2AeFKkNOE9OLu1-0u93jnc.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-the-telos-build-system-emulates-nasas-rfp-model?source=rss",
+          "author": "Richard Downing",
+          "description": "Telos is beginning to look like the most promising L1 option in blockchain, as it consistently outperforms competitors, including Solana, on every front.",
+          "link": "https://hackernoon.com/how-the-telos-build-system-emulates-nasas-rfp-model?source=rss",
+          "publishedOn": "2022-02-14T06:20:26.000Z",
+          "wordCount": 1743,
+          "title": "How the Telos Build System Emulates NASA's RFP Model",
+          "imageUrl": "https://cdn.hackernoon.com/images/X0ZiuvGkzJavGCUC5LPCM2rNusI3-0se3f2h.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-can-technology-be-sustainable?source=rss",
+          "author": "Sara Pinto",
+          "description": "We live in a world where tech waste and climate change are a reality. In this slogging thread, we couldn't help but wonder how can technology be sustainable.",
+          "link": "https://hackernoon.com/how-can-technology-be-sustainable?source=rss",
+          "publishedOn": "2022-02-14T05:30:21.000Z",
+          "wordCount": 2348,
+          "title": "How Can Technology be Sustainable?",
+          "imageUrl": "https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-dr93gng.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/famous-memes-from-around-the-world?source=rss",
+          "author": "Slogging (Slack Blogging)",
+          "description": "Outside of the globally famous memes, each nation has its gems. In this slogging thread, our community shares their country's most famous memes.",
+          "link": "https://hackernoon.com/famous-memes-from-around-the-world?source=rss",
+          "publishedOn": "2022-02-14T05:28:48.000Z",
+          "wordCount": 2063,
+          "title": "Famous Memes from Around the World",
+          "imageUrl": "https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-iic3g8t.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/should-we-swipe-right-for-tinder-and-bumble?source=rss",
+          "author": "Slogging (Slack Blogging)",
+          "description": "In this slogging thread, our community discusses their views on dating apps and their future.",
+          "link": "https://hackernoon.com/should-we-swipe-right-for-tinder-and-bumble?source=rss",
+          "publishedOn": "2022-02-14T05:28:10.000Z",
+          "wordCount": 2328,
+          "title": "Should We Swipe Right for Tinder and Bumble?",
+          "imageUrl": "https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-lh93g77.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/an-intro-to-sql-for-data-scientists?source=rss",
+          "author": "Ryan Ayers",
+          "description": "The importance of SQL and how to go about learning it",
+          "link": "https://hackernoon.com/an-intro-to-sql-for-data-scientists?source=rss",
+          "publishedOn": "2022-02-14T05:25:23.000Z",
+          "wordCount": 2110,
+          "title": "An Intro to SQL for Data Scientists",
+          "imageUrl": "https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-oj93j32.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/all-the-ratchet-and-clank-games-in-chronological-order?source=rss",
+          "author": "Marc Magrini",
+          "description": "Check out the entire Ratchet & Clank series in chronological order!",
+          "link": "https://hackernoon.com/all-the-ratchet-and-clank-games-in-chronological-order?source=rss",
+          "publishedOn": "2022-02-14T05:02:31.000Z",
+          "wordCount": 2753,
+          "title": "All the Ratchet and Clank Games in Chronological Order",
+          "imageUrl": "https://cdn.hackernoon.com/images/O9EiwLkvsDZBj0ZX0GdPeja4hd22-r593gbq.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/an-interview-with-crypto-expert-and-token-guru-eloisa-marchesoni?source=rss",
+          "author": "Mark",
+          "description": "My conversation with the youngest female cryptocurrency consultant in the industry",
+          "link": "https://hackernoon.com/an-interview-with-crypto-expert-and-token-guru-eloisa-marchesoni?source=rss",
+          "publishedOn": "2022-02-14T04:44:06.000Z",
+          "wordCount": 3332,
+          "title": "An Interview With Crypto Expert and Token Guru Eloisa Marchesoni",
+          "imageUrl": "https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-6mb3ucs.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/all-spiritfarer-spirits-ranked-best-to-worst?source=rss",
+          "author": "Lacy Long",
+          "description": "Spiritfarer spirits are one of the best parts of Thunder Lotus' Spiritfarer game. They all come with their own personalities and stories - which are the best?",
+          "link": "https://hackernoon.com/all-spiritfarer-spirits-ranked-best-to-worst?source=rss",
+          "publishedOn": "2022-02-14T04:01:33.000Z",
+          "wordCount": 2927,
+          "title": "All Spiritfarer Spirits Ranked Best to Worst",
+          "imageUrl": "https://cdn.hackernoon.com/images/4Utmua7swbeKmKkzfFUMrMiP41x2-u792ie4.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/ai-generates-realistic-3d-models-using-only-a-handful-of-images?source=rss",
+          "author": "Louis Bouchard",
+          "description": "Neural Rendering. Neural Rendering is the ability to generate a photorealistic model in space just like this one, from pictures of the object, person, or scene of interest. In this case, you’d have a handful of pictures of this sculpture and ask the machine to understand what the object in these pictures should look like in space. You are basically asking a machine to understand physics and shapes out of images. This is quite easy for us since we only know the real world and depths, but it’s a whole other challenge for a machine that only sees pixels.",
+          "link": "https://hackernoon.com/ai-generates-realistic-3d-models-using-only-a-handful-of-images?source=rss",
+          "publishedOn": "2022-02-14T03:56:23.000Z",
+          "wordCount": 2578,
+          "title": "AI Generates Realistic 3D Models Using Only a Handful of Images",
+          "imageUrl": "https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-zb93hy9.jpeg"
+        },
         {
           "id": "https://hackernoon.com/hyper-converged-infrastructure-all-the-eyes-in-one-basket?source=rss",
           "author": "atiq malik",
@@ -24619,6 +24919,17 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=148957",
+          "author": "ACMer",
+          "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms BASH provides the command line interface (as compared to GUI) to control the computer. We have learned the following commands...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-introduction-to-bash-commands/",
+          "publishedOn": "2022-02-14T20:14:39.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Introduction to BASH Commands",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://helloacm.com/?p=148945",
           "author": "ACMer",
           "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms The LOGO (Turtle Graphic) programming was popular in 1980s. And it has been ported to Python as a Library which we can do this:...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -25726,6 +26037,76 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=523237",
+          "author": "Al Williams",
+          "description": "[Electronoobs] built a coil gun and the obvious question is: how fast is the projectile? To answer it, he built a chronograph suitable for timing a bullet. The principle is …read more",
+          "link": "https://hackaday.com/2022/02/14/as-fast-as-a-speeding-bullet/",
+          "publishedOn": "2022-02-15T00:00:46.000Z",
+          "wordCount": 1178,
+          "title": "As Fast as a Speeding Bullet",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/coil-e1644864085822.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=523136",
+          "author": "Dave Rowntree",
+          "description": "[Alfredo Cortellini] was perusing an antique shop in Bologna, and came across a nice example of a late 1950s timepiece, in the shape of a Solari Cifra 5 slave clock, …read more",
+          "link": "https://hackaday.com/2022/02/14/a-solari-mechanical-digital-clock-hack-with-a-little-extra/",
+          "publishedOn": "2022-02-14T21:00:19.000Z",
+          "wordCount": 1374,
+          "title": "A Solari Mechanical Digital Clock Hack With A Little Extra",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/9671971643124717001.jpeg"
+        },
+        {
+          "id": "https://hackaday.com/?p=523129",
+          "author": "Al Williams",
+          "description": "It may sound like a pop band, but μ-WAAM is actually a 3D printing technique for making small metal parts from the NOVA University Lisbon. Of course, WAAM stands for …read more",
+          "link": "https://hackaday.com/2022/02/14/3d-printing-tiny-metal-parts/",
+          "publishedOn": "2022-02-14T19:30:00.000Z",
+          "wordCount": 1433,
+          "title": "3D Printing Tiny Metal Parts",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/waam.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=519274",
+          "author": "Al Williams",
+          "description": "With 2022 off to a good start, it is about time to let go of all those New Year’s resolutions that didn’t quite work out. The scale’s needle didn’t reverse, …read more",
+          "link": "https://hackaday.com/2022/02/14/predicting-the-future-hows-that-working-out/",
+          "publishedOn": "2022-02-14T18:00:17.000Z",
+          "wordCount": 3323,
+          "title": "Predicting the Future: How’s That Working Out?",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/world.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=523164",
+          "author": "Drew Littrell",
+          "description": "It was just this year that Sega left the arcade business for good. A company synonymous with coin-op games for over a half century completely walked away from selling experiences …read more",
+          "link": "https://hackaday.com/2022/02/14/retrotechtacular-raw-video-from-inside-a-1980s-arcade/",
+          "publishedOn": "2022-02-14T16:30:00.000Z",
+          "wordCount": 2693,
+          "title": "Retrotechtacular: Raw Video From Inside a 1980s Arcade",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/Aladdins-Castle-Arcade-in-Quincy-IL.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=519676",
+          "author": "Tom Nardi",
+          "description": "Since NASA’s Mariner spacecraft made the first up-close observations of Mars in 1964, humanity has lobbed a long line of orbiters, landers, and rovers towards the Red Planet. Of course, …read more",
+          "link": "https://hackaday.com/2022/02/14/nasa-taps-lockheed-to-bring-back-a-piece-of-mars/",
+          "publishedOn": "2022-02-14T15:00:35.000Z",
+          "wordCount": 3727,
+          "title": "NASA Taps Lockheed to Bring Back a Piece of Mars",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/Ascent.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=519649",
+          "author": "Dan Maloney",
+          "description": "If we’re being honest, the main reason to buy a power tool is to avoid the pain of using one’s muscles. Oh sure, we dress it up with claims that …read more",
+          "link": "https://hackaday.com/2022/02/14/fail-of-the-week-a-bigger-hacksaw-isnt-a-better-hacksaw/",
+          "publishedOn": "2022-02-14T12:00:00.000Z",
+          "wordCount": 2260,
+          "title": "Fail of the Week: A Bigger Hacksaw Isn’t a Better Hacksaw",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/fotw-hacksaw.png"
+        },
         {
           "id": "https://hackaday.com/?p=519158&preview=true&preview_id=519158",
           "author": "Dan Maloney",
@@ -33526,6 +33907,101 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "4B4562BD-95E6-472F-A8ADD071B979BC04",
+          "author": "Emily Willingham",
+          "description": "Viewers struggle to distinguish images of sophisticated machine-generated faces from actual humans\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/humans-find-ai-generated-faces-more-trustworthy-than-the-real-thing/",
+          "publishedOn": "2022-02-14T20:00:00.000Z",
+          "wordCount": null,
+          "title": "Humans Find AI-Generated Faces More Trustworthy Than the Real Thing",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "C1B982B1-EF53-4A7B-AB2D0D48DF8E51BA",
+          "author": "John Fialka, E&E News",
+          "description": "The Marshall Fire destroyed more than 1,000 Colorado houses, many of them the homes of experts studying wildfires\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/a-devastating-blaze-hit-climate-and-fire-scientists-where-they-live/",
+          "publishedOn": "2022-02-14T19:45:00.000Z",
+          "wordCount": null,
+          "title": "A Devastating Blaze Hit Climate and Fire Scientists Where They Live",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "E28E8A61-53A2-4178-B8B405636B7D01F3",
+          "author": "Freda Kreier, Nature magazine",
+          "description": "Just 14 cases of the scourge that once infected millions of the world’s poorest people were reported last year. But infections in animals complicates efforts to stamp it out\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/guinea-worm-disease-nears-eradication/",
+          "publishedOn": "2022-02-14T17:00:00.000Z",
+          "wordCount": null,
+          "title": "Guinea Worm Disease Nears Eradication",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "36C6DBC5-36CD-44D5-81628B780CD09CFA",
+          "author": "Jason Sherman",
+          "description": "The U.S. military has new technology on the drawing board in response to warfare trends previously demonstrated in the region\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/russia-ukraine-conflict-prompted-u-s-to-develop-autonomous-drone-swarms-1-000-mile-cannon/",
+          "publishedOn": "2022-02-14T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Russia-Ukraine Conflict Prompted U.S. to Develop Autonomous Drone Swarms, 1,000-Mile Cannon",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "AF7C276B-0046-4BA2-AFEC878836D83913",
+          "author": "Kayla Good, Alex Shaw",
+          "description": "Children as young as seven years old may hesitate to ask questions in school because they worry classmates will think they are “stupid”\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/why-kids-are-afraid-to-ask-for-help/",
+          "publishedOn": "2022-02-14T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Why Kids Are Afraid to Ask for Help",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "9342C288-655A-4070-83E421FFD1F6AD23",
+          "author": "Ashleigh Papp",
+          "description": "The small rodents are one of the few known monogamists in the wild–and their faithfulness was put to the test in a lab.\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/podcast/episode/the-romantic-temptation-of-the-monogamous-prairie-vole/",
+          "publishedOn": "2022-02-14T14:00:00.000Z",
+          "wordCount": null,
+          "title": "The Romantic Temptation of the Monogamous Prairie Vole",
+          "itunes": {
+            "duration": "05:19"
+          },
+          "enclosure": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=8CFC30B3-F570-4E2B-9E56F64216F93E7C",
+            "length": "4492074",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "E27E590F-DFF4-4579-B29C3A71249BFDCE",
+          "author": "Tanya Lewis",
+          "description": "An exercise scientist explains the biomechanics behind jumps such as the quadruple Axel, and what the body’s limits are\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-olympic-figure-skaters-break-records-with-physics/",
+          "publishedOn": "2022-02-14T12:00:00.000Z",
+          "wordCount": null,
+          "title": "How Olympic Figure Skaters Break Records with Physics",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "D3D18B4E-130F-4147-9E6CD8A524F30202",
+          "author": "Francine Russo",
+          "description": "High levels of it have put people at risk of emotional problems \n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-personality-trait-intolerance-of-uncertainty-causes-anguish-during-covid/",
+          "publishedOn": "2022-02-14T11:45:00.000Z",
+          "wordCount": null,
+          "title": "The Personality Trait 'Intolerance of Uncertainty' Causes Anguish during COVID",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "66154959-73CC-4231-A3F698B9CD5DDDEB",
           "author": "Peter Veals, The Conversation US",
           "description": "Artificial snow can affect he performance of skiers and snowboarders\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -39897,6 +40373,66 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=149970",
+          "author": "Charlene O'Hanlon",
+          "description": "Charlene O’Hanlon and Scott Gnau from InterSystems talk about silos in organizations and how data fabric enables organizations to process, transform, secure and orchestrate data from disparate sources in real-time. The video is below followed by a transcript of the conversation. Announcer: This is Digital Anarchist. O’Hanlon: Hey, everybody, welcome back to Tech Strong TV. […]\nThe post Using Data Fabric for Real-Time Processing appeared first on DevOps.com.",
+          "link": "https://devops.com/using-data-fabric-for-real-time-processing/",
+          "publishedOn": "2022-02-14T19:49:34.000Z",
+          "wordCount": 3563,
+          "title": "Using Data Fabric for Real-Time Processing",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/04/Data-fabric_developers.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=149968",
+          "author": "Charlene O'Hanlon",
+          "description": "Charlene O’Hanlon and Amy Hudson of Cyara discuss the concept of DevOps for customer experience, which takes DevOps methodology and focuses it on CX software. But there are pitfalls DevOps teams face when dealing with customer experience software. The video is below followed by a complete transcript of the conversation. Announcer: This is Digital Anarchist. […]\nThe post DevOps for Customer Experience appeared first on DevOps.com.",
+          "link": "https://devops.com/devops-for-customer-experience/",
+          "publishedOn": "2022-02-14T19:28:02.000Z",
+          "wordCount": 2943,
+          "title": "DevOps for Customer Experience",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/09/userexperience.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=149938",
+          "author": "Mike Vizard",
+          "description": "Credit Karma has launched an application platform, dubbed Talon Polly, that makes it simpler to deploy microservices across multiple runtime environments. Richard Pounder, principal software engineer at Credit Karma, said the consumer financial services provider expects to make Talon Polly available as an open source project next year. Written in the Rust programming language, Pounder […]\nThe post Credit Karma Looks to Open Source Distributed App Platform appeared first on DevOps.com.",
+          "link": "https://devops.com/credit-karma-looks-to-open-source-distributed-app-platform/",
+          "publishedOn": "2022-02-14T14:27:54.000Z",
+          "wordCount": 893,
+          "title": "Credit Karma Looks to Open Source Distributed App Platform",
+          "imageUrl": "https://devops.com/wp-content/uploads/2021/10/distributed-cloud.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=149873",
+          "author": "Michael Gibbs",
+          "description": "It has been almost a year since the phenomenon known as the Great Resignation started appearing in national news. The reports showed millions of U.S. workers leaving their jobs each month to look for something better. This trend, according to the latest news, is not going away. While labor experts have provided a steady stream […]\nThe post Great Resignation Spurs Interest in Tech Certifications appeared first on DevOps.com.",
+          "link": "https://devops.com/great-resignation-spurs-interest-in-tech-certifications/",
+          "publishedOn": "2022-02-14T08:00:11.000Z",
+          "wordCount": 1445,
+          "title": "Great Resignation Spurs Interest in Tech Certifications",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/06/Machine-learning.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=149853",
+          "author": "Terry Brennan",
+          "description": "DevOps is not just about technology. In many ways, the technology aspect of DevOps is finite but the people, organizational and cultural aspects are infinite. We see many clients get so focused on the tools and technology that they forget about the impact beyond the technology. An important part of building a world-class DevOps process […]\nThe post The DevOps Journey: Continuous Mindset Starts With Cultural Change appeared first on DevOps.com.",
+          "link": "https://devops.com/the-evolving-devops-journey-continuous-mindset-starts-with-cultural-change/",
+          "publishedOn": "2022-02-14T07:30:06.000Z",
+          "wordCount": 1483,
+          "title": "The DevOps Journey: Continuous Mindset Starts With Cultural Change",
+          "imageUrl": "https://devops.com/wp-content/uploads/2015/02/inside-devops-mind.png"
+        },
+        {
+          "id": "https://devops.com/?p=149933",
+          "author": "ROELBOB",
+          "description": "The post Extreme Sports in the Metaverse appeared first on DevOps.com.",
+          "link": "https://devops.com/extreme-sports-in-the-metaverse/",
+          "publishedOn": "2022-02-14T07:00:27.000Z",
+          "wordCount": 435,
+          "title": "Extreme Sports in the Metaverse",
+          "imageUrl": "https://devops.com/wp-content/uploads/2022/02/Metacise.jpg"
+        },
+        {
           "id": "https://devops.com/?p=149917",
           "author": "Mike Vizard",
           "description": "Dynatrace, at its online Perform 2022 event, launched a bevy of updates to its portfolio that make it easier for DevOps teams to programmatically embed observability and other software intelligence capabilities within applications. At the same time, Dynatrace also revealed that it has extended the reach of its observability platform to now include all the […]\nThe post Dynatrace Advances Application Environments as Code appeared first on DevOps.com.",
@@ -42847,6 +43383,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=112573",
+          "author": "Charlie Wood",
+          "description": "The strong force holds protons and neutrons together, but the theory behind it is largely inscrutable. Two new approaches show how it works.            \nThe post The Mysterious Forces Inside the Nucleus Grow a Little Less Strange first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/colliders-and-supercomputers-force-fresh-hints-in-quark-mystery-20220214/",
+          "publishedOn": "2022-02-14T16:13:42.000Z",
+          "wordCount": 1675,
+          "title": "The Mysterious Forces Inside the Nucleus Grow a Little Less Strange",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/02/Quark_Quirks_1200_Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=112416",
           "author": "Mordechai Rorvig",
           "description": "Two researchers show that for neural networks to be able to remember better, they need far more parameters than previously thought.            \nThe post Computer Scientists Prove Why Bigger Neural Networks Do Better first appeared on Quanta Magazine",
@@ -43531,6 +44077,16 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66853",
+          "author": "Nathan Yau",
+          "description": "The Athletic charted territories on the field to show whether the team of…\nTags: Athletic, Premier League, soccer",
+          "link": "https://flowingdata.com/2022/02/14/premier-league-territory-control/",
+          "publishedOn": "2022-02-14T08:49:36.000Z",
+          "wordCount": 274,
+          "title": "Premier League territory control",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/02/premier-league-territory.png"
+        },
         {
           "id": "https://flowingdata.com/?p=66858",
           "author": "Nathan Yau",
@@ -45580,5 +46136,5 @@
       ]
     }
   ],
-  "cliVersion": "1.13.0"
+  "cliVersion": "1.14.4"
 }

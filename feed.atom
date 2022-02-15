@@ -2,10 +2,584 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2022-02-14T01:09:24.410Z</updated>
-    <generator>osmosfeed 1.13.0</generator>
+    <updated>2022-02-15T01:21:02.634Z</updated>
+    <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[As Fast as a Speeding Bullet]]></title>
+        <id>https://hackaday.com/?p=523237</id>
+        <link href="https://hackaday.com/2022/02/14/as-fast-as-a-speeding-bullet/"/>
+        <updated>2022-02-15T00:00:46.000Z</updated>
+        <summary type="html"><![CDATA[[Electronoobs] built a coil gun and the obvious question is: how fast is the projectile? To answer it, he built a chronograph suitable for timing a bullet. The principle is …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn React Hooks – A Beginner's Guide]]></title>
+        <id>620a618e56125b0677c64e72</id>
+        <link href="https://www.freecodecamp.org/news/the-beginners-guide-to-react-hooks/"/>
+        <updated>2022-02-14T21:04:27.000Z</updated>
+        <summary type="html"><![CDATA[Functional components weren't always the preferred method for declaring components in React.  Before React version 16.8 was introduced, functional components were treated much like second-class citizens. They couldn't handle state, logic, and lots of other React features, and we only used them for rendering very simple components to the]]></summary>
+        <author>
+            <name>Victor Ikechukwu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Solari Mechanical Digital Clock Hack With A Little Extra]]></title>
+        <id>https://hackaday.com/?p=523136</id>
+        <link href="https://hackaday.com/2022/02/14/a-solari-mechanical-digital-clock-hack-with-a-little-extra/"/>
+        <updated>2022-02-14T21:00:19.000Z</updated>
+        <summary type="html"><![CDATA[[Alfredo Cortellini] was perusing an antique shop in Bologna, and came across a nice example of a late 1950s timepiece, in the shape of a Solari Cifra 5 slave clock, …read more]]></summary>
+        <author>
+            <name>Dave Rowntree</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – Introduction to BASH Commands]]></title>
+        <id>https://helloacm.com/?p=148957</id>
+        <link href="https://helloacm.com/teaching-kids-programming-introduction-to-bash-commands/"/>
+        <updated>2022-02-14T20:14:39.000Z</updated>
+        <summary type="html"><![CDATA[Teaching Kids Programming: Videos on Data Structures and Algorithms BASH provides the command line interface (as compared to GUI) to control the computer. We have learned the following commands...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why are hyperlinks blue?]]></title>
+        <id>https://css-tricks.com/?p=363555</id>
+        <link href="https://css-tricks.com/why-are-hyperlinks-blue/"/>
+        <updated>2022-02-14T20:13:31.000Z</updated>
+        <summary type="html"><![CDATA[Last year, Elise Blanchard did some great historical research and discovered that blue hyperlinks replaced black hyperlinks in 1993. They’ve been blue for so long now that the general advice I always hear is to keep them that way. There …
+Why are hyperlinks blue? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Humans Find AI-Generated Faces More Trustworthy Than the Real Thing]]></title>
+        <id>4B4562BD-95E6-472F-A8ADD071B979BC04</id>
+        <link href="https://www.scientificamerican.com/article/humans-find-ai-generated-faces-more-trustworthy-than-the-real-thing/"/>
+        <updated>2022-02-14T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Viewers struggle to distinguish images of sophisticated machine-generated faces from actual humans
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Emily Willingham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Data Fabric for Real-Time Processing]]></title>
+        <id>https://devops.com/?p=149970</id>
+        <link href="https://devops.com/using-data-fabric-for-real-time-processing/"/>
+        <updated>2022-02-14T19:49:34.000Z</updated>
+        <summary type="html"><![CDATA[Charlene O’Hanlon and Scott Gnau from InterSystems talk about silos in organizations and how data fabric enables organizations to process, transform, secure and orchestrate data from disparate sources in real-time. The video is below followed by a transcript of the conversation. Announcer: This is Digital Anarchist. O’Hanlon: Hey, everybody, welcome back to Tech Strong TV. […]
+The post Using Data Fabric for Real-Time Processing appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Charlene O'Hanlon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Devastating Blaze Hit Climate and Fire Scientists Where They Live]]></title>
+        <id>C1B982B1-EF53-4A7B-AB2D0D48DF8E51BA</id>
+        <link href="https://www.scientificamerican.com/article/a-devastating-blaze-hit-climate-and-fire-scientists-where-they-live/"/>
+        <updated>2022-02-14T19:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The Marshall Fire destroyed more than 1,000 Colorado houses, many of them the homes of experts studying wildfires
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>John Fialka, E&amp;E News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printing Tiny Metal Parts]]></title>
+        <id>https://hackaday.com/?p=523129</id>
+        <link href="https://hackaday.com/2022/02/14/3d-printing-tiny-metal-parts/"/>
+        <updated>2022-02-14T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[It may sound like a pop band, but μ-WAAM is actually a 3D printing technique for making small metal parts from the NOVA University Lisbon. Of course, WAAM stands for …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps for Customer Experience]]></title>
+        <id>https://devops.com/?p=149968</id>
+        <link href="https://devops.com/devops-for-customer-experience/"/>
+        <updated>2022-02-14T19:28:02.000Z</updated>
+        <summary type="html"><![CDATA[Charlene O’Hanlon and Amy Hudson of Cyara discuss the concept of DevOps for customer experience, which takes DevOps methodology and focuses it on CX software. But there are pitfalls DevOps teams face when dealing with customer experience software. The video is below followed by a complete transcript of the conversation. Announcer: This is Digital Anarchist. […]
+The post DevOps for Customer Experience appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Charlene O'Hanlon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Setup a Basic Serverless REST API with AWS Lambda and API Gateway]]></title>
+        <id>61e80555183181284a1916cd</id>
+        <link href="https://www.freecodecamp.org/news/how-to-setup-a-basic-serverless-backend-with-aws-lambda-and-api-gateway/"/>
+        <updated>2022-02-14T19:10:14.000Z</updated>
+        <summary type="html"><![CDATA[As developers, we are always trying to optimize everything from how people communicate to how people buy things. The goal is to make humans arguably more productive.  In the spirit of making humans more productive, the software development landscape has seen a dramatic rise in the emergence of developer]]></summary>
+        <author>
+            <name>Nyior Clement</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Professional Scrum Development with Azure DevOps (Microsoft Press)]]></title>
+        <id>http://www.i-programmer.info/book-watch-archive/15215-professional-scrum-development-with-azure-devops-microsoft-press.html</id>
+        <link href="http://www.i-programmer.info/book-watch-archive/15215-professional-scrum-development-with-azure-devops-microsoft-press.html"/>
+        <updated>2022-02-14T18:46:49.000Z</updated>
+        <summary type="html"><![CDATA[This book is designed to help development teams plan, track, and manage work far more effectively, by combining today's leading agile framework (Scrum) and Microsoft's ALM/DevOps toolset (Azure DevOps). Richard Hundhausen covers team formation, backlogs, Sprints, test plans, collaboration, flow, continuous improvement, Azure Boards, Azure Test Plans, and the real-world tradeoffs associated with DevOps.
+
+<ASIN:0136789234>
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Important Lessons they Don't Teach You in Business School]]></title>
+        <id>620a9e7521bfb3068cf286fe</id>
+        <link href="https://www.freecodecamp.org/news/important-lessons-they-dont-teach-you-in-business-school/"/>
+        <updated>2022-02-14T18:30:23.000Z</updated>
+        <summary type="html"><![CDATA[How can you find customers? How can you get a meeting with anyone? How can you take your career to the next level?  Learn the answers to these questions and more in an entrepreneurship course we just published on the freeCodeCamp.org YouTube channel. Business Insider wrote an article stating]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Predicting the Future: How’s That Working Out?]]></title>
+        <id>https://hackaday.com/?p=519274</id>
+        <link href="https://hackaday.com/2022/02/14/predicting-the-future-hows-that-working-out/"/>
+        <updated>2022-02-14T18:00:17.000Z</updated>
+        <summary type="html"><![CDATA[With 2022 off to a good start, it is about time to let go of all those New Year’s resolutions that didn’t quite work out. The scale’s needle didn’t reverse, …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The React Cheatsheet for 2022]]></title>
+        <id>6207facb56125b0677c649a3</id>
+        <link href="https://www.freecodecamp.org/news/the-react-cheatsheet/"/>
+        <updated>2022-02-14T17:02:30.000Z</updated>
+        <summary type="html"><![CDATA[Do you want to get up to speed with React as quickly as possible? I’ve put together a super helpful cheatsheet to give you a complete overview of all of the React concepts you need to know in 2022. Let’s get started! Table of Contents  * React Elements]]></summary>
+        <author>
+            <name>Reed Barger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guinea Worm Disease Nears Eradication]]></title>
+        <id>E28E8A61-53A2-4178-B8B405636B7D01F3</id>
+        <link href="https://www.scientificamerican.com/article/guinea-worm-disease-nears-eradication/"/>
+        <updated>2022-02-14T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Just 14 cases of the scourge that once infected millions of the world’s poorest people were reported last year. But infections in animals complicates efforts to stamp it out
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Freda Kreier, Nature magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use PropTypes in React]]></title>
+        <id>61fcba1ef2ed6b06db5ac4db</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-proptypes-in-react/"/>
+        <updated>2022-02-14T16:36:09.000Z</updated>
+        <summary type="html"><![CDATA[PropTypes are a good first line defense when it comes to debugging your apps. But before getting into detail about PropTypes, we have to understand the concept of props. Props [https://tekolio.com/what-are-props-in-react-and-how-to-use-them/] are the read-only properties that are shared between components to give the unidirectional flow of React a dynamic touch.]]></summary>
+        <author>
+            <name>Ateev Duggal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Retrotechtacular: Raw Video From Inside a 1980s Arcade]]></title>
+        <id>https://hackaday.com/?p=523164</id>
+        <link href="https://hackaday.com/2022/02/14/retrotechtacular-raw-video-from-inside-a-1980s-arcade/"/>
+        <updated>2022-02-14T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[It was just this year that Sega left the arcade business for good. A company synonymous with coin-op games for over a half century completely walked away from selling experiences …read more]]></summary>
+        <author>
+            <name>Drew Littrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Mysterious Forces Inside the Nucleus Grow a Little Less Strange]]></title>
+        <id>https://www.quantamagazine.org/?p=112573</id>
+        <link href="https://www.quantamagazine.org/colliders-and-supercomputers-force-fresh-hints-in-quark-mystery-20220214/"/>
+        <updated>2022-02-14T16:13:42.000Z</updated>
+        <summary type="html"><![CDATA[The strong force holds protons and neutrons together, but the theory behind it is largely inscrutable. Two new approaches show how it works.            
+The post The Mysterious Forces Inside the Nucleus Grow a Little Less Strange first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Charlie Wood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started With the File System Access API]]></title>
+        <id>https://css-tricks.com/?p=363339</id>
+        <link href="https://css-tricks.com/getting-started-with-the-file-system-access-api/"/>
+        <updated>2022-02-14T16:01:21.000Z</updated>
+        <summary type="html"><![CDATA[The File System Access API is a web API that allows read and write access to a user’s local files. It unlocks new capabilities to build powerful web applications, such as text editors or IDEs, image editing tools, improved …
+Getting Started With the File System Access API originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Charlie Gerard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia-Ukraine Conflict Prompted U.S. to Develop Autonomous Drone Swarms, 1,000-Mile Cannon]]></title>
+        <id>36C6DBC5-36CD-44D5-81628B780CD09CFA</id>
+        <link href="https://www.scientificamerican.com/article/russia-ukraine-conflict-prompted-u-s-to-develop-autonomous-drone-swarms-1-000-mile-cannon/"/>
+        <updated>2022-02-14T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. military has new technology on the drawing board in response to warfare trends previously demonstrated in the region
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Jason Sherman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET Celebrates 20th Anniversary of Launch]]></title>
+        <id>http://www.i-programmer.info/news/89-net/15214-net-celebrates-20th-anniversary-of-launch.html</id>
+        <link href="http://www.i-programmer.info/news/89-net/15214-net-celebrates-20th-anniversary-of-launch.html"/>
+        <updated>2022-02-14T15:39:18.000Z</updated>
+        <summary type="html"><![CDATA[The first stable version of the .NET Framework was released on February 14th, 2002, after being in beta for almost two years. So today we can wish .NET a Happy Birthday and consider its highs and lows.
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA Taps Lockheed to Bring Back a Piece of Mars]]></title>
+        <id>https://hackaday.com/?p=519676</id>
+        <link href="https://hackaday.com/2022/02/14/nasa-taps-lockheed-to-bring-back-a-piece-of-mars/"/>
+        <updated>2022-02-14T15:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Since NASA’s Mariner spacecraft made the first up-close observations of Mars in 1964, humanity has lobbed a long line of orbiters, landers, and rovers towards the Red Planet. Of course, …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Kids Are Afraid to Ask for Help]]></title>
+        <id>AF7C276B-0046-4BA2-AFEC878836D83913</id>
+        <link href="https://www.scientificamerican.com/article/why-kids-are-afraid-to-ask-for-help/"/>
+        <updated>2022-02-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Children as young as seven years old may hesitate to ask questions in school because they worry classmates will think they are “stupid”
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Kayla Good, Alex Shaw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Credit Karma Looks to Open Source Distributed App Platform]]></title>
+        <id>https://devops.com/?p=149938</id>
+        <link href="https://devops.com/credit-karma-looks-to-open-source-distributed-app-platform/"/>
+        <updated>2022-02-14T14:27:54.000Z</updated>
+        <summary type="html"><![CDATA[Credit Karma has launched an application platform, dubbed Talon Polly, that makes it simpler to deploy microservices across multiple runtime environments. Richard Pounder, principal software engineer at Credit Karma, said the consumer financial services provider expects to make Talon Polly available as an open source project next year. Written in the Rust programming language, Pounder […]
+The post Credit Karma Looks to Open Source Distributed App Platform appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Mike Vizard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Romantic Temptation of the Monogamous Prairie Vole]]></title>
+        <id>9342C288-655A-4070-83E421FFD1F6AD23</id>
+        <link href="https://www.scientificamerican.com/podcast/episode/the-romantic-temptation-of-the-monogamous-prairie-vole/"/>
+        <updated>2022-02-14T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The small rodents are one of the few known monogamists in the wild–and their faithfulness was put to the test in a lab.
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Ashleigh Papp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fail of the Week: A Bigger Hacksaw Isn’t a Better Hacksaw]]></title>
+        <id>https://hackaday.com/?p=519649</id>
+        <link href="https://hackaday.com/2022/02/14/fail-of-the-week-a-bigger-hacksaw-isnt-a-better-hacksaw/"/>
+        <updated>2022-02-14T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If we’re being honest, the main reason to buy a power tool is to avoid the pain of using one’s muscles. Oh sure, we dress it up with claims that …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Olympic Figure Skaters Break Records with Physics]]></title>
+        <id>E27E590F-DFF4-4579-B29C3A71249BFDCE</id>
+        <link href="https://www.scientificamerican.com/article/how-olympic-figure-skaters-break-records-with-physics/"/>
+        <updated>2022-02-14T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An exercise scientist explains the biomechanics behind jumps such as the quadruple Axel, and what the body’s limits are
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Tanya Lewis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Personality Trait 'Intolerance of Uncertainty' Causes Anguish during COVID]]></title>
+        <id>D3D18B4E-130F-4147-9E6CD8A524F30202</id>
+        <link href="https://www.scientificamerican.com/article/the-personality-trait-intolerance-of-uncertainty-causes-anguish-during-covid/"/>
+        <updated>2022-02-14T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[High levels of it have put people at risk of emotional problems 
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Francine Russo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Premier League territory control]]></title>
+        <id>https://flowingdata.com/?p=66853</id>
+        <link href="https://flowingdata.com/2022/02/14/premier-league-territory-control/"/>
+        <updated>2022-02-14T08:49:36.000Z</updated>
+        <summary type="html"><![CDATA[The Athletic charted territories on the field to show whether the team of…
+Tags: Athletic, Premier League, soccer]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Great Resignation Spurs Interest in Tech Certifications]]></title>
+        <id>https://devops.com/?p=149873</id>
+        <link href="https://devops.com/great-resignation-spurs-interest-in-tech-certifications/"/>
+        <updated>2022-02-14T08:00:11.000Z</updated>
+        <summary type="html"><![CDATA[It has been almost a year since the phenomenon known as the Great Resignation started appearing in national news. The reports showed millions of U.S. workers leaving their jobs each month to look for something better. This trend, according to the latest news, is not going away. While labor experts have provided a steady stream […]
+The post Great Resignation Spurs Interest in Tech Certifications appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Michael Gibbs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Made a Fortune from the 2020 Bear Market]]></title>
+        <id>https://hackernoon.com/how-i-made-a-fortune-from-the-2020-bear-market?source=rss</id>
+        <link href="https://hackernoon.com/how-i-made-a-fortune-from-the-2020-bear-market?source=rss"/>
+        <updated>2022-02-14T07:56:42.000Z</updated>
+        <summary type="html"><![CDATA[A brief overview of how Ben Knaus went all in during the 2020 Bear market. And how in 2021 those risks turned to huge rewards. Also 7 rules for bear marets]]></summary>
+        <author>
+            <name>Ben Knaus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reinventing Rarity by the Foot with TiptoePunks NFTs]]></title>
+        <id>https://hackernoon.com/reinventing-rarity-by-the-foot-with-tiptoepunks-nfts?source=rss</id>
+        <link href="https://hackernoon.com/reinventing-rarity-by-the-foot-with-tiptoepunks-nfts?source=rss"/>
+        <updated>2022-02-14T07:49:26.000Z</updated>
+        <summary type="html"><![CDATA[TiptoePunks NFTs add an interlocking feature to address the role of luck in scarcity.]]></summary>
+        <author>
+            <name>Justin Roberti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacking Against Inflation Through Real Estate [Infographic]]]></title>
+        <id>https://hackernoon.com/hacking-against-inflation-through-real-estate-infographic?source=rss</id>
+        <link href="https://hackernoon.com/hacking-against-inflation-through-real-estate-infographic?source=rss"/>
+        <updated>2022-02-14T07:47:44.000Z</updated>
+        <summary type="html"><![CDATA[A look at how to hedge against inflation by investing in real estate.]]></summary>
+        <author>
+            <name>Brian Wallace</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Brief Introduction to Ethereum Swarm]]></title>
+        <id>https://hackernoon.com/a-brief-introduction-to-ethereum-swarm?source=rss</id>
+        <link href="https://hackernoon.com/a-brief-introduction-to-ethereum-swarm?source=rss"/>
+        <updated>2022-02-14T07:31:53.000Z</updated>
+        <summary type="html"><![CDATA[The idea for Swarm came from Gavin Wood, one of the founders of Ethereum.]]></summary>
+        <author>
+            <name>Laszlo Fazekas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do We Really Need a Like Button? - The Pros and Cons of Social Media]]></title>
+        <id>https://hackernoon.com/do-we-really-need-a-like-button-the-pros-and-cons-of-social-media?source=rss</id>
+        <link href="https://hackernoon.com/do-we-really-need-a-like-button-the-pros-and-cons-of-social-media?source=rss"/>
+        <updated>2022-02-14T07:30:36.000Z</updated>
+        <summary type="html"><![CDATA[Social media is here to stay. Yet, not everything is beneficial. In this slogging thread, the technology channel discussed the pros and cons of social media.]]></summary>
+        <author>
+            <name>Sara Pinto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The DevOps Journey: Continuous Mindset Starts With Cultural Change]]></title>
+        <id>https://devops.com/?p=149853</id>
+        <link href="https://devops.com/the-evolving-devops-journey-continuous-mindset-starts-with-cultural-change/"/>
+        <updated>2022-02-14T07:30:06.000Z</updated>
+        <summary type="html"><![CDATA[DevOps is not just about technology. In many ways, the technology aspect of DevOps is finite but the people, organizational and cultural aspects are infinite. We see many clients get so focused on the tools and technology that they forget about the impact beyond the technology. An important part of building a world-class DevOps process […]
+The post The DevOps Journey: Continuous Mindset Starts With Cultural Change appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Terry Brennan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Intro to User Analytics in the Gaming Industry]]></title>
+        <id>https://hackernoon.com/an-intro-to-user-analytics-in-the-gaming-industry?source=rss</id>
+        <link href="https://hackernoon.com/an-intro-to-user-analytics-in-the-gaming-industry?source=rss"/>
+        <updated>2022-02-14T07:27:18.000Z</updated>
+        <summary type="html"><![CDATA[Gaming analytics can be best defined as is the whole process of applying user behavior data to guide sales & marketing, product enhancements, etc]]></summary>
+        <author>
+            <name>47Billion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Overhaul Your Website to Improve SEO]]></title>
+        <id>https://hackernoon.com/how-to-overhaul-your-website-to-improve-seo?source=rss</id>
+        <link href="https://hackernoon.com/how-to-overhaul-your-website-to-improve-seo?source=rss"/>
+        <updated>2022-02-14T07:17:32.000Z</updated>
+        <summary type="html"><![CDATA[There is a place in most marketing campaigns for pay-per-click ads, but ongoing high levels of organic traffic are simply impossible to replace.]]></summary>
+        <author>
+            <name>Service Direct</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Free Hosting is a Waste of Your Time]]></title>
+        <id>https://hackernoon.com/why-free-hosting-is-a-waste-of-your-time?source=rss</id>
+        <link href="https://hackernoon.com/why-free-hosting-is-a-waste-of-your-time?source=rss"/>
+        <updated>2022-02-14T07:10:48.000Z</updated>
+        <summary type="html"><![CDATA[Free hosting is real but it has hidden costs. Free hosting has drawbacks & hosting providers use it for advertising. Reliable hosting will always come at a cost]]></summary>
+        <author>
+            <name>Hacker Noon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ranking to Sell: How to Rank on Google so you Can Sell More]]></title>
+        <id>https://hackernoon.com/ranking-to-sell-how-to-rank-on-google-so-you-can-sell-more?source=rss</id>
+        <link href="https://hackernoon.com/ranking-to-sell-how-to-rank-on-google-so-you-can-sell-more?source=rss"/>
+        <updated>2022-02-14T07:09:44.000Z</updated>
+        <summary type="html"><![CDATA[Conducting successful sales online has never been an easy task, especially with the dawn of SEO ranking on Google. The ranking system on Google is in such a way that websites ranking outside the first ten results hardly get recognition. This means that their products are rarely bought online, reducing their sales and e-commerce business. Therefore, you need to ensure your online business website ranks among the first ten on Google to guarantee your online visibility and improve your sales. Although it could be a daunting task, this article has compiled the best ways to ensure your Google ranking soars up, and your sales increase over time.]]></summary>
+        <author>
+            <name>juliarivera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Intro to ENS (Ethereum Name Services) and Why You Should Get One]]></title>
+        <id>https://hackernoon.com/an-intro-to-ens-ethereum-name-services-and-why-you-should-get-one?source=rss</id>
+        <link href="https://hackernoon.com/an-intro-to-ens-ethereum-name-services-and-why-you-should-get-one?source=rss"/>
+        <updated>2022-02-14T07:05:43.000Z</updated>
+        <summary type="html"><![CDATA[Many people ask me about a simple way to get involved in the brave new world of Web3, Decentralized apps, and blockchains in general. I have now learnt that the]]></summary>
+        <author>
+            <name>Renjit Philip</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extreme Sports in the Metaverse]]></title>
+        <id>https://devops.com/?p=149933</id>
+        <link href="https://devops.com/extreme-sports-in-the-metaverse/"/>
+        <updated>2022-02-14T07:00:27.000Z</updated>
+        <summary type="html"><![CDATA[The post Extreme Sports in the Metaverse appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>ROELBOB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto is Struggling to Become the Alternative Financial System We Thought it Would Be]]></title>
+        <id>https://hackernoon.com/crypto-is-struggling-to-be-the-alternative-financial-system-we-thought-it-would-be?source=rss</id>
+        <link href="https://hackernoon.com/crypto-is-struggling-to-be-the-alternative-financial-system-we-thought-it-would-be?source=rss"/>
+        <updated>2022-02-14T06:57:01.000Z</updated>
+        <summary type="html"><![CDATA[This is the information that holds the key to thr next level of growth and adoption for the crypto industry. Crypto meets branding.]]></summary>
+        <author>
+            <name>David O.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Telos Build System Emulates NASA's RFP Model]]></title>
+        <id>https://hackernoon.com/how-the-telos-build-system-emulates-nasas-rfp-model?source=rss</id>
+        <link href="https://hackernoon.com/how-the-telos-build-system-emulates-nasas-rfp-model?source=rss"/>
+        <updated>2022-02-14T06:20:26.000Z</updated>
+        <summary type="html"><![CDATA[Telos is beginning to look like the most promising L1 option in blockchain, as it consistently outperforms competitors, including Solana, on every front.]]></summary>
+        <author>
+            <name>Richard Downing</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Can Technology be Sustainable?]]></title>
+        <id>https://hackernoon.com/how-can-technology-be-sustainable?source=rss</id>
+        <link href="https://hackernoon.com/how-can-technology-be-sustainable?source=rss"/>
+        <updated>2022-02-14T05:30:21.000Z</updated>
+        <summary type="html"><![CDATA[We live in a world where tech waste and climate change are a reality. In this slogging thread, we couldn't help but wonder how can technology be sustainable.]]></summary>
+        <author>
+            <name>Sara Pinto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Famous Memes from Around the World]]></title>
+        <id>https://hackernoon.com/famous-memes-from-around-the-world?source=rss</id>
+        <link href="https://hackernoon.com/famous-memes-from-around-the-world?source=rss"/>
+        <updated>2022-02-14T05:28:48.000Z</updated>
+        <summary type="html"><![CDATA[Outside of the globally famous memes, each nation has its gems. In this slogging thread, our community shares their country's most famous memes.]]></summary>
+        <author>
+            <name>Slogging (Slack Blogging)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should We Swipe Right for Tinder and Bumble?]]></title>
+        <id>https://hackernoon.com/should-we-swipe-right-for-tinder-and-bumble?source=rss</id>
+        <link href="https://hackernoon.com/should-we-swipe-right-for-tinder-and-bumble?source=rss"/>
+        <updated>2022-02-14T05:28:10.000Z</updated>
+        <summary type="html"><![CDATA[In this slogging thread, our community discusses their views on dating apps and their future.]]></summary>
+        <author>
+            <name>Slogging (Slack Blogging)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Intro to SQL for Data Scientists]]></title>
+        <id>https://hackernoon.com/an-intro-to-sql-for-data-scientists?source=rss</id>
+        <link href="https://hackernoon.com/an-intro-to-sql-for-data-scientists?source=rss"/>
+        <updated>2022-02-14T05:25:23.000Z</updated>
+        <summary type="html"><![CDATA[The importance of SQL and how to go about learning it]]></summary>
+        <author>
+            <name>Ryan Ayers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All the Ratchet and Clank Games in Chronological Order]]></title>
+        <id>https://hackernoon.com/all-the-ratchet-and-clank-games-in-chronological-order?source=rss</id>
+        <link href="https://hackernoon.com/all-the-ratchet-and-clank-games-in-chronological-order?source=rss"/>
+        <updated>2022-02-14T05:02:31.000Z</updated>
+        <summary type="html"><![CDATA[Check out the entire Ratchet & Clank series in chronological order!]]></summary>
+        <author>
+            <name>Marc Magrini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Interview With Crypto Expert and Token Guru Eloisa Marchesoni]]></title>
+        <id>https://hackernoon.com/an-interview-with-crypto-expert-and-token-guru-eloisa-marchesoni?source=rss</id>
+        <link href="https://hackernoon.com/an-interview-with-crypto-expert-and-token-guru-eloisa-marchesoni?source=rss"/>
+        <updated>2022-02-14T04:44:06.000Z</updated>
+        <summary type="html"><![CDATA[My conversation with the youngest female cryptocurrency consultant in the industry]]></summary>
+        <author>
+            <name>Mark</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All Spiritfarer Spirits Ranked Best to Worst]]></title>
+        <id>https://hackernoon.com/all-spiritfarer-spirits-ranked-best-to-worst?source=rss</id>
+        <link href="https://hackernoon.com/all-spiritfarer-spirits-ranked-best-to-worst?source=rss"/>
+        <updated>2022-02-14T04:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Spiritfarer spirits are one of the best parts of Thunder Lotus' Spiritfarer game. They all come with their own personalities and stories - which are the best?]]></summary>
+        <author>
+            <name>Lacy Long</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Generates Realistic 3D Models Using Only a Handful of Images]]></title>
+        <id>https://hackernoon.com/ai-generates-realistic-3d-models-using-only-a-handful-of-images?source=rss</id>
+        <link href="https://hackernoon.com/ai-generates-realistic-3d-models-using-only-a-handful-of-images?source=rss"/>
+        <updated>2022-02-14T03:56:23.000Z</updated>
+        <summary type="html"><![CDATA[Neural Rendering. Neural Rendering is the ability to generate a photorealistic model in space just like this one, from pictures of the object, person, or scene of interest. In this case, you’d have a handful of pictures of this sculpture and ask the machine to understand what the object in these pictures should look like in space. You are basically asking a machine to understand physics and shapes out of images. This is quite easy for us since we only know the real world and depths, but it’s a whole other challenge for a machine that only sees pixels.]]></summary>
+        <author>
+            <name>Louis Bouchard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hackaday Links: February 13, 2022]]></title>
         <id>https://hackaday.com/?p=519158&amp;preview=true&amp;preview_id=519158</id>
@@ -14,6 +588,19 @@
         <summary type="html"><![CDATA[If you need evidence that our outwardly peaceful little neck of the solar system is actually a dangerous place, look no further than the 40 newly launched Starlink satellites that …read more]]></summary>
         <author>
             <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flutter 2.1 Has Stable Windows Support]]></title>
+        <id>http://www.i-programmer.info/news/87-web-development/15216-flutter-21-has-stable-windows-support.html</id>
+        <link href="http://www.i-programmer.info/news/87-web-development/15216-flutter-21-has-stable-windows-support.html"/>
+        <updated>2022-02-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Flutter 2.1 has been released with improvements including stable support for Windows, performance enhancements, new support for icons and colors in the framework, and some tooling improvements.
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
         </author>
     </entry>
     <entry>
