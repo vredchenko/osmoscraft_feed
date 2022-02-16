@@ -6,6 +6,16 @@
       "siteUrl": "https://goteleport.com/blog/",
       "articles": [
         {
+          "id": "https://goteleport.com/blog/authn-authz-tutorial-kubernetes/",
+          "author": null,
+          "description": "Kubernetes is an API-centric orchestration platform. Every request, from the cluster components to users interacting with the system, has to go through the API server. The API server is a component in the control plane, and acts as a gatekeeper for the operation requests originating from both inside and outside of the cluster.\nThese interactions are based on a client-server model with a REST API that exposes various APIs and endpoints to fulfill various CRUD (create, read, update, and delete) operations. Clients can range from software developers and DevOps engineers using the kubectl CLI to cluster nodes. Other control plane components, such as the scheduler and the controllers, are always communicating with the API server, and function as clients when requests are made.\nThe API server is…",
+          "link": "https://goteleport.com/blog/authn-authz-tutorial-kubernetes/",
+          "publishedOn": "2022-02-15T00:00:00.000Z",
+          "wordCount": 2285,
+          "title": "Authentication (AuthN) and Authorization (AuthZ) Tutorial for Kubernetes",
+          "imageUrl": "https://goteleport.com/blog/images/2022/authz-authn@2x-min.png"
+        },
+        {
           "id": "https://goteleport.com/blog/comparing-passwordless-ssh-authentication-methods/",
           "author": null,
           "description": "There are essentially four ways you can implement passwordless SSH access. SSH certificate-based authentication, SSH key-based authentication, SSH host-based authentication, or using a custom PAM module that supports out-of-band authentication. If you want to live dangerously, there’s also a fifth method of passwordless access — disable authentication at all. But that’s not who you are!\nThis post will discuss passwordless authentication methods available for SSH access and evaluate the pros and cons of each method. If you are curious about why you should implement passwordless access, our previous blog post on why you have to get rid of passwords for your infrastructure is a good place to start.\nLet’s compare the four passwordless SSH authentication methods.\n1. SSH key authentication\nOpenS…",
@@ -786,6 +796,36 @@
       "feedUrl": "https://www.i-programmer.info/index.php?option=com_ninjarsssyndicator&feed_id=3&format=raw",
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
+        {
+          "id": "http://www.i-programmer.info/news/98-languages/15218-ballerina-swan-lake-released.html",
+          "author": null,
+          "description": "The latest version of the Ballerina language has been released. The \"Swan Lake\" version aims to make it simpler to build and deploy cloud-native applications.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/98-languages/15218-ballerina-swan-lake-released.html",
+          "publishedOn": "2022-02-15T17:57:17.000Z",
+          "wordCount": 684,
+          "title": "Ballerina Swan Lake Released",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/news/90-tools/15217-github-supports-mermaid-for-creating-diagrams.html",
+          "author": null,
+          "description": "In a move that will help in combating doc-rot, GitHub has added support for Mermaid, the open source Markdown-like language that allows developers to generate diagrams and flowcharts.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/90-tools/15217-github-supports-mermaid-for-creating-diagrams.html",
+          "publishedOn": "2022-02-15T15:15:24.000Z",
+          "wordCount": 650,
+          "title": "GitHub Supports Mermaid For Creating Diagrams",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/programming/other-languages/13993-the-programmers-guide-to-kotlin-destructuring.html",
+          "author": null,
+          "description": "Destructuring  - it sounds like something to avoid, but in practice it is really useful. In this extract from The Programmers Guide To Kotlin by Mike James, we look at destructuring and the spread operator.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/programming/other-languages/13993-the-programmers-guide-to-kotlin-destructuring.html",
+          "publishedOn": "2022-02-15T00:00:00.000Z",
+          "wordCount": 694,
+          "title": "The Programmers Guide To Kotlin - Destructuring",
+          "imageUrl": null
+        },
         {
           "id": "http://www.i-programmer.info/book-watch-archive/15215-professional-scrum-development-with-azure-devops-microsoft-press.html",
           "author": null,
@@ -2075,6 +2115,36 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=363604",
+          "author": "Chris Coyier",
+          "description": "Greensock made the GSAP Flip plugin free in the 3.9 release. FLIP is an animation concept that helps make super performance state-change animations. Ryan Mulligan has a good blog post: \nFLIP, coined by Paul Lewis, is an \n…\nGSAP Flip Plugin for Animation originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/gsap-flip-plugin-for-animation/",
+          "publishedOn": "2022-02-15T21:41:10.000Z",
+          "wordCount": 526,
+          "title": "GSAP Flip Plugin for Animation",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363604"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363124",
+          "author": "Harshil Patel",
+          "description": "Creating CSS link hover effects can add a bit of flair to an otherwise bland webpage. If you’ve ever found yourself stumped trying to make a slick hover effect, then I have six CSS effects for you to take and …\n6 Creative Ideas for CSS Link Hover Effects originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-link-hover-effects/",
+          "publishedOn": "2022-02-15T15:37:04.000Z",
+          "wordCount": 2429,
+          "title": "6 Creative Ideas for CSS Link Hover Effects",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363124"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363739",
+          "author": "Geoff Graham",
+          "description": "(This is a sponsored post.)\n✋ High fives to WordPress for releasing version 5.9 on January 29! This was the long-awaited introduction of the Site Editor and the reverberations are still being felt across the 43% slice of the …\nWordPress.com Has a New Home on YouTube originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/wordpress-com-has-a-new-home-on-youtube/",
+          "publishedOn": "2022-02-15T15:35:35.000Z",
+          "wordCount": 493,
+          "title": "WordPress.com Has a New Home on YouTube",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363739"
+        },
         {
           "id": "https://css-tricks.com/?p=363555",
           "author": "Chris Coyier",
@@ -4298,6 +4368,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "620abe4a21bfb3068cf28888",
+          "author": "Kolade Chris",
+          "description": "In your applications and web projects, there might be times when a user needs to perform an action if a certain condition is met. There might also be cases when you need to make the user perform another action if the condition is not met. To do this in Python,",
+          "link": "https://www.freecodecamp.org/news/python-if-else-python-conditional-syntax-example/",
+          "publishedOn": "2022-02-15T17:43:26.000Z",
+          "wordCount": 1247,
+          "title": "Python If-Else – Python Conditional Syntax Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/py.png"
+        },
         {
           "id": "620a618e56125b0677c64e72",
           "author": "Victor Ikechukwu",
@@ -8054,6 +8134,206 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/how-to-be-a-vulnerable-entrepreneur-kara-goldins-success-story?source=rss",
+          "author": "Scott D. Clary",
+          "description": "On the Success Story podcast last month, I was fortunate enough to share an enlightening conversation with the delightful Kara Goldin.",
+          "link": "https://hackernoon.com/how-to-be-a-vulnerable-entrepreneur-kara-goldins-success-story?source=rss",
+          "publishedOn": "2022-02-15T10:03:58.000Z",
+          "wordCount": 2692,
+          "title": "How to Be a Vulnerable Entrepreneur: Kara Goldin's Success Story",
+          "imageUrl": "https://cdn.hackernoon.com/images/sRDNsyX0c4TCCEJoPDTSzoNbnUD3-tz93hbj.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-balance-sheet-reduction-will-potentially-impact-crypto-markets?source=rss",
+          "author": "LD Capital",
+          "description": "The essential thing to consider is the rate of change in the money supply, the first derivative of the money supply",
+          "link": "https://hackernoon.com/how-balance-sheet-reduction-will-potentially-impact-crypto-markets?source=rss",
+          "publishedOn": "2022-02-15T07:59:00.000Z",
+          "wordCount": 2443,
+          "title": "How Balance Sheet Reduction will Potentially Impact Crypto Markets",
+          "imageUrl": "https://cdn.hackernoon.com/images/KYm1CPERpCYJWpgNM4O0z89hJ1X2-6pb3j1n.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-implement-dark-mode-5-essential-tips-to-remember?source=rss",
+          "author": "Abhiraj",
+          "description": "Here are 5 tips you should keep in mind when implementing dark mode in your apps.",
+          "link": "https://hackernoon.com/how-to-implement-dark-mode-5-essential-tips-to-remember?source=rss",
+          "publishedOn": "2022-02-15T07:51:51.000Z",
+          "wordCount": 1370,
+          "title": "How to Implement Dark Mode: 5 Essential Tips to Remember",
+          "imageUrl": "https://cdn.hackernoon.com/images/hS37dtFlOtPxuHM03IBKFB7INsO2-hd93i1w.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/turkish-farmer-uses-virtual-reality-for-healthier-milk-production?source=rss",
+          "author": "Edward Kring",
+          "description": "A Russian farmer, Izzet Koçak, uses VR on cows to increase milk production and health and a Turkish farmer has followed suit.",
+          "link": "https://hackernoon.com/turkish-farmer-uses-virtual-reality-for-healthier-milk-production?source=rss",
+          "publishedOn": "2022-02-15T07:46:24.000Z",
+          "wordCount": 1553,
+          "title": "Turkish‌ ‌Farmer‌ ‌Uses ‌Virtual‌ ‌Reality‌ ‌for Healthier ‌Milk‌ Production ‌",
+          "imageUrl": "https://cdn.hackernoon.com/images/FUMuVxywrWdHkH5PBySiwgoNWcM2-xx93h7k.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/technical-debt-where-it-comes-from-and-how-to-manage-it?source=rss",
+          "author": "Andrey Troyanov",
+          "description": "Technical debt, approaches to its rapid repayment, and minimization on previous and current projects.",
+          "link": "https://hackernoon.com/technical-debt-where-it-comes-from-and-how-to-manage-it?source=rss",
+          "publishedOn": "2022-02-15T07:39:27.000Z",
+          "wordCount": 2903,
+          "title": "Technical Debt: Where it Comes From and How to Manage it",
+          "imageUrl": "https://cdn.hackernoon.com/images/9WAPqxxfU0PeX47H69zfxin7ZCv2-i493g1b.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/a-deep-dive-into-the-probability-of-future-success-model?source=rss",
+          "author": "Yasen Dimitrov",
+          "description": "Intelligence Node’s access to immense online & competitor data & AI analytics puts it at an advantage to understand product trends based on probability model.",
+          "link": "https://hackernoon.com/a-deep-dive-into-the-probability-of-future-success-model?source=rss",
+          "publishedOn": "2022-02-15T07:17:22.000Z",
+          "wordCount": 2929,
+          "title": "A Deep Dive into the Probability of Future Success Model",
+          "imageUrl": "https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-ej93j3k.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/a-blockchain-answer-to-moxies-impressions-of-web3?source=rss",
+          "author": "Simon Chandler",
+          "description": "While critics have argued that Web3 is currently undermined by too much centralization, at least one blockchain platform promises end-to-end decentralization.",
+          "link": "https://hackernoon.com/a-blockchain-answer-to-moxies-impressions-of-web3?source=rss",
+          "publishedOn": "2022-02-15T07:12:09.000Z",
+          "wordCount": 2187,
+          "title": "A Blockchain Answer to Moxie’s ‘Impressions of Web3’",
+          "imageUrl": "https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-wz93jsq.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/noonies2021-awards-the-list-of-winners-in-the-software-development-category?source=rss",
+          "author": "Noonies 2021",
+          "description": "HackerNoon went all out for its annual Noonies Awards in 2021 making it the most exciting Noonies to date!",
+          "link": "https://hackernoon.com/noonies2021-awards-the-list-of-winners-in-the-software-development-category?source=rss",
+          "publishedOn": "2022-02-15T06:43:13.000Z",
+          "wordCount": 2316,
+          "title": "#Noonies2021 Awards: The List of Winners in the Software Development Category",
+          "imageUrl": "https://cdn.hackernoon.com/images/DM0HwTcIK6VVBpObjhC9iaVMHWu2-dza3wmm.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/meet-the-writer-hackernoon-contributor-maria-serkova-a-model-and-ai-researcher?source=rss",
+          "author": "Serkova",
+          "description": "My name is Maria. I am a model and actress transitioning into AI.",
+          "link": "https://hackernoon.com/meet-the-writer-hackernoon-contributor-maria-serkova-a-model-and-ai-researcher?source=rss",
+          "publishedOn": "2022-02-15T06:36:29.000Z",
+          "wordCount": 1737,
+          "title": "Meet the Writer: HackerNoon Contributor Maria Serkova, a Model and AI Researcher",
+          "imageUrl": "https://cdn.hackernoon.com/images/hQXFCVRbhKRCKLFMIUTa83seOmo2-nn930r4.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/low-code-platforms-dont-work-well-with-ai-but-heres-how-we-can-fix-that?source=rss",
+          "author": "Anouk Dutrée",
+          "description": "Low-code platforms might be booming, but are they ready to lift the power of AI as well? Read on to find out why low-code might not be a fit for AI.",
+          "link": "https://hackernoon.com/low-code-platforms-dont-work-well-with-ai-but-heres-how-we-can-fix-that?source=rss",
+          "publishedOn": "2022-02-15T06:30:31.000Z",
+          "wordCount": 2796,
+          "title": "Low-Code Platforms Don't Work Well with AI, But Here's How We Can Fix That",
+          "imageUrl": "https://cdn.hackernoon.com/images/iWlCeBYIsDbjS1sarRsgbhfwVLy1-x5c3h68.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/exmail-a-cool-new-email-4-the-internet?source=rss",
+          "author": "Alex Paden",
+          "description": "I got bored and drew a new Gmail client that magically solves all of the problems that our email clients have with such style and grace. eXmail.",
+          "link": "https://hackernoon.com/exmail-a-cool-new-email-4-the-internet?source=rss",
+          "publishedOn": "2022-02-15T06:18:00.000Z",
+          "wordCount": 2158,
+          "title": "eXmail: A Cool New Email 4 the Internet",
+          "imageUrl": "https://cdn.hackernoon.com/images/tWZU17QNw7Qju7CE2ZJQSYwg3nl1-3q03ahd.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/is-the-new-spiderman-movie-any-good?source=rss",
+          "author": "Slogging (Slack Blogging)",
+          "description": "In this slogging thread, our community discusses their opinions on the new spiderman movie, the new Marvel generation, and the future of superhero movies.",
+          "link": "https://hackernoon.com/is-the-new-spiderman-movie-any-good?source=rss",
+          "publishedOn": "2022-02-15T06:03:18.000Z",
+          "wordCount": 1763,
+          "title": "Is the New Spiderman Movie any Good?",
+          "imageUrl": "https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-xje3gzp.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/clever-financial-hacks-you-need-to-try?source=rss",
+          "author": "Slogging (Slack Blogging)",
+          "description": "In this thread, our community shared a few clever financial hacks you need to start using today.",
+          "link": "https://hackernoon.com/clever-financial-hacks-you-need-to-try?source=rss",
+          "publishedOn": "2022-02-15T06:02:30.000Z",
+          "wordCount": 2038,
+          "title": "Clever Financial Hacks You Need to Try",
+          "imageUrl": "https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-qvd3g1d.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/what-are-the-best-video-game-movie-adaptations?source=rss",
+          "author": "Slogging (Slack Blogging)",
+          "description": "In this slogging thread, the gaming community discusses the best and worst video games movie adaptations, from the Tomb Raider to Detective Pikachu.",
+          "link": "https://hackernoon.com/what-are-the-best-video-game-movie-adaptations?source=rss",
+          "publishedOn": "2022-02-15T06:01:41.000Z",
+          "wordCount": 2321,
+          "title": "What are The Best Video Game Movie Adaptations?",
+          "imageUrl": "https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-wx93g9e.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/the-challenges-of-modern-observability?source=rss",
+          "author": "Karl Hughes",
+          "description": "It’s tough, impossible, to get a holistic view of your entire application when it’s running on 200 pods deployed to 12 nodes distributed across the world.",
+          "link": "https://hackernoon.com/the-challenges-of-modern-observability?source=rss",
+          "publishedOn": "2022-02-15T05:59:02.000Z",
+          "wordCount": 3191,
+          "title": "The Challenges of Modern Observability",
+          "imageUrl": "https://cdn.hackernoon.com/images/PkV2XzJhL4eISFLTiFkKC9zikEG2-2593g9q.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/crypto-is-down-but-not-out?source=rss",
+          "author": "BostonTrading.co",
+          "description": "Crypto & tech markets \"on sale\" says Cathie Wood of ARK Investments. First crypto fund directors buy more during the dip",
+          "link": "https://hackernoon.com/crypto-is-down-but-not-out?source=rss",
+          "publishedOn": "2022-02-15T05:29:46.000Z",
+          "wordCount": 2805,
+          "title": "Crypto is Down But Not Out",
+          "imageUrl": "https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-so93jim.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/it-market-in-2022-professions-industries-hiring?source=rss",
+          "author": "Tatiana Melnichuk",
+          "description": "Let's discuss the key trends of IT market in 2022: industries, professions and hiring.",
+          "link": "https://hackernoon.com/it-market-in-2022-professions-industries-hiring?source=rss",
+          "publishedOn": "2022-02-15T05:13:31.000Z",
+          "wordCount": 1977,
+          "title": "IT Market in 2022: Professions, Industries, Hiring",
+          "imageUrl": "https://cdn.hackernoon.com/images/16ChB2rveuMbaKoi890weUEWtCC3-5pa3hth.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/the-10-best-ps2-horror-games-of-all-time?source=rss",
+          "author": "Adrian Morales",
+          "description": "It’s time to dust off the old PS2 and revisit what I consider to be the 10 best PS2 horror games of all time.",
+          "link": "https://hackernoon.com/the-10-best-ps2-horror-games-of-all-time?source=rss",
+          "publishedOn": "2022-02-15T02:34:34.000Z",
+          "wordCount": 2735,
+          "title": "The 10 Best PS2 Horror Games of All Time",
+          "imageUrl": "https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-ah93h7o.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/want-to-hire-remote-developers-heres-how-to-do-it-successfully?source=rss",
+          "author": "Alex Valadzko",
+          "description": "How to hire remote developers: · Essential skills for remote work · How can we evaluate skills · What else to pay attention to",
+          "link": "https://hackernoon.com/want-to-hire-remote-developers-heres-how-to-do-it-successfully?source=rss",
+          "publishedOn": "2022-02-15T00:37:35.000Z",
+          "wordCount": 3451,
+          "title": "Want to Hire Remote Developers? Here's How to do it Successfully",
+          "imageUrl": "https://cdn.hackernoon.com/images/zkv4h2BkN9goXfqjBmedkZPZcED3-f6b3h62.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/the-5-best-trading-indicators-on-tradingview?source=rss",
+          "author": "GemsCode",
+          "description": "The 5 Best Trading Indicators on TradingView",
+          "link": "https://hackernoon.com/the-5-best-trading-indicators-on-tradingview?source=rss",
+          "publishedOn": "2022-02-15T00:34:07.000Z",
+          "wordCount": 1678,
+          "title": "The 5 Best Trading Indicators on TradingView",
+          "imageUrl": "https://cdn.hackernoon.com/images/MuxLpp0h31SJnNnfeZ3eHzJiR0X2-nvc2i2x.jpeg"
+        },
         {
           "id": "https://hackernoon.com/how-i-made-a-fortune-from-the-2020-bear-market?source=rss",
           "author": "Ben Knaus",
@@ -24919,6 +25199,28 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=148994",
+          "author": "ACMer",
+          "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms The Microbit is a little device invented by BBC. This chip has 25 pixels (screen – output), 2 buttons (A and B) and a few...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-introduction-to-microbit-programming-in-python/",
+          "publishedOn": "2022-02-15T21:43:59.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Introduction to Microbit Programming in Python",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://helloacm.com/?p=148972",
+          "author": "ACMer",
+          "description": "Got a email from Google Adsense with title:  Compliance with Google’s EU User Consent Policy Scary? no need to feel worried. It is actually very easy to fix this (to comply with GDPR in Adsense). On...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/how-to-comply-with-gdpr-in-adsense/",
+          "publishedOn": "2022-02-15T16:59:13.000Z",
+          "wordCount": null,
+          "title": "How to Comply with GDPR in Adsense?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://helloacm.com/?p=148957",
           "author": "ACMer",
           "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms BASH provides the command line interface (as compared to GUI) to control the computer. We have learned the following commands...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -26037,6 +26339,76 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=523279",
+          "author": "Kristina Panos",
+          "description": "Maybe it’s the humidity, maybe it’s the cold weather. Something is making [Laura Kampf]’s nice fabric-backed sandpaper curl up into scrolls the second it comes out of the package. So …read more",
+          "link": "https://hackaday.com/2022/02/15/anti-curl-sandpaper-storage-is-impressive/",
+          "publishedOn": "2022-02-16T00:00:07.000Z",
+          "wordCount": 1307,
+          "title": "Anti-Curl Sandpaper Storage Is Impressive",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/sandpaper-storage-800.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=523231",
+          "author": "Tom Nardi",
+          "description": "It used to be that to play a console game, you just had to plug in a cartridge or put a CD/DVD in the optical drive. But these days, with …read more",
+          "link": "https://hackaday.com/2022/02/15/ps2-memory-card-iso-loader-offers-classic-gaming-bliss/",
+          "publishedOn": "2022-02-15T21:00:54.000Z",
+          "wordCount": 1567,
+          "title": "PS2 Memory Card ISO Loader Offers Classic Gaming Bliss",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/MC2SIO_feat.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=523285",
+          "author": "Dan Maloney",
+          "description": "There’s a fine line between simple feature creep and going over the top when it comes to project design. It’s hard to say exactly where that line is, but we’re …read more",
+          "link": "https://hackaday.com/2022/02/15/filament-dry-box-design-goes-way-over-the-top/",
+          "publishedOn": "2022-02-15T19:30:50.000Z",
+          "wordCount": 1993,
+          "title": "Filament Dry Box Design Goes Way Over the Top",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/dry-box-1.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=517063",
+          "author": "Kristina Panos",
+          "description": "Though some of us are heavily assisted by smart phone apps and delivery, humans don’t need GPS to find food. We know where the fridge is. The grocery store. The …read more",
+          "link": "https://hackaday.com/2022/02/15/so-long-said-all-the-tank-driving-fish/",
+          "publishedOn": "2022-02-15T18:00:51.000Z",
+          "wordCount": 1566,
+          "title": "“So Long,” Said All the Tank-Driving Fish",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/goldfish-driving-tanks-800.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=523222",
+          "author": "Kristina Panos",
+          "description": "[Taylor] wanted to join the cool kids club and build a macropad for CAD work and video editing, but didn’t want to do it the traditional way with an Arduino. …read more",
+          "link": "https://hackaday.com/2022/02/15/dead-mouse-reincarnated-as-macropad/",
+          "publishedOn": "2022-02-15T16:30:04.000Z",
+          "wordCount": 1192,
+          "title": "Dead Mouse Reincarnated As Macropad",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/mouse-macropad-800.jpeg"
+        },
+        {
+          "id": "https://hackaday.com/?p=522134",
+          "author": "Dan Maloney",
+          "description": "For big-ticket purchases, I tend to do a lot of research before I open my wallet. I like to at least have the illusion that when I send my money …read more",
+          "link": "https://hackaday.com/2022/02/15/first-days-with-a-new-microscope/",
+          "publishedOn": "2022-02-15T15:00:32.000Z",
+          "wordCount": 4137,
+          "title": "First Days With a New Microscope",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/Microscope.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=523233",
+          "author": "Robin Kearey",
+          "description": "Although powerful design software and cheap manufacturing services have made rolling your own PCBs easier than ever, there are some situations where a piece of FR-4 just doesn’t cut it: …read more",
+          "link": "https://hackaday.com/2022/02/15/print-a-sketch-turns-any-surface-into-a-printed-circuit-board/",
+          "publishedOn": "2022-02-15T12:00:32.000Z",
+          "wordCount": 1948,
+          "title": "Print-a-Sketch Turns Any Surface Into a Printed Circuit Board",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/Print-a-Sketch.png"
+        },
         {
           "id": "https://hackaday.com/?p=523237",
           "author": "Al Williams",
@@ -33907,6 +34279,101 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "8D59E519-2EA1-4B91-AAE660AAD992B83A",
+          "author": "Robin G. Nelson",
+          "description": "Humans evolved to be interdependent, not self-sufficient\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-a-virus-exposed-the-myth-of-rugged-individualism/",
+          "publishedOn": "2022-02-15T20:00:00.000Z",
+          "wordCount": null,
+          "title": "How a Virus Exposed the Myth of Rugged Individualism",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "4FCC7512-939C-4376-BCC1CA1D729D34FF",
+          "author": "Chelsea Harvey, E&E News",
+          "description": "An exceptionally dry year in 2021 pushed the 22-year-long drought to the top of the record books\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/western-megadrought-is-the-worst-in-1-200-years/",
+          "publishedOn": "2022-02-15T19:30:00.000Z",
+          "wordCount": null,
+          "title": "Western 'Megadrought' Is the Worst in 1,200 Years",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "B97081CD-5F15-4A7A-A1FC6C08BB4E7405",
+          "author": "Tanya Lewis, Josh Fischman, Jeffery DelViscio",
+          "description": "Today we bring you a new episode in our podcast series COVID, Quickly. Every two weeks, Scientific American’s senior health editors Tanya Lewis and Josh Fischman catch you up on the...\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/podcast/episode/tracking-outbreaks-through-sewers-and-kids-vaccines-on-hold-again-covid-quickly-episode-24/",
+          "publishedOn": "2022-02-15T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Tracking Outbreaks Through Sewers, and Kids' Vaccines on Hold Again | COVID Quickly, Episode 24",
+          "itunes": {
+            "duration": "06:03"
+          },
+          "enclosure": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=804BB37A-691E-42B5-B6DC58E810BB98A0",
+            "length": "8979123",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "912B5DB0-3793-4484-98FD1CD862BC8E85",
+          "author": "Jen Schwartz",
+          "description": "The pandemic didn’t bring us together, but it did show us what we need to change the most\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/introducing-21-ways-covid-changed-the-world/",
+          "publishedOn": "2022-02-15T18:00:00.000Z",
+          "wordCount": null,
+          "title": "Introducing 21 Ways COVID Changed the World",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "357E5884-7F8B-4613-A2A62F08A4744025",
+          "author": "Jack Tamisiea",
+          "description": "The composite organisms, formed from the symbiotic relationship between fungi and algae, are crucial members of myriad ecosystems\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/lichens-could-need-more-than-a-million-years-to-adapt-to-climate-change/",
+          "publishedOn": "2022-02-15T15:15:00.000Z",
+          "wordCount": null,
+          "title": "Lichens Could Need More than a Million Years to Adapt to Climate Change",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "DE36A845-03C2-45F9-A85F073F107C38AA",
+          "author": null,
+          "description": "Lessons from two years of emergency science, upheaval and loss\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/report/how-covid-changed-the-world/",
+          "publishedOn": "2022-02-15T14:00:00.000Z",
+          "wordCount": null,
+          "title": "How COVID Changed the World",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "FD4634FC-AABE-493B-A1B88B7731ACAF52",
+          "author": "Miguel Sena-Esteves, The Conversation US",
+          "description": "About 1 in 300 people in the general population carry the Tay-Sachs disease gene\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/first-gene-therapy-for-tay-sachs-disease-successfully-given-to-two-children/",
+          "publishedOn": "2022-02-15T13:00:00.000Z",
+          "wordCount": null,
+          "title": "First Gene Therapy for Tay-Sachs Disease Successfully Given to Two Children",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "CBB6C7AA-929A-4D89-B6E22EC06DFCE331",
+          "author": "Charles Schmidt",
+          "description": "Solutions to age-related vision problems now come in a bottle. How well do they work?\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/these-eye-drops-could-replace-your-reading-glasses/",
+          "publishedOn": "2022-02-15T11:45:00.000Z",
+          "wordCount": null,
+          "title": "These Eye Drops Could Replace Your Reading Glasses",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "4B4562BD-95E6-472F-A8ADD071B979BC04",
           "author": "Emily Willingham",
           "description": "Viewers struggle to distinguish images of sophisticated machine-generated faces from actual humans\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -40373,6 +40840,76 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=150031",
+          "author": "Mike Vizard",
+          "description": "Eric Greenwald, general counsel for Finite State, talks with Mike Vizard about how the executive order for securing software supply chains issued by president Biden will impact DevOps teams. The video is below, followed by a transcript of the conversation. Announcer: This is Digital Anarchist. Mike Vizard: Hey, guys. Thanks for the throw again. We’re […]\nThe post How the Cybersecurity EO Impacts DevOps Teams appeared first on DevOps.com.",
+          "link": "https://devops.com/how-the-cybersecurity-eo-impacts-devops-teams/",
+          "publishedOn": "2022-02-15T20:20:19.000Z",
+          "wordCount": 3442,
+          "title": "How the Cybersecurity EO Impacts DevOps Teams",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/08/government.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150025",
+          "author": "Charlene O'Hanlon",
+          "description": "Charlene O’Hanlon and Michael Davis, CRO at Rollbar, discuss findings from a recent developer survey exploring how devs feel about the return to the workplace. The video is below, followed by a transcript of the conversation. Announcer: This is Digital Anarchist. Charlene O’Hanlon: Hey, everybody. Welcome back to TechStrong TV. I’m Charlene O’Hanlon, and I’m […]\nThe post Will Devs Return to the Office? appeared first on DevOps.com.",
+          "link": "https://devops.com/will-devs-return-to-the-office/",
+          "publishedOn": "2022-02-15T20:09:22.000Z",
+          "wordCount": 2935,
+          "title": "Will Devs Return to the Office?",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/06/Working-with-SAFe.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=149972",
+          "author": "Alan Shimel",
+          "description": "Alan Shimel talks with Max Stoiber from GraphCDN, the CDN for GraphQL APIs. GraphCDN is now available to everyone with edge caching, query analytics, error tracking and protection from malicious queries for your GraphQL APIs. A video is below followed by a transcript of the conversation. Announcer: This is Digital Anarchist. Alan Shimel: Hey, everyone. […]\nThe post Graph CDN for GraphQL APIs appeared first on DevOps.com.",
+          "link": "https://devops.com/graph-cdn-for-graphql-apis/",
+          "publishedOn": "2022-02-15T19:30:16.000Z",
+          "wordCount": 2879,
+          "title": "Graph CDN for GraphQL APIs",
+          "imageUrl": "https://devops.com/wp-content/uploads/2021/03/APIs.jpeg"
+        },
+        {
+          "id": "https://devops.com/?p=150004",
+          "author": "Dan Kirsch",
+          "description": "Word on the street is that Cisco and Splunk are in discussions about a possible acquisition. Splunk, the technology monitoring, search and analytics company could be acquired by Cisco—originally a networking company but now a complex hardware and software conglomerate. Splunk has generated quite a reputation as a ‘dealer’ over the years. The company, much […]\nThe post Will Splunk be Gobbled up by Cisco? appeared first on DevOps.com.",
+          "link": "https://devops.com/will-splunk-be-gobbled-up-by-cisco/",
+          "publishedOn": "2022-02-15T14:18:05.000Z",
+          "wordCount": 1631,
+          "title": "Will Splunk be Gobbled up by Cisco?",
+          "imageUrl": "https://devops.com/wp-content/uploads/2022/02/Pocman.png"
+        },
+        {
+          "id": "https://devops.com/?p=149981",
+          "author": "Mike Vizard",
+          "description": "IBM this week revealed it has added the ability to set up testing environments on the IBM Cloud for z/OS mainframe applications. In addition, on March 15, IBM will make available an IBM Z and cloud modernization stack to make it simpler to modernize mainframe applications by adding application programming interfaces (APIs) using a cloud-native […]\nThe post IBM Shifts Mainframe App Testing to the Cloud appeared first on DevOps.com.",
+          "link": "https://devops.com/ibm-shifts-mainframe-app-testing-to-the-cloud/",
+          "publishedOn": "2022-02-15T11:47:42.000Z",
+          "wordCount": 1047,
+          "title": "IBM Shifts Mainframe App Testing to the Cloud",
+          "imageUrl": "https://devops.com/wp-content/uploads/2021/02/QA_-Embracing-the-Power-of-the-Mainframe-with-Deloitte.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=149860",
+          "author": "Matthew O'Riordan",
+          "description": "Millions of people around the world experienced a major disruption after an October 2021 outage saw Facebook, WhatsApp and Instagram go offline. A few days prior, the popular workplace collaboration platform, Slack, also went down for some users. And in the last few weeks of 2021, Amazon’s AWS caused considerable global chaos after significant networking […]\nThe post Dependability is Crucial for Real-Time Experiences appeared first on DevOps.com.",
+          "link": "https://devops.com/why-dependability-is-crucial-for-delivering-seamless-experiences-in-real-time/",
+          "publishedOn": "2022-02-15T07:30:35.000Z",
+          "wordCount": 1302,
+          "title": "Dependability is Crucial for Real-Time Experiences",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/08/Overheard-at-CloudBees-Connect-The-Reality-of-Delivering-Modern-Software.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=149947",
+          "author": "Harry Haramis",
+          "description": "Historically, DevOps and security have been diametrically opposed practices. DevOps wants to move fast and break things, or so they say, but security policies tend to slow things down. However, it has become clear that this school of thought has evolved, as both practices have something to learn from the other. Organizations have embraced a […]\nThe post How to Automate PKI for DevOps With Open Source Tools appeared first on DevOps.com.",
+          "link": "https://devops.com/how-to-automate-pki-for-devops-with-open-source-tools/",
+          "publishedOn": "2022-02-15T07:30:07.000Z",
+          "wordCount": 1173,
+          "title": "How to Automate PKI for DevOps With Open Source Tools",
+          "imageUrl": "https://devops.com/wp-content/uploads/2021/05/How-to-Bring-DevOps-and-Security-Teams-Closer-Together.jpg"
+        },
+        {
           "id": "https://devops.com/?p=149970",
           "author": "Charlene O'Hanlon",
           "description": "Charlene O’Hanlon and Scott Gnau from InterSystems talk about silos in organizations and how data fabric enables organizations to process, transform, secure and orchestrate data from disparate sources in real-time. The video is below followed by a transcript of the conversation. Announcer: This is Digital Anarchist. O’Hanlon: Hey, everybody, welcome back to Tech Strong TV. […]\nThe post Using Data Fabric for Real-Time Processing appeared first on DevOps.com.",
@@ -43383,6 +43920,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=112576",
+          "author": "Kelsey Houston-Edwards",
+          "description": "Two recent collaborations between mathematicians and DeepMind demonstrate the potential of machine learning to help researchers generate new mathematical conjectures.            \nThe post Machine Learning Becomes a Mathematical Collaborator first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/deepmind-machine-learning-becomes-a-mathematical-collaborator-20220215/",
+          "publishedOn": "2022-02-15T14:57:20.000Z",
+          "wordCount": 2533,
+          "title": "Machine Learning Becomes a Mathematical Collaborator",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/02/Deepmind_1200_Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=112573",
           "author": "Charlie Wood",
           "description": "The strong force holds protons and neutrons together, but the theory behind it is largely inscrutable. Two new approaches show how it works.            \nThe post The Mysterious Forces Inside the Nucleus Grow a Little Less Strange first appeared on Quanta Magazine",
@@ -44077,6 +44624,26 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66874",
+          "author": "Nathan Yau",
+          "description": "If you watched the men’s halfpipe in the Olympics, you were probably impressed…\nTags: Ayumu Hirano, composite, New York Times, Olympics, snowboarding",
+          "link": "https://flowingdata.com/2022/02/15/snowboarding-composite-photos/",
+          "publishedOn": "2022-02-15T11:41:44.000Z",
+          "wordCount": 286,
+          "title": "Snowboarding composite photos",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/02/Snowboarding-composite.png"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66869",
+          "author": "Nathan Yau",
+          "description": "To decide who’s doing best at the Olympics you have to define what…\nTags: Josh Katz, medal, Olympics, ranking, Upshot",
+          "link": "https://flowingdata.com/2022/02/15/weighted-olympic-medal-counts/",
+          "publishedOn": "2022-02-15T08:28:30.000Z",
+          "wordCount": 392,
+          "title": "Weighted Olympic medal counts",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/02/Olympic-medal-weights.png"
+        },
         {
           "id": "https://flowingdata.com/?p=66853",
           "author": "Nathan Yau",
