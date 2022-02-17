@@ -2,6 +2,7 @@ cacheUrl: https://vredchenko.github.io/osmoscraft_feed/cache.json
 sources:
   # Get new feature announcement via this feed:
   # - href: https://github.com/osmoscraft/osmosfeed/releases.atom
+  - href: https://julialang.org/feed.xml
   - href: https://goteleport.com/blog/index.xml
   - href: https://www.i-programmer.info/index.php?option=com_ninjarsssyndicator&feed_id=3&format=raw
   - href: https://atom.io/packages.atom
