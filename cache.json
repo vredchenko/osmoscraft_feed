@@ -6,6 +6,16 @@
       "siteUrl": "https://goteleport.com/blog/",
       "articles": [
         {
+          "id": "https://goteleport.com/blog/aaa-security-protcols-for-network-access/",
+          "author": null,
+          "description": "Authentication, authorization, and accounting, often called AAA or Triple-A, are sets of services and protocols that enable granular access control over computer networks. Before the popularity of mainstream HTTP-based authentication protocols such as OAuth and SAML, AAA protocols were the primary way to authenticate users or machines to network services. AAA protocols are still commonly found in corporate LAN and WAN networks, ISPs, cellular networks, and network devices such as firewalls, routers, and switches.\nAAA is an important topic in network access control, and this blog post will briefly explain the primary concepts and examples of AAA protocols. If you are new to access control concepts, our blog on authentication vs. authorization is the recommended place to start.\nWhat are AAA …",
+          "link": "https://goteleport.com/blog/aaa-security-protcols-for-network-access/",
+          "publishedOn": "2022-02-16T00:00:00.000Z",
+          "wordCount": 1582,
+          "title": "What Is AAA Security?",
+          "imageUrl": "https://goteleport.com/blog/images/2022/aaa@2x.png"
+        },
+        {
           "id": "https://goteleport.com/blog/authn-authz-tutorial-kubernetes/",
           "author": null,
           "description": "Kubernetes is an API-centric orchestration platform. Every request, from the cluster components to users interacting with the system, has to go through the API server. The API server is a component in the control plane, and acts as a gatekeeper for the operation requests originating from both inside and outside of the cluster.\nThese interactions are based on a client-server model with a REST API that exposes various APIs and endpoints to fulfill various CRUD (create, read, update, and delete) operations. Clients can range from software developers and DevOps engineers using the kubectl CLI to cluster nodes. Other control plane components, such as the scheduler and the controllers, are always communicating with the API server, and function as clients when requests are made.\nThe API server is…",
@@ -797,6 +807,36 @@
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
         {
+          "id": "http://www.i-programmer.info/book-watch-archive/15222-object-oriented-python-master-oop-by-building-games-and-guis-no-starch-press.html",
+          "author": null,
+          "description": "This is a guide to mastering object-oriented programming from the ground up. Irv Kalb covers the basics of building classes and creating objects, and puts theory into practice using the pygame package with clear examples that help visualize the object-oriented style. The book explores the key concepts of object-oriented programming — encapsulation, polymorphism, and inheritance — and shows best practices for doing so. Finally, you’ll bring it all together by building a complex video game, complete with full animations and sounds.\n\r\n<ASIN:1718502060>\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/book-watch-archive/15222-object-oriented-python-master-oop-by-building-games-and-guis-no-starch-press.html",
+          "publishedOn": "2022-02-16T18:09:09.000Z",
+          "wordCount": 489,
+          "title": "Object-Oriented Python: Master OOP by Building Games and GUIs (No Starch Press)",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/news/126-os/15221-google-wants-you-to-convert-your-old-machine-into-a-chromebook.html",
+          "author": null,
+          "description": "ChromeOS Flex is a new implementation from Google that runs on x86 hardware and you can try it out for free. Converting old hardware into a modern Chromebook sounds attractive, so should you be tempted?\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/126-os/15221-google-wants-you-to-convert-your-old-machine-into-a-chromebook.html",
+          "publishedOn": "2022-02-16T01:52:00.000Z",
+          "wordCount": 1221,
+          "title": "Google Wants You To Convert Your Old Machine Into A Chromebook",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/news/98-languages/15219-rust-use-continues-to-increase.html",
+          "author": null,
+          "description": "The 2021 Rust Survey, the results of which have just come out, show not only increased use of the language for work purposes but also that developers are gaining confidence for using it for production-ready code.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/98-languages/15219-rust-use-continues-to-increase.html",
+          "publishedOn": "2022-02-16T00:00:00.000Z",
+          "wordCount": 907,
+          "title": "Rust Use Continues To Increase",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.i-programmer.info/news/98-languages/15218-ballerina-swan-lake-released.html",
           "author": null,
           "description": "The latest version of the Ballerina language has been released. The \"Swan Lake\" version aims to make it simpler to build and deploy cloud-native applications.\n\r\n\nRead more...",
@@ -814,6 +854,16 @@
           "publishedOn": "2022-02-15T15:15:24.000Z",
           "wordCount": 650,
           "title": "GitHub Supports Mermaid For Creating Diagrams",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/bookreviews/29-javascript/15220-the-joy-of-javascript-.html",
+          "author": null,
+          "description": "Author: Luis Atencio\nPublisher: Manning\nDate: March 2021\nPages: 360\nISBN: 978-1617295867\nPrint: 1617295868\nAudience: JavaScript developers\nRating: 4\nReviewer: Ian Elliot\nJoy you say!\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/bookreviews/29-javascript/15220-the-joy-of-javascript-.html",
+          "publishedOn": "2022-02-15T00:00:00.000Z",
+          "wordCount": 948,
+          "title": "The Joy of JavaScript",
           "imageUrl": null
         },
         {
@@ -1449,6 +1499,16 @@
       "feedUrl": "https://atom.io/packages.atom",
       "siteUrl": "https://atom.io",
       "articles": [
+        {
+          "id": "https://atom.io/packages/monaco",
+          "author": null,
+          "description": "Monaco\nDo you open VSCode to edit a specific file and nothing else?\nNow you can edit your files with Monaco without leaving Atom.\nThere are three ways you can use this package:\nFrom an Atom's Text Editor\nRight-click on one of the Atom's editors and select \"To Monaco Editor\"\nFrom file extension\nIn this package's configuration list the extensions you want to edit using Monaco.\neg:\n.js, .php, .html, .css\nFrom Tree View\nRight-click on a file and select \"Open with Monaco\"\nNote: If you already have that file opened atom will try to reuse that editor. Use the first option instead.\nTODO LIST\n[x] Go to line\n[x] Language Selector\n[x] Theme selector\n[ ] Take config from atom\n[ ] Restore state\n[ ] Configure Minimap\n[ ] Git Integration\nDev requirements\nWebpack",
+          "link": "https://atom.io/packages/monaco",
+          "publishedOn": "2022-02-16T18:39:01.000Z",
+          "wordCount": 202,
+          "title": "monaco",
+          "imageUrl": "https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif"
+        },
         {
           "id": "https://atom.io/packages/kotlin-lsp-adapter",
           "author": null,
@@ -2115,6 +2175,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=363541",
+          "author": "Mike Herchel",
+          "description": "Within Drupal 10 core, we’re implementing a new auto-filling CSS Grid technique that I think is cool enough to share with the world.\nThe requirements are:\nThe user specifies a maximum number of columns. This is the auto-filling grid’s “natural” \n…\nAn Auto-Filling CSS Grid With Max Columns of a Minimum Size originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/an-auto-filling-css-grid-with-max-columns/",
+          "publishedOn": "2022-02-16T15:06:57.000Z",
+          "wordCount": 1201,
+          "title": "An Auto-Filling CSS Grid With Max Columns of a Minimum Size",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363541"
+        },
         {
           "id": "https://css-tricks.com/?p=363604",
           "author": "Chris Coyier",
@@ -4368,6 +4438,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "620a157456125b0677c64db4",
+          "author": "Dionysia Lemonaki",
+          "description": "Remote work is becoming more common and more popular, as an increasing number of people want to have a flexible working schedule. There is no better time than now to find a remote job and to work from home. There are plenty of roles that can be done remotely, especially",
+          "link": "https://www.freecodecamp.org/news/remote-work-how-to-find-remote-working-jobs-from-home/",
+          "publishedOn": "2022-02-16T22:34:11.000Z",
+          "wordCount": 4021,
+          "title": "Remote Work – How to Find Remote Working Jobs from Home",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/kornel-mahl-mV4GwTDD8Tw-unsplash.jpg"
+        },
+        {
+          "id": "620c966821bfb3068cf2938f",
+          "author": "Kolade Chris",
+          "description": "If you're a Python beginner, becoming familiar with all its various data types can be confusing at first. After all, there are a lot of them available to you in the language. In this article, I'm going to show you how to get the type of various data structures in",
+          "link": "https://www.freecodecamp.org/news/python-print-type-of-variable-how-to-get-var-type/",
+          "publishedOn": "2022-02-16T18:16:37.000Z",
+          "wordCount": 739,
+          "title": "Python Print Type of Variable – How to Get Var Type",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/typeinpython.png"
+        },
+        {
+          "id": "62091cf856125b0677c64cae",
+          "author": "Zaira Hira",
+          "description": "Linux is a widely used operating system and is quite important for developers.  There are times when you might need to have both operating systems – Windows and Linux – either for work, study, or even just experimentation.  Luckily, Windows provides a convenient utility for using Linux along",
+          "link": "https://www.freecodecamp.org/news/how-to-install-wsl2-windows-subsystem-for-linux-2-on-windows-10/",
+          "publishedOn": "2022-02-16T17:30:44.000Z",
+          "wordCount": 817,
+          "title": "How to Install WSL2 (Windows Subsystem for Linux 2) on Windows 10",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/install-WSL2--2-.png"
+        },
+        {
+          "id": "620bf77e21bfb3068cf28f5c",
+          "author": "Zaira Hira",
+          "description": "Linux CLI is a powerful tool that can help you accomplish complex tasks.  One of the common operations you'll need to perform is to delete things. Just as like creating files and folders, deleting them from the Linux command line is something you'll do often.  In this post,",
+          "link": "https://www.freecodecamp.org/news/remove-directory-in-linux-how-to-delete-a-folder-from-the-command-line/",
+          "publishedOn": "2022-02-16T15:57:04.000Z",
+          "wordCount": 779,
+          "title": "Remove Directory in Linux – How to Delete a Folder from the Command Line",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/Copy-of-Cast-a-Function-in-SQL---Convert-Char-to-Int-SQL-Server-Example.png"
+        },
+        {
+          "id": "620be19f21bfb3068cf28dfa",
+          "author": "Reed Barger",
+          "description": "Here are three custom hooks that will add essential functionality to your React projects in just a line of code. React hooks are powerful for their ability to give us reusable stateful features that are separate from our components. I’ve put together a short list of three custom React hooks",
+          "link": "https://www.freecodecamp.org/news/react-hooks-your-next-project-needs/",
+          "publishedOn": "2022-02-16T15:39:06.000Z",
+          "wordCount": 1330,
+          "title": "3 React Hooks Your Next Project Needs",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/3-react-hooks-your-next-project-needs.png"
+        },
+        {
+          "id": "620510f056125b0677c63a0f",
+          "author": "Md. Fahim Bin Amin",
+          "description": "If you are using the Linux operating system on your desktop, you might have faced some audio issues before. Like when you're trying to get sound in your speakers when your headphones are connected to the audio jack.  If so, no worries! It is a pretty common issue that",
+          "link": "https://www.freecodecamp.org/news/how-to-fix-broken-audio-in-headphones-and-speakers-linux/",
+          "publishedOn": "2022-02-16T15:27:21.000Z",
+          "wordCount": 821,
+          "title": "How to Fix Broken Audio in Headphones and Speakers in Linux",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/Screenshot--10-.jpg"
+        },
+        {
+          "id": "61fb236ef2ed6b06db5ab8eb",
+          "author": "Seth Goldin",
+          "description": "These days, there are thousands of publicly available college courses on the web. You can audit those courses even if you're not enrolled in a program. In our video course [https://youtu.be/QeRSEoqpKVI], Sam Crombie and I explore what auditing is and why you should consider trying it.  We discuss how",
+          "link": "https://www.freecodecamp.org/news/how-to-audit-a-class-university-course/",
+          "publishedOn": "2022-02-16T14:13:29.000Z",
+          "wordCount": 2320,
+          "title": "How to Audit a Class Online – Learn from Free University Courses",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/allaboutauditing.png"
+        },
+        {
+          "id": "5f9cb349740569d1a4cac7db",
+          "author": "Yangshun Tay",
+          "description": "Despite scoring decent grades in both my CS101 Algorithm class and my Data Structures class in university, I shudder at the thought of going through a coding interview that focuses on algorithms. Hence I spent the last three months figuring out how to improve my coding interview skills and eventually",
+          "link": "https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/",
+          "publishedOn": "2022-02-16T13:07:00.000Z",
+          "wordCount": 7123,
+          "title": "The 30-minute guide to rocking your next coding interview",
+          "imageUrl": "https://cdn-media-1.freecodecamp.org/images/1*Qf9fEs5XdOEQiWX3R6R6ww.jpeg"
+        },
+        {
+          "id": "620c202c21bfb3068cf290cb",
+          "author": "Beau Carnes",
+          "description": "Swift is one of the main languages used for iOS development. What better way to learn how to build an iOS app than to recreate a popular app? We just published a 5-hour course on the freeCodeCamp.org YouTube channel that will teach you how to use Swift 5, UIKit, and",
+          "link": "https://www.freecodecamp.org/news/learn-ios-development-by-building-a-netflix-clone/",
+          "publishedOn": "2022-02-15T22:02:32.000Z",
+          "wordCount": 525,
+          "title": "Learn iOS Development by Building a Netflix Clone",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/maxresdefault-1.jpeg"
+        },
         {
           "id": "620abe4a21bfb3068cf28888",
           "author": "Kolade Chris",
@@ -8134,6 +8294,206 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/googling-is-a-skill-4-advanced-search-tips-to-ask-google-the-right-way?source=rss",
+          "author": "Abraham Israel",
+          "description": "Why don't you just ask Google?",
+          "link": "https://hackernoon.com/googling-is-a-skill-4-advanced-search-tips-to-ask-google-the-right-way?source=rss",
+          "publishedOn": "2022-02-16T10:38:56.000Z",
+          "wordCount": 1517,
+          "title": "Googling Is a Skill: 4 Advanced Search Tips to Ask Google the Right Way",
+          "imageUrl": "https://cdn.hackernoon.com/images/9S1vwdm8BSSIM68NViog8lnaQPi2-2c92g0o.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/you-cannot-learn-coding-without-problem-solving-skills?source=rss",
+          "author": "Learnly",
+          "description": "In a sea of options available to learn computer science, Learnly might be the right fit for you.",
+          "link": "https://hackernoon.com/you-cannot-learn-coding-without-problem-solving-skills?source=rss",
+          "publishedOn": "2022-02-16T10:08:36.000Z",
+          "wordCount": 1870,
+          "title": "You Cannot Learn Coding without Problem-Solving Skills",
+          "imageUrl": "https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-t093zlm.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/trust-isnt-just-black-and-white?source=rss",
+          "author": "DoubleX",
+          "description": "Hypothetical thinking can help you trust in a more flexible, mature, and proactive manner.",
+          "link": "https://hackernoon.com/trust-isnt-just-black-and-white?source=rss",
+          "publishedOn": "2022-02-16T09:37:51.000Z",
+          "wordCount": 3638,
+          "title": "Trust Isn’t Just Black and White",
+          "imageUrl": "https://cdn.hackernoon.com/images/hQ098u52DzPm2Y4UITQcQXtLRAk2-1xa3iwt.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/6-best-websites-to-learn-blockchain-online?source=rss",
+          "author": "Javin Paul",
+          "description": "Here is a list of the best websites and online learning platforms to learn Blockchain.",
+          "link": "https://hackernoon.com/6-best-websites-to-learn-blockchain-online?source=rss",
+          "publishedOn": "2022-02-16T09:31:37.000Z",
+          "wordCount": 2765,
+          "title": "6 Best Websites to Learn Blockchain Online",
+          "imageUrl": "https://cdn.hackernoon.com/images/MQzhgEvAeOXyPo3IjFRz4IZU3K83-3h93hqm.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/what-its-like-to-code-in-a-developing-country?source=rss",
+          "author": "Lisandro Seia",
+          "description": "A simple and short story about the things I had in mind before and after starting with programming",
+          "link": "https://hackernoon.com/what-its-like-to-code-in-a-developing-country?source=rss",
+          "publishedOn": "2022-02-16T09:25:16.000Z",
+          "wordCount": 1728,
+          "title": "What it's Like to Code in a Developing Country",
+          "imageUrl": "https://cdn.hackernoon.com/images/UoIIytu6XffH3BSmmhTj6k6C0EI3-0792m9d.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/the-case-for-nft-based-fractional-ownership-of-domain-names?source=rss",
+          "author": "Cloudname",
+          "description": "Building a valuable domain portfolio can be challenging primarily because most of the premium names have been taken. Fractionalization of domains can help",
+          "link": "https://hackernoon.com/the-case-for-nft-based-fractional-ownership-of-domain-names?source=rss",
+          "publishedOn": "2022-02-16T09:08:18.000Z",
+          "wordCount": 2613,
+          "title": "The Case for NFT-Based Fractional Ownership of Domain Names",
+          "imageUrl": "https://cdn.hackernoon.com/images/T5jimb4djoYbmwo3PfJuT3baRr72-te93gmv.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-implement-heap-in-data-structure?source=rss",
+          "author": "Sandeep Mishra",
+          "description": "Heap data structure is a balanced binary tree data structure where the child node is placed in comparison to the root node and then arranged accordingly.",
+          "link": "https://hackernoon.com/how-to-implement-heap-in-data-structure?source=rss",
+          "publishedOn": "2022-02-16T09:04:12.000Z",
+          "wordCount": 2445,
+          "title": "How to Implement Heap in Data Structure",
+          "imageUrl": "https://cdn.hackernoon.com/images/V4OORvpWBMfsdPL4Cd7eTIK2TqW2-0t93hdc.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/rethinking-it-recruitment-the-traditional-ways-of-assessing-candidates-have-got-to-go?source=rss",
+          "author": "Pavel Podkorytov",
+          "description": "The hiring process has been changing. For a long time, the companies decided which talents fit them most — the time has come to let the talents choose the best",
+          "link": "https://hackernoon.com/rethinking-it-recruitment-the-traditional-ways-of-assessing-candidates-have-got-to-go?source=rss",
+          "publishedOn": "2022-02-16T08:51:53.000Z",
+          "wordCount": 2667,
+          "title": "Rethinking IT Recruitment: The Traditional Ways of Assessing Candidates Have Got to Go",
+          "imageUrl": "https://cdn.hackernoon.com/images/h5bXQFuvBeZqGvRadvoz59vbHKF3-sia3hl4.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/the-top-100-trending-startup-cities?source=rss",
+          "author": "David Smooke",
+          "description": "HackerNoon open sources original data about where startups are trending relevant to population in cities all around the world.",
+          "link": "https://hackernoon.com/the-top-100-trending-startup-cities?source=rss",
+          "publishedOn": "2022-02-16T08:34:54.000Z",
+          "wordCount": 1907,
+          "title": "The Top 100 Trending Startup Cities",
+          "imageUrl": "https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-5p93hn9.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/an-introduction-to-web3-ownership-and-interoperability?source=rss",
+          "author": "Thumbs Up Finance",
+          "description": "Web3 is just the continued evolution of the internet. It takes the ideals of Web1, the creative and social elements of Web2, and adds decentralization.",
+          "link": "https://hackernoon.com/an-introduction-to-web3-ownership-and-interoperability?source=rss",
+          "publishedOn": "2022-02-16T08:26:12.000Z",
+          "wordCount": 2668,
+          "title": "An Introduction to Web3: Ownership and Interoperability",
+          "imageUrl": "https://cdn.hackernoon.com/images/jAyMkBwt5af500yRECD62UXJsm63-3j93kgd.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-launchpads-are-helping-near-protocol-grow-exponentially?source=rss",
+          "author": "Ricky Rathore",
+          "description": "GONEAR is a launchpad and Initial NFT Offering (INO) platform built on the NEAR protocol.",
+          "link": "https://hackernoon.com/how-launchpads-are-helping-near-protocol-grow-exponentially?source=rss",
+          "publishedOn": "2022-02-16T07:55:02.000Z",
+          "wordCount": 2001,
+          "title": "How Launchpads are Helping NEAR Protocol Grow Exponentially",
+          "imageUrl": "https://cdn.hackernoon.com/images/KTsAalOsFZcNRUZ8VTJlXGrvLZo1-0a93gpl.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/shorthand-comparisons-using-ternary-operators-in-php?source=rss",
+          "author": "Clint Veasey",
+          "description": "A short introduction to Inline Conditionals (or Ternary Operators) in PHP. They are inline conditionals used instead of traditional conditional statements.",
+          "link": "https://hackernoon.com/shorthand-comparisons-using-ternary-operators-in-php?source=rss",
+          "publishedOn": "2022-02-16T07:51:14.000Z",
+          "wordCount": 1418,
+          "title": "Shorthand Comparisons using Ternary Operators in PHP",
+          "imageUrl": "https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-ama3gdz.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/an-intro-to-ai-powered-product-development?source=rss",
+          "author": "Fortuitapps",
+          "description": "The global product development services industry was close to $8 billion in 2020.",
+          "link": "https://hackernoon.com/an-intro-to-ai-powered-product-development?source=rss",
+          "publishedOn": "2022-02-16T07:46:16.000Z",
+          "wordCount": 2725,
+          "title": "An Intro to AI Powered Product Development",
+          "imageUrl": "https://cdn.hackernoon.com/images/OMYpwhOzp5TsNQsapMXXjjsBAlG2-tif3hpl.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/to-dox-or-not-dox-is-anonymity-in-crypto-a-farce?source=rss",
+          "author": "Samuel Ikperu",
+          "description": "Crypto enthusiasts attribute different meanings to decentralization and anonymity. This article examines these two pillars and the various arguments around them",
+          "link": "https://hackernoon.com/to-dox-or-not-dox-is-anonymity-in-crypto-a-farce?source=rss",
+          "publishedOn": "2022-02-16T07:39:23.000Z",
+          "wordCount": 4632,
+          "title": "To Dox or Not Dox: Is Anonymity in Crypto a Farce?",
+          "imageUrl": "https://cdn.hackernoon.com/images/HSYWUu1xxNZ7b9kCEWk93mxei5E3-af93dgh.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/building-a-shared-smartnode-service-for-the-raptoreum-network?source=rss",
+          "author": "Crypto Fireside",
+          "description": "In Crypto Fireside #22 we talk with Michael Rainwater from iNodez about his shared smartnode hosting platform - built for the Raptoreum network...",
+          "link": "https://hackernoon.com/building-a-shared-smartnode-service-for-the-raptoreum-network?source=rss",
+          "publishedOn": "2022-02-16T07:25:22.000Z",
+          "wordCount": 7734,
+          "title": "Building a Shared Smartnode Service for the Raptoreum Network",
+          "imageUrl": "https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-vb93jai.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-google-amp-accelerated-mobile-pages-and-do-you-need-it-for-seo?source=rss",
+          "author": "Taiwo Sotikare",
+          "description": "Your website can still rank very first on Google SERP even without AMP. Accelerated Mobile Pages is not a ranking factor on Google and other search engines...",
+          "link": "https://hackernoon.com/what-is-google-amp-accelerated-mobile-pages-and-do-you-need-it-for-seo?source=rss",
+          "publishedOn": "2022-02-16T07:22:08.000Z",
+          "wordCount": 2214,
+          "title": "What is Google AMP (Accelerated Mobile Pages) and Do You Need it for SEO?",
+          "imageUrl": "https://cdn.hackernoon.com/images/5oBTEH5hn9MHMoz41E3LIHOJx8i1-g0a3hxf.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/why-immersive-engagement-is-the-future-of-events?source=rss",
+          "author": "sarahevans",
+          "description": "Hybrid events are predicted to dominate 2022.",
+          "link": "https://hackernoon.com/why-immersive-engagement-is-the-future-of-events?source=rss",
+          "publishedOn": "2022-02-16T07:07:11.000Z",
+          "wordCount": 1599,
+          "title": "Why Immersive Engagement is the Future of Events",
+          "imageUrl": "https://cdn.hackernoon.com/images/nyJ3v3rRv5NGM0ueVYbwsOuSUNr1-6593glf.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/verified-writers-vs-gpt3-combating-disinformation-with-the-rise-of-robots?source=rss",
+          "author": "Verified Writers",
+          "description": "Most of us have heard about the Cambridge Analytica Facebook scandal. We know that content on Facebook was combined with big data analytics to unethically manipulate users politically.",
+          "link": "https://hackernoon.com/verified-writers-vs-gpt3-combating-disinformation-with-the-rise-of-robots?source=rss",
+          "publishedOn": "2022-02-16T05:11:37.000Z",
+          "wordCount": 2419,
+          "title": "Verified Writers vs. GPT3: Combating Disinformation with the Rise of Robots",
+          "imageUrl": "https://cdn.hackernoon.com/images/9EKFM2vyVXhadYdj7fzZslORW8J3-0693ge2.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/a-hyper-connected-world?source=rss",
+          "author": "Roxana Murariu",
+          "description": "Sometimes, just sometimes, our hyper-connecting mind will lead to astounding discoveries that will forever alter the way we live.",
+          "link": "https://hackernoon.com/a-hyper-connected-world?source=rss",
+          "publishedOn": "2022-02-16T00:17:26.000Z",
+          "wordCount": 2390,
+          "title": "A Hyper-Connected World",
+          "imageUrl": "https://cdn.hackernoon.com/images/h5C8TqlBPZgAJEaRCkDduZqoVSp1-v7a3hen.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/mistakes-to-avoid-with-kali-linux?source=rss",
+          "author": "jmau111",
+          "description": "Kali Linux is a comprehensive platform for various security tasks.",
+          "link": "https://hackernoon.com/mistakes-to-avoid-with-kali-linux?source=rss",
+          "publishedOn": "2022-02-16T00:16:53.000Z",
+          "wordCount": 1702,
+          "title": "Mistakes to Avoid with Kali Linux",
+          "imageUrl": "https://cdn.hackernoon.com/images/d9rwN2Y6S7VxljPZiVNIIBf1ZG62-9eb2f1i.jpeg"
+        },
         {
           "id": "https://hackernoon.com/how-to-be-a-vulnerable-entrepreneur-kara-goldins-success-story?source=rss",
           "author": "Scott D. Clary",
@@ -26340,6 +26700,76 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
+          "id": "https://hackaday.com/?p=523342",
+          "author": "Lewin Day",
+          "description": "[Tim] recently found himself tinkering with a cheap string of LEDs. Far from an advanced, IC-controlled addressable set, these were merely a string with LEDs of four colors that could …read more",
+          "link": "https://hackaday.com/2022/02/16/weird-phosphor-conversion-leds-found-in-cheap-led-string/",
+          "publishedOn": "2022-02-17T00:00:28.000Z",
+          "wordCount": 1290,
+          "title": "Weird Phosphor Conversion LEDs Found In Cheap LED String",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/phosphor_uv-1-e1644903365230.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=523263",
+          "author": "Tom Nardi",
+          "description": "The James Webb Space Telescope (JWST) has become something of a celebrity here on Earth, and rightfully so. After decades of development, the $10 billion deep space observatory promises to …read more",
+          "link": "https://hackaday.com/2022/02/16/put-a-little-piece-of-the-james-webb-on-your-wall/",
+          "publishedOn": "2022-02-16T21:00:23.000Z",
+          "wordCount": 1481,
+          "title": "Put a Little Piece of the James Webb on your Wall",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/jwstwall_feat.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=523337",
+          "author": "Lewin Day",
+          "description": "If you’ve had any dealings with Cat 5 and Cat 6 cable, and let’s be honest, who hasn’t, you’ve probably wrestled with lengths anywhere from 1 meter to 25 meters …read more",
+          "link": "https://hackaday.com/2022/02/16/tiny-ethernet-cable-arms-race-spawns-from-reddit-discussion/",
+          "publishedOn": "2022-02-16T19:30:28.000Z",
+          "wordCount": 2291,
+          "title": "Tiny Ethernet Cable Arms Race Spawns From Reddit Discussion",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/5sv1ho7shoh81.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=519659",
+          "author": "Al Williams",
+          "description": "Unix and, by extension, Linux, has a mantra to make everything possible look like a file. Files, of course, look like files. But also devices, network sockets, and even system …read more",
+          "link": "https://hackaday.com/2022/02/16/linux-fu-fusing-hackaday/",
+          "publishedOn": "2022-02-16T18:00:11.000Z",
+          "wordCount": 2642,
+          "title": "Linux Fu: Fusing Hackaday",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2020/05/LinuxFu.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=523400",
+          "author": "Ryan Flowers",
+          "description": "Batteries are amazing. Batteries are horrible. Batteries are a necessary evil in today’s world of portable everything. If you’re reading this sentence, even if it’s not on a mobile device, …read more",
+          "link": "https://hackaday.com/2022/02/16/when-battery-rebuilds-go-wrong-understanding-bmss-spot-welders-and-safety/",
+          "publishedOn": "2022-02-16T16:30:27.000Z",
+          "wordCount": 3209,
+          "title": "When Battery Rebuilds Go Wrong: Understanding BMSs, Spot Welders, and Safety",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/linus-battery-featured.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=523224",
+          "author": "Jenny List",
+          "description": "For British teenagers in the 1980s, the delights of 8-bit computers such as the Sinclair Spectrum, Commodore 64, or BBC Micro were firmly restricted to the offline arena. We would …read more",
+          "link": "https://hackaday.com/2022/02/16/teardown-alcatel-telic-1-minitel-terminal/",
+          "publishedOn": "2022-02-16T15:00:50.000Z",
+          "wordCount": 2944,
+          "title": "Teardown: Alcatel Telic 1 Minitel Terminal",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/telic-1-featured.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=523347",
+          "author": "Lewin Day",
+          "description": "The classic iPod was the MP3 player to beat back in the day, loaded with storage and with its characteristic click-wheel interface. [Ellie] had an iPod Video laying around, one …read more",
+          "link": "https://hackaday.com/2022/02/16/classic-ipods-are-super-upgradeable-in-2022/",
+          "publishedOn": "2022-02-16T12:00:08.000Z",
+          "wordCount": 1866,
+          "title": "Classic iPods Are Super Upgradeable in 2022",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/ipod_cover-1-e1644900950374.jpg"
+        },
+        {
           "id": "https://hackaday.com/?p=523279",
           "author": "Kristina Panos",
           "description": "Maybe it’s the humidity, maybe it’s the cold weather. Something is making [Laura Kampf]’s nice fabric-backed sandpaper curl up into scrolls the second it comes out of the package. So …read more",
@@ -34279,6 +34709,83 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "FE09F4C5-188C-4157-8765E63810C643CD",
+          "author": "Arianna Skibell, E&E News",
+          "description": "The move would reverberate around the country because more than a dozen other states follow California’s regulations\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/epa-is-preparing-to-reinstate-californias-authority-to-set-more-stringent-car-emissions-rules1/",
+          "publishedOn": "2022-02-16T19:00:00.000Z",
+          "wordCount": null,
+          "title": "EPA Is Preparing to Reinstate California's Authority to Set More Stringent Car Emissions Rules",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "9FF653F0-B4A4-4206-A77A25C479042E5A",
+          "author": "Meghan O'Rourke",
+          "description": "But society is not prepared for the growing crisis of long COVID\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/covid-long-haulers-are-calling-attention-to-chronic-illnesses/",
+          "publishedOn": "2022-02-16T17:00:00.000Z",
+          "wordCount": null,
+          "title": "COVID Long Haulers Are Calling Attention to Chronic Illnesses",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "A3F8B8DF-786F-45A2-8DFE8F64FF2FB37B",
+          "author": "Andrea Thompson",
+          "description": "As greenhouse gas emissions rise, more venues will face conditions that professional athletes consider unfair or unsafe\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/winter-olympic-sites-are-melting-away-because-of-climate-crisis/",
+          "publishedOn": "2022-02-16T16:30:00.000Z",
+          "wordCount": null,
+          "title": "Winter Olympic Sites Are Melting Away because of Climate Crisis",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "75D4FDC6-0FBB-497A-85BA67995B7AEF53",
+          "author": "Jeffery DelViscio",
+          "description": "We’ve all lived through the pandemic, but these scientific experts lived inside it—fighting nearly every day to understand the novel coronavirus, predict its spread, decode its dangers...\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/video/covid-dominated-their-science-lives-heres-what-four-experts-learned-over-two-years/",
+          "publishedOn": "2022-02-16T16:00:00.000Z",
+          "wordCount": null,
+          "title": "COVID Dominated Their Science Lives: Here's What Four Experts Learned over Two Years",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "6A91E5C4-E604-4FB5-B78AE5C4446D7450",
+          "author": "Seth Wynes",
+          "description": "Simple changes that put the environment over ratings could help both players and franchises be more sustainable\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/professional-sports-leagues-need-to-reduce-their-carbon-footprint/",
+          "publishedOn": "2022-02-16T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Professional Sports Leagues Need to Reduce Their Carbon Footprint",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "6CE75837-B73C-4D19-9135108FFF7CF804",
+          "author": "Roxanne Khamsi",
+          "description": "COVID accelerated the development of cutting-edge PCR tests—and made the need for them urgent\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-pandemic-set-off-a-boom-in-diagnostics/",
+          "publishedOn": "2022-02-16T14:00:00.000Z",
+          "wordCount": null,
+          "title": "The Pandemic Set Off a Boom in Diagnostics",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "42CAE8C5-6758-46DE-86D4CCAAC0C13BCC",
+          "author": "Connie Chang",
+          "description": "The permanently shadowed regions at the lunar poles might contain thick ice reservoirs\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/moons-hidden-depths-uncovered-with-new-algorithm/",
+          "publishedOn": "2022-02-16T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Moon's Hidden Depths Uncovered with New Algorithm",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "8D59E519-2EA1-4B91-AAE660AAD992B83A",
           "author": "Robin G. Nelson",
           "description": "Humans evolved to be interdependent, not self-sufficient\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -40840,6 +41347,46 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=150053",
+          "author": "Mike Vizard",
+          "description": "CircleCI today added a dedicated continuous integration/continuous delivery (CI/CD) edition of its namesake platform for developers building applications on the macOS platform. Jim Rose, CircleCI CEO, said this offering is aimed at developers that either want dedicated resources to speed up their build processes or have to address compliance and security requirements that prevent them […]\nThe post CircleCI Adds CI/CD Service for macOS Development appeared first on DevOps.com.",
+          "link": "https://devops.com/circleci-adds-ci-cd-service-for-macos-development/",
+          "publishedOn": "2022-02-16T17:52:30.000Z",
+          "wordCount": 1005,
+          "title": "CircleCI Adds CI/CD Service for macOS Development",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/05/Developing-More-Mobile-Apps.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150033",
+          "author": "Charlene O'Hanlon",
+          "description": "Charlene O’Hanlon and Rob Mason from Applause talk about how crowdsourced testing is a highly effective method for testing applications and its benefits to DevOps teams. The video is below followed by a transcript of the conversation. O’Hanlon: Hey, everybody. Welcome back to TechStrong TV. I’m O’Hanlon, and I’m here now with Mason with Applause. […]\nThe post The Benefits of Crowdsourced Testing appeared first on DevOps.com.",
+          "link": "https://devops.com/the-benefits-of-crowdsourced-testing/",
+          "publishedOn": "2022-02-16T16:00:53.000Z",
+          "wordCount": 4094,
+          "title": "The Benefits of Crowdsourced Testing",
+          "imageUrl": "https://devops.com/wp-content/uploads/2015/01/Crowdsource-e1644958517637.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=149989",
+          "author": "Dakshraj Goyal",
+          "description": "Infrastructure-as-code (IaC) enables managing and provisioning infrastructure through code instead of manual processes. IaC is crucial for DevOps teams as it lets them manage infrastructure components, such as networks and load balancers, and enables test applications in production-like environments early in the development cycle. It allows DevOps teams to build, change and manage infrastructure in […]\nThe post How to Migrate Existing Infrastructure to Terraform appeared first on DevOps.com.",
+          "link": "https://devops.com/how-to-migrate-existing-infrastructure-to-terraform/",
+          "publishedOn": "2022-02-16T08:00:25.000Z",
+          "wordCount": 1101,
+          "title": "How to Migrate Existing Infrastructure to Terraform",
+          "imageUrl": "https://devops.com/wp-content/uploads/2022/02/coding-gb646cb77a_1280-e1644931732205.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=149953",
+          "author": "Don Macvittie",
+          "description": "Just about every organization I am familiar with today is using more languages, frameworks, libraries, etc. than they were a decade ago. Back then, most organizations were doing a lot of Java, and maybe a little bit of PHP or .NET (almost always VB.NET). Now we have Java, Python, Ruby, Go, Swift, etc. And etc., […]\nThe post Watch Your Language(s) appeared first on DevOps.com.",
+          "link": "https://devops.com/watch-your-languages/",
+          "publishedOn": "2022-02-16T07:30:17.000Z",
+          "wordCount": 1033,
+          "title": "Watch Your Language(s)",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/10/language.jpg"
+        },
+        {
           "id": "https://devops.com/?p=150031",
           "author": "Mike Vizard",
           "description": "Eric Greenwald, general counsel for Finite State, talks with Mike Vizard about how the executive order for securing software supply chains issued by president Biden will impact DevOps teams. The video is below, followed by a transcript of the conversation. Announcer: This is Digital Anarchist. Mike Vizard: Hey, guys. Thanks for the throw again. We’re […]\nThe post How the Cybersecurity EO Impacts DevOps Teams appeared first on DevOps.com.",
@@ -43920,6 +44467,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=112579",
+          "author": "Jake Buehler",
+          "description": "Molecular detective work is zeroing in on the origins of sexual reproduction. The protein tools for cell mergers seem to have long predated sex — so what were they doing?            \nThe post A Billion Years Before Sex, Ancient Cells Were Equipped for It first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/ancient-cells-had-sex-fusion-proteins-long-before-sex-evolved-20220216/",
+          "publishedOn": "2022-02-16T15:44:03.000Z",
+          "wordCount": 2346,
+          "title": "A Billion Years Before Sex, Ancient Cells Were Equipped for It",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/02/Gamete-Fusion_1200_social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=112576",
           "author": "Kelsey Houston-Edwards",
           "description": "Two recent collaborations between mathematicians and DeepMind demonstrate the potential of machine learning to help researchers generate new mathematical conjectures.            \nThe post Machine Learning Becomes a Mathematical Collaborator first appeared on Quanta Magazine",
@@ -44624,6 +45181,16 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66878",
+          "author": "Nathan Yau",
+          "description": "Traffic always seems so sensitive to the smallest disruptions. Someone pulls over to…\nTags: Martin Treiber, simulation, traffic",
+          "link": "https://flowingdata.com/2022/02/16/interactive-traffic-simulator/",
+          "publishedOn": "2022-02-16T16:51:37.000Z",
+          "wordCount": 309,
+          "title": "Interactive traffic simulator",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/02/Traffic-simulation.png"
+        },
         {
           "id": "https://flowingdata.com/?p=66874",
           "author": "Nathan Yau",
@@ -46460,15 +47027,6 @@
           "publishedOn": "2021-02-18T08:00:00.000Z",
           "wordCount": 2072,
           "title": "Black voices bring much needed context to our data-driven society"
-        },
-        {
-          "id": "https://github.com/readme/stories/brian-douglas",
-          "author": null,
-          "description": "Better known as @bdougieYO and the ‘Beyonce of GitHub’ (yep), Brian Douglas went from Tampa to Oakland by fearlessly seizing quite a few pivotal moments.\n\nGet the full story on The ReadME Project:",
-          "link": "https://github.com/readme/stories/brian-douglas",
-          "publishedOn": "2021-02-17T08:00:00.000Z",
-          "wordCount": 1754,
-          "title": "Taking a chance on others, and yourself"
         }
       ]
     },
