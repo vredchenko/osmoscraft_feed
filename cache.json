@@ -1,6 +1,123 @@
 {
   "sources": [
     {
+      "title": "JuliaLang - The Julia programming language",
+      "feedUrl": "https://julialang.org/feed.xml",
+      "siteUrl": "https://julialang.org/",
+      "articles": [
+        {
+          "id": "https://julialang.org/blog/2022/02/10years/",
+          "author": null,
+          "description": "10 years ago today, we published 'Why we Created Julia' ...\nRead more",
+          "link": "https://julialang.org/blog/2022/02/10years/",
+          "publishedOn": "2022-02-14T00:00:00.000Z",
+          "wordCount": 21620,
+          "title": "Why We Use Julia, 10 Years Later",
+          "imageUrl": "https://user-images.githubusercontent.com/35577566/153917389-f9e3cbbf-8c14-47f7-a8ae-a3dcbd60f4a8.png"
+        },
+        {
+          "id": "https://julialang.org/blog/2021/12/dtable-performance-assessment/",
+          "author": null,
+          "description": "DTable – an early performance assessment of a new distributed table implementation\nRead more",
+          "link": "https://julialang.org/blog/2021/12/dtable-performance-assessment/",
+          "publishedOn": "2021-12-08T00:00:00.000Z",
+          "wordCount": 2450,
+          "title": "DTable – an early performance assessment of a new distributed table implementation",
+          "imageUrl": "/assets/images/julia-open-graph.png"
+        },
+        {
+          "id": "https://julialang.org/blog/2021/11/julia-1.7-highlights/",
+          "author": null,
+          "description": "Some highlights of the Julia 1.7 release.\nRead more",
+          "link": "https://julialang.org/blog/2021/11/julia-1.7-highlights/",
+          "publishedOn": "2021-11-30T00:00:00.000Z",
+          "wordCount": 4651,
+          "title": "Julia 1.7 Highlights",
+          "imageUrl": "/assets/images/julia-open-graph.png"
+        },
+        {
+          "id": "https://julialang.org/blog/2021/10/DEQ/",
+          "author": null,
+          "description": "Composability in Julia: Implementing Deep Equilibrium Models via Neural ODEs\nRead more",
+          "link": "https://julialang.org/blog/2021/10/DEQ/",
+          "publishedOn": "2021-10-21T00:00:00.000Z",
+          "wordCount": 4343,
+          "title": "Composability in Julia: Implementing Deep Equilibrium Models via Neural ODEs",
+          "imageUrl": "/assets/images/julia-open-graph.png"
+        },
+        {
+          "id": "https://julialang.org/blog/2021/08/julia-user-developer-survey/",
+          "author": null,
+          "description": "Julia User & Developer Survey 2021\nRead more",
+          "link": "https://julialang.org/blog/2021/08/julia-user-developer-survey/",
+          "publishedOn": "2021-08-24T00:00:00.000Z",
+          "wordCount": 763,
+          "title": "Julia User & Developer Survey 2021",
+          "imageUrl": "/assets/images/julia-open-graph.png"
+        },
+        {
+          "id": "https://julialang.org/blog/2021/08/juliacon-highlights/",
+          "author": null,
+          "description": "JuliaCon 2021 Highlights\nRead more",
+          "link": "https://julialang.org/blog/2021/08/juliacon-highlights/",
+          "publishedOn": "2021-08-20T00:00:00.000Z",
+          "wordCount": 923,
+          "title": "JuliaCon 2021 Highlights",
+          "imageUrl": "/assets/images/julia-open-graph.png"
+        },
+        {
+          "id": "https://julialang.org/blog/2021/08/sharks/",
+          "author": null,
+          "description": "Simulation of a swimming dogfish shark\nRead more",
+          "link": "https://julialang.org/blog/2021/08/sharks/",
+          "publishedOn": "2021-08-12T00:00:00.000Z",
+          "wordCount": 1507,
+          "title": "Simulation of a swimming dogfish shark",
+          "imageUrl": "{{base}}slenderfish.jpg"
+        },
+        {
+          "id": "https://julialang.org/blog/2021/08/general-survey/",
+          "author": null,
+          "description": "Code, docs, and tests: what's in the General registry?\nRead more",
+          "link": "https://julialang.org/blog/2021/08/general-survey/",
+          "publishedOn": "2021-08-02T00:00:00.000Z",
+          "wordCount": 1880,
+          "title": "Code, docs, and tests: what's in the General registry?",
+          "imageUrl": "/assets/images/julia-open-graph.png"
+        },
+        {
+          "id": "https://julialang.org/blog/2021/07/juliacon2021/",
+          "author": null,
+          "description": "JuliaCon 2021, the largest Julia Programming event in history\nRead more",
+          "link": "https://julialang.org/blog/2021/07/juliacon2021/",
+          "publishedOn": "2021-07-26T00:00:00.000Z",
+          "wordCount": 405,
+          "title": "JuliaCon 2021, the largest Julia Programming event in history",
+          "imageUrl": "https://media-exp1.licdn.com/dms/image/C560BAQFjhRdbE2Mbzw/company-logo_200_200/0/1611003674426?e=2159024400&v=beta&t=ICjmwSKSAAgH3fqbHwoUOSaNRqdSVyi9rQY5Sk9J5Bg"
+        },
+        {
+          "id": "https://julialang.org/blog/2021/04/gsod-2020-wrapup/",
+          "author": null,
+          "description": "Google Season of Docs 2020-2021 Wrap-Up.\nRead more",
+          "link": "https://julialang.org/blog/2021/04/gsod-2020-wrapup/",
+          "publishedOn": "2021-04-04T00:00:00.000Z",
+          "wordCount": 371,
+          "title": "Google Season of Docs 2020-2021 Wrap-Up",
+          "imageUrl": "https://1.bp.blogspot.com/-lp5QS2n9-Tk/Xt_dEWSO5kI/AAAAAAAAAdU/R7W-LQrnX-8HCS1yOBJEXw1cBiDOfkoMACLcBGAsYHQ/s1600/SeasonofDocs_Logo_MainGrey_300ppi.png"
+        },
+        {
+          "id": "https://julialang.org/blog/2021/03/julia-1.6-highlights/",
+          "author": null,
+          "description": "Some highlights of the Julia 1.6 release.\nRead more",
+          "link": "https://julialang.org/blog/2021/03/julia-1.6-highlights/",
+          "publishedOn": "2021-03-24T00:00:00.000Z",
+          "wordCount": 3887,
+          "title": "Julia 1.6 Highlights",
+          "imageUrl": "/assets/images/julia-open-graph.png"
+        }
+      ]
+    },
+    {
       "title": "The Teleport Blog",
       "feedUrl": "https://goteleport.com/blog/index.xml",
       "siteUrl": "https://goteleport.com/blog/",
@@ -789,15 +906,6 @@
           "publishedOn": "2021-02-23T00:00:00.000Z",
           "wordCount": 4284,
           "title": "XSS Attack Examples and Mitigations"
-        },
-        {
-          "id": "https://goteleport.com/blog/ssh-certificates/",
-          "author": null,
-          "description": "SSH Access Hardening\nSSH certificates, when deployed properly, improve security.\nA half-baked access system using certs is more vulnerable than a public-key-based one if a user or host gets hacked.\nSSH is hard. Our team learned this at Rackspace, a large managed hosting and cloud provider.\nWe started with deploying public keys to every server. We added a jump server with a second factor login to prevent\nhacks using stolen keys. Soon, infosec team asked us to log into a web portal to match SSH logins with emails.\nEvolution does not produce the most efficient result, and our system did not turn out great either.\nWe were missing keys on some servers and found stale keys on others.\nNo one liked login screens popping up multiple times a day.\nWe received only one one-time password token, and som…",
-          "link": "https://goteleport.com/blog/ssh-certificates/",
-          "publishedOn": "2021-02-18T00:00:00.000Z",
-          "wordCount": 2051,
-          "title": "SSH Certificates Security"
         }
       ]
     },
@@ -2175,6 +2283,26 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=363179",
+          "author": "Adam Rackis",
+          "description": "Font Awesome is an incredibly popular icon library. Unfortunately, it’s somewhat easy to use in a way that results in less-than-ideal performance. By subsetting Font Awesome, we can remove any unused glyphs from the font files it provides. This will …\nSubsetting Font Awesome to Improve Performance originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/subsetting-font-awesome-to-improve-performance/",
+          "publishedOn": "2022-02-17T15:21:41.000Z",
+          "wordCount": 2089,
+          "title": "Subsetting Font Awesome to Improve Performance",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363179"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363861",
+          "author": "Chris Coyier",
+          "description": "A useful little UI widget thingy here from Jens Kuerschner. Click the add-to-calendar button, get a list of calendar apps, the user selects which one they actually use, and they get what they need for that calendar. Could be a …\nAdd-to-Calendar Button UI Widget originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/add-to-calendar-button-ui-widget/",
+          "publishedOn": "2022-02-17T01:14:21.000Z",
+          "wordCount": 799,
+          "title": "Add-to-Calendar Button UI Widget",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363861"
+        },
         {
           "id": "https://css-tricks.com/?p=363541",
           "author": "Mike Herchel",
@@ -8294,6 +8422,86 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/web3-data-and-the-issue-of-self-sovereignty?source=rss",
+          "author": "Cortex App",
+          "description": "Whoever owns your data, owns your decisions.",
+          "link": "https://hackernoon.com/web3-data-and-the-issue-of-self-sovereignty?source=rss",
+          "publishedOn": "2022-02-16T20:14:22.000Z",
+          "wordCount": 1937,
+          "title": "Web3, Data, and the Issue of Self-Sovereignty",
+          "imageUrl": "https://cdn.hackernoon.com/images/r6HtXTXV9cPjE8ksRl0OWRQrCs53-h092jz0.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/4-nft-projects-for-spirituality-enthusiasts?source=rss",
+          "author": "DAO Searcher",
+          "description": "The non-fungible tokens (NFTs) market has grown significantly over the years. Today, NFTs have become a hot-ticket item for different individuals and companies. Everyone's trying to get their hands on these tokens!",
+          "link": "https://hackernoon.com/4-nft-projects-for-spirituality-enthusiasts?source=rss",
+          "publishedOn": "2022-02-16T16:47:28.000Z",
+          "wordCount": 2232,
+          "title": "4 NFT Projects for Spirituality Enthusiasts",
+          "imageUrl": "https://cdn.hackernoon.com/images/CW9ZwDCl1kQCd0dp6RiIobclACV2-5ce3kqa.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/from-cloud-to-cryptocurrency-to-the-metaverse-tech-that-transformed-cx?source=rss",
+          "author": "Srushti",
+          "description": "Mark Zuckerberg's Metaverse announcement has brought the spotlight to technologies from cloud to cryptocurrency that has transformed the customer experience.",
+          "link": "https://hackernoon.com/from-cloud-to-cryptocurrency-to-the-metaverse-tech-that-transformed-cx?source=rss",
+          "publishedOn": "2022-02-16T16:31:33.000Z",
+          "wordCount": 2439,
+          "title": "From Cloud to Cryptocurrency to the Metaverse: Tech That Transformed CX",
+          "imageUrl": "https://cdn.hackernoon.com/images/h3xSiiZTmOSTZyrfzYGqw7Pe3rC2-f1d3hso.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-roman-chekashov-started-as-a-sysadmin-and-ended-up-developing-an-app-that-outperformed-uber?source=rss",
+          "author": "Alex Lashkov",
+          "description": "How to build your career in tech from being a sysadmin to Android tech lead building an app that ouperforms Uber on its market?",
+          "link": "https://hackernoon.com/how-roman-chekashov-started-as-a-sysadmin-and-ended-up-developing-an-app-that-outperformed-uber?source=rss",
+          "publishedOn": "2022-02-16T14:42:07.000Z",
+          "wordCount": 2573,
+          "title": "How Roman Chekashov Started as a Sysadmin and Ended up Developing an App that Outperformed Uber",
+          "imageUrl": "https://cdn.hackernoon.com/images/F7Ll8TuSCVb6UBqlCrCYjPNMget2-xu93hd9.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-draw-generative-nft-mushrooms-with-threejs?source=rss",
+          "author": "ferluht",
+          "description": "A brief but complete intro to generative art and NFTs with a step-by-step breakdown of drawing of generative mushrooms on javascript",
+          "link": "https://hackernoon.com/how-to-draw-generative-nft-mushrooms-with-threejs?source=rss",
+          "publishedOn": "2022-02-16T13:50:54.000Z",
+          "wordCount": 3333,
+          "title": "How to Draw Generative NFT Mushrooms with Three.js 🍄",
+          "imageUrl": "https://cdn.hackernoon.com/images/iHMNMLkWcUZeSwYyOLIcIVYiYry2-gve3jnr.png"
+        },
+        {
+          "id": "https://hackernoon.com/6-surprises-founders-and-ceos-find-out-after-selling-their-startup?source=rss",
+          "author": "Stephen Day",
+          "description": "This touches on some of the biggest surprises that can arise when you decide to sell your company.",
+          "link": "https://hackernoon.com/6-surprises-founders-and-ceos-find-out-after-selling-their-startup?source=rss",
+          "publishedOn": "2022-02-16T13:43:53.000Z",
+          "wordCount": 2905,
+          "title": "6 Surprises Founders and CEOs Find Out After Selling Their Startup",
+          "imageUrl": "https://cdn.hackernoon.com/images/Hjy7jmC0Lih7bPXEKlUcBxMirgw1-u393hqu.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/community-is-the-core-of-any-crypto-project-building-a-community-72k-strong?source=rss",
+          "author": "Cleo",
+          "description": "The community is the core of any crypto project. This is a trust factor for product users, investors, and media.",
+          "link": "https://hackernoon.com/community-is-the-core-of-any-crypto-project-building-a-community-72k-strong?source=rss",
+          "publishedOn": "2022-02-16T13:18:53.000Z",
+          "wordCount": 1996,
+          "title": "Community Is the Core of Any Crypto Project: Building a Community 72k Strong",
+          "imageUrl": "https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-q793i8j.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/6-tips-to-host-a-successful-virtual-networking-event?source=rss",
+          "author": "@web monitization Anupriya",
+          "description": "Here, we'll walk you through the 6 steps you can take to make your virtual event truly engaging and unique to your attendees.",
+          "link": "https://hackernoon.com/6-tips-to-host-a-successful-virtual-networking-event?source=rss",
+          "publishedOn": "2022-02-16T13:03:38.000Z",
+          "wordCount": 1786,
+          "title": "6 Tips to Host a Successful Virtual Networking Event",
+          "imageUrl": "https://cdn.hackernoon.com/images/Egk4QeHIKwhohdHCIbmstmLhCnp2-js92iyr.jpeg"
+        },
         {
           "id": "https://hackernoon.com/googling-is-a-skill-4-advanced-search-tips-to-ask-google-the-right-way?source=rss",
           "author": "Abraham Israel",
@@ -26700,6 +26908,56 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
+          "id": "https://hackaday.com/?p=523211",
+          "author": "Maya Posch",
+          "description": "Along with many other natural phenomena, lightning is probably familiar to most. Between its intense noise and visuals, there is also very little disagreement that getting hit by a lightning …read more",
+          "link": "https://hackaday.com/2022/02/17/the-electrifying-debate-around-where-lightning-comes-from/",
+          "publishedOn": "2022-02-17T15:00:18.000Z",
+          "wordCount": 2336,
+          "title": "The Electrifying Debate Around Where Lightning Comes From",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2017/03/whimhirst.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=523433",
+          "author": "Al Williams",
+          "description": "[DiodeGoneWild]’s latest video lives up to the name. He takes apart a laser headlight to recover a pretty powerful blue laser. You can see the video, below. The headlights work …read more",
+          "link": "https://hackaday.com/2022/02/17/high-power-laser-salvaged-from-headlights/",
+          "publishedOn": "2022-02-17T12:00:08.000Z",
+          "wordCount": 1787,
+          "title": "High-Power Laser Salvaged from Headlights",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/laser.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=523343",
+          "author": "Lewin Day",
+          "description": "MIDI is a standard known by musicians and instruments all over the world. The basic twist on regular serial has helped studios around the world to work more efficiently. [Kevin] …read more",
+          "link": "https://hackaday.com/2022/02/17/sending-midi-wirelessly-with-the-nrf24l01/",
+          "publishedOn": "2022-02-17T09:00:40.000Z",
+          "wordCount": 1199,
+          "title": "Sending MIDI Wirelessly With The nRF24L01",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/img_5726-e1644903951596.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=523319",
+          "author": "Chris Lott",
+          "description": "Longtime hacker [Peter Jansen] was so impressed with a piece in The Onion from last year that he decided to build this coin-operated Texas Instruments graphing calculator console on a …read more",
+          "link": "https://hackaday.com/2022/02/16/coin-operated-graphing-calculator-console/",
+          "publishedOn": "2022-02-17T06:00:54.000Z",
+          "wordCount": 1254,
+          "title": "Coin-Operated Graphing Calculator Console",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/coin-feature.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=519493",
+          "author": "Matthew Carlson",
+          "description": "We’re sure thousands of hours have been spent in Minecraft implementing digital logic. Inspired by that, [lynnpepin] created a digital logic simulator named Reso that is based on pixels rather …read more",
+          "link": "https://hackaday.com/2022/02/16/a-png-based-circuit-simulator/",
+          "publishedOn": "2022-02-17T03:00:26.000Z",
+          "wordCount": 1401,
+          "title": "A PNG Based Circuit Simulator",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/reso_logo_explained.gif"
+        },
+        {
           "id": "https://hackaday.com/?p=523342",
           "author": "Lewin Day",
           "description": "[Tim] recently found himself tinkering with a cheap string of LEDs. Far from an advanced, IC-controlled addressable set, these were merely a string with LEDs of four colors that could …read more",
@@ -34709,6 +34967,39 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "57952657-15E1-432F-935639CA2C645D25",
+          "author": "Maddie Bender",
+          "description": "Space agencies are partnering with car manufacturers to custom build new rovers—or retrofit commercial vehicles—for future missions to the moon and Mars\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/nasa-eyes-electric-car-tech-for-future-moon-rovers/",
+          "publishedOn": "2022-02-17T16:00:00.000Z",
+          "wordCount": null,
+          "title": "NASA Eyes Electric Car Tech for Future Moon Rovers",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "40D0A617-AE4A-4DC4-B6DEEEBA57E62A97",
+          "author": "Nadia Drake",
+          "description": "Despite some unexpected challenges, team members are setting lofty goals for the rover in 2022\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/what-we-learned-from-the-perseverance-rovers-first-year-on-mars/",
+          "publishedOn": "2022-02-17T15:00:00.000Z",
+          "wordCount": null,
+          "title": "What We Learned from the Perseverance Rover's First Year on Mars",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "10013FEB-17BB-4A3B-A6CA31081C627E4C",
+          "author": "Marla Broadfoot",
+          "description": "Infectious disease expert William A. Haseltine cautions that a coronavirus variant could emerge with the transmissibility of Omicron and the deadliness of the original SARS\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/discovery-of-new-hiv-variant-sends-warning-for-covid-pandemic/",
+          "publishedOn": "2022-02-17T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Discovery of New HIV Variant Sends Warning for COVID Pandemic",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "FE09F4C5-188C-4157-8765E63810C643CD",
           "author": "Arianna Skibell, E&E News",
           "description": "The move would reverberate around the country because more than a dozen other states follow California’s regulations\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -41347,6 +41638,36 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=150075",
+          "author": "Mike Vizard",
+          "description": "Cloudify this week announced a free user interface (UI) module that extends its infrastructure provisioning platform and enables DevOps professionals to integrate unlimited Terraform modules. Nati Shalom, Cloudify CTO, said Terraform UI provides a familiar construct for DevOps teams using the open source DevOps automation platform to provision infrastructure-as-code (IaC). The module enables DevOps professionals […]\nThe post Cloudify Integrates DevOps Automation Platform With Terraform appeared first on DevOps.com.",
+          "link": "https://devops.com/cloudify-integrates-devops-automation-platform-with-terraform/",
+          "publishedOn": "2022-02-17T15:01:44.000Z",
+          "wordCount": 1007,
+          "title": "Cloudify Integrates DevOps Automation Platform With Terraform",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/11/DevOps-Unbound_-Application-Modernization-and-Mainframes.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=149995",
+          "author": "JP Cheung",
+          "description": "You can find plenty of high-level definitions out on the internet about what site reliability engineering means and what site reliability engineers do. But if you want to understand what it’s actually like to work as a site reliability engineer, there is perhaps no better source than job descriptions. SRE job ads explain what real […]\nThe post Analyzing SRE Job Postings appeared first on DevOps.com.",
+          "link": "https://devops.com/analyzing-sre-job-postings/",
+          "publishedOn": "2022-02-17T07:30:30.000Z",
+          "wordCount": 1305,
+          "title": "Analyzing SRE Job Postings",
+          "imageUrl": "https://devops.com/wp-content/uploads/2022/02/clem-onojeghuo-fY8Jr4iuPQM-unsplash-scaled-e1644928292912.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150070",
+          "author": "ROELBOB",
+          "description": "The post The Price of a Profession appeared first on DevOps.com.",
+          "link": "https://devops.com/the-price-of-a-profession/",
+          "publishedOn": "2022-02-17T07:00:04.000Z",
+          "wordCount": 426,
+          "title": "The Price of a Profession",
+          "imageUrl": "https://devops.com/wp-content/uploads/2022/02/the-price-of-a-profession.jpg"
+        },
+        {
           "id": "https://devops.com/?p=150053",
           "author": "Mike Vizard",
           "description": "CircleCI today added a dedicated continuous integration/continuous delivery (CI/CD) edition of its namesake platform for developers building applications on the macOS platform. Jim Rose, CircleCI CEO, said this offering is aimed at developers that either want dedicated resources to speed up their build processes or have to address compliance and security requirements that prevent them […]\nThe post CircleCI Adds CI/CD Service for macOS Development appeared first on DevOps.com.",
@@ -45182,6 +45503,26 @@
       "siteUrl": "https://flowingdata.com",
       "articles": [
         {
+          "id": "https://flowingdata.com/?p=66895",
+          "author": "Nathan Yau",
+          "description": "Speaking of Russian gas, Josh Holder, Karl Russell and Stanley Reed for The…\nTags: gas, New York Times, Russia",
+          "link": "https://flowingdata.com/2022/02/17/map-of-russian-gas-exports/",
+          "publishedOn": "2022-02-17T08:59:21.000Z",
+          "wordCount": 288,
+          "title": "Map of Russian gas exports",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/02/map-of-gas-exports.png"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66891",
+          "author": "Nathan Yau",
+          "description": "For Reuters, Prasanta Kumar Dutta, Samuel Granados and Michael Ovaska detail Europe’s dependence…\nTags: gas, Reuters, Russia",
+          "link": "https://flowingdata.com/2022/02/17/russian-gas-supplies-in-europe/",
+          "publishedOn": "2022-02-17T08:34:41.000Z",
+          "wordCount": 375,
+          "title": "Russian gas supplies in Europe",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/02/Russian-gas.png"
+        },
+        {
           "id": "https://flowingdata.com/?p=66878",
           "author": "Nathan Yau",
           "description": "Traffic always seems so sensitive to the smallest disruptions. Someone pulls over to…\nTags: Martin Treiber, simulation, traffic",
@@ -47248,15 +47589,6 @@
           "publishedOn": "2021-03-18T17:00:03.000Z",
           "wordCount": 183,
           "title": "Thinking on ways to solve SETTINGS"
-        },
-        {
-          "id": "https://web.dev/shows/gui-challenges/mMBcHcvxuuA/",
-          "author": null,
-          "description": "In today’s GUI challenge, we’re building a tabs component with some really cool features that you may not have thought about. Our tabs component is responsive, supports multiple device inputs, works across browsers, and let’s you mimic some of the buttery features you love on apps.\n@Adam Argyle will be responding to your comments for the first 30 minutes after the episode releases. Connect with us here, ask questions, or submit your own code!\nChapters:\n0:00 - Introduction\n0:42 - Features overview\n3:03 - HTML\n4:14 - Scrolling\n5:04 - Inspect Layouts\n7:35 - Layout Styles\n12:10 - prefers-reduced-motion\n13:10 - JavaScript & Animation\n14:37 - Conclusion\n\n\n\n\n\nResources:\nRead along → \nTry a demo → \nGet the source → \n@ScrollTimeline Polyfill → \n\nhttps://goo.gle/37jHOenhttp://goo.gle/3prCpb2http://goo.gle/2NsK7EKhttp://goo.gle/2NfUhZs\nWatch more GUI Challenges → \nSubscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://goo.gl/LLLNvf\n\n#GUIchallenges #CSS #ChromeDeveloper",
-          "link": "https://web.dev/shows/gui-challenges/mMBcHcvxuuA/",
-          "publishedOn": "2021-02-17T18:00:09.000Z",
-          "wordCount": 198,
-          "title": "Thinking on ways to solve TABS"
         }
       ]
     }
