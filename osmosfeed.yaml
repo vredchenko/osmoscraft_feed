@@ -5,15 +5,14 @@ sources:
   - href: https://julialang.org/feed.xml
   - href: https://goteleport.com/blog/index.xml
   - href: https://www.i-programmer.info/index.php?option=com_ninjarsssyndicator&feed_id=3&format=raw
-  - href: https://atom.io/packages.atom
+  #- href: https://atom.io/packages.atom
   - href: https://css-tricks.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  # - href: https://www.freecodecamp.org/news/rss/
   - href: https://hackernoon.com/feed
   - href: https://davidwalsh.name/feed
   - href: https://alistapart.com/main/feed/
   - href: http://feeds.feedburner.com/helloacm?format=xml
-  # 502 Bad Gateway, disabled:
-  # - href: http://lambda-the-ultimate.org/rss.xml
+  # - href: http://lambda-the-ultimate.org/rss.xml # 502 Bad Gateway, disabled
   - href: https://hackaday.com/blog/feed/
   - href: http://rss.sciam.com/scientificamerican-global
   - href: https://devops.com/feed/
