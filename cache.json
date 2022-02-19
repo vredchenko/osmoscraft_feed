@@ -123,6 +123,16 @@
       "siteUrl": "https://goteleport.com/blog/",
       "articles": [
         {
+          "id": "https://goteleport.com/blog/authentication-vulnerabilities/",
+          "author": null,
+          "description": "The majority of threats related to the authentication process are associated with passwords and password-based authentication methods. But broken authentication also causes a significant amount of vulnerabilities. Broken authentication occurs when the implementation of the authentication process is flawed.  Unfortunately, this is usually hard to discover, and can be more severe than the risks associated with passwords.\nThis blog post explores the security vulnerabilities that are commonly found in the authentication and password process of a software application.  It will also discuss common attack vectors that are used to exploit weak authentication processes.\n6 vulnerabilities related to broken authentication\n1. Vulnerable authentication logic\nLogical flaws are a common source of vulnera…",
+          "link": "https://goteleport.com/blog/authentication-vulnerabilities/",
+          "publishedOn": "2022-02-18T00:00:00.000Z",
+          "wordCount": 1498,
+          "title": "Most Common Authentication Vulnerabilities",
+          "imageUrl": "https://goteleport.com/blog/images/2022/threats to auth-t@2x.png"
+        },
+        {
           "id": "https://goteleport.com/blog/aaa-security-protcols-for-network-access/",
           "author": null,
           "description": "Authentication, authorization, and accounting, often called AAA or Triple-A, are sets of services and protocols that enable granular access control over computer networks. Before the popularity of mainstream HTTP-based authentication protocols such as OAuth and SAML, AAA protocols were the primary way to authenticate users or machines to network services. AAA protocols are still commonly found in corporate LAN and WAN networks, ISPs, cellular networks, and network devices such as firewalls, routers, and switches.\nAAA is an important topic in network access control, and this blog post will briefly explain the primary concepts and examples of AAA protocols. If you are new to access control concepts, our blog on authentication vs. authorization is the recommended place to start.\nWhat are AAA …",
@@ -915,6 +925,36 @@
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
         {
+          "id": "http://www.i-programmer.info/news/99-professional/15226-judea-pearl-wins-2021-bbva-frontiers-of-knowledge-award-.html",
+          "author": null,
+          "description": "Judea Pearl is the recipient of the fourteenth edition of the ICT Frontiers of Knowledge Award from the Spanish bank group BBVA for \"providing a modern foundation to Artificial Intelligence\". The award includes a prize of €400,000 (about $457,000).\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/99-professional/15226-judea-pearl-wins-2021-bbva-frontiers-of-knowledge-award-.html",
+          "publishedOn": "2022-02-18T15:21:01.000Z",
+          "wordCount": 902,
+          "title": "Judea Pearl Wins 2021 BBVA Frontiers of Knowledge Award",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/programming/artificial-intelligence/1331-database-the-prolog-way.html",
+          "author": null,
+          "description": "Prolog - is it just a blast from the past only of interest to AI and strange language enthusiasts? Or could it just be the ultimate NoSQL database capable of things that are difficult to do without it. In this article we write a remarkably short Prolog program that can route-find on London's Tube network.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/programming/artificial-intelligence/1331-database-the-prolog-way.html",
+          "publishedOn": "2022-02-18T00:00:00.000Z",
+          "wordCount": 1210,
+          "title": "Database The Prolog Way",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/news/197-data-mining/15224-elastic-8-enhances-elasticsearch.html",
+          "author": null,
+          "description": "The Elastic stack of data analytics software has been updated. Elastic 8 has enhancements to Elasticsearch’s vector search capabilities, native support for natural language processing models, easier ways to get data into the stack, and a streamlined security experience,\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/197-data-mining/15224-elastic-8-enhances-elasticsearch.html",
+          "publishedOn": "2022-02-18T00:00:00.000Z",
+          "wordCount": 703,
+          "title": "Elastic 8 Enhances ElasticSearch",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.i-programmer.info/news/80-java/15223-quarkus-271-released.html",
           "author": null,
           "description": "Quarkus, the Java framework for microservices initially released by RedHat in March 2019, has reached version 2.7.1. But before looking at what's new, let's take a look at what Quarkus does differently and how it contributes to the current popularity of Java.\n\r\n\nRead more...",
@@ -1627,6 +1667,26 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=363467",
+          "author": "Hugh Haworth",
+          "description": "Being able to understand Node continues to be an important skill if you’re a front-end developer. Deno has arrived as another way to run JavaScript outside the browser, but the huge ecosystem of tools and software built with Node mean …\nComparing Node JavaScript to JavaScript in the Browser originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/node-javascript-compared-to-javascript/",
+          "publishedOn": "2022-02-18T19:01:08.000Z",
+          "wordCount": 3703,
+          "title": "Comparing Node JavaScript to JavaScript in the Browser",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363467"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363911",
+          "author": "Chris Coyier",
+          "description": "I linked to Jay’s front-end predictions last year and I think they panned out pretty well. I think he’s got a bit of a knack for that wide-scope look at front-end, including tooling and architecture, as well as browser tech. …\n(Jay Freestone’s) Front-End Predictions for 2022 originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/jay-freestone-front-end-predictions-for-2022/",
+          "publishedOn": "2022-02-18T15:34:39.000Z",
+          "wordCount": 968,
+          "title": "(Jay Freestone’s) Front-End Predictions for 2022",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363911"
+        },
         {
           "id": "https://css-tricks.com/?p=363179",
           "author": "Adam Rackis",
@@ -3920,6 +3980,206 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/this-2-year-old-artist-has-her-own-nfts?source=rss",
+          "author": "Xenia Rose",
+          "description": "Two-year-old Xenia Rose has already started working towards her dream of being a professional artist, with the launch of her first collection of NFTs.",
+          "link": "https://hackernoon.com/this-2-year-old-artist-has-her-own-nfts?source=rss",
+          "publishedOn": "2022-02-18T10:50:41.000Z",
+          "wordCount": 1365,
+          "title": "This 2-Year-Old Artist Has Her Own NFTs",
+          "imageUrl": "https://cdn.hackernoon.com/images/lirfBYE2tkP1Pjuxxh08twrZST03-2693g9w.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-is-augmented-reality-changing-the-way-students-learn-in-class?source=rss",
+          "author": "[x]cube LABS",
+          "description": "Learn how AR and VR will transform education as we know it.",
+          "link": "https://hackernoon.com/how-is-augmented-reality-changing-the-way-students-learn-in-class?source=rss",
+          "publishedOn": "2022-02-18T10:38:01.000Z",
+          "wordCount": 1970,
+          "title": "How Is Augmented Reality Changing the Way Students Learn in Class?",
+          "imageUrl": "https://cdn.hackernoon.com/images/hqV9ib0EqkXqEjnRJRsNEJv08cl1-96a3hhh.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/passive-income-goal-how-i-plan-to-make-$1000-usd-in-monthly-recurring-revenue-this-year?source=rss",
+          "author": "Dragos Ivanov",
+          "description": "How I plan to make a passive income of $1,000 USD in monthly recurring revenue this year. Check it out!",
+          "link": "https://hackernoon.com/passive-income-goal-how-i-plan-to-make-$1000-usd-in-monthly-recurring-revenue-this-year?source=rss",
+          "publishedOn": "2022-02-18T10:13:16.000Z",
+          "wordCount": 2152,
+          "title": "Passive Income Goal: How I Plan to Make $1,000 USD in Monthly Recurring Revenue This Year",
+          "imageUrl": "https://cdn.hackernoon.com/images/xBOyigMyiXQC6akw9wsbfmfedkn2-0j93lr3.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/a-guide-to-state-management-in-angular-using-ngrx-version-12?source=rss",
+          "author": "Kamal Singh",
+          "description": "An Angular Reactive Extension is NgRx. Based on the Redux pattern, it is a state management system. It enables complex state management.",
+          "link": "https://hackernoon.com/a-guide-to-state-management-in-angular-using-ngrx-version-12?source=rss",
+          "publishedOn": "2022-02-18T09:11:55.000Z",
+          "wordCount": 1889,
+          "title": "A Guide to State Management in Angular Using Ngrx (Version 12)",
+          "imageUrl": "https://cdn.hackernoon.com/images/2EHqLYnBA1e6rDsHRwLC7iNmRov2-s893hnj.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-make-your-first-developer-relations-hire-in-2022?source=rss",
+          "author": "Shai Almog",
+          "description": "Hiring a developer relations/advocate is difficult. It's even harder to be the first DevRel in the company. My colleagues share their experience",
+          "link": "https://hackernoon.com/how-to-make-your-first-developer-relations-hire-in-2022?source=rss",
+          "publishedOn": "2022-02-18T09:00:17.000Z",
+          "wordCount": 2507,
+          "title": "How to Make Your First Developer Relations Hire in 2022",
+          "imageUrl": "https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-f892npg.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/meet-the-writer-hackernoon-blockchain-contributor-olayimika-oyebanji?source=rss",
+          "author": "Olayimika Oyebanji",
+          "description": "I’m Olayimika from Kwara State, Nigeria. I bagged a law degree from Ahmadu Bello University in 2017 and I was called to the Nigerian bar in 2018.",
+          "link": "https://hackernoon.com/meet-the-writer-hackernoon-blockchain-contributor-olayimika-oyebanji?source=rss",
+          "publishedOn": "2022-02-18T08:52:36.000Z",
+          "wordCount": 2246,
+          "title": "Meet the Writer: HackerNoon Blockchain Contributor Olayimika Oyebanji",
+          "imageUrl": "https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-w693jmw.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-write-raw-sql-query-migration-in-laravel?source=rss",
+          "author": "Readerstacks",
+          "description": "We have created a laravel package to keep the track of raw SQL migration using package Laravel raw sql query migration",
+          "link": "https://hackernoon.com/how-to-write-raw-sql-query-migration-in-laravel?source=rss",
+          "publishedOn": "2022-02-18T08:30:17.000Z",
+          "wordCount": 1535,
+          "title": "How to Write Raw SQL Query Migration in Laravel",
+          "imageUrl": "https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-rg93jha.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/being-glue-is-holding-women-back-in-tech-but-documentation-can-help?source=rss",
+          "author": "Portia Burton",
+          "description": "Internal documentation can help improve diversity and inclusion in the workplace.",
+          "link": "https://hackernoon.com/being-glue-is-holding-women-back-in-tech-but-documentation-can-help?source=rss",
+          "publishedOn": "2022-02-18T08:25:52.000Z",
+          "wordCount": 2343,
+          "title": "\"Being Glue\" is Holding Women Back in Tech, but Documentation Can Help",
+          "imageUrl": "https://cdn.hackernoon.com/images/dx8WSahyXzUbhKry8nfj4Gkar8l2-jd92nhw.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-prevent-churn-8-crucial-tips-for-first-time-managers?source=rss",
+          "author": "Rick Chen",
+          "description": "Useful tips on how to properly manage a team, for first time managers as well as, managers working with a new company or organization.",
+          "link": "https://hackernoon.com/how-to-prevent-churn-8-crucial-tips-for-first-time-managers?source=rss",
+          "publishedOn": "2022-02-18T08:22:23.000Z",
+          "wordCount": 2014,
+          "title": "How to Prevent Churn: 8 Crucial Tips for First-Time Managers",
+          "imageUrl": "https://cdn.hackernoon.com/images/VLxHvCQtyKcQRJ8iJBVZf7kjiC43-fq93hhw.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/why-opentelemetry-should-matter-to-network-and-systems-admins?source=rss",
+          "author": "Leon Adato",
+          "description": "OpenTelemetry is young, even by internet standards. Born out of the merger of OpenTracing and OpenCensus projects at the Cloud Native Computing Foundation CNCF",
+          "link": "https://hackernoon.com/why-opentelemetry-should-matter-to-network-and-systems-admins?source=rss",
+          "publishedOn": "2022-02-18T08:00:05.000Z",
+          "wordCount": 1859,
+          "title": "Why OpenTelemetry Should Matter to Network and Systems Admins",
+          "imageUrl": "https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-y193jao.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-create-and-maintain-team-culture-in-the-remote-era?source=rss",
+          "author": "Neha Pant",
+          "description": "Remote work has become the norm. Developing a remote team culture is vital for organizations. This article tells us how to build and foster remote team culture.",
+          "link": "https://hackernoon.com/how-to-create-and-maintain-team-culture-in-the-remote-era?source=rss",
+          "publishedOn": "2022-02-18T07:45:17.000Z",
+          "wordCount": 2186,
+          "title": "How to Create and Maintain Team Culture in the Remote Era",
+          "imageUrl": "https://cdn.hackernoon.com/images/t6yYx5PhEhailcvOOgaxxCjEJ7l1-eha3hi5.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/meet-the-writer-onerep-ceo-dimitri-shelest-on-writing-and-online-privacy?source=rss",
+          "author": "Dimitri Shelest",
+          "description": "OneRep CEO and Hackernoon contributor Dimitri Shelest shares his views on online privacy, his entrepreneurship experience, and the reasons that made him write.",
+          "link": "https://hackernoon.com/meet-the-writer-onerep-ceo-dimitri-shelest-on-writing-and-online-privacy?source=rss",
+          "publishedOn": "2022-02-18T07:40:03.000Z",
+          "wordCount": 3292,
+          "title": "Meet the Writer: OneRep CEO Dimitri Shelest on Writing and Online Privacy",
+          "imageUrl": "https://cdn.hackernoon.com/images/wSsm6QhqkJXEcctEEorE4zWbce43-vk93hi5.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/why-should-your-business-adopt-cloud-based-it-solutions?source=rss",
+          "author": "Orbus Software",
+          "description": "Data storage and access have long been a concern for businesses. A ton of data is created daily, and efficient storage is a must to keep track of everything.",
+          "link": "https://hackernoon.com/why-should-your-business-adopt-cloud-based-it-solutions?source=rss",
+          "publishedOn": "2022-02-18T07:36:17.000Z",
+          "wordCount": 1838,
+          "title": "Why Should Your Business Adopt Cloud-Based IT Solutions?",
+          "imageUrl": "https://cdn.hackernoon.com/images/yArSqPBQsTMiQXRbFJdbbPIvCu23-1193hwx.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/what-product-managers-can-do-to-minimize-technical-debt?source=rss",
+          "author": "Daniel Fetisov",
+          "description": "Product managers are able to help in tech debt closing. Is it myth or reality? In the article, we'll discover what it may look like under the hood.",
+          "link": "https://hackernoon.com/what-product-managers-can-do-to-minimize-technical-debt?source=rss",
+          "publishedOn": "2022-02-18T07:27:07.000Z",
+          "wordCount": 2330,
+          "title": "What Product Managers Can Do to Minimize Technical Debt",
+          "imageUrl": "https://cdn.hackernoon.com/images/cnsDT4qqufRTLzDo52AFD3PF2Kh1-m393g3h.png"
+        },
+        {
+          "id": "https://hackernoon.com/kucoin-partners-with-chingari-to-distribute-$20-million-rupees-worth-of-tokens?source=rss",
+          "author": "Ishan Pandey",
+          "description": "KuCoin, one of the major cryptocurrency exchanges, has partnered with Chingari, a short video-sharing app to distribute tokens worth $20 million rupees.",
+          "link": "https://hackernoon.com/kucoin-partners-with-chingari-to-distribute-$20-million-rupees-worth-of-tokens?source=rss",
+          "publishedOn": "2022-02-18T07:06:25.000Z",
+          "wordCount": 2410,
+          "title": "KuCoin Partners with Chingari to Distribute $20 Million Rupees Worth of Tokens",
+          "imageUrl": "https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-w2e3nhe.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/our-politicians-dont-understand-tech-and-its-time-to-put-them-to-the-test?source=rss",
+          "author": "Leif-Nissen Lundbæk",
+          "description": "Mark Zuckerberg shouldn't have to explain the internet to Congress. It's high time we made tech literacy a requirement for running for office.",
+          "link": "https://hackernoon.com/our-politicians-dont-understand-tech-and-its-time-to-put-them-to-the-test?source=rss",
+          "publishedOn": "2022-02-18T06:14:54.000Z",
+          "wordCount": 2050,
+          "title": "Our Politicians Don’t Understand Tech and it's Time to Put Them to the Test",
+          "imageUrl": "https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-62c3j8v.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/teylor-has-been-named-startup-of-the-year-2021-in-zurich?source=rss",
+          "author": null,
+          "description": "An interview with Patrick Stäuble, founder and CEO of Teylor, a Hackernoon startup of the year 2021",
+          "link": "https://hackernoon.com/teylor-has-been-named-startup-of-the-year-2021-in-zurich?source=rss",
+          "publishedOn": "2022-02-18T05:56:21.000Z",
+          "wordCount": 2046,
+          "title": "Teylor has Been Named Startup of the Year 2021 in Zürich",
+          "imageUrl": "https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-yj93jvi.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/staking-yield-farming-lending-defi-remains-cryptos-home-for-passive-income?source=rss",
+          "author": "Okonkwo Chinonso",
+          "description": "DeFi has made access to financial services easier and with its farms, lending services and staking rewards, the ecosystem is a go-to for profit-hungry investors",
+          "link": "https://hackernoon.com/staking-yield-farming-lending-defi-remains-cryptos-home-for-passive-income?source=rss",
+          "publishedOn": "2022-02-18T05:52:59.000Z",
+          "wordCount": 3309,
+          "title": "Staking, Yield Farming, Lending: DeFi Remains Crypto's Home for Passive Income",
+          "imageUrl": "https://cdn.hackernoon.com/images/A8kb22tUHZQOwvrKaADVMtWq9GJ2-mv92ix4.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/10-red-flags-to-look-for-when-choosing-a-hosting-company?source=rss",
+          "author": "RedSwitches",
+          "description": "Here are 10 red flags of a bad hosting provider that will help you make an informed decision during your next hosting purchase.",
+          "link": "https://hackernoon.com/10-red-flags-to-look-for-when-choosing-a-hosting-company?source=rss",
+          "publishedOn": "2022-02-18T05:43:50.000Z",
+          "wordCount": 1889,
+          "title": "10 Red Flags to Look for When Choosing a Hosting Company",
+          "imageUrl": "https://cdn.hackernoon.com/images/vQ1ThE6OfYMKRpJ6bJ3SytXwBys2-maa3hkb.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/continuous-integration-an-essential-guide?source=rss",
+          "author": null,
+          "description": "Continuous integration (CI) is a process by which we verify our project upon every change that occurs in the codebase.",
+          "link": "https://hackernoon.com/continuous-integration-an-essential-guide?source=rss",
+          "publishedOn": "2022-02-18T05:36:03.000Z",
+          "wordCount": 2268,
+          "title": "Continuous Integration: An Essential Guide",
+          "imageUrl": "https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-d692ndv.jpeg"
+        },
         {
           "id": "https://hackernoon.com/putin-says-the-united-states-is-trying-to-draw-russia-into-war?source=rss",
           "author": "Jack Boreham",
@@ -21447,15 +21707,6 @@
           "publishedOn": "2021-02-25T15:00:00.000Z",
           "wordCount": 3880,
           "title": "The Future of Web Software Is HTML-over-WebSockets"
-        },
-        {
-          "id": "https://alistapart.com/article/designing-inclusive-content-models/",
-          "author": "by ,",
-          "description": "In the 1920s, Robert Moses designed a system of parkways surrounding New York City. His designs, which included overpasses too low for public buses, have become an often-cited example of exclusionary design and are argued by biographer Robert A. Caro to represent a purposeful barrier between the city’s Black and Puerto Rican residents and nearby beaches. \nRegardless of the details of Moses’s parkway project, it’s a particularly memorable reminder of the political power of design and the ways that choices can exclude various groups based on abilities and resources. The growing interest in inclusive design highlights questions of who can participate, and in relation to the web, this has often meant a focus on accessibility and user experience, as well as on questions related to team diversit…",
-          "link": "https://alistapart.com/article/designing-inclusive-content-models/",
-          "publishedOn": "2021-02-18T15:00:00.000Z",
-          "wordCount": 2855,
-          "title": "Designing Inclusive Content Models"
         }
       ]
     },
@@ -21464,6 +21715,17 @@
       "feedUrl": "http://feeds.feedburner.com/helloacm?format=xml",
       "siteUrl": "https://helloacm.com",
       "articles": [
+        {
+          "id": "https://helloacm.com/?p=149034",
+          "author": "ACMer",
+          "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms Yesterday, we talked about the Apple-Catching Game on Microbit: human plays with two Buttons, A to move the bowl one pixel left, B...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-simple-ai-algorithm-of-decision-rules-trees-in-microbit-apple-catching-game/",
+          "publishedOn": "2022-02-18T22:28:55.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Simple AI Algorithm of Decision Rules/Trees in Microbit Apple Catching Game",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://helloacm.com/?p=149014",
           "author": "ACMer",
@@ -22616,6 +22878,76 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=523580",
+          "author": "Bryan Cockfield",
+          "description": "With all the futuristic technology currently at our disposal, it seems a little bizarre that most passenger vehicles are essentially the same thing that they were a century ago. Four …read more",
+          "link": "https://hackaday.com/2022/02/18/rc-snowmobile-makes-tracks-on-ice/",
+          "publishedOn": "2022-02-19T00:00:38.000Z",
+          "wordCount": 1164,
+          "title": "RC Snowmobile Makes Tracks on Ice",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/3d-snowmobile-main.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=523596",
+          "author": "Bryan Cockfield",
+          "description": "Restoring classic hardware of any sort is a great hobby to have, whether it’s restoring vintage cars, tools, or even antique Apple or Commodore computers. Understanding older equipment can help …read more",
+          "link": "https://hackaday.com/2022/02/18/dial-into-the-internet-like-its-1999/",
+          "publishedOn": "2022-02-18T21:00:00.000Z",
+          "wordCount": 1484,
+          "title": "Dial Into the Internet Like It’s 1999",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/dialup-homelab-main.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=523533",
+          "author": "Matthew Carlson",
+          "description": "The future we know today looks very different than the one envisioned in the 60s and 70s. For starters, it has far too few Nixie tubes. An oversight [nixiebunny] wants …read more",
+          "link": "https://hackaday.com/2022/02/18/retro-future-nixie-corvair-instrument-panel/",
+          "publishedOn": "2022-02-18T19:30:19.000Z",
+          "wordCount": 1451,
+          "title": "Retro Future Nixie Corvair Instrument Panel",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/nixie_cardash_large.jpeg"
+        },
+        {
+          "id": "https://hackaday.com/?p=523667",
+          "author": "Tom Nardi",
+          "description": "Among the many facets of modern technology, few have evolved faster or more radically than the computer.  In less than a century its very nature has changed significantly: today’s smartphones …read more",
+          "link": "https://hackaday.com/2022/02/18/classic-chat-preserving-computer-history/",
+          "publishedOn": "2022-02-18T18:00:01.000Z",
+          "wordCount": 2006,
+          "title": "Classic Chat: Preserving Computer History",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2019/06/iStock-905255890.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=523718&preview=true&preview_id=523718",
+          "author": "Kristina Panos",
+          "description": "This week, Hackaday Editor-in-Chief Elliot Williams and Assignments Editor Kristina Panos fawn over a beautiful Italian split-flap clock that doesn’t come cheap, and another clock made of floppies that could …read more",
+          "link": "https://hackaday.com/2022/02/18/hackaday-podcast-156-3d-printing-rainbows-split-flap-clocks-swapping-ev-car-batteries-and-floppy-time/",
+          "publishedOn": "2022-02-18T17:00:47.000Z",
+          "wordCount": 1250,
+          "title": "Hackaday Podcast 156: 3D-Printing Rainbows, Split-Flap Clocks, Swapping EV Car Batteries, and Floppy Time",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=523498",
+          "author": "Dan Maloney",
+          "description": "It’s no secret that we really like circuit sculptures around here, and we never tire of seeing what creative ways people come up with to celebrate the components used to …read more",
+          "link": "https://hackaday.com/2022/02/18/sound-and-light-play-off-acrylic-and-wire-in-this-engaging-circuit-sculpture/",
+          "publishedOn": "2022-02-18T16:30:06.000Z",
+          "wordCount": 1242,
+          "title": "Sound and Light Play off Acrylic and Wire in This Engaging Circuit Sculpture",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/cwymriad.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=523566",
+          "author": "Jonathan Bennett",
+          "description": "Running Chrome or a Chromium-based browser? Check for version 98.0.4758.102, and update if you’re not running that release or better. Quick tip, use chrome://restart to trigger an immediate restart of …read more",
+          "link": "https://hackaday.com/2022/02/18/this-week-in-security-chrome-0-daycassandra-and-a-cisco-poc/",
+          "publishedOn": "2022-02-18T15:00:43.000Z",
+          "wordCount": 2113,
+          "title": "This Week in Security: Chrome 0-day,Cassandra, and a Cisco PoC",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg"
+        },
         {
           "id": "https://hackaday.com/?p=523345",
           "author": "Lewin Day",
@@ -30726,6 +31058,72 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "7E233334-AC53-4FEA-BEFA03BCD85C3AF3",
+          "author": "Lauren Wolf, Jeff Tollefson, Amy Maxmen, Nature magazine",
+          "description": "Celebrated sociologist Alondra Nelson and genome leader Francis Collins will temporarily split Lander’s duties\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/two-scientists-will-replace-u-s-science-adviser-eric-lander/",
+          "publishedOn": "2022-02-18T19:30:00.000Z",
+          "wordCount": null,
+          "title": "Two Scientists Will Replace U.S. Science Adviser Eric Lander",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "FE912CE5-1C03-4A47-8351D7A66353AD61",
+          "author": "Jean Chemnick, E&E News",
+          "description": "Political turmoil in Congress and uncertainty about climate regulations has hampered release of the report showing how the U.S. would cut emissions in half\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/why-the-white-house-never-released-its-2030-climate-strategy/",
+          "publishedOn": "2022-02-18T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Why the White House Never Released Its 2030 Climate Strategy",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "8362F44B-8922-4283-B79A7B86D8C12EAC",
+          "author": "Clara Moskowitz",
+          "description": "From brave exploration to just another playground for the 0.0000001 percent\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/billionaire-space-tourism-has-become-insufferable/",
+          "publishedOn": "2022-02-18T17:00:00.000Z",
+          "wordCount": null,
+          "title": "Billionaire Space Tourism Has Become Insufferable",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "BAE62D9D-3681-41BB-B864EB8284F17A7F",
+          "author": "Stephan Lewandowsky, Peter Jacobs, Stuart Neil",
+          "description": "Virus origin stories have always been prone to conspiracy theories. COVID disinformation has threatened research—and lives\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-lab-leak-hypothesis-made-it-harder-for-scientists-to-seek-the-truth/",
+          "publishedOn": "2022-02-18T14:00:00.000Z",
+          "wordCount": null,
+          "title": "The Lab-Leak Hypothesis Made It Harder for Scientists to Seek the Truth",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "EAFBE46A-4690-4CFE-922896E2D347C72D",
+          "author": "Jeffrey Glassberg",
+          "description": "The National Butterfly Center is closed because of threats from conspiracy theorists, robbing children in an underserved area of a chance to learn\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/dangerous-lies-threaten-the-national-butterfly-center/",
+          "publishedOn": "2022-02-18T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Dangerous Lies Fuel a New Kind of Butterfly Effect",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "D0D2E5C0-976D-477E-B6F5C408F467ED5D",
+          "author": "Nikk Ogasa",
+          "description": "New imaging tech could probe beyond corners, inside the body, and more\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/holographic-camera-instantly-peeks-around-obstacles/",
+          "publishedOn": "2022-02-18T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Holographic Camera Instantly Peeks around Obstacles",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "D590A87A-A660-49B6-9B73FA4471283874",
           "author": "Amanda Montañez, Jen Christiansen, Sabine Devins, Mariana Surillo, Ashley P. Taylor",
           "description": "Visualizing ongoing stories of loss, adaptation and inequality\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -37430,6 +37828,36 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=150134",
+          "author": "Mike Vizard",
+          "description": "Netlify this week added a Netlify Graph tool to its portfolio that makes backend services available to developers via a single click. The tool aims to simplify DevOps teams’ access to those services when building their applications. Netlify Graph is based on the GraphQL query language for application programming interfaces (APIs) and enables developers to […]\nThe post Netlify Leverages GraphQL to Simplify Access to Backend Services appeared first on DevOps.com.",
+          "link": "https://devops.com/netlify-leverages-graphql-to-simplify-access-to-backend-services/",
+          "publishedOn": "2022-02-18T19:52:01.000Z",
+          "wordCount": 1018,
+          "title": "Netlify Leverages GraphQL to Simplify Access to Backend Services",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/11/cryptography.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150111",
+          "author": "Tytus Kurek",
+          "description": "OpenStack, described as the world’s most widely deployed open source cloud software, will mark its 10-year anniversary milestone later in 2022. In September 2012, the OpenStack Foundation launched as an independent organization to manage and promote the technology—a watershed moment for a project announced just two years earlier. Today, with contributions from more than 34,000 […]\nThe post The Past, Present and Future of OpenStack appeared first on DevOps.com.",
+          "link": "https://devops.com/the-past-present-and-future-of-openstack/",
+          "publishedOn": "2022-02-18T08:00:55.000Z",
+          "wordCount": 1392,
+          "title": "The Past, Present and Future of OpenStack",
+          "imageUrl": "https://devops.com/wp-content/uploads/2021/07/Learning-from-Loris-Degioanni_-Cloud-Native-Days-.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150073",
+          "author": "Ravs Kaur",
+          "description": "What is the purpose of sprints? We break work into sprints so we can more easily monitor, estimate and predict what we want to ship and when. Over the years, engineering teams have gotten used to moving quickly from one sprint to the next, but I think it’s important to be more thoughtful in how […]\nThe post Best Practices to Improve your Engineering Sprints appeared first on DevOps.com.",
+          "link": "https://devops.com/best-practices-to-improve-your-engineering-sprints/",
+          "publishedOn": "2022-02-18T07:30:59.000Z",
+          "wordCount": 1381,
+          "title": "Best Practices to Improve your Engineering Sprints",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/11/sprint.jpg"
+        },
+        {
           "id": "https://devops.com/?p=150124",
           "author": "Alan Shimel",
           "description": "Alan Shimel talks with Sam Zietz, the CEO of Grubbrr and Touchsuite, about how software for kiosks can use Agile and DevOps to keep up with a wide range of hardware profiles. The video is below followed by a transcript of the conversation. Announcer: This is Digital Anarchist. Alan Shimel: Hey, everyone. Welcome to another […]\nThe post Agile and DevOps for Kiosks appeared first on DevOps.com.",
@@ -41344,6 +41772,16 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66899",
+          "author": "Nathan Yau",
+          "description": "Baby names gain sudden popularity for various reasons. See how it's changed over the years.\nTags: names",
+          "link": "https://flowingdata.com/2022/02/17/trendiest-baby-name-every-year-since-1930-in-the-u-s/",
+          "publishedOn": "2022-02-18T07:04:47.000Z",
+          "wordCount": 1120,
+          "title": "Trendiest Baby Name Every Year Since 1930, in the U.S.",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/02/trendy-names-featured.png"
+        },
         {
           "id": "https://flowingdata.com/?p=66883",
           "author": "Nathan Yau",
