@@ -2,10 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2022-02-20T00:19:50.691Z</updated>
+    <updated>2022-02-21T00:17:20.575Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hackaday Links: February 20, 2022]]></title>
+        <id>https://hackaday.com/?p=523463&amp;preview=true&amp;preview_id=523463</id>
+        <link href="https://hackaday.com/2022/02/20/hackaday-links-february-20-2022/"/>
+        <updated>2022-02-21T00:00:28.000Z</updated>
+        <summary type="html"><![CDATA[Sounds like somebody had a really bad day at work, as Western Digital reports that “factory contamination” caused a batch of flash memory chips to be spoiled. How much, you …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reverse Engineering a 900 MHz RC Transmitter And Receiver]]></title>
+        <id>https://hackaday.com/?p=523948</id>
+        <link href="https://hackaday.com/2022/02/20/reverse-engineering-a-900-mhz-rc-transmitter-and-receiver/"/>
+        <updated>2022-02-20T21:00:56.000Z</updated>
+        <summary type="html"><![CDATA[For those building their own remote controlled devices like RC boats and quadcopter drones, having a good transmitter-receiver setup is a significant factor in the eventual usability of their build. …read more]]></summary>
+        <author>
+            <name>Robin Kearey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winamp Reborn with the Adafruit PyPortal]]></title>
+        <id>https://hackaday.com/?p=523873</id>
+        <link href="https://hackaday.com/2022/02/20/winamp-reborn-with-the-adafruit-pyportal/"/>
+        <updated>2022-02-20T18:00:36.000Z</updated>
+        <summary type="html"><![CDATA[One look at the default Winamp skin is sure to reawaken fond memories for a certain segment of the community. For those who experienced the MP3 revolution first hand, few …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All About Dichroic Optical Filters]]></title>
+        <id>https://hackaday.com/?p=523600</id>
+        <link href="https://hackaday.com/2022/02/20/all-about-dichroic-optical-filters/"/>
+        <updated>2022-02-20T15:00:32.000Z</updated>
+        <summary type="html"><![CDATA[[IMSAI Guy] presents for your viewing pleasure, a nice video on the topic of optical filters and mirrors. (Video, embedded below) The first optical device is a simple absorption filter, …read more]]></summary>
+        <author>
+            <name>Dave Rowntree</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Readers Respond to the October 2021 Issue]]></title>
+        <id>ECD9B276-9624-432E-AAEDB35B67B825A1</id>
+        <link href="https://www.scientificamerican.com/article/readers-respond-to-the-october-2021-issue/"/>
+        <updated>2022-02-20T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Letters to the editor from the October 2021 issue of Scientific American
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Scientific American Content: Global</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a Pentester Gets Root]]></title>
+        <id>https://hackaday.com/?p=523913</id>
+        <link href="https://hackaday.com/2022/02/20/how-a-pentester-gets-root/"/>
+        <updated>2022-02-20T12:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wanted to be a fly on the wall, watching a penetration tester attack a new machine — working their way through the layers of security, ultimately leveraging …read more]]></summary>
+        <author>
+            <name>Donald Papp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Homemade Panadapter Brings Waterfall to Old Radio]]></title>
+        <id>https://hackaday.com/?p=523947</id>
+        <link href="https://hackaday.com/2022/02/20/homemade-panadapter-brings-waterfall-to-old-radio/"/>
+        <updated>2022-02-20T09:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Ham radio operators can be pretty selective about their gear. Some are old-school tube purists who would never think of touching a rig containing transistors, and others are perfectly happy …read more]]></summary>
+        <author>
+            <name>Adam Zeloof</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spectrometer Detects Chemicals by Zapping Samples With a Laser Beam]]></title>
+        <id>https://hackaday.com/?p=523686</id>
+        <link href="https://hackaday.com/2022/02/19/spectrometer-detects-chemicals-by-zapping-samples-with-a-laser-beam/"/>
+        <updated>2022-02-20T06:00:47.000Z</updated>
+        <summary type="html"><![CDATA[Here at Hackaday, we love projects that result in useful lab equipment for a fraction of the cost of professional gear. [Lorenz], over at Advanced Tinkering, built his own instrument …read more]]></summary>
+        <author>
+            <name>Robin Kearey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLAlchemy is a Better Way to Run Queries]]></title>
+        <id>https://hackernoon.com/sqlalchemy-is-a-better-way-to-run-queries?source=rss</id>
+        <link href="https://hackernoon.com/sqlalchemy-is-a-better-way-to-run-queries?source=rss"/>
+        <updated>2022-02-20T05:34:17.000Z</updated>
+        <summary type="html"><![CDATA[In college, I discovered a new and even better way to run queries, SQLAlchemy.]]></summary>
+        <author>
+            <name>Mike Wolfe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Last Remaining COVID Restriction in England Could be Gone in Weeks]]></title>
+        <id>https://hackernoon.com/last-remaining-covid-restriction-in-england-could-be-gone-in-weeks?source=rss</id>
+        <link href="https://hackernoon.com/last-remaining-covid-restriction-in-england-could-be-gone-in-weeks?source=rss"/>
+        <updated>2022-02-20T05:30:23.000Z</updated>
+        <summary type="html"><![CDATA[In this slogging thread, we discuss government policy surrounding Covid-19. We look at the UK governments recent policy to scrap isolation after a positive test]]></summary>
+        <author>
+            <name>Jack Boreham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DIY Hydrophone Listens in on the Deep for Cheap]]></title>
         <id>https://hackaday.com/?p=523850</id>
@@ -14,6 +117,19 @@
         <summary type="html"><![CDATA[The microphone is a pretty ubiquitous piece of technology that we’re all familiar with, but what if you’re not looking to record audio in the air, and instead want to …read more]]></summary>
         <author>
             <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Party With Atlas, Spot &amp; Stretch]]></title>
+        <id>http://www.i-programmer.info/news/169-robotics/15227-party-with-atlas-spot-a-stretch.html</id>
+        <link href="http://www.i-programmer.info/news/169-robotics/15227-party-with-atlas-spot-a-stretch.html"/>
+        <updated>2022-02-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What happens when you put together Samuel Adams beer and a trio of robots - a party. Watch this one-minute advert created by Boston Robotics for the recent Super Bowl which cleverly promotes both the ale and the robots.
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
         </author>
     </entry>
     <entry>
