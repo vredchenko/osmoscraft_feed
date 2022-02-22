@@ -925,6 +925,36 @@
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
         {
+          "id": "http://www.i-programmer.info/programming/cc/15232-fundamental-c-random-access-files.html",
+          "author": null,
+          "description": "This extract, from my book on programming C in an IoT context explains how easy random access files are in C and how easy it is to implement a simple database. .\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/programming/cc/15232-fundamental-c-random-access-files.html",
+          "publishedOn": "2022-02-21T18:36:54.000Z",
+          "wordCount": 1439,
+          "title": "Fundamental C - Random Access Files",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/news/149-security/15231-taking-open-source-software-security-seriously.html",
+          "author": null,
+          "description": "The Alpha Omega Project is a new initiative by the Linux Foundation to strengthen the security of critical open source applications.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/149-security/15231-taking-open-source-software-security-seriously.html",
+          "publishedOn": "2022-02-21T18:11:49.000Z",
+          "wordCount": 1644,
+          "title": "New Initiative For Taking Open Source Software Security Seriously",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/news/98-languages/15230-cobol-market-three-times-larger-than-thought.html",
+          "author": null,
+          "description": "A new global survey commissioned by Micro Focus has found that organizations are still hanging on to their COBOL code, and that the COBOL application footprint is in fact growing rather than shrinking.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/98-languages/15230-cobol-market-three-times-larger-than-thought.html",
+          "publishedOn": "2022-02-21T00:00:00.000Z",
+          "wordCount": 790,
+          "title": "Cobol Market Three Times Larger Than Thought",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.i-programmer.info/news/169-robotics/15227-party-with-atlas-spot-a-stretch.html",
           "author": null,
           "description": "What happens when you put together Samuel Adams beer and a trio of robots - a party. Watch this one-minute advert created by Boston Robotics for the recent Super Bowl which cleverly promotes both the ale and the robots.\n\r\n\nRead more...",
@@ -1697,6 +1727,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=363766",
+          "author": "Miriam Suzanne",
+          "description": "This is your complete guide to CSS cascade layers, a CSS feature that allows us to define explicit contained layers of specificity, so that we have full control over which styles take priority in a project without relying on specificity …\nA Complete Guide to CSS Cascade Layers originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-cascade-layers/",
+          "publishedOn": "2022-02-21T15:40:35.000Z",
+          "wordCount": 7498,
+          "title": "A Complete Guide to CSS Cascade Layers",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363766"
+        },
         {
           "id": "https://css-tricks.com/?p=363467",
           "author": "Hugh Haworth",
@@ -4010,6 +4050,206 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/9-solid-online-marketplace-businesses-to-start-in-2022?source=rss",
+          "author": "Nikunj Shingala",
+          "description": "Starting an online marketplace company requires a lot of brainstorming. Here is a list of the best marketplace ideas, together with reasons to invest.",
+          "link": "https://hackernoon.com/9-solid-online-marketplace-businesses-to-start-in-2022?source=rss",
+          "publishedOn": "2022-02-21T15:58:12.000Z",
+          "wordCount": 2413,
+          "title": "9 Solid Online Marketplace Businesses to Start in 2022",
+          "imageUrl": "https://cdn.hackernoon.com/images/dWR2Bn6zv0WfVVrrC3lXmF1Ccay1-s393hy7.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/cosmos-hub-and-interchain-securityama-recap-with-billy-rennekamp?source=rss",
+          "author": "Cosmos - Internet of Blockchains",
+          "description": "The following recap contains the key insights and highlights of the features and upgrades that Billy foresees coming to Cosmos Hub in the short- to mid-term.",
+          "link": "https://hackernoon.com/cosmos-hub-and-interchain-securityama-recap-with-billy-rennekamp?source=rss",
+          "publishedOn": "2022-02-21T14:37:58.000Z",
+          "wordCount": 2483,
+          "title": "Cosmos Hub and Interchain Security—AMA Recap with Billy Rennekamp",
+          "imageUrl": "https://cdn.hackernoon.com/images/ITwlV96ShKf9Qc8OdsLWcE5MToF2-ij537y6.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/creating-your-own-grammar-rules?source=rss",
+          "author": "Anatolii Kabanov",
+          "description": "Whenever you start wondering how to create your syntax or rules on expression, it’s probably time to check out this powerful tool - The Chevrotain.",
+          "link": "https://hackernoon.com/creating-your-own-grammar-rules?source=rss",
+          "publishedOn": "2022-02-21T13:36:50.000Z",
+          "wordCount": 1940,
+          "title": "Creating Your Own Grammar Rules",
+          "imageUrl": "https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-ml93iqw.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/book-recommendation-the-art-of-invisibility?source=rss",
+          "author": "CUTUGNO",
+          "description": "The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data",
+          "link": "https://hackernoon.com/book-recommendation-the-art-of-invisibility?source=rss",
+          "publishedOn": "2022-02-21T13:29:01.000Z",
+          "wordCount": 1521,
+          "title": "Book Recommendation: The Art of Invisibility",
+          "imageUrl": "https://cdn.hackernoon.com/images/fRfUpNRipMbRKcYxvw8Nug7etq92-07c3hay.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/is-learning-c-scary?source=rss",
+          "author": "Soheil Ataie",
+          "description": "Don't let C++ scare you!",
+          "link": "https://hackernoon.com/is-learning-c-scary?source=rss",
+          "publishedOn": "2022-02-21T12:52:52.000Z",
+          "wordCount": 1461,
+          "title": "Is Learning C++ Scary?",
+          "imageUrl": "https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-7193if2.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-start-using-video-prospecting-for-sales-outreach?source=rss",
+          "author": "Remi Dubreuil",
+          "description": "Video prospecting is a helpful tool that can be used to drive action, increase engagement, and increases the chances of converting responses to conversions.",
+          "link": "https://hackernoon.com/how-to-start-using-video-prospecting-for-sales-outreach?source=rss",
+          "publishedOn": "2022-02-21T12:23:26.000Z",
+          "wordCount": 2316,
+          "title": "How to Start Using Video Prospecting for Sales Outreach",
+          "imageUrl": "https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-ha93h06.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-foster-better-customer-relationships-in-post-pandemic-times?source=rss",
+          "author": "Daria Leshchenko",
+          "description": "With the pandemic dying down, its consequences are still with us. People have become more mindful about their health, spending, jobs, and relationships. Consumers’ relationships with brands have also changed, and brands have to adapt their customer service and support to new customer preferences.",
+          "link": "https://hackernoon.com/how-to-foster-better-customer-relationships-in-post-pandemic-times?source=rss",
+          "publishedOn": "2022-02-21T12:20:19.000Z",
+          "wordCount": 1906,
+          "title": "How to Foster Better Customer Relationships in Post-Pandemic Times",
+          "imageUrl": "https://cdn.hackernoon.com/images/FbffgeSiHWYXbhFLDYduYSDX0It2-po93ehw.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-reduce-the-risk-of-former-employees-coordinating-with-insider-threats?source=rss",
+          "author": "Isaac Kohen",
+          "description": "Here below are a couple of tips to keep in mind when thinking about how to minimize your risk from insider threats.",
+          "link": "https://hackernoon.com/how-to-reduce-the-risk-of-former-employees-coordinating-with-insider-threats?source=rss",
+          "publishedOn": "2022-02-21T11:57:11.000Z",
+          "wordCount": 2537,
+          "title": "How to Reduce the Risk of Former Employees Coordinating with Insider Threats",
+          "imageUrl": "https://cdn.hackernoon.com/images/LLrvCNDh4wV2AnDSX99Cw4LuBHV2-8r93hn6.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/5-innovative-nft-projects-and-platforms-to-look-out-for-in-2022?source=rss",
+          "author": "Cryptonite",
+          "description": "As NFT's continue to grow in popularity, new platforms and projects come into the market. In this post we'll look at five of these project.",
+          "link": "https://hackernoon.com/5-innovative-nft-projects-and-platforms-to-look-out-for-in-2022?source=rss",
+          "publishedOn": "2022-02-21T08:07:36.000Z",
+          "wordCount": 2493,
+          "title": "5 Innovative NFT Projects and Platforms to Look Out for in 2022",
+          "imageUrl": "https://cdn.hackernoon.com/images/GwZ4a1OS3uMhvLngHCl9tofBO1J2-uqa3hwa.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/what-characteristics-does-a-team-need-to-get-to-the-super-bowl-level?source=rss",
+          "author": "Lomit Patel",
+          "description": "To be the best of the best, Super Bowl championship teams need an elite level of consistency, trust, a culture of success, goals, measurement, and rewards.",
+          "link": "https://hackernoon.com/what-characteristics-does-a-team-need-to-get-to-the-super-bowl-level?source=rss",
+          "publishedOn": "2022-02-21T07:05:36.000Z",
+          "wordCount": 2263,
+          "title": "What Characteristics does a Team Need to Get to the \"Super Bowl\" Level?",
+          "imageUrl": "https://cdn.hackernoon.com/images/QCzUXmup1gWrS723VFnOS8C4jQ03-h493gsf.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/emancipation-starts-in-the-kitchen?source=rss",
+          "author": "Roxana Murariu",
+          "description": "What is the link between industrial/organizational psychology and modern kitchen layouts? It all started with Lillian Gilbreth.",
+          "link": "https://hackernoon.com/emancipation-starts-in-the-kitchen?source=rss",
+          "publishedOn": "2022-02-21T02:28:42.000Z",
+          "wordCount": 3118,
+          "title": "Emancipation Starts in the Kitchen",
+          "imageUrl": "https://cdn.hackernoon.com/images/h5C8TqlBPZgAJEaRCkDduZqoVSp1-2ca3hn0.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-we-increased-user-conversion-from-free-to-paying-by-76x?source=rss",
+          "author": "Yehoshua Zlotogorski",
+          "description": "3 ways we increased conversion from free to paid by 760%",
+          "link": "https://hackernoon.com/how-we-increased-user-conversion-from-free-to-paying-by-76x?source=rss",
+          "publishedOn": "2022-02-21T01:49:22.000Z",
+          "wordCount": 2301,
+          "title": "How we Increased User Conversion From Free to Paying by 7.6x",
+          "imageUrl": "https://cdn.hackernoon.com/images/1BW5yZGTxiWu5iaIExemIpxTpUs1-xq93oqz.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/the-top-10-digital-transformation-trends-in-manufacturing-for-2022?source=rss",
+          "author": "Sahil Rao",
+          "description": "Here are 10 emerging digital transformation trends in manufacturing that you should know about in 2022 and beyond, so you can stay ahead of the competition.",
+          "link": "https://hackernoon.com/the-top-10-digital-transformation-trends-in-manufacturing-for-2022?source=rss",
+          "publishedOn": "2022-02-21T01:44:17.000Z",
+          "wordCount": 2809,
+          "title": "The Top 10 Digital Transformation Trends in Manufacturing for 2022",
+          "imageUrl": "https://cdn.hackernoon.com/images/mjVy8NoBG6dO0Aewhy3sHk9nAo63-s9j3h7n.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-ccnp-collaboration-and-how-to-become-cisco-professional?source=rss",
+          "author": "Tanisha Mittal",
+          "description": "The CCNP Collaboration certification program prepares you for today's professional-level job roles in collaboration technologies.",
+          "link": "https://hackernoon.com/what-is-ccnp-collaboration-and-how-to-become-cisco-professional?source=rss",
+          "publishedOn": "2022-02-21T01:40:20.000Z",
+          "wordCount": 2042,
+          "title": "What is CCNP Collaboration and How to Become a Cisco Professional?",
+          "imageUrl": "https://cdn.hackernoon.com/images/XXnVE6wWDdRB1qhxX29XaEtgOA73-i093hps.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/changing-the-gamefi-game-an-interview-with-don-norbury-of-shrapnel?source=rss",
+          "author": "Arti Agarwal",
+          "description": "An interview with Don Norbury, Head of Studio at Shrapnel. Don explains how GameFi is the future of online gaming and why Shrapnel stands out from the rest.",
+          "link": "https://hackernoon.com/changing-the-gamefi-game-an-interview-with-don-norbury-of-shrapnel?source=rss",
+          "publishedOn": "2022-02-21T01:37:49.000Z",
+          "wordCount": 1930,
+          "title": "Changing the GameFi Game: An Interview with Don Norbury of Shrapnel",
+          "imageUrl": "https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-ad93za1.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/a-quick-guide-to-upgrading-laravel-to-version-9?source=rss",
+          "author": "epmnzava",
+          "description": "How you can upgrade your laravel application to version 9",
+          "link": "https://hackernoon.com/a-quick-guide-to-upgrading-laravel-to-version-9?source=rss",
+          "publishedOn": "2022-02-21T01:36:11.000Z",
+          "wordCount": 1506,
+          "title": "A Quick Guide to Upgrading Laravel to Version 9 🚀",
+          "imageUrl": "https://cdn.hackernoon.com/images/nUzRDdHSAqQc7LgE4w8EKypXWpo2-h893hkw.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/50-shades-of-mobile-app-development-how-to-choose-between-cross-platform-vs-native-solutions?source=rss",
+          "author": "Vit Nuzhnyi",
+          "description": "Most merchants choose to design their mobile apps for both platforms. But herein comes the challenge.",
+          "link": "https://hackernoon.com/50-shades-of-mobile-app-development-how-to-choose-between-cross-platform-vs-native-solutions?source=rss",
+          "publishedOn": "2022-02-21T01:26:38.000Z",
+          "wordCount": 3285,
+          "title": "Cross-Platform vs Native: The 50 Shades of Mobile App Development",
+          "imageUrl": "https://cdn.hackernoon.com/images/FHieUAQoPOX9Xa4afyQ8YD0Mb5D3-iuc3ee5.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/tor-vs-vpn-are-you-as-protected-as-you-think?source=rss",
+          "author": "jmau111",
+          "description": "Let's compare VPN services and Tor",
+          "link": "https://hackernoon.com/tor-vs-vpn-are-you-as-protected-as-you-think?source=rss",
+          "publishedOn": "2022-02-21T01:12:21.000Z",
+          "wordCount": 2366,
+          "title": "Tor vs VPN: Are You as Protected as You Think?",
+          "imageUrl": "https://cdn.hackernoon.com/images/d9rwN2Y6S7VxljPZiVNIIBf1ZG62-eg92fr7.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-distributed-ledgers-are-generating-new-career-opportunities-for-younger-generations?source=rss",
+          "author": "Masha Prusso",
+          "description": "Blockchains are disrupting the world - younger generations might want to think twice about the legacy education system.",
+          "link": "https://hackernoon.com/how-distributed-ledgers-are-generating-new-career-opportunities-for-younger-generations?source=rss",
+          "publishedOn": "2022-02-21T01:07:28.000Z",
+          "wordCount": 2068,
+          "title": "How Distributed Ledgers Are Generating New Career Opportunities For Younger Generations",
+          "imageUrl": "https://cdn.hackernoon.com/images/3NUCzSFHYLaT7248YjvrSAVSc3f2-bqa3ael.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/the-usability-of-dapps-should-be-as-simple-as-venmo-interview-with-milana-valmont-ceo-of-kira?source=rss",
+          "author": "Evelina Lavrova",
+          "description": "Milana Valmont, CEO KIRA, Layer 1 network that enables market access to any digital, about DApps market, the current pitfalls, trends, and the future of DApps",
+          "link": "https://hackernoon.com/the-usability-of-dapps-should-be-as-simple-as-venmo-interview-with-milana-valmont-ceo-of-kira?source=rss",
+          "publishedOn": "2022-02-21T01:04:18.000Z",
+          "wordCount": 3300,
+          "title": "The Usability of DApps Should be as Simple as Venmo: Interview with Milana Valmont, CEO of KIRA",
+          "imageUrl": "https://cdn.hackernoon.com/images/px6mGDEUJ2dVkfIk5PHKE18lCo83-8h93brl.jpeg"
+        },
         {
           "id": "https://hackernoon.com/sqlalchemy-is-a-better-way-to-run-queries?source=rss",
           "author": "Mike Wolfe",
@@ -21556,6 +21796,16 @@
       "siteUrl": "https://davidwalsh.name",
       "articles": [
         {
+          "id": "https://davidwalsh.name/?p=27538",
+          "author": "David Walsh",
+          "description": "Seemingly every website, dapp, and app offers a dark mode preference, and thank goodness. Dark mode is especially useful when I’m doing late night coding, or even worse, trading into altcoins. I’m presently working on implementing a dark theme on MetaMask and it got me to thinking: is there a way we can default to […]\nThe post Detect Dark Mode Preference with JavaScript appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/detect-dark-mode-preference-with-javascript",
+          "publishedOn": "2022-02-21T10:42:25.000Z",
+          "wordCount": 559,
+          "title": "Detect Dark Mode Preference with JavaScript",
+          "imageUrl": "https://davidwalsh.name/wp-content/themes/punky/images/logo.png"
+        },
+        {
           "id": "https://davidwalsh.name/?p=27535",
           "author": "David Walsh",
           "description": "One of my aspects of JavaScript that drew me to it as a young developers was that its syntax was loose and I could code quickly. As you gain experience as an engineer, you start to realize that some traditional coding structure is a good thing, even if it slows you down. Using Jest or […]\nThe post JavaScript Class Privates appeared first on David Walsh Blog.",
@@ -21965,6 +22215,17 @@
       "feedUrl": "http://feeds.feedburner.com/helloacm?format=xml",
       "siteUrl": "https://helloacm.com",
       "articles": [
+        {
+          "id": "https://helloacm.com/?p=149067",
+          "author": "ACMer",
+          "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms Rolling 3 dices, what is the probability of having Two Sixes in a Row? Rolling two sixes in a row can only be done in the following...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-probability-of-two-sixes-in-a-row-when-rolling-three-dices-math/",
+          "publishedOn": "2022-02-21T19:05:46.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Probability of Two Sixes in a Row when Rolling Three Dices (Math)",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://helloacm.com/?p=149053",
           "author": "ACMer",
@@ -23139,6 +23400,76 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=523505",
+          "author": "Bryan Cockfield",
+          "description": "When traveling into the wilderness with a group of people, it’s good to have a method of communications set up both for safety and practicality. In the past people often …read more",
+          "link": "https://hackaday.com/2022/02/21/an-off-grid-makeshift-cell-network/",
+          "publishedOn": "2022-02-21T21:00:49.000Z",
+          "wordCount": 1514,
+          "title": "An Off-Grid Makeshift Cell Network",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/off-grid-lora-main-1.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=523789",
+          "author": "Dave Rowntree",
+          "description": "[Zhihui Jun] is a name you’re going to want to remember because this Chinese maker has created quite probably one of the most complete open-source robot arms (video in Chinese …read more",
+          "link": "https://hackaday.com/2022/02/21/dummy-the-robot-arm-is-not-so-dumb/",
+          "publishedOn": "2022-02-21T18:00:19.000Z",
+          "wordCount": 1850,
+          "title": "Dummy The Robot Arm Is Not So Dumb",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/Snap-2022-02-19-at-07.38.56.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=523999",
+          "author": "Ryan Flowers",
+          "description": "It’s a dedicated hacker who has the patience to build an engine from scratch. And it’s a borderline obsessed hacker who does it twice. [Meanwhile In the Garage] is of …read more",
+          "link": "https://hackaday.com/2022/02/21/rotary-valve-engine-gets-a-second-chance-smokes-the-competition/",
+          "publishedOn": "2022-02-21T15:00:47.000Z",
+          "wordCount": 1652,
+          "title": "Rotary Valve Engine Gets a Second Chance, Smokes The Competition",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/rotary-valve-featured.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=524061",
+          "author": "Maya Posch",
+          "description": "Recently [Big Clive], everyone’s favorite purveyor of anything electronic that’s dodgy, cheap, cheerful, decidedly crispy or any combination thereof, got sent a very dead external power supply unit. Being clearly …read more",
+          "link": "https://hackaday.com/2022/02/21/the-little-replacement-psu-that-could-kill-a-microsoft-surface-and-monitor/",
+          "publishedOn": "2022-02-21T12:00:45.000Z",
+          "wordCount": 2850,
+          "title": "The Little Replacement PSU That Could: Kill A Microsoft Surface And Monitor",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/big_clive_pre-exploded_psu_inductor_heatsink.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=523969",
+          "author": "Jenny List",
+          "description": "It’s fair to say that for most of us, using a fiber optic cable for digital audio or maybe networking will involve the use of an off-the-shelf termination. We snap …read more",
+          "link": "https://hackaday.com/2022/02/21/a-ball-lens-for-optical-fiber-coupling-on-the-cheap/",
+          "publishedOn": "2022-02-21T09:00:06.000Z",
+          "wordCount": 1581,
+          "title": "A Ball Lens For Optical Fiber Coupling On The Cheap",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/fibre-optic-ball-featured.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=523883",
+          "author": "Arsenijs Picugins",
+          "description": "On Tech Twitter, some people are known for Their Thing – for example, [A13 (@sad_electronics)], (when they’re not busy designing electronics), searches the net to find outstanding parts to marvel …read more",
+          "link": "https://hackaday.com/2022/02/20/the-usb-c-connectors-you-never-knew-you-wanted-to-avoid/",
+          "publishedOn": "2022-02-21T06:00:49.000Z",
+          "wordCount": 2775,
+          "title": "The USB-C Connectors You Never Knew You Wanted To Avoid",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/had_sadelectronics_typec_2p_feat.jpeg"
+        },
+        {
+          "id": "https://hackaday.com/?p=523936",
+          "author": "Jenny List",
+          "description": "Sound recording has been a consumer technology for so long now that it is ubiquitous, reaching for a mobile device and firing up an app takes only an instant. Anyone …read more",
+          "link": "https://hackaday.com/2022/02/20/immersive-stereo-sound-recording-with-this-binaural-microphone/",
+          "publishedOn": "2022-02-21T03:00:46.000Z",
+          "wordCount": 2317,
+          "title": "Immersive Stereo Sound Recording With This Binaural Microphone",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/microphone-head-featured.jpg"
+        },
         {
           "id": "https://hackaday.com/?p=523463&preview=true&preview_id=523463",
           "author": "Dan Maloney",
@@ -31459,6 +31790,50 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "1A18263A-4049-481D-B26CA5F76485C9DC",
+          "author": "Morteza Mahmoudi",
+          "description": "It’s time to hold committees responsible for how they manage harassment claims\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/shoddy-harassment-investigations-are-a-stain-to-academia/",
+          "publishedOn": "2022-02-21T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Shoddy Harassment Investigations Are a Stain to Academia",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "A8C09E20-BB8B-4AEE-9AB356ACC7B4E8D4",
+          "author": "Davide Castelvecchi, Nature magazine",
+          "description": "The latest effort to weigh the elusive particle produces a more precise estimate of its upper limit\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-light-is-a-neutrino-the-answer-is-closer-than-ever/",
+          "publishedOn": "2022-02-21T14:00:00.000Z",
+          "wordCount": null,
+          "title": "How Light Is a Neutrino? The Answer Is Closer Than Ever",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "B5F8E444-D83B-4C6A-B8A694447F862566",
+          "author": "Tanya Lewis",
+          "description": "The insects balance separation and care for those infected by parasites\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/honeybees-social-distance-to-prevent-disease-too/",
+          "publishedOn": "2022-02-21T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Honeybees Social Distance to Prevent Disease, Too",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "C22176E1-A5E5-4C12-9FA9CBA9322B5C3D",
+          "author": "Briley Lewis",
+          "description": "A recently spotted bright light in the sky is improving astronomers’ understanding of stellar death\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/record-breaking-supernova-is-part-of-a-new-class-of-objects/",
+          "publishedOn": "2022-02-21T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Record-Breaking Supernova Is Part of a New Class of Objects",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "ECD9B276-9624-432E-AAEDB35B67B825A1",
           "author": null,
           "description": "Letters to the editor from the October 2021 issue of Scientific American\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -38239,6 +38614,56 @@
       "feedUrl": "https://devops.com/feed/",
       "siteUrl": "https://devops.com",
       "articles": [
+        {
+          "id": "https://devops.com/?p=150180",
+          "author": "Mike Vizard",
+          "description": "Fresh from picking up $5.25 million in funding, CloudTruth CEO Greg Arnette talks with Mike Vizard on this episode of the View With Vizard about why configuration and secrets management need to converge. The video is below, followed by a transcript of the conversation. Announcer: This is Digital Anarchist. Mike Vizard: Thanks for the throw. […]\nThe post Merging Secrets Management and Configuration appeared first on DevOps.com.",
+          "link": "https://devops.com/merging-secrets-management-and-configuration/",
+          "publishedOn": "2022-02-21T23:00:59.000Z",
+          "wordCount": 3019,
+          "title": "Merging Secrets Management and Configuration",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/08/secrets.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150178",
+          "author": "Mitch Ashley",
+          "description": "Infrastructure-as-code (IaC), often embodied by open source Terraform, is an essential ingredient to cloud and cloud-native strategies. But without the ability to scale, secure and manage IaC, you very quickly experience drift. Tim Davis, DevOps advocate with env0, pronounced “N zero”, discusses establishing a single source of truth and reigning in drift by updating and […]\nThe post Updating and Managing Infrastructure-as-Code (IaC) appeared first on DevOps.com.",
+          "link": "https://devops.com/updating-and-managing-infrastructure-as-code-iac/",
+          "publishedOn": "2022-02-21T22:52:14.000Z",
+          "wordCount": 3601,
+          "title": "Updating and Managing Infrastructure-as-Code (IaC)",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/02/IAC-cloud1.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150132",
+          "author": "Geoff Sheppard",
+          "description": "Modern business intelligence (BI) and analytics software solutions offer more ways to explore data and find insights than ever before. However, ensuring everyone in the enterprise can use analytics independently, when they need it, remains a challenge. For analytics to be adopted across the full enterprise, your tools need to be tailored for all users. […]\nThe post Natural Language Query (NLQ) is Key for Self-Service BI appeared first on DevOps.com.",
+          "link": "https://devops.com/natural-language-query-nlq-is-key-for-self-service-bi/",
+          "publishedOn": "2022-02-21T08:00:40.000Z",
+          "wordCount": 1225,
+          "title": "Natural Language Query (NLQ) is Key for Self-Service BI",
+          "imageUrl": "https://devops.com/wp-content/uploads/2021/02/Join-the-Open-Source-Languages-for-ZOS-User-Forum.png"
+        },
+        {
+          "id": "https://devops.com/?p=150129",
+          "author": "Suchismita Mohanty",
+          "description": "5G is more than a progressive step; it is a catalyst for individuals, society and industries to meet their digital aspirations. 5G goes beyond connectivity by providing a platform to collaborate across industries, and 5G networks will be at the center of an ecosystem that pushes society’s continued digital transformation forward. By design, 5G networks […]\nThe post Automation is Key for Success of 5G at Scale appeared first on DevOps.com.",
+          "link": "https://devops.com/automation-is-key-for-success-of-5g-at-scale/",
+          "publishedOn": "2022-02-21T07:30:00.000Z",
+          "wordCount": 1321,
+          "title": "Automation is Key for Success of 5G at Scale",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/04/Accelerating-IoT-by-Switching-to-5G.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150155",
+          "author": "ROELBOB",
+          "description": "The post Annoying People appeared first on DevOps.com.",
+          "link": "https://devops.com/annoying-people/",
+          "publishedOn": "2022-02-21T07:00:42.000Z",
+          "wordCount": 442,
+          "title": "Annoying People",
+          "imageUrl": "https://devops.com/wp-content/uploads/2022/02/annoying-people.jpg"
+        },
         {
           "id": "https://devops.com/?p=150134",
           "author": "Mike Vizard",
