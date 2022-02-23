@@ -123,6 +123,16 @@
       "siteUrl": "https://goteleport.com/blog/",
       "articles": [
         {
+          "id": "https://goteleport.com/blog/teleport-your-company-to-ipo/",
+          "author": null,
+          "description": "One of the most exciting things about working at Teleport is getting to see how our infrastructure access solutions enable customers to grow their business. Since software has eaten the world,  solutions like Teleport that enable developers to become more productive are essential to fast- growing companies. You simply can’t create a hyper growth business today without a strong software development muscle. The need for speed when it comes to software development is particularly strong for companies who are going to IPO in the next couple of years. They are growing fast, have customers that demand security and compliance best practices, and will need to comply with the public reporting and accountability requirements that come from being listed on a stock exchange. All of this explains why s…",
+          "link": "https://goteleport.com/blog/teleport-your-company-to-ipo/",
+          "publishedOn": "2022-02-22T00:00:00.000Z",
+          "wordCount": 1407,
+          "title": "Teleport Your Company to IPO",
+          "imageUrl": "https://goteleport.com/blog/images/2022/teleport-to-ipo@2x-min.png"
+        },
+        {
           "id": "https://goteleport.com/blog/authentication-vulnerabilities/",
           "author": null,
           "description": "The majority of threats related to the authentication process are associated with passwords and password-based authentication methods. But broken authentication also causes a significant amount of vulnerabilities. Broken authentication occurs when the implementation of the authentication process is flawed.  Unfortunately, this is usually hard to discover, and can be more severe than the risks associated with passwords.\nThis blog post explores the security vulnerabilities that are commonly found in the authentication and password process of a software application.  It will also discuss common attack vectors that are used to exploit weak authentication processes.\n6 vulnerabilities related to broken authentication\n1. Vulnerable authentication logic\nLogical flaws are a common source of vulnera…",
@@ -907,15 +917,6 @@
           "publishedOn": "2021-03-04T00:00:00.000Z",
           "wordCount": 3938,
           "title": "In Search of a Perfect Access Control System"
-        },
-        {
-          "id": "https://goteleport.com/blog/xss-attacks/",
-          "author": null,
-          "description": "What is an XSS Attack?\nCross-site scripting (XSS) is an attack that allows JavaScript from one site to\nrun on another. XSS is interesting not due to the technical difficulty of the\nattack but rather because it exploits some of the core security mechanisms of\nweb browsers and because of its sheer pervasiveness. Understanding XSS and its\nmitigations provides substantial insight into how the web works and how sites\nare safely (and unsafely) isolated from each other.\nBackground of XSS Attacks\nInitially the web was a collection of static HTML documents that the browser would render for users to view. As the web grew, demands for richer documents grew, which led to the development of JavaScript and cookies: JavaScript to make documents interactive and cookies to allow browsers to save the state …",
-          "link": "https://goteleport.com/blog/xss-attacks/",
-          "publishedOn": "2021-02-23T00:00:00.000Z",
-          "wordCount": 4284,
-          "title": "XSS Attack Examples and Mitigations"
         }
       ]
     },
@@ -924,6 +925,36 @@
       "feedUrl": "https://www.i-programmer.info/index.php?option=com_ninjarsssyndicator&feed_id=3&format=raw",
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
+        {
+          "id": "http://www.i-programmer.info/book-watch-archive/15234-php-a-mysql-server-side-web-development-wiley.html",
+          "author": null,
+          "description": "In this book Jon Duckett shows how PHP is used to build sites, along with how website sites store information in MySQL, and how to use the database to create the web pages. This full-color book has code examples, infographics and photography that cover the PHP language and how to work with databases, along with how to build new applications from scratch.\n\r\n<ASIN:1119149223>\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/book-watch-archive/15234-php-a-mysql-server-side-web-development-wiley.html",
+          "publishedOn": "2022-02-22T17:48:58.000Z",
+          "wordCount": 488,
+          "title": "PHP &amp; MySQL: Server-side Web Development (Wiley)",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/news/87-web-development/15233-mdn-plus-about-to-launch.html",
+          "author": null,
+          "description": "Next month Mozilla is expected to launch MDN Plus, a new premium service to supplement the free-to-access MDN Web Docs in several countries. The cost is expected to be $10 USD per month or $100 USD per year.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/87-web-development/15233-mdn-plus-about-to-launch.html",
+          "publishedOn": "2022-02-22T12:31:07.000Z",
+          "wordCount": 934,
+          "title": "MDN Plus About To Launch",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/news/150-training-a-education/15235-take-the-haskell-beginners-2022-course.html",
+          "author": null,
+          "description": "There's a short and free course on YouTube about Haskell and Functional Programming,  taught by a very experienced developer.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/150-training-a-education/15235-take-the-haskell-beginners-2022-course.html",
+          "publishedOn": "2022-02-22T00:00:00.000Z",
+          "wordCount": 1180,
+          "title": "Take The Haskell Beginners 2022 Course",
+          "imageUrl": null
+        },
         {
           "id": "http://www.i-programmer.info/programming/cc/15232-fundamental-c-random-access-files.html",
           "author": null,
@@ -1727,6 +1758,26 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=363998",
+          "author": "Chris Coyier",
+          "description": "That’s a damn one-two punch from Dave. He goes for the ultimate clickbait title¹, then follows up with a pile of epic advice for us all. If you want web browsers to get better, listen up:\nComplaining on \n…\nBefore I go: When it comes to complaining about web browsers originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/before-i-go-when-it-comes-to-complaining-about-web-browsers/",
+          "publishedOn": "2022-02-22T20:06:57.000Z",
+          "wordCount": 548,
+          "title": "Before I go: When it comes to complaining about web browsers",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363998"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363511",
+          "author": "Alex MacArthur",
+          "description": "On several occasions, I’ve needed to send off an HTTP request with some data to log when a user does something like navigate to a different page or submit a form. Consider this contrived example of sending some information to …\nReliably Send an HTTP Request as a User Leaves a Page originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/send-an-http-request-on-page-exit/",
+          "publishedOn": "2022-02-22T15:24:01.000Z",
+          "wordCount": 2248,
+          "title": "Reliably Send an HTTP Request as a User Leaves a Page",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363511"
+        },
         {
           "id": "https://css-tricks.com/?p=363766",
           "author": "Miriam Suzanne",
@@ -4050,6 +4101,166 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/what-is-inside-the-quantum-realm-6-important-points-to-remember?source=rss",
+          "author": "Karkuzhali Selvarajan",
+          "description": "In the quantum realm, we can't define a particle’s definite position or momentum but only its probability. But STM gives us a way around this.",
+          "link": "https://hackernoon.com/what-is-inside-the-quantum-realm-6-important-points-to-remember?source=rss",
+          "publishedOn": "2022-02-22T10:48:50.000Z",
+          "wordCount": 2878,
+          "title": "What is Inside The Quantum Realm? - 6  Important Points to Remember",
+          "imageUrl": "https://cdn.hackernoon.com/images/zcvweoRwmVTpxqDnjpmRappzvp42-5993enu.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/why-pangolin-is-one-of-the-best-stories-in-crypto?source=rss",
+          "author": "Ben Knaus",
+          "description": "Pangolin is one of the best stories in Crypto. A community controlled decentralized exchange.",
+          "link": "https://hackernoon.com/why-pangolin-is-one-of-the-best-stories-in-crypto?source=rss",
+          "publishedOn": "2022-02-22T09:58:58.000Z",
+          "wordCount": 2230,
+          "title": "Why Pangolin is One of the Best Stories in Crypto",
+          "imageUrl": "https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-tq93jhl.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-combat-cyber-security-threats-and-attacks?source=rss",
+          "author": "HAAZIMS",
+          "description": "Progress in complex technology can result in the ‘progress’ of complex threats.",
+          "link": "https://hackernoon.com/how-to-combat-cyber-security-threats-and-attacks?source=rss",
+          "publishedOn": "2022-02-22T05:33:03.000Z",
+          "wordCount": 2112,
+          "title": "How to Combat Cyber Security Threats and Attacks",
+          "imageUrl": "https://cdn.hackernoon.com/images/hpBoIgdGaLcIxfRSgPCYMMGGly93-8nh3h4r.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-invest-your-first-$100-in-crypto-and-make-a-profit?source=rss",
+          "author": "Okonkwo Chinonso",
+          "description": "Get in there and make the most of your $100.",
+          "link": "https://hackernoon.com/how-to-invest-your-first-$100-in-crypto-and-make-a-profit?source=rss",
+          "publishedOn": "2022-02-22T04:29:20.000Z",
+          "wordCount": 2294,
+          "title": "How to Invest Your First $100 in Crypto and Make a Profit",
+          "imageUrl": "https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-7293w96.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-deal-with-pagination-in-python-a-step-by-step-guide?source=rss",
+          "author": "Scraper API",
+          "description": "Full Code step-by-step guide on how to deal with pagination in Python.",
+          "link": "https://hackernoon.com/how-to-deal-with-pagination-in-python-a-step-by-step-guide?source=rss",
+          "publishedOn": "2022-02-22T03:27:44.000Z",
+          "wordCount": 2955,
+          "title": "How to Deal With Pagination in Python; A Step-by-Step Guide",
+          "imageUrl": "https://cdn.hackernoon.com/images/9LegKZZsgRV9NaF0WcwRTp5gBUv2-koa3gng.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/litecoin-lite-on-love?source=rss",
+          "author": "Anthony Watson",
+          "description": "LTC is the cryptocurrency world’s ultimate wallflower.",
+          "link": "https://hackernoon.com/litecoin-lite-on-love?source=rss",
+          "publishedOn": "2022-02-22T03:20:14.000Z",
+          "wordCount": 1683,
+          "title": "Litecoin: Lite On Love",
+          "imageUrl": "https://cdn.hackernoon.com/images/Y8OnbrBlePVzFHizwYeYKtHAbMn1-f132287v.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/noonies2021-awards-the-list-of-winners-in-the-gaming-category?source=rss",
+          "author": "Noonies 2021",
+          "description": "HackerNoon went all out for its annual Noonies Awards in 2021, making it the most exciting Noonies to date.",
+          "link": "https://hackernoon.com/noonies2021-awards-the-list-of-winners-in-the-gaming-category?source=rss",
+          "publishedOn": "2022-02-21T23:08:06.000Z",
+          "wordCount": 5012,
+          "title": "#Noonies2021 Awards: The List of Winners in the Gaming Category",
+          "imageUrl": "https://cdn.hackernoon.com/images/DM0HwTcIK6VVBpObjhC9iaVMHWu2-b193wp2.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/zero-knowledge-proof-algorithm-zk-stark-fri-protocol?source=rss",
+          "author": "Sin7Y",
+          "description": "We reach the conclusion of the series “Understanding the value of a zero-knowledge proof algorithm - Zk-stark\".",
+          "link": "https://hackernoon.com/zero-knowledge-proof-algorithm-zk-stark-fri-protocol?source=rss",
+          "publishedOn": "2022-02-21T21:03:00.000Z",
+          "wordCount": 2725,
+          "title": "Zero-Knowledge Proof Algorithm: ZK-Stark-FRI Protocol",
+          "imageUrl": "https://cdn.hackernoon.com/images/Ns6mVt8NqgNkfsouVyus9tAe3mB2-3693fsx.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/jquery-is-not-defined-how-to-fix-this-common-error?source=rss",
+          "author": "Bugsnag",
+          "description": "One of the most common JavaScript errors we see affecting our customers is jQuery is not defined. A pretty serious problem if your web app relies on jQuery .",
+          "link": "https://hackernoon.com/jquery-is-not-defined-how-to-fix-this-common-error?source=rss",
+          "publishedOn": "2022-02-21T20:29:53.000Z",
+          "wordCount": 1550,
+          "title": "jQuery is Not Defined: How to Fix This Common Error",
+          "imageUrl": "https://cdn.hackernoon.com/images/G7JOCMInhTbqoh3WpBaCwVWcsc22-l5037l9.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/edge-intelligence-the-upcoming-challenger-to-cloud-intelligence?source=rss",
+          "author": "Biswa Sengupta",
+          "description": "The true edge intelligence lies in this decentralised topology, which will give rise to a new generation of chip companies focusing on computation and more.",
+          "link": "https://hackernoon.com/edge-intelligence-the-upcoming-challenger-to-cloud-intelligence?source=rss",
+          "publishedOn": "2022-02-21T20:12:48.000Z",
+          "wordCount": 2407,
+          "title": "Edge Intelligence: the Upcoming Challenger to Cloud Intelligence",
+          "imageUrl": "https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-2s93isz.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/building-a-metaverse-for-everyone?source=rss",
+          "author": "Biswa Sengupta",
+          "description": "",
+          "link": "https://hackernoon.com/building-a-metaverse-for-everyone?source=rss",
+          "publishedOn": "2022-02-21T20:11:19.000Z",
+          "wordCount": 2627,
+          "title": "Building a Metaverse For Everyone",
+          "imageUrl": "https://cdn.hackernoon.com/images/sdhKg7daWdaUhkFpzn4JlNQUkUp1-7ec3hke.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/why-you-need-to-stop-writing-unit-tests?source=rss",
+          "author": "Alex Ramalho",
+          "description": "The way you test has a huge impact on your codebase maintainability. There is  a simple way to improve it",
+          "link": "https://hackernoon.com/why-you-need-to-stop-writing-unit-tests?source=rss",
+          "publishedOn": "2022-02-21T20:01:59.000Z",
+          "wordCount": 2705,
+          "title": "Why You Need to Stop Writing Unit Tests",
+          "imageUrl": "https://cdn.hackernoon.com/images/Y1kei5adbKSsTvy0dQrLrqfKAGm2-1693gkb.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/can-we-make-sense-of-android-crash-logs-lets-find-out?source=rss",
+          "author": "Bugsnag",
+          "description": "In this blog post we’ll cover the three most important crash logs used by the system: exception stack traces, ANR traces, and NDK tombstones.",
+          "link": "https://hackernoon.com/can-we-make-sense-of-android-crash-logs-lets-find-out?source=rss",
+          "publishedOn": "2022-02-21T19:59:12.000Z",
+          "wordCount": 4200,
+          "title": "Can We Make Sense of Android Crash Logs? Let’s Find Out",
+          "imageUrl": "https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-x893gz3.png"
+        },
+        {
+          "id": "https://hackernoon.com/why-do-government-bodies-treat-crypto-the-way-they-do?source=rss",
+          "author": "Wayne Huang",
+          "description": "What will it mean to regulators and Wall Street/Main Street investors when crypto assets meet the physical economy?",
+          "link": "https://hackernoon.com/why-do-government-bodies-treat-crypto-the-way-they-do?source=rss",
+          "publishedOn": "2022-02-21T19:48:15.000Z",
+          "wordCount": 3347,
+          "title": "Why do Government Bodies Treat Crypto the Way They Do?",
+          "imageUrl": "https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-nd93zbr.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/ex-bored-ape-yacht-club-artist-launches-female-based-sneaky-vampire-nft-collection?source=rss",
+          "author": "Ishan Pandey",
+          "description": "Ex-BAYC artist is launching the 2nd collection for Sneaky Vampire NFT Collection.",
+          "link": "https://hackernoon.com/ex-bored-ape-yacht-club-artist-launches-female-based-sneaky-vampire-nft-collection?source=rss",
+          "publishedOn": "2022-02-21T19:41:34.000Z",
+          "wordCount": 2289,
+          "title": "Ex-Bored Ape Yacht Club Artist Launches Female based Sneaky Vampire NFT Collection",
+          "imageUrl": "https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-1le3n0a.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/heroes-of-mavia-raises-$25-million-from-cryptocom-capital-to-expand-play-2-earn-gaming-ecosystem?source=rss",
+          "author": "Ishan Pandey",
+          "description": "Heroes of Mavia, a blockchain-based play-to-earn massively multiplayer online (MMO) strategy game, has closed a $2.5 million strategic investment.",
+          "link": "https://hackernoon.com/heroes-of-mavia-raises-$25-million-from-cryptocom-capital-to-expand-play-2-earn-gaming-ecosystem?source=rss",
+          "publishedOn": "2022-02-21T19:39:19.000Z",
+          "wordCount": 2415,
+          "title": "Heroes of Mavia Raises $2.5 Million from Crypto.com Capital to Expand Play-2-Earn Gaming Ecosystem",
+          "imageUrl": "https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-32b3no4.jpeg"
+        },
         {
           "id": "https://hackernoon.com/9-solid-online-marketplace-businesses-to-start-in-2022?source=rss",
           "author": "Nikunj Shingala",
@@ -22216,6 +22427,17 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=149082",
+          "author": "ACMer",
+          "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms You are given a dice, rolling 3 times one after another. what is the probability of obtaining numbers in strictly increasing order?...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-probability-of-rolling-a-dice-strictly-increasing-order-one-after-another/",
+          "publishedOn": "2022-02-22T21:58:48.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Probability of Rolling a Dice: Strictly Increasing Order One After Another",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://helloacm.com/?p=149067",
           "author": "ACMer",
           "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms Rolling 3 dices, what is the probability of having Two Sixes in a Row? Rolling two sixes in a row can only be done in the following...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -23400,6 +23622,76 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=524096",
+          "author": "Maya Posch",
+          "description": "Who can say ‘no’ to a free TV, even if it’s broken? This was the situation [Andrew Menadue] ended up in last year when he was offered an LG 39LE4900 …read more",
+          "link": "https://hackaday.com/2022/02/22/what-to-do-with-a-broken-television-when-you-cant-fix-it/",
+          "publishedOn": "2022-02-23T00:00:32.000Z",
+          "wordCount": 1180,
+          "title": "What To Do With A Broken Television When You Can’t Fix It",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/auo_display_controller_board.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=524090",
+          "author": "Robin Kearey",
+          "description": "Debugging network issues isn’t easy; many a sysadmin has spent hours trying to figure out which of the many links between client and server is misbehaving. Having a few clear …read more",
+          "link": "https://hackaday.com/2022/02/22/classic-multimeter-tells-you-if-your-wifis-working/",
+          "publishedOn": "2022-02-22T21:00:51.000Z",
+          "wordCount": 1468,
+          "title": "Classic Multimeter Tells You If Your WiFi’s Working",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/Simpson-260-Ping-Meter.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=523959",
+          "author": "Dave Rowntree",
+          "description": "[Stefan] from CNCKitchen wanted to make some bendy tubes for a window-mountable ball run, and rather than coming up with some bent tube models, it seemed there might be a …read more",
+          "link": "https://hackaday.com/2022/02/22/bend-your-vase-mode-prints-by-hacking-the-gcode/",
+          "publishedOn": "2022-02-22T19:30:44.000Z",
+          "wordCount": 1258,
+          "title": "Bend Your Vase Mode Prints By Hacking The GCode",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/Snap-2022-02-20-at-20.44.12.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=523444",
+          "author": "Al Williams",
+          "description": "While Star Trek’s transporter is hard to imagine — perfect matter movement across vast distances with no equipment on one end — it may not be the most far-fetched piece …read more",
+          "link": "https://hackaday.com/2022/02/22/ai-maybe-revives-dead-languages/",
+          "publishedOn": "2022-02-22T18:00:54.000Z",
+          "wordCount": 2809,
+          "title": "AI Maybe Revives Dead Languages",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/AI.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=524042",
+          "author": "Robin Kearey",
+          "description": "Doorbells are among those everyday objects that started out simple but picked up an immense amount of complexity over the years. What began as a mechanism to bang two pieces …read more",
+          "link": "https://hackaday.com/2022/02/22/minimalistic-doorbell-doesnt-need-an-internet-connection-or-even-a-power-supply/",
+          "publishedOn": "2022-02-22T16:30:34.000Z",
+          "wordCount": 2260,
+          "title": "Minimalistic Doorbell Doesn’t Need An Internet Connection – Or Even a Power Supply",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/Low-tech-doorbell.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=523292",
+          "author": "Dan Maloney",
+          "description": "Most of us probably have some vivid memories of high school or college chemistry lab, where the principles of the science were demonstrated, and where we all got at least …read more",
+          "link": "https://hackaday.com/2022/02/22/big-chemistry-from-gasoline-to-wintergreen/",
+          "publishedOn": "2022-02-22T15:00:57.000Z",
+          "wordCount": 3325,
+          "title": "Big Chemistry: From Gasoline to Wintergreen",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/Chemistry.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=524203",
+          "author": "Al Williams",
+          "description": "You’ve probably heard of the infamous rule 34, but we’d like to propose a new rule — call it rule 35: Anything that can be used for nefarious purposes will …read more",
+          "link": "https://hackaday.com/2022/02/22/no-privacy-cloning-the-airtag/",
+          "publishedOn": "2022-02-22T12:00:14.000Z",
+          "wordCount": 3076,
+          "title": "No Privacy: Cloning the AirTag",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/tag.png"
+        },
         {
           "id": "https://hackaday.com/?p=523505",
           "author": "Bryan Cockfield",
@@ -31790,6 +32082,90 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "BB7A3202-0AA9-44B1-A5406AD67D9A54DE",
+          "author": "Holly Else, Nisha Gaind, Nature magazine",
+          "description": "Researchers say that conflict will hinder progress made since Ukraine’s revolution in 2014\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/ukrainian-scientists-fear-for-their-lives-and-future-amid-russian-threat/",
+          "publishedOn": "2022-02-22T20:15:00.000Z",
+          "wordCount": null,
+          "title": "Ukrainian Scientists Fear for their Lives and Future Amid Russian Threat",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "5E6F9F0F-4412-4FF6-B856F8CFE6B342B8",
+          "author": "Niina H. Farah, Heather Richards, E&E News",
+          "description": "A court order barring use of an interim social cost of carbon could slow at least 38 pending rules from four agencies\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/white-house-predicts-major-delays-to-climate-rules-after-court-nixes-carbon-metric/",
+          "publishedOn": "2022-02-22T20:00:00.000Z",
+          "wordCount": null,
+          "title": "White House Predicts Major Delays to Climate Rules After Court Nixes Carbon Metric",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "1EDD9A1B-999C-447C-B3A887DA95320A04",
+          "author": "Nnimmo Bassey",
+          "description": "Those with the most at stake were heard the least\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/vaccine-inequality-has-shut-vulnerable-people-out-of-plans-to-save-the-planet/",
+          "publishedOn": "2022-02-22T17:00:00.000Z",
+          "wordCount": null,
+          "title": "Vaccine Inequality Has Shut Vulnerable People Out of Plans to Save the Planet",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "EA9578D4-6E0C-4BAA-AD027BB3FE37EF2F",
+          "author": "Dave Ford, Henry Englert",
+          "description": "Truly global participation in the process will create more than just a Paris Agreement for plastics\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/we-need-a-global-plastics-treaty-to-stop-an-environmental-disaster/",
+          "publishedOn": "2022-02-22T16:00:00.000Z",
+          "wordCount": null,
+          "title": "We Need a Global Plastics Treaty to Stop an Environmental Disaster",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "A3CD469E-C0D0-41B4-8D5CBCB63852A03D",
+          "author": "Teresa L. Carey",
+          "description": "In Rockport, an array of nearly 11,000 solar panels will soon begin a solar harvest, as the sweet berries growing below them ripen on the bush.\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/podcast/episode/this-maine-farm-is-harvesting-the-suns-power-while-it-picks-the-blueberries/",
+          "publishedOn": "2022-02-22T15:00:00.000Z",
+          "wordCount": null,
+          "title": "This Maine Farm is Harvesting the Sun's Power While it Picks the Blueberries",
+          "itunes": {
+            "duration": "07:27"
+          },
+          "enclosure": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=5203EDCB-4F31-4436-9F66A58EC9ADCD94",
+            "length": "6277256",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "01A074C5-AE0D-4091-BF36742D52DADE48",
+          "author": "Rizwan Virk",
+          "description": "As in the world of The Matrix, we may not be able to tell what’s real and what’s not\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-metaverse-is-coming-we-may-already-be-in-it/",
+          "publishedOn": "2022-02-22T13:00:00.000Z",
+          "wordCount": null,
+          "title": "The Metaverse Is Coming; We May Already Be in It",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "349B156C-324E-48E8-B729945A60196A83",
+          "author": "Karmela Padavic-Callaghan",
+          "description": "Physicists have finally solved the long-standing mystery of why water moves faster through narrower nanotubes\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/quantum-friction-explains-waters-freaky-flow/",
+          "publishedOn": "2022-02-22T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Quantum Friction Explains Water's Freaky Flow",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "1A18263A-4049-481D-B26CA5F76485C9DC",
           "author": "Morteza Mahmoudi",
           "description": "It’s time to hold committees responsible for how they manage harassment claims\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -38615,6 +38991,26 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=150152",
+          "author": "Gil Hoffer",
+          "description": "Imagine a world without DevOps. Everything that could be automated isn’t. Any job you dream up isn’t possible and, instead, you have to dig 10 to 15 clicks deep into a friendly but oppressive software interface to make every single change. Oh, and there’s no way to run searches. Picture that and you have a […]\nThe post Without a Universal Language, Business Systems are Doomed appeared first on DevOps.com.",
+          "link": "https://devops.com/without-a-universal-language-business-systems-are-doomed/",
+          "publishedOn": "2022-02-22T08:00:02.000Z",
+          "wordCount": 1441,
+          "title": "Without a Universal Language, Business Systems are Doomed",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/08/low-code.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150144",
+          "author": "Amol Gawas",
+          "description": "Technological advancements have increased the demand for enhanced infrastructure with quick deployments. Public cloud providers are constantly upgrading their policies and infrastructure to match ever-growing business requirements. This competition gives businesses the ability to choose the cloud provider(s) that best fit specific governance and cost-effectiveness needs. In this blog, we discuss migrating databases from SQL […]\nThe post Database Migration from Microsoft Azure to Snowflake on AWS: Part 1 appeared first on DevOps.com.",
+          "link": "https://devops.com/database-migration-from-microsoft-azure-to-snowflake-on-aws-part-1/",
+          "publishedOn": "2022-02-22T07:30:15.000Z",
+          "wordCount": 1653,
+          "title": "Database Migration from Microsoft Azure to Snowflake on AWS: Part 1",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/08/canstockphoto2581232_770x330.jpg"
+        },
+        {
           "id": "https://devops.com/?p=150180",
           "author": "Mike Vizard",
           "description": "Fresh from picking up $5.25 million in funding, CloudTruth CEO Greg Arnette talks with Mike Vizard on this episode of the View With Vizard about why configuration and secrets management need to converge. The video is below, followed by a transcript of the conversation. Announcer: This is Digital Anarchist. Mike Vizard: Thanks for the throw. […]\nThe post Merging Secrets Management and Configuration appeared first on DevOps.com.",
@@ -41885,6 +42281,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=112509",
+          "author": "Pradeep Mutalik",
+          "description": "How to win games by going second and leaving your opponent with no good options.            \nThe post Play First and Lose: Zugzwang in Chess, Math and Pizzas first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/zugzwang-in-chess-math-and-pizzas-20220222/",
+          "publishedOn": "2022-02-22T15:07:13.000Z",
+          "wordCount": 1954,
+          "title": "Play First and Lose: Zugzwang in Chess, Math and Pizzas",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/02/Zugzwang_1200_social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=112582",
           "author": "Allison Whitten",
           "description": "Algorithms that use the brain’s communication signal can now work on analog neuromorphic chips, which closely mimic our energy-efficient brains.            \nThe post AI Overcomes Stumbling Block on Brain-Inspired Hardware first appeared on Quanta Magazine",
@@ -42609,6 +43015,16 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66919",
+          "author": "Nathan Yau",
+          "description": "For The Pudding, Rebecca Monteleone and Jamie Brew (with design and code by…\nTags: Pudding, readability, writing",
+          "link": "https://flowingdata.com/2022/02/22/more-readable-writing-illustrated-with-more-readable-writing/",
+          "publishedOn": "2022-02-22T10:12:33.000Z",
+          "wordCount": 299,
+          "title": "More readable writing illustrated with more readable writing",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/02/Writing-more-readable.png"
+        },
         {
           "id": "https://flowingdata.com/?p=66899",
           "author": "Nathan Yau",
