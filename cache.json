@@ -926,6 +926,26 @@
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
         {
+          "id": "http://www.i-programmer.info/news/87-web-development/15241-google-adds-authorization-to-identity-services-sdk.html",
+          "author": null,
+          "description": "Google Identity Services has been expanded with an authorization feature that aims to make it easier for developers to use to implement secure sign-ins.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/87-web-development/15241-google-adds-authorization-to-identity-services-sdk.html",
+          "publishedOn": "2022-02-24T14:32:08.000Z",
+          "wordCount": 711,
+          "title": "Google Adds Authorization To Identity Services SDK",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/news/149-security/15240-github-code-scanning-now-uses-machine-learning.html",
+          "author": null,
+          "description": "GitHub's code analysis technology based on CodeQL has been revamped and now uses machine learning (ML) to find potential security vulnerabilities in code.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/149-security/15240-github-code-scanning-now-uses-machine-learning.html",
+          "publishedOn": "2022-02-24T14:13:46.000Z",
+          "wordCount": 669,
+          "title": "GitHub Code Scanning Now Uses Machine Learning",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.i-programmer.info/bookreviews/11-aspnet/15237-aspnet-core-in-action-2nd-ed.html",
           "author": null,
           "description": "Author: Andrew Lock\nPublisher: Manning\nDate:April 2021\nPages: 832\nISBN: 978-1617298301\nPrint: 1617298301\nAudience: Developers interested in ASP.NET\nRating: 4 \nReviewer: Ian Elliot\nOne big book to cover the one big alternative web tech.\n\r\n\nRead more...",
@@ -943,6 +963,16 @@
           "publishedOn": "2022-02-23T01:12:46.000Z",
           "wordCount": 1044,
           "title": "The State Of JavaScript 2021",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/book-watch-archive/15239-java-a-beginners-guide-9th-ed-mcgraw-hill.html",
+          "author": null,
+          "description": "Updated for Java Platform Standard Edition 17, this hands-on book shows, step by step, how to get started programming in Java from the very first chapter. Herbert Schildt starts with the basics, such as how to create, compile, and run a Java program. From there, you will learn essential Java keywords, syntax, and commands.\n\r\n<ASIN:1260463559>\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/book-watch-archive/15239-java-a-beginners-guide-9th-ed-mcgraw-hill.html",
+          "publishedOn": "2022-02-23T00:00:00.000Z",
+          "wordCount": 490,
+          "title": "Java: A Beginner's Guide, 9th Ed (McGraw Hill)",
           "imageUrl": null
         },
         {
@@ -1788,6 +1818,36 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=364138",
+          "author": "Chris Coyier",
+          "description": "Nic Chan:\n[…] the will-change property landed in major browsers in August 2015, and I’ve been on the lookout for when to use it ever since. It might seem self-evident to apply it to commonly animated properties such \n…\nMy white whale: A use case for will-change originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/my-white-whale-a-use-case-for-will-change/",
+          "publishedOn": "2022-02-24T20:59:29.000Z",
+          "wordCount": 575,
+          "title": "My white whale: A use case for will-change",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364138"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363553",
+          "author": "Anand Chowdhary",
+          "description": "For the past few weeks, I’ve been hiring for a senior full-stack JavaScript engineer at my rental furniture company, Pabio. Since we’re a remote team, we conduct our interviews on Zoom, and I’ve observed that some developers are not …\nExplain the First 10 Lines of Twitter’s Source Code to Me originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/",
+          "publishedOn": "2022-02-24T15:31:55.000Z",
+          "wordCount": 2539,
+          "title": "Explain the First 10 Lines of Twitter’s Source Code to Me",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363553"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363526",
+          "author": "ImageEngine",
+          "description": "(This is a sponsored post.)\nIn recent years, the Jamstack methodology for building websites has become increasingly popular. Performance, scalable, and secure, it’s easy to see why it’s becoming an attractive way to build websites for developers.\nGatsbyJS is …\nSuperior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/superior-image-optimization-an-ideal-solution-using-gatsby-imageengine/",
+          "publishedOn": "2022-02-24T15:31:49.000Z",
+          "wordCount": 2808,
+          "title": "Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363526"
+        },
         {
           "id": "https://css-tricks.com/?p=363937",
           "author": "Chris Coyier",
@@ -4152,6 +4212,186 @@
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
         {
+          "id": "https://hackernoon.com/bitscrunch-raises-$36-million-from-coinbase-ventures-cryptocom-capital-and-animoca-brands?source=rss",
+          "author": "Ishan Pandey",
+          "description": "BitCrunch has raised $3.6 million in a private round of funding led by Animoca Brands, including Coinbase Ventures, Crypto.com Capital and Polygon Studios.",
+          "link": "https://hackernoon.com/bitscrunch-raises-$36-million-from-coinbase-ventures-cryptocom-capital-and-animoca-brands?source=rss",
+          "publishedOn": "2022-02-24T22:56:40.000Z",
+          "wordCount": 2302,
+          "title": "BitsCrunch Raises $3.6 Million from Coinbase Ventures, Crypto.com Capital and Animoca Brands",
+          "imageUrl": "https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-qbb3nh0.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/blockchain-and-nfts-take-the-digital-evolution-to-the-next-level?source=rss",
+          "author": "Ishan Pandey",
+          "description": "Ian Huang is the founder and CEO of ParallelChain Lab, which develops blockchain technology at both platform and application levels.",
+          "link": "https://hackernoon.com/blockchain-and-nfts-take-the-digital-evolution-to-the-next-level?source=rss",
+          "publishedOn": "2022-02-24T22:55:20.000Z",
+          "wordCount": 3441,
+          "title": "Blockchain and NFTs take the Digital Evolution to the Next Level",
+          "imageUrl": "https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-zo93nf8.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/fight-technical-debt-with-these-10-jetbrains-extensions?source=rss",
+          "author": "Alex Omeyer",
+          "description": "I see many Engineering teams under huge pressure to build fast and often lacking time to fix and clean up their codebase.",
+          "link": "https://hackernoon.com/fight-technical-debt-with-these-10-jetbrains-extensions?source=rss",
+          "publishedOn": "2022-02-24T17:36:39.000Z",
+          "wordCount": 2006,
+          "title": "Fight Technical Debt With These 10 JetBrains Extensions",
+          "imageUrl": "https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-uh93h3w.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-find-the-stinky-parts-of-your-code-part-xiv?source=rss",
+          "author": "Maximiliano Contieri",
+          "description": "More smells on the way.",
+          "link": "https://hackernoon.com/how-to-find-the-stinky-parts-of-your-code-part-xiv?source=rss",
+          "publishedOn": "2022-02-24T17:32:27.000Z",
+          "wordCount": 2555,
+          "title": "How to Find The Stinky Parts of Your Code [Part XIV]",
+          "imageUrl": "https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-m993hx3.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/the-future-of-gamefi-is-play-2-earn-interview-with-chase-layman?source=rss",
+          "author": "Ishan Pandey",
+          "description": "Attack Wagon Games was founded in January 2021 as a development studio for Free to Play and Play To Earn Games.",
+          "link": "https://hackernoon.com/the-future-of-gamefi-is-play-2-earn-interview-with-chase-layman?source=rss",
+          "publishedOn": "2022-02-24T15:08:48.000Z",
+          "wordCount": 2106,
+          "title": "The Future of GameFi is Play-2-Earn: Interview with Chase Layman",
+          "imageUrl": "https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-ef93n13.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/chrome-extension-productivity-hack-copy-text-with-a-mouse-hover-and-click?source=rss",
+          "author": "Basharath",
+          "description": "Copy Text, paragraphs, and sentences in a hassle-free manner as never before using this simple tool available for free.",
+          "link": "https://hackernoon.com/chrome-extension-productivity-hack-copy-text-with-a-mouse-hover-and-click?source=rss",
+          "publishedOn": "2022-02-24T15:08:26.000Z",
+          "wordCount": 2697,
+          "title": "Chrome Extension Productivity Hack: Copy Text with a Mouse Hover and Click",
+          "imageUrl": "https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-fi93i46.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/defi-has-a-lot-of-room-to-disintermediate-tradfi?source=rss",
+          "author": "Ishan Pandey",
+          "description": "Morphware is a decentralized approach to deep learning. The main problem that Morphware aims to address is the computational complexity required to train.",
+          "link": "https://hackernoon.com/defi-has-a-lot-of-room-to-disintermediate-tradfi?source=rss",
+          "publishedOn": "2022-02-24T15:08:02.000Z",
+          "wordCount": 2119,
+          "title": "DeFi has a lot of room to Disintermediate - TradFi",
+          "imageUrl": "https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-eia3n2i.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/the-hidden-hand-behind-social-media-algorithms-and-how-it-works?source=rss",
+          "author": "Branislav Đalić",
+          "description": "How do ranking algorithms work on social media platforms? What is the formula behind social media ranking algorithm? How do social media posts get scored?",
+          "link": "https://hackernoon.com/the-hidden-hand-behind-social-media-algorithms-and-how-it-works?source=rss",
+          "publishedOn": "2022-02-24T15:03:14.000Z",
+          "wordCount": 2206,
+          "title": "The “Hidden Hand“ Behind Social Media Algorithms and How it Works",
+          "imageUrl": "https://cdn.hackernoon.com/images/FlRGjciVp3fbWDvvOGdVFcuFTef2-hh92kdb.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/music-specific-nfts-have-massive-adoption-rates-so-far?source=rss",
+          "author": "Tony Reynolds",
+          "description": "The year was 2000, and most people were worried about computer Y2K deficiencies disrupting their business, meanwhile on the radio, \"NSync\" was blaring worldwide. NSync's album, \"No Strings Attached\" sold 2.4 million copies in it's first week of release and almost 10 milion units by the end of the year. It's also the year compact discs (CDs) were starting to get phased out for Napster-styled streaming downloads.",
+          "link": "https://hackernoon.com/music-specific-nfts-have-massive-adoption-rates-so-far?source=rss",
+          "publishedOn": "2022-02-24T14:48:43.000Z",
+          "wordCount": 1830,
+          "title": "Music-Specific NFTs Have Massive Adoption Rates So Far",
+          "imageUrl": "https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-dn93ixl.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/the-3-stages-to-making-your-own-no-code-solution?source=rss",
+          "author": "Tihomir Dmitrović",
+          "description": "Create your own no-code solution in three easy to follow steps.",
+          "link": "https://hackernoon.com/the-3-stages-to-making-your-own-no-code-solution?source=rss",
+          "publishedOn": "2022-02-24T14:39:40.000Z",
+          "wordCount": 2533,
+          "title": "The 3 Stages to Making Your Own No-Code Solution",
+          "imageUrl": "https://cdn.hackernoon.com/images/OJunsT5b6MXihZjDd8QZq7cFCW03-vjb3hxy.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/on-game-development-with-salvatore-cali-from-rise-of-cultures-innogames?source=rss",
+          "author": "Slogging (Slack Blogging)",
+          "description": "In this slogging AMA, we chat with Salvador Calì about the Rise of Cultures, Innogames, game development, the metaverse, and leadership in gaming.",
+          "link": "https://hackernoon.com/on-game-development-with-salvatore-cali-from-rise-of-cultures-innogames?source=rss",
+          "publishedOn": "2022-02-24T14:12:29.000Z",
+          "wordCount": 4295,
+          "title": "On Game Development with Salvatore Calì from Rise of Cultures (InnoGames)",
+          "imageUrl": "https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-bxa3jjv.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-keep-api-keys-out-of-github-repositories?source=rss",
+          "author": "Marwa Eltayeb",
+          "description": "When you upload your Android app on GitHub, you need to hide it as no one has access to it except you. It is considered a security glitch, so that’s why it ...",
+          "link": "https://hackernoon.com/how-to-keep-api-keys-out-of-github-repositories?source=rss",
+          "publishedOn": "2022-02-24T14:08:40.000Z",
+          "wordCount": 1450,
+          "title": "How to Keep API Keys Out of GitHub Repositories",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackernoon.com/bye-bye-google-fonts-german-court-rules-that-google-fonts-is-not-in-compliance-with-gdpr?source=rss",
+          "author": "Simon Wicki",
+          "description": "Google Fonts is a data privacy concern. Learn why you should care.",
+          "link": "https://hackernoon.com/bye-bye-google-fonts-german-court-rules-that-google-fonts-is-not-in-compliance-with-gdpr?source=rss",
+          "publishedOn": "2022-02-24T13:58:03.000Z",
+          "wordCount": 1631,
+          "title": "Bye-bye Google Fonts: German Court Rules That Google Fonts Is Not in Compliance with GDPR",
+          "imageUrl": "https://cdn.hackernoon.com/images/GN0lxBg0lGVYx0G1x4JV3gH2M5m2-9g93lit.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/4-options-to-add-a-custom-theme-for-frontend-applications?source=rss",
+          "author": "Alexey Shepelev",
+          "description": "Take a closer look at various options for how we can allow users to choose from various themes, as well as customize them for their needs.",
+          "link": "https://hackernoon.com/4-options-to-add-a-custom-theme-for-frontend-applications?source=rss",
+          "publishedOn": "2022-02-24T13:43:15.000Z",
+          "wordCount": 3048,
+          "title": "4 Options to Add a Custom Theme for Frontend Applications",
+          "imageUrl": "https://cdn.hackernoon.com/images/MsR1S76Pr8XibciqwaeZRXTFpAz1-pha3hcg.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/the-us-is-living-in-a-tequila-revolution?source=rss",
+          "author": "Igor",
+          "description": "Why is America’s focus shifting toward tequila? First, of a population of 331.4 million people, about 19% are Hispanics.",
+          "link": "https://hackernoon.com/the-us-is-living-in-a-tequila-revolution?source=rss",
+          "publishedOn": "2022-02-24T10:54:52.000Z",
+          "wordCount": 1418,
+          "title": "The U.S. is living in a Tequila Revolution",
+          "imageUrl": "https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-x793zur.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/noonies2021-awards-the-list-of-winners-in-the-internet-category?source=rss",
+          "author": "Noonies 2021",
+          "description": "The #Internet award category honors the true internet artists of our time.",
+          "link": "https://hackernoon.com/noonies2021-awards-the-list-of-winners-in-the-internet-category?source=rss",
+          "publishedOn": "2022-02-24T07:20:50.000Z",
+          "wordCount": 7312,
+          "title": "#Noonies2021 Awards: The List of Winners in the Internet Category",
+          "imageUrl": "https://cdn.hackernoon.com/images/DM0HwTcIK6VVBpObjhC9iaVMHWu2-oi93wkw.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/10-best-batman-games-of-all-time?source=rss",
+          "author": "Adrian Morales",
+          "description": "It is Batman season yet again. Let's break out our batarangs and rank the top 10 best Batman games of all time.",
+          "link": "https://hackernoon.com/10-best-batman-games-of-all-time?source=rss",
+          "publishedOn": "2022-02-24T06:55:08.000Z",
+          "wordCount": 2784,
+          "title": "10 Best Batman Games of All Time",
+          "imageUrl": "https://cdn.hackernoon.com/images/NpclsXHLfPf1qjBCjmjlbDg2CFo1-vd93h3q.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/a-tcp-flow-and-http-flow-guide-changing-http-messages?source=rss",
+          "author": "Georgii Kliukovkin",
+          "description": "Let’s take a closer look under the hood at what the process of changing HTTP messages is.",
+          "link": "https://hackernoon.com/a-tcp-flow-and-http-flow-guide-changing-http-messages?source=rss",
+          "publishedOn": "2022-02-24T06:44:03.000Z",
+          "wordCount": 2634,
+          "title": "A TCP Flow and HTTP Flow Guide: Changing HTTP Messages",
+          "imageUrl": "https://cdn.hackernoon.com/images/SnVhdDNm3fMGfftKZO7mnXldvQm2-2f03bnp.jpeg"
+        },
+        {
           "id": "https://hackernoon.com/introducing-the-embedded-gui-webinar-and-design-contest?source=rss",
           "author": "RT-Thread IoT OS",
           "description": "RT-Thread IoT OS has partnered with LVGL, Nuvoton, WCH, and NXP to bring the Embedded GUI webinar",
@@ -4352,6 +4592,16 @@
           "imageUrl": "https://cdn.hackernoon.com/images/6UvJdfoLIfNt1WHZtM2sUgjmUM73-dga3hwb.jpeg"
         },
         {
+          "id": "https://hackernoon.com/retitle-sin7y-tech-review-19-design-concept-and-applications-of-custom-gate?source=rss",
+          "author": "Sin7Y",
+          "description": "Read on to know the research on the design concept and solution plan for ZKEVM, which requires a custom gate.",
+          "link": "https://hackernoon.com/retitle-sin7y-tech-review-19-design-concept-and-applications-of-custom-gate?source=rss",
+          "publishedOn": "2022-02-22T15:08:05.000Z",
+          "wordCount": 1908,
+          "title": "Retitle - Sin7Y Tech Review (19): Design Concept and Applications of Custom Gate",
+          "imageUrl": "https://cdn.hackernoon.com/images/Ns6mVt8NqgNkfsouVyus9tAe3mB2-sp93hv8.jpeg"
+        },
+        {
           "id": "https://hackernoon.com/what-is-inside-the-quantum-realm-6-important-points-to-remember?source=rss",
           "author": "Karkuzhali Selvarajan",
           "description": "In the quantum realm, we can't define a particle’s definite position or momentum but only its probability. But STM gives us a way around this.",
@@ -4510,6 +4760,16 @@
           "wordCount": 2415,
           "title": "Heroes of Mavia Raises $2.5 Million from Crypto.com Capital to Expand Play-2-Earn Gaming Ecosystem",
           "imageUrl": "https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-32b3no4.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-manage-all-your-keys-with-one-seed-phrase-in-cosmos-ecosystem?source=rss",
+          "author": "Cosmos - Internet of Blockchains",
+          "description": "Previously existing as siloed ecosystems, blockchains can now interact with each other and grow richer from each connection they make.",
+          "link": "https://hackernoon.com/how-to-manage-all-your-keys-with-one-seed-phrase-in-cosmos-ecosystem?source=rss",
+          "publishedOn": "2022-02-21T17:40:38.000Z",
+          "wordCount": 1705,
+          "title": "How to Manage All Your Keys with One Seed Phrase in Cosmos Ecosystem",
+          "imageUrl": "https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-ol93gpu.png"
         },
         {
           "id": "https://hackernoon.com/9-solid-online-marketplace-businesses-to-start-in-2022?source=rss",
@@ -23873,6 +24133,76 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
+          "id": "https://hackaday.com/?p=524510",
+          "author": "Lewin Day",
+          "description": "These days, live music performance often involves electronic synthesizers and computers rather than traditional instruments played by hand. To aid in his own performances, [alekappa] built a special interface to …read more",
+          "link": "https://hackaday.com/2022/02/24/a-gameport-joystick-to-usb-midi-converter/",
+          "publishedOn": "2022-02-25T00:00:22.000Z",
+          "wordCount": 1074,
+          "title": "A Gameport Joystick to USB-MIDI Converter",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/24-twins-e1645683932690.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=524339",
+          "author": "Bryan Cockfield",
+          "description": "For all its ability to advance modern society in basically every appreciable way, science still has yet to explain some seemingly basic concepts. One thing that still has a few …read more",
+          "link": "https://hackaday.com/2022/02/24/prototype-robot-for-omniwheel-bicycle/",
+          "publishedOn": "2022-02-24T21:00:13.000Z",
+          "wordCount": 1139,
+          "title": "Prototype Robot For Omniwheel Bicycle",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/bike-robot-main.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=524190",
+          "author": "Robin Kearey",
+          "description": "Whether you live in an apartment downtown or in a detached house in the suburbs, if your mailbox is not built into your home you’ll have to go outside to …read more",
+          "link": "https://hackaday.com/2022/02/24/iot-enabled-mailbox-lets-you-check-your-mail-without-leaving-your-house/",
+          "publishedOn": "2022-02-24T19:20:36.000Z",
+          "wordCount": 2216,
+          "title": "IoT-Enabled Mailbox Lets You Check Your Mail Without Leaving Your House",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/IoT-Mailbox.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=523617",
+          "author": "Lewin Day",
+          "description": "Segmented liquid crystal displays are considered quite an old and archaic display technology these days. They’re perhaps most familiar to us from their use in calculators and watches, where they …read more",
+          "link": "https://hackaday.com/2022/02/24/remoticon-2021-joey-castillo-teaches-old-lcds-new-tricks/",
+          "publishedOn": "2022-02-24T18:00:06.000Z",
+          "wordCount": 1794,
+          "title": "Remoticon 2021 // Joey Castillo Teaches Old LCDs New Tricks",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/remoticon_2021-joey_castillo_fhkybjmw5_uwebm-shot0003_featured.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=524247",
+          "author": "Lewin Day",
+          "description": "Diffraction gratings are beautiful things, bending transmitted and reflected light and splitting it into its component wavelengths to create attractive iridescent rainbow patterns. It’s the same effect you see on …read more",
+          "link": "https://hackaday.com/2022/02/24/how-to-get-your-diffraction-grating-3d-prints-right-the-first-time/",
+          "publishedOn": "2022-02-24T16:30:08.000Z",
+          "wordCount": 1368,
+          "title": "How To Get Your Diffraction Grating 3D Prints Right The First Time",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/flake-1-e1645512137433.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=524393",
+          "author": "Lewin Day",
+          "description": "Soldering! It’s the primary method for attaching one component to another in the world of electronics. Whether you’re free-forming a circuit, attaching connectors to cables, or populating a PCB, you’ll …read more",
+          "link": "https://hackaday.com/2022/02/24/ask-hackaday-whats-your-worst-soldering-job/",
+          "publishedOn": "2022-02-24T15:00:16.000Z",
+          "wordCount": 7010,
+          "title": "Ask Hackaday: What’s Your Worst Soldering Job?",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/DSCF2654_featured.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=524499",
+          "author": "Tom Nardi",
+          "description": "We don’t need to tell you that these last couple of years have been a real drag for in-person events. But at long last, after a bit of a false …read more",
+          "link": "https://hackaday.com/2022/02/24/dont-miss-the-vcf-indoor-swap-meet-this-weekend/",
+          "publishedOn": "2022-02-24T12:00:31.000Z",
+          "wordCount": 1320,
+          "title": "Don’t Miss the VCF Indoor Swap Meet This Weekend",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/vcfswap22_feat.jpg"
+        },
+        {
           "id": "https://hackaday.com/?p=524082",
           "author": "Matthew Carlson",
           "description": "Ultrasonic transducers are incredible, with them you can detect distances, as well as levitate and peer through objects. They can emit and receive ultrasonic soundwaves (typically above 18khz) and just …read more",
@@ -32402,6 +32732,72 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "CF790DDA-160A-4D07-AE1B88CD11455993",
+          "author": "The Editors",
+          "description": "Bills that restrict access to gender-affirming health care ignore research\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/why-anti-trans-laws-are-anti-science/",
+          "publishedOn": "2022-02-24T20:10:00.000Z",
+          "wordCount": null,
+          "title": "Why Anti-Trans Laws Are Anti-Science",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "2CDF6378-2535-449F-BDAB88623B7A2209",
+          "author": "David Iaconangelo, E&E News",
+          "description": "The move underscores the challenges facing President Biden’s goal to convert all of the federal government’s vehicles to zero-emissions models\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/u-s-postal-service-locks-in-plans-for-more-gas-trucks/",
+          "publishedOn": "2022-02-24T19:00:00.000Z",
+          "wordCount": null,
+          "title": "U.S. Postal Service Locks in Plans for More Gas Trucks",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "16EC4B59-E9CE-46C9-8C368A5CFCC00A4B",
+          "author": "Victoria Knight, Kaiser Health News",
+          "description": "People who suffer from diseases or take treatments that leave them highly vulnerable to COVID fear being left behind as the country drops pandemic restrictions\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/covid-still-threatens-millions-of-immunocompromised-people/",
+          "publishedOn": "2022-02-24T15:00:00.000Z",
+          "wordCount": null,
+          "title": "COVID Still Threatens Millions of Immunocompromised People",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "74377179-B6C5-41E1-A8208F28770E51DF",
+          "author": "Elizabeth Gibney, Nature magazine",
+          "description": "In the next five years, the nation hopes to launch a robotic craft to an asteroid, two lunar missions and an orbital observatory\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/china-plans-asteroid-missions-space-telescopes-and-a-moon-base/",
+          "publishedOn": "2022-02-24T14:00:00.000Z",
+          "wordCount": null,
+          "title": "China Plans Asteroid Missions, Space Telescopes and a Moon Base",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "CBBC5BE5-C67E-4529-802031080BB2CACE",
+          "author": "Grace Wickerson",
+          "description": "We must start teaching undergraduates to think about those for whom they design\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-culture-of-engineering-overlooks-the-people-its-supposed-to-serve/",
+          "publishedOn": "2022-02-24T13:00:00.000Z",
+          "wordCount": null,
+          "title": "The Culture of Engineering Overlooks the People It's Supposed to Serve",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "06064B4F-FF77-48D4-AF080907783FD520",
+          "author": "Abdullah Iqbal",
+          "description": "Gum carrying a protein produced by genetically modified lettuce traps SARS-CoV-2\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/chewing-gum-with-gmo-could-reduce-the-spread-of-covid/",
+          "publishedOn": "2022-02-24T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Chewing Gum with GMO Could Reduce the Spread of COVID",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "999D8B82-427B-48B1-92B97EFC56A60A91",
           "author": "Andrea Thompson",
           "description": "Residents learned what was possible. Some politicians fought to keep it that way\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -39377,6 +39773,56 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=150241",
+          "author": "Richi Jennings",
+          "description": "In this week’s The Long View: Linode bought by Akamai, Firefox market share “measly,” and Google brings staff back to the office.\nThe post Akamai: Buying Linode | Firefox: Not OK | Gone: Google Vaccine Mandate appeared first on DevOps.com.",
+          "link": "https://devops.com/akamai-buying-linode-firefox-not-ok-gone-google-vaccine-mandate/",
+          "publishedOn": "2022-02-24T16:32:30.000Z",
+          "wordCount": 1868,
+          "title": "Akamai: Buying Linode | Firefox: Not OK | Gone: Google Vaccine Mandate",
+          "imageUrl": "https://devops.com/wp-content/uploads/2022/02/tlv14-aleksey-kuprikov-unsplash.png"
+        },
+        {
+          "id": "https://devops.com/?p=150249",
+          "author": "Veronica Haggar",
+          "description": "As new vulnerabilities are discovered on a daily basis, DevOps teams must integrate security into the early stages of the development lifecycle and be vigilant about what elements are incorporated into their applications. The Log4J vulnerability has dominated the headlines since it was discovered in December and it continues to send shock waves through the […]\nThe post How to Mitigate Software Supply Chain Risks appeared first on DevOps.com.",
+          "link": "https://devops.com/how-to-mitigate-software-supply-chain-risks/",
+          "publishedOn": "2022-02-24T13:00:31.000Z",
+          "wordCount": 875,
+          "title": "How to Mitigate Software Supply Chain Risks",
+          "imageUrl": "https://devops.com/wp-content/uploads/2021/02/Security-Policy-Management-with-Tufin.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150182",
+          "author": "Quentin Rousseau",
+          "description": "It’s easy to talk at a high level about what site reliability engineers do: They ensure that IT systems achieve availability and performance requirements. But which skills, exactly, do SREs need to do to perform their jobs? That’s a more complicated question. To answer, let’s look at the top nine site reliability engineer skills that […]\nThe post Top Nine Skills for SREs to Master appeared first on DevOps.com.",
+          "link": "https://devops.com/top-nine-skills-for-sres-to-master/",
+          "publishedOn": "2022-02-24T08:00:07.000Z",
+          "wordCount": 1305,
+          "title": "Top Nine Skills for SREs to Master",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/06/SREs.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150165",
+          "author": "Don Macvittie",
+          "description": "I was watching Charlene O’Hanlon’s interview with the CRO of Rollbar, discussing the slow growth of “return to office” policies. High-tech, because we are more mobile, had more options than many people—the janitor, for example, must be physically at their job to do it. High-tech employees did not have that issue—or if they did before […]\nThe post Return to the Office? Nah. appeared first on DevOps.com.",
+          "link": "https://devops.com/return-to-the-office-nah/",
+          "publishedOn": "2022-02-24T07:30:43.000Z",
+          "wordCount": 1230,
+          "title": "Return to the Office? Nah.",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/04/Managing-Development-Teams-Remotely-During-Coronavirus.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150208",
+          "author": "ROELBOB",
+          "description": "The post The Modern Cloud appeared first on DevOps.com.",
+          "link": "https://devops.com/the-modern-cloud/",
+          "publishedOn": "2022-02-24T07:00:23.000Z",
+          "wordCount": 435,
+          "title": "The Modern Cloud",
+          "imageUrl": "https://devops.com/wp-content/uploads/2022/02/the-modern-cloud.jpg"
+        },
+        {
           "id": "https://devops.com/?p=150173",
           "author": "Ehsan Foroughi",
           "description": "Software companies have a long history of delivering incomplete and insecure products. This happens for a couple of reasons. Fast time-to-market has always been a business priority, taking precedence over security, especially as DevOps has become the norm in software development methodologies. And software, by nature, is easy to update and change, so some defects […]\nThe post Can Regulatory Mandates Secure Software Development? appeared first on DevOps.com.",
@@ -42687,6 +43133,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=112691",
+          "author": "Yasemin Saplakoglu",
+          "description": "A 3D digital model of a “minimal cell” leads scientists closer to understanding the barest requirements for life.            \nThe post Most Complete Simulation of a Cell Probes Life’s Hidden Rules first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/most-complete-simulation-of-a-cell-probes-lifes-hidden-rules-20220224/",
+          "publishedOn": "2022-02-24T15:45:01.000Z",
+          "wordCount": 1503,
+          "title": "Most Complete Simulation of a Cell Probes Life’s Hidden Rules",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/02/0224_cell-simulation_1200x630_social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=112684",
           "author": "Thomas Lewton",
           "description": "Celia Escamilla-Rivera is combining large data sets with supercomputers to test general relativity against its little-known competitors.            \nThe post In Search of Cracks in Albert Einstein’s Theory of Gravity first appeared on Quanta Magazine",
@@ -43431,6 +43887,46 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66934",
+          "author": "Nathan Yau",
+          "description": "Here's the good stuff for February.\nTags: roundup",
+          "link": "https://flowingdata.com/2022/02/24/process-178-february-2022-roundup/",
+          "publishedOn": "2022-02-24T19:30:53.000Z",
+          "wordCount": 293,
+          "title": "✚ Visualization Tools and Learning Resources, February 2022 Roundup",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/02/process-178-featured.png"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66950",
+          "author": "Nathan Yau",
+          "description": "For NYT’s The Upshot, Aatish Bhatia, Josh Katz and Margot Sanger-Katz show the…\nTags: snow, uncertainty, Upshot, weather",
+          "link": "https://flowingdata.com/2022/02/24/distribution-of-snowfall-estimates-to-show-uncertainty/",
+          "publishedOn": "2022-02-24T18:20:45.000Z",
+          "wordCount": 387,
+          "title": "Distribution of snowfall estimates to show uncertainty",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/02/uncertain-snowfall-e1645721519544.png"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66955",
+          "author": "Nathan Yau",
+          "description": "There are many maps trying to show what is happening in Ukraine right…\nTags: invasion, Lisa Charlotte Muth, Russia, Ukraine",
+          "link": "https://flowingdata.com/2022/02/24/many-ukraine-maps/",
+          "publishedOn": "2022-02-24T17:35:07.000Z",
+          "wordCount": 221,
+          "title": "Many Ukraine maps",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/02/all-the-ukraine-maps.png"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66946",
+          "author": "Nathan Yau",
+          "description": "This map by Henry Foy and Steven Bernard for Financial Times shows a…\nTags: Financial Times, Russia, Ukraine, war",
+          "link": "https://flowingdata.com/2022/02/24/map-of-invasion-in-ukraine/",
+          "publishedOn": "2022-02-24T16:31:55.000Z",
+          "wordCount": 256,
+          "title": "Map of invasion in Ukraine",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/02/ukraine-russia.png"
+        },
         {
           "id": "https://flowingdata.com/?p=66925",
           "author": "Nathan Yau",
@@ -45301,33 +45797,6 @@
           "publishedOn": "2021-03-04T08:00:00.000Z",
           "wordCount": 2192,
           "title": "Chasing challenges to ship developer solutions"
-        },
-        {
-          "id": "https://github.com/readme/featured/octoverse-balance",
-          "author": null,
-          "description": "Working from home can mean working more. OSS maintainers share how they take care of themselves as the boundaries between work and home life blur.",
-          "link": "https://github.com/readme/featured/octoverse-balance",
-          "publishedOn": "2021-02-25T08:00:00.000Z",
-          "wordCount": 2436,
-          "title": "How open source maintainers can maintain balance in turbulent times"
-        },
-        {
-          "id": "https://github.com/readme/featured/octoverse-security",
-          "author": null,
-          "description": "A single vulnerability can impact hundreds of downstream dependencies. Luckily, infoSec pros are fighting back.",
-          "link": "https://github.com/readme/featured/octoverse-security",
-          "publishedOn": "2021-02-25T08:00:00.000Z",
-          "wordCount": 2113,
-          "title": "How InfoSec pros keep open source safe—and how you can help"
-        },
-        {
-          "id": "https://github.com/readme/featured/octoverse-covid",
-          "author": null,
-          "description": "In response to COVID-19 the open source community came together—helping the world leverage pandemic data in new ways.",
-          "link": "https://github.com/readme/featured/octoverse-covid",
-          "publishedOn": "2021-02-25T08:00:00.000Z",
-          "wordCount": 2014,
-          "title": "How the open source community came together to fight COVID-19"
         }
       ]
     },
