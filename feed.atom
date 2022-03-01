@@ -2,10 +2,486 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vredchenko.github.io/osmoscraft_feed/index.html</id>
     <title>vredchenko's RSS feed - using osmos::feed</title>
-    <updated>2022-02-28T00:19:20.980Z</updated>
+    <updated>2022-03-01T00:20:19.436Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://vredchenko.github.io/osmoscraft_feed/index.html"/>
     <link rel="self" href="https://vredchenko.github.io/osmoscraft_feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ethernet Tester Needs No LEDs, Only Your Multimeter]]></title>
+        <id>https://hackaday.com/?p=524812</id>
+        <link href="https://hackaday.com/2022/02/28/ethernet-tester-needs-no-leds-only-your-multimeter/"/>
+        <updated>2022-03-01T00:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Ethernet cable testers are dime a dozen, but none of them are as elegant and multimeter-friendly as this tester from our Hackaday.io regular, [Bharbour]. An Ethernet cable has 8 wires, …read more]]></summary>
+        <author>
+            <name>Arsenijs Picugins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides]]></title>
+        <id>https://css-tricks.com/?p=364346</id>
+        <link href="https://css-tricks.com/ie-down-edge-up-global-browser-usage-stats-are-for-cocktail-parties-and-conference-slides/"/>
+        <updated>2022-02-28T23:14:29.000Z</updated>
+        <summary type="html"><![CDATA[I enjoy articles like Hartley Charlton’s “Microsoft Edge Looks Set to Overtake Safari as World’s Second Most Popular Desktop Browser.” It’s juicy! We know these massive players in the browser market care very much about their market share, so when …
+IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Old Portable TV Becomes Unique CRT Cyberdeck]]></title>
+        <id>https://hackaday.com/?p=524854</id>
+        <link href="https://hackaday.com/2022/02/28/old-portable-tv-becomes-unique-crt-cyberdeck/"/>
+        <updated>2022-02-28T21:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Remember the “suitcase” form-factor for PCs? In the time before latops, these luggable machines were just the thing for the on-the-go executive. OK, maybe not really — but the ability …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Kids Programming – How to Draw a Chess Board using Python and Turtle Graphics?]]></title>
+        <id>https://helloacm.com/?p=149128</id>
+        <link href="https://helloacm.com/teaching-kids-programming-how-to-draw-a-chess-board-using-python-and-turtle-graphics/"/>
+        <updated>2022-02-28T20:51:43.000Z</updated>
+        <summary type="html"><![CDATA[Teaching Kids Programming: Videos on Data Structures and Algorithms To draw a black-and-white chess board, we need the following three functions: draw a white square, draw a black (filled) square,...
+
+
+[[ This is a content summary only. Visit my website for full links, other content, and more! ]]]]></summary>
+        <author>
+            <name>ACMer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swap The Laser For A Vortex Cannon And You Have… Lift?]]></title>
+        <id>https://hackaday.com/?p=524552</id>
+        <link href="https://hackaday.com/2022/02/28/swap-the-laser-for-a-vortex-cannon-and-you-have-lift/"/>
+        <updated>2022-02-28T19:00:45.000Z</updated>
+        <summary type="html"><![CDATA[When people are thinking of the future of space travel, an idea that floats around is a spaceship with a giant solar sail pushed along by a massive laser. Inspired …read more]]></summary>
+        <author>
+            <name>Matthew Carlson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Couchbase Updates Mobile And Edge Support]]></title>
+        <id>http://www.i-programmer.info/news/84-database/15250-couchbase-updates-mobile-and-edge-support.html</id>
+        <link href="http://www.i-programmer.info/news/84-database/15250-couchbase-updates-mobile-and-edge-support.html"/>
+        <updated>2022-02-28T18:36:15.000Z</updated>
+        <summary type="html"><![CDATA[Couchbase has released Couchbase Mobile 3, which the developers say includes many enhancements to the Couchbase Lite and Sync Gateway products for mobile and edge computing solutions.
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL in 24 Hours, 7th Ed (Sams Teach Yourself)]]></title>
+        <id>http://www.i-programmer.info/book-watch-archive/15249-sql-in-24-hours-7th-ed-sams-teach-yourself.html</id>
+        <link href="http://www.i-programmer.info/book-watch-archive/15249-sql-in-24-hours-7th-ed-sams-teach-yourself.html"/>
+        <updated>2022-02-28T18:32:54.000Z</updated>
+        <summary type="html"><![CDATA[This book contains 24 lessons of one hour or less to show how to use SQL to build effective databases, efficiently retrieve data, and manage everything from performance to security. Ryan Stephens shows how to work with database structures, objects, queries, and tables. This Seventh Edition is thoroughly revised and reorganized for faster learning and a deeper understanding of modern SQL development.
+
+<ASIN:0137543123>
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pi IoT In Python Using GPIO Zero - PWM]]></title>
+        <id>http://www.i-programmer.info/programming/hardware/15248-pi-iot-in-python-using-gpio-zero-pwm.html</id>
+        <link href="http://www.i-programmer.info/programming/hardware/15248-pi-iot-in-python-using-gpio-zero-pwm.html"/>
+        <updated>2022-02-28T18:02:36.000Z</updated>
+        <summary type="html"><![CDATA[PWM - Pulse Width Modulation is a very common way of controlling everything from LEDs to Servos. In this extract from our book on using GPIO Zero on the Pi in Python we look at how to get started.
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printering: Giants]]></title>
+        <id>https://hackaday.com/?p=524370</id>
+        <link href="https://hackaday.com/2022/02/28/3d-printering-giants/"/>
+        <updated>2022-02-28T18:00:28.000Z</updated>
+        <summary type="html"><![CDATA[Newton famously said, “If I see further than others, it is by standing upon the shoulders of giants.” For 3D printing, though, it might be the reverse. If a printer …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Studies Support Wuhan Market as Pandemic's Origin Point]]></title>
+        <id>8C3D167C-866A-4DFA-AA6A1D3F3B720257</id>
+        <link href="https://www.scientificamerican.com/article/new-studies-support-wuhan-market-as-pandemics-origin-point/"/>
+        <updated>2022-02-28T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Report authors say that the coronavirus SARS-CoV-2 jumped from animals sold at the market into people twice in late 2019—but some scientists want more definitive evidence
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Amy Maxmen, Nature magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logic Simulation Hack Chat with Al Williams]]></title>
+        <id>https://hackaday.com/?p=524477&amp;preview=true&amp;preview_id=524477</id>
+        <link href="https://hackaday.com/2022/02/28/logic-simulation-hack-chat-with-al-williams/"/>
+        <updated>2022-02-28T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Join us on Wednesday, March 2 at noon Pacific for the Logic Simulation Hack Chat with Al Williams! Many of us probably remember — some fondly, some less so — …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stat-driven view on how American conservatives shifted against vaccine]]></title>
+        <id>https://flowingdata.com/?p=66959</id>
+        <link href="https://flowingdata.com/2022/02/28/stat-driven-view-on-how-american-conservatives-shifted-against-vaccine/"/>
+        <updated>2022-02-28T16:40:33.000Z</updated>
+        <summary type="html"><![CDATA[As we know by now, conservatives in the U.S. are more commonly against…
+Tags: coronavirus, politics, vaccination, Vox]]></summary>
+        <author>
+            <name>Nathan Yau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[With 'Limited Amount of Time Left,' New IPCC Report Urges Climate Adaptation]]></title>
+        <id>D563C458-D14B-4EBC-B51533618E386D43</id>
+        <link href="https://www.scientificamerican.com/article/with-limited-amount-of-time-left-new-ipcc-report-urges-climate-adaptation/"/>
+        <updated>2022-02-28T16:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Human and natural systems are already buckling under the influence of global warming, write the authors of a landmark report
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Chelsea Harvey, Sara Schonhardt, E&amp;E News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Four Years On, New Experiment Sees No Sign of ‘Cosmic Dawn’]]></title>
+        <id>https://www.quantamagazine.org/?p=112793</id>
+        <link href="https://www.quantamagazine.org/in-new-experiment-astronomers-see-no-sign-of-cosmic-dawn-20220228/"/>
+        <updated>2022-02-28T16:00:15.000Z</updated>
+        <summary type="html"><![CDATA[When astronomers tried to confirm a signal from the birth of the first stars after the Big Bang, they saw nothing.            
+The post Four Years On, New Experiment Sees No Sign of ‘Cosmic Dawn’ first appeared on Quanta Magazine]]></summary>
+        <author>
+            <name>Ben Brubaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boring Belt Sander Is RC Racer In Disguise]]></title>
+        <id>https://hackaday.com/?p=524659</id>
+        <link href="https://hackaday.com/2022/02/28/boring-belt-sander-is-rc-racer-in-disguise/"/>
+        <updated>2022-02-28T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As a child, [David Windestal] already knew that a belt sander was the perfect motor for a banging radio-controlled car. Many years later, the realization of that dream is everything …read more]]></summary>
+        <author>
+            <name>Chris Wilkinson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think]]></title>
+        <id>https://css-tricks.com/?p=363929</id>
+        <link href="https://css-tricks.com/web-component-pseudo-classes-and-pseudo-elements/"/>
+        <updated>2022-02-28T15:37:23.000Z</updated>
+        <summary type="html"><![CDATA[We’ve discussed a lot about the internals of using CSS in this ongoing series on web components, but there are a few special pseudo-elements and pseudo-classes that, like good friends, willingly smell your possibly halitotic breath before you go …
+Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>John Rhea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s Official! The Raspberry Pi Is Now 10!]]></title>
+        <id>https://hackaday.com/?p=518577</id>
+        <link href="https://hackaday.com/2022/02/28/its-official-the-raspberry-pi-is-now-10/"/>
+        <updated>2022-02-28T15:00:13.000Z</updated>
+        <summary type="html"><![CDATA[In any given field there are epoch-defining moments, those events after which nothing was quite the same as it had been before. It’s been a decade since the launch of …read more]]></summary>
+        <author>
+            <name>Jenny List</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cowboy Culture Doesn't Have a Monopoly on Innovation]]></title>
+        <id>BD8B9998-22F3-40DE-881DBD0A9F03EDEB</id>
+        <link href="https://www.scientificamerican.com/article/cowboy-culture-doesnt-have-a-monopoly-on-innovation/"/>
+        <updated>2022-02-28T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Despite stereotypes that suggest self-reliant values lead to the most innovations, group-centered societies have just as much creativity
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Thomas Talhelm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Nuclear Power Plants Are Unlikely to Stop the Climate Crisis]]></title>
+        <id>FF1CB303-581A-4D0A-99532E85AAED4EB8</id>
+        <link href="https://www.scientificamerican.com/article/new-nuclear-power-plants-are-unlikely-to-stop-the-climate-crisis/"/>
+        <updated>2022-02-28T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[These plants take too long to build and bring online, and we don’t have that much time
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Naomi Oreskes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Faster Way to Find Good Medical Treatments Is Gaining Ground]]></title>
+        <id>FBB67BD3-00D8-4DD7-B1BC209318BBA884</id>
+        <link href="https://www.scientificamerican.com/article/a-faster-way-to-find-good-medical-treatments-is-gaining-ground/"/>
+        <updated>2022-02-28T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A type of clinical trial that tests many therapies at once is being used for COVID and Alzheimer’s
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Claudia Wallis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Reverse Journey through Geologic Time, a Tale of Wild Horses and Interspecies Kinship, and More]]></title>
+        <id>F56F0DAD-CAAC-4105-BCDEBBB370A65C88</id>
+        <link href="https://www.scientificamerican.com/article/a-reverse-journey-through-geologic-time-a-tale-of-wild-horses-and-interspecies-kinship-and-more/"/>
+        <updated>2022-02-28T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Recommendations from the editors of Scientific American
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Amy Brady</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Fixes to Build Energy Projects Cleaner and Faster]]></title>
+        <id>4E716A6D-3DAE-4374-80FD348FB3A2C6B4</id>
+        <link href="https://www.scientificamerican.com/article/three-fixes-to-build-energy-projects-cleaner-and-faster/"/>
+        <updated>2022-02-28T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Modernize the way we regulate clean energy construction to reach net-zero carbon emission goals
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Rich Powell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ancient Peoples Teach Us That We Can Create a Better World]]></title>
+        <id>E8D53D20-B2E7-4702-B67D7E3ADB89B80F</id>
+        <link href="https://www.scientificamerican.com/article/ancient-peoples-teach-us-that-we-can-create-a-better-world/"/>
+        <updated>2022-02-28T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A radical retelling of civilization’s origins leads to an expansive vision of human possibility
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>John Horgan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Make a Phantom Sixth Finger Grow and Shrink]]></title>
+        <id>70454E2A-B541-4D38-8F67CC549E4C4742</id>
+        <link href="https://www.scientificamerican.com/article/researchers-make-a-phantom-sixth-finger-grow-and-shrink/"/>
+        <updated>2022-02-28T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[An unsettling illusion points to both philosophy and robotics
+
+
+-- Read more on ScientificAmerican.com]]></summary>
+        <author>
+            <name>Matthew Hutson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RuPay: The Indian Card Payment Alternative Rivals Visa and Mastercard]]></title>
+        <id>https://hackernoon.com/rupay-the-indian-card-payment-alternative-rivals-visa-and-mastercard?source=rss</id>
+        <link href="https://hackernoon.com/rupay-the-indian-card-payment-alternative-rivals-visa-and-mastercard?source=rss"/>
+        <updated>2022-02-28T10:50:11.000Z</updated>
+        <summary type="html"><![CDATA[Story of how RuPay, an Indian alternative for Visa and MasterCard became a giant in the plastic card industry within a span of a decade.]]></summary>
+        <author>
+            <name>Kaushal Joshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet Code Daddy and Full Stack Developer, Clint Veasey]]></title>
+        <id>https://hackernoon.com/meet-code-daddy-and-full-stack-developer-clint-veasey?source=rss</id>
+        <link href="https://hackernoon.com/meet-code-daddy-and-full-stack-developer-clint-veasey?source=rss"/>
+        <updated>2022-02-28T10:37:11.000Z</updated>
+        <summary type="html"><![CDATA[My latest HackerNoon Top Story was about my most pressing concern in life and the giant that towers over my internal psychological geography: my firstborn Son.]]></summary>
+        <author>
+            <name>Clint Veasey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFTs Are Trending: But Are They Reliable, Secure and Trustworthy?]]></title>
+        <id>https://hackernoon.com/nfts-are-trending-but-are-they-reliable-secure-and-trustworthy?source=rss</id>
+        <link href="https://hackernoon.com/nfts-are-trending-but-are-they-reliable-secure-and-trustworthy?source=rss"/>
+        <updated>2022-02-28T10:26:18.000Z</updated>
+        <summary type="html"><![CDATA[NFT and Metaverse make it spicier: high stakes and high rewards with low security make the system vulnerable, as stated by high tech experts. Is it so?]]></summary>
+        <author>
+            <name>ExtraChain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DIY Tutorial: Building a System to Track and Communicate with Satellites in Orbit]]></title>
+        <id>https://hackernoon.com/diy-tutorial-building-a-system-to-track-and-communicate-with-satellites-in-orbit?source=rss</id>
+        <link href="https://hackernoon.com/diy-tutorial-building-a-system-to-track-and-communicate-with-satellites-in-orbit?source=rss"/>
+        <updated>2022-02-28T10:18:58.000Z</updated>
+        <summary type="html"><![CDATA[The purpose of my project is to build a system for tracking satellites in orbit and will make it possible to communicate with the satellites]]></summary>
+        <author>
+            <name>Stepperonline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cybersecurity From the Defenders' Perspective]]></title>
+        <id>https://hackernoon.com/cybersecurity-from-the-defenders-perspective?source=rss</id>
+        <link href="https://hackernoon.com/cybersecurity-from-the-defenders-perspective?source=rss"/>
+        <updated>2022-02-28T10:10:28.000Z</updated>
+        <summary type="html"><![CDATA[Becoming a cybercriminal has never been so easy. From the defenders' perspective, things have also evolved tremendously.]]></summary>
+        <author>
+            <name>jmau111</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Suffering from a Sleepy SEO Strategy? Here's How to Recover Your Rankings]]></title>
+        <id>https://hackernoon.com/suffering-from-a-sleepy-seo-strategy-heres-how-to-recover-your-rankings?source=rss</id>
+        <link href="https://hackernoon.com/suffering-from-a-sleepy-seo-strategy-heres-how-to-recover-your-rankings?source=rss"/>
+        <updated>2022-02-28T10:06:43.000Z</updated>
+        <summary type="html"><![CDATA[What SEO trends can we expect in 2022? Let's discover how you can recover your rankings for marketing success post-Covid.]]></summary>
+        <author>
+            <name>Rebecca Barnatt-Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wordle: How the Latest Internet Sensation Went Viral]]></title>
+        <id>https://hackernoon.com/wordle-how-the-latest-internet-sensation-went-viral?source=rss</id>
+        <link href="https://hackernoon.com/wordle-how-the-latest-internet-sensation-went-viral?source=rss"/>
+        <updated>2022-02-28T10:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Millions of people play Wordle, a cryptic word game, every day. The game reached millions in just a few months. Such a grand outreach deserves an exploration.]]></summary>
+        <author>
+            <name>Aditi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Intro to Web3 Multi-Chain Trading]]></title>
+        <id>https://hackernoon.com/an-intro-to-web3-multi-chain-trading?source=rss</id>
+        <link href="https://hackernoon.com/an-intro-to-web3-multi-chain-trading?source=rss"/>
+        <updated>2022-02-28T09:01:06.000Z</updated>
+        <summary type="html"><![CDATA[Yellow Network offers to interconnect multiple scattered exchanges in one automated non-custodial trading hub, providing a user with the aggregated liquidity.]]></summary>
+        <author>
+            <name>Yellow Network</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Bootcamp Won’t Make You an Engineer]]></title>
+        <id>https://hackernoon.com/a-bootcamp-wont-make-you-an-engineer?source=rss</id>
+        <link href="https://hackernoon.com/a-bootcamp-wont-make-you-an-engineer?source=rss"/>
+        <updated>2022-02-28T08:41:59.000Z</updated>
+        <summary type="html"><![CDATA[A coding bootcamp does not mean you will have a successful career as a software engineer. But the coding journey can make you a better person. Here's why.]]></summary>
+        <author>
+            <name>Kaizen + Joy | 🦄1337code grinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Early & Static Testing: Life-Changing Benefits for Your Application]]></title>
+        <id>https://hackernoon.com/early-and-static-testing-life-changing-benefits-for-your-application?source=rss</id>
+        <link href="https://hackernoon.com/early-and-static-testing-life-changing-benefits-for-your-application?source=rss"/>
+        <updated>2022-02-28T08:33:07.000Z</updated>
+        <summary type="html"><![CDATA[Early testing is one of the software testing principles that often gets neglected by QA engineers, as well as the static testing technique. What are you missing]]></summary>
+        <author>
+            <name>Igor Kovalenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why User Testing is Your Competitive Advantage]]></title>
+        <id>https://hackernoon.com/why-user-testing-is-your-competitive-advantage?source=rss</id>
+        <link href="https://hackernoon.com/why-user-testing-is-your-competitive-advantage?source=rss"/>
+        <updated>2022-02-28T08:25:20.000Z</updated>
+        <summary type="html"><![CDATA[Give your users time to explore the UI of your latest product offering so you can gain an understanding of how interaction can be improved.]]></summary>
+        <author>
+            <name>Easy User Test</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Really Use Git: 10 Rules to Make Git More Useful]]></title>
+        <id>https://hackernoon.com/how-to-really-use-git-10-rules-to-make-git-more-useful?source=rss</id>
+        <link href="https://hackernoon.com/how-to-really-use-git-10-rules-to-make-git-more-useful?source=rss"/>
+        <updated>2022-02-28T08:22:04.000Z</updated>
+        <summary type="html"><![CDATA[Git is awesome if you know how to use it effectively. It's not just a backup system! Here are 10 best practices for version control with Git.]]></summary>
+        <author>
+            <name>Bruno Brito</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Beginners Guide to NFTs for Digital Asset Authentication]]></title>
+        <id>https://hackernoon.com/a-beginners-guide-to-nfts-for-digital-asset-authentication?source=rss</id>
+        <link href="https://hackernoon.com/a-beginners-guide-to-nfts-for-digital-asset-authentication?source=rss"/>
+        <updated>2022-02-28T08:11:41.000Z</updated>
+        <summary type="html"><![CDATA[Since it is so easy to counterfeit papers and information on the internet, having a unique and secure certificate of authenticity is incredibly valuable]]></summary>
+        <author>
+            <name>Abhinit Gogia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What to Expect When Transitioning to DevSecOps]]></title>
+        <id>https://devops.com/?p=150235</id>
+        <link href="https://devops.com/what-to-expect-when-transitioning-to-devsecops/"/>
+        <updated>2022-02-28T08:00:25.000Z</updated>
+        <summary type="html"><![CDATA[How do you ensure your DevOps pipeline is secure? Does DevSecOps protect you against serious breaches or is it just a way to allay the concerns of stakeholders about security in DevOps? A data breach can cost an average of $3.92 million USD, as per IBM’s study Cost of a Data Breach. In this report, […]
+The post What to Expect When Transitioning to DevSecOps appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>Rahul Varshneya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configuration Management]]></title>
+        <id>https://devops.com/?p=150305</id>
+        <link href="https://devops.com/configuration-management/"/>
+        <updated>2022-02-28T07:00:06.000Z</updated>
+        <summary type="html"><![CDATA[The post Configuration Management appeared first on DevOps.com.]]></summary>
+        <author>
+            <name>ROELBOB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everest Brings Regulated DeFi & Biometric Identities to Polygon]]></title>
+        <id>https://hackernoon.com/everest-brings-regulated-defi-and-biometric-identities-to-polygon?source=rss</id>
+        <link href="https://hackernoon.com/everest-brings-regulated-defi-and-biometric-identities-to-polygon?source=rss"/>
+        <updated>2022-02-28T06:43:05.000Z</updated>
+        <summary type="html"><![CDATA[Everest has partnered with Polygon to grant its users and developers access to a range of identity verification and DeFi tools.]]></summary>
+        <author>
+            <name>Cryptonite</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is The Wasted Lands? A Look at The New NFT & Puzzle-RPG Game]]></title>
+        <id>https://hackernoon.com/what-is-the-wasted-lands-a-look-at-the-new-nft-and-puzzle-rpg-game?source=rss</id>
+        <link href="https://hackernoon.com/what-is-the-wasted-lands-a-look-at-the-new-nft-and-puzzle-rpg-game?source=rss"/>
+        <updated>2022-02-28T06:02:45.000Z</updated>
+        <summary type="html"><![CDATA[In this post we'll look at The Wasted Lands, a blockchain based, Play-to-Earn, NFT & Puzzle-RPG Game.]]></summary>
+        <author>
+            <name>Cryptonite</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Payments Industry with Alon Rajic: Founder of MoneyTransferComparison]]></title>
+        <id>https://hackernoon.com/understanding-the-payments-industry-with-alon-rajic-founder-of-moneytransfercomparison?source=rss</id>
+        <link href="https://hackernoon.com/understanding-the-payments-industry-with-alon-rajic-founder-of-moneytransfercomparison?source=rss"/>
+        <updated>2022-02-28T03:25:16.000Z</updated>
+        <summary type="html"><![CDATA[Alon Rajic is the founder of Money Transfer Comparison, Finofin. He says the biggest story of the year in UK Fintech, at least in his view is the IPO of Wise.]]></summary>
+        <author>
+            <name>Ishan Pandey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#StopRussianAggression Facts and How You Can Help Ukraine]]></title>
+        <id>https://hackernoon.com/stoprussianaggression-facts-and-how-you-can-help-ukraine?source=rss</id>
+        <link href="https://hackernoon.com/stoprussianaggression-facts-and-how-you-can-help-ukraine?source=rss"/>
+        <updated>2022-02-28T01:21:22.000Z</updated>
+        <summary type="html"><![CDATA[We don't have a lot of fear here. We are angry as f*]]></summary>
+        <author>
+            <name>Arthur</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hackaday Links: February 27, 2022]]></title>
         <id>https://hackaday.com/?p=524353&amp;preview=true&amp;preview_id=524353</id>
@@ -14,6 +490,38 @@
         <summary type="html"><![CDATA[If there’s one thing that can trigger people, it’s the printer racket. Printer manufacturers who put DRM-like features into their consumables are rightly viewed as Satan’s spawn, and while these …read more]]></summary>
         <author>
             <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project Zero Reports Faster Bug Patching]]></title>
+        <id>http://www.i-programmer.info/news/149-security/15243-project-zero-reports-faster-bug-patching.html</id>
+        <link href="http://www.i-programmer.info/news/149-security/15243-project-zero-reports-faster-bug-patching.html"/>
+        <updated>2022-02-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In 2021 it took an average of only 52 days for bugs reported by Project Zero to be fixed, a significant increase in speed compared to an average time of 80 days three years ago. Linux produced the fastest fixes and Google the slowest.
+
+
+Read more...]]></summary>
+        <author>
+            <name>I Programmer - full contents</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Career Hacks to Landing a Job in Software Development]]></title>
+        <id>https://hackernoon.com/5-career-hacks-to-landing-a-job-in-software-development?source=rss</id>
+        <link href="https://hackernoon.com/5-career-hacks-to-landing-a-job-in-software-development?source=rss"/>
+        <updated>2022-02-27T22:04:24.000Z</updated>
+        <summary type="html"><![CDATA[Your LinkedIn profile can also serve as the first point of contact for your recruiters. But when you want to create one, bear in mind that a good LinkedIn...]]></summary>
+        <author>
+            <name>BorderlessHR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Technology Trends To Drive The Energy, Oil & Utilities Sector In 2022]]></title>
+        <id>https://hackernoon.com/7-technology-trends-to-drive-the-energy-oil-and-utilities-sector-in-2022?source=rss</id>
+        <link href="https://hackernoon.com/7-technology-trends-to-drive-the-energy-oil-and-utilities-sector-in-2022?source=rss"/>
+        <updated>2022-02-27T21:18:09.000Z</updated>
+        <author>
+            <name>Andrea Smith</name>
         </author>
     </entry>
     <entry>
@@ -47,6 +555,16 @@
         <summary type="html"><![CDATA[After browsing Thingiverse for some printable PCB probe designs, [Henry York] looked around and found a wooden clothespin on his desk. After some collaboration between his 3D printer and his …read more]]></summary>
         <author>
             <name>Arsenijs Picugins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Future of Automation Will Drive Innovation]]></title>
+        <id>https://hackernoon.com/how-the-future-of-automation-will-drive-innovation?source=rss</id>
+        <link href="https://hackernoon.com/how-the-future-of-automation-will-drive-innovation?source=rss"/>
+        <updated>2022-02-27T17:56:51.000Z</updated>
+        <summary type="html"><![CDATA[Automation is an exciting prospect. Who doesn’t like the idea of having menial tasks completed quicker and more effectively than they could have been by a human?]]></summary>
+        <author>
+            <name>Ryan Ayers</name>
         </author>
     </entry>
     <entry>
