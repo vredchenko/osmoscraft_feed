@@ -123,6 +123,16 @@
       "siteUrl": "https://goteleport.com/blog/",
       "articles": [
         {
+          "id": "https://goteleport.com/blog/ssh-proxyjump-ssh-proxycommand/",
+          "author": null,
+          "description": "OpenSSH ProxyJump and ProxyCommand directives tell the SSH client how to connect to a remote server via an intermediary server — often called a jump host, jump server, or bastion server.\nIf you are new to jump servers, read our tutorial on how to set up a jump server and learn some of the best practices to secure them.\nProxyCommand vs. ProxyJump\nProxyJump is the easiest and recommended way to jump between hosts because it ensures that traffic passing through the intermediate hosts is always encrypted end-to-end. But ProxyJump is available only since OpenSSH version 7.5, and the feature requires port forwarding to be supported by intermediate hosts. Before ProxyJump was released, ProxyCommand was the way to jump hosts. ProxyCommand works by forwarding standard in and standard out (stdio) th…",
+          "link": "https://goteleport.com/blog/ssh-proxyjump-ssh-proxycommand/",
+          "publishedOn": "2022-03-01T00:00:00.000Z",
+          "wordCount": 1207,
+          "title": "How To Use SSH ProxyJump and SSH ProxyCommand",
+          "imageUrl": "https://goteleport.com/blog/images/2022/contentlab/proxycommand-ssh@2x.png"
+        },
+        {
           "id": "https://goteleport.com/blog/authentication-best-practices/",
           "author": null,
           "description": "Our previous blog post on authentication security covered six most common authentication vulnerabilities. In this post, we will discuss a few best practices that help avoid authentication vulnerabilities and defeat specific attack vectors.\nBelow are the six best practices to secure the authentication process.\n1. Prioritize passwordless authentication\nPasswords and password-based authentication processes are plagued with security threats such as phishing and password cracking. And the passwordless authentication approach is the way to eliminate these threats. But why is password-based authentication still widely implemented? The answer to this probably is because password-based authentication is easier to implement, and the solution “just works”.\nPasswordless authentication often requires s…",
@@ -935,6 +945,26 @@
       "feedUrl": "https://www.i-programmer.info/index.php?option=com_ninjarsssyndicator&feed_id=3&format=raw",
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
+        {
+          "id": "http://www.i-programmer.info/news/91-hardware/15253-gitlens-adds-support-for-vscode-web-working.html",
+          "author": null,
+          "description": "GitKraken has updated GitLens to add support for a browser-based editing experience in VS Code online. The Git extension for VS Code also adds support for worktrees and visual file history.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/91-hardware/15253-gitlens-adds-support-for-vscode-web-working.html",
+          "publishedOn": "2022-03-01T18:35:19.000Z",
+          "wordCount": 715,
+          "title": "GitLens Adds Support For VSCode Web Working",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/news/91-hardware/15252-raspberry-pi-at-10.html",
+          "author": null,
+          "description": "It is 10 years since the Raspberry Pi first went on sale. The initial 10,000 units sold out in less that two hours, causing its two retailers' websites to crash. Since then, over successive models, the Raspberry Pi has seen a 40-fold improvement in performance, but has retained its original entry-level price of $35.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/91-hardware/15252-raspberry-pi-at-10.html",
+          "publishedOn": "2022-03-01T14:18:20.000Z",
+          "wordCount": 1096,
+          "title": "Raspberry Pi At 10",
+          "imageUrl": null
+        },
         {
           "id": "http://www.i-programmer.info/news/84-database/15250-couchbase-updates-mobile-and-edge-support.html",
           "author": null,
@@ -1928,6 +1958,26 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=363724",
+          "author": "Patrick Brosset",
+          "description": "Styling ranges of text in software is a very useful thing to be able to do. Thankfully, we have the CSS Custom Highlight API to look forward to because it represents the future of styling text ranges on the web.…\nCSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-custom-highlight-api-early-loo/",
+          "publishedOn": "2022-03-01T17:41:13.000Z",
+          "wordCount": 2472,
+          "title": "CSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363724"
+        },
+        {
+          "id": "https://css-tricks.com/?p=364351",
+          "author": "Chris Coyier",
+          "description": "Ahmad Shadeed covers the CSS fit-content sizing keyword. It’s useful! It just doesn’t come up super often. I find myself using min-content a lot more, like when setting up the height of a grid-template-row.\nThe fit-content keyword is actually …\nAhmad Shadeed: Use Cases For CSS fit-content originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/ahmad-shadeed-use-cases-for-css-fit-content/",
+          "publishedOn": "2022-03-01T15:41:16.000Z",
+          "wordCount": 454,
+          "title": "Ahmad Shadeed: Use Cases For CSS fit-content",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364351"
+        },
         {
           "id": "https://css-tricks.com/?p=364346",
           "author": "Chris Coyier",
@@ -4371,6 +4421,126 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/implementing-bluegreen-deployments-with-azure-web-apps-for-containers?source=rss",
+          "author": "Will Velida",
+          "description": "Using Deployment slots, we can perform Blue/Green deployments in Azure App Service to achieve zero-downtime deployments for our containerized workloads.",
+          "link": "https://hackernoon.com/implementing-bluegreen-deployments-with-azure-web-apps-for-containers?source=rss",
+          "publishedOn": "2022-02-28T22:22:09.000Z",
+          "wordCount": 4471,
+          "title": "Implementing Blue/Green Deployments with Azure Web Apps for Containers",
+          "imageUrl": "https://cdn.hackernoon.com/images/pffQtygCu8Uaa9SSArIb41t2PYU2-v6a3h2p.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/meet-the-winners-of-startups-in-north-and-central-america?source=rss",
+          "author": "Startups",
+          "description": "Startups from all over the world were nominated, from North America to East Asia. In total, 44,000 startups were nominated in over 4,500 cities.",
+          "link": "https://hackernoon.com/meet-the-winners-of-startups-in-north-and-central-america?source=rss",
+          "publishedOn": "2022-02-28T21:09:20.000Z",
+          "wordCount": 6108,
+          "title": "Meet the Winners of Startups in North and Central America",
+          "imageUrl": "https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-md93wrs.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/creating-and-provisioning-azure-container-apps-with-bicep?source=rss",
+          "author": "Will Velida",
+          "description": "Using Bicep, we can deploy Azure Container Apps quickly and easily!",
+          "link": "https://hackernoon.com/creating-and-provisioning-azure-container-apps-with-bicep?source=rss",
+          "publishedOn": "2022-02-28T21:07:40.000Z",
+          "wordCount": 3196,
+          "title": "Creating and Provisioning Azure Container Apps with Bicep",
+          "imageUrl": "https://cdn.hackernoon.com/images/pffQtygCu8Uaa9SSArIb41t2PYU2-9fb3hlw.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-an-http-proxy-and-how-does-it-work-for-your-goals?source=rss",
+          "author": "Shariy Ivan",
+          "description": "What is an HTTP proxy? It is a good way to get information on the Internet while maintaining your privacy. Read my article to get more insights about HTTP proxy",
+          "link": "https://hackernoon.com/what-is-an-http-proxy-and-how-does-it-work-for-your-goals?source=rss",
+          "publishedOn": "2022-02-28T21:04:02.000Z",
+          "wordCount": 2964,
+          "title": "What is an HTTP Proxy and How Does it Work for Your Goals",
+          "imageUrl": "https://cdn.hackernoon.com/images/ibiIhGcvjcMB9ly4daDKGWgs0wq1-fd93hro.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-create-bullseye-charts-with-js-covid-19-vaccine-pipeline?source=rss",
+          "author": "Shachee Swadia",
+          "description": "Bullseye charts are widely used in drug pipeline & clinical trials data analysis. Learn how to create one in JavaScript and explore the COVID vaccines by phase.",
+          "link": "https://hackernoon.com/how-to-create-bullseye-charts-with-js-covid-19-vaccine-pipeline?source=rss",
+          "publishedOn": "2022-02-28T21:00:16.000Z",
+          "wordCount": 2815,
+          "title": "How to Create Bullseye Charts with JS: COVID-19 Vaccine Pipeline",
+          "imageUrl": "https://cdn.hackernoon.com/images/Poew19SAsBUNhE5IfTTpTjtg9Dl1-idf3nnj.png"
+        },
+        {
+          "id": "https://hackernoon.com/busting-the-overnight-success-myth-in-startups?source=rss",
+          "author": "Rui Lourenço",
+          "description": "Publications love to bombard us with stories of entrepreneurs who find instant success. The problem is “instant success” simply doesn’t happen.",
+          "link": "https://hackernoon.com/busting-the-overnight-success-myth-in-startups?source=rss",
+          "publishedOn": "2022-02-28T20:24:07.000Z",
+          "wordCount": 2892,
+          "title": "Busting the ‘Overnight Success’ Myth in Startups",
+          "imageUrl": "https://cdn.hackernoon.com/images/04RBQUokhMcaEo331itGHu88zIw1-zz93erl.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/blockwallet-launches-the-first-privacy-focused-web3-browser-wallet?source=rss",
+          "author": "Ishan Pandey",
+          "description": "BlockWallet browser-based solution brings in a new age of interfacing with Web3 and the decentralised apps that underpin it.",
+          "link": "https://hackernoon.com/blockwallet-launches-the-first-privacy-focused-web3-browser-wallet?source=rss",
+          "publishedOn": "2022-02-28T20:15:35.000Z",
+          "wordCount": 2459,
+          "title": "BlockWallet Launches the First Privacy Focused Web3 Browser Wallet",
+          "imageUrl": "https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-9hb3n1l.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/the-web3-writing-contest?source=rss",
+          "author": "Hacker Noon Contests",
+          "description": "The Octopus Network in collaboration with HackerNoon is excited to host a #Web3 Writing Contest!",
+          "link": "https://hackernoon.com/the-web3-writing-contest?source=rss",
+          "publishedOn": "2022-02-28T20:10:25.000Z",
+          "wordCount": 2616,
+          "title": "The #Web3 Writing Contest",
+          "imageUrl": "https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-ovf3hck.png"
+        },
+        {
+          "id": "https://hackernoon.com/monetizing-interactive-live-video-how-to-get-it-right?source=rss",
+          "author": "Amazon Interactive Video Service (IVS)",
+          "description": "Business success for any brand hinges on monetization. Read on to know how to get it right when it comes to monetizing interactive live videos.",
+          "link": "https://hackernoon.com/monetizing-interactive-live-video-how-to-get-it-right?source=rss",
+          "publishedOn": "2022-02-28T15:42:52.000Z",
+          "wordCount": 2362,
+          "title": "Monetizing Interactive Live Video: How To Get It Right",
+          "imageUrl": "https://cdn.hackernoon.com/images/7GGjdbIpEWhSoNNMb3i5kpsuefF3-9x93hwg.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/ukraine-dao-is-raising-funds-to-help-people-suffering-from-the-war-started-by-russia?source=rss",
+          "author": "Ishan Pandey",
+          "description": "A UkraineDAO has been established to gather funds for Ukrainian soldiers who are fighting the Russian army.",
+          "link": "https://hackernoon.com/ukraine-dao-is-raising-funds-to-help-people-suffering-from-the-war-started-by-russia?source=rss",
+          "publishedOn": "2022-02-28T15:00:32.000Z",
+          "wordCount": 2382,
+          "title": "Ukraine DAO is Raising Funds to Help People Suffering from the War started by Russia",
+          "imageUrl": "https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-9hb3nto.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/decentralized-web-writing-competition-2022-january-results-announced?source=rss",
+          "author": "Hacker Noon Contests",
+          "description": "Welcome to another announcement of the HackerNoon Decentralized Web Writing Contest!",
+          "link": "https://hackernoon.com/decentralized-web-writing-competition-2022-january-results-announced?source=rss",
+          "publishedOn": "2022-02-28T14:06:10.000Z",
+          "wordCount": 1767,
+          "title": "Decentralized Web Writing Competition 2022: January Results Announced!",
+          "imageUrl": "https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-kje3hl2.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/live-streaming-unicorn-tango-shows-how-focus-can-be-the-difference?source=rss",
+          "author": "Stewart Rogers",
+          "description": "From basic filters to complex AR face-changing features, then live-streaming and broadcasting, the evolution of social media has moved at breakneck speed.",
+          "link": "https://hackernoon.com/live-streaming-unicorn-tango-shows-how-focus-can-be-the-difference?source=rss",
+          "publishedOn": "2022-02-28T14:02:15.000Z",
+          "wordCount": 1829,
+          "title": "Live-streaming Unicorn Tango Shows how Focus can be the Difference",
+          "imageUrl": "https://cdn.hackernoon.com/images/sZ5UlmC40YcazlXlbOf4nV7TqkL2-c994j4t.jpeg"
+        },
         {
           "id": "https://hackernoon.com/rupay-the-indian-card-payment-alternative-rivals-visa-and-mastercard?source=rss",
           "author": "Kaushal Joshi",
@@ -23768,6 +23938,17 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=149143",
+          "author": "ACMer",
+          "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms Simple function can draw amazing shapes using Turtle Graphics library and here is a python function to draw a spiral where...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-how-to-draw-a-spiral-shape-using-python-and-turtle-graphics/",
+          "publishedOn": "2022-03-01T21:53:57.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – How to Draw a Spiral Shape using Python and Turtle Graphics?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://helloacm.com/?p=149128",
           "author": "ACMer",
           "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms To draw a black-and-white chess board, we need the following three functions: draw a white square, draw a black (filled) square,...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -24996,6 +25177,76 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=525074",
+          "author": "Arsenijs Picugins",
+          "description": "Quite a few hackers nowadays share their tips and tricks on Twitter – it’s easy to do so, and provided either an existing audience or a bit of effort to …read more",
+          "link": "https://hackaday.com/2022/03/01/desoldering-without-hot-air-piece-of-wire-edition/",
+          "publishedOn": "2022-03-02T00:00:28.000Z",
+          "wordCount": 1289,
+          "title": "Desoldering Without Hot Air: Piece Of Wire Edition",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/hadimg_iron_desoldering_feat.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=525050",
+          "author": "Dan Maloney",
+          "description": "Everyone loves LED matrices, and even if you can’t find what you like commercially, it’s pretty easy to make just what you want. Need it big? No problem; just order …read more",
+          "link": "https://hackaday.com/2022/03/01/big-led-matrix-becomes-tiny-led-matrix-thanks-to-fiber-optics/",
+          "publishedOn": "2022-03-01T21:00:51.000Z",
+          "wordCount": 1299,
+          "title": "Big LED Matrix Becomes Tiny LED Matrix Thanks to Fiber Optics",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/fiber-matrix.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=525016",
+          "author": "Dan Maloney",
+          "description": "When it comes to mechanical timepieces, we’re used to seeing mechanisms stuffed with tiny gears and wheel, often of marvelous complexity and precision. What we’re perhaps less used to seeing …read more",
+          "link": "https://hackaday.com/2022/03/01/sprockets-and-chains-drive-this-unique-mechanical-digital-clock/",
+          "publishedOn": "2022-03-01T19:30:26.000Z",
+          "wordCount": 1309,
+          "title": "Sprockets and Chains Drive This Unique Mechanical Digital Clock",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/chain-and-sprocket-clock.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=524338",
+          "author": "Al Williams",
+          "description": "We will assume you’ve seen The Matrix — it was from 1999, after all. The surprise, at the end, was that humans were being used as human batteries to power …read more",
+          "link": "https://hackaday.com/2022/03/01/human-power-past-and-future/",
+          "publishedOn": "2022-03-01T18:00:22.000Z",
+          "wordCount": 3396,
+          "title": "Human Power, Past and Future",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/14683494484_169917930a_k.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=501385",
+          "author": "Danie Conradie",
+          "description": "Watching TV or playing a console game is usually not an outdoor activity, helped by the fact that you can’t see anything on your average TV in direct sunlight. However, …read more",
+          "link": "https://hackaday.com/2022/03/01/diy-super-bright-outdoor-tv-with-watercooling/",
+          "publishedOn": "2022-03-01T16:30:47.000Z",
+          "wordCount": 1309,
+          "title": "DIY Super-Bright Outdoor TV With Watercooling",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/outdoortv_featured.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=524627",
+          "author": "Lewin Day",
+          "description": "Neural networks have become a hot topic over the last decade, put to work on jobs from recognizing image content to generating text and even playing video games. However, these …read more",
+          "link": "https://hackaday.com/2022/03/01/researchers-build-neural-networks-with-actual-neurons/",
+          "publishedOn": "2022-03-01T15:00:13.000Z",
+          "wordCount": 2018,
+          "title": "Researchers Build Neural Networks With Actual Neurons",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/NeuralNerves.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=524548",
+          "author": "Jenny List",
+          "description": "The popular word game Wordle is both an addictive brain teaser for some and a perpetual social media annoyance for others. Its runaway success has spawned a host of clones, …read more",
+          "link": "https://hackaday.com/2022/03/01/squeezing-a-wordle-clone-onto-the-game-boy/",
+          "publishedOn": "2022-03-01T12:00:29.000Z",
+          "wordCount": 1260,
+          "title": "Squeezing a Wordle Clone onto the Game Boy",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/gameboy_feat.jpg"
+        },
         {
           "id": "https://hackaday.com/?p=524812",
           "author": "Arsenijs Picugins",
@@ -33876,6 +34127,116 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "DAC869EF-65EE-4594-9C9B118CE3F1852A",
+          "author": "Ariel Wittenberg, E&E News",
+          "description": "The nation’s largest association of psychologists said its members should do more to treat the dangerous health effects of rising temperatures\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/psychologists-urge-peers-to-take-climate-action/",
+          "publishedOn": "2022-03-01T21:15:00.000Z",
+          "wordCount": null,
+          "title": "Psychologists Urge Peers to Take Climate Action",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "2994067B-939D-4A0D-B37E80FDDA8C9552",
+          "author": "Tereza Pultarova, SPACE.com",
+          "description": "The Rosalind Franklin rover was set to embark for Mars later this year, but the deteriorating relationship between Europe and Russia now makes that very unlikely\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/russias-invasion-of-ukraine-may-delay-europes-exomars-rover-launch/",
+          "publishedOn": "2022-03-01T20:45:00.000Z",
+          "wordCount": null,
+          "title": "Russia's Invasion of Ukraine May Delay Europe's ExoMars Rover Launch",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "B967E4E6-9980-4B86-808860338391EE53",
+          "author": "Joseph E. Stiglitz",
+          "description": "The poor, no matter where they live, will suffer the greatest lasting toll\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/covid-has-made-global-inequality-much-worse/",
+          "publishedOn": "2022-03-01T19:00:00.000Z",
+          "wordCount": null,
+          "title": "COVID Has Made Global Inequality Much Worse",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "41A87C00-D068-4AE8-830A2D10EC1C980B",
+          "author": "Robin George Andrews",
+          "description": "Although the space-junk strike on March 4 will probably be harmless, such events may soon become more common—and dangerous\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/looming-rocket-impact-forecasts-trouble-for-future-lunar-exploration/",
+          "publishedOn": "2022-03-01T17:30:00.000Z",
+          "wordCount": null,
+          "title": "Looming Rocket Impact Forecasts Trouble for Future Lunar Exploration",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "61565FE9-28B3-4C6C-AB5FC04ACFC8D4D7",
+          "author": "Saleemul Huq",
+          "description": "The latest IPCC report makes it clear that countries rich and poor have to forcefully adapt to a warming world\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/adapting-to-climate-change-lessons-from-bangladesh/",
+          "publishedOn": "2022-03-01T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Adapting to Climate Change: Lessons from Bangladesh",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "80640640-17A8-41A8-A669D8441967DD22",
+          "author": "Steven Gonzalez Monserrate, The MIT Press Reader",
+          "description": "The cloud is not only material but also an ecological force\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-staggering-ecological-impacts-of-computation-and-the-cloud/",
+          "publishedOn": "2022-03-01T15:00:00.000Z",
+          "wordCount": null,
+          "title": "The Staggering Ecological Impacts of Computation and the Cloud",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "F2A63DD7-C331-4A8B-834D5D4082F5A49D",
+          "author": "Laura Helmuth",
+          "description": "Please share your observations about how the pandemic changed life for you and yours\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/introducing-a-special-issue-on-how-covid-changed-the-world/",
+          "publishedOn": "2022-03-01T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Introducing a Special Issue on How COVID Changed the World",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "BD4FD5F3-ADCC-4CC2-BA4B10D7FAE4F243",
+          "author": "Rachel Crowell",
+          "description": "For years, concerned researchers have been calling for a boycott of the 2022 International Congress of Mathematicians\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/mathematicians-protest-russia-hosting-major-conference/",
+          "publishedOn": "2022-03-01T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Mathematicians Protest Russia Hosting Major Conference",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "659ED878-2653-4527-A287D39517F5CB03",
+          "author": "Joanna Thompson",
+          "description": "Researchers say that such bio-integrated systems could be the future of prosthetics\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/artificial-neuron-snaps-a-venus-flytrap-shut/",
+          "publishedOn": "2022-03-01T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Artificial Neuron Snaps a Venus Flytrap Shut",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "E1E3ADFA-541A-489D-B82D547514CC18BC",
+          "author": null,
+          "description": "Humans have accomplished a great deal in our relatively short history - and have left our mark on Earth in the process. In this eBook, we examine the story of us: how we got here, the world...\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/store/ebooks/the-age-of-humans/",
+          "publishedOn": "2022-03-01T05:00:00.000Z",
+          "wordCount": null,
+          "title": "The Age of Humans",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "8C3D167C-866A-4DFA-AA6A1D3F3B720257",
           "author": "Amy Maxmen, Nature magazine",
           "description": "Report authors say that the coronavirus SARS-CoV-2 jumped from animals sold at the market into people twice in late 2019—but some scientists want more definitive evidence\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -41133,6 +41494,46 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=150369",
+          "author": "Mike Vizard",
+          "description": "A CloudBolt Software survey of 500 senior IT, DevOps, security and finance leaders found 79% are struggling under the weight of managing multiple cloud computing environments. The survey from CloudBolt Software, a provider of a cloud management platform, found specifically that more than three-quarters of respondents (78%) said they have too many cloud tools throughout […]\nThe post Multi-Cloud Computing is a Major IT Headache appeared first on DevOps.com.",
+          "link": "https://devops.com/multi-cloud-computing-is-a-major-it-headache/",
+          "publishedOn": "2022-03-01T13:49:56.000Z",
+          "wordCount": 1008,
+          "title": "Multi-Cloud Computing is a Major IT Headache",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/04/multicloud.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150346",
+          "author": "Lilac Mohr",
+          "description": "Nearly every aspect of the software development process is accelerating, from the increasing speed of programming languages to the expectation of faster delivery. This has resulted in the misconception that speed and efficiency should be a DevOps team’s or engineer’s top priority. Though agile transformations have been a central strategy for most organizations in recent […]\nThe post Shifting Engineering Priorities for 2022 appeared first on DevOps.com.",
+          "link": "https://devops.com/shifting-engineering-priorities-for-2022/",
+          "publishedOn": "2022-03-01T08:00:49.000Z",
+          "wordCount": 1283,
+          "title": "Shifting Engineering Priorities for 2022",
+          "imageUrl": "https://devops.com/wp-content/uploads/2016/02/Football-Strategy-Image-1-e1646087839323.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150283",
+          "author": "Nathan Eddy",
+          "description": "Engineering teams continue to struggle with roadblocks and bottlenecks during the development process, according to Software’s recent 2021 Code Time Report. The study, which is based on feedback from more than 250,000 developers using the Code Time plugin, found the median code time per developer is 52 minutes per day, or four hours and 21 minutes of […]\nThe post Boosting DevOps Productivity Requires Visibility, Automation appeared first on DevOps.com.",
+          "link": "https://devops.com/boosting-devops-productivity-requires-visibility-automation/",
+          "publishedOn": "2022-03-01T07:30:33.000Z",
+          "wordCount": 1336,
+          "title": "Boosting DevOps Productivity Requires Visibility, Automation",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/11/teamwork.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150316",
+          "author": "Veronica Haggar",
+          "description": "Application Programming Interfaces (APIs) enable organizations to grow their businesses and drive innovation. APIs allow applications to easily transfer data to external third-party developers, business partners and internal departments. Since APIs have access to valuable and sensitive data, they have increasingly become a target for cyberattacks. At the API Security Summit, taking place on March […]\nThe post How to Build an Effective API Security Strategy appeared first on DevOps.com.",
+          "link": "https://devops.com/how-to-build-an-effective-api-security-strategy/",
+          "publishedOn": "2022-02-28T13:30:07.000Z",
+          "wordCount": 788,
+          "title": "How to Build an Effective API Security Strategy",
+          "imageUrl": "https://devops.com/wp-content/uploads/2021/12/APIadoption.jpg"
+        },
+        {
           "id": "https://devops.com/?p=150235",
           "author": "Rahul Varshneya",
           "description": "How do you ensure your DevOps pipeline is secure? Does DevSecOps protect you against serious breaches or is it just a way to allay the concerns of stakeholders about security in DevOps? A data breach can cost an average of $3.92 million USD, as per IBM’s study Cost of a Data Breach. In this report, […]\nThe post What to Expect When Transitioning to DevSecOps appeared first on DevOps.com.",
@@ -44543,6 +44944,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=112796",
+          "author": "Natalie Wolchover",
+          "description": "For three decades, researchers hunted in vain for new elementary particles that would have explained why nature looks the way it does. As physicists confront that failure, they’re reexamining a longstanding assumption: that big stuff consists of smaller stuff.            \nThe post A Deepening Crisis Forces Physicists to Rethink Structure of Nature’s Laws first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/crisis-in-particle-physics-forces-a-rethink-of-what-is-natural-20220301/",
+          "publishedOn": "2022-03-01T16:12:58.000Z",
+          "wordCount": 5159,
+          "title": "A Deepening Crisis Forces Physicists to Rethink Structure of Nature’s Laws",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/0301_Naturalness-1200x630_social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=112793",
           "author": "Ben Brubaker",
           "description": "When astronomers tried to confirm a signal from the birth of the first stars after the Big Bang, they saw nothing.            \nThe post Four Years On, New Experiment Sees No Sign of ‘Cosmic Dawn’ first appeared on Quanta Magazine",
@@ -45317,6 +45728,16 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66973",
+          "author": "Nathan Yau",
+          "description": "In the 1970s, the most common household type in the U.S. was a married couple with kids. Things are different now.\nTags: family, households",
+          "link": "https://flowingdata.com/2022/03/01/change-in-common-household-types-in-the-u-s/",
+          "publishedOn": "2022-03-01T08:20:30.000Z",
+          "wordCount": 559,
+          "title": "Change in Common Household Types in the U.S.",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/02/housetype-featured.png"
+        },
         {
           "id": "https://flowingdata.com/?p=66959",
           "author": "Nathan Yau",
