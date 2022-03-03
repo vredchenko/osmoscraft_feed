@@ -946,6 +946,36 @@
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
         {
+          "id": "http://www.i-programmer.info/book-watch-archive/15255-c-100-all-in-one-for-dummies-wiley.html",
+          "author": null,
+          "description": "This book teaches the basics of the language itself, how to code in Visual Studio, and how to take advantage of the new features in the latest release. In six mini books, John Paul Mueller takes you through the changes to C# and the practical applications and dev tools that you need to know. New features covered include records, init only setters, top-level statements, pattern matching enhancements, and fit and finish features.\n\r\n<ASIN:1119839076>\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/book-watch-archive/15255-c-100-all-in-one-for-dummies-wiley.html",
+          "publishedOn": "2022-03-02T14:15:49.000Z",
+          "wordCount": 504,
+          "title": "C# 10.0 All-in-One For Dummies (Wiley)",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/news/184-cc/15254-linux-moves-to-c11.html",
+          "author": null,
+          "description": "- as long as there are no problems. Linus Torvalds has long expressed a preference for the original C and his dislike of, or despair at, C++. Could he be mellowing?\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/184-cc/15254-linux-moves-to-c11.html",
+          "publishedOn": "2022-03-02T10:48:52.000Z",
+          "wordCount": 1230,
+          "title": "Linux To Move To C11",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/news/87-web-development/15256-mdn-redesign.html",
+          "author": null,
+          "description": "MDN is a key resource not only for web developers but for almost everyone who writes code. It now has a smart new redesign ahead of the launch of MDN Plus which still has the status of \"Coming Soon\". \n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/87-web-development/15256-mdn-redesign.html",
+          "publishedOn": "2022-03-02T00:00:00.000Z",
+          "wordCount": 900,
+          "title": "Smart and Well-Structured MDN Redesign",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.i-programmer.info/news/91-hardware/15253-gitlens-adds-support-for-vscode-web-working.html",
           "author": null,
           "description": "GitKraken has updated GitLens to add support for a browser-based editing experience in VS Code online. The Git extension for VS Code also adds support for worktrees and visual file history.\n\r\n\nRead more...",
@@ -1958,6 +1988,26 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=364350",
+          "author": "Chris Coyier",
+          "description": "I have a handful of good links to articles about performance that are burning a hole in my bookmarks folder, and wanna drop them here to share.\nThe new WebPageTest website design\nFrom fonts to SVG: an icon migration strategy\n…\n7 Fresh Links on Performance For March 2022 originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/performance-links-february-2022/",
+          "publishedOn": "2022-03-02T21:26:50.000Z",
+          "wordCount": 840,
+          "title": "7 Fresh Links on Performance For March 2022",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364350"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363882",
+          "author": "Silvestar Bistrović",
+          "description": "“Raise the curtains” is what I call an effect where the background goes from dark to light on scroll, and the content on top also goes from light to dark while in a sticky position.\nHere’s an example where I …\nHow to Make a “Raise the Curtains” Effect in CSS originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-raise-the-curtains-effect/",
+          "publishedOn": "2022-03-02T15:57:32.000Z",
+          "wordCount": 1206,
+          "title": "How to Make a “Raise the Curtains” Effect in CSS",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363882"
+        },
         {
           "id": "https://css-tricks.com/?p=363724",
           "author": "Patrick Brosset",
@@ -4421,6 +4471,206 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/10-reasons-why-you-should-use-docker?source=rss",
+          "author": "Dennis Groß",
+          "description": "Container technologies have a profound impact on the entire IT industry. Learn the basic principles behind containers and the 10 reasons why you should use them",
+          "link": "https://hackernoon.com/10-reasons-why-you-should-use-docker?source=rss",
+          "publishedOn": "2022-03-01T22:59:16.000Z",
+          "wordCount": 3633,
+          "title": "10 Reasons Why You Should use Docker",
+          "imageUrl": "https://cdn.hackernoon.com/images/RjUrvl9wZ1XVFzAv6k3mEYbcvzD3-34932kd.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/scale-api-teams-with-platform-ops?source=rss",
+          "author": "Kevin Swiber",
+          "description": "Managing the scale needs of API teams is a difficult task. Here is how Platform Ops can help.",
+          "link": "https://hackernoon.com/scale-api-teams-with-platform-ops?source=rss",
+          "publishedOn": "2022-03-01T22:58:53.000Z",
+          "wordCount": 2057,
+          "title": "🚀 Scale API Teams with Platform Ops",
+          "imageUrl": "https://cdn.hackernoon.com/images/22P9gUNORgNxx8DJYjvM6aN81Fk1-mza2i1z.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-instantly-send-webflow-form-submissions-to-the-cms?source=rss",
+          "author": "Matthew Busel",
+          "description": "Step-by-step guide to send Webflow form submissions to the CMS - without Zapier or Integromat.",
+          "link": "https://hackernoon.com/how-to-instantly-send-webflow-form-submissions-to-the-cms?source=rss",
+          "publishedOn": "2022-03-01T22:58:48.000Z",
+          "wordCount": 2191,
+          "title": "How to (Instantly) Send Webflow Form Submissions to the CMS",
+          "imageUrl": "https://cdn.hackernoon.com/images/k0Lqj7QdAKdyvTwph1EPDMe8Tq52-qja3ho5.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/building-your-own-spatial-audio-web-app?source=rss",
+          "author": "Braden Riggs",
+          "description": "A guide to creating a fixed spatial video conference where participants hear sound spatially in real-time, just like the everyday world.",
+          "link": "https://hackernoon.com/building-your-own-spatial-audio-web-app?source=rss",
+          "publishedOn": "2022-03-01T22:58:40.000Z",
+          "wordCount": 2928,
+          "title": "Building Your Own Spatial Audio Web App",
+          "imageUrl": "https://cdn.hackernoon.com/images/r7gd5nxyJqM5zilYIk98QH5rYEl1-y0e3h0t.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/19-github-repositories-to-make-you-a-10x-developer?source=rss",
+          "author": "Madza",
+          "description": "Invaluable pointers about repositories on GitHub that offer immense value to developers that are at the early stages of their journey.",
+          "link": "https://hackernoon.com/19-github-repositories-to-make-you-a-10x-developer?source=rss",
+          "publishedOn": "2022-03-01T22:56:10.000Z",
+          "wordCount": 1725,
+          "title": "19 GitHub Repositories to Make you a 10x Developer",
+          "imageUrl": "https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-lr93zsf.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-increase-your-portfolio-returns-by-up-to-30percent-by-making-investment-decisions-as-a-community?source=rss",
+          "author": "Cleo",
+          "description": "What’s better for a crypto investor’s ROI: building a portfolio alone or making decisions after a group discussion?",
+          "link": "https://hackernoon.com/how-to-increase-your-portfolio-returns-by-up-to-30percent-by-making-investment-decisions-as-a-community?source=rss",
+          "publishedOn": "2022-03-01T22:41:47.000Z",
+          "wordCount": 2379,
+          "title": "How to Increase Your Portfolio Returns by up to 30% By Making Investment Decisions as a Community",
+          "imageUrl": "https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-pm93z89.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/tech-stands-with-ukraine-top-15-companies-supporting-ukraine-following-russias-invasion?source=rss",
+          "author": "Daria Kulish",
+          "description": "What happened when a fully independent country gets invaded? Here are the responses from 15 notable tech companies.",
+          "link": "https://hackernoon.com/tech-stands-with-ukraine-top-15-companies-supporting-ukraine-following-russias-invasion?source=rss",
+          "publishedOn": "2022-03-01T22:23:06.000Z",
+          "wordCount": 2251,
+          "title": "Tech Stands with Ukraine: Top 15 Companies Supporting Ukraine Following Russia's invasion",
+          "imageUrl": "https://cdn.hackernoon.com/images/I3bHyWQrr3VwtKmg73q4pdj2kIN2-ysh3hno.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/building-data-products-without-the-mesh?source=rss",
+          "author": "Rick Bahague",
+          "description": "With data becoming very ubiquitous in the enterprise, proper definition of a data product, its lifecycle and development process should be established.",
+          "link": "https://hackernoon.com/building-data-products-without-the-mesh?source=rss",
+          "publishedOn": "2022-03-01T22:22:05.000Z",
+          "wordCount": 1837,
+          "title": "Data Product Managers and the Data Mesh",
+          "imageUrl": "https://cdn.hackernoon.com/images/4sE9KmNRmIbXyXw59uECvlOjGCT2-4x92g5u.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/meet-the-winners-of-startups-in-europe?source=rss",
+          "author": "Startups",
+          "description": "Congratulations to all of the startups that made it to the top winning list for Europe!",
+          "link": "https://hackernoon.com/meet-the-winners-of-startups-in-europe?source=rss",
+          "publishedOn": "2022-03-01T21:27:27.000Z",
+          "wordCount": 3195,
+          "title": "Meet the Winners of Startups in Europe",
+          "imageUrl": "https://cdn.hackernoon.com/images/5raSwaAzqiMSMXoD51IpTZttEpj1-z093waq.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/you-can-be-a-coding-hero-too-do-not-fear-trying?source=rss",
+          "author": "Lars Wächter",
+          "description": "\"Everybody with the right attitude can learn to code.\"",
+          "link": "https://hackernoon.com/you-can-be-a-coding-hero-too-do-not-fear-trying?source=rss",
+          "publishedOn": "2022-03-01T20:31:11.000Z",
+          "wordCount": 4003,
+          "title": "You Can Be a Coding Hero Too: Do Not Fear Trying",
+          "imageUrl": "https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-cs93wlu.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/the-blockchain-writing-contest?source=rss",
+          "author": "Hacker Noon Contests",
+          "description": "Welcome to the #Blockchain Writing Contest hosted by HackerNoon in partnership with Tatum.",
+          "link": "https://hackernoon.com/the-blockchain-writing-contest?source=rss",
+          "publishedOn": "2022-03-01T20:30:59.000Z",
+          "wordCount": 2144,
+          "title": "The #Blockchain Writing Contest",
+          "imageUrl": "https://cdn.hackernoon.com/images/htFSSAp4chhkeyS1S6QLnMQB4v22-7u93zfj.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-claim-your-free-avast-subscriptions-for-noonies-winners-with-love?source=rss",
+          "author": "Noonies 2021",
+          "description": "For many of us, Avast was THE antivirus we grew up using. The McAfees and the Norton’s were too resource-intensive and the Kasperskys were…well… Kasperskys...",
+          "link": "https://hackernoon.com/how-to-claim-your-free-avast-subscriptions-for-noonies-winners-with-love?source=rss",
+          "publishedOn": "2022-03-01T20:11:09.000Z",
+          "wordCount": 1337,
+          "title": "How to Claim your Free Avast Subscriptions: For Noonies Winners with Love",
+          "imageUrl": "https://cdn.hackernoon.com/images/DM0HwTcIK6VVBpObjhC9iaVMHWu2-zda3jfe.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-claim-your-free-dottech-domain-for-noonies-winners-with-love?source=rss",
+          "author": "Noonies 2021",
+          "description": "Dottech Domains have been old friends of HackerNoon. They’ve not just sponsored noonies.tech, but are also giving away free domains to all winners and runnerups",
+          "link": "https://hackernoon.com/how-to-claim-your-free-dottech-domain-for-noonies-winners-with-love?source=rss",
+          "publishedOn": "2022-03-01T19:56:40.000Z",
+          "wordCount": 1458,
+          "title": "How to Claim Your Free Dottech Domain: For Noonies Winners with Love",
+          "imageUrl": "https://cdn.hackernoon.com/images/Rd8z9ArVMycSceC003hxVrAXoj23-ts93j6c.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/the-lonely-but-critical-existence-of-the-vc-content-marketer?source=rss",
+          "author": "Yaffa Abadi",
+          "description": "VC Marketing: A highly competitive market, vague KPIs, and the road less traveled",
+          "link": "https://hackernoon.com/the-lonely-but-critical-existence-of-the-vc-content-marketer?source=rss",
+          "publishedOn": "2022-03-01T16:29:57.000Z",
+          "wordCount": 1463,
+          "title": "How Venture Capital Firms are Becoming Content Marketing Companies",
+          "imageUrl": "https://cdn.hackernoon.com/images/zbzf4eUv2QhWbfSK4bieABR5a7f2-oud3h8r.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/who-is-hating-on-web3?source=rss",
+          "author": "Emmanuel Awosika",
+          "description": "Criticism of decentralized Internet technologies is growing. Why do people hate Web3, and what does it mean for decentralization?",
+          "link": "https://hackernoon.com/who-is-hating-on-web3?source=rss",
+          "publishedOn": "2022-03-01T16:24:53.000Z",
+          "wordCount": 5842,
+          "title": "Who is Hating on Web3?",
+          "imageUrl": "https://cdn.hackernoon.com/images/OrZsakIxdNbSXibciLwU48PzRMf1-hcg3ipc.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/why-you-should-never-skip-a-smart-contract-audit?source=rss",
+          "author": "Kanishk Tagade",
+          "description": "In the nascent stages of blockchain technology and its accompanying digital assets, smart contracts were the key to unlocking the vast potential of this newfang",
+          "link": "https://hackernoon.com/why-you-should-never-skip-a-smart-contract-audit?source=rss",
+          "publishedOn": "2022-03-01T16:15:39.000Z",
+          "wordCount": 2954,
+          "title": "Why You Should Never Skip a Smart Contract Audit",
+          "imageUrl": "https://cdn.hackernoon.com/images/Kw32eRwbrmeim4If6jSrFZEIpSB3-kc92fxy.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/the-most-exciting-metaverse-projects-of-2022?source=rss",
+          "author": "Rainbow 6ix",
+          "description": "Want to know the next thing in GameFi/Metaverse in 2022? Don’t miss these 3 projects!",
+          "link": "https://hackernoon.com/the-most-exciting-metaverse-projects-of-2022?source=rss",
+          "publishedOn": "2022-03-01T16:09:08.000Z",
+          "wordCount": 2321,
+          "title": "The Most Exciting Metaverse Projects of 2022",
+          "imageUrl": "https://cdn.hackernoon.com/images/n76wlbrnJobsDOsRD8qFpuMsVxF2-v3d3p6v.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-i-built-a-technical-writing-company-an-interview-with-karl-hughes-ceo-draftdev?source=rss",
+          "author": "Karl Hughes",
+          "description": "Learn how Karl went from startup CTO to full-time technical writer in 2020.",
+          "link": "https://hackernoon.com/how-i-built-a-technical-writing-company-an-interview-with-karl-hughes-ceo-draftdev?source=rss",
+          "publishedOn": "2022-03-01T16:04:01.000Z",
+          "wordCount": 2081,
+          "title": "How I Built a Technical Writing Company: An Interview with Karl Hughes. CEO, Draft.Dev",
+          "imageUrl": "https://cdn.hackernoon.com/images/PkV2XzJhL4eISFLTiFkKC9zikEG2-gy93hpm.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/can-googles-chrome-os-flex-kill-macos?source=rss",
+          "author": "FadinGeek",
+          "description": "Google announced Chrome OS Flex which could be installed everywhere. I tried it as my main machine and… this article will be different.",
+          "link": "https://hackernoon.com/can-googles-chrome-os-flex-kill-macos?source=rss",
+          "publishedOn": "2022-03-01T15:58:58.000Z",
+          "wordCount": 2747,
+          "title": "Can Google's Chrome OS Flex Kill MacOS?",
+          "imageUrl": "https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-5w93zwh.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/exploring-an-open-source-toolkit-for-debugging-kubernetes-koolkits?source=rss",
+          "author": "Shai Almog",
+          "description": "A new open source approach for debugging live applications - right from inside your IDE or terminal window, and without stopping the live application.",
+          "link": "https://hackernoon.com/exploring-an-open-source-toolkit-for-debugging-kubernetes-koolkits?source=rss",
+          "publishedOn": "2022-03-01T15:55:20.000Z",
+          "wordCount": 2137,
+          "title": "Exploring an Open Source Toolkit for Debugging Kubernetes - KoolKits",
+          "imageUrl": "https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-ao92i9t.jpeg"
+        },
         {
           "id": "https://hackernoon.com/implementing-bluegreen-deployments-with-azure-web-apps-for-containers?source=rss",
           "author": "Will Velida",
@@ -25178,6 +25428,76 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
+          "id": "https://hackaday.com/?p=525114",
+          "author": "Ryan Flowers",
+          "description": "Turbojet engines are an incredible piece of 20th century engineering that except for some edge cases, have mostly been replaced by Turbofans. Still, even the most basic early designs were …read more",
+          "link": "https://hackaday.com/2022/03/02/electric-jet-engine-uses-3d-printed-compressor-skips-the-turbine-altogether/",
+          "publishedOn": "2022-03-02T21:00:31.000Z",
+          "wordCount": 1871,
+          "title": "Electric Jet Engine Uses 3D Printed Compressor, Skips The Turbine Altogether.",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/integza-electric-jet-featured.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=524836",
+          "author": "Bryan Cockfield",
+          "description": "Learning to play a musical instrument takes a major time commitment. If you happened to be stuck inside your home at any point in the last two years, though, you …read more",
+          "link": "https://hackaday.com/2022/03/02/learn-to-play-guitar-digitally/",
+          "publishedOn": "2022-03-02T19:30:22.000Z",
+          "wordCount": 1272,
+          "title": "Learn To Play Guitar, Digitally",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/sensy-guitar-800.jpeg"
+        },
+        {
+          "id": "https://hackaday.com/?p=525112",
+          "author": "Lewin Day",
+          "description": "When it comes to hunting down military radar installations and associated hardware, we typically think of equipment that is firmly in the price bracket of nation states and their military …read more",
+          "link": "https://hackaday.com/2022/03/02/you-can-find-military-radars-on-publicly-available-satellite-data/",
+          "publishedOn": "2022-03-02T18:00:30.000Z",
+          "wordCount": 1864,
+          "title": "You Can Find Military Radars On Publicly-Available Satellite Data",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/qatar_featured.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=525135",
+          "author": "Arsenijs Picugins",
+          "description": "There’s a slew of hardware hacker problems that a logic analyzer is in a perfect position to solve. Whether you’re trying to understand why an SPI LCD screen doesn’t initialize, …read more",
+          "link": "https://hackaday.com/2022/03/02/need-a-logic-analyzer-use-your-pico/",
+          "publishedOn": "2022-03-02T16:30:30.000Z",
+          "wordCount": 1691,
+          "title": "Need A Logic Analyzer? Use Your Pico!",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/hadimg_pico_sigrok_feat.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=517267",
+          "author": "Donald Papp",
+          "description": "It’s not every day that an open-source, portable Linux handheld computer gets announced, so I couldn’t resist placing an order for the DevTerm by ClockworkPi back when we first learned …read more",
+          "link": "https://hackaday.com/2022/03/02/review-devterm-linux-handheld-has-retro-future-vibe/",
+          "publishedOn": "2022-03-02T15:00:49.000Z",
+          "wordCount": 3099,
+          "title": "Review: DevTerm Linux Handheld Has Retro-Future Vibe",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/DevTerm-Featured.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=524900",
+          "author": "Jenny List",
+          "description": "Sometimes we cover works of extreme technological merit here at Hackaday, other times we cover interesting projects that while they might not lie at the bleeding edge are interesting enough …read more",
+          "link": "https://hackaday.com/2022/03/02/where-do-you-want-to-go-today-perhaps-to-a-linux-with-a-familiar-interface/",
+          "publishedOn": "2022-03-02T12:00:33.000Z",
+          "wordCount": 3800,
+          "title": "Where Do You Want To Go Today? Perhaps To A Linux With A Familiar Interface?",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/linux95-featured.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=524977",
+          "author": "Bryan Cockfield",
+          "description": "LED and LCD displays are a technological marvel. They’ve brought the price of televisions and monitors down to unheard-of levels since the days of CRTs, but this upside arguably comes …read more",
+          "link": "https://hackaday.com/2022/03/02/split-flap-display-tells-us-the-word/",
+          "publishedOn": "2022-03-02T09:00:14.000Z",
+          "wordCount": 1522,
+          "title": "Split Flap Display Tells Us The Word",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/split-flap-main.jpg"
+        },
+        {
           "id": "https://hackaday.com/?p=525074",
           "author": "Arsenijs Picugins",
           "description": "Quite a few hackers nowadays share their tips and tricks on Twitter – it’s easy to do so, and provided either an existing audience or a bit of effort to …read more",
@@ -34127,6 +34447,94 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "DA0E0812-B436-49C4-A30C49BEB61B6235",
+          "author": "Carmel Mothersill, The Conversation US",
+          "description": "Longstanding studies on the effects of radiation exposure to ecosystems have been thrown into uncertainty\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/russian-capture-of-ukraines-chernobyl-nuclear-plant-threatens-future-research/",
+          "publishedOn": "2022-03-02T21:00:00.000Z",
+          "wordCount": null,
+          "title": "Russian Capture of Ukraine's Chernobyl Nuclear Plant Threatens Future Research",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "BAFAB26F-22B6-43EA-83EB4F6897D32563",
+          "author": "Kelsey D. Atherton",
+          "description": "Legal and practical obstacles make it difficult to clean the burn pits and health-damaging chemicals that remain at military bases\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/u-s-forces-are-leaving-a-toxic-environmental-legacy-in-afghanistan/",
+          "publishedOn": "2022-03-02T19:00:00.000Z",
+          "wordCount": null,
+          "title": "U.S. Forces Are Leaving a Toxic Environmental Legacy in Afghanistan",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "F389C15D-BA5F-461A-99FE2251911927D9",
+          "author": "Claudia Wallis",
+          "description": "If the U.S. Supreme Court fails to uphold abortion rights this spring, more restrictions are likely\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/abortion-pills-are-very-safe-and-effective-yet-government-rules-still-hinder-access/",
+          "publishedOn": "2022-03-02T17:00:00.000Z",
+          "wordCount": null,
+          "title": "Abortion Pills Are Very Safe and Effective, yet Government Rules Still Hinder Access",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "73DBAC75-951F-4A55-9A0D08C9A1973F5D",
+          "author": "Adam Aton, Scott Waldman, E&E News",
+          "description": "After searching for a climate win during the first year of his presidency, Biden used his speech to focus on other crises\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/what-biden-said-and-didnt-say-on-climate-during-the-state-of-the-union/",
+          "publishedOn": "2022-03-02T16:30:00.000Z",
+          "wordCount": null,
+          "title": "What Biden Said--and Didn't Say--on Climate During the State of the Union",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "A630D71E-64FC-455A-9BC4976933D31E49",
+          "author": "Drew Weissman",
+          "description": "Instructing our cells to make specific proteins could control influenza, autoimmune diseases, even cancer\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/messenger-rna-therapies-are-finally-fulfilling-their-promise/",
+          "publishedOn": "2022-03-02T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Messenger RNA Therapies Are Finally Fulfilling Their Promise",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "5FC8ED68-2F13-4913-87F5EB69DD787C6F",
+          "author": "George Iskander",
+          "description": "As more of physics research is funded by the military, it is important to learn the full history of our past\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-manhattan-project-shows-scientists-moral-and-ethical-responsibilities/",
+          "publishedOn": "2022-03-02T13:00:00.000Z",
+          "wordCount": null,
+          "title": "The Manhattan Project Shows Scientists' Moral and Ethical Responsibilities",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "A13E8D27-F547-4370-BF0852706EF031A9",
+          "author": "Stella Marie Hombach",
+          "description": "Children are worried by Russia’s attack and need explanations about what is going on, a family counselor says\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/what-to-tell-kids-about-ukraine-recommendations-from-a-psychologist/",
+          "publishedOn": "2022-03-02T12:30:00.000Z",
+          "wordCount": null,
+          "title": "What to Tell Kids about Ukraine: Recommendations from a Psychologist",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "6C8E98C6-0924-4518-B9DBB1245A39B07D",
+          "author": "Ingrid Wickelgren",
+          "description": "Opinion among physicians and scientists still ranges widely on how quickly to proceed\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/when-should-covid-school-restrictions-lift-intense-debates-persist/",
+          "publishedOn": "2022-03-02T11:45:00.000Z",
+          "wordCount": null,
+          "title": "When Should COVID School Restrictions Lift? Intense Debates Persist",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "DAC869EF-65EE-4594-9C9B118CE3F1852A",
           "author": "Ariel Wittenberg, E&E News",
           "description": "The nation’s largest association of psychologists said its members should do more to treat the dangerous health effects of rising temperatures\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -41494,6 +41902,56 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=150422",
+          "author": "Mike Vizard",
+          "description": "Tabnine today revealed it has integrated its code completion tool with the GitLab continuous integration/continuous delivery (CI/CD) platform. Tabnine’s platform employs artificial intelligence (AI) to accelerate application development. Brandon Jung, vice president of ecosystems and business development at Tabnine, said the goal is to make it easier for developers to automatically write code based on […]\nThe post Tabnine, GitLab Build Custom Apps Faster With AI appeared first on DevOps.com.",
+          "link": "https://devops.com/tabnine-gitlab-build-custom-apps-faster-with-ai/",
+          "publishedOn": "2022-03-02T18:10:53.000Z",
+          "wordCount": 870,
+          "title": "Tabnine, GitLab Build Custom Apps Faster With AI",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/09/DevOpsAI.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150417",
+          "author": "Mike Vizard",
+          "description": "The Linux Foundation today published a report that provides access to eight lists of the top 500 open source libraries being used by organizations as part of an ongoing effort to help better secure software supply chains. The Census II of Free and Open Source Software—Application Libraries report is based on usage data from providers […]\nThe post Linux Foundation Lists Top Open Source Libraries appeared first on DevOps.com.",
+          "link": "https://devops.com/linux-foundation-lists-top-open-source-libraries/",
+          "publishedOn": "2022-03-02T17:56:21.000Z",
+          "wordCount": 1117,
+          "title": "Linux Foundation Lists Top Open Source Libraries",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/02/book1.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150423",
+          "author": "Richi Jennings",
+          "description": "In this week’s The Long View: Censoring the Russian internet, Snap fears for hundreds of Ukrainian employees, and Eugene Kaspersky acts like a ****.\nThe post Ukraine Asks for DNS Censorship | Ukraine Snapchat Staff Danger | #BoycottKaspersky? appeared first on DevOps.com.",
+          "link": "https://devops.com/ukraine-asks-for-dns-censorship-ukraine-snapchat-staff-danger-boycottkaspersky/",
+          "publishedOn": "2022-03-02T17:26:45.000Z",
+          "wordCount": 1940,
+          "title": "Ukraine Asks for DNS Censorship | Ukraine Snapchat Staff Danger | #BoycottKaspersky?",
+          "imageUrl": "https://devops.com/wp-content/uploads/2022/03/tlv15-brandon-morales-unsplash.png"
+        },
+        {
+          "id": "https://devops.com/?p=150392",
+          "author": "Bob Quillin",
+          "description": "Modernizing legacy systems to embrace a loosely-coupled microservices architecture is the biggest predictor of success for continuous delivery, according to Google Cloud’s 2021 Accelerate State of DevOps report. Studies continue to show that the most elite DevOps performers enjoy more frequent code deployments, faster lead times to deploy, low change failure rates and faster time-to-recovery.  […]\nThe post Best Practices for Modernizing App Modernization appeared first on DevOps.com.",
+          "link": "https://devops.com/best-practices-for-modernizing-app-modernization/",
+          "publishedOn": "2022-03-02T08:00:40.000Z",
+          "wordCount": 1202,
+          "title": "Best Practices for Modernizing App Modernization",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/11/application-monitoring.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150384",
+          "author": "Don Macvittie",
+          "description": "Testing has long been a problem child of IT in general, AppDev in particular, and now it is DevOps’ problem. There are things that DevOps can do to improve the chances of tests actually occurring for your application(s). Interestingly, there are some that think we no longer need testing; the argument is that because new […]\nThe post Where Has All the Testing Gone? appeared first on DevOps.com.",
+          "link": "https://devops.com/where-has-all-the-testing-gone/",
+          "publishedOn": "2022-03-02T07:30:16.000Z",
+          "wordCount": 946,
+          "title": "Where Has All the Testing Gone?",
+          "imageUrl": "https://devops.com/wp-content/uploads/2021/04/canstockphoto4636242.jpg"
+        },
+        {
           "id": "https://devops.com/?p=150369",
           "author": "Mike Vizard",
           "description": "A CloudBolt Software survey of 500 senior IT, DevOps, security and finance leaders found 79% are struggling under the weight of managing multiple cloud computing environments. The survey from CloudBolt Software, a provider of a cloud management platform, found specifically that more than three-quarters of respondents (78%) said they have too many cloud tools throughout […]\nThe post Multi-Cloud Computing is a Major IT Headache appeared first on DevOps.com.",
@@ -44944,6 +45402,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=112799",
+          "author": "David S. Richeson",
+          "description": "Dynamical systems can be chaotic and impossible to predict, but mathematicians have discovered tools to help understand them.            \nThe post How We Can Make Sense of Chaos first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-mathematicians-make-sense-of-chaos-20220302/",
+          "publishedOn": "2022-03-02T18:31:11.000Z",
+          "wordCount": 2141,
+          "title": "How We Can Make Sense of Chaos",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/Chaos-Theory_Lede_2560.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=112796",
           "author": "Natalie Wolchover",
           "description": "For three decades, researchers hunted in vain for new elementary particles that would have explained why nature looks the way it does. As physicists confront that failure, they’re reexamining a longstanding assumption: that big stuff consists of smaller stuff.            \nThe post A Deepening Crisis Forces Physicists to Rethink Structure of Nature’s Laws first appeared on Quanta Magazine",
@@ -45728,6 +46196,46 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=67018",
+          "author": "Nathan Yau",
+          "description": "RealLifeLore explains the history between the two countries and the multi-faceted motivations behind…\nTags: invasion, RealLifeLore, Russia, Ukraine",
+          "link": "https://flowingdata.com/2022/03/02/why-russia-is-invading-ukraine-a-visual-guide/",
+          "publishedOn": "2022-03-02T18:22:30.000Z",
+          "wordCount": 269,
+          "title": "Why Russia is invading Ukraine, a visual guide",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/03/why-russia-is-invading-Ukraine.png"
+        },
+        {
+          "id": "https://flowingdata.com/?p=67013",
+          "author": "Nathan Yau",
+          "description": "Correctiv is tracking sanctions against Russian individuals and companies, based on data from…\nTags: Correctiv, Russia, sanctions",
+          "link": "https://flowingdata.com/2022/03/02/tracking-the-sanctions-against-russia/",
+          "publishedOn": "2022-03-02T17:35:38.000Z",
+          "wordCount": 265,
+          "title": "Tracking the sanctions against Russia",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/03/sanctions-tracker.png"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66963",
+          "author": "Nathan Yau",
+          "description": "If you use color as a visual encoding, you should make sure every…\nTags: color, Martijn Tennekes, package, R",
+          "link": "https://flowingdata.com/2022/03/02/colors-for-all-r-package/",
+          "publishedOn": "2022-03-02T08:16:16.000Z",
+          "wordCount": 375,
+          "title": "Colors for All, R package",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/02/colors-for-all.png"
+        },
+        {
+          "id": "https://flowingdata.com/?p=67005",
+          "author": "Nathan Yau",
+          "description": "Many countries have banned Russian aircraft from entering their airspace. Russian in turn…\nTags: Bloomberg, flights, Russia",
+          "link": "https://flowingdata.com/2022/03/01/rerouted-flights-to-avoid-russian-airspace/",
+          "publishedOn": "2022-03-02T05:42:55.000Z",
+          "wordCount": 266,
+          "title": "Rerouted flights to avoid Russian airspace",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/03/rerouted-flights.png"
+        },
         {
           "id": "https://flowingdata.com/?p=66973",
           "author": "Nathan Yau",
@@ -47676,6 +48184,16 @@
       "feedUrl": "https://luau-lang.org/feed.xml",
       "siteUrl": "https://luau-lang.org/",
       "articles": [
+        {
+          "id": "https://luau-lang.org/2022/02/28/luau-recap-february-2022.html",
+          "author": null,
+          "description": "Luau is our new language that you can read more about at https://luau-lang.org.",
+          "link": "https://luau-lang.org/2022/02/28/luau-recap-february-2022.html",
+          "publishedOn": "2022-02-28T00:00:00.000Z",
+          "wordCount": 829,
+          "title": "Luau Recap: February 2022",
+          "imageUrl": null
+        },
         {
           "id": "https://luau-lang.org/2022/01/27/luau-recap-january-2022.html",
           "author": null,
