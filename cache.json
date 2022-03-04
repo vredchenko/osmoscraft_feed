@@ -123,6 +123,16 @@
       "siteUrl": "https://goteleport.com/blog/",
       "articles": [
         {
+          "id": "https://goteleport.com/blog/what-is-kubectl/",
+          "author": null,
+          "description": "What is kubectl?\nIn the last few years, Kubernetes has grown exponentially in popularity. Its wide adoption can be attributed to its open source nature, flexibility, and ability to run anywhere. Developers also love the fact that you can manage everything in Kubernetes using code.\nkubectl is the Kubernetes-specific command line tool that lets you communicate and control Kubernetes clusters. Whether you’re creating, managing, or deleting resources on your Kubernetes platform, kubectl is an essential tool.\nIn this article, you’ll learn about kubectl, why it’s needed, what it can do, and how it works.\nWhy do you need kubectl?\nYour Kubernetes platform is a contained system with master and worker nodes. The only way to communicate with it is through its API server. This server is a core compone…",
+          "link": "https://goteleport.com/blog/what-is-kubectl/",
+          "publishedOn": "2022-03-03T00:00:00.000Z",
+          "wordCount": 2227,
+          "title": "What is Kubectl?",
+          "imageUrl": "https://goteleport.com/blog/images/2022/kubectl@2x-min.png"
+        },
+        {
           "id": "https://goteleport.com/blog/ssh-proxyjump-ssh-proxycommand/",
           "author": null,
           "description": "OpenSSH ProxyJump and ProxyCommand directives tell the SSH client how to connect to a remote server via an intermediary server — often called a jump host, jump server, or bastion server.\nIf you are new to jump servers, read our tutorial on how to set up a jump server and learn some of the best practices to secure them.\nProxyCommand vs. ProxyJump\nProxyJump is the easiest and recommended way to jump between hosts because it ensures that traffic passing through the intermediate hosts is always encrypted end-to-end. But ProxyJump is available only since OpenSSH version 7.5, and the feature requires port forwarding to be supported by intermediate hosts. Before ProxyJump was released, ProxyCommand was the way to jump hosts. ProxyCommand works by forwarding standard in and standard out (stdio) th…",
@@ -928,15 +938,6 @@
           "publishedOn": "2021-03-08T00:00:00.000Z",
           "wordCount": 2282,
           "title": "Teleport Compared to AWS SSM Session Manager"
-        },
-        {
-          "id": "https://goteleport.com/blog/access-controls/",
-          "author": null,
-          "description": "Evergreen Challenge\nEvery cloud has its own identity and access management system. AWS and Google use a bunch\nof JSON files specifying various rules. Open source projects like Kubernetes support\nthree concurrent access control models - attribute-based, role-based and\na webhook access control, all expressed using YAML. Some teams are going as far as\ninventing their own programming language to solve this evergreen problem.\nAs many engineers before us, we faced the challenge of choosing the\ndesign and the tooling from the kaleidoscope of JSON, YAML and custom languages\nfor our own software’s access controls. Which system is the best, and can there be one language to rule them all?\nWhat are the properties of a good access control system, and what mistakes of the past should we avoid?\nTime Shar…",
-          "link": "https://goteleport.com/blog/access-controls/",
-          "publishedOn": "2021-03-04T00:00:00.000Z",
-          "wordCount": 3938,
-          "title": "In Search of a Perfect Access Control System"
         }
       ]
     },
@@ -945,6 +946,26 @@
       "feedUrl": "https://www.i-programmer.info/index.php?option=com_ninjarsssyndicator&feed_id=3&format=raw",
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
+        {
+          "id": "http://www.i-programmer.info/news/167-javascript/15258-typescript-46-improves-constructors.html",
+          "author": null,
+          "description": "TypeScript 4.6 has been released with improvements including the ability to have code before super() in constructors, and control flow analysis for destructured discriminated unions.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/167-javascript/15258-typescript-46-improves-constructors.html",
+          "publishedOn": "2022-03-03T18:18:30.000Z",
+          "wordCount": 692,
+          "title": "TypeScript 4.6 Improves Constructors",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/news/149-security/15257-census-of-critical-application-libraries.html",
+          "author": null,
+          "description": "The Linux Foundation has announced the publication of \"Census II of Free and Open Source Software - Application Libraries\" which identifies more than one thousand of the most widely deployed open source application libraries found from scans of commercial and enterprise applications.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/149-security/15257-census-of-critical-application-libraries.html",
+          "publishedOn": "2022-03-03T15:33:42.000Z",
+          "wordCount": 882,
+          "title": "Census II Lists Critical Application Libraries",
+          "imageUrl": null
+        },
         {
           "id": "http://www.i-programmer.info/book-watch-archive/15255-c-100-all-in-one-for-dummies-wiley.html",
           "author": null,
@@ -1988,6 +2009,26 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=363972",
+          "author": "Patrick Brosset",
+          "description": "I want to introduce you to a new, experimental form control called <selectmenu>. We’ll get deep into it, including how much easier it is to style than a traditional <select> element. But first, let’s fill in some context …\nSay Hello to selectmenu, a Fully Style-able select Element originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-selectmenu-element/",
+          "publishedOn": "2022-03-03T15:35:32.000Z",
+          "wordCount": 2472,
+          "title": "Say Hello to selectmenu, a Fully Style-able select Element",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363972"
+        },
+        {
+          "id": "https://css-tricks.com/?p=364001",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nWhat would your business be like if you sold memberships? It might be more than fun to think about, in fact, it might just be transformative. With membership, would you include little add-ons or …\nBuild Membership Businesses with Memberful originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/build-membership-businesses-with-memberful/",
+          "publishedOn": "2022-03-03T15:33:57.000Z",
+          "wordCount": 884,
+          "title": "Build Membership Businesses with Memberful",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364001"
+        },
         {
           "id": "https://css-tricks.com/?p=364350",
           "author": "Chris Coyier",
@@ -4471,6 +4512,206 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/write-your-own-dandd-encounter-tables-in-javascript-for-dungeon-masters?source=rss",
+          "author": "Clint Veasey",
+          "description": "Calling all Dungeon Masters! Here's a short beginner-friendly introduction to writing your own web and printer-friendly D&D encounter tables.",
+          "link": "https://hackernoon.com/write-your-own-dandd-encounter-tables-in-javascript-for-dungeon-masters?source=rss",
+          "publishedOn": "2022-03-03T10:56:00.000Z",
+          "wordCount": 1535,
+          "title": "Write Your Own D&D Encounter Tables in JavaScript for Dungeon Masters",
+          "imageUrl": "https://cdn.hackernoon.com/images/PG9GJ9It2FOXrr2T8EAC6UYf0Vj1-it93ion.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-incorporate-conversational-marketing-into-your-email-marketing-strategy?source=rss",
+          "author": "Erkki Muuga",
+          "description": "In a world where brands are fiercely competing for consumers' attention, how do you stand out? By having conversations with your customers like they'refriends.",
+          "link": "https://hackernoon.com/how-to-incorporate-conversational-marketing-into-your-email-marketing-strategy?source=rss",
+          "publishedOn": "2022-03-03T10:43:15.000Z",
+          "wordCount": 2297,
+          "title": "How to Incorporate Conversational Marketing Into Your Email Marketing Strategy",
+          "imageUrl": "https://cdn.hackernoon.com/images/o92gJrTdK4WJtlEwiTFuwx9WyFP2-0293h3m.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-digital-democracy-empowers-todays-creators-economy?source=rss",
+          "author": "Octopoz",
+          "description": "As technology advances and becomes more accessible to the masses, it must be used to get voices heard while improving governance.",
+          "link": "https://hackernoon.com/how-digital-democracy-empowers-todays-creators-economy?source=rss",
+          "publishedOn": "2022-03-03T10:38:05.000Z",
+          "wordCount": 2200,
+          "title": "How Digital Democracy Empowers Today's Creators Economy",
+          "imageUrl": "https://cdn.hackernoon.com/images/PLXlubINgGZlcXZVQ3NSxBkttlK2-4293hmc.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/confluence-is-for-the-uninformed-document-management-alternatives-to-confluence?source=rss",
+          "author": "HKT",
+          "description": "Is Confluence your documentation / knowledge-management system? Sick of poor and non-standard rendering, lack of markdown support etc. Favor these alternatives.",
+          "link": "https://hackernoon.com/confluence-is-for-the-uninformed-document-management-alternatives-to-confluence?source=rss",
+          "publishedOn": "2022-03-03T10:11:01.000Z",
+          "wordCount": 1957,
+          "title": "Confluence Is for the Uninformed: Document Management Alternatives to Confluence",
+          "imageUrl": "https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-dnb3ijn.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/blockchain-technology-will-unleash-the-power-of-iot-and-were-ready-to-prove-it?source=rss",
+          "author": "Radom Network",
+          "description": "Our solution is to provide businesses with a service registry infrastructure that allows them to write their networks' configuration data onto the blockchain.",
+          "link": "https://hackernoon.com/blockchain-technology-will-unleash-the-power-of-iot-and-were-ready-to-prove-it?source=rss",
+          "publishedOn": "2022-03-03T09:38:41.000Z",
+          "wordCount": 2149,
+          "title": "Blockchain Technology Will Unleash The Power of IoT - And We're Ready to Prove it",
+          "imageUrl": "https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-cf93jjv.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/a-russian-painting-was-vandalized-by-bored-museum-security-guard?source=rss",
+          "author": "Sara Pinto",
+          "description": "In this slogging thread, our random channel had the opportunity to discuss the latest news about vandalism in an art gallery.",
+          "link": "https://hackernoon.com/a-russian-painting-was-vandalized-by-bored-museum-security-guard?source=rss",
+          "publishedOn": "2022-03-03T07:55:01.000Z",
+          "wordCount": 2053,
+          "title": "A Russian Painting was Vandalized by Bored Museum Security Guard",
+          "imageUrl": "https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-mx93hiz.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/i-was-today-years-old-when-i-found-out?source=rss",
+          "author": "Sara Pinto",
+          "description": "We know there's still a lot to discover, and in this slogging thread, you can find some random facts that we discovered the real truth later than we expected.",
+          "link": "https://hackernoon.com/i-was-today-years-old-when-i-found-out?source=rss",
+          "publishedOn": "2022-03-03T07:54:06.000Z",
+          "wordCount": 1813,
+          "title": "I was today years old when I found out...",
+          "imageUrl": "https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-lw93hzm.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/named-entity-recognition-ner-concept-types-and-applications?source=rss",
+          "author": "AritaWeb Inc.",
+          "description": "Read and know the Concept, Types, and applications of Named Entity Recognition (NER)",
+          "link": "https://hackernoon.com/named-entity-recognition-ner-concept-types-and-applications?source=rss",
+          "publishedOn": "2022-03-03T07:48:51.000Z",
+          "wordCount": 2249,
+          "title": "Named Entity Recognition (NER): Concept, Types, and Applications",
+          "imageUrl": "https://cdn.hackernoon.com/images/jvlujlwKUpg2O9weuJ77WiAsOI42-hk93hlc.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/3-ways-to-help-prevent-new-hire-churn-in-tech-industries?source=rss",
+          "author": "Yair Mishnayot",
+          "description": "How can you make the process of adding new members to your team effective and fast? And how can you help them fit in as well?",
+          "link": "https://hackernoon.com/3-ways-to-help-prevent-new-hire-churn-in-tech-industries?source=rss",
+          "publishedOn": "2022-03-03T07:46:20.000Z",
+          "wordCount": 1870,
+          "title": "3 Ways to Help Prevent New Hire Churn in Tech Industries",
+          "imageUrl": "https://cdn.hackernoon.com/images/rjEfNJmRsHbRtEujPZtEwxsM1vb2-fa93hfs.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/innovative-caregiver-startup-wins-startup-of-the-year-in-union-new-jersey?source=rss",
+          "author": "I-Ally, Inc.",
+          "description": "Thrilled to be recognized because I-Ally is a labor of love.",
+          "link": "https://hackernoon.com/innovative-caregiver-startup-wins-startup-of-the-year-in-union-new-jersey?source=rss",
+          "publishedOn": "2022-03-03T07:32:23.000Z",
+          "wordCount": 1874,
+          "title": "Innovative Caregiver Startup Wins Startup of the Year in Union, New Jersey",
+          "imageUrl": "https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-p393jy8.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/non-fungible-tokens-nfts-a-guide-for-beginners?source=rss",
+          "author": "HAAZIMS",
+          "description": "Distributed ledger technology, including blockchain, is an emerging technology that can compete with traditional business models. Their models rely on slow and costly third parties to build trust between two parties who do not believe each other. However, to make the process easy, instant, and cheap, distributed ledger technologies have led to the concept of cryptocurrency that will eradicate the need for intermediaries.",
+          "link": "https://hackernoon.com/non-fungible-tokens-nfts-a-guide-for-beginners?source=rss",
+          "publishedOn": "2022-03-03T06:57:26.000Z",
+          "wordCount": 2159,
+          "title": "Non-fungible Tokens (NFTs): A Guide for Beginners",
+          "imageUrl": "https://cdn.hackernoon.com/images/hpBoIgdGaLcIxfRSgPCYMMGGly93-1g93h46.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-create-on-chain-and-off-chain-nft-collection-smart-contracts?source=rss",
+          "author": "Pranay Bathini",
+          "description": "This blog delves deep into how I created an onchain Loot Royale NFT Collection Dapp - both smart contract and frontend in the most detailed manner possible",
+          "link": "https://hackernoon.com/how-to-create-on-chain-and-off-chain-nft-collection-smart-contracts?source=rss",
+          "publishedOn": "2022-03-03T06:46:00.000Z",
+          "wordCount": 5719,
+          "title": "How to Create On-Chain and Off-Chain NFT Collection Smart Contracts",
+          "imageUrl": "https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-h793h76.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-make-buttons-stand-out-with-css?source=rss",
+          "author": "John Palmgren",
+          "description": "The first thing you’ll notice when you add a button to your website is that you’ve taken a trip back in time to 1999. The default button style is very old-fashioned and I can’t think of a use case where you’d want to keep it as it is. The good news is that there are loads of CSS styles that can make your buttons pop.",
+          "link": "https://hackernoon.com/how-to-make-buttons-stand-out-with-css?source=rss",
+          "publishedOn": "2022-03-03T06:40:03.000Z",
+          "wordCount": 2092,
+          "title": "How to Make Buttons Stand Out with CSS",
+          "imageUrl": "https://cdn.hackernoon.com/images/SfLKUONj1dNQfd8Bo4oz4aGegv73-s593fvz.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/the-future-of-e-commerce-in-southeast-asia?source=rss",
+          "author": "Bluestone PIM",
+          "description": "The e-commerce sector in the SEA region is growing rapidly. Some changes expected in the next 5 years have already occurred in 2021. According to the report by Google, Temasek and Bain & Company, there were expected to be 440 million internet users in Southeast Asia in 2021. How can online retailers participate in this digital revolution and best meet the needs of today's consumers?",
+          "link": "https://hackernoon.com/the-future-of-e-commerce-in-southeast-asia?source=rss",
+          "publishedOn": "2022-03-03T06:36:51.000Z",
+          "wordCount": 2536,
+          "title": "The Future of E-Commerce in Southeast Asia",
+          "imageUrl": "https://cdn.hackernoon.com/images/1rGe8eeU3dM4U2URYQloHD6ofKF3-wb93hxv.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/going-non-profit-what-you-need-to-know?source=rss",
+          "author": "bennyvasquez",
+          "description": "How do you decide whether to establish a nonprofit organization or not? Follow the AlmaLinux journey to learn about the questions asked that led to the decision",
+          "link": "https://hackernoon.com/going-non-profit-what-you-need-to-know?source=rss",
+          "publishedOn": "2022-03-03T06:22:47.000Z",
+          "wordCount": 2034,
+          "title": "Going Non-Profit: What You Need to Know",
+          "imageUrl": "https://cdn.hackernoon.com/images/odCxeXjkMHNvIvOZXjd2cIjbLhE3-sza3h3e.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/the-past-present-and-future-of-nfts-and-why-it-will-be-wild?source=rss",
+          "author": "Tristan Hillerich",
+          "description": "This article gives an overview of the past and present NFT space. It also gives thought into the future of the Metaverse and specifically Wilder World.",
+          "link": "https://hackernoon.com/the-past-present-and-future-of-nfts-and-why-it-will-be-wild?source=rss",
+          "publishedOn": "2022-03-03T06:19:05.000Z",
+          "wordCount": 13876,
+          "title": "The Past, Present, and Future of NFTs — And Why it Will be Wild...",
+          "imageUrl": "https://cdn.hackernoon.com/images/JwFY1aWx8AewCSQFEVx5pTFkb7I3-qjq3s7a.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/an-intro-to-continuous-testing-strategy-for-agile-teams?source=rss",
+          "author": "Sathananthan.S",
+          "description": "These are the best ways to develop a successful continuous testing strategy for Agile teams as the world shifts away from traditional waterfall models.",
+          "link": "https://hackernoon.com/an-intro-to-continuous-testing-strategy-for-agile-teams?source=rss",
+          "publishedOn": "2022-03-03T05:54:17.000Z",
+          "wordCount": 1970,
+          "title": "An Intro to Continuous Testing Strategy for Agile Teams",
+          "imageUrl": "https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-aq93hnj.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/free-hashnode-custom-domains-are-designed-to-do-one-thing-advertise-hashnode?source=rss",
+          "author": "Blogging Platform Analysis",
+          "description": "\"Free\" custom domains by Hashnode blogging platform contain a TON OF ADS for Hashnode, and are ultimately governed by Hashnode's Terms, NOT the site creators.",
+          "link": "https://hackernoon.com/free-hashnode-custom-domains-are-designed-to-do-one-thing-advertise-hashnode?source=rss",
+          "publishedOn": "2022-03-03T05:45:59.000Z",
+          "wordCount": 1703,
+          "title": "\"Free\" Hashnode Custom Domains Are Designed to Do One Thing: Advertise Hashnode",
+          "imageUrl": "https://cdn.hackernoon.com/images/2HvOgZ6RvqP81SqEafSKBRiwtTY2-6ye3h0k.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-yield-farming-and-liquidity-mining-all-you-need-to-know?source=rss",
+          "author": "DeFiHelper",
+          "description": "The complete guide to yield farming in DeFi: how it works, how much is it possible to earn on it, and the risks involved in engaging in this form of investment.",
+          "link": "https://hackernoon.com/what-is-yield-farming-and-liquidity-mining-all-you-need-to-know?source=rss",
+          "publishedOn": "2022-03-03T05:22:29.000Z",
+          "wordCount": 5802,
+          "title": "What is Yield Farming and Liquidity Mining? All You Need To Know",
+          "imageUrl": "https://cdn.hackernoon.com/images/J2FZfRk7nUWjEQW1VoUDL2GUCTp1-ofg3fta.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-compete-with-netflix-beyond-the-streaming-experience?source=rss",
+          "author": "Anjana",
+          "description": "Streaming is all about creating a great viewing experience",
+          "link": "https://hackernoon.com/how-to-compete-with-netflix-beyond-the-streaming-experience?source=rss",
+          "publishedOn": "2022-03-03T05:02:30.000Z",
+          "wordCount": 2599,
+          "title": "How to Compete with Netflix: Beyond the Streaming Experience",
+          "imageUrl": "https://cdn.hackernoon.com/images/0QGW3iYAW0ZPSdzca4n81vAme3K2-zj93hkc.jpeg"
+        },
         {
           "id": "https://hackernoon.com/10-reasons-why-you-should-use-docker?source=rss",
           "author": "Dennis Groß",
@@ -24188,6 +24429,17 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=149165",
+          "author": "ACMer",
+          "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms Flashing Lights/Screen on Microbit The idea is to go through all 25 pixels and randomly turn them on or off (status) and the...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-how-to-make-flashing-lights-on-microbit/",
+          "publishedOn": "2022-03-03T21:06:36.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – How to Make Flashing Lights on Microbit?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://helloacm.com/?p=149143",
           "author": "ACMer",
           "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms Simple function can draw amazing shapes using Turtle Graphics library and here is a python function to draw a spiral where...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -25427,6 +25679,76 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=525350",
+          "author": "Donald Papp",
+          "description": "Nothing helps a project get off the ground better than a good set of resources, and that’s what led [DaveMakesStuff] to release his Digital Shoe Design Kit, which is a set …read more",
+          "link": "https://hackaday.com/2022/03/03/cad-up-some-shoes-but-dont-start-from-scratch/",
+          "publishedOn": "2022-03-04T00:00:17.000Z",
+          "wordCount": 1029,
+          "title": "CAD Up Some Shoes, But Don’t Start From Scratch",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/Digital-Shoe-Design-Kit.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=525377",
+          "author": "Ryan Flowers",
+          "description": "Once the domain of automotive repair shops and serious hobbyists with air compressors, the impact driver so famously used to remove and install wheel lug nuts and other Big Fasteners …read more",
+          "link": "https://hackaday.com/2022/03/03/internal-combustion-torque-monster-has-great-impact/",
+          "publishedOn": "2022-03-03T21:00:01.000Z",
+          "wordCount": 1857,
+          "title": "Internal Combustion Torque Monster Has Great Impact",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/gas-powered-impact-featured.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=524380",
+          "author": "Dave Rowntree",
+          "description": "[Ian Charnas] has taken a short break from building things that might injure himself, by building something that could injure somebody else instead. (Video, embedded below) Well, hopefully not anyway. …read more",
+          "link": "https://hackaday.com/2022/03/03/compressed-air-jumping-shoes-are-not-for-the-faint-hearted/",
+          "publishedOn": "2022-03-03T19:30:55.000Z",
+          "wordCount": 1333,
+          "title": "Compressed Air Jumping Shoes Are Not For The Faint-Hearted",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/Snap-2022-03-02-at-22.38.52.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=523711",
+          "author": "Lewin Day",
+          "description": "Every hacker out there is familiar with the zaps and sizzles of the Tesla coil, or the crash and thunder of lighting strikes on our hallowed Earth. These phenomena all …read more",
+          "link": "https://hackaday.com/2022/03/03/remoticon-2021-jay-bowles-takes-a-dip-into-the-plasmaverse/",
+          "publishedOn": "2022-03-03T18:02:53.000Z",
+          "wordCount": 1500,
+          "title": "Remoticon 2021 // Jay Bowles Dips Into The Plasmaverse",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/Jbowles800.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=524857",
+          "author": "Arsenijs Picugins",
+          "description": "At even vaguely infosec-related conferences, CTFs are a staple. For KernelCon 2021, [Tyler Rosonke] resolved to create a challenge breaking the traditions, entertaining and teaching people in a different way, …read more",
+          "link": "https://hackaday.com/2022/03/03/spaceship-repair-ctf-covers-hardware-hacker-essentials/",
+          "publishedOn": "2022-03-03T16:30:55.000Z",
+          "wordCount": 1537,
+          "title": "Spaceship Repair CTF Covers Hardware Hacker Essentials",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/hadimg_zonksec_hacking_feat.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=525129",
+          "author": "Lewin Day",
+          "description": "Spacecraft rocket engines come in a variety of forms and use a variety of fuels, but most rely on chemical reactions to blast propellants out of a nozzle, with the …read more",
+          "link": "https://hackaday.com/2022/03/03/ion-thrusters-not-just-for-tie-fighters-anymore/",
+          "publishedOn": "2022-03-03T15:00:17.000Z",
+          "wordCount": 4708,
+          "title": "Ion Thrusters: Not Just For TIE Fighters Anymore",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/Ion.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=524911",
+          "author": "Jenny List",
+          "description": "Something that probably unites most Hackaday readers is a love of machines, particularly unique or interesting ones. In the world of aircraft for example, we’ve run several stories about those …read more",
+          "link": "https://hackaday.com/2022/03/03/the-antonov-an-225-seems-to-have-been-destroyed-after-all/",
+          "publishedOn": "2022-03-03T12:00:08.000Z",
+          "wordCount": 3681,
+          "title": "The Antonov An-225 Seems To Have Been Destroyed After All",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/an-225-featured.jpg"
+        },
         {
           "id": "https://hackaday.com/?p=525114",
           "author": "Ryan Flowers",
@@ -34447,6 +34769,79 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "7CD64D11-CBAB-491C-A0ECE3A7A989536B",
+          "author": "Davide Castelvecchi, Nature magazine",
+          "description": "Fresh data suggest instrumental errors may have mimicked a purported signal from the universe’s first stars\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/new-result-casts-doubt-on-cosmic-dawn-claim/",
+          "publishedOn": "2022-03-03T18:00:00.000Z",
+          "wordCount": null,
+          "title": "New Result Casts Doubt on 'Cosmic Dawn' Claim",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "50963BA2-8D13-4FF0-A1DA15E089B753E8",
+          "author": "Sara Schonhardt, E&E News",
+          "description": "The U.N. passed a resolution yesterday to develop a global treaty to control plastic waste\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/countries-pave-the-way-to-end-plastic-pollution/",
+          "publishedOn": "2022-03-03T17:30:00.000Z",
+          "wordCount": null,
+          "title": "Countries Pave the Way to End Plastic Pollution",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "4D6B6BC1-B58D-4475-9B3794C60326A7CC",
+          "author": "Karen Hopkin",
+          "description": "Using software designed to align DNA sequences, scientists cataloged the mutations that arose as folk songs evolved\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/podcast/episode/researchers-analyzed-folk-music-like-it-was-mutating-dna-they-found-amazing-parallels-between-life-and-art/",
+          "publishedOn": "2022-03-03T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Analyzed Folk Music like It Was DNA: They Found Parallels between Life and Art",
+          "itunes": {
+            "duration": "09:51"
+          },
+          "enclosure": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=90CC3AB2-6287-419B-A4EA827CAEC6C86A",
+            "length": "8301743",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "9EE955C7-9777-409D-82EA5841D7868889",
+          "author": "Steven Lockley",
+          "description": "The 19th-century nurse and public health researcher understood the importance of light in fighting and preventing disease\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/what-florence-nightingale-can-teach-us-about-architecture-and-health/",
+          "publishedOn": "2022-03-03T14:00:00.000Z",
+          "wordCount": null,
+          "title": "What Florence Nightingale Can Teach Us about Architecture and Health",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "955A92D5-1E00-4FDF-865E2CAEE9CBEA4B",
+          "author": "Nisha Gaind, Holly Else, Nature magazine",
+          "description": "Rebuke against Russian science grows as the deadly conflict continues\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/global-science-community-condemns-russian-invasion-of-ukraine/",
+          "publishedOn": "2022-03-03T12:30:00.000Z",
+          "wordCount": null,
+          "title": "Global Science Community Condemns Russian Invasion of Ukraine",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "38FEE463-3EB1-435C-A1E8801442262A24",
+          "author": "Sara Reardon",
+          "description": "A CDC database of sewage data from communities around the nation could provide earlier warning of outbreaks and new viral variants\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/wastewater-monitoring-offers-powerful-tool-for-tracking-covid-and-other-diseases/",
+          "publishedOn": "2022-03-03T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Wastewater Monitoring Offers Powerful Tool for Tracking COVID and Other Diseases",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "DA0E0812-B436-49C4-A30C49BEB61B6235",
           "author": "Carmel Mothersill, The Conversation US",
           "description": "Longstanding studies on the effects of radiation exposure to ecosystems have been thrown into uncertainty\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -41902,6 +42297,46 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=150461",
+          "author": "Mike Vizard",
+          "description": "Pulumi today added a Business Critical edition of its Cloud Engineering Platform that provides large enterprises with additional security and compliance features, premium 24×7 support, training, professional services and a self-hosting option. In addition, the company announced that Pulumi Enterprise and Business Critical editions are now available via the online marketplace run by Amazon Web […]\nThe post Pulumi Adds Business Critical Edition to Infrastructure Management Platform appeared first on DevOps.com.",
+          "link": "https://devops.com/pulumi-adds-business-critical-edition-to-infrastructure-management-platform/",
+          "publishedOn": "2022-03-03T15:56:48.000Z",
+          "wordCount": 851,
+          "title": "Pulumi Adds Business Critical Edition to Infrastructure Management Platform",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/10/infrastructure.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150409",
+          "author": "Vince Arneja",
+          "description": "The recent Log4j/Log4Shell vulnerability was a wake-up call that threats aren’t going to wait until the industry gets up to speed on software supply chain security. While the Log4j open source component vulnerability caught us all off guard, it did highlight the need for software vendors to be more proactive in disclosing the composition of […]\nThe post 4 Reasons Software Developers Need a Bill of Materials appeared first on DevOps.com.",
+          "link": "https://devops.com/4-reasons-software-developers-need-a-bill-of-materials/",
+          "publishedOn": "2022-03-03T08:00:32.000Z",
+          "wordCount": 1076,
+          "title": "4 Reasons Software Developers Need a Bill of Materials",
+          "imageUrl": "https://devops.com/wp-content/uploads/2021/02/Security-Policy-Management-with-Tufin.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150301",
+          "author": "Bill Doerrfeld",
+          "description": "Lately, new ESG initiatives have come front-and-center as companies seek to contextualize and limit their business’s impact on the environment. This is especially true for the built world—a term that refers to the human-made environment that provides the setting for human activity, including homes, buildings, zoning, streets, sidewalks, open spaces, transportation options and more—where monitoring […]\nThe post Why the Built World Needs Standard APIs appeared first on DevOps.com.",
+          "link": "https://devops.com/why-the-built-world-needs-standard-apis/",
+          "publishedOn": "2022-03-03T07:30:52.000Z",
+          "wordCount": 1721,
+          "title": "Why the Built World Needs Standard APIs",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/09/build.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150458",
+          "author": "ROELBOB",
+          "description": "The post Conflict and Resolution appeared first on DevOps.com.",
+          "link": "https://devops.com/conflict-and-resolution/",
+          "publishedOn": "2022-03-03T07:00:02.000Z",
+          "wordCount": 425,
+          "title": "Conflict and Resolution",
+          "imageUrl": "https://devops.com/wp-content/uploads/2022/03/conflict-n-resolution.jpg"
+        },
+        {
           "id": "https://devops.com/?p=150422",
           "author": "Mike Vizard",
           "description": "Tabnine today revealed it has integrated its code completion tool with the GitLab continuous integration/continuous delivery (CI/CD) platform. Tabnine’s platform employs artificial intelligence (AI) to accelerate application development. Brandon Jung, vice president of ecosystems and business development at Tabnine, said the goal is to make it easier for developers to automatically write code based on […]\nThe post Tabnine, GitLab Build Custom Apps Faster With AI appeared first on DevOps.com.",
@@ -45402,6 +45837,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=112802",
+          "author": "Yasemin Saplakoglu",
+          "description": "While watching a fearful memory take shape in the brain of a living fish, neuroscientists see an unexpected level of rewiring occur in the synaptic connections.            \nThe post Scientists Watch a Memory Form in a Living Brain first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/scientists-watch-a-memory-form-in-a-living-brain-20220303/",
+          "publishedOn": "2022-03-03T15:05:40.000Z",
+          "wordCount": 1552,
+          "title": "Scientists Watch a Memory Form in a Living Brain",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/ZebrafishBrain_1200_Social_REVISED.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=112799",
           "author": "David S. Richeson",
           "description": "Dynamical systems can be chaotic and impossible to predict, but mathematicians have discovered tools to help understand them.            \nThe post How We Can Make Sense of Chaos first appeared on Quanta Magazine",
@@ -46196,6 +46641,46 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=67009",
+          "author": "Nathan Yau",
+          "description": "Connecting back to the real world is how we fill in the gaps.\nTags: context, uncertainty",
+          "link": "https://flowingdata.com/2022/03/03/process-179-navigating/",
+          "publishedOn": "2022-03-03T19:30:03.000Z",
+          "wordCount": 307,
+          "title": "✚ Navigating Through the Uncertainty and Messiness of Data – The Process 179",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/03/navigating-featured.png"
+        },
+        {
+          "id": "https://flowingdata.com/?p=67032",
+          "author": "Nathan Yau",
+          "description": "The Media Manipulation Casebook summarizes how bad-intentioned people take media from past events,…\nTags: Media Manipulation Casebook, misinformation, Russia, social media, Ukraine",
+          "link": "https://flowingdata.com/2022/03/03/recontextualized-media/",
+          "publishedOn": "2022-03-03T17:48:00.000Z",
+          "wordCount": 367,
+          "title": "Recontextualized media",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/03/different-context-not-in-Ukraine.jpg"
+        },
+        {
+          "id": "https://flowingdata.com/?p=67028",
+          "author": "Nathan Yau",
+          "description": "It’s easy for anyone to grab a picture or video and claim that…\nTags: accuracy, journalism, misinformation, Washington Post",
+          "link": "https://flowingdata.com/2022/03/03/visual-forensics-to-spot-fake-videos-and-photos/",
+          "publishedOn": "2022-03-03T17:34:00.000Z",
+          "wordCount": 390,
+          "title": "Visual forensics to spot fake videos and photos",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/03/verifying-images-scaled.jpeg"
+        },
+        {
+          "id": "https://flowingdata.com/?p=66969",
+          "author": "Nathan Yau",
+          "description": "As a way to explore how people use questions in their writing, a…\nTags: Clive Thompson, questions, writing",
+          "link": "https://flowingdata.com/2022/03/03/seeing-just-the-questions/",
+          "publishedOn": "2022-03-03T08:56:10.000Z",
+          "wordCount": 283,
+          "title": "Seeing just the questions",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/02/seeing-just-questions.png"
+        },
         {
           "id": "https://flowingdata.com/?p=67018",
           "author": "Nathan Yau",
@@ -48167,15 +48652,6 @@
           "publishedOn": "2021-03-09T08:00:00.000Z",
           "wordCount": 1954,
           "title": "Making accessibility in tech the rule, not the exception"
-        },
-        {
-          "id": "https://github.com/readme/stories/kathy-korevec",
-          "author": null,
-          "description": "An 80s baby who grew up in Alaska as one of five children, Kathy is no stranger to challenges and always puts her users first, from Google to GitHub.",
-          "link": "https://github.com/readme/stories/kathy-korevec",
-          "publishedOn": "2021-03-04T08:00:00.000Z",
-          "wordCount": 2192,
-          "title": "Chasing challenges to ship developer solutions"
         }
       ]
     },
