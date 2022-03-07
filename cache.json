@@ -957,6 +957,16 @@
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
         {
+          "id": "http://www.i-programmer.info/news/169-robotics/15263-a-slippy-way-to-walk.html",
+          "author": null,
+          "description": "There is no doubt that we have come on a long way since the first difficult to watch bipedal walkers, but even quadrupeds have their problems. How do you control four limbs on a slippy surface - watch this video and find out.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/169-robotics/15263-a-slippy-way-to-walk.html",
+          "publishedOn": "2022-03-06T15:38:20.000Z",
+          "wordCount": 796,
+          "title": "A Slippy Way To Walk",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.i-programmer.info/i-programmer-weekly/238-i-programmer-weekly-2022/15262-february-week-4.html",
           "author": null,
           "description": "Our weekly digest lists the week's news, new titles added to our Book Watch Archive and our weekly book review. This week's first featured article comes from Raspberry Pi IoT in Python and looks at Pulse Width Modulation. The second tackles the topic of IP Addressing and Routing.\n\r\n\nRead more...",
@@ -4572,6 +4582,206 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/how-to-solve-the-hamming-distance-problem-in-c?source=rss",
+          "author": "Gopi Gorantala",
+          "description": "In hamming distance problem, we find the number of positions where the bits are different for the given input with constant time complexity.",
+          "link": "https://hackernoon.com/how-to-solve-the-hamming-distance-problem-in-c?source=rss",
+          "publishedOn": "2022-03-06T13:49:04.000Z",
+          "wordCount": 1693,
+          "title": "How to Solve the Hamming Distance Problem in C++, A Google Interview Question",
+          "imageUrl": "https://cdn.hackernoon.com/images/u8zdoGfwxzbJbUMX8BISChIErgH2-bza3o6y.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/make-your-rust-code-more-rustic-by-breaking-some-rules?source=rss",
+          "author": "Warp",
+          "description": "Warp engineer and resident Rust expert @ChuckAPierce  writes about when to break the rules of Rust's infamous borrow checker.",
+          "link": "https://hackernoon.com/make-your-rust-code-more-rustic-by-breaking-some-rules?source=rss",
+          "publishedOn": "2022-03-06T13:39:26.000Z",
+          "wordCount": 2793,
+          "title": "Make Your Rust Code More Rustic By Breaking Some Rules",
+          "imageUrl": "https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-n1a3z3c.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/different-types-of-graphs-in-data-structure?source=rss",
+          "author": "Sandeep Mishra",
+          "description": "Learn about different types of graphs in the data structure. Graphs in the data structure can be of various types, read this article to know more.",
+          "link": "https://hackernoon.com/different-types-of-graphs-in-data-structure?source=rss",
+          "publishedOn": "2022-03-06T13:24:00.000Z",
+          "wordCount": 2459,
+          "title": "Different Types of Graphs in Data Structure",
+          "imageUrl": "https://cdn.hackernoon.com/images/V4OORvpWBMfsdPL4Cd7eTIK2TqW2-q793hsk.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/functional-testing-service-how-to-ensure-a-smooth-user-flow?source=rss",
+          "author": "RubyGarage",
+          "description": "Making use of a functional testing service can help software development projects by ensuring that it will have a smooth user flow when properly deployed.",
+          "link": "https://hackernoon.com/functional-testing-service-how-to-ensure-a-smooth-user-flow?source=rss",
+          "publishedOn": "2022-03-06T12:20:09.000Z",
+          "wordCount": 2277,
+          "title": "Functional Testing Service: How to Ensure a Smooth User Flow",
+          "imageUrl": "https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-gda3h78.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/monolith-to-microservices-build-a-microservice-app-with-spring-boot?source=rss",
+          "author": "Maneesha Indrachapa",
+          "description": "Microservices are a part of cloud computing which will become more important over time. This is how to create microservices using Spring Boot for the process.",
+          "link": "https://hackernoon.com/monolith-to-microservices-build-a-microservice-app-with-spring-boot?source=rss",
+          "publishedOn": "2022-03-06T12:10:09.000Z",
+          "wordCount": 3345,
+          "title": "Monolith to Microservices: Build Your First Microservice App With Spring Boot",
+          "imageUrl": "https://cdn.hackernoon.com/images/BlBIttNGqzO1aF2OOzYkWig7w1V2-aib3h75.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/the-steps-that-helped-me-land-my-first-job-as-a-software-developer?source=rss",
+          "author": "Sarvesh Kadam",
+          "description": "Are you low on confidence, nervous, feeling not prepared for the interview. There are a few things which will help you to overcome that.",
+          "link": "https://hackernoon.com/the-steps-that-helped-me-land-my-first-job-as-a-software-developer?source=rss",
+          "publishedOn": "2022-03-06T12:02:25.000Z",
+          "wordCount": 2071,
+          "title": "The Steps that Helped me Land My First Job as a Software Developer",
+          "imageUrl": "https://cdn.hackernoon.com/images/nYLf5t3pICc3gaLkEF8XlsGe1Lh1-ro93i4n.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/the-disturbing-effects-of-the-digital-revolution-that-only-a-few-talk-about?source=rss",
+          "author": "FearsomeLamb789",
+          "description": "This ecosystem of information is controlled by only a handful of powerful companies that determine how information is exchanged",
+          "link": "https://hackernoon.com/the-disturbing-effects-of-the-digital-revolution-that-only-a-few-talk-about?source=rss",
+          "publishedOn": "2022-03-06T07:15:55.000Z",
+          "wordCount": 6058,
+          "title": "The Disturbing Effects of the Digital Revolution That Only A Few Talk About",
+          "imageUrl": "https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-ul93r57.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/on-chain-options-trading-and-ssovs-on-ethereum-l2s-an-analysis?source=rss",
+          "author": "FearsomeLamb789",
+          "description": "Contrary to options trading where you exercise an option at its expiration data  exercising your options trades with SSOVs is a little bit different",
+          "link": "https://hackernoon.com/on-chain-options-trading-and-ssovs-on-ethereum-l2s-an-analysis?source=rss",
+          "publishedOn": "2022-03-06T06:12:29.000Z",
+          "wordCount": 3484,
+          "title": "On-chain Options Trading and SSOVs on Ethereum L2s: An Analysis",
+          "imageUrl": "https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-4w93rlf.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/elliptic-curve-cryptography-a-deep-dive-into-building-blocks-implementation-and-drawbacks?source=rss",
+          "author": "FearsomeLamb789",
+          "description": "One of the most powerful types of cryptography being used nowadays is Elliptic Curve Cryptography. This method is used to secure, among others, the Cloudflare",
+          "link": "https://hackernoon.com/elliptic-curve-cryptography-a-deep-dive-into-building-blocks-implementation-and-drawbacks?source=rss",
+          "publishedOn": "2022-03-06T06:02:39.000Z",
+          "wordCount": 2910,
+          "title": "Elliptic Curve Cryptography: A Deep-Dive into its Building Blocks, Implementation, and Drawbacks",
+          "imageUrl": "https://cdn.hackernoon.com/images/JTw2M3rQabaxNg3EFoNIxjmC1ZB3-li93r3e.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/history-and-evolution-of-fiat-money-to-digital-assets?source=rss",
+          "author": "Alyze Sam, #WomenInBlockchain",
+          "description": "Currency is a vast subject, understanding the history of money opens the door to a deeper appreciation of digital assets and commodity-backed digital currencies",
+          "link": "https://hackernoon.com/history-and-evolution-of-fiat-money-to-digital-assets?source=rss",
+          "publishedOn": "2022-03-06T05:45:34.000Z",
+          "wordCount": 3735,
+          "title": "History & Evolution of Fiat Money To Digital Assets",
+          "imageUrl": "https://cdn.hackernoon.com/images/4LKlOHT8BtURWNF54Dmjj74h57s2-e1a30w1.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/6-red-flags-to-avoid-when-buying-nfts-in-2022?source=rss",
+          "author": "Apoorv Gupta",
+          "description": "When you enter the NFT market as a newcomer, you will most likely encounter many NFT projects that sound almost too good to be true. It does not matter whether you have close to zero or years of experience, people still tend to ignore these easy to remember red flags to separate promising NFT projects from the shady ones. To ensure that you don’t make these massive mistakes by getting into a suspicious NFT project, we gathered TOP 6 red flags to not ignore by any means.",
+          "link": "https://hackernoon.com/6-red-flags-to-avoid-when-buying-nfts-in-2022?source=rss",
+          "publishedOn": "2022-03-06T05:28:16.000Z",
+          "wordCount": 2351,
+          "title": "6 Red Flags To Avoid When Buying NFTs in 2022",
+          "imageUrl": "https://cdn.hackernoon.com/images/3aexDTaSrwQRZbJagRWvBt5hXp02-7ze3l1i.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/nft-gaming-is-the-key-to-wider-token-adoption-in-2022?source=rss",
+          "author": "Jeremy Foo",
+          "description": "By Jeremy Foo, Founder and CEO at TripCandy",
+          "link": "https://hackernoon.com/nft-gaming-is-the-key-to-wider-token-adoption-in-2022?source=rss",
+          "publishedOn": "2022-03-06T05:17:45.000Z",
+          "wordCount": 2647,
+          "title": "NFT Gaming is The Key to Wider Token Adoption in 2022",
+          "imageUrl": "https://cdn.hackernoon.com/images/PYpsal4mmMaym3I3xvelw29AUM73-umb3h7u.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/4-reasons-why-i-ditched-my-savings-account-for-stablecoins?source=rss",
+          "author": "Theodore Zipoy",
+          "description": "Learn why stablecoins are a great alternative to traditional bank accounts and a hedge against inflation.",
+          "link": "https://hackernoon.com/4-reasons-why-i-ditched-my-savings-account-for-stablecoins?source=rss",
+          "publishedOn": "2022-03-06T05:14:19.000Z",
+          "wordCount": 2499,
+          "title": "4 Reasons Why I Ditched My Savings Account For Stablecoins",
+          "imageUrl": "https://cdn.hackernoon.com/images/sfQknZf4O7UosDlKIOiuZijVOk63-y093n0e.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/regulating-of-crypto-exchanges-what-does-it-mean-for-crypto-and-defi?source=rss",
+          "author": "FINANZSACHE",
+          "description": "Is the regulation of crypto a good thing or a bad thing? Why the benefits might (indirectly) outweigh the costs in the end.",
+          "link": "https://hackernoon.com/regulating-of-crypto-exchanges-what-does-it-mean-for-crypto-and-defi?source=rss",
+          "publishedOn": "2022-03-06T05:12:05.000Z",
+          "wordCount": 2392,
+          "title": "Regulating Crypto Exchanges: What Does it Mean For Crypto and DeFi?",
+          "imageUrl": "https://cdn.hackernoon.com/images/AScrXRUG0tVfEzp2EDQUzlZHQFz1-8x93hag.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/crypto-in-2022-challenges-and-opportunities-galore?source=rss",
+          "author": "Henrik Gebbing",
+          "description": "As the crypto industry heads into 2022, what are the trends, challenges, and opportunities for the industry?",
+          "link": "https://hackernoon.com/crypto-in-2022-challenges-and-opportunities-galore?source=rss",
+          "publishedOn": "2022-03-06T05:09:49.000Z",
+          "wordCount": 2138,
+          "title": "Crypto in 2022: Challenges and Opportunities Galore",
+          "imageUrl": "https://cdn.hackernoon.com/images/p2m6C2nMHIWJ07Rd5cSEWnIIl5f1-gv93hcm.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/forget-about-bitcoins-price-predictions-do-this-instead?source=rss",
+          "author": "Mark Helfman",
+          "description": "Bitcoin price predictions are great but usually wrong. Dismiss them at your own peril, but also to go beyond them.",
+          "link": "https://hackernoon.com/forget-about-bitcoins-price-predictions-do-this-instead?source=rss",
+          "publishedOn": "2022-03-06T05:08:20.000Z",
+          "wordCount": 1749,
+          "title": "Forget About Bitcoin's Price Predictions. Do This Instead",
+          "imageUrl": "https://cdn.hackernoon.com/images/NgBhuMTisXRHJvE5E2S3MKsexy52-2ca3f5m.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/web3-and-the-meme-economy?source=rss",
+          "author": "Kurt Ivy",
+          "description": "The memification of web3 is pretty inevitable, and meme coins and NFTs will always be important. Can these drive universal adoption?",
+          "link": "https://hackernoon.com/web3-and-the-meme-economy?source=rss",
+          "publishedOn": "2022-03-05T10:15:44.000Z",
+          "wordCount": 3812,
+          "title": "Web3 and the Meme Economy",
+          "imageUrl": "https://cdn.hackernoon.com/images/k0y4Uj8lffd47tV56OFdW4H5PDf1-y093q4y.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/blockchain-oracles-for-dummies?source=rss",
+          "author": "Brijesh Vaghela",
+          "description": "The Simplest Explanation of the Blockchain oracles that is present on the Web.",
+          "link": "https://hackernoon.com/blockchain-oracles-for-dummies?source=rss",
+          "publishedOn": "2022-03-05T10:08:46.000Z",
+          "wordCount": 2318,
+          "title": "Blockchain Oracles for Dummies",
+          "imageUrl": "https://cdn.hackernoon.com/images/n8SkjRKUzgUQTcrPIg6IKTyNZzv2-4rh2jpi.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/end-to-end-encryption-for-dummies?source=rss",
+          "author": "Brijesh Vaghela",
+          "description": "The simplest explanation of end-to-end encryption on the web.",
+          "link": "https://hackernoon.com/end-to-end-encryption-for-dummies?source=rss",
+          "publishedOn": "2022-03-05T09:53:46.000Z",
+          "wordCount": 1811,
+          "title": "End-To-End Encryption for Dummies",
+          "imageUrl": "https://cdn.hackernoon.com/images/n8SkjRKUzgUQTcrPIg6IKTyNZzv2-ibh2ixk.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/let-web3-flow-democratizing-data-ownership-to-curb-malpractice?source=rss",
+          "author": "Network Emergency Response Volunteers",
+          "description": "Web3 is the attempt to come full circle in how data is shared by democratizing ownership.",
+          "link": "https://hackernoon.com/let-web3-flow-democratizing-data-ownership-to-curb-malpractice?source=rss",
+          "publishedOn": "2022-03-05T06:36:37.000Z",
+          "wordCount": 4378,
+          "title": "Let Web3 Flow: Democratizing Data Ownership to Curb Malpractice",
+          "imageUrl": "https://cdn.hackernoon.com/images/oUpCBEULKUZHqjEV5Uni4MRc2xp1-5ea2klj.jpeg"
+        },
         {
           "id": "https://hackernoon.com/what-are-the-top-startups-in-oceania?source=rss",
           "author": "Startups",
@@ -24418,6 +24628,16 @@
       "siteUrl": "https://davidwalsh.name",
       "articles": [
         {
+          "id": "https://davidwalsh.name/?p=27540",
+          "author": "David Walsh",
+          "description": "Automation is a really important skill for engineers, especially when it comes to working with various file types. The more you accept for input, and the more you automate, the better end output you can offer. Filestack’s workflows allow developers to define automated tasks using a their specialized UI. With no coding required, it’s easy […]\nThe post Simplify Your File Handling With Filestack Workflows (Sponsored) appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/simplify-your-file-handling-with-filestack-workflows",
+          "publishedOn": "2022-03-06T10:21:21.000Z",
+          "wordCount": 545,
+          "title": "Simplify Your File Handling With Filestack Workflows (Sponsored)",
+          "imageUrl": "https://davidwalsh.name/demo/2022/02/1644758773-workflow_filestack1.png"
+        },
+        {
           "id": "https://davidwalsh.name/?p=27538",
           "author": "David Walsh",
           "description": "Seemingly every website, dapp, and app offers a dark mode preference, and thank goodness. Dark mode is especially useful when I’m doing late night coding, or even worse, trading into altcoins. I’m presently working on implementing a dark theme on MetaMask and it got me to thinking: is there a way we can default to […]\nThe post Detect Dark Mode Preference with JavaScript appeared first on David Walsh Blog.",
@@ -24819,6 +25039,17 @@
       "feedUrl": "http://feeds.feedburner.com/helloacm?format=xml",
       "siteUrl": "https://helloacm.com",
       "articles": [
+        {
+          "id": "https://helloacm.com/?p=149223",
+          "author": "ACMer",
+          "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms You are given the head of a linked list. Delete the middle node, and return the head of the modified linked list. The middle node...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-delete-the-middle-node-of-a-linked-list-fast-and-slow-pointer/",
+          "publishedOn": "2022-03-06T20:52:11.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Delete the Middle Node of a Linked List (Fast and Slow Pointer)",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://helloacm.com/?p=149207",
           "author": "ACMer",
@@ -26092,6 +26323,76 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=525516",
+          "author": "Dan Maloney",
+          "description": "The hobbyists of the early days of the home computer era worked wonders with the comparatively primitive chips of the day, and what couldn’t be accomplished with a Z80 or …read more",
+          "link": "https://hackaday.com/2022/03/06/retro-serial-terminal-uses-modern-chips-to-get-cp-m-machine-talking/",
+          "publishedOn": "2022-03-06T21:00:22.000Z",
+          "wordCount": 1338,
+          "title": "Retro Serial Terminal Uses Modern Chips to Get CP/M Machine Talking",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/serial-terminal.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=525245",
+          "author": "Matthew Carlson",
+          "description": "If you’ve gone to a local city park lately, you might have noticed strange metal baskets on poles with chains dangling free. These baskets are spread out throughout the park …read more",
+          "link": "https://hackaday.com/2022/03/06/putting-the-go-in-frisbee-golf-with-a-robot-launcher/",
+          "publishedOn": "2022-03-06T18:00:23.000Z",
+          "wordCount": 1822,
+          "title": "Putting the ‘Go’ In Frisbee Golf With a Robot Launcher",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/frisbee_thrower.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=525747",
+          "author": "Donald Papp",
+          "description": "Here’s an interesting and detailed teardown and repair of a Keithley 2001 7.5 Digit multimeter that is positively dripping with detail. It’s also not every day that we get to …read more",
+          "link": "https://hackaday.com/2022/03/06/vintage-mmu-repair-its-easier-with-x-rays/",
+          "publishedOn": "2022-03-06T15:00:18.000Z",
+          "wordCount": 1563,
+          "title": "Vintage MMU Repair? It’s Easier With X-Rays",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/TNP-13-Teardown-Repair-of-a-Keithley-2001-7.5-Digit-Multimeter-9-36-screenshot.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=525757",
+          "author": "Donald Papp",
+          "description": "[Ted Yapo] shared a method of easily and conveniently soldering to aluminum, which depends on a little prep work to end up only slightly more complex than soldering to copper. …read more",
+          "link": "https://hackaday.com/2022/03/06/how-to-solder-to-aluminum-easily/",
+          "publishedOn": "2022-03-06T12:00:32.000Z",
+          "wordCount": 2924,
+          "title": "How to Solder To Aluminum, Easily",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/solder-to-aluminium-800.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=524959",
+          "author": "Dave Rowntree",
+          "description": "[Kurt Schaefer] was watching YouTube videos of people making molds for injection molding purposes using what he considered to be the toy 3018 CNC machines, and looking at the results, …read more",
+          "link": "https://hackaday.com/2022/03/06/diy-injection-molder-built-from-a-cheap-pneumatic-press/",
+          "publishedOn": "2022-03-06T09:00:12.000Z",
+          "wordCount": 1675,
+          "title": "DIY Injection Molder Built From a Cheap Pneumatic Press",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/Snap-2022-03-05-at-16.06.43.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=524696",
+          "author": "Kristina Panos",
+          "description": "Often used to make rugs, tufting is a process wherein a hollow needle is used to cram thread or yarn into fabric in some kind of pattern. This can be …read more",
+          "link": "https://hackaday.com/2022/03/05/robotic-tufting-gun-fires-off-cnc-textiles/",
+          "publishedOn": "2022-03-06T06:00:19.000Z",
+          "wordCount": 1313,
+          "title": "Robotic Tufting Gun Fires Off CNC Textiles",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/tufting-gun-800.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=525661",
+          "author": "Dan Maloney",
+          "description": "Let’s face it, we all need a little distraction sometimes, especially lately. And for our money, there’s no better way to put your brain in park than to start up …read more",
+          "link": "https://hackaday.com/2022/03/05/replica-minecraft-furnace-actually-powers-the-game/",
+          "publishedOn": "2022-03-06T03:00:42.000Z",
+          "wordCount": 1503,
+          "title": "Replica Minecraft Furnace Actually Powers the Game",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/minecraft_furnace.png"
+        },
         {
           "id": "https://hackaday.com/?p=525432",
           "author": "Dan Maloney",
@@ -35321,6 +35622,17 @@
       "feedUrl": "http://rss.sciam.com/scientificamerican-global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "CA1522CD-5E6E-4141-8E7BFFBBFF032AA7",
+          "author": "Nikk Ogasa",
+          "description": "In case you missed it\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/science-news-briefs-from-around-the-world-march-2022/",
+          "publishedOn": "2022-03-06T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Science News Briefs from around the World: March 2022",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "4552A668-B6C2-4E22-99D71B9F9206D5BC",
           "author": "Mark Fischetti",
