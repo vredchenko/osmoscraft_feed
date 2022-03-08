@@ -939,15 +939,6 @@
           "publishedOn": "2021-03-17T00:00:00.000Z",
           "wordCount": 1281,
           "title": "Teleport 6.0 Brings Identity-Aware Access to Databases Behind NAT"
-        },
-        {
-          "id": "https://goteleport.com/blog/teleport-vs-aws-session-manager/",
-          "author": null,
-          "description": "What is AWS SSM Session Manager?\nAmazon’s AWS Systems Manager, better known as SSM to long-time AWS users, was announced at the end of 2017, replacing the similarly named EC2 Systems Manager that had launched a year prior. Similar to other AWS products, System Manager provides a broad spectrum of features instead of a focused and opinionated product.\nSSM’s capabilities revolve around managing bare operating-system level details that would otherwise be inaccessible from Amazon’s ever-expanding and all-encompassing aws CLI and API control plane layer. It has grown into having its own dedicated interface within the Amazon AWS console and its underlying system-level agent has been released under an open source software license on Github. Amazon has touted SSM as a general-purpose devops tool -…",
-          "link": "https://goteleport.com/blog/teleport-vs-aws-session-manager/",
-          "publishedOn": "2021-03-08T00:00:00.000Z",
-          "wordCount": 2282,
-          "title": "Teleport Compared to AWS SSM Session Manager"
         }
       ]
     },
@@ -956,6 +947,46 @@
       "feedUrl": "https://www.i-programmer.info/index.php?option=com_ninjarsssyndicator&feed_id=3&format=raw",
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
+        {
+          "id": "http://www.i-programmer.info/book-watch-archive/15266-kubernetes-native-microservices-with-quarkus-and-microprofile-manning.html",
+          "author": null,
+          "description": "This book introduces next generation tools that have been cloud-native and Kubernetes-aware right from the beginning. Written by veteran Java developers John Clingan and Ken Finnigan, this book shares expert insight into Quarkus and MicroProfile directly from contributors at Red Hat. You’ll learn how to utilize these modern tools to create efficient enterprise Java applications that are easy to deploy, maintain, and expand.\n\r\n<ASIN:‎ 1617298654>\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/book-watch-archive/15266-kubernetes-native-microservices-with-quarkus-and-microprofile-manning.html",
+          "publishedOn": "2022-03-07T18:54:16.000Z",
+          "wordCount": 471,
+          "title": "Kubernetes Native Microservices with Quarkus and MicroProfile (Manning)",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/programming/theory/15265-the-trick-of-the-mind-little-languages-arithmetic.html",
+          "author": null,
+          "description": "This introductory chapter of my new book on the nature of programming is aimed at programmers and non-programmers alike. In this extract we look at one of the \"little\" languages - not a full programming language but interesting.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/programming/theory/15265-the-trick-of-the-mind-little-languages-arithmetic.html",
+          "publishedOn": "2022-03-07T18:26:51.000Z",
+          "wordCount": 908,
+          "title": "The Trick Of The Mind - Little Languages Arithmetic",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/news/150-training-a-education/15264-new-devops-credentials-from-ibm-on-coursera.html",
+          "author": null,
+          "description": "DevOps skills are poised to be one of the fastest-growing skills in the workforce. IBM has expanded its range of credentials on Coursera with a new beginner-level Specialization and a Professional Certificate for those wanting to embark on a career in DevOps.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/150-training-a-education/15264-new-devops-credentials-from-ibm-on-coursera.html",
+          "publishedOn": "2022-03-07T14:48:59.000Z",
+          "wordCount": 941,
+          "title": "New DevOps Credentials From IBM On Coursera",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/news/90-tools/15267-netbeans-13-improves-php-and-maven-support.html",
+          "author": null,
+          "description": "Apache NetBeans has been upgraded. Version 13 has a new default 'light flat' look to the IDE, along with upgraded support for Maven, Gradle and PHP.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/90-tools/15267-netbeans-13-improves-php-and-maven-support.html",
+          "publishedOn": "2022-03-07T00:00:00.000Z",
+          "wordCount": 725,
+          "title": "NetBeans 13 Improves PHP And Maven Support",
+          "imageUrl": null
+        },
         {
           "id": "http://www.i-programmer.info/news/169-robotics/15263-a-slippy-way-to-walk.html",
           "author": null,
@@ -4583,6 +4614,196 @@
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
         {
+          "id": "https://hackernoon.com/is-ai-the-key-to-the-metaverse?source=rss",
+          "author": "Jack Boreham",
+          "description": "In this slogging thread, we discuss whether the key to the Metaverse is AI. According to Meta CEO Mark Zuckerberg, it is. However, the Hackernoon staff disagree",
+          "link": "https://hackernoon.com/is-ai-the-key-to-the-metaverse?source=rss",
+          "publishedOn": "2022-03-07T16:05:53.000Z",
+          "wordCount": 1745,
+          "title": "Is AI the key to the Metaverse?",
+          "imageUrl": "https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-8xa3h5a.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/3-ways-to-deal-with-old-and-drained-electric-vehicle-batteries?source=rss",
+          "author": "Geek on record",
+          "description": "The electrification of the car industry is still in its baby years, and yet we should already be thinking of what will happen in a few years, when millions of electric vehicles (EVs) start getting retired.",
+          "link": "https://hackernoon.com/3-ways-to-deal-with-old-and-drained-electric-vehicle-batteries?source=rss",
+          "publishedOn": "2022-03-07T16:02:35.000Z",
+          "wordCount": 2223,
+          "title": "3 Ways to Deal with Old (and Drained) Electric Vehicle Batteries",
+          "imageUrl": "https://cdn.hackernoon.com/images/UkAeqbeEiOajpjolJeRyMutEDag1-yxa316v.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/richquack-aims-to-combat-inflation-via-token-burns-and-staking?source=rss",
+          "author": "Cryptonite",
+          "description": "In this post we'll look at RichQUACK, its features and the teams plans for growing it's ecosystem.",
+          "link": "https://hackernoon.com/richquack-aims-to-combat-inflation-via-token-burns-and-staking?source=rss",
+          "publishedOn": "2022-03-07T15:55:03.000Z",
+          "wordCount": 1975,
+          "title": "RichQUACK Aims to Combat Inflation via Token Burns & Staking",
+          "imageUrl": "https://cdn.hackernoon.com/images/GwZ4a1OS3uMhvLngHCl9tofBO1J2-ina3hwt.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/a-look-at-communication-patterns-to-implement-in-distributed-applications-via-nats?source=rss",
+          "author": "Karan Pratap Singh",
+          "description": "In this article, we will look at different communication patterns we can implement in our distributed applications using NATS.",
+          "link": "https://hackernoon.com/a-look-at-communication-patterns-to-implement-in-distributed-applications-via-nats?source=rss",
+          "publishedOn": "2022-03-07T15:38:43.000Z",
+          "wordCount": 2578,
+          "title": "A Look at Communication Patterns to Implement in Distributed Applications via NATS",
+          "imageUrl": "https://cdn.hackernoon.com/images/DohDhNa7kCOJi6OKNGO5pes1v892-g093hws.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/7-best-ui-components-libraries-and-frameworks-for-reactjs-in-2022?source=rss",
+          "author": "Hiren Dhaduk",
+          "description": "Here, we'll cover the best UI components libraries and frameworks for React.js that you can follow and utilize in 2022.",
+          "link": "https://hackernoon.com/7-best-ui-components-libraries-and-frameworks-for-reactjs-in-2022?source=rss",
+          "publishedOn": "2022-03-07T15:33:09.000Z",
+          "wordCount": 2083,
+          "title": "7 Best UI Components Libraries and Frameworks for React.js in 2022",
+          "imageUrl": "https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-6i93jhh.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/the-change-and-innovation-that-web-30-will-bring?source=rss",
+          "author": "Dmitry Mishunin",
+          "description": "The popularity of web 3.0 is increasing due to people’s increasing concerns about sensitive data exposure on the internet as well as the growing popularity of decentralized technologies, such as blockchain and IPFS. With this type of technology, users do not have to rely on centralized local networks and Internet providers in having access to the Internet. In other words, this allows for a failure-resistant Internet. But this also creates some issues regarding the content that is being published on such Internet. So, here I will give my view on how I see the benefits and challenges if there are any that web 3.0 may offer.",
+          "link": "https://hackernoon.com/the-change-and-innovation-that-web-30-will-bring?source=rss",
+          "publishedOn": "2022-03-07T15:25:40.000Z",
+          "wordCount": 1720,
+          "title": "The Change and Innovation that Web 3.0 Will Bring",
+          "imageUrl": "https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-sl93jg4.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-build-a-mini-air-quality-monitoring-system-using-esp32?source=rss",
+          "author": "Malhar Thanki",
+          "description": "Build a DIY air quality monitoring system: How to face the problem of impure air quality due to the increase in pollutants and impurities mixed with the air.",
+          "link": "https://hackernoon.com/how-to-build-a-mini-air-quality-monitoring-system-using-esp32?source=rss",
+          "publishedOn": "2022-03-07T15:06:07.000Z",
+          "wordCount": 2332,
+          "title": "How to Build a Mini Air Quality Monitoring System using ESP32",
+          "imageUrl": "https://cdn.hackernoon.com/images/MvPCd5XmiCWdqTISnZLTpruRflk2-p3b3ial.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/from-twitter-influencer-to-nft-investor-how-taaynft-is-making-money-in-the-nft-space?source=rss",
+          "author": "John Signoretti",
+          "description": "How this Twitter influencer is making money from NFT investments.",
+          "link": "https://hackernoon.com/from-twitter-influencer-to-nft-investor-how-taaynft-is-making-money-in-the-nft-space?source=rss",
+          "publishedOn": "2022-03-07T14:13:42.000Z",
+          "wordCount": 1608,
+          "title": "From Twitter Influencer to NFT Investor: How @TaayNFT Is Making Money in the NFT Space",
+          "imageUrl": "https://hackernoon.com/fallback-feat.png"
+        },
+        {
+          "id": "https://hackernoon.com/introduction-to-redis-the-in-memory-database?source=rss",
+          "author": "Milind Soorya",
+          "description": "Redis is a type of database and it can be added to your production level application to make it more performant. I will cover the basics of Redis and show a real world example of Redis.",
+          "link": "https://hackernoon.com/introduction-to-redis-the-in-memory-database?source=rss",
+          "publishedOn": "2022-03-07T13:50:54.000Z",
+          "wordCount": 2408,
+          "title": "Introduction to Redis: The In-memory Database",
+          "imageUrl": "https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-ig93i9n.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/what-are-51percent-attacks?source=rss",
+          "author": "FearsomeLamb789",
+          "description": "51% attacks are a type of attack that commonly applies to blockchain networks.",
+          "link": "https://hackernoon.com/what-are-51percent-attacks?source=rss",
+          "publishedOn": "2022-03-07T13:28:30.000Z",
+          "wordCount": 1659,
+          "title": "What Are 51% Attacks?",
+          "imageUrl": "https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-pr93i9d.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/the-goals-and-principles-of-the-devx-initiative-sponsorship-program?source=rss",
+          "author": "Concordium",
+          "description": "DevX Initiative Sponsorship program is here and focuses on the individuals who have worked passionately to make Rust what it is today. Read to know more.",
+          "link": "https://hackernoon.com/the-goals-and-principles-of-the-devx-initiative-sponsorship-program?source=rss",
+          "publishedOn": "2022-03-07T13:22:23.000Z",
+          "wordCount": 3600,
+          "title": "The Goals and Principles of The DevX Initiative Sponsorship Program",
+          "imageUrl": "https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-e893imp.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-using-aws-lambda-with-rust-saved-3x-the-cost-compared-to-using-python-or-net?source=rss",
+          "author": "Niro A",
+          "description": "When building for large-scale use, using Rust certainly feels worth it both from a cost perspective (factor x3 saved) and from a performance perspective.",
+          "link": "https://hackernoon.com/how-using-aws-lambda-with-rust-saved-3x-the-cost-compared-to-using-python-or-net?source=rss",
+          "publishedOn": "2022-03-07T13:13:48.000Z",
+          "wordCount": 1714,
+          "title": "How Using AWS Lambda with Rust Saved 3x the Cost Compared to Using Python or .NET",
+          "imageUrl": "https://cdn.hackernoon.com/images/x1P7zu4evQfq343DIh4fUYUZtOC2-bo93hey.png"
+        },
+        {
+          "id": "https://hackernoon.com/the-fundamental-value-of-an-nft-is-not-just-dollars-and-cents-says-the-founder-of-hornicorn?source=rss",
+          "author": "Harvesto Orlando",
+          "description": "I made Hornicons a community-driven project, so everyone has an equal voice, with the guidance from my expertise...",
+          "link": "https://hackernoon.com/the-fundamental-value-of-an-nft-is-not-just-dollars-and-cents-says-the-founder-of-hornicorn?source=rss",
+          "publishedOn": "2022-03-07T12:36:53.000Z",
+          "wordCount": 2021,
+          "title": "\"The fundamental value of an NFT is not just dollars and cents,\" says the Founder of Hornicorn",
+          "imageUrl": "https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-dx93ibj.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-we-built-our-api-management-app-design-iterations-and-all?source=rss",
+          "author": "Vedran Cindric",
+          "description": "This is how we built our all-in-one Treblle app for iPhone, iPad, and Mac. I'll cover some technical details and guide you through our thought processes.",
+          "link": "https://hackernoon.com/how-we-built-our-api-management-app-design-iterations-and-all?source=rss",
+          "publishedOn": "2022-03-07T12:22:57.000Z",
+          "wordCount": 4399,
+          "title": "How We Built Our API Management App: Design Iterations and All",
+          "imageUrl": "https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-yz93ipk.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/top-transcription-apis-and-open-source-libraries-in-2022?source=rss",
+          "author": "Kelsey Foster",
+          "description": "This article looks at some of the top transcription APIs and open source libraries available on the market today.",
+          "link": "https://hackernoon.com/top-transcription-apis-and-open-source-libraries-in-2022?source=rss",
+          "publishedOn": "2022-03-07T09:21:35.000Z",
+          "wordCount": 1848,
+          "title": "Top Transcription APIs and Open Source Libraries in 2022",
+          "imageUrl": "https://cdn.hackernoon.com/images/yInti7CnmZMjybXOCRsTVUOcMel2-vr93hzq.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-succeed-in-central-america-by-a-22-year-old-business-dev-manager-and-angel-investor?source=rss",
+          "author": "Carlos Campos",
+          "description": "Do you ever look at the most successful business people and wonder how they managed to climb their way to the top? Was it luck, hard work, connections, or simply a knack for selling?",
+          "link": "https://hackernoon.com/how-to-succeed-in-central-america-by-a-22-year-old-business-dev-manager-and-angel-investor?source=rss",
+          "publishedOn": "2022-03-07T09:07:36.000Z",
+          "wordCount": 1967,
+          "title": "How to Succeed in Central America by a 22-Year-Old Business Dev Manager and Angel Investor",
+          "imageUrl": "https://cdn.hackernoon.com/images/b1qHmLyxMrWdVwQJP8NeqlyguJC2-3w93ja8.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-build-the-perfect-ai-project-team?source=rss",
+          "author": "Evan Ryan",
+          "description": "Avoid the negative outcomes that are typical with software projects by building the perfect AI team.",
+          "link": "https://hackernoon.com/how-to-build-the-perfect-ai-project-team?source=rss",
+          "publishedOn": "2022-03-07T08:50:07.000Z",
+          "wordCount": 2317,
+          "title": "How to Build the Perfect AI Project Team",
+          "imageUrl": "https://cdn.hackernoon.com/images/V4Y3ZJm9DoMIOEeWCjWXQywOUqV2-cd93i2i.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/a-new-paradigm-from-play-to-earn-to-play-to-build-gaming?source=rss",
+          "author": "Marvin Tong",
+          "description": "Play to Build game mechanics create sustainable economies within metaverse worlds where players can play to earn NFTs.",
+          "link": "https://hackernoon.com/a-new-paradigm-from-play-to-earn-to-play-to-build-gaming?source=rss",
+          "publishedOn": "2022-03-07T08:31:21.000Z",
+          "wordCount": 2753,
+          "title": "A New Paradigm: From \"Play to Earn\" to \"Play to Build\" Gaming",
+          "imageUrl": "https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-y493j91.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-track-bitcoin-transactions-worth-dollar2-billion-or-more?source=rss",
+          "author": "Tigran Bayburtsyan",
+          "description": "A practical guide on knowing when there is a massive amount of BTC is transferre over the network in near to real-time and take some automated actions from it.",
+          "link": "https://hackernoon.com/how-to-track-bitcoin-transactions-worth-dollar2-billion-or-more?source=rss",
+          "publishedOn": "2022-03-07T06:09:37.000Z",
+          "wordCount": 3489,
+          "title": "How to Track Bitcoin Transactions Worth $2 Billion or More",
+          "imageUrl": "https://cdn.hackernoon.com/images/fF5krj2uIkXbDkXePd4HnfdYNDA2-8593fof.png"
+        },
+        {
           "id": "https://hackernoon.com/how-to-solve-the-hamming-distance-problem-in-c?source=rss",
           "author": "Gopi Gorantala",
           "description": "In hamming distance problem, we find the number of positions where the bits are different for the given input with constant time complexity.",
@@ -5321,6 +5542,16 @@
           "wordCount": 2560,
           "title": "Customer Success: A Recipe for Business Ethics?",
           "imageUrl": "https://cdn.hackernoon.com/images/R3QEhilTwmay1bXkfkx0BCTEdHd2-0ab3jlc.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/inside-hackernoon-what-do-our-interns-do?source=rss",
+          "author": "Hang Ngo",
+          "description": "Contrary to expectation, interns @ HackerNoon don't have to make coffee for their \"superiors\" and pretend to like their jobs.",
+          "link": "https://hackernoon.com/inside-hackernoon-what-do-our-interns-do?source=rss",
+          "publishedOn": "2022-03-03T01:17:49.000Z",
+          "wordCount": 1953,
+          "title": "Inside HackerNoon: What Do Our Interns Do?",
+          "imageUrl": "https://cdn.hackernoon.com/images/4HK5qyMbWfetPhAavzyTZrEb90N2-7093jqe.jpeg"
         },
         {
           "id": "https://hackernoon.com/10-reasons-why-you-should-use-docker?source=rss",
@@ -24628,6 +24859,16 @@
       "siteUrl": "https://davidwalsh.name",
       "articles": [
         {
+          "id": "https://davidwalsh.name/?p=27545",
+          "author": "David Walsh",
+          "description": "It’s been a while since I’ve gotten a few things off of my chest and since I’m always full of peeves and annoyances I thought it was time to unleash: Due to the immensely negative response to any tweet about crypto from my blog account, I created a second account just for crypto musings. I’ll […]\nThe post Confessions of a Web Developer XIX appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/confessions-xix",
+          "publishedOn": "2022-03-07T12:23:13.000Z",
+          "wordCount": 1590,
+          "title": "Confessions of a Web Developer XIX",
+          "imageUrl": "https://davidwalsh.name/wp-content/themes/punky/images/logo.png"
+        },
+        {
           "id": "https://davidwalsh.name/?p=27540",
           "author": "David Walsh",
           "description": "Automation is a really important skill for engineers, especially when it comes to working with various file types. The more you accept for input, and the more you automate, the better end output you can offer. Filestack’s workflows allow developers to define automated tasks using a their specialized UI. With no coding required, it’s easy […]\nThe post Simplify Your File Handling With Filestack Workflows (Sponsored) appeared first on David Walsh Blog.",
@@ -26323,6 +26564,76 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=525926",
+          "author": "Arsenijs Picugins",
+          "description": "[SolderParty] just announced FlexyPins (Twitter, alternative view) – bent springy clips that let you connect modules with castellated pins. With such clips, you can quickly connect and disconnect any castellated …read more",
+          "link": "https://hackaday.com/2022/03/07/flexypins-might-help-with-those-pesky-castellated-modules/",
+          "publishedOn": "2022-03-07T21:00:17.000Z",
+          "wordCount": 1536,
+          "title": "FlexyPins Might Help With Those Pesky Castellated Modules",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/hadimg_flexypins_release_feat.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=525346",
+          "author": "Jenny List",
+          "description": "There’s one component which used to be ubiquitous in every experimenter’s junk box, but nowadays unless you happen to be a radio amateur the chances are you may not have …read more",
+          "link": "https://hackaday.com/2022/03/07/a-variable-capacitor-for-not-a-lot/",
+          "publishedOn": "2022-03-07T19:00:19.000Z",
+          "wordCount": 1844,
+          "title": "A Variable Capacitor For Not A Lot",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/variable-cap-featured.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=524917",
+          "author": "Arsenijs Picugins",
+          "description": "On Twitter, [whitequark] has  found and highlighted an intriguing design – a breakout board for the VL670, accompanied by an extensive yet very easy to digest write-up about its usefulness …read more",
+          "link": "https://hackaday.com/2022/03/07/a-chip-to-address-the-fundamental-usb-3-0-deficiency/",
+          "publishedOn": "2022-03-07T18:00:17.000Z",
+          "wordCount": 1922,
+          "title": "A Chip To Bridge the USB 2 – USB 3 Divide",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/hadimg_usb2n3_vl670_feat.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=524596&preview=true&preview_id=524596",
+          "author": "Dan Maloney",
+          "description": "Join us on Wednesday, March 9 at noon Pacific for the Metal 3D Printing Hack Chat with Agustin Cruz! 3D printing has been an enabling technology, and the ability to …read more",
+          "link": "https://hackaday.com/2022/03/07/metal-3d-printing-hack-chat/",
+          "publishedOn": "2022-03-07T17:00:58.000Z",
+          "wordCount": 1136,
+          "title": "Metal 3D Printing Hack Chat",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/electron-beam-printing.jpeg"
+        },
+        {
+          "id": "https://hackaday.com/?p=525795",
+          "author": "Dave Rowntree",
+          "description": "Many of us electronics hacker types tend to have at least the same common equipment on our benches, namely a multimeter, an oscilloscope, some sort of adjustable power supply, and …read more",
+          "link": "https://hackaday.com/2022/03/07/usb-temperature-logger-with-some-extra-tricks/",
+          "publishedOn": "2022-03-07T16:00:42.000Z",
+          "wordCount": 1369,
+          "title": "USB Temperature Logger With Some Extra Tricks",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/FJerRJTWYAELGiQ.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=525204",
+          "author": "Adam Zeloof",
+          "description": "Early in the morning of February 24th, Dr. Jeffrey Lewis, a professor at California’s Middlebury Institute of International Studies watched Russia’s invasion of Ukraine unfold in realtime with troop movements …read more",
+          "link": "https://hackaday.com/2022/03/07/the-invisible-battlefields-of-the-russia-ukraine-war/",
+          "publishedOn": "2022-03-07T15:00:27.000Z",
+          "wordCount": 2713,
+          "title": "The Invisible Battlefields of the Russia-Ukraine War",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/Ukraine.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=525698",
+          "author": "Maya Posch",
+          "description": "Recently, the media was filled with articles about how turning on 5G transmissions in the C-band could make US planes fall out of the sky. While the matter was ultimately …read more",
+          "link": "https://hackaday.com/2022/03/07/greedy-receivers-fcc-considers-regulating-receivers-after-altimeter-showdown/",
+          "publishedOn": "2022-03-07T12:00:09.000Z",
+          "wordCount": 7392,
+          "title": "Greedy Receivers: FCC Considers Regulating Receivers After Altimeter Showdown",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2019/04/5G.jpg"
+        },
         {
           "id": "https://hackaday.com/?p=525516",
           "author": "Dan Maloney",
@@ -35623,6 +35934,39 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "04D64F3A-AF8A-4CA2-8D7858D7A99C46F0",
+          "author": "Ben Turner, LiveScience",
+          "description": "A huge invasive spider that invaded Georgia from East Asia could soon take over most of the U.S. East Coast, a new study has revealed.\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/millions-of-palm-sized-flying-spiders-could-invade-the-east-coast/",
+          "publishedOn": "2022-03-07T21:00:00.000Z",
+          "wordCount": null,
+          "title": "Millions of Palm-Sized, Flying Spiders Could Invade the East Coast",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "B9F988A0-524E-45D3-B4DF21D4A1E060DF",
+          "author": "Adam Aton, E&E News",
+          "description": "The president has not followed Europe’s calls to produce more renewable energy to weaken Russia’s global influence.\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/amid-war-biden-reluctant-to-unleash-clean-energy-rhetoric/",
+          "publishedOn": "2022-03-07T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Amid War, Biden Reluctant to Unleash Clean Energy Rhetoric",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "B9301EBC-F1B4-4310-859EEAB31BD5786B",
+          "author": "Charles Schmidt",
+          "description": "Burning piles of used gloves, test kits and syringes release toxic pollutants. But there are ways to improve medical recycling\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/tons-of-covid-medical-garbage-threaten-health/",
+          "publishedOn": "2022-03-07T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Tons of COVID Medical Garbage Threaten Health",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "CA1522CD-5E6E-4141-8E7BFFBBFF032AA7",
           "author": "Nikk Ogasa",
           "description": "In case you missed it\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -35652,6 +35996,17 @@
           "publishedOn": "2022-03-05T13:00:00.000Z",
           "wordCount": null,
           "title": "Making COVID Tests Better at Detecting Infectious People",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "CCA78591-D9CC-482A-8727C1687B5E7489",
+          "author": "Andrea Thompson",
+          "description": "Commercial plants have built-in safety systems but aren’t designed with warfare in mind\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-risks-of-russian-attacks-near-ukraines-nuclear-power-plants1/",
+          "publishedOn": "2022-03-05T01:15:00.000Z",
+          "wordCount": null,
+          "title": "The Risks of Russian Attacks near Ukraine's Nuclear Power Plants",
           "itunes": {},
           "imageUrl": null
         },
@@ -35798,6 +36153,17 @@
           "publishedOn": "2022-03-03T11:45:00.000Z",
           "wordCount": null,
           "title": "Wastewater Monitoring Offers Powerful Tool for Tracking COVID and Other Diseases",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "DA0E0812-B436-49C4-A30C49BEB61B6235",
+          "author": "Carmel Mothersill, The Conversation US",
+          "description": "Long-standing studies on the effects of radiation exposure to ecosystems have been thrown into uncertainty\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/russian-capture-of-ukraines-chernobyl-nuclear-plant-threatens-future-research1/",
+          "publishedOn": "2022-03-02T21:00:00.000Z",
+          "wordCount": null,
+          "title": "Russian Capture of Ukraine's Chernobyl Nuclear Plant Threatens Future Research",
           "itunes": {},
           "imageUrl": null
         },
@@ -43257,6 +43623,26 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=150519",
+          "author": "Rob Mason",
+          "description": "Keeping an eye on the bigger picture is important when doing just about anything. This adage holds true when testing software, too. There’s no doubt that the QA testing process for software is essential. It makes sure everything is running smoothly and as it should. But generally speaking, it doesn’t always fully take into account […]\nThe post Why Software Usability Testing Is Essential appeared first on DevOps.com.",
+          "link": "https://devops.com/why-software-usability-testing-is-essential/",
+          "publishedOn": "2022-03-07T07:30:46.000Z",
+          "wordCount": 1413,
+          "title": "Why Software Usability Testing Is Essential",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/09/userexperience.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150527",
+          "author": "ROELBOB",
+          "description": "The post Instinct and Attention appeared first on DevOps.com.",
+          "link": "https://devops.com/instinct-and-attention/",
+          "publishedOn": "2022-03-07T07:00:29.000Z",
+          "wordCount": 433,
+          "title": "Instinct and Attention",
+          "imageUrl": "https://devops.com/wp-content/uploads/2022/03/instinct-n-attention.jpg"
+        },
+        {
           "id": "https://devops.com/?p=150474",
           "author": "Anas Baig",
           "description": "Privacy has taken on an unprecedented level of importance in 2022, primarily online privacy. There are multiple reasons behind this increase. The primary one is that users online are now more educated, informed and concerned than ever before about the collection of their personal data and, perhaps more importantly, how the website collecting this data […]\nThe post Guide to Privacy Management for Developers appeared first on DevOps.com.",
@@ -46817,6 +47203,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=112851",
+          "author": "Leila Sloman",
+          "description": "A new computer program fashioned after artificial intelligence systems like AlphaGo has solved several open problems in combinatorics and graph theory.            \nThe post In New Math Proofs, Artificial Intelligence Plays to Win first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/in-new-math-proofs-artificial-intelligence-plays-to-win-20220307/",
+          "publishedOn": "2022-03-07T12:56:25.000Z",
+          "wordCount": 1354,
+          "title": "In New Math Proofs, Artificial Intelligence Plays to Win",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/Counterexamle_1200_Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=112802",
           "author": "Yasemin Saplakoglu",
           "description": "While watching a fearful memory take shape in the brain of a living fish, neuroscientists see an unexpected level of rewiring occur in the synaptic connections.            \nThe post Scientists Watch a Memory Form in a Living Brain first appeared on Quanta Magazine",
@@ -47621,6 +48017,26 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=67050",
+          "author": "Nathan Yau",
+          "description": "For Our World in Data, Max Roser discusses the risk and possible destruction…\nTags: nuclear, Our World in Data, risk, war",
+          "link": "https://flowingdata.com/2022/03/07/reducing-the-risk-of-nuclear-war/",
+          "publishedOn": "2022-03-07T13:30:55.000Z",
+          "wordCount": 343,
+          "title": "Reducing the risk of nuclear war",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/03/nuclear-warhead-stockpiles-e1646631047550.png"
+        },
+        {
+          "id": "https://flowingdata.com/?p=67048",
+          "author": "Nathan Yau",
+          "description": "The prices of everything seem to be rising a lot lately. Why? For…\nTags: economics, eggs, inflation, Vox",
+          "link": "https://flowingdata.com/2022/03/07/inflation-explained-with-eggs/",
+          "publishedOn": "2022-03-07T10:24:21.000Z",
+          "wordCount": 381,
+          "title": "Inflation explained with eggs",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2014/10/logo-lone-square-600-5451c585_site_icon.png"
+        },
         {
           "id": "https://flowingdata.com/?p=67043",
           "author": "Nathan Yau",
