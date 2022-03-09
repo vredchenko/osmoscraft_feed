@@ -123,6 +123,16 @@
       "siteUrl": "https://goteleport.com/blog/",
       "articles": [
         {
+          "id": "https://goteleport.com/blog/how-to-hack-kubernetes/",
+          "author": null,
+          "description": "Kubernetes is a valuable resource and a leading container management system in development pipelines across the world, but it’s not exempt from malicious attacks. Using Kubernetes requires a deep understanding of Kubernetes’ environment—including the different vulnerabilities you can be exposed to while creating, deploying, or running applications in your clusters.\nSince your Kubernetes cluster is likely one of your most valuable cloud resources, it needs to be protected. Kubernetes’ security addresses the safety of your cloud, application clusters, containers, apps and code. Although Kubernetes provides inherent security advantages, bolstering your defensive tactics is crucial to protecting your system against hackers and other cybersecurity threats.\nThis roundup covers the top seven ways…",
+          "link": "https://goteleport.com/blog/how-to-hack-kubernetes/",
+          "publishedOn": "2022-03-08T00:00:00.000Z",
+          "wordCount": 2191,
+          "title": "How to Hack Kubernetes (and How to Protect It)",
+          "imageUrl": "https://goteleport.com/blog/images/2022/kubernetes-audit@2x.png"
+        },
+        {
           "id": "https://goteleport.com/blog/statement-on-ukraine/",
           "author": null,
           "description": "Effective immediately, Teleport will cease doing business with all organizations headquartered in Russia. We are starting conversations with affected current customers and are winding down our involvement as quickly as is legally possible. With this action, we want to send a clear message to the Russian government: we condemn the invasion of Ukraine, and we will not enable your aggression through direct or indirect use of our technology.\nWe hope that the world continues to unite against Putin’s aggression in Ukraine. That the innocent Ukrainian and Russian people who want no part of this war will soon see peace. And that the values of democracy and freedom take root in Russia and push aside the autocracy and control that enable Putin’s reign.\nIn the meantime, Teleport will continue to work with customers all over the world who need to defend against cyberattacks and other forms of digital aggression. At Teleport, we are builders. We believe that creating is more powerful than destroying.",
@@ -947,6 +957,36 @@
       "feedUrl": "https://www.i-programmer.info/index.php?option=com_ninjarsssyndicator&feed_id=3&format=raw",
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
+        {
+          "id": "http://www.i-programmer.info/news/90-tools/15270-apache-isis-adds-non-public-visibility.html",
+          "author": null,
+          "description": "Apache Isis has a new milestone release that adds the ability for members and their methods to have non-public visibility. Isis is a framework for developing UIs for domain-driven apps in Java.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/90-tools/15270-apache-isis-adds-non-public-visibility.html",
+          "publishedOn": "2022-03-08T18:21:03.000Z",
+          "wordCount": 631,
+          "title": "Apache Isis Adds Non-Public Visibility",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/bookreviews/21-database/15269-domain-storytelling-pearson.html",
+          "author": null,
+          "description": "Author: Stefan Hofer\nPublisher: Pearson\nPages: 288\nISBN:978-0137458912\nPrint:0137458916\nKindle:B099ZNXCJT\nAudience: software architects\nRating: 4.5\nReviewer: Kay Ewbank\n\r\nThis book sets out to be a practical guide to database domains, bringing together domain experts, software developers, designers and business analysts to describe just what domain storytelling is and what it can do for you.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/bookreviews/21-database/15269-domain-storytelling-pearson.html",
+          "publishedOn": "2022-03-08T18:18:55.000Z",
+          "wordCount": 846,
+          "title": "Domain Storytelling (Pearson)",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/news/136-open-source/15268-get-ready-for-google-summer-of-code-2022.html",
+          "author": null,
+          "description": "There's a new website for Google Summer of Code this year - to take account of its extended remit. GSoC is no longer just for students which means that anyone18 year old and older with spare time this summer who wants to get involved with open source software development can apply to the program to become a contributor. \n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/136-open-source/15268-get-ready-for-google-summer-of-code-2022.html",
+          "publishedOn": "2022-03-08T15:16:18.000Z",
+          "wordCount": 1014,
+          "title": "Get Ready For Google Summer Of Code 2022",
+          "imageUrl": null
+        },
         {
           "id": "http://www.i-programmer.info/book-watch-archive/15266-kubernetes-native-microservices-with-quarkus-and-microprofile-manning.html",
           "author": null,
@@ -4614,6 +4654,196 @@
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
         {
+          "id": "https://hackernoon.com/papa-johns-is-making-nfts-mainstream-with-its-nft-collection-launch-for-pizza-lovers?source=rss",
+          "author": "Ishan Pandey",
+          "description": "Papa John's has launched its first collection of cool and collectable NFT hot bag-inspired NFT collection.",
+          "link": "https://hackernoon.com/papa-johns-is-making-nfts-mainstream-with-its-nft-collection-launch-for-pizza-lovers?source=rss",
+          "publishedOn": "2022-03-08T16:46:39.000Z",
+          "wordCount": 2194,
+          "title": "Papa Johns is Making NFTs Mainstream with its NFT Collection Launch for Pizza Lovers",
+          "imageUrl": "https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-dsd3pyp.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-the-ariane-5-disaster-the-worst-computer-bugs-in-history-series?source=rss",
+          "author": "Bugsnag",
+          "description": "These computer bugs left a significant impact on the people who experienced them, and we hope they’ll offer valuable lessons we can all apply to our own work.",
+          "link": "https://hackernoon.com/what-is-the-ariane-5-disaster-the-worst-computer-bugs-in-history-series?source=rss",
+          "publishedOn": "2022-03-08T14:03:45.000Z",
+          "wordCount": 1926,
+          "title": "What is The Ariane 5 Disaster? The Worst Computer Bugs in History Series",
+          "imageUrl": "https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-wg93isw.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/3-types-of-data-and-feedback-startups-need-before-building-their-mvp?source=rss",
+          "author": "Katherine Cerrato",
+          "description": "Connecting with and learning from users is critical from day one. Here are 3 types of data and feedback to make your way to the product-market-fit holy grail.",
+          "link": "https://hackernoon.com/3-types-of-data-and-feedback-startups-need-before-building-their-mvp?source=rss",
+          "publishedOn": "2022-03-08T13:45:53.000Z",
+          "wordCount": 2074,
+          "title": "3 Types of Data and Feedback Startups Need Before Building Their MVP",
+          "imageUrl": "https://cdn.hackernoon.com/images/gTczvI9iCQhzadn97mUPydctLLZ2-7t9307j.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/50-highest-paying-cities-in-the-united-states-for-software-engineers?source=rss",
+          "author": "Rick Chen",
+          "description": "Based on salaries and total compensation packages, Blind curated a list of the top 50 highest - paying cities for software engineers in the United States.",
+          "link": "https://hackernoon.com/50-highest-paying-cities-in-the-united-states-for-software-engineers?source=rss",
+          "publishedOn": "2022-03-08T13:29:42.000Z",
+          "wordCount": 2000,
+          "title": "50 Highest-Paying Cities in the United States for Software Engineers",
+          "imageUrl": "https://cdn.hackernoon.com/images/VLxHvCQtyKcQRJ8iJBVZf7kjiC43-6393h3q.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/why-an-api-should-be-a-priority-for-blockchain-gaming-projects?source=rss",
+          "author": "Ethermore",
+          "description": "One of the goals of Web 3 and the metaverse is a seamless interconnection between standalone platforms.",
+          "link": "https://hackernoon.com/why-an-api-should-be-a-priority-for-blockchain-gaming-projects?source=rss",
+          "publishedOn": "2022-03-08T12:50:46.000Z",
+          "wordCount": 1786,
+          "title": "Why an API Should be a Priority for Blockchain Gaming Projects",
+          "imageUrl": "https://cdn.hackernoon.com/images/sj8BfOM05GebRMcAUS2lS44DaQ83-qu93hd6.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/energy-fuel-and-food-prices-soar-cost-of-living-hits-30-year-high?source=rss",
+          "author": "Jack Boreham",
+          "description": "In this slogging thread, we discuss the current living crises, facing most of the western world. As prices increase, wages have stagnated or at worst decreased.",
+          "link": "https://hackernoon.com/energy-fuel-and-food-prices-soar-cost-of-living-hits-30-year-high?source=rss",
+          "publishedOn": "2022-03-08T11:59:59.000Z",
+          "wordCount": 1916,
+          "title": "Energy, Fuel, and Food Prices Soar - Cost of Living Hits 30-Year High",
+          "imageUrl": "https://cdn.hackernoon.com/images/AKsNRMQ5sghpqx7EhVDK3vl0AZJ2-tya3hk2.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/startups-stop-romanticizing-your-brand-and-tailor-it-for-early-adopters?source=rss",
+          "author": "Marcio S Galli",
+          "description": "Don't worry if your startup has a poor brand. Just make sure it is appealing to your audience and focus on branding that speaks to your early-stage customers.",
+          "link": "https://hackernoon.com/startups-stop-romanticizing-your-brand-and-tailor-it-for-early-adopters?source=rss",
+          "publishedOn": "2022-03-08T10:59:15.000Z",
+          "wordCount": 1914,
+          "title": "Startups: Stop Romanticizing Your Brand and Tailor it for Early Adopters",
+          "imageUrl": "https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-9693iab.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/hiring-an-engineer-7-different-types-of-engineering-interviews?source=rss",
+          "author": "Jackie Xu",
+          "description": "These are 7 Different Types of Engineering interviews that engineers may come when searching for jobs, including those used by large companies like Google.",
+          "link": "https://hackernoon.com/hiring-an-engineer-7-different-types-of-engineering-interviews?source=rss",
+          "publishedOn": "2022-03-08T10:45:21.000Z",
+          "wordCount": 2468,
+          "title": "Hiring an Engineer: 7 Different Types of Engineering Interviews",
+          "imageUrl": "https://cdn.hackernoon.com/images/9qHd24jMwUgVhRjFKOxlxzDVQaq2-hx93gur.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-write-meta-descriptions-to-optimize-your-search-engine-results?source=rss",
+          "author": "Vaibhav Kakkar",
+          "description": "In this article, we will discuss the various aspects of meta description writing, as well as tips for making it stand out from the crowd!",
+          "link": "https://hackernoon.com/how-to-write-meta-descriptions-to-optimize-your-search-engine-results?source=rss",
+          "publishedOn": "2022-03-08T10:27:38.000Z",
+          "wordCount": 3224,
+          "title": "How to Write Meta Descriptions to Optimize Your Search Engine Results",
+          "imageUrl": "https://cdn.hackernoon.com/images/qxSAigWQ9Ict2rsQE6sIE4UXQY03-jr93hj7.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/wordpress-vs-bootstrap-choosing-a-web-design-platform-for-your-business?source=rss",
+          "author": "JanBask Digital Design",
+          "description": "In this article, we will speak about two competing web design platforms that are extremely popular in the current market: WordPress and Bootstrap.",
+          "link": "https://hackernoon.com/wordpress-vs-bootstrap-choosing-a-web-design-platform-for-your-business?source=rss",
+          "publishedOn": "2022-03-08T10:17:34.000Z",
+          "wordCount": 2062,
+          "title": "WordPress vs Bootstrap: Choosing a Web Design Platform for Your Business",
+          "imageUrl": "https://cdn.hackernoon.com/images/uUFbIVsrWFVlMQDKnyE5UDXL77W2-tj93j0m.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/5-ai-training-data-companies-to-keep-an-eye-on-in-2022?source=rss",
+          "author": "Gaurav Sharma",
+          "description": "In this blog, I have covered top training data providers to watch out for in 2022.",
+          "link": "https://hackernoon.com/5-ai-training-data-companies-to-keep-an-eye-on-in-2022?source=rss",
+          "publishedOn": "2022-03-08T10:06:43.000Z",
+          "wordCount": 1821,
+          "title": "5 AI Training Data Companies to Keep an Eye on in 2022",
+          "imageUrl": "https://cdn.hackernoon.com/images/IRvczJHrkCWRyCUtPqh7IUQe9b52-y692dto.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-fix-website-defacement-in-wordpress?source=rss",
+          "author": "Meshnetics",
+          "description": "Did your WordPress website get defaced recently? Learn all about website defacement in WordPress - and how to fix the issue - in this comprehensive guide!",
+          "link": "https://hackernoon.com/how-to-fix-website-defacement-in-wordpress?source=rss",
+          "publishedOn": "2022-03-08T08:29:11.000Z",
+          "wordCount": 3107,
+          "title": "How to Fix Website Defacement in WordPress",
+          "imageUrl": "https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-2l93jz4.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/first-impressions-of-pokemon-legends-arceus?source=rss",
+          "author": "Limarc Ambalina",
+          "description": "This Slogging thread by Limarc Ambalina, Jack Boreham, SuperSaiyanProgramming, Blake Cram, Adrian Morales and Sara Pinto occurred in slogging's official #gaming channel, and has been edited for readability.",
+          "link": "https://hackernoon.com/first-impressions-of-pokemon-legends-arceus?source=rss",
+          "publishedOn": "2022-03-08T08:20:21.000Z",
+          "wordCount": 2374,
+          "title": "First Impressions of Pokémon Legends: Arceus",
+          "imageUrl": "https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-9ia3jdl.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/the-pros-and-cons-of-an-import-stories-function?source=rss",
+          "author": "Limarc Ambalina",
+          "description": "This Slogging thread by Limarc Ambalina, Nesha and David Smooke occurred in slogging's official #software-development channel, and has been edited for readability.",
+          "link": "https://hackernoon.com/the-pros-and-cons-of-an-import-stories-function?source=rss",
+          "publishedOn": "2022-03-08T07:42:02.000Z",
+          "wordCount": 3627,
+          "title": "The Pros and Cons of an Import Stories Function",
+          "imageUrl": "https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-vi93jk3.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/converting-gamers-into-blockchain-gamers-why-aaa-experience-is-key?source=rss",
+          "author": "Shrapnel",
+          "description": "Blockchain gaming has come a long way since Huntercoin debuted in 2014. Since then, developers - primarily blockchain developers, not game developers - have been experimenting with how to mix gameplay with tokenomics. From a technical perspective, the innovation that is blockchain seems poised to enable the next version of the web. However, its application to games has been mixed at best. Primitive gameplay, low production values, and shallow narratives has been the norm for most blockchain games to date.It wasn’t until CryptoKitties launched in 2017 that a blockchain game had any success in finding an audience. But when it did, the impact was jaw dropping. The game caused massive congestion on the layer 1 Ethereum network, leaving many developers skeptical of blockchain’s capacity to faci…",
+          "link": "https://hackernoon.com/converting-gamers-into-blockchain-gamers-why-aaa-experience-is-key?source=rss",
+          "publishedOn": "2022-03-08T07:33:30.000Z",
+          "wordCount": 1951,
+          "title": "Converting Gamers into Blockchain Gamers: Why AAA Experience is Key",
+          "imageUrl": "https://cdn.hackernoon.com/images/pz6TK5AiiDYoLXTUpZm5X2gUYmG3-2493hcs.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/ai-powered-predictive-merchandising-is-shaping-the-future-of-shopping?source=rss",
+          "author": "TerryChoi",
+          "description": "As long as consumers choose a hybrid shopping model, merchandising will keep driving sales.",
+          "link": "https://hackernoon.com/ai-powered-predictive-merchandising-is-shaping-the-future-of-shopping?source=rss",
+          "publishedOn": "2022-03-08T05:35:21.000Z",
+          "wordCount": 1752,
+          "title": "AI-Powered Predictive Merchandising is Shaping the Future of Shopping",
+          "imageUrl": "https://cdn.hackernoon.com/images/2fC9rSCnVqPsr97x6ZygGFxpdrP2-9s930hr.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-find-insecure-mongodb-connection-strings-in-public-github-repositories?source=rss",
+          "author": "Kayode Oluwasegun",
+          "description": "A guide on how to protect yourself and your projects while on Github.",
+          "link": "https://hackernoon.com/how-to-find-insecure-mongodb-connection-strings-in-public-github-repositories?source=rss",
+          "publishedOn": "2022-03-08T05:15:09.000Z",
+          "wordCount": 1731,
+          "title": "How to Find Insecure MongoDB Connection Strings in Public GitHub Repositories",
+          "imageUrl": "https://cdn.hackernoon.com/images/fJowWHavL0XT8jKc2lCn9VB199e2-sg93l3n.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/behzad-sharifi-is-hackernoons-contributor-of-the-year-in-remote-teams-and-business-strategy?source=rss",
+          "author": "Behzad Sharifi",
+          "description": "Hey Hackers! I’m Behzad Sharifi and I’m Recognized as Contributor of the Year in Remote Teams & Business Strategy Categories.",
+          "link": "https://hackernoon.com/behzad-sharifi-is-hackernoons-contributor-of-the-year-in-remote-teams-and-business-strategy?source=rss",
+          "publishedOn": "2022-03-08T04:06:37.000Z",
+          "wordCount": 2073,
+          "title": "Behzad Sharifi is HackerNoon's Contributor of the Year in Remote Teams & Business Strategy",
+          "imageUrl": "https://cdn.hackernoon.com/images/szuTGyQJwnZKYH83hv2oWrxjp9t1-6s93klr.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/happy-international-womens-day-from-hackernoon?source=rss",
+          "author": "Official Writing Prompts",
+          "description": "HackerNooon welcomes everyone to celebrate women, tech, and women in tech on our platform!",
+          "link": "https://hackernoon.com/happy-international-womens-day-from-hackernoon?source=rss",
+          "publishedOn": "2022-03-08T03:54:15.000Z",
+          "wordCount": 2022,
+          "title": "Happy International Women’s Day From HackerNoon",
+          "imageUrl": "https://cdn.hackernoon.com/images/VtoJ3xJJ7EOwWbJEq11aca6nNNh1-lk93w1e.jpeg"
+        },
+        {
           "id": "https://hackernoon.com/is-ai-the-key-to-the-metaverse?source=rss",
           "author": "Jack Boreham",
           "description": "In this slogging thread, we discuss whether the key to the Metaverse is AI. According to Meta CEO Mark Zuckerberg, it is. However, the Hackernoon staff disagree",
@@ -4792,6 +5022,16 @@
           "wordCount": 2753,
           "title": "A New Paradigm: From \"Play to Earn\" to \"Play to Build\" Gaming",
           "imageUrl": "https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-y493j91.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-money-works-value-created-reach-and-personal-satisfaction?source=rss",
+          "author": "Miguel Rodriguez",
+          "description": "Choosing a career path that will enable you financial solidity is important. Only if you are not struggling financially you will be able to flourish in life",
+          "link": "https://hackernoon.com/how-money-works-value-created-reach-and-personal-satisfaction?source=rss",
+          "publishedOn": "2022-03-07T07:21:44.000Z",
+          "wordCount": 2236,
+          "title": "How Money Works: Value Created, Reach, and Personal Satisfaction",
+          "imageUrl": "https://cdn.hackernoon.com/images/02BsxUM75AaopE700AOPDlh5b9P2-xp93hu9.jpeg"
         },
         {
           "id": "https://hackernoon.com/how-to-track-bitcoin-transactions-worth-dollar2-billion-or-more?source=rss",
@@ -26565,6 +26805,76 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
+          "id": "https://hackaday.com/?p=526042",
+          "author": "Lewin Day",
+          "description": "The second-generation iMac was a big departure from the original brightly-colored release. The chunky CRT aesthetic was dead, replaced with a sleek design featuring a slim LCD monitor on a …read more",
+          "link": "https://hackaday.com/2022/03/08/g4-imac-gets-an-m1-heart-transplant/",
+          "publishedOn": "2022-03-08T21:00:41.000Z",
+          "wordCount": 1154,
+          "title": "G4 iMac Gets an M1 Heart Transplant",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/tempImageoS5FDU-e1646709984514.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=526027",
+          "author": "Dan Maloney",
+          "description": "[Mark Smith] must really, really like his coffee, at least judging by how much effort he’s put into tricking out his espresso machine. This inductive water tank sensor is part …read more",
+          "link": "https://hackaday.com/2022/03/08/extreme-espresso-part-2-an-inductive-water-level-sensor/",
+          "publishedOn": "2022-03-08T19:30:06.000Z",
+          "wordCount": 1953,
+          "title": "Extreme Espresso, Part 2: An Inductive Water Level Sensor",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/espresso-connect.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=523526",
+          "author": "Jenny List",
+          "description": "There should be a line of jokes that start “A physicist and an engineer walk into a bar…”. In my case I’m an engineer and my housemate is a physicist, …read more",
+          "link": "https://hackaday.com/2022/03/08/the-light-guide-hiding-in-your-extrusion/",
+          "publishedOn": "2022-03-08T18:00:27.000Z",
+          "wordCount": 2224,
+          "title": "The Light Guide Hiding In Your Extrusion",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/02/extrusion-light-guide-featured.jpg.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=525954",
+          "author": "Chris Lott",
+          "description": "[RetroBytes] takes us on a whirlwind tour of the history of the Digital Equipment Corporation (DEC), its founder Ken Olsen, and during intermission builds up a working replica of the …read more",
+          "link": "https://hackaday.com/2022/03/08/history-of-digital-equipment-corp-and-bonus-pdp-11-replica-build/",
+          "publishedOn": "2022-03-08T16:30:15.000Z",
+          "wordCount": 4000,
+          "title": "History of Digital Equipment Corp and Bonus PDP-11 Replica Build",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/dec-feature.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=524853",
+          "author": "Maya Posch",
+          "description": "At its core, the concept of vehicle-grid integration (VGI) – also called Vehicle To Grid (V2G) – seems a simple one. Instead of a unidirectional charger for battery-electric vehicles (BEVs), …read more",
+          "link": "https://hackaday.com/2022/03/08/grid-batteries-on-wheels-the-complicated-logistics-of-vehicle-grid-integration/",
+          "publishedOn": "2022-03-08T15:00:14.000Z",
+          "wordCount": 5405,
+          "title": "Grid Batteries On Wheels: The Complicated Logistics Of Vehicle-Grid Integration",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/ElectricVehicle.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=525896",
+          "author": "Drew Littrell",
+          "description": "It was a cold autumn night in 1988. The people of Cambridge, Massachusetts lay asleep in their beds unaware of the future horror about to be unleashed from the labs …read more",
+          "link": "https://hackaday.com/2022/03/08/retrotechtacular-cheesy-1980s-news-report-on-early-internet-virus/",
+          "publishedOn": "2022-03-08T12:00:45.000Z",
+          "wordCount": 1846,
+          "title": "Retrotechtacular: Cheesy 1980s News Report on Early Internet Virus",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/Morris-Worm-TV-Clip.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=526034",
+          "author": "Lewin Day",
+          "description": "Hackers are often of the sentimental type, falling in love with the look and feel of quality old hardware. Of course, sometimes that older hardware needs a little TLC to …read more",
+          "link": "https://hackaday.com/2022/03/08/vintage-multimeter-gets-an-lcd-transplant/",
+          "publishedOn": "2022-03-08T09:00:17.000Z",
+          "wordCount": 1433,
+          "title": "Vintage Multimeter Gets An LCD Transplant",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/FNSmP3DWYAMoXcp-e1646707372690.jpg"
+        },
+        {
           "id": "https://hackaday.com/?p=525926",
           "author": "Arsenijs Picugins",
           "description": "[SolderParty] just announced FlexyPins (Twitter, alternative view) – bent springy clips that let you connect modules with castellated pins. With such clips, you can quickly connect and disconnect any castellated …read more",
@@ -35934,6 +36244,79 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "484C5EE3-750B-4EC2-BFCA0BF0F7DFF312",
+          "author": "Timothy A. Mousseau, The Conversation US",
+          "description": "Vehicles can kick up radioactive dust and fighting risks igniting a wildfire in the exclusion zone\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/military-action-in-chernobyl-could-be-dangerous-for-people-and-the-environment/",
+          "publishedOn": "2022-03-08T20:00:00.000Z",
+          "wordCount": null,
+          "title": "Military Action in Chernobyl Could be Dangerous for People and the Environment",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "EEFA7F14-C708-4364-BD1217DC8833B5D0",
+          "author": "Chelsea Harvey, E&E News",
+          "description": "It is losing its ability to recover from disturbances such as drought, wildfire and human development, researchers say\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/amazon-rain-forest-nears-dangerous-tipping-point/",
+          "publishedOn": "2022-03-08T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Amazon Rain Forest Nears Dangerous 'Tipping Point'",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "1884E6C3-2790-4D70-8B55C549B276472C",
+          "author": "Christopher Intagliata",
+          "description": "It is not clear whether the practice has medicinal benefit, or is merely a cultural practice among chimpanzees. \n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/podcast/episode/chimps-apply-insects-to-their-wounds/",
+          "publishedOn": "2022-03-08T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Chimps Apply Insects to their Wounds",
+          "itunes": {
+            "duration": "02:20"
+          },
+          "enclosure": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=774E2B0B-CB16-40C2-82741504321B16D9",
+            "length": "2242508",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "CB7D9B9A-B4B7-4DAA-BE07CC61F06994D9",
+          "author": "Sophie Bushwick",
+          "description": "But that could change if people tire of defending against an onslaught of misinformation\r\n\r\n\r\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/russia-is-having-less-success-at-spreading-social-media-disinformation/",
+          "publishedOn": "2022-03-08T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Russia Is Having Less Success at Spreading Social Media Disinformation",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "73EAF0BA-75FE-4251-8485428FDEDE5CF8",
+          "author": "Aaron Martin",
+          "description": "Benton Harbor, Mich., needs to exhume thousands of corroded lines, and a machine learning algorithm is helping to figure out where to dig first.\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/video/ai-helps-small-city-pull-toxic-lead-water-service-lines-from-the-ground-faster/",
+          "publishedOn": "2022-03-08T13:00:00.000Z",
+          "wordCount": null,
+          "title": "AI Helps Small City Pull Toxic Lead Water Service Lines from the Ground Faster",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "8803805E-0D24-430E-BD449A471B332E78",
+          "author": "Sophie Bushwick",
+          "description": "An ecological model suggests islands are better at preserving literature as well as species\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-much-medieval-literature-has-been-lost/",
+          "publishedOn": "2022-03-08T11:45:00.000Z",
+          "wordCount": null,
+          "title": "How Much Medieval Literature Has Been Lost?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "04D64F3A-AF8A-4CA2-8D7858D7A99C46F0",
           "author": "Ben Turner, LiveScience",
           "description": "A huge invasive spider that invaded Georgia from East Asia could soon take over most of the U.S. East Coast, a new study has revealed.\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -43623,6 +44006,26 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=150559",
+          "author": "Richi Jennings",
+          "description": "In this week’s The Long View: ByteDance restricts TikTok in Russia, Unified Patents escalates the fight against trolls, and Google Chrome beats the magic 300.\nThe post TikTok Shuns Russia | War on Patent Trolls | Chrome is ‘Faster than Safari’ appeared first on DevOps.com.",
+          "link": "https://devops.com/tiktok-shuns-russia-war-on-patent-trolls-chrome-is-faster-than-safari/",
+          "publishedOn": "2022-03-08T18:45:24.000Z",
+          "wordCount": 1866,
+          "title": "TikTok Shuns Russia | War on Patent Trolls | Chrome is ‘Faster than Safari’",
+          "imageUrl": "https://devops.com/wp-content/uploads/2022/03/tlv16-rostislav-artov-unsplash.png"
+        },
+        {
+          "id": "https://devops.com/?p=150541",
+          "author": "Rahul Bhageeradhan",
+          "description": "As digital transformation accelerates, organizations are searching for ways to enable all their employees—not just IT, development or DevOps teams—to design, build, iterate and launch new processes and applications as per their requirements. This democratizing approach is called citizen development—where business users are empowered to create their own processes and apps with only minimal supervision […]\nThe post 7 Steps to Unleashing Your Citizen Developers appeared first on DevOps.com.",
+          "link": "https://devops.com/7-steps-to-unleashing-your-citizen-developers/",
+          "publishedOn": "2022-03-08T07:30:43.000Z",
+          "wordCount": 1204,
+          "title": "7 Steps to Unleashing Your Citizen Developers",
+          "imageUrl": "https://devops.com/wp-content/uploads/2022/02/software-developer-ge1c75cd5f_1280-e1643805570358.jpg"
+        },
+        {
           "id": "https://devops.com/?p=150519",
           "author": "Rob Mason",
           "description": "Keeping an eye on the bigger picture is important when doing just about anything. This adage holds true when testing software, too. There’s no doubt that the QA testing process for software is essential. It makes sure everything is running smoothly and as it should. But generally speaking, it doesn’t always fully take into account […]\nThe post Why Software Usability Testing Is Essential appeared first on DevOps.com.",
@@ -47203,6 +47606,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=113108",
+          "author": "Yasemin Saplakoglu",
+          "description": "The discovery that short peptides can form spontaneously on cosmic dust hints at more of a role for them in the earliest stages of life’s origin, on Earth or elsewhere.            \nThe post Peptides on Stardust May Have Provided a Shortcut to Life first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/peptides-on-stardust-may-have-provided-a-shortcut-to-life-20220308/",
+          "publishedOn": "2022-03-08T12:35:21.000Z",
+          "wordCount": 1531,
+          "title": "Peptides on Stardust May Have Provided a Shortcut to Life",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/Space-Peptides_1200_Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=112851",
           "author": "Leila Sloman",
           "description": "A new computer program fashioned after artificial intelligence systems like AlphaGo has solved several open problems in combinatorics and graph theory.            \nThe post In New Math Proofs, Artificial Intelligence Plays to Win first appeared on Quanta Magazine",
@@ -48017,6 +48430,16 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=67057",
+          "author": "Nathan Yau",
+          "description": "When you look inside the cities around the world, you will often find…\nTags: satellite imagery, scale, Ukraine, Washington Post",
+          "link": "https://flowingdata.com/2022/03/08/scale-of-ukrainian-cities/",
+          "publishedOn": "2022-03-08T10:57:58.000Z",
+          "wordCount": 288,
+          "title": "Scale of Ukrainian cities",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/03/Scale-of-Ukraine-cities.png"
+        },
         {
           "id": "https://flowingdata.com/?p=67050",
           "author": "Nathan Yau",
@@ -50069,15 +50492,6 @@
           "publishedOn": "2021-03-10T08:00:00.000Z",
           "wordCount": 2631,
           "title": "Creating opportunity for women in development"
-        },
-        {
-          "id": "https://github.com/readme/stories/marcy-sutton",
-          "author": null,
-          "description": "For Marcy, accessibility is personal and essential. So she’s on a mission to inspire others to follow in her footsteps to prioritize and normalize it.\n\nGet the full story on The ReadME Project:",
-          "link": "https://github.com/readme/stories/marcy-sutton",
-          "publishedOn": "2021-03-09T08:00:00.000Z",
-          "wordCount": 1954,
-          "title": "Making accessibility in tech the rule, not the exception"
         }
       ]
     },
