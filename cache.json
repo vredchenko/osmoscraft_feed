@@ -123,6 +123,16 @@
       "siteUrl": "https://goteleport.com/blog/",
       "articles": [
         {
+          "id": "https://goteleport.com/blog/how-to-setup-aws-bastion/",
+          "author": null,
+          "description": "More and more business-critical applications run on Amazon Web Services. Protecting these mission-critical applications from potential attacks requires moving beyond typical security approaches such as using only a jump box or firewall to control access. This multi-part tutorial  will show how DevOps teams can secure their AWS services using a zero-trust, identity-based approach that not only increases security, but improves developer productivity. We will demonstrate these use cases using Teleport, an open-source, identity-based access solution that unifies access for AWS services such as EC2, RDS, EKS, and more.\nPart 1: Protect AWS ec2 SSH access with Teleport as a bastion host.\nIn the first part of the series, we will explore how to replace a traditional bastion host with a secure Telep…",
+          "link": "https://goteleport.com/blog/how-to-setup-aws-bastion/",
+          "publishedOn": "2022-03-10T00:00:00.000Z",
+          "wordCount": 2545,
+          "title": "How to Set-up an Identity-Aware Access Proxy as a Bastion Host in AWS",
+          "imageUrl": "https://goteleport.com/blog/images/2021/10-reasons.png"
+        },
+        {
           "id": "https://goteleport.com/blog/how-to-hack-kubernetes/",
           "author": null,
           "description": "Kubernetes is a valuable resource and a leading container management system in development pipelines across the world, but it’s not exempt from malicious attacks. Using Kubernetes requires a deep understanding of Kubernetes’ environment—including the different vulnerabilities you can be exposed to while creating, deploying, or running applications in your clusters.\nSince your Kubernetes cluster is likely one of your most valuable cloud resources, it needs to be protected. Kubernetes’ security addresses the safety of your cloud, application clusters, containers, apps and code. Although Kubernetes provides inherent security advantages, bolstering your defensive tactics is crucial to protecting your system against hackers and other cybersecurity threats.\nThis roundup covers the top seven ways…",
@@ -957,6 +967,26 @@
       "feedUrl": "https://www.i-programmer.info/index.php?option=com_ninjarsssyndicator&feed_id=3&format=raw",
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
+        {
+          "id": "http://www.i-programmer.info/news/144-graphics-and-games/15275-blender-31-has-major-performance-upgrade.html",
+          "author": null,
+          "description": "Blender 3.1 has been released with improvements including a new Metal GPU backend courtesy of Apple, along with better multithreading and faster mesh editing.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/144-graphics-and-games/15275-blender-31-has-major-performance-upgrade.html",
+          "publishedOn": "2022-03-10T18:24:15.000Z",
+          "wordCount": 682,
+          "title": "Blender 3.1 Has Major Performance Upgrade",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/news/90-tools/15274-cloudera-and-streamnative-open-source-nifi-pulsar-connector.html",
+          "author": null,
+          "description": "A connector that integrates Apache NiFi and Apache Pulsar has been made open source by Cloudera and StreamNative.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/90-tools/15274-cloudera-and-streamnative-open-source-nifi-pulsar-connector.html",
+          "publishedOn": "2022-03-10T11:59:24.000Z",
+          "wordCount": 667,
+          "title": "Cloudera And StreamNative Open Source NiFi Pulsar Connector",
+          "imageUrl": null
+        },
         {
           "id": "http://www.i-programmer.info/book-watch-archive/15273-beginning-reactjs-foundations-building-user-interfaces-with-reactjs-wiley.html",
           "author": null,
@@ -4683,6 +4713,206 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/how-to-install-tekton-pipelines-in-the-azure-kubernetes-service-cluster?source=rss",
+          "author": "Viachaslau Matsukevich",
+          "description": "CI\\CD with Tekton Pipelines in AKS serverless Virtual Nodes",
+          "link": "https://hackernoon.com/how-to-install-tekton-pipelines-in-the-azure-kubernetes-service-cluster?source=rss",
+          "publishedOn": "2022-03-10T16:55:34.000Z",
+          "wordCount": 2792,
+          "title": "How to Install Tekton Pipelines in the Azure Kubernetes Service Cluster",
+          "imageUrl": "https://cdn.hackernoon.com/images/yH95UmMywDTjM9jsB6ZVZEkOKY02-uur2io1.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/on-chain-transactions-should-enumerable-data-structures-be-for-on-chain-use-only?source=rss",
+          "author": "FearsomeLamb789",
+          "description": "One reiterating mistake that keeps being overlooked is the use of data structures intended for other protocols interactions and on-chain discovery.",
+          "link": "https://hackernoon.com/on-chain-transactions-should-enumerable-data-structures-be-for-on-chain-use-only?source=rss",
+          "publishedOn": "2022-03-10T16:43:53.000Z",
+          "wordCount": 1665,
+          "title": "On-chain Transactions: Should Enumerable Data Structures Be For On-chain Use Only?",
+          "imageUrl": "https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-t193i8o.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/will-sanctions-exist-in-a-world-that-runs-on-web3?source=rss",
+          "author": "Golda Velez",
+          "description": "In a Web3 world, would you be more or less helpless to respond to events in real life?",
+          "link": "https://hackernoon.com/will-sanctions-exist-in-a-world-that-runs-on-web3?source=rss",
+          "publishedOn": "2022-03-10T01:42:37.000Z",
+          "wordCount": 1883,
+          "title": "Will Sanctions Exist in a World That Runs on Web3?",
+          "imageUrl": "https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-t1a3wvz.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-improve-your-organic-ctr?source=rss",
+          "author": "Syed Balkhi",
+          "description": "Improve your website's CTR with these pro tips.",
+          "link": "https://hackernoon.com/how-to-improve-your-organic-ctr?source=rss",
+          "publishedOn": "2022-03-10T01:03:15.000Z",
+          "wordCount": 2169,
+          "title": "How to Improve Your Organic CTR",
+          "imageUrl": "https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-0g93wj9.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/open-banking-for-noobs-a-primer?source=rss",
+          "author": "Nkechi Anyanwu",
+          "description": "The intention of Open Banking is to bring about more competition and innovation to the financial services industry.",
+          "link": "https://hackernoon.com/open-banking-for-noobs-a-primer?source=rss",
+          "publishedOn": "2022-03-10T00:50:24.000Z",
+          "wordCount": 2185,
+          "title": "'Open Banking' for Noobs: A Primer",
+          "imageUrl": "https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-bd93wlw.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-use-appsmith-airtable-and-notion-to-build-a-video-sorting-tool?source=rss",
+          "author": "Giulia Barozzi",
+          "description": "According to Forbes, 82% of content generated this year is likely to be video.",
+          "link": "https://hackernoon.com/how-to-use-appsmith-airtable-and-notion-to-build-a-video-sorting-tool?source=rss",
+          "publishedOn": "2022-03-10T00:28:48.000Z",
+          "wordCount": 4377,
+          "title": "How to Use Appsmith, Airtable, and Notion to Build a Video Sorting Tool",
+          "imageUrl": "https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-7m93wd8.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-hacktivism-helps-ukraine-fight-against-russian-invasion?source=rss",
+          "author": "Vik Bogdanov",
+          "description": "The article describes how Ukraine's IT Army and its allies including Anonymous help Ukraine fight against the Russian invasion and defend European values.",
+          "link": "https://hackernoon.com/how-hacktivism-helps-ukraine-fight-against-russian-invasion?source=rss",
+          "publishedOn": "2022-03-09T23:32:51.000Z",
+          "wordCount": 2478,
+          "title": "How Hacktivism Helps Ukraine Fight Against Russian Invasion",
+          "imageUrl": "https://cdn.hackernoon.com/images/tOnArrILSDcevoBmc7vIUv6UrQI3-poa30pn.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-build-a-healthy-medical-recruitment-process-for-the-medijobs-platform?source=rss",
+          "author": "Daniel Andor",
+          "description": "Medical care is a vital part of our lives. This aspect became even more evident during the Spring of 2020, when, suddenly, the entire world got hit by a pandemic. It might sound like a cliche, but it became clearer to all of us that technology can play a big part in the medical recruitment process. Having the right people with the right set of skills who can immediately start work and help patients became an urgent matter. That’s why MEDIjobs, the career marketplace for healthcare professionals, came to me and the Durran studio to ask for help regarding their platform. The main challenge? To streamline the process of hiring through the platform. Read on to see the entire Design Sprint process and the solutions we found.",
+          "link": "https://hackernoon.com/how-to-build-a-healthy-medical-recruitment-process-for-the-medijobs-platform?source=rss",
+          "publishedOn": "2022-03-09T23:28:25.000Z",
+          "wordCount": 4142,
+          "title": "How to Build a Healthy Medical Recruitment Process for the MEDIjobs Platform",
+          "imageUrl": "https://cdn.hackernoon.com/images/hv0KBQ9HUHhsRgEipvjc3tj23Lu1-us133hy3.png"
+        },
+        {
+          "id": "https://hackernoon.com/eight-recruiting-trends-for-2022?source=rss",
+          "author": "Tatiana Melnichuk",
+          "description": "Telling you what IT employers should pay attention to in order to fill IT vacancies in one to two months.",
+          "link": "https://hackernoon.com/eight-recruiting-trends-for-2022?source=rss",
+          "publishedOn": "2022-03-09T23:22:19.000Z",
+          "wordCount": 2412,
+          "title": "Eight Recruiting Trends for 2022",
+          "imageUrl": "https://cdn.hackernoon.com/images/16ChB2rveuMbaKoi890weUEWtCC3-nva3gvj.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/an-engineers-guide-to-todos-how-to-get-things-done?source=rss",
+          "author": "Alex Omeyer",
+          "description": "A lack of focus, lack of visibility into our codebase problems, and context switching decrease developer productivity. Here are the best ways and tools that'll help you get things done.",
+          "link": "https://hackernoon.com/an-engineers-guide-to-todos-how-to-get-things-done?source=rss",
+          "publishedOn": "2022-03-09T23:20:09.000Z",
+          "wordCount": 2422,
+          "title": "An Engineer's Guide to TODOs: How to Get Things Done",
+          "imageUrl": "https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-tkc3iga.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/potion-unlock-proof-that-nfts-can-be-keys-and-art?source=rss",
+          "author": "Crypto Adventure",
+          "description": "The Potion Unlock NFTs have been meticulously designed based on the principles of data visualization.",
+          "link": "https://hackernoon.com/potion-unlock-proof-that-nfts-can-be-keys-and-art?source=rss",
+          "publishedOn": "2022-03-09T23:19:20.000Z",
+          "wordCount": 2478,
+          "title": "Potion Unlock: Proof That NFTs Can Be Keys and Art",
+          "imageUrl": "https://cdn.hackernoon.com/images/7LrDe0NwaTW40HBSsVuBSPeo2yd2-y3c30p3.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/mintverse-is-bringing-project-verification-to-nfts-in-order-to-provide-investor-protection?source=rss",
+          "author": "Ishan Pandey",
+          "description": "Mintverse with NFTSCAN is introducing project verification for all projects allowing them to sign the verification contract to provide authenticity.",
+          "link": "https://hackernoon.com/mintverse-is-bringing-project-verification-to-nfts-in-order-to-provide-investor-protection?source=rss",
+          "publishedOn": "2022-03-09T23:17:32.000Z",
+          "wordCount": 1734,
+          "title": "Mintverse is Bringing Project Verification to NFTs in order to Provide Investor Protection",
+          "imageUrl": "https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-wre3psr.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/dogami-is-bringing-dog-avatars-into-the-ethereum-metaverse-with-the-sandbox?source=rss",
+          "author": "Ishan Pandey",
+          "description": "The Sandbox has partnered with the Tezos-powered mass-market play-to-earn NFT DOGAMI game to bring its dog avatars into the Metaverse.",
+          "link": "https://hackernoon.com/dogami-is-bringing-dog-avatars-into-the-ethereum-metaverse-with-the-sandbox?source=rss",
+          "publishedOn": "2022-03-09T23:16:18.000Z",
+          "wordCount": 1731,
+          "title": "DOGAMI is Bringing Dog Avatars into The Ethereum Metaverse with The Sandbox",
+          "imageUrl": "https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-2cb3pcq.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/cake-defi-launches-new-corporate-venture-arm-with-$100-million-to-invest-in-web-3-ecosystem?source=rss",
+          "author": "Ishan Pandey",
+          "description": "Decentralized Finance (DeFi) platform Cake DeFi has announced the creation of its venture-capital arm, which will invest US$100 million.",
+          "link": "https://hackernoon.com/cake-defi-launches-new-corporate-venture-arm-with-$100-million-to-invest-in-web-3-ecosystem?source=rss",
+          "publishedOn": "2022-03-09T23:15:48.000Z",
+          "wordCount": 1806,
+          "title": "Cake DeFi Launches New Corporate Venture Arm with $100 Million to Invest in Web 3 Ecosystem",
+          "imageUrl": "https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-3vb3p89.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/itheum-a-web3-data-brokerage-platform-after-raising-$15-million-is-launching-on-elrond?source=rss",
+          "author": "Ishan Pandey",
+          "description": "Web3 Data Brokerage Platform is listing on Elrond’s Maiar Platform - A new Web3 Metaverse Ecosystem.",
+          "link": "https://hackernoon.com/itheum-a-web3-data-brokerage-platform-after-raising-$15-million-is-launching-on-elrond?source=rss",
+          "publishedOn": "2022-03-09T23:12:49.000Z",
+          "wordCount": 1884,
+          "title": "Itheum a Web3 Data Brokerage Platform After Raising $1.5 Million is Launching on Elrond",
+          "imageUrl": "https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-vwb3pa0.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-become-an-open-source-developer?source=rss",
+          "author": "Stanley Ruheza",
+          "description": "There’s no company or startup which is ready to risk a lot of funds for a software project if there is a cheaper alternative.",
+          "link": "https://hackernoon.com/how-to-become-an-open-source-developer?source=rss",
+          "publishedOn": "2022-03-09T23:09:47.000Z",
+          "wordCount": 1893,
+          "title": "How to Become an Open-Source Developer",
+          "imageUrl": "https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-9o93w9g.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/discover-the-reason-agent-based-modelling-and-tokenomics-compliment-each-other?source=rss",
+          "author": "Stylianos Kampakis",
+          "description": "Agent-based models have been around for a few decades now. They are one of the main methodologies behind the study of complex systems.",
+          "link": "https://hackernoon.com/discover-the-reason-agent-based-modelling-and-tokenomics-compliment-each-other?source=rss",
+          "publishedOn": "2022-03-09T22:17:58.000Z",
+          "wordCount": 2090,
+          "title": "Discover the Reason 'Agent-Based Modelling' and 'Tokenomics' Compliment Each Other",
+          "imageUrl": "https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-k693wto.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/president-biden-to-sign-executive-order-on-ensuring-responsible-development-of-digital-assets?source=rss",
+          "author": "The White House",
+          "description": "Outlines First Whole-of-Government Strategy to Protect Consumers, Financial Stability, National Security, and Address Climate Risks.",
+          "link": "https://hackernoon.com/president-biden-to-sign-executive-order-on-ensuring-responsible-development-of-digital-assets?source=rss",
+          "publishedOn": "2022-03-09T21:53:41.000Z",
+          "wordCount": 2025,
+          "title": "President Biden to Sign Executive Order on Ensuring Responsible Development of Digital Assets",
+          "imageUrl": "https://cdn.hackernoon.com/images/5pz4Vug1KCZf79wsYMJhcPZsMtR2-0va3hvp.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/analysis-of-blockchain-technology-adoption-for-esg-initiatives-in-business?source=rss",
+          "author": "Anndy Lian",
+          "description": "The importance of ESG in these times cannot be overstated, as there is a need to raise awareness of global social and economic inequality.",
+          "link": "https://hackernoon.com/analysis-of-blockchain-technology-adoption-for-esg-initiatives-in-business?source=rss",
+          "publishedOn": "2022-03-09T18:29:19.000Z",
+          "wordCount": 2857,
+          "title": "Analysis of Blockchain Technology Adoption for ESG Initiatives in Business",
+          "imageUrl": "https://cdn.hackernoon.com/images/q27cDSxmZpZjEf6z4gZc4ZBrLvw1-e393jrp.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/where-to-learn-machine-and-deep-learning-for-free?source=rss",
+          "author": "Javin Paul",
+          "description": "",
+          "link": "https://hackernoon.com/where-to-learn-machine-and-deep-learning-for-free?source=rss",
+          "publishedOn": "2022-03-09T17:59:22.000Z",
+          "wordCount": 4376,
+          "title": "Where to Learn Machine and Deep Learning for Free",
+          "imageUrl": "https://cdn.hackernoon.com/images/MQzhgEvAeOXyPo3IjFRz4IZU3K83-ftc3jrw.jpeg"
+        },
         {
           "id": "https://hackernoon.com/a-real-social-dilemma-meta-threatens-to-shut-down-facebook-and-instagram-in-europe?source=rss",
           "author": "Sara Pinto",
@@ -25329,6 +25559,16 @@
       "siteUrl": "https://davidwalsh.name",
       "articles": [
         {
+          "id": "https://davidwalsh.name/?p=27550",
+          "author": "David Walsh",
+          "description": "Many of the web functionalities that we rely on once lived within individual desktop applications. From office suites, games, and financial tools, all of them are now web applications; they’re just as feature packed as their desktop counterparts. In the past I’ve used a variety of JavaScript grid widgets on client sites, and each had […]\nThe post Flexible, Powerful DataGrad from Sencha (Sponsored) appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/flexible-powerful-datagrad-from-sencha",
+          "publishedOn": "2022-03-10T12:17:39.000Z",
+          "wordCount": 584,
+          "title": "Flexible, Powerful DataGrad from Sencha (Sponsored)",
+          "imageUrl": "https://cdn4.buysellads.net/uu/5/112316/1644938106-senchagrid1.png"
+        },
+        {
           "id": "https://davidwalsh.name/?p=27545",
           "author": "David Walsh",
           "description": "It’s been a while since I’ve gotten a few things off of my chest and since I’m always full of peeves and annoyances I thought it was time to unleash: Due to the immensely negative response to any tweet about crypto from my blog account, I created a second account just for crypto musings. I’ll […]\nThe post Confessions of a Web Developer XIX appeared first on David Walsh Blog.",
@@ -27034,6 +27274,76 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=526294",
+          "author": "Robin Kearey",
+          "description": "Large mechanical seven-segment displays have a certain presence that you just don’t get in electronic screens. Part of this comes from the rather satisfying click-click-clack sound they make at every …read more",
+          "link": "https://hackaday.com/2022/03/10/silent-stepper-motors-make-electromechanical-clock-fit-for-a-living-room/",
+          "publishedOn": "2022-03-10T21:00:43.000Z",
+          "wordCount": 1286,
+          "title": "Silent Stepper Motors Make Electromechanical Clock Fit For a Living Room",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/Electromechanical-wall-clock.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=526241",
+          "author": "Lewin Day",
+          "description": "It’s not a question you ask yourself every day, but it’s one that the [Brick Experiment Channel] set out to answer: how fast can you spin a LEGO wheel by …read more",
+          "link": "https://hackaday.com/2022/03/10/how-fast-can-you-spin-a-lego-wheel-by-hand/",
+          "publishedOn": "2022-03-10T19:30:45.000Z",
+          "wordCount": 1327,
+          "title": "How Fast Can You Spin A LEGO Wheel By Hand?",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/Spinning-a-Lego-Wheel-Fast-BY-HAND-0-9-screenshot.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=517802",
+          "author": "Arsenijs Picugins",
+          "description": "[Vaibhav Chhabra], the co-founder of Maker’s Asylum hackerspace in Mumbai, India, starts his Remoticon talk by telling a short story about how the hackerspace rose to its current status. Born …read more",
+          "link": "https://hackaday.com/2022/03/10/remoticon-2021-vaibhav-chhabra-and-the-m19-collective-make-one-million-faceshields/",
+          "publishedOn": "2022-03-10T18:02:50.000Z",
+          "wordCount": 1612,
+          "title": "Remoticon 2021 // Vaibhav Chhabra and the M19 Collective Make One Million Faceshields",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/m19_banner.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=526419",
+          "author": "Elliot Williams",
+          "description": "Ladies and Gentlemen, Sentient robots, Travellers from the distant future, or Aliens from the outer rim, it’s time to enter the 2022 Hackaday.io Sci-Fi Contest! We last ran the Sci-Fi …read more",
+          "link": "https://hackaday.com/2022/03/10/announcing-the-2022-hackaday-io-sci-fi-contest/",
+          "publishedOn": "2022-03-10T17:00:27.000Z",
+          "wordCount": 1524,
+          "title": "Announcing: The 2022 Hackaday.io Sci-Fi Contest",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/1200x628_SF.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=524212",
+          "author": "Al Williams",
+          "description": "If you’ve ever wanted to build a large format plotter but didn’t have the floor space, maybe put it up against the wall and make it cute. That’s the idea …read more",
+          "link": "https://hackaday.com/2022/03/10/fumik-an-arduino-wall-drawing-robot-jellyfish/",
+          "publishedOn": "2022-03-10T16:00:53.000Z",
+          "wordCount": 1306,
+          "title": "Fumik: An Arduino Wall Drawing Robot Jellyfish",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/fumik.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=518575",
+          "author": "Jenny List",
+          "description": "Every high school physics student knows c, or the speed of light, it’s 3 x 10^8 metres per second. More advanced or more curious students will know that this is an …read more",
+          "link": "https://hackaday.com/2022/03/10/how-did-we-get-to-the-speed-of-light/",
+          "publishedOn": "2022-03-10T15:00:10.000Z",
+          "wordCount": 2617,
+          "title": "How Did We Get To The Speed Of Light?",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/speed-of-light-featured.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=526226",
+          "author": "Chris Lott",
+          "description": "A lot of Samsung Galaxy users think that Samsung has been throttling smartphone performance, so much so that they don’t live up to their published specifications. At issue is the …read more",
+          "link": "https://hackaday.com/2022/03/10/galaxy-users-accuse-samsung-of-throttling-performance-and-benchmark-rigging/",
+          "publishedOn": "2022-03-10T12:00:59.000Z",
+          "wordCount": 2337,
+          "title": "Galaxy Users Accuse Samsung of Throttling Performance and Benchmark Rigging",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/gos-feature.jpg"
+        },
         {
           "id": "https://hackaday.com/?p=526240",
           "author": "Lewin Day",
@@ -36544,6 +36854,61 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "E8B9B45B-7152-4734-BB9BD4D6843B5ACD",
+          "author": "Corbin Hiar, E&E News",
+          "description": "Digital tokens are produced using energy-hungry computers, contributing to greenhouse gas emissions\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/biden-orders-report-on-climate-risk-of-cryptocurrencies/",
+          "publishedOn": "2022-03-10T20:00:00.000Z",
+          "wordCount": null,
+          "title": "Biden Orders Report on Climate Risk of Cryptocurrencies",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "D0429731-ED43-42A1-8CB2D3F80AFCFBC1",
+          "author": "Nina Tannenwald",
+          "description": "Russia’s invasion of Ukraine shows the limits of nuclear deterrence\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/limited-tactical-nuclear-weapons-would-be-catastrophic/",
+          "publishedOn": "2022-03-10T14:00:00.000Z",
+          "wordCount": null,
+          "title": "'Limited' Tactical Nuclear Weapons Would Be Catastrophic",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "B7A63891-358B-4EB9-AE4FAC6E624EA07F",
+          "author": "John Horgan",
+          "description": "Superdeterminism, a radical quantum hypothesis, says our “choices” are illusory\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/does-quantum-mechanics-rule-out-free-will/",
+          "publishedOn": "2022-03-10T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Does Quantum Mechanics Rule Out Free Will?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "20B6924C-2C30-4271-A1FDA6733D7B56A8",
+          "author": "Robin Lloyd",
+          "description": "Recent findings blow up assumptions about who chooses to get vaccinated against the disease\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/people-are-getting-covid-shots-despite-hesitation/",
+          "publishedOn": "2022-03-10T12:30:00.000Z",
+          "wordCount": null,
+          "title": "People Are Getting COVID Shots Despite Hesitation",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "E6AA026B-01B3-4A2B-95B3048092A7199D",
+          "author": "Sam Jones",
+          "description": "Researchers want their models to inspire more accurate reconstructions of extinct animals such as mammoths and saber-toothed cats\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/ice-age-animals-come-to-life-via-augmented-reality/",
+          "publishedOn": "2022-03-10T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Ice Age Animals Come to Life via Augmented Reality",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "F4C84A84-7A52-4FF5-B4BA8837186353FA",
           "author": "Tereza Pultarova, SPACE.com",
           "description": "Citing the military invasion of Ukraine, the world’s leading organization for particle physics research has paused its work with Russia\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -44383,6 +44748,56 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=150641",
+          "author": "Veronica Haggar",
+          "description": "NEW YORK & SINGAPORE, March 10, 2022 — Paxos, the leading regulated blockchain infrastructure platform, announced it has received in-principle approval from the Monetary Authority of Singapore (MAS), a premier financial regulator in Asia-Pacific, to operate digital payments token services under the Payment Services Act 2019. With this license, Paxos becomes one of the first blockchain […]\nThe post Paxos Secures In-Principle Approval for Major Payments Institution License from the Monetary Authority of Singapore appeared first on DevOps.com.",
+          "link": "https://devops.com/paxos-secures-in-principle-approval-for-major-payments-institution-license-from-the-monetary-authority-of-singapore/",
+          "publishedOn": "2022-03-10T15:00:38.000Z",
+          "wordCount": 986,
+          "title": "Paxos Secures In-Principle Approval for Major Payments Institution License from the Monetary Authority of Singapore",
+          "imageUrl": "https://devops.com/wp-content/uploads/2019/08/devopsdefault-1.png"
+        },
+        {
+          "id": "https://devops.com/?p=150627",
+          "author": "Dan Kirsch",
+          "description": "Thomas Kurian became the CEO of Google Cloud Platform (GCP) with a modest mandate: Turn Google Cloud into an enterprise cloud platform behemoth. Easy, right? By 2019 “Google” was already a verb because of its search engine dominance and the company’s revenue was north of $136.8 billion. So, why have I been closely tracking Google […]\nThe post Google Focuses on Enterprise Cloud With Mandiant Acquisition appeared first on DevOps.com.",
+          "link": "https://devops.com/google-focuses-on-enterprise-cloud-with-mandiant-acquisition/",
+          "publishedOn": "2022-03-10T14:00:28.000Z",
+          "wordCount": 1478,
+          "title": "Google Focuses on Enterprise Cloud With Mandiant Acquisition",
+          "imageUrl": "https://devops.com/wp-content/uploads/2022/03/firstversion2.png"
+        },
+        {
+          "id": "https://devops.com/?p=150638",
+          "author": "Veronica Haggar",
+          "description": "Other findings: Enterprises face increasingly “professional” attackers taking charge of the cloud environment Mahwah, NJ, March 10, 2021—Radware® (NASDAQ: RDWR), a leading provider of cyber security and application delivery solutions, today released its 2021–2022 Global Threat Analysis Report. The report findings underscore 2021 as the year of the web application attack. Between 2020 and 2021, […]\nThe post Radware Report: Malicious Web Application Attacks Climb 88% appeared first on DevOps.com.",
+          "link": "https://devops.com/radware-report-malicious-web-application-attacks-climb-88/",
+          "publishedOn": "2022-03-10T13:00:49.000Z",
+          "wordCount": 1460,
+          "title": "Radware Report: Malicious Web Application Attacks Climb 88%",
+          "imageUrl": "https://devops.com/wp-content/uploads/2019/08/devopsdefault-1.png"
+        },
+        {
+          "id": "https://devops.com/?p=150547",
+          "author": "Manasi Vartak",
+          "description": "Let’s look at three distinct disciplines—DevOps, MLOps and DataOps. In 2011, Marc Andreessen famously proclaimed that software was “eating the world.” A little more than a decade later, it’s all but impossible to argue with his premonition as software has embedded itself into virtually every industry.  But now another shift is underway and AI is gobbling […]\nThe post What is MLOps? DataOps? And Why do They Matter? appeared first on DevOps.com.",
+          "link": "https://devops.com/what-is-mlops-dataops-and-why-do-they-matter/",
+          "publishedOn": "2022-03-10T07:30:59.000Z",
+          "wordCount": 1738,
+          "title": "What is MLOps? DataOps? And Why do They Matter?",
+          "imageUrl": "https://devops.com/wp-content/uploads/2021/05/DevOps.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150632",
+          "author": "ROELBOB",
+          "description": "The post Positions and Power appeared first on DevOps.com.",
+          "link": "https://devops.com/positions-and-power/",
+          "publishedOn": "2022-03-10T07:00:35.000Z",
+          "wordCount": 433,
+          "title": "Positions and Power",
+          "imageUrl": "https://devops.com/wp-content/uploads/2022/03/positions-n-power.jpg"
+        },
+        {
           "id": "https://devops.com/?p=150623",
           "author": "Veronica Haggar",
           "description": "San Francisco, CA, March 9, 2022 – InfluxData, creator of the leading time series platform InfluxDB, today announced the launch of InfluxDB University (InfluxDB U), an online education platform for customers and developers working with time series data. InfluxDB University focuses on giving developers the technical skills they need to build applications with InfluxDB through […]\nThe post InfluxData Launches InfluxDB University appeared first on DevOps.com.",
@@ -48063,6 +48478,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=113152",
+          "author": "Stephen Ornes",
+          "description": "A simple algorithm that revolutionizes how neural networks approach language is now taking on image classification as well. It may not stop there.            \nThe post Will Transformers Take Over Artificial Intelligence? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/will-transformers-take-over-artificial-intelligence-20220310/",
+          "publishedOn": "2022-03-10T13:48:54.000Z",
+          "wordCount": 2364,
+          "title": "Will Transformers Take Over Artificial Intelligence?",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/Transformers_1200_social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=112984",
           "author": "Jordana Cepelewicz",
           "description": "A new proof significantly strengthens a decades-old result about the ubiquity of ways to represent whole numbers as sums of unit fractions.            \nThe post Math’s ‘Oldest Problem Ever’ Gets a New Answer first appeared on Quanta Magazine",
@@ -48897,6 +49322,36 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=67077",
+          "author": "Nathan Yau",
+          "description": "Thinking about the tiny steps along the way to making a chart, even a relatively straightforward one.\nTags: exploration",
+          "link": "https://flowingdata.com/2022/03/10/process-180-steps/",
+          "publishedOn": "2022-03-10T19:30:04.000Z",
+          "wordCount": 278,
+          "title": "✚ Stepping Towards a Finished Chart – The Process 180",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/03/chart-steps.png"
+        },
+        {
+          "id": "https://flowingdata.com/?p=67085",
+          "author": "Nathan Yau",
+          "description": "Inflation is high. For NYT’s The Upshot, Emily Badger, Aatish Bhatia and Quoctrung…\nTags: inflation, money, Upshot",
+          "link": "https://flowingdata.com/2022/03/10/price-increases-people-have-noticed/",
+          "publishedOn": "2022-03-10T11:49:21.000Z",
+          "wordCount": 260,
+          "title": "Price increases people have noticed",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/03/inflation-price-increases.png"
+        },
+        {
+          "id": "https://flowingdata.com/?p=67096",
+          "author": "Nathan Yau",
+          "description": "In an effort to make gender inequalities more obvious, World Bank updated their…\nTags: gender, World Bank",
+          "link": "https://flowingdata.com/2022/03/09/world-banks-gender-data-portal/",
+          "publishedOn": "2022-03-10T06:01:57.000Z",
+          "wordCount": 286,
+          "title": "World Bank’s Gender Data Portal",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/03/World-Bank-Gender-Data-Portal.png"
+        },
         {
           "id": "https://flowingdata.com/?p=67063",
           "author": "Nathan Yau",
