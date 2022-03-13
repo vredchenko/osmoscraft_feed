@@ -978,6 +978,16 @@
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
         {
+          "id": "http://www.i-programmer.info/i-programmer-weekly/238-i-programmer-weekly-2022/15279-march-week-1.html",
+          "author": null,
+          "description": "This weekly digest is an extended version of the newsletter emailed to subscribers every Wednesday. As well as listing the week's news items, it also includes the week's Book Review, additions to Book Watch and latest news from the I Programmer Library. Top of the list come the week's two feature articles.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/i-programmer-weekly/238-i-programmer-weekly-2022/15279-march-week-1.html",
+          "publishedOn": "2022-03-12T00:00:00.000Z",
+          "wordCount": 1337,
+          "title": "March Week 1",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.i-programmer.info/news/141-cloud-computing/15278-knative-joins-cncf.html",
           "author": null,
           "description": "Knative has been accepted into the Cloud Native Computing Foundation (CNCF) as an Incubating project. Knative is an open source project based on Kubernetes for building, deploying, and managing serverless workloads, and has become the most widely-installed serverless layer on Kubernetes.\n\r\n\nRead more...",
@@ -4763,6 +4773,206 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/why-use-a-bitcoin-atm?source=rss",
+          "author": "Anthony Watson",
+          "description": "It is a legitimate question, Why use a Bitcoin ATM anyway? The fees seem higher than on the exchanges. One reason is privacy",
+          "link": "https://hackernoon.com/why-use-a-bitcoin-atm?source=rss",
+          "publishedOn": "2022-03-12T14:50:11.000Z",
+          "wordCount": 2049,
+          "title": "Why Use a Bitcoin ATM?",
+          "imageUrl": "https://cdn.hackernoon.com/images/Y8OnbrBlePVzFHizwYeYKtHAbMn1-nj93hwx.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/signup-or-login-with-web30-wallet-to-hackernoon?source=rss",
+          "author": "Guy Torbet",
+          "description": "HackerNoon now supports logging in with your web3 ethereum wallet!",
+          "link": "https://hackernoon.com/signup-or-login-with-web30-wallet-to-hackernoon?source=rss",
+          "publishedOn": "2022-03-12T00:03:37.000Z",
+          "wordCount": 1527,
+          "title": "Signup or Login with Web3.0 Wallet to HackerNoon",
+          "imageUrl": "https://cdn.hackernoon.com/images/m1JWnUaHzSX3LPHoHfOainoiYvq2-jud30pd.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/defi-godfathers-andre-cronje-and-anton-nell-step-down-leaving-associated-tokens-in-freefall?source=rss",
+          "author": "Pete Boyle",
+          "description": "DeFi leaders Andre Cronje and senior solutions architect Antone Nell close their chapter in the crypto/defi space.",
+          "link": "https://hackernoon.com/defi-godfathers-andre-cronje-and-anton-nell-step-down-leaving-associated-tokens-in-freefall?source=rss",
+          "publishedOn": "2022-03-12T00:01:37.000Z",
+          "wordCount": 1599,
+          "title": "DeFi Godfathers Andre Cronje and Anton Nell Step Down, Leaving Associated Tokens in Freefall",
+          "imageUrl": "https://cdn.hackernoon.com/images/PqBokrbZnUh88uMPTuuAuDPfPi53-wm93lu2.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/blockchain-is-eating-the-world?source=rss",
+          "author": "Emmanuel Awosika",
+          "description": "Checking out these top blockchain applications and use-cases to see how blockchain technology is revolutionizing industries.",
+          "link": "https://hackernoon.com/blockchain-is-eating-the-world?source=rss",
+          "publishedOn": "2022-03-11T23:59:04.000Z",
+          "wordCount": 3044,
+          "title": "Blockchain Is Eating The World",
+          "imageUrl": "https://cdn.hackernoon.com/images/OrZsakIxdNbSXibciLwU48PzRMf1-mb93h7s.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/why-phone-malware-is-still-a-problem?source=rss",
+          "author": "Oliver Lynch",
+          "description": "Mobile malware has grown to be a $100 billion problem. From ad fraud to data theft, vulnerabilities in mobile SDKs present a challenged to app developers",
+          "link": "https://hackernoon.com/why-phone-malware-is-still-a-problem?source=rss",
+          "publishedOn": "2022-03-11T23:57:12.000Z",
+          "wordCount": 2217,
+          "title": "Why Phone Malware Is Still A Problem",
+          "imageUrl": "https://cdn.hackernoon.com/images/RKMlJx8lfbWMC35XuP6ocaanBzi1-90a3gzt.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/basics-of-aws-tags-and-terraform-with-s3-part-1?source=rss",
+          "author": "Tony Chan",
+          "description": "In this video course, you'll learn the basics of AWS tags and Terraform with an S3 bucket.",
+          "link": "https://hackernoon.com/basics-of-aws-tags-and-terraform-with-s3-part-1?source=rss",
+          "publishedOn": "2022-03-11T23:43:24.000Z",
+          "wordCount": 2273,
+          "title": "Basics of AWS Tags & Terraform with S3 - Part 1",
+          "imageUrl": "https://cdn.hackernoon.com/images/CAcAUp9L4Bb82B1TFYOaaBSjd322-2893fse.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/the-web3-games-blockchain-network-based-on-substrate?source=rss",
+          "author": "Daniel Jimenez",
+          "description": "The Substrate blockchain framework has made substantial progress in the development of the Web3 Gaming Blockchain with ParaState.",
+          "link": "https://hackernoon.com/the-web3-games-blockchain-network-based-on-substrate?source=rss",
+          "publishedOn": "2022-03-11T23:40:09.000Z",
+          "wordCount": 2414,
+          "title": "The Web3 Games Blockchain Network Based on Substrate",
+          "imageUrl": "https://cdn.hackernoon.com/images/C7LGfLlZs3OY2w0N7r4ePehwKBI2-yde3sjf.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/whats-happening-to-bitcoin-price-drop-and-forecasts-from-kyrrex?source=rss",
+          "author": "Viktor Kochetov",
+          "description": "Crypto-investors have recently expressed concern over the price fluctuations of Bitcoin. Please find below the Kyrrex forecasts on the present state of Bitcoin, the causes for price volatility, and expectations for future changes.",
+          "link": "https://hackernoon.com/whats-happening-to-bitcoin-price-drop-and-forecasts-from-kyrrex?source=rss",
+          "publishedOn": "2022-03-11T23:37:20.000Z",
+          "wordCount": 1800,
+          "title": "What's Happening to Bitcoin: Price Drop and Forecasts from Kyrrex",
+          "imageUrl": "https://cdn.hackernoon.com/images/mXwVFS9lzpVWurwagbOBqYhxuhR2-qw93ht4.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/the-basics-of-breakpoints-you-might-not-know?source=rss",
+          "author": "Shai Almog",
+          "description": "We work with debuggers practically every day & yet so much remains unknown. We’re operating this complex tool while using 4 or 5 basic features...",
+          "link": "https://hackernoon.com/the-basics-of-breakpoints-you-might-not-know?source=rss",
+          "publishedOn": "2022-03-11T23:36:07.000Z",
+          "wordCount": 2276,
+          "title": "The Basics of Breakpoints you Might not Know",
+          "imageUrl": "https://cdn.hackernoon.com/images/PVJZAra3SJb106HGMWMnMsiHUCk1-sth2it0.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/improving-customer-experience-through-personalization-with-predictive-analytics?source=rss",
+          "author": "Henry Bell",
+          "description": "The development of smartphone and computer technologies, and the internet in general, have influenced customers’ default behavior and expectations.",
+          "link": "https://hackernoon.com/improving-customer-experience-through-personalization-with-predictive-analytics?source=rss",
+          "publishedOn": "2022-03-11T23:31:57.000Z",
+          "wordCount": 3186,
+          "title": "Improving Customer Experience Through Personalization With Predictive Analytics",
+          "imageUrl": "https://cdn.hackernoon.com/images/hSkfFCG10faZYVY2eMa0Ekt3w2z1-4l93j32.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/blockchains-today-are-not-gaming-ready?source=rss",
+          "author": "Dan Stein",
+          "description": "Blockchain technology and online gaming are a match made in heaven. Period! But, in their current state, blockchains seem to have a bit of a problem.",
+          "link": "https://hackernoon.com/blockchains-today-are-not-gaming-ready?source=rss",
+          "publishedOn": "2022-03-11T23:26:37.000Z",
+          "wordCount": 2064,
+          "title": "Blockchains Today Are Not Gaming Ready",
+          "imageUrl": "https://cdn.hackernoon.com/images/Lskaa1YC56RnIMHMaWXVpPxLKHg2-cu93i8p.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/push-notifications-from-traffic-boost-to-an-integrated-marketing-solution?source=rss",
+          "author": "Adam Stieb",
+          "description": "Marketing Mix 2.0, or how to build the advertising experience of tomorrow through Push Notifications.",
+          "link": "https://hackernoon.com/push-notifications-from-traffic-boost-to-an-integrated-marketing-solution?source=rss",
+          "publishedOn": "2022-03-11T23:24:01.000Z",
+          "wordCount": 2417,
+          "title": "Push Notifications: From Traffic Boost to an Integrated Marketing Solution",
+          "imageUrl": "https://cdn.hackernoon.com/images/iwYYV1LriEaT7d6rN7rWN595K7w1-hn93ohh.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/10-features-where-coda-is-better-than-notion?source=rss",
+          "author": "Al Chen",
+          "description": "Notion vs. Coda: a look at 10 features in Coda that are better than Notion from the perspective of a Coda employee. This article has been updated for 2022.",
+          "link": "https://hackernoon.com/10-features-where-coda-is-better-than-notion?source=rss",
+          "publishedOn": "2022-03-11T23:18:06.000Z",
+          "wordCount": 5337,
+          "title": "10 Features Where Coda Is Better Than Notion",
+          "imageUrl": "https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-k293jul.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/joey-poareo-explains-how-blockchain-can-revolutionize-and-speed-up-scientific-innovation?source=rss",
+          "author": "Dan Stein",
+          "description": "Interview with Joey Poareo, co-founder at InuYasha, a decentralized incubator accelerator fund that uses uses DAO governance to speed up crypto projects.",
+          "link": "https://hackernoon.com/joey-poareo-explains-how-blockchain-can-revolutionize-and-speed-up-scientific-innovation?source=rss",
+          "publishedOn": "2022-03-11T23:12:47.000Z",
+          "wordCount": 1855,
+          "title": "Joey Poareo Explains How Blockchain Can Revolutionize and Speed Up Scientific Innovation",
+          "imageUrl": "https://cdn.hackernoon.com/images/Lskaa1YC56RnIMHMaWXVpPxLKHg2-b993h8j.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/manufacturing-robotization-drivers-and-barriers?source=rss",
+          "author": "Arthur",
+          "description": "By 2035, in the leading industrial robotics countries, factory productivity will grow by 40% and gross value added will double.",
+          "link": "https://hackernoon.com/manufacturing-robotization-drivers-and-barriers?source=rss",
+          "publishedOn": "2022-03-11T23:11:27.000Z",
+          "wordCount": 2128,
+          "title": "Manufacturing Robotization: Drivers and Barriers",
+          "imageUrl": "https://cdn.hackernoon.com/images/3nhao37bBEfHA9RTQ0WNVWfXPD02-cf93jrt.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/wanna-buy-nfts-heres-7-reasons-you-should?source=rss",
+          "author": "Alfredo de Candia",
+          "description": "Why do I have to invest and buy some NFTs? Let's explore some objective reasons to get an NFT!",
+          "link": "https://hackernoon.com/wanna-buy-nfts-heres-7-reasons-you-should?source=rss",
+          "publishedOn": "2022-03-11T23:09:49.000Z",
+          "wordCount": 2938,
+          "title": "Wanna Buy NFTs!? Here's 7 Reasons You Should!",
+          "imageUrl": "https://cdn.hackernoon.com/images/nxtWKMHuO1UKGUbmzmzTuQsBx4H2-kp93s37.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-weworks-implosion-turned-it-into-a-shell-of-its-initial-$47-billion-promise?source=rss",
+          "author": "Gennaro Cuofano",
+          "description": "Life is determined by a few key moments. That was the case when in 2016, Masa Son met Adam Neumann in the WeWork offices.",
+          "link": "https://hackernoon.com/how-weworks-implosion-turned-it-into-a-shell-of-its-initial-$47-billion-promise?source=rss",
+          "publishedOn": "2022-03-11T23:08:46.000Z",
+          "wordCount": 3640,
+          "title": "How WeWork's Implosion Turned it into a Shell of its Initial $47 Billion Promise",
+          "imageUrl": "https://cdn.hackernoon.com/images/U6g5S4clvAfPBkwpyb7K9m2l1xf2-2m93ju9.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/aols-demise-and-what-it-tells-us-about-the-end-of-the-first-mover-advantage?source=rss",
+          "author": "Gennaro Cuofano",
+          "description": "The story of the first-mover advantage, according to the early days of the Internet, the browsers' wars, and the search wars.",
+          "link": "https://hackernoon.com/aols-demise-and-what-it-tells-us-about-the-end-of-the-first-mover-advantage?source=rss",
+          "publishedOn": "2022-03-11T23:02:00.000Z",
+          "wordCount": 2965,
+          "title": "AOL's Demise and What it Tells Us About the End Of The First-Mover Advantage",
+          "imageUrl": "https://cdn.hackernoon.com/images/U6g5S4clvAfPBkwpyb7K9m2l1xf2-e693jqc.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/an-ai-that-can-resurrect-memories?source=rss",
+          "author": "Louis Bouchard",
+          "description": "Do you also have old pictures of yourself or close ones that didn’t age well or that you, or your parents, took before we could produce high-quality images? I do, and I felt like those memories were damaged forever. Boy, was I wrong!",
+          "link": "https://hackernoon.com/an-ai-that-can-resurrect-memories?source=rss",
+          "publishedOn": "2022-03-11T22:56:28.000Z",
+          "wordCount": 2582,
+          "title": "An AI That Can Resurrect Memories",
+          "imageUrl": "https://cdn.hackernoon.com/images/557oYHzCMLNnS8E8PEna6I86yN53-fk93jp6.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/i-was-wrong-about-burnout-and-you-are-probably-too?source=rss",
+          "author": "Vinita Bansal",
+          "description": "I vividly remember the day I read about Arianna Huffington, the founder and CEO of Thrive Global. She had collapsed from sleep deprivation and exhaustion, hit her head on the corner of her desk, broke her cheekbone and woke up in a pool of blood. I read the story many years later after it happened while working for a fast-growth startup feeling tired and exhausted from the daily demands and expectations from the job. I was someone who always prioritized my mental health and while I knew that I was nowhere close to being burnt out, the story left me with a trembling sensation, a feeling of fear and anxiety in that moment.",
+          "link": "https://hackernoon.com/i-was-wrong-about-burnout-and-you-are-probably-too?source=rss",
+          "publishedOn": "2022-03-11T22:54:49.000Z",
+          "wordCount": 3526,
+          "title": "I Was Wrong About Burnout and You are Probably Too",
+          "imageUrl": "https://cdn.hackernoon.com/images/6aqvE9BUBZWe8iOoQIq5MuJze9P2-k293hjv.jpeg"
+        },
         {
           "id": "https://hackernoon.com/foundersconnect-with-ben-eluan-co-founder-ceo-of-flux?source=rss",
           "author": "Peace Itimi | Founders Connect",
@@ -27527,6 +27737,76 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
+          "id": "https://hackaday.com/?p=526573",
+          "author": "Donald Papp",
+          "description": "Want to make a sweet adhesive decal with a complex design and floating elements, but all you have is a laser cutter and some tape? Good news, because that’s all …read more",
+          "link": "https://hackaday.com/2022/03/12/how-to-make-laser-cut-decals-on-the-cheap/",
+          "publishedOn": "2022-03-13T00:00:00.000Z",
+          "wordCount": 1240,
+          "title": "How To Make Laser-cut Decals On The Cheap",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/laser-cutter-tape-decal.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=526296",
+          "author": "Dave Rowntree",
+          "description": "A team from the Max Planck Institute for Intelligent Systems in Germany have developed a novel thumb-shaped touch sensor capable of resolving the force of a contact, as well as …read more",
+          "link": "https://hackaday.com/2022/03/12/a-soft-thumb-sized-vision-based-touch-sensor/",
+          "publishedOn": "2022-03-12T21:00:42.000Z",
+          "wordCount": 1259,
+          "title": "A Soft Thumb-Sized Vision-Based Touch Sensor",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/Snap-2022-03-11-at-20.57.55-featured.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=524712",
+          "author": "Kristina Panos",
+          "description": "Many people build cyberdecks just for the heck of it, and there’s nothing wrong with that at all. On the other hand, [cyzoonic]’s rugged ‘deck is a bit more purpose-built. …read more",
+          "link": "https://hackaday.com/2022/03/12/rugged-cyberdeck-makes-the-case-for-keeping-things-water-tight/",
+          "publishedOn": "2022-03-12T18:00:00.000Z",
+          "wordCount": 1622,
+          "title": "Rugged Cyberdeck Makes the Case for Keeping Things Water-Tight",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/rugged-cyberdeck-800.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=526550",
+          "author": "Elliot Williams",
+          "description": "I’m probably as guilty as anyone of reinventing the wheel for a subpart of a project. Heck, sometimes I just feel like working on a wheel design. But if that’s …read more",
+          "link": "https://hackaday.com/2022/03/12/make-it-compatible/",
+          "publishedOn": "2022-03-12T15:00:57.000Z",
+          "wordCount": 3203,
+          "title": "Make it Compatible",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2016/03/rf.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=526644",
+          "author": "Ryan Flowers",
+          "description": "“Modular” and “Computer” have historically been on the opposite ends of a rather awkward spectrum. One could argue that a hobbyist grade PC is modular, but only to a point. …read more",
+          "link": "https://hackaday.com/2022/03/12/modular-pockit-computer-is-more-than-meets-the-eye/",
+          "publishedOn": "2022-03-12T12:00:25.000Z",
+          "wordCount": 3618,
+          "title": "Modular Pockit Computer Is More Than Meets The Eye",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/modular-iot-computer-featured2.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=526504",
+          "author": "Lewin Day",
+          "description": "These days, if you don’t fancy watching morning TV, you can always get an update on the day’s weather from your smartphone, computer, or any one of a series of …read more",
+          "link": "https://hackaday.com/2022/03/12/build-yourself-a-weather-reporting-diorama/",
+          "publishedOn": "2022-03-12T09:00:14.000Z",
+          "wordCount": 1307,
+          "title": "Build Yourself a Weather-Reporting Diorama",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/Motorised-Weather-Machine-WeatherBot-_-3D-Printable-ESP32-OpenWeatherMap-1-42-screenshot.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=526502",
+          "author": "Lewin Day",
+          "description": "Sometimes we need to destroy documents before throwing them away for security reasons, and shredders are a primary way of achieving that. If you don’t have your own, you might …read more",
+          "link": "https://hackaday.com/2022/03/11/building-a-lego-paper-shredder/",
+          "publishedOn": "2022-03-12T06:00:55.000Z",
+          "wordCount": 1265,
+          "title": "Building a Lego Paper Shredder",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/Shredding-Paper-with-Lego-Gears-3-40-screenshot-1.png"
+        },
+        {
           "id": "https://hackaday.com/?p=526503",
           "author": "Lewin Day",
           "description": "According to [Garage Avenger], in Norwegian culture it’s considered impolite to ask for things to be passed across a dinner table, so much standing and reaching is the course of …read more",
@@ -37175,6 +37455,17 @@
       "feedUrl": "http://rss.sciam.com/scientificamerican-global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "3CD491D4-BB13-45A4-83EA602B7BF4AD95",
+          "author": null,
+          "description": "Letters to the editor from the November 2021 issue of Scientific American\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/readers-respond-to-the-november-2021-issue/",
+          "publishedOn": "2022-03-12T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Readers Respond to the November 2021 Issue",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "C6D6FDB9-C84A-4CF6-86F521DF9B958B7D",
           "author": "Arash Javanbakht, The Conversation US",
