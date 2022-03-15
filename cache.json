@@ -123,6 +123,16 @@
       "siteUrl": "https://goteleport.com/blog/",
       "articles": [
         {
+          "id": "https://goteleport.com/blog/shell-access-docker-container-with-ssh-and-docker-exec/",
+          "author": null,
+          "description": "SSH has always been the default mechanism to get remote shell access into a running Unix or Linux operating system from a terminal client to execute commands. While SSH is familiar, Docker provides more lightweight and easier-to-use methods that don’t require running your container with an SSH server. This post will explore two methods to get shell access into a Docker container using OpenSSH and the docker exec command.\nMethod 1: Docker shell using OpenSSH\nFirst, let’s look at how to enable SSH in a container. To enable SSH, the docker image must be pre-configured with an OpenSSH server. This means packaging the OpenSSH server beside your containerized application.\nFor a quick demo of sshing into a Docker container, you can check the docker image published by LinuxServer.io LinuxServer-Op…",
+          "link": "https://goteleport.com/blog/shell-access-docker-container-with-ssh-and-docker-exec/",
+          "publishedOn": "2022-03-14T00:00:00.000Z",
+          "wordCount": 1616,
+          "title": "SSH into Docker Container or Use Docker Exec?",
+          "imageUrl": "https://goteleport.com/blog/images/2022/contentlab/docker-ssh@2x.png"
+        },
+        {
           "id": "https://goteleport.com/blog/why-sso-sucks/",
           "author": null,
           "description": "A month ago I tweeted about my annoyance with SSO or Single Sign On. While single is in the name, I’m required to “single sign on” multiple times a day. I’m not the only one;  the tweet went viral with over 25k likes and 2 Million impressions. The tongue-in-check tweet created a lot of fun responses and more rage against SSO user experience than I expected. SSO was meant to solve password fatigue but we got something worse.\n\nTo provide an example, this is what it looks like on a daily basis if I want to login to Github.\nDuring this flow, I first login to Github, Tap my 2FA Token, then I’m required to login again using Okta, tap my MFA token, enter my password and then I’m into Github.\nSince Teleport uses Okta as an identity provider, there is an extra step for most apps.  As new employees …",
@@ -977,6 +987,46 @@
       "feedUrl": "https://www.i-programmer.info/index.php?option=com_ninjarsssyndicator&feed_id=3&format=raw",
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
+        {
+          "id": "http://www.i-programmer.info/programming/theory/15283-programmers-guide-to-theory-transcendental-numbers.html",
+          "author": null,
+          "description": "Computation and transcendental numbers don't seem much connected, but these are the numbers that are irrational and in principle the most difficult to compute. But there are important exceptions.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/programming/theory/15283-programmers-guide-to-theory-transcendental-numbers.html",
+          "publishedOn": "2022-03-14T19:08:13.000Z",
+          "wordCount": 1101,
+          "title": "Programmer's Guide To Theory - Transcendental Numbers",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/book-watch-archive/15281-javascript-three-tier-architectures-in-aws-with-react-node-and-mongodb-blue-sky-productions.html",
+          "author": null,
+          "description": "This book shows to utilize JavaScript to build a real world three-tier architecture that is hosted in AWS cloud platform services. Eric Bush looks at the fundamentals of a database tier, a services tier and how to build a UI tier web application, based on the three main frameworks of React, Node/Express and MongoDB. The book combines new content presented with plenty of depth and additional topics to form a single resource.\n\r\n<ASIN:0997196696>\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/book-watch-archive/15281-javascript-three-tier-architectures-in-aws-with-react-node-and-mongodb-blue-sky-productions.html",
+          "publishedOn": "2022-03-14T18:22:33.000Z",
+          "wordCount": 447,
+          "title": "JavaScript Three-Tier Architectures in AWS with React, Node and MongoDB (Blue Sky Productions)",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/news/112-theory/15280-pi-day-2022-its-irrational.html",
+          "author": null,
+          "description": "It's Pi day again! Well don't be so surprised - it comes round every 365 days give or take a day or so. Is there anything left to say after so many meditations on this most transcendental of numbers? Forget transcendental - this is irrational!\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/112-theory/15280-pi-day-2022-its-irrational.html",
+          "publishedOn": "2022-03-14T10:38:06.000Z",
+          "wordCount": 1333,
+          "title": "Pi Day 2022 - It's Irrational!!!",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/news/80-java/15282--azuls-cloud-native-compiler-why-share-the-jit-compiler.html",
+          "author": null,
+          "description": "Azul's Cloud Native Compiler is targeted at organizations with multiple dev teams who share a common environment. Instead of compiling on their local machines, the process is offloaded to a cloud that shares a JIT compiler. Why is that beneficial?\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/80-java/15282--azuls-cloud-native-compiler-why-share-the-jit-compiler.html",
+          "publishedOn": "2022-03-14T00:00:00.000Z",
+          "wordCount": 1452,
+          "title": "Azul's Cloud Native Compiler - Why Share The JIT Compiler?",
+          "imageUrl": null
+        },
         {
           "id": "http://www.i-programmer.info/news/82-heritage/13418-the-word-robot-invented-100-years-ago.html",
           "author": null,
@@ -4784,6 +4834,196 @@
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
         {
+          "id": "https://hackernoon.com/can-we-make-the-metaverse-more-inclusive?source=rss",
+          "author": "The Metaverse Insider",
+          "description": "While the metaverse promises entertaining experiences for users, its user landscape may be problematic in terms of inclusivity. We discuss!",
+          "link": "https://hackernoon.com/can-we-make-the-metaverse-more-inclusive?source=rss",
+          "publishedOn": "2022-03-14T09:35:06.000Z",
+          "wordCount": 2000,
+          "title": "Can we Make the Metaverse More Inclusive?",
+          "imageUrl": "https://cdn.hackernoon.com/images/wyLN3yhwtVaMAIlYJR1nlsHsErN2-4293j8g.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-debug-microservices-swiftly-and-efficiently-with-kubeorbit?source=rss",
+          "author": "Gordon Zeke",
+          "description": "KubeOrbit, a cloud-native platform, has made deploying environments and debugging easier than before.",
+          "link": "https://hackernoon.com/how-to-debug-microservices-swiftly-and-efficiently-with-kubeorbit?source=rss",
+          "publishedOn": "2022-03-14T09:25:40.000Z",
+          "wordCount": 1724,
+          "title": "How to Debug Microservices Swiftly and Efficiently with KubeOrbit",
+          "imageUrl": "https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-u8a3jr2.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/the-ultimate-ahrefs-guide-keyword-research-and-beating-your-competition?source=rss",
+          "author": "Karol Andruszków",
+          "description": "Want to defeat the competition in a clever yet effective way? Get to know how to take advantage of Ahrefs and take the first spot in SERP!",
+          "link": "https://hackernoon.com/the-ultimate-ahrefs-guide-keyword-research-and-beating-your-competition?source=rss",
+          "publishedOn": "2022-03-14T09:13:38.000Z",
+          "wordCount": 10625,
+          "title": "The Ultimate AHREFs Guide: Keyword Research and Beating Your Competition",
+          "imageUrl": "https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-wp93let.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/curators-will-play-a-major-role-in-fostering-art-nfts-heres-why?source=rss",
+          "author": "Monty Preston",
+          "description": "Why Curators will have a role to play in fostering art NFTs just as they do in the real-world's art galleries and art industry by helping both collectors.",
+          "link": "https://hackernoon.com/curators-will-play-a-major-role-in-fostering-art-nfts-heres-why?source=rss",
+          "publishedOn": "2022-03-14T09:07:39.000Z",
+          "wordCount": 2283,
+          "title": "Curators Will Play a Major Role in Fostering Art NFTs — Here’s Why",
+          "imageUrl": "https://cdn.hackernoon.com/images/C3Nw2pkrfiWyIlW5ZijkH6EyinE2-s893h6w.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/top-5-solana-nft-marketplaces-in-2022?source=rss",
+          "author": "Moonly - Upcoming NFT",
+          "description": "The 5 Best Solana NFT Marketplaces for a variety of applications.",
+          "link": "https://hackernoon.com/top-5-solana-nft-marketplaces-in-2022?source=rss",
+          "publishedOn": "2022-03-14T08:59:32.000Z",
+          "wordCount": 4772,
+          "title": "Top 5 Solana NFT Marketplaces in 2022",
+          "imageUrl": "https://cdn.hackernoon.com/images/aXLDRcJSXSeXipwqfzhSoBk38q52-f4e3kzd.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/independent-ethereum-staking-in-2022-and-how-to-tie-validators-to-beacon-nodes?source=rss",
+          "author": "Andrei Druta",
+          "description": "Independent staking is the gold standard of Ethereum staking. So today we investigate how to do it in 2way, simplifying validator and beacon nodes",
+          "link": "https://hackernoon.com/independent-ethereum-staking-in-2022-and-how-to-tie-validators-to-beacon-nodes?source=rss",
+          "publishedOn": "2022-03-14T08:45:37.000Z",
+          "wordCount": 3784,
+          "title": "Independent Ethereum Staking in 2022 and How to Tie Validators to Beacon Nodes",
+          "imageUrl": "https://cdn.hackernoon.com/images/3n4IUvlVNPONfxg0ffWfU3T70JI3-0o93l3w.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-find-jobs-in-the-web3-industry?source=rss",
+          "author": "Golem Foundation",
+          "description": "No experience with coding? No problem. There’s lots of room in web3. Here's a few tips for job searching in the space.",
+          "link": "https://hackernoon.com/how-to-find-jobs-in-the-web3-industry?source=rss",
+          "publishedOn": "2022-03-14T08:40:37.000Z",
+          "wordCount": 2843,
+          "title": "How to Find Jobs in the Web3 Industry",
+          "imageUrl": "https://cdn.hackernoon.com/images/1gXU03t5E4MEV2CvITPNPjUit0z2-0t93cwk.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/cryptocurrency-redefining-trust-and-money?source=rss",
+          "author": "Key Medium",
+          "description": "This article lays out a high-level outline of the building blocks of a revolutionary technology called cryptocurrency. Read on to find out about cryptocurrency",
+          "link": "https://hackernoon.com/cryptocurrency-redefining-trust-and-money?source=rss",
+          "publishedOn": "2022-03-14T08:34:56.000Z",
+          "wordCount": 4694,
+          "title": "Cryptocurrency: Redefining Trust and Money",
+          "imageUrl": "https://cdn.hackernoon.com/images/ZkGzwO4pAchr1hQuQa7YZqdZe2u1-8a93jl7.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/a-readyplayer1-peoples-meta-guideline-cyberverse-web4?source=rss",
+          "author": "Alex Paden",
+          "description": "An outline for what's required to build the accessible metaverse + pitch.",
+          "link": "https://hackernoon.com/a-readyplayer1-peoples-meta-guideline-cyberverse-web4?source=rss",
+          "publishedOn": "2022-03-14T03:11:20.000Z",
+          "wordCount": 5981,
+          "title": "A ReadyPlayer1 Peoples' Meta Guideline #cyberverse #web4",
+          "imageUrl": "https://cdn.hackernoon.com/images/tWZU17QNw7Qju7CE2ZJQSYwg3nl1-3793g95.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/keeping-your-sanity-amid-the-ukraine-crisis?source=rss",
+          "author": "Roxana Murariu",
+          "description": "We should consume information about the Russia - Ukraine war. Nevertheless, there are orders of magnitude between being informed and being tormented.",
+          "link": "https://hackernoon.com/keeping-your-sanity-amid-the-ukraine-crisis?source=rss",
+          "publishedOn": "2022-03-14T01:21:56.000Z",
+          "wordCount": 2781,
+          "title": "Keeping Your Sanity Amid the Ukraine Crisis",
+          "imageUrl": "https://cdn.hackernoon.com/images/h5C8TqlBPZgAJEaRCkDduZqoVSp1-wma3jel.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/cbdcs-are-a-very-bad-idea?source=rss",
+          "author": "Emmanuel Awosika",
+          "description": "Learn the risks that Central bank digital currencies (CBDCs) pose to your monetary freedom and privacy.",
+          "link": "https://hackernoon.com/cbdcs-are-a-very-bad-idea?source=rss",
+          "publishedOn": "2022-03-14T01:17:07.000Z",
+          "wordCount": 4990,
+          "title": "CBDCs Are A Very Bad Idea",
+          "imageUrl": "https://cdn.hackernoon.com/images/OrZsakIxdNbSXibciLwU48PzRMf1-zi93j99.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-protect-your-business-in-times-of-crisis?source=rss",
+          "author": "Scott D. Clary",
+          "description": "Protecting Your Business in Times of Crisis",
+          "link": "https://hackernoon.com/how-to-protect-your-business-in-times-of-crisis?source=rss",
+          "publishedOn": "2022-03-14T01:16:01.000Z",
+          "wordCount": 3632,
+          "title": "How to Protect Your Business in Times of Crisis",
+          "imageUrl": "https://cdn.hackernoon.com/fallback-feat.png"
+        },
+        {
+          "id": "https://hackernoon.com/a-complete-inventory-of-your-aws-footprint-in-5-minutes?source=rss",
+          "author": "AutoCloud",
+          "description": "Multi-cloud asset inventory for AWS, Azure, GCP.",
+          "link": "https://hackernoon.com/a-complete-inventory-of-your-aws-footprint-in-5-minutes?source=rss",
+          "publishedOn": "2022-03-14T01:14:28.000Z",
+          "wordCount": 2154,
+          "title": "A Complete Inventory of Your AWS Footprint in 5 Minutes",
+          "imageUrl": "https://cdn.hackernoon.com/images/inYqfEO5e8bPAi12uYQmGNEVE7s1-mya3jan.png"
+        },
+        {
+          "id": "https://hackernoon.com/behind-the-iron-curtain-impact-on-business-and-finance-interview-with-elena-obukhova-crypto-expert?source=rss",
+          "author": "Elena Obukhova",
+          "description": "Interview with Elena Obukhova explaining how the situation in Russia can affect the world economy. Brands and talents are on the run, crypto is at a high demand",
+          "link": "https://hackernoon.com/behind-the-iron-curtain-impact-on-business-and-finance-interview-with-elena-obukhova-crypto-expert?source=rss",
+          "publishedOn": "2022-03-14T01:11:15.000Z",
+          "wordCount": 2364,
+          "title": "Behind The Iron Curtain: Impact on Business & Finance. Interview with Elena Obukhova, Crypto Expert",
+          "imageUrl": "https://cdn.hackernoon.com/images/oQ9OCKk50pVg7mdDY84cm8fXJru2-2i93j3f.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/your-website-could-be-vulnerable-because-of-these-7-php-mistakes?source=rss",
+          "author": "SmartScanner",
+          "description": "Make these mistakes and hackers will attack your web application using Cross Site Scripting, SQL Injection, Path Traversal, and other attacks to take over your website.",
+          "link": "https://hackernoon.com/your-website-could-be-vulnerable-because-of-these-7-php-mistakes?source=rss",
+          "publishedOn": "2022-03-14T01:08:50.000Z",
+          "wordCount": 1949,
+          "title": "Your Website Could be Vulnerable Because of These 7 PHP Mistakes",
+          "imageUrl": "https://cdn.hackernoon.com/images/96K2x0eTswTFYtApO1Ckp0eukpf2-ln93lsw.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/optim-finance-is-bringing-single-asset-vaults-and-staking-to-ardanas-dusd-stablecoin-on-cardano?source=rss",
+          "author": "Ishan Pandey",
+          "description": "Ardana’s on-chain asset-backed stablecoin is integrating with yield aggregation protocol to provide a DeFi suite to users on Cardano.",
+          "link": "https://hackernoon.com/optim-finance-is-bringing-single-asset-vaults-and-staking-to-ardanas-dusd-stablecoin-on-cardano?source=rss",
+          "publishedOn": "2022-03-14T01:05:56.000Z",
+          "wordCount": 3528,
+          "title": "Optim Finance is Bringing Single Asset Vaults and Staking to Ardana's dUSD Stablecoin on Cardano",
+          "imageUrl": "https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-4193p8u.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/my-top-5-best-practices-for-reactjs?source=rss",
+          "author": "Sachin Chaurasiya",
+          "description": "Howdy people, In this article we will be discussing the 5 best ReactJs practices that will help you simplify the building of great and high-performance ...",
+          "link": "https://hackernoon.com/my-top-5-best-practices-for-reactjs?source=rss",
+          "publishedOn": "2022-03-14T00:18:47.000Z",
+          "wordCount": 1750,
+          "title": "My Top 5 Best Practices for ReactJs",
+          "imageUrl": "https://cdn.hackernoon.com/images/QepJZAyLUDcMpCXcZjnWeHJM7ad2-8893jy9.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/cache-api-calls-in-javascript-by-memoizing-promises?source=rss",
+          "author": "Aldrin",
+          "description": "Cache API Calls in JavaScript by Memoizing Promises. Store promises in a map with unique key, if the same API is called with the same params, serve from cache.",
+          "link": "https://hackernoon.com/cache-api-calls-in-javascript-by-memoizing-promises?source=rss",
+          "publishedOn": "2022-03-14T00:13:17.000Z",
+          "wordCount": 2008,
+          "title": "Cache API Calls in JavaScript by Memoizing Promises",
+          "imageUrl": "https://cdn.hackernoon.com/images/LS4jODyL80XxRQqlj5xuTxfWPNt1-a793tb5.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/javascript-cheatsheet-spread-operators?source=rss",
+          "author": "Mohammed",
+          "description": "This Javascript Cheatsheet for Spread Operators explains the use case scenarios and the basic concepts behind Spread Operators when coding in Javascript.",
+          "link": "https://hackernoon.com/javascript-cheatsheet-spread-operators?source=rss",
+          "publishedOn": "2022-03-14T00:12:34.000Z",
+          "wordCount": 1803,
+          "title": "Javascript Cheatsheet: Spread Operators",
+          "imageUrl": "https://cdn.hackernoon.com/images/CgwKts4sVugksXLr8a82EIIKfpB2-ub93jhm.png"
+        },
+        {
           "id": "https://hackernoon.com/how-to-choose-the-right-virtual-event-software-for-your-event?source=rss",
           "author": "Kaylee Johnson",
           "description": "Virtual Events have become every organization’s preferred method of hosting events. The number of virtual events has significantly increased in the last two years, and now even people have adapted to this method of attending events.",
@@ -5622,6 +5862,16 @@
           "wordCount": 2194,
           "title": "Papa Johns is Making NFTs Mainstream with its NFT Collection Launch for Pizza Lovers",
           "imageUrl": "https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-dsd3pyp.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/7-ways-to-improve-internal-communication-to-foster-better-corporate-culture?source=rss",
+          "author": "Pawan Kumar",
+          "description": "Here are some of the best practices for developing an internal communication strategy that makes sense for your organization.",
+          "link": "https://hackernoon.com/7-ways-to-improve-internal-communication-to-foster-better-corporate-culture?source=rss",
+          "publishedOn": "2022-03-08T14:06:22.000Z",
+          "wordCount": 2000,
+          "title": "7 Ways to Improve Internal Communication to Foster Better Corporate Culture",
+          "imageUrl": "https://cdn.hackernoon.com/images/7skvMoTLQPTuwU5MRJrEZ31wECq2-9093hsh.jpeg"
         },
         {
           "id": "https://hackernoon.com/what-is-the-ariane-5-disaster-the-worst-computer-bugs-in-history-series?source=rss",
@@ -27798,6 +28048,76 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
+          "id": "https://hackaday.com/?p=526767",
+          "author": "Arsenijs Picugins",
+          "description": "It’s not enough to 3D-print a part – there’s a myriad of things you can do from there! [FuzzyLogic] shows us his approach of adding inlay labels, icons and text …read more",
+          "link": "https://hackaday.com/2022/03/14/brighten-up-your-prints-with-this-nail-polish-approach/",
+          "publishedOn": "2022-03-14T23:00:24.000Z",
+          "wordCount": 1088,
+          "title": "Brighten Up Your Prints With This Nail Polish Approach",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/hadimg_3dpinlay_nailpolish_feat.jpeg"
+        },
+        {
+          "id": "https://hackaday.com/?p=526895",
+          "author": "Arsenijs Picugins",
+          "description": "If you’re among those of us with immediate plans for a PCB or parts order from China, watch out – Shenzhen just recently got put on a week-long lockdown. Factories, …read more",
+          "link": "https://hackaday.com/2022/03/14/hackers-beware-shenzhen-is-closing/",
+          "publishedOn": "2022-03-14T20:30:19.000Z",
+          "wordCount": 2056,
+          "title": "Hackers Beware: Shenzhen Is Closing",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/shenzhen-closing-featured.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=526126",
+          "author": "Tom Nardi",
+          "description": "As you might expect, the release of last year’s Ghostbusters: Afterlife has not only lead to renewed interest in the old 1980s toys and tie-in merchandise, but has spawned a …read more",
+          "link": "https://hackaday.com/2022/03/14/cheap-ghostbusters-toy-turned-convincing-prop/",
+          "publishedOn": "2022-03-14T18:30:35.000Z",
+          "wordCount": 1300,
+          "title": "Cheap Ghostbusters Toy Turned Convincing Prop",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/pkeprop_feat.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=524557&preview=true&preview_id=524557",
+          "author": "Kristina Panos",
+          "description": "About a month ago, [Unexpected Maker] finished their TinyS3, an ESP32-S3 development board. Since the chip supports both true USB and Bluetooth, [deʃhipu] wondered how well it would work in …read more",
+          "link": "https://hackaday.com/2022/03/14/keebin-with-kristina-the-one-with-the-really-tall-keycaps/",
+          "publishedOn": "2022-03-14T17:00:47.000Z",
+          "wordCount": 2321,
+          "title": "Keebin’ with Kristina: the One with the Really Tall Keycaps",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2021/07/Keebin.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=526483&preview=true&preview_id=526483",
+          "author": "Dan Maloney",
+          "description": "Join us on Wednesday, March 16 at noon Pacific for the Open Source ASICs Hack Chat with Matt Venn! When it comes to electronic designs, most of us are content …read more",
+          "link": "https://hackaday.com/2022/03/14/open-source-asics-hack-chat-with-matt-venn/",
+          "publishedOn": "2022-03-14T16:00:14.000Z",
+          "wordCount": 1203,
+          "title": "Open Source ASICs Hack Chat with Matt Venn",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/asic.jpeg"
+        },
+        {
+          "id": "https://hackaday.com/?p=526701",
+          "author": "Bryan Cockfield",
+          "description": "Coin cells are great for backup power for things like real-time clocks, or even for powering incredibly small mechanical devices like watches. But for something like a data logger, running …read more",
+          "link": "https://hackaday.com/2022/03/14/careful-cuts-lets-logger-last-a-year-on-a-coin-cell/",
+          "publishedOn": "2022-03-14T15:30:22.000Z",
+          "wordCount": 1560,
+          "title": "Careful Cuts Lets Logger Last a Year On A Coin Cell",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/datalogger-main.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=526369",
+          "author": "Lewin Day",
+          "description": "Scientists estimate that approximately 900 species have gone extinct in the last five centuries alone, to say nothing of the thousands or millions that vanished from life in the billions …read more",
+          "link": "https://hackaday.com/2022/03/14/the-tasmanian-tigers-comeback-tour-powered-by-science/",
+          "publishedOn": "2022-03-14T14:00:14.000Z",
+          "wordCount": 2855,
+          "title": "The Tasmanian Tiger’s Comeback Tour, Powered By Science",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/TasmanianTiger.jpg"
+        },
+        {
           "id": "https://hackaday.com/?p=526141&preview=true&preview_id=526141",
           "author": "Dan Maloney",
           "description": "As Russia’s war on Ukraine drags on, its knock-on effects are being felt far beyond the eastern Europe theater. And perhaps nowhere is this more acutely felt than in the …read more",
@@ -37587,6 +37907,72 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "5C74A355-416C-405F-A7F831459C395748",
+          "author": "Naomi Oreskes",
+          "description": "People should be skeptical of big claims based on only one study and dig a little deeper\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/popular-health-claims-such-as-a-womans-fertility-dropping-at-age-30-are-wildly-overblown/",
+          "publishedOn": "2022-03-14T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Popular Health Claims, Such as a Woman's Fertility Dropping at Age 30, Are Wildly Overblown",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "E6457A6D-D942-45E1-A757C2120F4ED1B4",
+          "author": "The Editors",
+          "description": "Health security is as important to a nation as a standing army\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/contagions-worse-than-covid-will-prevail-if-neglect-of-global-public-health-continues/",
+          "publishedOn": "2022-03-14T18:00:00.000Z",
+          "wordCount": null,
+          "title": "Contagions Worse Than COVID Will Prevail If Neglect of Global Public Health Continues",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "0CDAF61F-41B6-4526-B0D29CD9A8C0BCCA",
+          "author": "Chelsea Harvey, E&E News",
+          "description": "Experts worry tensions could spill into the polar region and potentially affect science and security\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/russias-war-in-ukraine-sends-tremors-into-the-arctic/",
+          "publishedOn": "2022-03-14T17:30:00.000Z",
+          "wordCount": null,
+          "title": "Russia's War in Ukraine Sends Tremors into the Arctic",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "804AAB7F-30A0-4357-931C862AB7EA3C10",
+          "author": "Nadia Drake",
+          "description": "More than 100 employees at NASA’s Goddard Space Flight Center were surprised when a test project allowing them to add their pronouns to their agency identifiers was abruptly canceled\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/nasa-criticized-for-ending-pronoun-project/",
+          "publishedOn": "2022-03-14T15:40:00.000Z",
+          "wordCount": null,
+          "title": "NASA Criticized for Ending Pronoun Project",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "D293B11A-8294-4571-9A041DED02771526",
+          "author": "Tanya Lewis",
+          "description": "Historians of the 1918 influenza pandemic discuss lessons for what the future of COVID might look like\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/people-not-science-decide-when-a-pandemic-is-over/",
+          "publishedOn": "2022-03-14T10:45:00.000Z",
+          "wordCount": null,
+          "title": "People, Not Science, Decide When a Pandemic Is Over",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "A3CA4C7D-6BEC-4B06-8BFC5F5B4C29E81C",
+          "author": "Alissa S. Crans",
+          "description": "While you savor that apple or key lime pie, consider the many ways math influences our lives\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/math-is-more-than-just-numbers-celebrate-pi-day-a-different-way1/",
+          "publishedOn": "2022-03-14T09:00:00.000Z",
+          "wordCount": null,
+          "title": "Math Is More Than Just Numbers: Celebrate Pi Day a Different Way",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "3CD491D4-BB13-45A4-83EA602B7BF4AD95",
           "author": null,
           "description": "Letters to the editor from the November 2021 issue of Scientific American\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -37594,6 +37980,17 @@
           "publishedOn": "2022-03-12T14:00:00.000Z",
           "wordCount": null,
           "title": "Readers Respond to the November 2021 Issue",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "C6D6FDB9-C84A-4CF6-86F521DF9B958B7D",
+          "author": "Arash Javanbakht, The Conversation US",
+          "description": "A psychiatrist who specializes in PTSD and stress describes the trauma that war survivors and refugees commonly experience\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/ukrainians-face-lasting-psychological-wounds-from-russian-invasion1/",
+          "publishedOn": "2022-03-11T20:30:00.000Z",
+          "wordCount": null,
+          "title": "Ukrainians Face Lasting Psychological Wounds from Russian Invasion",
           "itunes": {},
           "imageUrl": null
         },
@@ -45576,6 +45973,46 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=150679",
+          "author": "Mike Vizard",
+          "description": "ServiceNow added an incident management platform based on the Lightstep observability platform it acquired last year to its software-as-a-service (SaaS) portfolio. Ben Sigelman, general manager of Lightstep at ServiceNow, said Lightstep Incident Response gives DevOps teams access to observability tools that, via a self-service portal, enable them to determine the root cause of any incident […]\nThe post ServiceNow Launches Incident Management Platform Infused with Observability appeared first on DevOps.com.",
+          "link": "https://devops.com/servicenow-launches-incident-management-platform-infused-with-observability/",
+          "publishedOn": "2022-03-14T13:00:57.000Z",
+          "wordCount": 1012,
+          "title": "ServiceNow Launches Incident Management Platform Infused with Observability",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/11/greenlight.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150669",
+          "author": "Mike Vizard",
+          "description": "A survey of IT leaders by the market research firm Global Surveyz found a full 100% of respondents are modernizing their mainframe applications, but the reasons behind and approaches to achieving that goal vary widely. The research was conducted on behalf of Model9, a provider of tools for migrating mainframe data, and polled 100 companies […]\nThe post Survey Finds Widespread Adoption of DevOps in Mainframe Sites appeared first on DevOps.com.",
+          "link": "https://devops.com/survey-finds-widespread-adoption-of-devops-in-mainframe-sites/",
+          "publishedOn": "2022-03-14T12:30:56.000Z",
+          "wordCount": 1032,
+          "title": "Survey Finds Widespread Adoption of DevOps in Mainframe Sites",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/10/mainframe.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150610",
+          "author": "Thomas LaRock",
+          "description": "The implementation and successful execution of IT initiatives often comes down to developers. From those working with commercial vendors to those working with open source projects, cloud-based software-as-a-service (SaaS) solutions, managed service providers (MSPs) and internal teams, they all play an important role in the successful running of IT and operations teams. One challenge developer and […]\nThe post Tackling CostOps When You’re a Developer appeared first on DevOps.com.",
+          "link": "https://devops.com/tackling-costops-when-youre-a-developer/",
+          "publishedOn": "2022-03-14T12:00:09.000Z",
+          "wordCount": 961,
+          "title": "Tackling CostOps When You’re a Developer",
+          "imageUrl": "https://devops.com/wp-content/uploads/2022/02/software-developer-ge1c75cd5f_1280-e1643805570358.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150676",
+          "author": "ROELBOB",
+          "description": "The post Ideas and Inspiration appeared first on DevOps.com.",
+          "link": "https://devops.com/ideas-and-inspiration/",
+          "publishedOn": "2022-03-14T06:00:05.000Z",
+          "wordCount": 417,
+          "title": "Ideas and Inspiration",
+          "imageUrl": "https://devops.com/wp-content/uploads/2022/03/indeas-n-inspiration.jpg"
+        },
+        {
           "id": "https://devops.com/?p=150645",
           "author": "DevOps Staff",
           "description": "While traditional development practices have long separated security and compliance, DevSecOps as a series of best practices integrates security into every phase of the DevOps software development life cycle. DevSecOps introduces and automates security in the earlier phases of the software development life cycle rather than bolting it on at the end. The approach saves […]\nThe post What is DevSecOps? appeared first on DevOps.com.",
@@ -49316,6 +49753,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=113186",
+          "author": "Charlie Wood",
+          "description": "Dwarf galaxies weren’t supposed to have big black holes. Their surprise discovery has revealed clues about how the universe’s biggest black holes could have formed.            \nThe post Tiny Galaxies Reveal Secrets of Supermassive Black Holes first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/tiny-galaxies-reveal-secrets-of-supermassive-black-holes-20220314/",
+          "publishedOn": "2022-03-14T11:42:45.000Z",
+          "wordCount": 1902,
+          "title": "Tiny Galaxies Reveal Secrets of Supermassive Black Holes",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/Supermassive-_Dwafs_1200_Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=113152",
           "author": "Stephen Ornes",
           "description": "A simple algorithm that revolutionizes how neural networks approach language is now taking on image classification as well. It may not stop there.            \nThe post Will Transformers Take Over Artificial Intelligence? first appeared on Quanta Magazine",
@@ -50160,6 +50607,16 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=67106",
+          "author": "Nathan Yau",
+          "description": "To broadly show how people have lived in the U.S. during these past…\nTags: coronavirus, pandemic, Washington Post",
+          "link": "https://flowingdata.com/2022/03/14/percentage-breakdowns-of-pandemic-life/",
+          "publishedOn": "2022-03-14T09:08:05.000Z",
+          "wordCount": 294,
+          "title": "Percentage breakdowns of pandemic life",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/03/Did-you-work-from-home.png"
+        },
         {
           "id": "https://flowingdata.com/?p=67090",
           "author": "Nathan Yau",
