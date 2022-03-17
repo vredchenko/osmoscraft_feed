@@ -123,6 +123,16 @@
       "siteUrl": "https://goteleport.com/blog/",
       "articles": [
         {
+          "id": "https://goteleport.com/blog/authorization-vulnerabilities/",
+          "author": null,
+          "description": "Authorization vulnerabilities allow malicious users to perform unwanted actions or access resources that are deemed protected otherwise. Authorization vulnerabilities are one of the most widely found vulnerabilities in web applications. The OWASP top 10 list of web application security risks listed broken access control vulnerabilities as the number one risk in 2021, so understanding authorization vulnerabilities is an important topic for application security engineers.\nIf you are new to access controls, read our previous blog on authentication vs. authorization, common authentication vulnerabilities, and best practices to prevent authentication vulnerabilities.\nBefore we dive into authorization vulnerabilities, let’s first explore privileges further since most of the vulnerabilities relat…",
+          "link": "https://goteleport.com/blog/authorization-vulnerabilities/",
+          "publishedOn": "2022-03-16T00:00:00.000Z",
+          "wordCount": 2069,
+          "title": "Most Common Authorization Vulnerabilities",
+          "imageUrl": "https://goteleport.com/blog/images/2022/security-threats-authorization@2x.png"
+        },
+        {
           "id": "https://goteleport.com/blog/shell-access-docker-container-with-ssh-and-docker-exec/",
           "author": null,
           "description": "SSH has always been the default mechanism to get remote shell access into a running Unix or Linux operating system from a terminal client to execute commands. While SSH is familiar, Docker provides more lightweight and easier-to-use methods that don’t require running your container with an SSH server. This post will explore two methods to get shell access into a Docker container using OpenSSH and the docker exec command.\nMethod 1: Docker shell using OpenSSH\nFirst, let’s look at how to enable SSH in a container. To enable SSH, the docker image must be pre-configured with an OpenSSH server. This means packaging the OpenSSH server beside your containerized application.\nFor a quick demo of sshing into a Docker container, you can check the docker image published by LinuxServer.io LinuxServer-Op…",
@@ -970,15 +980,6 @@
           "publishedOn": "2021-03-25T00:00:00.000Z",
           "wordCount": 3977,
           "title": "CSRF Attack Examples and Mitigations"
-        },
-        {
-          "id": "https://goteleport.com/blog/introducing-database-access/",
-          "author": null,
-          "description": "If you have PostgreSQL or MySQL databases running behind NAT in multiple environments,\nthis release of Teleport is worth downloading and playing with.\nIn this release, we added support for the PostgreSQL and MySQL wire protocols, so now Teleport\nusers get the following streamlined workflow:\nAuthenticate with their identities via single sign-on (SSO) and multi-factor.\nList and see all database instances running somewhere behind NAT, including\nAWS RDS or Aurora.\nGet instant access to them using CLI tools like psql, mysql, or Web UIs.\nMeanwhile, Teleport ensures industry best practices for:\nConsolidating management of access requests\nImplementing role-based access controls\nPreventing data exfiltration\nImproving visibility into user behavior\nAuditing all activity\n\n\n\nAll of this works across yo…",
-          "link": "https://goteleport.com/blog/introducing-database-access/",
-          "publishedOn": "2021-03-17T00:00:00.000Z",
-          "wordCount": 1281,
-          "title": "Teleport 6.0 Brings Identity-Aware Access to Databases Behind NAT"
         }
       ]
     },
@@ -988,6 +989,36 @@
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
         {
+          "id": "http://www.i-programmer.info/book-watch-archive/15290-real-world-nextjs-packt.html",
+          "author": null,
+          "description": "Starting with the basics of Next.js, this book demonstrates how the framework can help developers reach their goals. Michele Riva shows the versatility of Next.js by building real-world applications with step-by-step explanations. The book looks at how to choose the right rendering methodology for websites, securing it, and deploying it to different providers, all while focusing on performance and developer happiness.\n\r\n<ASIN:180107349X>\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/book-watch-archive/15290-real-world-nextjs-packt.html",
+          "publishedOn": "2022-03-16T15:02:16.000Z",
+          "wordCount": 517,
+          "title": "Real-World Next.js (Packt)",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/news/90-tools/15286-edge-developer-tools-for-visual-studio-now-in-preview.html",
+          "author": null,
+          "description": "Microsoft has announced a preview of Visual Studio for ASP.NET and ASP.NET core containing integrated Edge developer tools.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/90-tools/15286-edge-developer-tools-for-visual-studio-now-in-preview.html",
+          "publishedOn": "2022-03-16T00:00:00.000Z",
+          "wordCount": 674,
+          "title": "Edge Developer Tools For Visual Studio Now In Preview",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/news/150-training-a-education/15289-what-makes-learning-a-new-language-difficult.html",
+          "author": null,
+          "description": "So you know language x and you think that there is a good reason to try language y. Surely the switch should be easy - after all, programming languages are all the same, right? New research suggests that there are problems.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/150-training-a-education/15289-what-makes-learning-a-new-language-difficult.html",
+          "publishedOn": "2022-03-16T00:00:00.000Z",
+          "wordCount": 1132,
+          "title": "What Makes Learning A New Language Difficult",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.i-programmer.info/news/80-java/15284-making-graalvm-based-executables-easy.html",
           "author": null,
           "description": "Liberica Native Image Kit is a utility for making native images for the JVM, letting you compile applications to executables using the GraalVM native-image compiler.\n\r\n\nRead more...",
@@ -995,6 +1026,16 @@
           "publishedOn": "2022-03-15T16:11:55.000Z",
           "wordCount": 916,
           "title": "Making GraalVM-Based Executables Easy",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/bookreviews/62-python/15288-python-distilled.html",
+          "author": null,
+          "description": "Author: David Beazley\nPublisher: Addison-Wesley\nDate: September 2021\nPages: 352\nISBN: 978-0134173276\nPrint: 0134173279\nRating: 4\nReviewer: Alex Armstrong\nPython isn't a big language but it's getting bigger all the time.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/bookreviews/62-python/15288-python-distilled.html",
+          "publishedOn": "2022-03-15T07:45:56.000Z",
+          "wordCount": 1157,
+          "title": "Python Distilled",
           "imageUrl": null
         },
         {
@@ -4864,6 +4905,136 @@
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
         {
+          "id": "https://hackernoon.com/saas-pricing-localization-how-to-do-it-the-right-way?source=rss",
+          "author": "ChartMogul",
+          "description": "One way your pricing can change as your company evolves is by using multi-currency pricing. Here’s what you need to know about SaaS pricing localization.",
+          "link": "https://hackernoon.com/saas-pricing-localization-how-to-do-it-the-right-way?source=rss",
+          "publishedOn": "2022-03-16T13:45:32.000Z",
+          "wordCount": 3369,
+          "title": "SaaS Pricing Localization: How to Do It the Right Way",
+          "imageUrl": "https://cdn.hackernoon.com/images/D7iB4iTOHyaFEVCL0l1uPlKRMsS2-7093i36.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/a-no-code-diy-setting-up-an-ivr-virtual-assistant?source=rss",
+          "author": "Plivo",
+          "description": "Plivo, a cloud communications platform and a popular alternative to Twilio, provides a software tool that lets you easily build IVR menus using PHLO.",
+          "link": "https://hackernoon.com/a-no-code-diy-setting-up-an-ivr-virtual-assistant?source=rss",
+          "publishedOn": "2022-03-16T13:06:49.000Z",
+          "wordCount": 1967,
+          "title": "A No-Code DIY: Setting Up an IVR Virtual Assistant",
+          "imageUrl": "https://cdn.hackernoon.com/images/fBrG3kzr9Fgwc2vTonctd5hmnHC3-s5h3jrj.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/in-sprint-automation-how-to-increase-software-testing-speed?source=rss",
+          "author": "Katalon",
+          "description": "Read on to learn about in-sprint automation and why it’s the key to moving at DevOps speed.",
+          "link": "https://hackernoon.com/in-sprint-automation-how-to-increase-software-testing-speed?source=rss",
+          "publishedOn": "2022-03-16T12:55:04.000Z",
+          "wordCount": 2104,
+          "title": "In-Sprint Automation: How to Increase Software Testing Speed",
+          "imageUrl": "https://cdn.hackernoon.com/images/q4JmpLxJmpe4eNkyo0m1jfxQPft2-np93id8.png"
+        },
+        {
+          "id": "https://hackernoon.com/advanced-topic-modeling-tutorial-how-to-use-svd-and-nmf-in-python-to-find-topics-in-text?source=rss",
+          "author": "Bala Priya C",
+          "description": "In NLP, Topic Modeling is an unsupervised learning problem that finds abstract topics in a text corpus. Learn to use SVD and NMF in Python for topic modeling.",
+          "link": "https://hackernoon.com/advanced-topic-modeling-tutorial-how-to-use-svd-and-nmf-in-python-to-find-topics-in-text?source=rss",
+          "publishedOn": "2022-03-16T10:16:16.000Z",
+          "wordCount": 3421,
+          "title": "Advanced Topic Modeling Tutorial: How to Use SVD & NMF in Python",
+          "imageUrl": "https://cdn.hackernoon.com/images/BYWRsHWtmGOUC5N4fwNhMqohMAC3-hx93jo0.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/whats-the-best-motivation-strategy?source=rss",
+          "author": "Sara Pinto",
+          "description": "Startups aren't only built by ideas. There have to be motivated employees. In this slogging thread, the startup hustle community shared motivation strategies.",
+          "link": "https://hackernoon.com/whats-the-best-motivation-strategy?source=rss",
+          "publishedOn": "2022-03-16T09:55:05.000Z",
+          "wordCount": 2169,
+          "title": "What's the Best Motivation Strategy?",
+          "imageUrl": "https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-2a93hq6.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/explore-different-ways-you-can-use-data-visualization-to-help-your-nonprofit?source=rss",
+          "author": "TechSoup",
+          "description": "Data Visualization can be a crucial tool for your nonprofit. Figure out when to use and how to use it to improve your organization.",
+          "link": "https://hackernoon.com/explore-different-ways-you-can-use-data-visualization-to-help-your-nonprofit?source=rss",
+          "publishedOn": "2022-03-16T03:54:58.000Z",
+          "wordCount": 3160,
+          "title": "Explore Different Ways You Can Use Data Visualization to Help Your Nonprofit",
+          "imageUrl": "https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-nf93wdb.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/will-the-us-government-do-anything-about-mortgage-rate-discrimination?source=rss",
+          "author": "The Markup",
+          "description": "The new multi-agency effort will increase government analyses of lending patterns with an eye toward fair lending.",
+          "link": "https://hackernoon.com/will-the-us-government-do-anything-about-mortgage-rate-discrimination?source=rss",
+          "publishedOn": "2022-03-16T03:48:52.000Z",
+          "wordCount": 2021,
+          "title": "Will the U.S. Government do Anything About Mortgage Rate Discrimination?",
+          "imageUrl": "https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-fj93wh7.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/web-30-and-the-metaverse-walk-into-a-bar?source=rss",
+          "author": "Julie Plavnik",
+          "description": "Do they have anything to do with all of this intergalactic hype around blockchain and decentralization?",
+          "link": "https://hackernoon.com/web-30-and-the-metaverse-walk-into-a-bar?source=rss",
+          "publishedOn": "2022-03-16T03:22:46.000Z",
+          "wordCount": 5198,
+          "title": "Web 3.0 and the Metaverse Walk Into a Bar...",
+          "imageUrl": "https://cdn.hackernoon.com/images/H5b61iv70lcwR5kPjl8mHEHsDAv2-sja3jf4.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/social-media-networks-are-coming-to-the-blockchain?source=rss",
+          "author": "Emmanuel Awosika",
+          "description": "Learn what decentralized social media networks mean, how they work, and what benefits they offer to users.",
+          "link": "https://hackernoon.com/social-media-networks-are-coming-to-the-blockchain?source=rss",
+          "publishedOn": "2022-03-16T02:20:40.000Z",
+          "wordCount": 4602,
+          "title": "Social Media Networks are Coming to the Blockchain",
+          "imageUrl": "https://cdn.hackernoon.com/images/OrZsakIxdNbSXibciLwU48PzRMf1-lp93j1u.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/what-it-feels-like-to-close-two-marketing-campaigns-on-the-same-day?source=rss",
+          "author": "Ellen Stevens",
+          "description": "Look, I may be a little biased, but I think HackerNoon has one of the best selections of humans working for them in the whole world (literally, we're remote).",
+          "link": "https://hackernoon.com/what-it-feels-like-to-close-two-marketing-campaigns-on-the-same-day?source=rss",
+          "publishedOn": "2022-03-16T00:23:07.000Z",
+          "wordCount": 2114,
+          "title": "What It Feels Like to Close Two Marketing Campaigns on the Same Day",
+          "imageUrl": "https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-iab3w51.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/deployment-choice-code-promotion-vs-artifact-promotion?source=rss",
+          "author": "Vinay Kanamarlapudi",
+          "description": "When it comes to deployment, a choice must be made. Find out what's the difference in code promotion and artifact promotion",
+          "link": "https://hackernoon.com/deployment-choice-code-promotion-vs-artifact-promotion?source=rss",
+          "publishedOn": "2022-03-15T22:15:30.000Z",
+          "wordCount": 1868,
+          "title": "Deployment Choice: Code Promotion vs Artifact Promotion",
+          "imageUrl": "https://cdn.hackernoon.com/images/HlPvCR30lTOi2R07CBF2r1ubNx73-s093e4o.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/a-high-level-introduction-to-web20-and-web30?source=rss",
+          "author": "Rakesh Potnuru",
+          "description": "",
+          "link": "https://hackernoon.com/a-high-level-introduction-to-web20-and-web30?source=rss",
+          "publishedOn": "2022-03-15T22:10:22.000Z",
+          "wordCount": 2514,
+          "title": "A High Level Introduction to Web2.0 and Web3.0",
+          "imageUrl": "https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-4g93zsi.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/a-real-life-example-of-cicd-pipelines?source=rss",
+          "author": "Abdul Ghani",
+          "description": "CI/CD Pipeline – Case Study",
+          "link": "https://hackernoon.com/a-real-life-example-of-cicd-pipelines?source=rss",
+          "publishedOn": "2022-03-15T22:07:10.000Z",
+          "wordCount": 1885,
+          "title": "A Real Life Example of CI/CD Pipelines in Action",
+          "imageUrl": "https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-al93znl.jpeg"
+        },
+        {
           "id": "https://hackernoon.com/transitioning-from-a-client-service-company-to-a-product-company-the-reintech-story?source=rss",
           "author": "Sasha Bondar",
           "description": "This article provides a comprehensive behind-the-scenes look at the steps taken to make a company successful.",
@@ -4884,6 +5055,16 @@
           "imageUrl": "https://cdn.hackernoon.com/images/ySpu1hBXHrMRvb88XyZUQgx0l4K2-gb93jlw.png"
         },
         {
+          "id": "https://hackernoon.com/one-small-step-for-you-one-big-step-for-your-it-career?source=rss",
+          "author": "Marcin Wosinek",
+          "description": "We all sometimes try taking on more significant tasks than we can deliver on—it stems directly from our human inability to evaluate complex tasks correctly.",
+          "link": "https://hackernoon.com/one-small-step-for-you-one-big-step-for-your-it-career?source=rss",
+          "publishedOn": "2022-03-15T14:24:41.000Z",
+          "wordCount": 2272,
+          "title": "One Small Step for You, One Big Step for Your IT Career",
+          "imageUrl": "https://cdn.hackernoon.com/images/cPKBkmirofPe9l3sgbPBAqdKwGF3-7ua2iz5.jpeg"
+        },
+        {
           "id": "https://hackernoon.com/how-to-make-the-floating-balloons-effect-in-reactjs?source=rss",
           "author": "Sanish kumar",
           "description": "Create custom floating balloons in ReactJS/NextJS. Supports balloon pop animation and sound. Custom count, msg, loop, multiple colors, and more.",
@@ -4892,6 +5073,16 @@
           "wordCount": 1938,
           "title": "How to Make the Floating Balloons 🎈Effect in ReactJS",
           "imageUrl": "https://cdn.hackernoon.com/images/cdKDtiFbXAdKDehLAz7YsIaD9j62-3w93nl1.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/what-celebrity-patronage-means-for-web3-and-the-metaverse?source=rss",
+          "author": "Masha Prusso",
+          "description": "Celebrity involvement is one of the primary driving forces behind web3 adoption, and there are still early projects to get in on.",
+          "link": "https://hackernoon.com/what-celebrity-patronage-means-for-web3-and-the-metaverse?source=rss",
+          "publishedOn": "2022-03-15T14:11:29.000Z",
+          "wordCount": 3408,
+          "title": "What Celebrity Patronage Means For Web3 and the Metaverse",
+          "imageUrl": "https://cdn.hackernoon.com/images/3NUCzSFHYLaT7248YjvrSAVSc3f2-fu93njf.jpeg"
         },
         {
           "id": "https://hackernoon.com/an-in-depth-guide-to-blue-green-deployments-with-materialize?source=rss",
@@ -4914,6 +5105,16 @@
           "imageUrl": "https://cdn.hackernoon.com/images/SnVhdDNm3fMGfftKZO7mnXldvQm2-ft93nk7.jpeg"
         },
         {
+          "id": "https://hackernoon.com/how-to-become-the-greatest-leader-of-all-time-tom-brady-style?source=rss",
+          "author": "Lomit Patel",
+          "description": "One of the essential qualities to Tom Brady’s game is his leadership skills to get the maximum talent and productivity out of his teams to become the GOAT.",
+          "link": "https://hackernoon.com/how-to-become-the-greatest-leader-of-all-time-tom-brady-style?source=rss",
+          "publishedOn": "2022-03-15T13:55:08.000Z",
+          "wordCount": 2527,
+          "title": "How to Become the Greatest Leader of All Time: Tom Brady Style",
+          "imageUrl": "https://cdn.hackernoon.com/images/QCzUXmup1gWrS723VFnOS8C4jQ03-drd3ghu.jpeg"
+        },
+        {
           "id": "https://hackernoon.com/how-to-hack-inflation?source=rss",
           "author": "Miguel Rodriguez",
           "description": "Inflation is coming, don't let it hack your savings. I look at my experiences growing up with high inflation. Where to put your money (and not to)",
@@ -4922,6 +5123,16 @@
           "wordCount": 2615,
           "title": "How to Hack Inflation",
           "imageUrl": "https://cdn.hackernoon.com/images/02BsxUM75AaopE700AOPDlh5b9P2-b293jfs.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/solid-principles-in-javascript-what-does-the-l-stand-for?source=rss",
+          "author": "Serhii Rubets",
+          "description": "Hello, guys, this is the third part of SOLID Principles in JavaScript and if you haven't read the previous two (first part and second part), I highly recommend to read them first and coming back here.",
+          "link": "https://hackernoon.com/solid-principles-in-javascript-what-does-the-l-stand-for?source=rss",
+          "publishedOn": "2022-03-15T12:31:40.000Z",
+          "wordCount": 2503,
+          "title": "SOLID Principles in JavaScript: What Does the \"L\" Stand For?",
+          "imageUrl": "https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-9da3idz.jpeg"
         },
         {
           "id": "https://hackernoon.com/personal-growth-hack-how-to-get-the-most-out-of-your-project-shortcomings?source=rss",
@@ -28278,6 +28489,76 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
+          "id": "https://hackaday.com/?p=527013",
+          "author": "Al Williams",
+          "description": "It used to be hard to dump enough electricity through two pieces of metal to meld them together. But a lithium-ion battery can do it. The question is, should it? …read more",
+          "link": "https://hackaday.com/2022/03/16/cheap-spot-welder-teardown/",
+          "publishedOn": "2022-03-16T23:00:16.000Z",
+          "wordCount": 1085,
+          "title": "Cheap Spot Welder Teardown",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/weld.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=526918",
+          "author": "Al Williams",
+          "description": "One popular option when 3D printing is to have the printer draw a loop or two around the print before starting. This serves several purposes: it clears the print head …read more",
+          "link": "https://hackaday.com/2022/03/16/tired-of-3d-printed-skirts-try-kisses/",
+          "publishedOn": "2022-03-16T20:00:54.000Z",
+          "wordCount": 1632,
+          "title": "Tired of 3D Printed Skirts? Try Kisses",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/kiss.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=526870",
+          "author": "Dan Maloney",
+          "description": "When it comes to high-speed, high-voltage switching, there are a wealth of components to choose from — MOSFETS, thyristors, IGBTs, and even vacuum tubes like thyratrons. But who needs all …read more",
+          "link": "https://hackaday.com/2022/03/16/spark-plug-and-plumbing-parts-bring-nitrogen-laser-under-control/",
+          "publishedOn": "2022-03-16T18:30:35.000Z",
+          "wordCount": 1371,
+          "title": "Spark Plug and Plumbing Parts Bring Nitrogen Laser Under Control",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/triggered-sprak-gap.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=527054",
+          "author": "Elliot Williams",
+          "description": "You might not think that it would be possible to have a favorite optimization algorithm, but I do. And if you’re well-versed in the mathematical art of hill climbing, you …read more",
+          "link": "https://hackaday.com/2022/03/16/our-favorite-things-binary-search/",
+          "publishedOn": "2022-03-16T17:00:34.000Z",
+          "wordCount": 2859,
+          "title": "Our Favorite Things: Binary Search",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2021/01/FavoriteThings.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=526885",
+          "author": "Jenny List",
+          "description": "When it comes to impromptu enclosures, [Paul Wallace] is a man after our own hearts, for his serial-to-Ethernet converters allowing him to control older test equipment were housed in takeaway …read more",
+          "link": "https://hackaday.com/2022/03/16/eight-rs232-ports-one-ethernet-port/",
+          "publishedOn": "2022-03-16T15:30:43.000Z",
+          "wordCount": 2521,
+          "title": "Eight RS232 Ports, One Ethernet Port",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/serial-ethernet-featured.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=526818",
+          "author": "Al Williams",
+          "description": "In the old days, you had a computer and it did one thing at a time. Literally. You would load your cards or punch tape or whatever and push a …read more",
+          "link": "https://hackaday.com/2022/03/16/linux-fu-simple-pipes/",
+          "publishedOn": "2022-03-16T14:00:00.000Z",
+          "wordCount": 3377,
+          "title": "Linux Fu: Simple Pipes",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2020/05/LinuxFu.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=526911",
+          "author": "Al Williams",
+          "description": "[Teaching Tech] is not alone in hating layer lines in 3D prints and also hates sanding. He recently tried Incredafill putty, a UV-curable putty that you can use to cover …read more",
+          "link": "https://hackaday.com/2022/03/16/layer-line-removal-putty-reviewed/",
+          "publishedOn": "2022-03-16T11:00:33.000Z",
+          "wordCount": 1192,
+          "title": "Layer Line Removal Putty Reviewed",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/putty.png"
+        },
+        {
           "id": "https://hackaday.com/?p=526994",
           "author": "Al Williams",
           "description": "There was a time when calculators became so powerful it was hard to tell them from little computers. The same thing seems to be happening now with multimeters. They now …read more",
@@ -38207,6 +38488,39 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "F42AC2C6-97A6-41F6-A1A285288570D695",
+          "author": "Sara Schonhardt, Benjamin Storrow, E&E News",
+          "description": "Russia’s invasion is halting the delivery of wheat to areas suffering from drought and other climate impacts\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/war-in-ukraine-and-climate-change-could-combine-to-create-a-food-crisis/",
+          "publishedOn": "2022-03-16T17:00:00.000Z",
+          "wordCount": null,
+          "title": "War in Ukraine and Climate Change Could Combine to Create a Food Crisis",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "E5849570-BAC5-47CA-8D2E179751FE2F11",
+          "author": "Michael Dowling, Chethan Sathya",
+          "description": "There are tools that hospitals can use to reduce the number of firearm injuries that come through the doors. We are piloting one such project\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/gun-violence-is-an-epidemic-health-systems-must-step-up/",
+          "publishedOn": "2022-03-16T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Gun Violence Is an Epidemic; Health Systems Must Step Up",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "9A2CFC52-89DD-4520-AEC2A4B8D82E0B74",
+          "author": "Mariana Lenharo",
+          "description": "Scientists are just starting to unravel the disease’s long-term cardiac effects\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/even-mild-covid-can-increase-the-risk-of-heart-problems/",
+          "publishedOn": "2022-03-16T10:45:00.000Z",
+          "wordCount": null,
+          "title": "Even Mild COVID Can Increase the Risk of Heart Problems",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "C72AF86E-1B6D-4C1D-833BCAEE877C2008",
           "author": "Daniel Cusick, E&E News",
           "description": "Addressing the climate crisis is a crucial aspect of maintaining the security of member states, a former official writes\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -46401,6 +46715,46 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=150783",
+          "author": "Veronica Haggar",
+          "description": "Business decision makers and knowledge workers agree that at least 50% of the data their company uses on a day-to-day basis should be focused on doing good for the communities it serves Santa Clara, CA, March 16, 2022 — New research from Cloudera, the enterprise data cloud company, reveals more than one quarter (26%) of business decision makers […]\nThe post Reshaping Business Priorities for Planet and Profit appeared first on DevOps.com.",
+          "link": "https://devops.com/reshaping-business-priorities-for-planet-and-profit/",
+          "publishedOn": "2022-03-16T16:00:30.000Z",
+          "wordCount": 1568,
+          "title": "Reshaping Business Priorities for Planet and Profit",
+          "imageUrl": "https://devops.com/wp-content/uploads/2019/08/devopsdefault-1.png"
+        },
+        {
+          "id": "https://devops.com/?p=150722",
+          "author": "Shinesa Cambric",
+          "description": "With the increase of supply chain attacks on everything from logging software like Log4j to takeovers of important JavaScript packages to compromises of network utility tools like SolarWinds, more and more organizations are recognizing the need to adopt a zero-trust mindset. Zero-trust can improve security, reduce risks, and give organizations greater confidence in the integrity […]\nThe post Secure Software Summit: Securing Software With Zero-Trust appeared first on DevOps.com.",
+          "link": "https://devops.com/secure-software-summit-securing-software-with-zero-trust/",
+          "publishedOn": "2022-03-16T13:30:00.000Z",
+          "wordCount": 2029,
+          "title": "Secure Software Summit: Securing Software With Zero-Trust",
+          "imageUrl": "https://devops.com/wp-content/uploads/2014/03/trust.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150693",
+          "author": "Don Macvittie",
+          "description": "DevOps has been with us long enough now that there is a lot of legacy DevOps stuff running in all of the places I have eyes into. Ignoring items that are not actually working; those pieces that pose a serious security threat because they house vulnerabilities that have been fixed—there is a lot of “It […]\nThe post Sometimes, You Should Fix What Isn’t Broken appeared first on DevOps.com.",
+          "link": "https://devops.com/sometimes-you-should-fix-what-isnt-broken/",
+          "publishedOn": "2022-03-16T12:30:27.000Z",
+          "wordCount": 1033,
+          "title": "Sometimes, You Should Fix What Isn’t Broken",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/06/canstockphoto10621430.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150775",
+          "author": "Veronica Haggar",
+          "description": "DevOps and cloud-native are key for organization looking to accelerate their digital transformation journeys. Techstrong Live! Days, a two-day, in-person event, explores the latest DevOps, cybersecurity and cloud-native technologies and trends that are shaping the way we do business. The first stop of the Techstrong Live! Days conference tour will take place in Atlanta, GA […]\nThe post Techstrong Live! Days, Atlanta: Exploring DevOps, Cloud-Native and Cybersecurity appeared first on DevOps.com.",
+          "link": "https://devops.com/techstrong-live-days-atlanta-exploring-devops-cloud-native-and-cybersecurity/",
+          "publishedOn": "2022-03-16T12:00:28.000Z",
+          "wordCount": 1004,
+          "title": "Techstrong Live! Days, Atlanta: Exploring DevOps, Cloud-Native and Cybersecurity",
+          "imageUrl": "https://devops.com/wp-content/uploads/2022/03/March-29-2022-9-AM-ET.jpeg"
+        },
+        {
           "id": "https://devops.com/?p=150737",
           "author": "Mike Vizard",
           "description": "A recent cloud observability survey found nearly two-thirds (64%) of respondents reported the adoption of public clouds has made it more difficult to achieve observability. Nearly half of respondents (48%) said they now consider providing real-time insights into application/infrastructure environments to be a top priority. The survey polled 357 IT professionals and was conducted by […]\nThe post Survey Surfaces Observability Challenges in the Cloud Era appeared first on DevOps.com.",
@@ -50281,6 +50635,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=113237",
+          "author": "Charlie Wood",
+          "description": "An experiment conducted on hybrid matter-antimatter atoms has defied researchers’ expectations.             \nThe post An Antimatter Experiment Shows Surprises Near Absolute Zero first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/icy-antimatter-experiment-surprises-physicists-20220316/",
+          "publishedOn": "2022-03-16T16:00:44.000Z",
+          "wordCount": 1540,
+          "title": "An Antimatter Experiment Shows Surprises Near Absolute Zero",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/Antiprotonic_helium_1200_Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=113218",
           "author": "Nick Thieme",
           "description": "Traditional algorithms power complicated computational tools like machine learning. A new approach, called algorithms with predictions, uses the power of machine learning to improve algorithms.             \nThe post Machine Learning Reimagines the Building Blocks of Computing first appeared on Quanta Magazine",
@@ -51145,6 +51509,26 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=66626",
+          "author": "Nathan Yau",
+          "description": "While the reshaped geography doesn't work all the time, the use of size to show data can be more intuitive in some cases.\nTags: R",
+          "link": "https://flowingdata.com/2022/03/16/how-to-make-cartograms-in-r/",
+          "publishedOn": "2022-03-16T18:00:23.000Z",
+          "wordCount": 493,
+          "title": "✚ How to Make Cartograms in R",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/02/cartograms-featured.png"
+        },
+        {
+          "id": "https://flowingdata.com/?p=67132",
+          "author": "Nathan Yau",
+          "description": "Population.io by World Data Lab asks your birthday, country of residence, and gender.…\nTags: age, population, World Data Lab",
+          "link": "https://flowingdata.com/2022/03/16/your-place-in-the-world-population/",
+          "publishedOn": "2022-03-16T15:43:56.000Z",
+          "wordCount": 313,
+          "title": "Your place in the world population",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/03/place-in-the-population.png"
+        },
         {
           "id": "https://flowingdata.com/?p=67117",
           "author": "Nathan Yau",
@@ -53393,6 +53777,16 @@
       "feedUrl": "https://web.dev/shows/gui-challenges/feed.xml",
       "siteUrl": "https://web.dev/shows/gui-challenges/feed.xml",
       "articles": [
+        {
+          "id": "https://web.dev/shows/gui-challenges/TD1QxlGgIPk/",
+          "author": null,
+          "description": "This video is private.",
+          "link": "https://web.dev/shows/gui-challenges/TD1QxlGgIPk/",
+          "publishedOn": "2022-03-16T18:45:38.000Z",
+          "wordCount": 73,
+          "title": "Private video",
+          "imageUrl": "https://web-dev.imgix.net/image/tcFciHGuF3MxnTr1y5ue01OGLBn2/vU99HKzIf5EUPnzGVPf1.png?auto=format&fit=max&w=1200&fm=auto"
+        },
         {
           "id": "https://web.dev/shows/gui-challenges/4pJahmCR8kQ/",
           "author": null,
