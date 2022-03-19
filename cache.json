@@ -123,6 +123,16 @@
       "siteUrl": "https://goteleport.com/blog/",
       "articles": [
         {
+          "id": "https://goteleport.com/blog/stop-container-escape-privilege-escalation/",
+          "author": null,
+          "description": "Container escape is a security risk in which malicious players can leverage a containerized application’s vulnerabilities to breach its isolation boundary, gaining access to the host system’s resources.\nOnce an attacker accesses the host system, they can escalate their privilege to access other containers running in the machine or run harmful code on the host. Depending on how vulnerable the host is, the actor could also access other hosts in the network.\nNeedless to say, container escape and privilege escalation attacks can be devastating — costing you sensitive information from files or databases or leading to entire applications going down. For example, in 2020 two vulnerabilities were discovered in Azure Functions that allowed attackers to escape the Docker container, escalate privileg…",
+          "link": "https://goteleport.com/blog/stop-container-escape-privilege-escalation/",
+          "publishedOn": "2022-03-18T00:00:00.000Z",
+          "wordCount": 2023,
+          "title": "How to Stop Container Escape and Prevent Privilege Escalation",
+          "imageUrl": "https://goteleport.com/blog/images/2022/container-escape/security-threats-authorization@2x.png"
+        },
+        {
           "id": "https://goteleport.com/blog/authorization-vulnerabilities/",
           "author": null,
           "description": "Authorization vulnerabilities allow malicious users to perform unwanted actions or access resources that are deemed protected otherwise. Authorization vulnerabilities are one of the most widely found vulnerabilities in web applications. The OWASP top 10 list of web application security risks listed broken access control vulnerabilities as the number one risk in 2021, so understanding authorization vulnerabilities is an important topic for application security engineers.\nIf you are new to access controls, read our previous blog on authentication vs. authorization, common authentication vulnerabilities, and best practices to prevent authentication vulnerabilities.\nBefore we dive into authorization vulnerabilities, let’s first explore privileges further since most of the vulnerabilities relat…",
@@ -988,6 +998,46 @@
       "feedUrl": "https://www.i-programmer.info/index.php?option=com_ninjarsssyndicator&feed_id=3&format=raw",
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
+        {
+          "id": "http://www.i-programmer.info/book-watch-archive/15296-starflight-steel-gear-press.html",
+          "author": null,
+          "description": "Subtitled \"How the PC and DOS Exploded Computer Gaming 1987-1994\", this book examines why the PC became the gaming juggernaut despite poor graphics and a design aimed at business users. Author Jamie Lendino tells the full story, from the early ill-fated (if influential) failures such as the PCjr and Tandy 1000, and diving deep into the industry-shattering innovations in processing, graphics, sound, software, and distribution that gave the PC (and the gamers who loved it) unprecedented power and reach.\n\r\n<ASIN:1732355290>\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/book-watch-archive/15296-starflight-steel-gear-press.html",
+          "publishedOn": "2022-03-18T19:08:16.000Z",
+          "wordCount": 455,
+          "title": "Starflight (Steel Gear Press)",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/news/150-training-a-education/15294-coursera-specialization-offer-is-not-irrational.html",
+          "author": null,
+          "description": "Coursera has a limited time offer, lasting until March 28th 2022, for selected Specializations on topics including machine learning and maths, reducing the cost of the first month's enrollment to $3.14. \n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/150-training-a-education/15294-coursera-specialization-offer-is-not-irrational.html",
+          "publishedOn": "2022-03-18T15:48:19.000Z",
+          "wordCount": 855,
+          "title": "Coursera Specialization Offer Is Not Irrational",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/programming/hardware/15293-the-pico-in-micropython-dc-motors.html",
+          "author": null,
+          "description": "One of the very basic control tasks is running a DC motor. This usually involves some hardware as well as software. This is an extract from our book all about the Raspberry Pi Pico in MicroPython.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/programming/hardware/15293-the-pico-in-micropython-dc-motors.html",
+          "publishedOn": "2022-03-18T11:12:38.000Z",
+          "wordCount": 1073,
+          "title": "The Pico In MicroPython: DC Motors",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/news/193-android/15295-google-releases-android-play-developer-reporting-api.html",
+          "author": null,
+          "description": "Google has released the Google Play Developer Reporting API, providing  programmatic access to app-level data and metrics for internal reporting, analysis and automation.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/193-android/15295-google-releases-android-play-developer-reporting-api.html",
+          "publishedOn": "2022-03-18T00:00:00.000Z",
+          "wordCount": 666,
+          "title": "Google Releases Android Play Developer Reporting API",
+          "imageUrl": null
+        },
         {
           "id": "http://www.i-programmer.info/news/98-languages/15292-go-118-released-with-generics-and-fuzzing.html",
           "author": null,
@@ -2411,6 +2461,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=364090",
+          "author": "Bence Szabó",
+          "description": "I recently created a brick wall pattern as part of my #PetitePatterns series, a challenge where I create organic-looking patterns or textures in SVG within 560 bytes (or approximately the size of two tweets). To fit this constraint, I have …\nOptimizing SVG Patterns to Their Smallest Size originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/optimizing-svg-patterns/",
+          "publishedOn": "2022-03-18T22:31:22.000Z",
+          "wordCount": 2521,
+          "title": "Optimizing SVG Patterns to Their Smallest Size",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364090"
+        },
         {
           "id": "https://css-tricks.com/?p=365042",
           "author": "Chris Coyier",
@@ -4925,6 +4985,196 @@
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
         {
+          "id": "https://hackernoon.com/ellenbrain-turns-a-long-weekend-into-hackernoon-swag-around-the-world?source=rss",
+          "author": "Ellen Stevens",
+          "description": "Am I allowed to consider myself a tech bro yet, I just want to be a tech bro. This hat is so stylin tho. It's like cool kid gear.",
+          "link": "https://hackernoon.com/ellenbrain-turns-a-long-weekend-into-hackernoon-swag-around-the-world?source=rss",
+          "publishedOn": "2022-03-18T20:42:59.000Z",
+          "wordCount": 2232,
+          "title": "#ellenBrain Turns a Long Weekend Into: HackerNoon Swag Around the World",
+          "imageUrl": "https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-5s93w7c.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-i-quit-my-job-to-start-my-online-business?source=rss",
+          "author": "Ruurtjan",
+          "description": "I quit my job. I'm now unemployed. It feels great to finally be able to write this blog post.",
+          "link": "https://hackernoon.com/how-i-quit-my-job-to-start-my-online-business?source=rss",
+          "publishedOn": "2022-03-18T12:03:36.000Z",
+          "wordCount": 2371,
+          "title": "How I Quit My Job to Start My Online Business",
+          "imageUrl": "https://cdn.hackernoon.com/images/zXE6n93W9qXDNsP8hiip4vQhbqg2-7nb2fsg.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/5g-networks-and-the-future-of-cloud-gaming?source=rss",
+          "author": "innovate5G",
+          "description": "5G has the potential to bring in a new era of gaming in which mobile devices reign supreme.",
+          "link": "https://hackernoon.com/5g-networks-and-the-future-of-cloud-gaming?source=rss",
+          "publishedOn": "2022-03-18T11:59:58.000Z",
+          "wordCount": 1885,
+          "title": "5G Networks and the Future of Cloud Gaming",
+          "imageUrl": "https://cdn.hackernoon.com/images/sVBkbk6XmzVXPG60Acjsp44Cwgt1-z993jfr.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/hsbc-partners-with-the-sandbox-to-bring-financial-services-into-the-metaverse?source=rss",
+          "author": "Yahya Maghrab",
+          "description": "The partnership between The Sandbox and HSBC will have HSBC acquire a plot of land, a virtual real estate in The Sandbox's virtual & Metaverse world.",
+          "link": "https://hackernoon.com/hsbc-partners-with-the-sandbox-to-bring-financial-services-into-the-metaverse?source=rss",
+          "publishedOn": "2022-03-18T11:54:01.000Z",
+          "wordCount": 1969,
+          "title": "HSBC Partners with The Sandbox to Bring Financial Services into The Metaverse",
+          "imageUrl": "https://cdn.hackernoon.com/images/DzTCviIqAeNUfl4kZlK12Pobr033-7q93oe7.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/decentralised-social-networks-are-the-future-of-web-30?source=rss",
+          "author": "Eugene Fried",
+          "description": "The role of decentralised social networks in addressing the numerous problems that big tech is currently facing is becoming increasingly important.",
+          "link": "https://hackernoon.com/decentralised-social-networks-are-the-future-of-web-30?source=rss",
+          "publishedOn": "2022-03-18T11:34:40.000Z",
+          "wordCount": 2461,
+          "title": "Decentralised Social Networks Are the Future of Web 3.0",
+          "imageUrl": "https://cdn.hackernoon.com/images/pxtbZrdmt0VrZ3Z4asVTcVTnXOB2-uva3jxo.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/5-ways-to-use-ai-to-improve-customer-success?source=rss",
+          "author": "Annett Brown",
+          "description": "Artificial Intelligence is a powerful set of tools that can be used throughout a business' operations allowing them to achieve better customer success.",
+          "link": "https://hackernoon.com/5-ways-to-use-ai-to-improve-customer-success?source=rss",
+          "publishedOn": "2022-03-18T11:27:46.000Z",
+          "wordCount": 2411,
+          "title": "5 Ways to Use AI to Improve Customer Success",
+          "imageUrl": "https://cdn.hackernoon.com/images/Jv4knbBAJ9VwJXuAG6J76Gr9EX92-df93jcq.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/jake-the-aussie-armwrestler-on-youtubing-nfts-and-potential-armwrestling-crypto-prizes?source=rss",
+          "author": "Crypto Fireside",
+          "description": "Andrei R from Crypto Fireside chats with The Aussie Armwrestler - a rising YouTube star - about NFTs, humour, grinding and more...",
+          "link": "https://hackernoon.com/jake-the-aussie-armwrestler-on-youtubing-nfts-and-potential-armwrestling-crypto-prizes?source=rss",
+          "publishedOn": "2022-03-18T11:18:16.000Z",
+          "wordCount": 4124,
+          "title": "Jake the Aussie Armwrestler on YouTubing, NFTs, and Potential Armwrestling Crypto Prizes",
+          "imageUrl": "https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-fha3i0t.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/play2earn-forgot-one-important-thing-gamers-earn-to-play?source=rss",
+          "author": "Tib Palin",
+          "description": "The P2E model has a huge problem. Gamers don't play to earn, they earn to play. And until P2E games take note, they will never attract the users they want.",
+          "link": "https://hackernoon.com/play2earn-forgot-one-important-thing-gamers-earn-to-play?source=rss",
+          "publishedOn": "2022-03-18T11:06:25.000Z",
+          "wordCount": 2180,
+          "title": "Play2Earn Forgot One Important Thing: Gamers Earn to Play",
+          "imageUrl": "https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-kvb3in7.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-install-ubuntu-on-m1-macbooks-using-utm?source=rss",
+          "author": "Milind Soorya",
+          "description": "UTM is an amazing software that allows us to virtualise and emulate different OS's such as, different flavours of Linux, Windows, older version of mac OS etc on",
+          "link": "https://hackernoon.com/how-to-install-ubuntu-on-m1-macbooks-using-utm?source=rss",
+          "publishedOn": "2022-03-18T11:00:31.000Z",
+          "wordCount": 1867,
+          "title": "How to Install Ubuntu on M1 Macbooks Using UTM",
+          "imageUrl": "https://cdn.hackernoon.com/images/dQivUEEj1RcFc2A4GiaE0hI9ypA3-jv93jao.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/fun-at-work-matters-building-a-company-culture?source=rss",
+          "author": "Denise Hippler",
+          "description": "Having non-productive fun with colleagues at work is a great way of relaxing during work and getting to know the team.",
+          "link": "https://hackernoon.com/fun-at-work-matters-building-a-company-culture?source=rss",
+          "publishedOn": "2022-03-18T10:50:39.000Z",
+          "wordCount": 1640,
+          "title": "Fun at Work Matters: Building a Company Culture",
+          "imageUrl": "https://cdn.hackernoon.com/images/RMGhgLGonReGmisPwIYAa7M4rTo1-z792gon.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/crypto-news-of-the-week-metamask-is-planning-a-dao-bitcoin-bounced-back-to-$41000-and-more?source=rss",
+          "author": "Allen Taylor",
+          "description": "The latest cryptocurrency news, from Metamask to decentralized autonomous organizations. Who's doing what to whom in crypto ...",
+          "link": "https://hackernoon.com/crypto-news-of-the-week-metamask-is-planning-a-dao-bitcoin-bounced-back-to-$41000-and-more?source=rss",
+          "publishedOn": "2022-03-18T10:50:22.000Z",
+          "wordCount": 1903,
+          "title": "Crypto News of The Week: MetaMask is Planning a DAO, Bitcoin Bounced Back to $41,000, and More",
+          "imageUrl": "https://cdn.hackernoon.com/images/4WDB0ymCKMPqArRG1OUKKP6F78U2-zm93lic.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/5-mistakes-that-make-ai-data-labeling-ineffective?source=rss",
+          "author": "shaip",
+          "description": "Data labeling and annotation is one of the biggest challenges businesses face in developing AI solutions. Here are the top 5 Data labeling mistakes.",
+          "link": "https://hackernoon.com/5-mistakes-that-make-ai-data-labeling-ineffective?source=rss",
+          "publishedOn": "2022-03-18T10:36:06.000Z",
+          "wordCount": 2295,
+          "title": "5 Mistakes That Make AI Data Labeling Ineffective",
+          "imageUrl": "https://cdn.hackernoon.com/images/j032x1l3rNRyImLVdMbpKA2lemm1-lo93jvb.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/is-technology-the-future-of-art?source=rss",
+          "author": "Sara Pinto",
+          "description": "In this slogging thread, our technology channel discussed the latest news about artists who were challenged to create an immersive exhibition.",
+          "link": "https://hackernoon.com/is-technology-the-future-of-art?source=rss",
+          "publishedOn": "2022-03-18T08:58:26.000Z",
+          "wordCount": 1824,
+          "title": "Is Technology the Future of Art?",
+          "imageUrl": "https://cdn.hackernoon.com/images/rqqksDP9KFYLwCYicEbkOVZXrQB2-08b3hzw.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/working-with-startups-factors-that-are-important-for-an-it-specialist-today?source=rss",
+          "author": "Tatiana Melnichuk",
+          "description": "IT specialists & startups: what is vital for tech candidates today?",
+          "link": "https://hackernoon.com/working-with-startups-factors-that-are-important-for-an-it-specialist-today?source=rss",
+          "publishedOn": "2022-03-18T08:13:00.000Z",
+          "wordCount": 1968,
+          "title": "Working with Startups: Factors that are Important for an IT Specialist Today",
+          "imageUrl": "https://cdn.hackernoon.com/images/16ChB2rveuMbaKoi890weUEWtCC3-5993jr4.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-integrate-servicenow-and-azuredevops?source=rss",
+          "author": "ZigiWave",
+          "description": "Integrate ServiceNow and Azure DevOps in a few clicks. Utilize smart automation to improve cross-team communication and resolve critical issues much faster.",
+          "link": "https://hackernoon.com/how-to-integrate-servicenow-and-azuredevops?source=rss",
+          "publishedOn": "2022-03-18T06:51:41.000Z",
+          "wordCount": 3504,
+          "title": "How to Integrate ServiceNow and Azure DevOps",
+          "imageUrl": "https://cdn.hackernoon.com/images/FL7JmXQf34VEW1TJcKJlKvuDn9u2-2593jbj.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/gantt-charts-can-change-your-understanding-of-project-management?source=rss",
+          "author": "XB Software",
+          "description": "In this article we will talk about using Gantt charts for Project Management. How this tool functions, and outlines its main benefits and drawbacks.",
+          "link": "https://hackernoon.com/gantt-charts-can-change-your-understanding-of-project-management?source=rss",
+          "publishedOn": "2022-03-18T06:44:33.000Z",
+          "wordCount": 2706,
+          "title": "Gantt Charts Can Change your Understanding of Project Management",
+          "imageUrl": "https://cdn.hackernoon.com/images/6EORd3lScrVTxxVB0ulAUeFzv0E2-9yd3iuq.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-automate-crypto-payments-and-invoicing-for-web3-defi-and-nft-projects?source=rss",
+          "author": "Request",
+          "description": "Since launching in 2021, over 1,400 web3 companies now use Request Finance to automate their crypto payments, and invoicing workstreams. Here’s how.",
+          "link": "https://hackernoon.com/how-to-automate-crypto-payments-and-invoicing-for-web3-defi-and-nft-projects?source=rss",
+          "publishedOn": "2022-03-18T06:37:51.000Z",
+          "wordCount": 4057,
+          "title": "How to Automate Crypto Payments and Invoicing for Web3, DeFi, and NFT Projects",
+          "imageUrl": "https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-gh93lzg.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/whats-new-in-the-evolution-of-real-time-cross-border-digital-payments?source=rss",
+          "author": "Crypto Unfolded",
+          "description": "The rise of a global infrastructure facilitating cross-border settlements creates a real-time, highly-secure alternative to traditional payments.",
+          "link": "https://hackernoon.com/whats-new-in-the-evolution-of-real-time-cross-border-digital-payments?source=rss",
+          "publishedOn": "2022-03-18T06:25:02.000Z",
+          "wordCount": 2191,
+          "title": "What's New in the Evolution of Real-Time Cross Border Digital Payments?",
+          "imageUrl": "https://cdn.hackernoon.com/images/4FnNVQr5WaVz9Pb3rjDALHRb4XA2-v1930fa.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-develop-xr-with-oracle-cloud-using-hololens-mrtk-and-unity?source=rss",
+          "author": "Paul Parkinson",
+          "description": "This is the first piece in a series on developing XR applications and experiences using Oracle Database and Hololens for the Metaverse.",
+          "link": "https://hackernoon.com/how-to-develop-xr-with-oracle-cloud-using-hololens-mrtk-and-unity?source=rss",
+          "publishedOn": "2022-03-18T01:13:46.000Z",
+          "wordCount": 2613,
+          "title": "How to Develop XR with Oracle Cloud using Hololens, MRTK, and Unity",
+          "imageUrl": "https://cdn.hackernoon.com/images/oFcXyPmJpqb3FOyA7YV2WMjGWmq2-wc93057.jpeg"
+        },
+        {
           "id": "https://hackernoon.com/reimagining-education-in-the-era-of-web-30?source=rss",
           "author": "Celine Aju",
           "description": "A major distinguishing factor of Web 3.0 from other versions is that machines are programmed to think to a certain degree.",
@@ -5803,6 +6053,16 @@
           "wordCount": 3526,
           "title": "I Was Wrong About Burnout and You are Probably Too",
           "imageUrl": "https://cdn.hackernoon.com/images/6aqvE9BUBZWe8iOoQIq5MuJze9P2-k293hjv.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/foundersconnect-with-tito-ovia-cofounder-of-helium-health-1-health-tech-provider-in-africa?source=rss",
+          "author": "Peace Itimi | Founders Connect",
+          "description": "Peace speaks with Tito Ovia, co-founder of Helium Health, a health-tech provider in Nigeria set to digitize hospital processes within the continent.",
+          "link": "https://hackernoon.com/foundersconnect-with-tito-ovia-cofounder-of-helium-health-1-health-tech-provider-in-africa?source=rss",
+          "publishedOn": "2022-03-11T16:11:11.000Z",
+          "wordCount": 1524,
+          "title": "#FoundersConnect with Tito Ovia, Cofounder of Helium Health (#1 Health-Tech Provider in Africa)",
+          "imageUrl": "https://cdn.hackernoon.com/images/14jwr5qGazancUxcRU4AXRFZ97F3-cxa3j1r.jpeg"
         },
         {
           "id": "https://hackernoon.com/foundersconnect-with-ben-eluan-co-founder-ceo-of-flux?source=rss",
@@ -27335,15 +27595,6 @@
           "publishedOn": "2021-03-25T14:00:00.000Z",
           "wordCount": 2463,
           "title": "Human-Readable JavaScript: A Tale of Two Experts"
-        },
-        {
-          "id": "https://alistapart.com/article/now-thats-what-i-call-service-worker/",
-          "author": "by",
-          "description": "The Service Worker API is the Dremel of the web platform. It offers incredibly broad utility while also yielding resiliency and better performance. If you’ve not used Service Worker yet—and you couldn’t be blamed if so, as it hasn’t seen wide adoption as of 2020—it goes something like this:\nOn the initial visit to a website, the browser registers what amounts to a client-side proxy powered by a comparably paltry amount of JavaScript that—like a Web Worker—runs on its own thread.\nAfter the Service Worker’s registration, you can intercept requests and decide how to respond to them in the Service Worker’s fetch() event.\n\n\n\n\nWhat you decide to do with requests you intercept is a) your call and b) depends on your website. You can rewrite requests, precache static assets during install, provide …",
-          "link": "https://alistapart.com/article/now-thats-what-i-call-service-worker/",
-          "publishedOn": "2021-03-18T14:00:00.000Z",
-          "wordCount": 4459,
-          "title": "Now THAT&#8217;S What I Call Service Worker!"
         }
       ]
     },
@@ -28669,6 +28920,76 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=527343",
+          "author": "Ryan Flowers",
+          "description": "For decades, mankind was content to launch payloads into orbit and then watch hundreds of thousands of hours of blood sweat and tears just crash into the ocean. Then, partially …read more",
+          "link": "https://hackaday.com/2022/03/18/throttle-your-solid-rocket-motors-with-this-one-simple-trick/",
+          "publishedOn": "2022-03-18T23:00:42.000Z",
+          "wordCount": 1579,
+          "title": "Throttle Your Solid Rocket Motors With This One Simple Trick!",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/throttled-solid-rocket-motor-featured.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=527284",
+          "author": "Tom Nardi",
+          "description": "For several years now we’ve been following [Jay Bowles] as he brings high-voltage down to Earth on his Plasma Channel YouTube channel. From spark gaps made of bits of copper …read more",
+          "link": "https://hackaday.com/2022/03/18/high-tech-pancake-tesla-coil-brings-the-lightning/",
+          "publishedOn": "2022-03-18T20:00:51.000Z",
+          "wordCount": 1522,
+          "title": "High Tech Pancake Tesla Coil Brings the Lightning",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/sstc_feat.gif"
+        },
+        {
+          "id": "https://hackaday.com/?p=527286",
+          "author": "Chris Wilkinson",
+          "description": "Flicking a circuit breaker to power cycle hundreds of desktop computers inside interactive museum exhibits is hardly ideal. Computers tend to get cranky when improperly shutdown, and there’s an non-zero …read more",
+          "link": "https://hackaday.com/2022/03/18/power-cycling-museum-computers-on-the-cheap/",
+          "publishedOn": "2022-03-18T18:30:13.000Z",
+          "wordCount": 2259,
+          "title": "Power Cycling Museum Computers On The Cheap",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/museumshutdown_feature.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=527315",
+          "author": "Tom Nardi",
+          "description": "There was a time when all that was available to the electronics hobbyist were passive components and vacuum tubes. Then along comes the integrated circuit, and it changed everything. Fast …read more",
+          "link": "https://hackaday.com/2022/03/18/the-open-source-asics-hack-chat-redefines-possible/",
+          "publishedOn": "2022-03-18T17:00:19.000Z",
+          "wordCount": 1934,
+          "title": "The Open Source ASICs Hack Chat Redefines Possible",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/asic.jpeg"
+        },
+        {
+          "id": "https://hackaday.com/?p=527311&preview=true&preview_id=527311",
+          "author": "Tom Nardi",
+          "description": "Join Hackaday Editor-in-Chief Elliot Williams and Managing Editor Tom Nardi as they tackle all the hacks that were fit to print this last week. Things start off with some troubling …read more",
+          "link": "https://hackaday.com/2022/03/18/hackaday-podcast-160-pedal-power-openscad-in-the-browser-tasmanian-tigers-and-the-coolest-knob/",
+          "publishedOn": "2022-03-18T16:00:24.000Z",
+          "wordCount": 1273,
+          "title": "Hackaday Podcast 160: Pedal Power, OpenSCAD in the Browser, Tasmanian Tigers, and the Coolest Knob",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=527253",
+          "author": "Kristina Panos",
+          "description": "Most of us use our hands to interface with computers, but the human body is capable of many types of input other than that of fingers and feet. But what …read more",
+          "link": "https://hackaday.com/2022/03/18/morse-keyboard-communicates-with-the-blink-of-an-eye/",
+          "publishedOn": "2022-03-18T15:30:07.000Z",
+          "wordCount": 1285,
+          "title": "Morse Keyboard Communicates with the Blink of an Eye",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/Morse-keyboard-800.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=527134",
+          "author": "Jonathan Bennett",
+          "description": "It seems I have made my tiny, indelible mark on internet security history, with the term “protestware“. As far as I can tell, I first coined this particular flavor of …read more",
+          "link": "https://hackaday.com/2022/03/18/this-week-in-security-more-protestware-another-linux-vuln-and-tlstorm/",
+          "publishedOn": "2022-03-18T14:00:45.000Z",
+          "wordCount": 2722,
+          "title": "This Week in Security: More Protestware, Another Linux Vuln, and TLStorm",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg"
+        },
         {
           "id": "https://hackaday.com/?p=527085",
           "author": "Dan Maloney",
@@ -38739,6 +39060,79 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "4A048164-278A-41CF-AE5BEC698C3EE370",
+          "author": "Tanya Lewis, Josh Fischman, Tulika Bose, Jeffery DelViscio",
+          "description": "Today we bring you a new episode in our podcast series COVID, Quickly. Every two weeks, Scientific American’s senior health editors Tanya Lewis and Josh Fischman catch you up on the...\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/podcast/episode/florida-gets-kids-and-vaccines-wrong-and-ukraines-health-crisis-covid-quickly-episode-26/",
+          "publishedOn": "2022-03-18T18:00:00.000Z",
+          "wordCount": null,
+          "title": "Florida Gets Kids and Vaccines Wrong, and Ukraine's Health Crisis: COVID Quickly, Episode 26",
+          "itunes": {
+            "duration": "08:56"
+          },
+          "enclosure": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=A6EFFC58-C96F-4708-B0EFDF04C9D6E9EF",
+            "length": "8879297",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "CD731D22-0410-4590-8F67EED11FC38829",
+          "author": "Scott Waldman, Corbin Hiar, E&E News",
+          "description": "Gina McCarthy and other administration officials showcased fusion energy in a bid to accelerate vast amounts of carbon-free power\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/to-help-tackle-climate-crisis-white-house-touts-nuclear-fusion/",
+          "publishedOn": "2022-03-18T17:00:00.000Z",
+          "wordCount": null,
+          "title": "To Help Tackle Climate Crisis, White House Touts Nuclear Fusion",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "ADF6CD0B-5D88-4D8E-BCAED4E55B18A47C",
+          "author": "Cassandra Willyard, Nature magazine",
+          "description": "A study adds to evidence suggesting that SARS-CoV-2 infection doesn’t cause an inflamed-toe condition called chilblains, but it doesn’t close the door\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/are-covid-toes-actually-caused-by-the-coronavirus/",
+          "publishedOn": "2022-03-18T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Are 'COVID Toes' Actually Caused by the Coronavirus?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "DB91AD5B-AEC4-4132-9C1C308C08214607",
+          "author": "Theodor Schaarschmidt",
+          "description": "Young people and women need to be more involved in a continual process of averting armed conflict\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-do-we-end-wars-a-peace-researcher-puts-forward-some-innovative-approaches/",
+          "publishedOn": "2022-03-18T14:15:00.000Z",
+          "wordCount": null,
+          "title": "How Do We End Wars? A Peace Researcher Puts Forward Some Innovative Approaches",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "3FEE6134-784A-4E1C-A83F7B60A863BCDA",
+          "author": "Janosch Deeg",
+          "description": "Researchers at the investigative collective scour the Internet to expose possible war crimes\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-investigators-use-online-evidence-to-expose-possible-war-crimes/",
+          "publishedOn": "2022-03-18T12:00:00.000Z",
+          "wordCount": null,
+          "title": "How Bellingcat Investigators Verified the Brutal Use of Cluster Munitions in Ukraine",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "0A0B4A6A-B5B7-4B8B-B13D928BBA513A11",
+          "author": "Robin George Andrews",
+          "description": "There are no individual saviors for Tonga’s Internet infrastructure\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/starlink-offers-internet-access-in-times-of-crisis-but-is-it-just-a-pr-stunt/",
+          "publishedOn": "2022-03-18T10:45:00.000Z",
+          "wordCount": null,
+          "title": "Starlink Offers Internet Access in Times of Crisis, but Is It Just a PR Stunt?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "16268815-DC12-41A8-B9E8AC1CDFE2F738",
           "author": "Randyn Charles Bartholomew",
           "description": "Scientists are less enthusiastic than the U.S. Senate about DST year-round\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -38918,6 +39312,17 @@
           "publishedOn": "2022-03-15T13:30:00.000Z",
           "wordCount": null,
           "title": "How Migrating Birds Use Quantum Effects to Navigate",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "83D0B919-2C29-4C44-B62B1AE9D76208C2",
+          "author": "Raegan Scharfetter",
+          "description": "A well-preserved fossil introduces a new species that lived in what is now California around 42 million years ago\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/newly-discovered-saber-toothed-predator-shows-how-hypercarnivores-evolved/",
+          "publishedOn": "2022-03-15T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Newly Discovered Saber-Toothed Predator Shows How Hypercarnivores Evolved",
           "itunes": {},
           "imageUrl": null
         },
@@ -47043,6 +47448,26 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=150835",
+          "author": "Aaron Rinehart",
+          "description": "Today’s software systems are, essentially, controlled chaos—and lightly controlled chaos, at that. This makes it exceptionally challenging to model the behavior of those systems. Our systems are quickly becoming larger and larger, with more and more moving parts. It is not uncommon for enterprises to have over 1,000 microservices and millions of containers running thousands […]\nThe post Secure Software Summit: Applying Chaos Engineering to Software Security appeared first on DevOps.com.",
+          "link": "https://devops.com/secure-software-summit-applying-chaos-engineering-to-software-security/",
+          "publishedOn": "2022-03-18T13:30:54.000Z",
+          "wordCount": 2516,
+          "title": "Secure Software Summit: Applying Chaos Engineering to Software Security",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/11/orderandchaos.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150691",
+          "author": "DevOps Staff",
+          "description": "Microsoft’s Azure DevOps Server is emerging as one of the most popular cloud application development environments. Like most continuous integration/continuous delivery (CI/CD) platforms, it provides features such as version control, reporting, project management, automated builds, and testing. It covers all aspects of the application life cycle and enables DevOps. Here’s a closer look at this […]\nThe post A Closer Look at Azure DevOps appeared first on DevOps.com.",
+          "link": "https://devops.com/a-closer-look-at-azure-devops/",
+          "publishedOn": "2022-03-18T12:30:14.000Z",
+          "wordCount": 1264,
+          "title": "A Closer Look at Azure DevOps",
+          "imageUrl": "https://devops.com/wp-content/uploads/2021/07/data-driven-devops.jpg"
+        },
+        {
           "id": "https://devops.com/?p=150814",
           "author": "Richi Jennings",
           "description": "In this week’s The Long View: CSS-Tricks gets bought by DigitalOcean, Peloton fiddles while its business burns, and Arm lays off up to 15% of staff.\nThe post CSS-Tricks Sells Out | Peloton Spins Out | ARM Axes 1,000 appeared first on DevOps.com.",
@@ -47063,6 +47488,16 @@
           "imageUrl": "https://devops.com/wp-content/uploads/2020/06/Heroku-logging.jpg"
         },
         {
+          "id": "https://devops.com/?p=150860",
+          "author": "Veronica Haggar",
+          "description": "Delivering Protection That Doesn’t Wait for Detection, Glasswall Desktop Freedom Enables Organizations to Trust Every File London, EN, March 17, 2022 — Glasswall, a global leader in Content Disarm and Reconstruction (CDR) technology, today announced the availability of Glasswall Desktop Freedom, a freemium version of its market-leading desktop CDR application. Developed to help protect organizations […]\nThe post Glasswall Launches Freemium Version of its Desktop Content Disarm and Reconstruction App to Protect Against File-Based Cybersecurity Threats appeared first on DevOps.com.",
+          "link": "https://devops.com/glasswall-launches-freemium-version-of-its-desktop-content-disarm-and-reconstruction-app-to-protect-against-file-based-cybersecurity-threats/",
+          "publishedOn": "2022-03-17T15:30:00.000Z",
+          "wordCount": 1200,
+          "title": "Glasswall Launches Freemium Version of its Desktop Content Disarm and Reconstruction App to Protect Against File-Based Cybersecurity Threats",
+          "imageUrl": "https://devops.com/wp-content/uploads/2019/08/devopsdefault-1.png"
+        },
+        {
           "id": "https://devops.com/?p=150796",
           "author": "Veronica Haggar",
           "description": "Investment supports further development of Todyl’s comprehensive, unified security and networking platform DENVER, CO, March 17, 2022 — Todyl, an industry-leading security and networking company, announced a $28 Million Series A investment round led by Anthos Capital, with Tech Operators, Blu Ventures, and StoneMill Ventures increasing their existing investments to support Todyl’s mission of enabling […]\nThe post Todyl Raises $28 Million in Funding and Launches Todyl Security Platform with Integration of SIEM, EDR/NGAV, and MXDR into Existing SASE Platform appeared first on DevOps.com.",
@@ -47070,6 +47505,16 @@
           "publishedOn": "2022-03-17T14:30:13.000Z",
           "wordCount": 1347,
           "title": "Todyl Raises $28 Million in Funding and Launches Todyl Security Platform with Integration of SIEM, EDR/NGAV, and MXDR into Existing SASE Platform",
+          "imageUrl": "https://devops.com/wp-content/uploads/2019/08/devopsdefault-1.png"
+        },
+        {
+          "id": "https://devops.com/?p=150854",
+          "author": "Veronica Haggar",
+          "description": "Quickly launch and easily manage production-grade Kubernetes clusters for AI and machine learning applications at scale with Rafay Sunnyvale, CA, March 17, 2022 — Rafay Systems, the leading platform provider for Kubernetes Operations, announced the expansion of the industry’s only turnkey solution for operating Kubernetes clusters with GPU support at scale by adding powerful new metrics […]\nThe post Rafay Systems Powers AI and Machine Learning Applications at the Edge by Streamlining Operations for GPU-based Container Workloads appeared first on DevOps.com.",
+          "link": "https://devops.com/rafay-systems-powers-ai-and-machine-learning-applications-at-the-edge-by-streamlining-operations-for-gpu-based-container-workloads/",
+          "publishedOn": "2022-03-17T14:30:05.000Z",
+          "wordCount": 1459,
+          "title": "Rafay Systems Powers AI and Machine Learning Applications at the Edge by Streamlining Operations for GPU-based Container Workloads",
           "imageUrl": "https://devops.com/wp-content/uploads/2019/08/devopsdefault-1.png"
         },
         {
@@ -51928,6 +52373,16 @@
       "siteUrl": "https://flowingdata.com",
       "articles": [
         {
+          "id": "https://flowingdata.com/?p=67151",
+          "author": "Nathan Yau",
+          "description": "Changing the clocks twice a year can be a hassle, so some people…\nTags: daylight saving, sunrise, Washington Post",
+          "link": "https://flowingdata.com/2022/03/18/sunrise-times-with-permanent-day-light-saving/",
+          "publishedOn": "2022-03-18T10:45:41.000Z",
+          "wordCount": 261,
+          "title": "Sunrise times with permanent Day Light Saving",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/03/daylight-saving-time-change.png"
+        },
+        {
           "id": "https://flowingdata.com/?p=67138",
           "author": "Nathan Yau",
           "description": "Eventually you gotta make the charts for yourself and not for some expert's approval.\nTags: learning, rules",
@@ -54314,15 +54769,6 @@
           "publishedOn": "2021-04-21T16:41:41.000Z",
           "wordCount": 158,
           "title": "Thinking on ways to solve SPLIT TEXT"
-        },
-        {
-          "id": "https://web.dev/shows/gui-challenges/dm7gnp6eh3Q/",
-          "author": null,
-          "description": "In today’s GUI challenge, we build and demo a dynamic settings page with sliders and checkboxes. Our settings page is responsive, supports multiple device inputs, and works across browsers. How would you create a settings page?\n@Adam Argyle  will be responding to your comments for the first 30 minutes after the episode releases. Connect with us here, ask questions, or submit your own code!\nChapters:\n0:00 - Introduction\n0:37 - Cross Platform\n1:39 - Spacing\n3:02 - Layouts\n4:55 - Color\n6:19 - User Input\n7:18 - Javascript\n8:20 - Outro\n\n\n\n\nResources:\nRead along → \nTry a demo → \nGet the source → \n\nhttps://goo.gle/3bCerGKhttp://goo.gle/3qysEbWhttp://goo.gle/2OdXlWO\nInstall VisBug → http://goo.gle/3l286HF\nWatch more GUI Challenges → \nSubscribe to Google Chrome Developers → https://goo.gle/GUIchallengeshttp://goo.gl/LLLNvf\n\n#GUIchallenges #CSS #ChromeDeveloper",
-          "link": "https://web.dev/shows/gui-challenges/dm7gnp6eh3Q/",
-          "publishedOn": "2021-03-18T17:00:03.000Z",
-          "wordCount": 183,
-          "title": "Thinking on ways to solve SETTINGS"
         }
       ]
     }
