@@ -999,6 +999,36 @@
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
         {
+          "id": "http://www.i-programmer.info/news/80-java/15301-vaadin-2300-released-flow-and-hilla.html",
+          "author": null,
+          "description": "Vaadin, the versatile full stack Java-based framework that is a competitor to Spring MVC, continues to innovate with its new release of v23 which sees the first release of Hilla, the new name for Vaadin Fusion.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/80-java/15301-vaadin-2300-released-flow-and-hilla.html",
+          "publishedOn": "2022-03-21T17:50:13.000Z",
+          "wordCount": 1000,
+          "title": "Vaadin 23.0.0 Released - Flow and Hilla",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/news/197-data-mining/15300-redisjson-2-adds-indexing-option.html",
+          "author": null,
+          "description": "Redis has introduced RedisJSON 2, an enhanced version of the Redis module that implements the JSON Data Interchange Standard as a native data type. The module can be used to store, update and fetch JSON values from Redis documents.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/197-data-mining/15300-redisjson-2-adds-indexing-option.html",
+          "publishedOn": "2022-03-21T16:04:06.000Z",
+          "wordCount": 663,
+          "title": "RedisJSON 2 Adds Indexing Option",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/book-watch-archive/15299-functional-programming-in-c-2nd-ed-manning.html",
+          "author": null,
+          "description": "This book aims to show developers how to apply functional thinking to C# code. Enrico Buonanno's practical examples and spot-on treatment of FP concepts makes it the perfect guide for proficient C# programmers. This second edition is fully revised to cover new functional-inspired features in the most recent releases of C#, including tuples, async streams, pattern matching, and records.\n\r\n<ASIN:1617299820>\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/book-watch-archive/15299-functional-programming-in-c-2nd-ed-manning.html",
+          "publishedOn": "2022-03-21T16:01:09.000Z",
+          "wordCount": 477,
+          "title": "Functional Programming in C# 2nd Ed (Manning)",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.i-programmer.info/news/169-robotics/15298-drone-qr-codes.html",
           "author": null,
           "description": "The future of advertising was displayed this week in Austin, Texas to coincide with the South by Southwest festival. Drones created a huge QR code visible for miles around, attracting attention from a much larger audience than just the attendees at the show itself.\n\r\n\nRead more...",
@@ -2481,6 +2511,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=363745",
+          "author": "Jens Oliver Meiert",
+          "description": "You may not use XHTML (anymore), but when you write HTML, you may be more influenced by XHTML than you think. You are very likely writing HTML, the XHTML way.\nWhat is the XHTML way of writing HTML, and what …\nWrite HTML, the HTML Way (Not the XHTML Way) originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/write-html-the-html-way-not-the-xhtml-way/",
+          "publishedOn": "2022-03-21T20:08:38.000Z",
+          "wordCount": 1490,
+          "title": "Write HTML, the HTML Way (Not the XHTML Way)",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363745"
+        },
         {
           "id": "https://css-tricks.com/?p=364090",
           "author": "Bence Szabó",
@@ -5004,6 +5044,66 @@
       "feedUrl": "https://hackernoon.com/feed",
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
+        {
+          "id": "https://hackernoon.com/integrate-your-telegram-bot-with-real-world-via-esp32esp8266-arduino-microcontroller?source=rss",
+          "author": "Chingiz Nazar",
+          "description": "Controlling the queue to our office gaming room by Arduino-based Telegram. The Arduino with servo motor was installed to lock and unlock the door",
+          "link": "https://hackernoon.com/integrate-your-telegram-bot-with-real-world-via-esp32esp8266-arduino-microcontroller?source=rss",
+          "publishedOn": "2022-03-20T19:52:30.000Z",
+          "wordCount": 3120,
+          "title": "Integrate Your Telegram Bot With Real World via ESP32/ESP8266 Arduino Microcontroller",
+          "imageUrl": "https://cdn.hackernoon.com/images/sSM75Pv1ymei9J4n2y5VZJFo4cU2-ia93hlk.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/affiliate-marketing-is-no-longer-limited-to-big-brands-with-budgets-over-$100k-ivan-baidin?source=rss",
+          "author": "Danny Wesley",
+          "description": "Common mistakes when starting an affiliate marketing, top trends to account for, and forecast for the future development of this marketing channel.",
+          "link": "https://hackernoon.com/affiliate-marketing-is-no-longer-limited-to-big-brands-with-budgets-over-$100k-ivan-baidin?source=rss",
+          "publishedOn": "2022-03-20T19:48:39.000Z",
+          "wordCount": 2807,
+          "title": "\"Affiliate Marketing is NO Longer Limited to Big Brands with Budgets over $100k\" - Ivan Baidin",
+          "imageUrl": "https://cdn.hackernoon.com/images/8wlyTs6rS1Ns9rTwC8LtCyE03B52-qd93zjp.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/avoid-xss-and-csrf-attacks-in-jwt-react-golang-a-tutorial?source=rss",
+          "author": "nitoge",
+          "description": "Avoid XSS and CSRF attack in JWT with Golang and React for backend and frontend respectively.",
+          "link": "https://hackernoon.com/avoid-xss-and-csrf-attacks-in-jwt-react-golang-a-tutorial?source=rss",
+          "publishedOn": "2022-03-20T19:43:27.000Z",
+          "wordCount": 2233,
+          "title": "Avoid XSS and CSRF Attacks in JWT (React + Golang): A Tutorial",
+          "imageUrl": "https://cdn.hackernoon.com/images/xeYS5eO5c4fc3DiCZf6JyqMMQFz1-t993i1e.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/15-lodash-methods-for-everyday-coding?source=rss",
+          "author": "Diogo Capela",
+          "description": "The Lodash open-source library has some useful methods that can help developers write code faster and streamline their processes to improve their work.",
+          "link": "https://hackernoon.com/15-lodash-methods-for-everyday-coding?source=rss",
+          "publishedOn": "2022-03-20T19:39:20.000Z",
+          "wordCount": 2049,
+          "title": "15 Lodash Methods for Everyday Coding",
+          "imageUrl": "https://cdn.hackernoon.com/images/47NkqQMutwUjxg2pZd2zfao3ma12-qm93p10.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/observability-and-monitoring-in-a-nutshell?source=rss",
+          "author": "dejanualex",
+          "description": "A guide to understanding the concepts and differences between monitoring and observability.",
+          "link": "https://hackernoon.com/observability-and-monitoring-in-a-nutshell?source=rss",
+          "publishedOn": "2022-03-20T19:33:10.000Z",
+          "wordCount": 1806,
+          "title": "Observability and Monitoring in a nutshell",
+          "imageUrl": "https://cdn.hackernoon.com/images/qLR2YtmNmXZaUJh49E7BWmlwn0t1-upa3jy0.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/improve-your-websites-the-core-web-vitals-a-how-to-guide?source=rss",
+          "author": "Evelyn Grace",
+          "description": "Core web vitals are important page experience signals. In this article, you will learn about core web vital's importance, how to measure and improve them.",
+          "link": "https://hackernoon.com/improve-your-websites-the-core-web-vitals-a-how-to-guide?source=rss",
+          "publishedOn": "2022-03-20T19:11:56.000Z",
+          "wordCount": 2633,
+          "title": "Improve Your Website's the Core Web Vitals: A How-To Guide",
+          "imageUrl": "https://cdn.hackernoon.com/images/WnbrHmqtrfRSReViROhRguhocBn1-3r93jv4.jpeg"
+        },
         {
           "id": "https://hackernoon.com/$joe-research-report?source=rss",
           "author": "MBApes Academy",
@@ -27914,6 +28014,17 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=149326",
+          "author": "ACMer",
+          "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms Each Rubic Cube has 6 sides, and we can just count the number of squares and rectangles for one side and multiply by 6 which gives...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-counting-the-number-of-squares-and-rectangles-for-a-nxn-rubik-cube/",
+          "publishedOn": "2022-03-21T21:37:02.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Counting the Number of Squares and Rectangles of a NxN Rubik Cube",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://helloacm.com/?p=149308",
           "author": "ACMer",
           "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms Given a 3×3 Rubik Cube, how many Permutations does it have (solvable)? There are 6 cores (the pieces in the middle) which...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -29252,6 +29363,76 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=527662",
+          "author": "Al Williams",
+          "description": "There are several projects you can imagine where it would be useful to have a robot follow you. For example, we’ve always wanted luggage that would trail us at the …read more",
+          "link": "https://hackaday.com/2022/03/21/your-vacuum-cleaner-follows-you/",
+          "publishedOn": "2022-03-21T23:00:13.000Z",
+          "wordCount": 1333,
+          "title": "Your Vacuum Cleaner Follows You",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/robot.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=527535",
+          "author": "Dave Rowntree",
+          "description": "Scanning electron microscopes are one of those niche instruments that most of us don’t really need all the time, but would still love to have access to once in a …read more",
+          "link": "https://hackaday.com/2022/03/21/home-made-scanning-electron-microscope-show-some-potential/",
+          "publishedOn": "2022-03-21T20:00:43.000Z",
+          "wordCount": 1446,
+          "title": "Home Made Scanning Electron Microscope Shows Some Potential",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/7068301646051863934-featured.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=527607",
+          "author": "Chris Wilkinson",
+          "description": "The retrocomputing community are experts at keeping vintage Apple iron running, but if you’re looking for a simpler way to pay homage to the original Mac, check out this Raspberry …read more",
+          "link": "https://hackaday.com/2022/03/21/desk-accessory-pays-homage-to-macintosh/",
+          "publishedOn": "2022-03-21T17:00:00.000Z",
+          "wordCount": 1422,
+          "title": "‘Desk Accessory’ Pays Homage To Macintosh",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/systemsix_feature.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=527625",
+          "author": "Tom Nardi",
+          "description": "From a performance standpoint we know building a homebrew Raspberry Pi cluster doesn’t make a lot of sense, as even a fairly run of the mill desktop x86 machine is …read more",
+          "link": "https://hackaday.com/2022/03/21/cluster-your-pi-zeros-in-style-with-3d-printed-cray-1/",
+          "publishedOn": "2022-03-21T15:30:00.000Z",
+          "wordCount": 3144,
+          "title": "Cluster Your Pi Zeros In Style With 3D Printed Cray-1",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/picray_feat.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=527144",
+          "author": "Adam Zeloof",
+          "description": "The International Space Station was built not only in the name of science and exploration, but as a symbol of unity. Five space agencies, some representing countries who had been …read more",
+          "link": "https://hackaday.com/2022/03/21/one-giant-leap-backwards-for-humankind-what-the-russia-ukraine-war-means-for-the-iss/",
+          "publishedOn": "2022-03-21T14:00:30.000Z",
+          "wordCount": 5445,
+          "title": "One Giant Leap (Backwards) for Humankind: What the Russia-Ukraine War Means for the ISS",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/ISS.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=527498",
+          "author": "Arsenijs Picugins",
+          "description": "In today’s episode of Diminutive Device Technology Overview, [Sprite_TM] is at it again – this time conquering the HC32L110. A few weeks ago, we have highlighted the small ARM Cortex …read more",
+          "link": "https://hackaday.com/2022/03/21/heroic-efforts-give-smallest-arm-mcu-a-breakout-open-debugger/",
+          "publishedOn": "2022-03-21T11:00:00.000Z",
+          "wordCount": 1727,
+          "title": "Heroic Efforts Give Smallest ARM MCU a Breakout, Open Debugger",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/hadimg_huada_spritetm_feat.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=527566",
+          "author": "Arsenijs Picugins",
+          "description": "It might take you some time to understand what’s happening in the video that Hackaday alum [Moritz Sivers] shared with us. This is {Moritz]’s contribution for this year’s Pi Day …read more",
+          "link": "https://hackaday.com/2022/03/21/celebrating-the-infinity-of-pi-day-with-thermochromic-foil/",
+          "publishedOn": "2022-03-21T08:00:00.000Z",
+          "wordCount": 1337,
+          "title": "Celebrating The Infinity Of Pi Day With Thermochromic Foil",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/hadimg_piday_mcus_feat.jpeg"
+        },
         {
           "id": "https://hackaday.com/?p=526842&preview=true&preview_id=526842",
           "author": "Dan Maloney",
@@ -39532,6 +39713,94 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "BB39A575-9EF4-428B-84CF3C8B2440A80B",
+          "author": "Saima May Sidik, Nature magazine",
+          "description": "Such protection declines within months of the mRNA COVID vaccines’ third dose. Yet the vaccines continue to ward off severe disease\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/vaccines-remain-effective-against-ba-2-but-protection-from-infection-wanes-over-time/",
+          "publishedOn": "2022-03-21T19:45:00.000Z",
+          "wordCount": null,
+          "title": "Vaccines Remain Effective against BA.2, but Protection from Infection Wanes over Time",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "AC040ED7-E5AD-4428-9ABAC5D5CE7D4A7B",
+          "author": "Christina Maslach, Michael P. Leiter",
+          "description": "People realized their jobs don’t have to be that way\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/covid-changed-the-world-of-work-forever/",
+          "publishedOn": "2022-03-21T19:00:00.000Z",
+          "wordCount": null,
+          "title": "COVID Changed the World of Work Forever",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "32884BD8-ED96-433B-812166AD34C36975",
+          "author": "Chelsea Harvey, E&E News",
+          "description": "A century after the Endurance sank, Antarctica is still a land of mysteries\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-antarctica-has-changed-since-shackletons-1915-shipwreck/",
+          "publishedOn": "2022-03-21T17:00:00.000Z",
+          "wordCount": null,
+          "title": "How Antarctica Has Changed Since Shackleton's 1915 Shipwreck",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "9B1BFD49-BE45-4E66-BA34C62687EE29A2",
+          "author": "Matthew Gault",
+          "description": "As treaties end, Russia focuses on hypersonic weapons that could “tighten the noose” on current U.S. defenses\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/russias-new-nuclear-missiles-squeeze-response-time/",
+          "publishedOn": "2022-03-21T16:30:00.000Z",
+          "wordCount": null,
+          "title": "Russia's New Nuclear Missiles Squeeze Response Time",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "426C3EAE-D4F0-4F4F-A020D89DD3936338",
+          "author": "Jack Tamisiea",
+          "description": "A speck-sized beetle overturns assumptions about flight mechanics\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/tiny-flier-swims-through-the-air-at-superspeed/",
+          "publishedOn": "2022-03-21T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Tiny Flier 'Swims' through the Air at Superspeed",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "05C70140-6E45-45DA-A5DA670902B64489",
+          "author": "Elizabeth Gibney, Nature magazine",
+          "description": "When Russia invaded Ukraine, many analysts expected an unprecedented level of cyberattacks—which so far haven’t materialized\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/where-is-russias-cyberwar-researchers-decipher-its-strategy/",
+          "publishedOn": "2022-03-21T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Where Is Russia's Cyberwar? Researchers Decipher Its Strategy",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "1FEBB2C0-2EEC-40A1-92AB3EB363440E30",
+          "author": "Cara C. Heuser",
+          "description": "As light can exist as both a particle and a wave, an abortion provider can honor birth and fight for a person’s right to give birth when it’s right for them\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/what-quantum-mechanics-can-teach-us-about-abortion/",
+          "publishedOn": "2022-03-21T12:00:00.000Z",
+          "wordCount": null,
+          "title": "What Quantum Mechanics Can Teach Us about Abortion",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "BE6F0DBC-00DD-4AD9-B8065B1CAF8A7A16",
+          "author": "Rachel Crowell",
+          "description": "More than 50 years after the seeds of a vast collection of mathematical ideas called the Langlands program began to sprout, surprising new findings are emerging\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-evolving-quest-for-a-grand-unified-theory-of-mathematics/",
+          "publishedOn": "2022-03-21T10:45:00.000Z",
+          "wordCount": null,
+          "title": "The Evolving Quest for a Grand Unified Theory of Mathematics",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "4A048164-278A-41CF-AE5BEC698C3EE370",
           "author": "Tanya Lewis, Josh Fischman, Tulika Bose, Jeffery DelViscio",
           "description": "Today we bring you a new episode in our podcast series COVID, Quickly. Every two weeks, Scientific American’s senior health editors Tanya Lewis and Josh Fischman catch you up on the...\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -47920,6 +48189,46 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=150900",
+          "author": "ROELBOB",
+          "description": "The post The Future of Code appeared first on DevOps.com.",
+          "link": "https://devops.com/the-future-of-code/",
+          "publishedOn": "2022-03-21T15:18:23.000Z",
+          "wordCount": 438,
+          "title": "The Future of Code",
+          "imageUrl": "https://devops.com/wp-content/uploads/2022/03/future-of-code-b.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150904",
+          "author": "Mike Vizard",
+          "description": "A survey of 900 application testing professionals conducted by PractiTest, a provider of a platform for managing testing tools, suggested the number of organizations that have dedicated testing teams is declining at a steady rate. The survey found a 15% decrease in organizations with dedicated testing teams that have six or more members. At the […]\nThe post Survey Sees App Testing More Widely Distributed appeared first on DevOps.com.",
+          "link": "https://devops.com/survey-sees-app-testing-more-widely-distributed/",
+          "publishedOn": "2022-03-21T13:25:57.000Z",
+          "wordCount": 1026,
+          "title": "Survey Sees App Testing More Widely Distributed",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/09/AItesting.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150865",
+          "author": "Malcolm Harkins",
+          "description": "It is impossible to manage security posture without considering two key factors in any potential vulnerability or security flaw: Reachability and risk. The two factors are related. Reachability defines the degree to which a given security vulnerability that is detected, such as a CVE, can actually be attacked and exploited to gain privileged access and […]\nThe post Secure Software Summit: Reachability and Risk for Security Leaders appeared first on DevOps.com.",
+          "link": "https://devops.com/secure-software-summit-reachability-and-risk-for-security-leaders/",
+          "publishedOn": "2022-03-21T12:30:34.000Z",
+          "wordCount": 2105,
+          "title": "Secure Software Summit: Reachability and Risk for Security Leaders",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/09/reachingout.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150862",
+          "author": "Bernard Brode",
+          "description": "The rise of remote workforces, cryptocurrencies and super-sized data centers brings to the forefront a concern in tech development that doesn’t get enough attention: The impact of computing and advanced technologies on the environment. About six months into the pandemic, people began to notice cleaner air, clearer water and an overall calming effect on the […]\nThe post 5 Steps to More Sustainable DevOps appeared first on DevOps.com.",
+          "link": "https://devops.com/5-steps-to-more-sustainable-devops/",
+          "publishedOn": "2022-03-21T12:30:15.000Z",
+          "wordCount": 1538,
+          "title": "5 Steps to More Sustainable DevOps",
+          "imageUrl": "https://devops.com/wp-content/uploads/2018/11/brownfield-greenfield-e1647611807366.jpg"
+        },
+        {
           "id": "https://devops.com/?p=150835",
           "author": "Aaron Rinehart",
           "description": "Today’s software systems are, essentially, controlled chaos—and lightly controlled chaos, at that. This makes it exceptionally challenging to model the behavior of those systems. Our systems are quickly becoming larger and larger, with more and more moving parts. It is not uncommon for enterprises to have over 1,000 microservices and millions of containers running thousands […]\nThe post Secure Software Summit: Applying Chaos Engineering to Software Security appeared first on DevOps.com.",
@@ -51950,6 +52259,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=113416",
+          "author": "Thomas Lewton",
+          "description": "Physicists are devising clever new ways to exploit the extreme sensitivity of gravitational wave detectors like LIGO. But so far, they’ve seen no signs of exotica.            \nThe post A New Tool for Finding Dark Matter Digs Up Nothing first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/a-new-tool-for-finding-dark-matter-digs-up-nothing-20220321/",
+          "publishedOn": "2022-03-21T13:56:36.000Z",
+          "wordCount": 1565,
+          "title": "A New Tool for Finding Dark Matter Digs Up Nothing",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/Beam-Splitter_1200_social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=113342",
           "author": "Steven Strogatz",
           "description": "The noted mathematician and author Steven Strogatz explains how the conversations with experts in his new Quanta Magazine podcast address his lifelong fascination with timeless mysteries.            \nThe post Deep Curiosity Inspires The Joy of Why Podcast first appeared on Quanta Magazine",
@@ -52844,6 +53163,16 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=67156",
+          "author": "Nathan Yau",
+          "description": "For NYT’s The Upshot, Bianca Pallaro and Alicia Parlapiano break down the United…\nTags: spending, Ukraine, Upshot, war",
+          "link": "https://flowingdata.com/2022/03/21/us-spending-on-ukraine/",
+          "publishedOn": "2022-03-21T15:38:38.000Z",
+          "wordCount": 350,
+          "title": "US spending on Ukraine",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/03/Spending-Ukraine.png"
+        },
         {
           "id": "https://flowingdata.com/?p=67151",
           "author": "Nathan Yau",
