@@ -104,16 +104,6 @@
           "wordCount": 371,
           "title": "Google Season of Docs 2020-2021 Wrap-Up",
           "imageUrl": "https://1.bp.blogspot.com/-lp5QS2n9-Tk/Xt_dEWSO5kI/AAAAAAAAAdU/R7W-LQrnX-8HCS1yOBJEXw1cBiDOfkoMACLcBGAsYHQ/s1600/SeasonofDocs_Logo_MainGrey_300ppi.png"
-        },
-        {
-          "id": "https://julialang.org/blog/2021/03/julia-1.6-highlights/",
-          "author": null,
-          "description": "Some highlights of the Julia 1.6 release.\nRead more",
-          "link": "https://julialang.org/blog/2021/03/julia-1.6-highlights/",
-          "publishedOn": "2021-03-24T00:00:00.000Z",
-          "wordCount": 3887,
-          "title": "Julia 1.6 Highlights",
-          "imageUrl": "/assets/images/julia-open-graph.png"
         }
       ]
     },
@@ -999,6 +989,36 @@
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
         {
+          "id": "http://www.i-programmer.info/book-watch-archive/15306-python-testing-with-pytest-2nd-ed-pragmatic-bookshelf.html",
+          "author": null,
+          "description": "This book shows how to use pytest to write tests quickly and keep them readable and maintainable. In this fully revised edition, Brian Okken explores pytest's superpowers - simple asserts, fixtures, parametrization, markers, and plugins - while creating simple tests and test suites against a small database application. With simple step-by-step instructions and sample code, this book gets you up to speed quickly on this easy-to-learn yet powerful tool.\n\r\n<ASIN:1680508601>\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/book-watch-archive/15306-python-testing-with-pytest-2nd-ed-pragmatic-bookshelf.html",
+          "publishedOn": "2022-03-23T18:43:53.000Z",
+          "wordCount": 446,
+          "title": "Python Testing with pytest, 2nd Ed (Pragmatic Bookshelf)",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/news/193-android/15304-android-tablet-first.html",
+          "author": null,
+          "description": "I don't know about you, but I love Android tablets. Recently, however, I have given in to pressure from Amazon and use Fire Tablets. Now Google seems to think that it is time to give the format a try. Why did it ever give up on tablets?\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/193-android/15304-android-tablet-first.html",
+          "publishedOn": "2022-03-23T10:45:30.000Z",
+          "wordCount": 931,
+          "title": "Android - Tablet First!",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/news/149-security/15305-javascript-prototype-vulnerability.html",
+          "author": null,
+          "description": "The first large scale investigation of the prevalence of JavaScript prototype pollution reveals that more than 2,700 of websites, including ten among the top 1,000 had flaws that could expose them to exploitable vulnerabilities.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/149-security/15305-javascript-prototype-vulnerability.html",
+          "publishedOn": "2022-03-23T01:23:48.000Z",
+          "wordCount": 1063,
+          "title": "JavaScript Prototype Vulnerabilities",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.i-programmer.info/bookreviews/4-methodology/15303-understanding-software-dynamics-addison-wesley.html",
           "author": null,
           "description": "Author: Richard L. Sites\nPublisher: Addison-Wesley\nPages: 464\n ISBN: 978-0137589739\nPrint: 0137589735\nKindle: B09H5JB5HC\n Audience: Every developers\nRating: 5\nReviewer: Kay Ewbank\n\r\nThis book looks at the different reasons why software runs too slowly, and what developers can do about it, starting by looking at how to measure the problem, then observing what's going wrong, and finally how to fix it. \n\r\n\nRead more...",
@@ -1056,6 +1076,16 @@
           "publishedOn": "2022-03-21T16:01:09.000Z",
           "wordCount": 477,
           "title": "Functional Programming in C# 2nd Ed (Manning)",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/programming/theory/8864-managing-asynchronous-code-callbacks-promises-a-asyncawait.html",
+          "author": null,
+          "description": "You can understand asynchronous code very deeply and still have no clear idea how best to write such code. There are so many possible approaches.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/programming/theory/8864-managing-asynchronous-code-callbacks-promises-a-asyncawait.html",
+          "publishedOn": "2022-03-21T00:00:00.000Z",
+          "wordCount": 1196,
+          "title": "Managing Asynchronous Code - Callbacks, Promises &amp; Async/Await",
           "imageUrl": null
         },
         {
@@ -5075,6 +5105,146 @@
       "siteUrl": "http://github.com/dylang/node-rss",
       "articles": [
         {
+          "id": "https://hackernoon.com/what-are-the-common-app-development-costs-in-2022?source=rss",
+          "author": "Tanisha Mittal",
+          "description": "The cost of developing an app is not fixed.",
+          "link": "https://hackernoon.com/what-are-the-common-app-development-costs-in-2022?source=rss",
+          "publishedOn": "2022-03-23T13:53:57.000Z",
+          "wordCount": 2174,
+          "title": "What Are the Common App Development Costs in 2022?",
+          "imageUrl": "https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-dha3vdk.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/implementing-business-technology-improves-startup-operations?source=rss",
+          "author": "Anastasia Lisovceva",
+          "description": "Considering all the ways technology is currently improving your business can help you think more broadly about how further implementation can affect operations.",
+          "link": "https://hackernoon.com/implementing-business-technology-improves-startup-operations?source=rss",
+          "publishedOn": "2022-03-23T11:56:55.000Z",
+          "wordCount": 1871,
+          "title": "Implementing Business Technology Improves Startup Operations",
+          "imageUrl": "https://cdn.hackernoon.com/images/z8mGZ3RcTGU7FfimT6fRQOFr3zh2-3q93jmo.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/solid-principles-in-javascript-what-does-the-d-stand-for?source=rss",
+          "author": "Serhii Rubets",
+          "description": "Hello, guys, this is the last part of SOLID Principles in JavaScript and if you haven't read the previous three (first part, second part, third part, fourth part), I highly recommend to read them first and come back here.",
+          "link": "https://hackernoon.com/solid-principles-in-javascript-what-does-the-d-stand-for?source=rss",
+          "publishedOn": "2022-03-23T11:50:30.000Z",
+          "wordCount": 2311,
+          "title": "SOLID Principles in JavaScript: What Does the \"D\" Stand For?",
+          "imageUrl": "https://cdn.hackernoon.com/images/Up825JZF5yROkBJQEVNelNrvnOn1-5k93hty.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-find-the-stinky-parts-of-your-code-part-xv?source=rss",
+          "author": "Maximiliano Contieri",
+          "description": "We see several symptoms and situations that make us doubt the quality of our development. Most of these smells are just hints of something that might be wrong.",
+          "link": "https://hackernoon.com/how-to-find-the-stinky-parts-of-your-code-part-xv?source=rss",
+          "publishedOn": "2022-03-23T11:44:13.000Z",
+          "wordCount": 2524,
+          "title": "How to Find The Stinky Parts of Your Code [Part XV]",
+          "imageUrl": "https://cdn.hackernoon.com/images/RIiBoPtpMiRsMKX3dnzl5gb1Urj1-7e93jlq.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/dear-professor-your-opinion-on-crypto-sucks-warm-regards?source=rss",
+          "author": "Abhijoy Sarkar",
+          "description": "The following is an open letter I wrote to my professor in response to his opinion piece which supported a ban on cryptocurrencies in India.",
+          "link": "https://hackernoon.com/dear-professor-your-opinion-on-crypto-sucks-warm-regards?source=rss",
+          "publishedOn": "2022-03-23T04:55:31.000Z",
+          "wordCount": 3325,
+          "title": "Dear Professor: Your Opinion on Crypto Sucks, Warm Regards",
+          "imageUrl": "https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-bu93v4r.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/learn-about-how-covid-19-impacted-nonprofits-and-potential-employees?source=rss",
+          "author": "TechSoup",
+          "description": "The pandemic disrupted the nonprofit sector like never before",
+          "link": "https://hackernoon.com/learn-about-how-covid-19-impacted-nonprofits-and-potential-employees?source=rss",
+          "publishedOn": "2022-03-23T03:54:51.000Z",
+          "wordCount": 2394,
+          "title": "Learn About How COVID-19 Impacted Nonprofits and Potential Employees",
+          "imageUrl": "https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-y893v2d.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/a-review-of-us-tenant-screening-processes-is-requested-by-sen-sherrod-brown?source=rss",
+          "author": "The Markup",
+          "description": "In a letter last week, Sen. Sherrod Brown (D-OH) detailed his committee’s findings on tenant reports from 10 companies.",
+          "link": "https://hackernoon.com/a-review-of-us-tenant-screening-processes-is-requested-by-sen-sherrod-brown?source=rss",
+          "publishedOn": "2022-03-23T03:48:32.000Z",
+          "wordCount": 1771,
+          "title": "A Review of U.S. Tenant Screening Processes is Requested By Sen. Sherrod Brown",
+          "imageUrl": "https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-jj93vha.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/5-benefits-of-using-robotic-process-automation-in-banking?source=rss",
+          "author": "Henry Bell",
+          "description": "In this article, we explored the applications of RPA in the banking sector.",
+          "link": "https://hackernoon.com/5-benefits-of-using-robotic-process-automation-in-banking?source=rss",
+          "publishedOn": "2022-03-23T03:37:34.000Z",
+          "wordCount": 2282,
+          "title": "5 Benefits of Using Robotic Process Automation in Banking",
+          "imageUrl": "https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-gt93vft.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-create-and-validate-a-reactive-form-in-an-angular-application?source=rss",
+          "author": "Rodrigo Kamada",
+          "description": "Form validation enables the quality, accuracy, and integrity of the user input data.",
+          "link": "https://hackernoon.com/how-to-create-and-validate-a-reactive-form-in-an-angular-application?source=rss",
+          "publishedOn": "2022-03-23T03:26:49.000Z",
+          "wordCount": 2347,
+          "title": "How to Create and Validate a Reactive Form in an Angular Application",
+          "imageUrl": "https://cdn.hackernoon.com/images/iKaRdx2obzTbVRWs5dbTRcG8zVj1-2w92k5r.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/6-interesting-play-to-earn-games-to-look-out-for-in-2022?source=rss",
+          "author": "Cryptonite",
+          "description": "As competition heats up in the P2E space, there’s no better time than now to take a look at some interesting titles on some of the major blockchains.",
+          "link": "https://hackernoon.com/6-interesting-play-to-earn-games-to-look-out-for-in-2022?source=rss",
+          "publishedOn": "2022-03-23T02:45:19.000Z",
+          "wordCount": 3325,
+          "title": "6 Interesting Play-to-Earn Games to Look Out For in 2022",
+          "imageUrl": "https://cdn.hackernoon.com/images/GwZ4a1OS3uMhvLngHCl9tofBO1J2-h993imr.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/what-is-a-data-reliability-engineer?source=rss",
+          "author": "Alvin Lee",
+          "description": "With each day, enterprises increasingly rely on data to make decisions.",
+          "link": "https://hackernoon.com/what-is-a-data-reliability-engineer?source=rss",
+          "publishedOn": "2022-03-23T02:12:46.000Z",
+          "wordCount": 2925,
+          "title": "What is a Data Reliability Engineer?",
+          "imageUrl": "https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-ci93v4o.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/the-great-resignation-why-80percent-of-tech-employees-are-seeking-alternative-employment?source=rss",
+          "author": "Rick Chen",
+          "description": "A survey from the professional social network Blind, tech employees are looking to make a change within 3-months, Indicating a persisting “Great Resignation\"",
+          "link": "https://hackernoon.com/the-great-resignation-why-80percent-of-tech-employees-are-seeking-alternative-employment?source=rss",
+          "publishedOn": "2022-03-23T01:51:28.000Z",
+          "wordCount": 2010,
+          "title": "The Great Resignation: Why 80% of Tech Employees are Seeking Alternative Employment",
+          "imageUrl": "https://cdn.hackernoon.com/images/VLxHvCQtyKcQRJ8iJBVZf7kjiC43-gn93jr1.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/watching-a-war-in-a-digital-age?source=rss",
+          "author": "An Le",
+          "description": "Watching a war in a digital age, his-story has the potential to become their-story, our-story, and humanity’s-story.",
+          "link": "https://hackernoon.com/watching-a-war-in-a-digital-age?source=rss",
+          "publishedOn": "2022-03-23T01:50:13.000Z",
+          "wordCount": 2557,
+          "title": "Watching a War, in a Digital Age",
+          "imageUrl": "https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-g793v06.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/what-good-is-a-metaverse-in-which-you-do-not-truly-own-your-assets?source=rss",
+          "author": "Masha Prusso",
+          "description": "If you can tokenize a deed of ownership, why not tokenize documentation like driver licenses, passports, insurance policies, memberships, etc?",
+          "link": "https://hackernoon.com/what-good-is-a-metaverse-in-which-you-do-not-truly-own-your-assets?source=rss",
+          "publishedOn": "2022-03-23T00:01:26.000Z",
+          "wordCount": 3466,
+          "title": "What Good is a Metaverse in Which You Do Not Truly Own Your Assets?",
+          "imageUrl": "https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-1t93vyx.jpeg"
+        },
+        {
           "id": "https://hackernoon.com/top-10-ux-design-principles-to-use-with-visually-appealing-websites?source=rss",
           "author": "Aelius Venture",
           "description": "UX design principles help build durable solutions through new design patterns, interaction models, and standards.",
@@ -5185,6 +5355,16 @@
           "imageUrl": "https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-6fz3idk.jpeg"
         },
         {
+          "id": "https://hackernoon.com/how-to-get-rid-of-application-lag-profiling-regression-tests-and-more?source=rss",
+          "author": "Daniel",
+          "description": "These types of testing ensure that the application does not experience any lags when processing user inputs and that it is capable of functioning properly.",
+          "link": "https://hackernoon.com/how-to-get-rid-of-application-lag-profiling-regression-tests-and-more?source=rss",
+          "publishedOn": "2022-03-21T18:15:56.000Z",
+          "wordCount": 2177,
+          "title": "How to Get Rid of Application Lag: Profiling, Regression Tests, and More",
+          "imageUrl": "https://hackernoon.com/fallback-feat.png"
+        },
+        {
           "id": "https://hackernoon.com/how-the-financial-crisis-trump-covid19-and-gamestop-created-web3?source=rss",
           "author": "Adrien Book",
           "description": "The world is bursting with talks of new, exciting technologies. Blockchain, Cryptocurrencies, NFTs, DAOs, DeFi, Metaverse… where do they come from?",
@@ -5193,6 +5373,16 @@
           "wordCount": 3544,
           "title": "How the Financial Crisis, Trump, Covid19 & GameStop Created Web3",
           "imageUrl": "https://cdn.hackernoon.com/images/3nYoHS7Mr4T8r5HUS7vyi7oMqu42-e193ib9.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/maybe-elon-musk-will-have-shut-up-by-then-says-blockchain-founder-aspiring-for-greatness?source=rss",
+          "author": "Crypto Fireside",
+          "description": "Andrei R from Crypto Fireside talks to John Marrin From Use Case Future Technologies on Developing a new Fantasy MMORPG Metaverse Game...",
+          "link": "https://hackernoon.com/maybe-elon-musk-will-have-shut-up-by-then-says-blockchain-founder-aspiring-for-greatness?source=rss",
+          "publishedOn": "2022-03-21T16:30:40.000Z",
+          "wordCount": 5465,
+          "title": "\"Maybe Elon Musk Will Have Shut Up By Then,\" Says Blockchain Founder Aspiring for Greatness",
+          "imageUrl": "https://cdn.hackernoon.com/images/N0ENUd29UdNJCFcl7GnmZHdk2fA2-d593isz.jpeg"
         },
         {
           "id": "https://hackernoon.com/how-to-grow-your-masseter-muscle-yes-its-possible?source=rss",
@@ -5645,6 +5835,16 @@
           "imageUrl": "https://cdn.hackernoon.com/images/j032x1l3rNRyImLVdMbpKA2lemm1-lo93jvb.jpeg"
         },
         {
+          "id": "https://hackernoon.com/the-future-of-gaming-writing-contest-by-megafans-x-hackernoon?source=rss",
+          "author": "HackerNoon Writing Contests",
+          "description": "The Future of Gaming Writing Contest runs from April 1 to June 30th w/$5300 in  cash prizes for the top 5 stories submitted each month.",
+          "link": "https://hackernoon.com/the-future-of-gaming-writing-contest-by-megafans-x-hackernoon?source=rss",
+          "publishedOn": "2022-03-18T09:31:05.000Z",
+          "wordCount": 1770,
+          "title": "The Future of Gaming Writing Contest by Megafans x HackerNoon",
+          "imageUrl": "https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-4a93lpp.jpeg"
+        },
+        {
           "id": "https://hackernoon.com/is-technology-the-future-of-art?source=rss",
           "author": "Sara Pinto",
           "description": "In this slogging thread, our technology channel discussed the latest news about artists who were challenged to create an immersive exhibition.",
@@ -5663,6 +5863,16 @@
           "wordCount": 1968,
           "title": "Working with Startups: Factors that are Important for an IT Specialist Today",
           "imageUrl": "https://cdn.hackernoon.com/images/16ChB2rveuMbaKoi890weUEWtCC3-5993jr4.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/we-are-currently-experiencing-a-renaissance-of-open-source-software?source=rss",
+          "author": "Kuwala",
+          "description": "as well as open-source projects in the data space, which primarily define the modern data stack. It is time to dive a little deeper into the topic.",
+          "link": "https://hackernoon.com/we-are-currently-experiencing-a-renaissance-of-open-source-software?source=rss",
+          "publishedOn": "2022-03-18T07:03:58.000Z",
+          "wordCount": 3168,
+          "title": "We are Currently Experiencing a Renaissance of Open-Source Software",
+          "imageUrl": "https://cdn.hackernoon.com/images/eoFt9fvUnJZWjIQFjCu3guaNGFj2-wn93j6z.jpeg"
         },
         {
           "id": "https://hackernoon.com/how-to-integrate-servicenow-and-azuredevops?source=rss",
@@ -5835,6 +6045,16 @@
           "imageUrl": "https://cdn.hackernoon.com/images/04RBQUokhMcaEo331itGHu88zIw1-n893gzf.jpeg"
         },
         {
+          "id": "https://hackernoon.com/kubernetes-impact-on-development?source=rss",
+          "author": "Asad Faizi",
+          "description": "Kubernetes is the reason containerization has garnered acceptance among enterprises. Whether you like it or not, it has made your life as a developer easy.",
+          "link": "https://hackernoon.com/kubernetes-impact-on-development?source=rss",
+          "publishedOn": "2022-03-17T02:08:32.000Z",
+          "wordCount": 2447,
+          "title": "Kubernetes' Impact on Development",
+          "imageUrl": "https://cdn.hackernoon.com/images/XxKd7GHcsbMkdDsGr4iZvwOVfx43-m293jk6.jpeg"
+        },
+        {
           "id": "https://hackernoon.com/choosing-between-react-gatsby-nextjs-for-your-frontend?source=rss",
           "author": "Vlad Mihet",
           "description": "React, Gatsby, Next.js. Which of the three should you choose for your frontend web development and what should you understand before you make the decision?",
@@ -5883,6 +6103,16 @@
           "wordCount": 5552,
           "title": "The Fascinating Science of the Dollar",
           "imageUrl": "https://cdn.hackernoon.com/images/2CARJKZeSLSLZqCN7VhaikaCox93-i2d3o48.jpeg"
+        },
+        {
+          "id": "https://hackernoon.com/how-to-get-startup-ideas-using-3-frameworks?source=rss",
+          "author": "Zoe Chew",
+          "description": "Note: This article is part of my resource newsletters↗️ where I share insights on building things in tech. Join me :)‍",
+          "link": "https://hackernoon.com/how-to-get-startup-ideas-using-3-frameworks?source=rss",
+          "publishedOn": "2022-03-17T00:41:42.000Z",
+          "wordCount": 2355,
+          "title": "How to Get Startup Ideas Using 3 Frameworks",
+          "imageUrl": "https://cdn.hackernoon.com/images/9FoqLXBqkFSxBjQvbeLToKfU4GA2-zjj3hqp.jpeg"
         },
         {
           "id": "https://hackernoon.com/marketing-tips-that-are-totally-plug-and-play?source=rss",
@@ -28244,6 +28474,17 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=149368",
+          "author": "ACMer",
+          "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms Have you wondered the parameters in Python are passed by values, or references? For example, given the following function: def...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-pass-by-values-references-or-object-references-in-python/",
+          "publishedOn": "2022-03-23T21:46:10.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Pass by Values, References or Object-References in Python",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://helloacm.com/?p=149348",
           "author": "ACMer",
           "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms Given the root of a binary tree, imagine yourself standing on the left/right side of it, return the values of the nodes you can see...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -29604,6 +29845,76 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=527812",
+          "author": "Ryan Flowers",
+          "description": "Twenty Two Motors. Fifty gears. Eighty Two Hundred RPM. Hundreds of individual pieces, and one sheet of glossy paper cut into a disk. This isn’t a nightmare driven Rube Goldberg …read more",
+          "link": "https://hackaday.com/2022/03/23/brick-and-motor-table-saw-delivers-paper-cuts-on-demand/",
+          "publishedOn": "2022-03-23T23:00:17.000Z",
+          "wordCount": 1209,
+          "title": "Brick And Motor Table Saw Delivers Paper Cuts On Demand",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/lego-table-saw-featured.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=527799",
+          "author": "Lewin Day",
+          "description": "Wheels are typically just simple cylinders, though fans of I, Robot (2004) may have admired the handsome vehicle featuring ball wheels that was driven by the protagonist. YouTuber [Brick Technology] decided …read more",
+          "link": "https://hackaday.com/2022/03/23/lego-car-demonstrates-proper-use-of-ball-wheels/",
+          "publishedOn": "2022-03-23T20:00:34.000Z",
+          "wordCount": 1885,
+          "title": "Lego Car Demonstrates Proper Use of Ball Wheels",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/maxresdefault.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=527698",
+          "author": "Al Williams",
+          "description": "When you want to fabricate something you either start with something and take away what you don’t want — subtractive manufacturing — or you start with nothing and add material, …read more",
+          "link": "https://hackaday.com/2022/03/23/3d-printing-concept-car-parts/",
+          "publishedOn": "2022-03-23T17:00:00.000Z",
+          "wordCount": 1303,
+          "title": "3D Printing Concept Car (Parts)",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/vital.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=527701&preview=true&preview_id=527701",
+          "author": "Elliot Williams",
+          "description": "[Tom], of the YouTube channel ThingsTomLike, found a very sweet little mechanical Pong clone at a thrift store. It came in broken, but in only fifteen minutes of your time, …read more",
+          "link": "https://hackaday.com/2022/03/23/old-school-mechanical-pong-still-amazes/",
+          "publishedOn": "2022-03-23T15:30:32.000Z",
+          "wordCount": 1316,
+          "title": "Old School Mechanical Pong Still Amazes",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/vintage_tv_tennis-lets_dig_into_it-ypug-09c4wwebm-shot0003_featured.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=527875",
+          "author": "Lewin Day",
+          "description": "Plastics, by and large, are well-understood materials. Not as strong as most metals, but often much lighter, these man-made polymers have found innumerable applications that have revolutionized the way we …read more",
+          "link": "https://hackaday.com/2022/03/23/two-dimensional-polymer-is-a-new-ultra-strong-material/",
+          "publishedOn": "2022-03-23T14:00:11.000Z",
+          "wordCount": 2278,
+          "title": "Two-Dimensional Polymer Is A New Ultra-Strong Material",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/platelets.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=527797",
+          "author": "Lewin Day",
+          "description": "When you’re building wearables and glowables, sometimes a flashy rainbow animation is all you need. [Geeky Faye] likes to go a little further, however, and built this impressive necklace that …read more",
+          "link": "https://hackaday.com/2022/03/23/breathe-easy-with-this-led-air-sensor-necklace/",
+          "publishedOn": "2022-03-23T11:00:28.000Z",
+          "wordCount": 1528,
+          "title": "Breathe Easy With This LED Air Sensor Necklace",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/airnecklace_feat.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=527749",
+          "author": "Al Williams",
+          "description": "The Apple-I was a far cry from Apple’s later products. A $666 single-board computer, the product had some unique design features including using a shift register for video memory to …read more",
+          "link": "https://hackaday.com/2022/03/23/ken-shirriff-takes-a-bite-of-the-apple-i/",
+          "publishedOn": "2022-03-23T08:00:09.000Z",
+          "wordCount": 1537,
+          "title": "[Ken Shirriff] Takes a Bite of the Apple-I",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/a1.png"
+        },
         {
           "id": "https://hackaday.com/?p=527862",
           "author": "Tom Nardi",
@@ -40024,6 +40335,101 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "D818A05D-4682-4DF2-841E3556A620CB1F",
+          "author": "Elizabeth Howell, SPACE.com",
+          "description": "With its mirrors now focused, the observatory’s science instruments are now being readied for work\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/a-stunning-image-shows-stars-aligned-for-the-james-webb-space-telescope/",
+          "publishedOn": "2022-03-23T20:45:00.000Z",
+          "wordCount": null,
+          "title": "A Stunning Image Shows Stars Aligned for the James Webb Space Telescope",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "2DC57196-BA73-409B-B822888A9C724C6E",
+          "author": "Christopher Intagliata",
+          "description": "A nearly two-year-long study of Hawaiian corals suggests some species may be better equipped to handle warmer, more acidic waters than previously believed.\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/podcast/episode/some-good-news-about-corals-and-climate-change/",
+          "publishedOn": "2022-03-23T20:00:00.000Z",
+          "wordCount": null,
+          "title": "Some Good News About Corals and Climate Change",
+          "itunes": {
+            "duration": "01:56"
+          },
+          "enclosure": {
+            "url": "http://flex.acast.com/www.scientificamerican.com/podcast/podcast.mp3?fileId=A6DE4B44-0EA6-478F-B26636D26DC13E7C",
+            "length": "1859242",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "44E46082-7AF1-4BEA-9A30C69313C1DDFF",
+          "author": "Joanna Thompson",
+          "description": "A pandemic micrography project\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/see-crystals-form-a-mesmerizing-world-of-microscopic-landscapes/",
+          "publishedOn": "2022-03-23T19:00:00.000Z",
+          "wordCount": null,
+          "title": "See Crystals Form a Mesmerizing World of Microscopic Landscapes",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "168CFCF1-E7BF-4F76-B1169C687828246C",
+          "author": "John Fialka, E&E News",
+          "description": "Retrofitting older buildings with heat pumps and insulation would reduce energy costs and carbon emissions\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/public-housing-to-receive-efficiency-upgrades-as-part-of-energy-department-experiment/",
+          "publishedOn": "2022-03-23T18:00:00.000Z",
+          "wordCount": null,
+          "title": "Public Housing to Receive Efficiency Upgrades as Part of Energy Department Experiment",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "131B2B8C-326A-44E3-926A71F8E83BB0E1",
+          "author": "Riley Black",
+          "description": "A related lineage’s explosive growth leaves just one descendant today\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/snakes-and-lizards-slow-and-steady-evolution-won-the-race/",
+          "publishedOn": "2022-03-23T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Snakes' and Lizards' Slow and Steady Evolution Won the Race",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "54629B87-039B-4568-9082D72B03F7CD1D",
+          "author": "Joseph Bak-Coleman, Carl T. Bergstrom",
+          "description": "The pandemic pushed researchers into new forms of rapid communication and collaboration\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/a-high-speed-scientific-hive-mind-emerged-from-the-covid-pandemic/",
+          "publishedOn": "2022-03-23T13:00:00.000Z",
+          "wordCount": null,
+          "title": "A High-Speed Scientific Hive Mind Emerged from the COVID Pandemic",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "3A5FC1C9-7D8E-4EFD-A3CB0A18F48D0586",
+          "author": "Anna Blaustein",
+          "description": "Engineers achieved “a year’s work in two weeks” to safely do so\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/how-ukraine-unplugged-from-russia-and-joined-europes-power-grid-with-unprecedented-speed/",
+          "publishedOn": "2022-03-23T12:00:00.000Z",
+          "wordCount": null,
+          "title": "How Ukraine Unplugged from Russia and Joined Europe's Power Grid with Unprecedented Speed",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "1E4D646F-C530-4ACD-97D5C5407F62BDD9",
+          "author": "Hannah Loss",
+          "description": "The fish—some of which have grown up to three pounds—could thrive in the conditions expected with climate change\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/supersized-goldfish-could-become-superinvaders/",
+          "publishedOn": "2022-03-23T10:45:00.000Z",
+          "wordCount": null,
+          "title": "Supersized Goldfish Could Become Superinvaders",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "5A88C832-33CE-4449-A911BB92F5DADD68",
           "author": "Tanya Lewis",
           "description": "It’s no longer possible to separate science and politics\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -48566,6 +48972,56 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=150994",
+          "author": "Mike Vizard",
+          "description": "Harness this week announced it acquired ChaosNative as part of a plan to more deeply integrate chaos engineering with DevOps workflows. At the same time, the company added a Harness Service Reliability Management (SRM) and Harness Security Testing Orchestration capability to its continuous integration/continuous delivery (CI/CD) platform. Chaos engineering, as a discipline, refers to experiments […]\nThe post Harness Acquires ChaosNative to Meld Chaos Engineering, DevOps appeared first on DevOps.com.",
+          "link": "https://devops.com/harness-acquires-chaosnative-to-meld-chaos-engineering-devops/",
+          "publishedOn": "2022-03-23T18:15:34.000Z",
+          "wordCount": 1021,
+          "title": "Harness Acquires ChaosNative to Meld Chaos Engineering, DevOps",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/11/chaosengineering.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150929",
+          "author": "Anastasios Arampatzis",
+          "description": "In the 2021 State of DevOps Report, 83% of IT decision-makers told Puppet that their organizations were in the process of implementing DevOps practices to improve the quality of their software, the speed of their delivery and the security of their systems. Those DevOps organizations varied in their stages of evolution, however. For example, respondents […]\nThe post Securing APIs at the Speed of DevOps appeared first on DevOps.com.",
+          "link": "https://devops.com/securing-apis-at-the-speed-of-devops/",
+          "publishedOn": "2022-03-23T13:30:44.000Z",
+          "wordCount": 1290,
+          "title": "Securing APIs at the Speed of DevOps",
+          "imageUrl": "https://devops.com/wp-content/uploads/2021/12/APIadoption.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150852",
+          "author": "Veronica Haggar",
+          "description": "Leading organizations like British Telecom, Becton Dickinson, City of Los Angeles, City of Santa Monica, and Rogers Communication are leveraging the Now Platform to benefit from new levels of productivity, automation, and connectivity Santa Clara, CA, March 23, 2021— ServiceNow (NYSE: NOW), the leading digital workflow company making the world work better for everyone, today […]\nThe post Latest ServiceNow Platform Release to Accelerate Productivity and Digital Transformation with Modern Design, Expanded Hyperautomation Tools appeared first on DevOps.com.",
+          "link": "https://devops.com/latest-servicenow-platform-release-to-accelerate-productivity-and-digital-transformation-with-modern-design-expanded-hyperautomation-tools/",
+          "publishedOn": "2022-03-23T13:00:41.000Z",
+          "wordCount": 2056,
+          "title": "Latest ServiceNow Platform Release to Accelerate Productivity and Digital Transformation with Modern Design, Expanded Hyperautomation Tools",
+          "imageUrl": "https://devops.com/wp-content/uploads/2019/08/devopsdefault-1.png"
+        },
+        {
+          "id": "https://devops.com/?p=150919",
+          "author": "Michael Cucchi",
+          "description": "In recent years, our reliance on software has exploded. It has been more than a decade since Marc Andreessen made his prophetic observation that “Software is eating the world.” Today, nearly every interaction is mediated through a screen and backed by software. With the massive shift to remote and digital interactions due to the pandemic, […]\nThe post Building a Culture of Full-Service Ownership appeared first on DevOps.com.",
+          "link": "https://devops.com/building-a-culture-of-full-service-ownership/",
+          "publishedOn": "2022-03-23T13:00:29.000Z",
+          "wordCount": 1512,
+          "title": "Building a Culture of Full-Service Ownership",
+          "imageUrl": "https://devops.com/wp-content/uploads/2021/04/software.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=150934",
+          "author": "Don Macvittie",
+          "description": "When employee turnover spikes, IT in general and DevOps teams in particular need to be prepared. At the time of this writing, the stock market is roiling, and DevOps compensation is bouncing up. This has an impact on turnover because many in DevOps (and nearly all senior positions) have compensation that includes stock—stock that may […]\nThe post Turnover, Documentation and Missing Links appeared first on DevOps.com.",
+          "link": "https://devops.com/turnover-documentation-and-missing-links/",
+          "publishedOn": "2022-03-23T12:30:32.000Z",
+          "wordCount": 1119,
+          "title": "Turnover, Documentation and Missing Links",
+          "imageUrl": "https://devops.com/wp-content/uploads/2015/04/jobs.jpg"
+        },
+        {
           "id": "https://devops.com/?p=150975",
           "author": "Mike Vizard",
           "description": "Brian Lavallée from Ciena talks with Mike Vizard about how the work-from-anywhere movement has impacted DevOps, networking and security. The video is below, followed by a transcript of the conversation. Mike Vizard: Hey, guys. Thanks for the throw. We’re here with Brian Lavallée who is senior director for solutions marketing at Ciena. Brian, welcome to […]\nThe post How Work-From-Anywhere Impacts DevOps appeared first on DevOps.com.",
@@ -52696,6 +53152,26 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=113467",
+          "author": "Jordana Cepelewicz",
+          "description": "The American mathematician invented entire new ways to understand shapes and spaces.             \nThe post Dennis Sullivan, Uniter of Topology and Chaos, Wins the Abel Prize first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/dennis-sullivan-uniter-of-topology-and-chaos-wins-the-abel-prize-20220323/",
+          "publishedOn": "2022-03-23T11:53:50.000Z",
+          "wordCount": 1664,
+          "title": "Dennis Sullivan, Uniter of Topology and Chaos, Wins the Abel Prize",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/Abel_prize_1200_Social.jpg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=113485",
+          "author": "Steven Strogatz",
+          "description": "The reasons why sleep is so vital often hide in unexpected parts of the body, as host Steven Strogatz discovers in conversations with researchers Dragana Rogulja and Alex Keene.            \nThe post Why Do We Die Without Sleep? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/why-do-we-die-without-sleep-20220322/",
+          "publishedOn": "2022-03-22T20:31:34.000Z",
+          "wordCount": 8513,
+          "title": "Why Do We Die Without Sleep?",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/JOY_OF_Y-E1_1200_Social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=113455",
           "author": "Allison Whitten",
           "description": "Dopamine, a neurochemical often associated with reward behavior, also seems to help organize precisely when the brain initiates movements. It’s the latest revelation about the power of neuromodulators.            \nThe post Brain Chemical Helps Signal to Neurons When to Start a Movement first appeared on Quanta Magazine",
@@ -53610,6 +54086,16 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=67167",
+          "author": "Nathan Yau",
+          "description": "Millions of Ukrainians (over three million as of this writing) have left their…\nTags: New York Times, refugees, scale, Ukraine, war",
+          "link": "https://flowingdata.com/2022/03/23/total-refugees-from-ukraine-compared-to-other-countries/",
+          "publishedOn": "2022-03-23T07:03:01.000Z",
+          "wordCount": 274,
+          "title": "Total refugees from Ukraine, compared to other countries",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/03/Ukranian-refugees.png"
+        },
         {
           "id": "https://flowingdata.com/?p=67175",
           "author": "Nathan Yau",
