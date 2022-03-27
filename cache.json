@@ -989,6 +989,26 @@
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
         {
+          "id": "http://www.i-programmer.info/i-programmer-weekly/238-i-programmer-weekly-2022/15312-march-week-3.html",
+          "author": null,
+          "description": "Every day I Programmer has new material written by programmers, for programmers. This week Mike James looks at Managing Asynchronous Code in JavaScript and we have another extract from Programming the Raspberry Pi Pico In MicroPython.  Plus a 5-star book review and our take on the week's news.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/i-programmer-weekly/238-i-programmer-weekly-2022/15312-march-week-3.html",
+          "publishedOn": "2022-03-26T12:39:12.000Z",
+          "wordCount": 1304,
+          "title": "March Week 3",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/ebooks/52-financial-functions/597-savings.html",
+          "author": null,
+          "description": "Understanding the way interest rates affect cashflow is the key to both savings and loans.This chapter of Financial Functions with a spreadsheet explores the relationship between Present Value and Future Value.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/ebooks/52-financial-functions/597-savings.html",
+          "publishedOn": "2022-03-26T00:00:00.000Z",
+          "wordCount": 1067,
+          "title": "Introduction to Cashflow",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.i-programmer.info/book-watch-archive/15310-breached-why-data-security-law-fails-and-how-to-improve-it-oxford-university-press.html",
           "author": null,
           "description": "Despite the passage of many data security laws, data breaches\nare increasing at a record pace. In this book Daniel Solove and Woodrow Hartzog argue that the law fails because, ironically, it focuses too much on the breach itself. Drawing insights from many fascinating stories about data breaches, the authors show how major breaches could have been prevented or mitigated through a different approach to data security rules.\n\r\n<ASIN:‎ 0190940557>\n\r\n\nRead more...",
@@ -28885,6 +28905,28 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=149396",
+          "author": "ACMer",
+          "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms A valid IP address consists of exactly four integers separated by single dots. Each integer is between 0 and 255 (inclusive) and cannot have leading zeros. For example, “0.1.2.201” and “192.168.1.1” are valid IP addresses, but “0.011.255.245”, “192.168.1.312” and “192.168@1.1” are invalid IP addresses. Given a string s containing only digits, return all possible valid IP addresses that can be formed by inserting dots into s. You are not allowed to reorder or remove any digits in s. You may return the valid IP addresses in any order. Example 1: Input: Continue Reading »\nTeaching Kids Programming – Back-tracking Depth First Search Algorithm to Restore IP Addresses first appeared on Algorithms, Blockchain and Cloud.",
+          "link": "https://helloacm.com/teaching-kids-programming-back-tracking-depth-first-search-algorithm-to-restore-ip-addresses/",
+          "publishedOn": "2022-03-26T22:47:03.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Back-tracking Depth First Search Algorithm to Restore IP Addresses",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "https://helloacm.com/?p=149382",
+          "author": "ACMer",
+          "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms You are given integers n and k. Given that n represents the number of games you will play, return the number of ways in which you win k or less games consecutively. Mod the result by 10 ** 9 + 7. Constraints n ≤ 10,000 k ≤ 10 Example 1 Input n = 3 k = 2 Output 7 Explanation Here are the ways in which we can win 2 or fewer times consecutively: “LLL” “WLL” “LWL” “LLW” “WWL” “LWW” “WLW” Hints: Try to think recursively in terms of consecutive wins Continue Reading »\nTeaching Kids Programming – Compute the Number of Consecutive Ones Less than K using Top Down Dynamic Programming Algorithm (Recursion + Memoziation) first appeared on Algorithms, Blockchain and Cloud.",
+          "link": "https://helloacm.com/teaching-kids-programming-compute-the-number-of-consecutive-ones-less-than-k-using-top-down-dynamic-programming-algorithm-recursion-memoziation/",
+          "publishedOn": "2022-03-26T09:01:24.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Compute the Number of Consecutive Ones Less than K using Top Down Dynamic Programming Algorithm (Recursion + Memoziation)",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://helloacm.com/?p=149368",
           "author": "ACMer",
           "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms Have you wondered the parameters in Python are passed by values, or references? For example, given the following function: def...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -30256,6 +30298,76 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=527768",
+          "author": "Kristina Panos",
+          "description": "If there’s any looming, unwritten rule of learning a programming language, it states that one must break in the syntax by printing Hello, World! in some form or another. If …read more",
+          "link": "https://hackaday.com/2022/03/26/attiny85-snake-game-is-a-circuit-sandwich/",
+          "publishedOn": "2022-03-26T23:00:37.000Z",
+          "wordCount": 1126,
+          "title": "ATtiny85 Snake Game is a Circuit Sandwich",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/ATtiny85-snake-800.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=527482",
+          "author": "Donald Papp",
+          "description": "[Stavros Korokithakis] finds the experience of falling asleep to fairy tales soothing, and this has resulted in a fascinating project that indulges this desire by using machine learning to generate …read more",
+          "link": "https://hackaday.com/2022/03/26/ai-generated-sleep-podcast-urges-you-to-imagine-pleasant-nonsense/",
+          "publishedOn": "2022-03-26T20:00:52.000Z",
+          "wordCount": 1366,
+          "title": "AI-Generated Sleep Podcast Urges You To Imagine Pleasant Nonsense",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/Deep-Dreams-Podcast.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=528250",
+          "author": "Robin Kearey",
+          "description": "The Timex Datalink was arguably the first usable smartwatch, and was worn by NASA astronauts as well as geek icons like Bill Gates. It could store alarms, reminders and phone …read more",
+          "link": "https://hackaday.com/2022/03/26/arduino-keeps-your-classic-timex-datalink-in-sync/",
+          "publishedOn": "2022-03-26T17:00:29.000Z",
+          "wordCount": 1554,
+          "title": "Arduino Keeps Your Classic Timex Datalink in Sync",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/Timex-Datalink-Arduino.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=528278",
+          "author": "Elliot Williams",
+          "description": "We got a tip this week, and the tipster’s comments were along the lines of “this doesn’t look like it’s a finished work yet, but I think it’s pretty cool …read more",
+          "link": "https://hackaday.com/2022/03/26/inspiring-hacks-unfinished-hacks/",
+          "publishedOn": "2022-03-26T14:00:44.000Z",
+          "wordCount": 1364,
+          "title": "Inspiring Hacks, Unfinished Hacks",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2016/09/marketmakers-featured.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=528314",
+          "author": "Matthew Carlson",
+          "description": "Hundreds of variations of open-source CPUs written in an HDL seem to float around the internet these days (and that’s a great thing). Many are RISC-V, an open-source instruction set …read more",
+          "link": "https://hackaday.com/2022/03/26/now-the-v-in-risc-v-stands-for-vroom/",
+          "publishedOn": "2022-03-26T11:00:08.000Z",
+          "wordCount": 2356,
+          "title": "Now The V In RISC-V Stands For VRoom",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2018/12/risc-v-keystone-enclave-featured-1.jpeg"
+        },
+        {
+          "id": "https://hackaday.com/?p=528245",
+          "author": "Jenny List",
+          "description": "There was a time when we would start our electronic projects with integrated circuits and other components, mounted on stripboard, or maybe on a custom PCB. This is still the …read more",
+          "link": "https://hackaday.com/2022/03/26/reverse-engineering-your-own-bluetooth-audio-module/",
+          "publishedOn": "2022-03-26T08:00:52.000Z",
+          "wordCount": 2628,
+          "title": "Reverse Engineering Your Own Bluetooth Audio Module",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/bt-audio-featured.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=528207",
+          "author": "Ryan Flowers",
+          "description": "These days it’s hard to be carry the label “maker” or “hacker” without also being proficient in some kind of CAD- even if the C is for Cardboard. But before …read more",
+          "link": "https://hackaday.com/2022/03/25/polar-planimeter-quantifies-area-by-plotting-perimeter/",
+          "publishedOn": "2022-03-26T05:00:11.000Z",
+          "wordCount": 1759,
+          "title": "Polar Planimeter Quantifies Area By Plotting Perimeter",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/polar-planimeter-featured.jpg"
+        },
         {
           "id": "https://hackaday.com/?p=528188",
           "author": "Ryan Flowers",
@@ -40885,6 +40997,17 @@
       "feedUrl": "http://rss.sciam.com/scientificamerican-global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "87D50086-13C7-4569-98E2EAA654A1E3BC",
+          "author": "Lawrence O. Gostin",
+          "description": "The need to reinvent the World Health Organization has become abundantly clear\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/covid-pushed-global-health-institutions-to-their-limits/",
+          "publishedOn": "2022-03-26T13:00:00.000Z",
+          "wordCount": null,
+          "title": "COVID Pushed Global Health Institutions to Their Limits",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "7CBA195C-4720-466C-AB94DC580BCE5786",
           "author": "Elizabeth Howell, SPACE.com",
