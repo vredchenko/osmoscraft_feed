@@ -989,6 +989,16 @@
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
         {
+          "id": "http://www.i-programmer.info/news/192-photography-a-imaging/14385-ai-re-animation-brings-portraits-to-life.html",
+          "author": null,
+          "description": "An AI-derived feature added to genealogy site, MyHeritage lets you see how a person from an old photo, or even a photo of a painting, might have looked if they were captured on video. Since our initial report last February, MyHeritage has produced video including faces that are familiar from history together with contemporary strangers.\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/192-photography-a-imaging/14385-ai-re-animation-brings-portraits-to-life.html",
+          "publishedOn": "2022-03-27T00:00:00.000Z",
+          "wordCount": 799,
+          "title": "To Good To Miss - AI Reanimation Brings Portraits To Life",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.i-programmer.info/i-programmer-weekly/238-i-programmer-weekly-2022/15312-march-week-3.html",
           "author": null,
           "description": "Every day I Programmer has new material written by programmers, for programmers. This week Mike James looks at Managing Asynchronous Code in JavaScript and we have another extract from Programming the Raspberry Pi Pico In MicroPython.  Plus a 5-star book review and our take on the week's news.\n\r\n\nRead more...",
@@ -28905,6 +28915,17 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=149410",
+          "author": "ACMer",
+          "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms Given two 0-indexed integer arrays nums1 and nums2, return a list answer of size 2 where: answer is a list of all distinct integers in nums1 which are not present in nums2. answer is a list of all distinct integers in nums2 which are not present in nums1. Note that the integers in the lists may be returned in any order. Example 1: Input: nums1 = , nums2 =  Output: ,] Explanation: For nums1, nums1 = 2 is present at index 0 of nums2, whereas nums1 = 1 and nums1 Continue Reading »\nTeaching Kids Programming – Find the Difference of Two Arrays (via Hash Set) first appeared on Algorithms, Blockchain and Cloud.",
+          "link": "https://helloacm.com/teaching-kids-programming-find-the-difference-of-two-arrays-via-hash-set/",
+          "publishedOn": "2022-03-27T19:37:42.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Find the Difference of Two Arrays (via Hash Set)",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://helloacm.com/?p=149396",
           "author": "ACMer",
           "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms A valid IP address consists of exactly four integers separated by single dots. Each integer is between 0 and 255 (inclusive) and cannot have leading zeros. For example, “0.1.2.201” and “192.168.1.1” are valid IP addresses, but “0.011.255.245”, “192.168.1.312” and “192.168@1.1” are invalid IP addresses. Given a string s containing only digits, return all possible valid IP addresses that can be formed by inserting dots into s. You are not allowed to reorder or remove any digits in s. You may return the valid IP addresses in any order. Example 1: Input: Continue Reading »\nTeaching Kids Programming – Back-tracking Depth First Search Algorithm to Restore IP Addresses first appeared on Algorithms, Blockchain and Cloud.",
@@ -30298,6 +30319,76 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=527900&preview=true&preview_id=527900",
+          "author": "Dan Maloney",
+          "description": "Remember that time back in 2021 when a huge container ship blocked the Suez Canal and disrupted world shipping for a week? Well, something a little like that is playing …read more",
+          "link": "https://hackaday.com/2022/03/27/hackaday-links-march-27-2022/",
+          "publishedOn": "2022-03-27T23:00:13.000Z",
+          "wordCount": 1725,
+          "title": "Hackaday Links: March 27, 2022",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=528362",
+          "author": "Robin Kearey",
+          "description": "Thanks to its innovative gameplay and quirky humor, Portal became an instant hit when it was released in 2007. Characters became cultural icons, quotes became memes and the game became …read more",
+          "link": "https://hackaday.com/2022/03/27/3d-printed-portal-turret-moves-and-talks-like-the-real-thing/",
+          "publishedOn": "2022-03-27T20:00:45.000Z",
+          "wordCount": 1482,
+          "title": "3D Printed Portal Turret Moves and Talks Like the Real Thing",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/Portal-Turret.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=528356",
+          "author": "Matthew Carlson",
+          "description": "If you own a CNC and have kept tabs on metal prices these past few years (honestly months), you might shed a small tear as you watch chips fly off …read more",
+          "link": "https://hackaday.com/2022/03/27/3d-printed-forge-for-recycling/",
+          "publishedOn": "2022-03-27T17:00:30.000Z",
+          "wordCount": 1984,
+          "title": "3D Printed Forge For Recycling",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/forge-bars-large.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=528294",
+          "author": "Maya Posch",
+          "description": "Just because a microcontroller doesn’t have a dedicated video peripheral doesn’t mean it cannot output a video signal. This is demonstrated once again, this time on the ESP32 by [aquaticus] …read more",
+          "link": "https://hackaday.com/2022/03/27/generating-composite-video-on-esp32-with-lvgl-gui/",
+          "publishedOn": "2022-03-27T14:00:42.000Z",
+          "wordCount": 1658,
+          "title": "Generating Composite Video On ESP32 With LVGL GUI",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/esp32_board_cinch.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=528413",
+          "author": "Matthew Carlson",
+          "description": "Pinball machines are large, complex, and heavy boxes of joy and delight. However, when you don’t have the money or space for one, you have to make your own mini …read more",
+          "link": "https://hackaday.com/2022/03/27/tiny-pinball-is-as-cute-as-pi/",
+          "publishedOn": "2022-03-27T11:00:05.000Z",
+          "wordCount": 1201,
+          "title": "Tiny Pinball Is As Cute As Pi",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/mini_pinball_large.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=528315",
+          "author": "Dave Rowntree",
+          "description": "[Advanced Tinkering] over on YouTube has some pretty unique content, on subjects of chemistry and physics that are a little more, interesting let’s say — anyone fancy distilling cesium? The …read more",
+          "link": "https://hackaday.com/2022/03/27/peltier-cloud-chamber-produces-some-lovely-trails/",
+          "publishedOn": "2022-03-27T08:00:20.000Z",
+          "wordCount": 1390,
+          "title": "Peltier Cloud Chamber Produces Some Lovely Trails",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/Snap-2022-03-26-at-09.30.09.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=528309",
+          "author": "Donald Papp",
+          "description": "This particular story on researchers successfully making yeast-free pizza dough has been making the rounds. As usual with stories written from a scientific angle, it’s worth digging into the details …read more",
+          "link": "https://hackaday.com/2022/03/26/who-needs-yeast-when-you-have-lab-equipment/",
+          "publishedOn": "2022-03-27T05:00:24.000Z",
+          "wordCount": 2750,
+          "title": "Who Needs Yeast When You Have Lab Equipment?",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/Autoclave-view-of-dough-experiment.png"
+        },
         {
           "id": "https://hackaday.com/?p=527768",
           "author": "Kristina Panos",
@@ -40997,6 +41088,17 @@
       "feedUrl": "http://rss.sciam.com/scientificamerican-global",
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
+        {
+          "id": "354D7876-6D88-4C8C-98F108A301567D1A",
+          "author": "Aldon Morris",
+          "description": "COVID energized the Black Lives Matter movement—and provoked a dangerous backlash\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-pandemic-deepened-fault-lines-in-american-society/",
+          "publishedOn": "2022-03-27T13:00:00.000Z",
+          "wordCount": null,
+          "title": "The Pandemic Deepened Fault Lines in American Society",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "87D50086-13C7-4569-98E2EAA654A1E3BC",
           "author": "Lawrence O. Gostin",
