@@ -989,6 +989,46 @@
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
         {
+          "id": "http://www.i-programmer.info/book-watch-archive/15315-kotlin-design-patterns-and-best-practices-2nd-ed-packt.html",
+          "author": null,
+          "description": "This book shows how to implement traditional design patterns in Kotlin.  Alexey Soshin looks at the new patterns and paradigms that have emerged. This second edition is updated to cover the changes introduced from Kotlin 1.2 up to 1.5 and focuses more on the idiomatic usage of coroutines, which have become a stable language feature.\n\r\n<ASIN:1801815720>\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/book-watch-archive/15315-kotlin-design-patterns-and-best-practices-2nd-ed-packt.html",
+          "publishedOn": "2022-03-28T15:03:59.000Z",
+          "wordCount": 502,
+          "title": "Kotlin Design Patterns and Best Practices, 2nd Ed (Packt)",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/professional-programmer/programmers-bookshelf/15314-top-titles-for-go-programmers.html",
+          "author": null,
+          "description": "Go is an easy-to-use but surprisingly powerful language that you could call a modern version of C. It has a clean and simple structure that is said to be statically typed, but it behaves like a dynamically typed language. While it compiles to native code, it is as easy to work with as an interpreted language.  In this guide, we've highlighted the best of the Go books that we've reviewed on I Programmer.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/professional-programmer/programmers-bookshelf/15314-top-titles-for-go-programmers.html",
+          "publishedOn": "2022-03-28T15:00:33.000Z",
+          "wordCount": 1268,
+          "title": "Top Titles For Go Programmers",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/news/105-artificial-intelligence/15313-artificial-intelligence-machine-learning-and-society.html",
+          "author": null,
+          "description": "Annual Reviews has curated a collection of free research articles  that explore the impact artificial intelligence and machine learning have on modern life and society.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/105-artificial-intelligence/15313-artificial-intelligence-machine-learning-and-society.html",
+          "publishedOn": "2022-03-28T14:47:45.000Z",
+          "wordCount": 1556,
+          "title": "Artificial Intelligence, Machine Learning and Society",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/news/197-data-mining/15316-apache-drill-adds-new-data-formats.html",
+          "author": null,
+          "description": "Apache Drill has been updated with new data and storage formats and backwards compatibility with Hadoop 2, making this version usable for organizations that so far couldn't use it because of their reliance on Hadoop.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/197-data-mining/15316-apache-drill-adds-new-data-formats.html",
+          "publishedOn": "2022-03-28T00:00:00.000Z",
+          "wordCount": 771,
+          "title": "Apache Drill Adds New Data Formats",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.i-programmer.info/news/192-photography-a-imaging/14385-ai-re-animation-brings-portraits-to-life.html",
           "author": null,
           "description": "An AI-derived feature added to genealogy site, MyHeritage lets you see how a person from an old photo, or even a photo of a painting, might have looked if they were captured on video. Since our initial report last February, MyHeritage has produced video including faces that are familiar from history together with contemporary strangers.\r\n\nRead more...",
@@ -2651,6 +2691,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=364118",
+          "author": "Daniel Schwarz",
+          "description": "A bookmarklet is a JavaScript-based bookmark that adds to a web browser. I’d like to show you some awesome web browser hacks to aid your web development workflow and how to convert those hacks into time-saving bookmarklets.\nActivating design mode\n…\n6 Useful Bookmarklets to Boost Web Development originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/web-development-bookmarklets/",
+          "publishedOn": "2022-03-28T18:15:41.000Z",
+          "wordCount": 1504,
+          "title": "6 Useful Bookmarklets to Boost Web Development",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364118"
+        },
         {
           "id": "https://css-tricks.com/?p=363745",
           "author": "Jens Oliver Meiert",
@@ -28510,6 +28560,16 @@
       "siteUrl": "https://davidwalsh.name",
       "articles": [
         {
+          "id": "https://davidwalsh.name/?p=27554",
+          "author": "David Walsh",
+          "description": "For as long as developers have written CSS code, we’ve been desperate to have a method to allow styling a parent element based child characteristics. That’s not been possible until now. CSS has introduced the :has pseudo-class which allows styling a parent based on a relative CSS selector! Let’s have a look at a few […]\nThe post CSS :has appeared first on David Walsh Blog.",
+          "link": "https://davidwalsh.name/css-has",
+          "publishedOn": "2022-03-28T10:03:15.000Z",
+          "wordCount": 640,
+          "title": "CSS :has",
+          "imageUrl": "https://davidwalsh.name/wp-content/themes/punky/images/logo.png"
+        },
+        {
           "id": "https://davidwalsh.name/?p=27550",
           "author": "David Walsh",
           "description": "Many of the web functionalities that we rely on once lived within individual desktop applications. From office suites, games, and financial tools, all of them are now web applications; they’re just as feature packed as their desktop counterparts. In the past I’ve used a variety of JavaScript grid widgets on client sites, and each had […]\nThe post Flexible, Powerful DataGrad from Sencha (Sponsored) appeared first on David Walsh Blog.",
@@ -28914,6 +28974,17 @@
       "feedUrl": "http://feeds.feedburner.com/helloacm?format=xml",
       "siteUrl": "https://helloacm.com",
       "articles": [
+        {
+          "id": "https://helloacm.com/?p=149422",
+          "author": "ACMer",
+          "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms Given an integer array nums of unique elements, return all possible subsets (the power set). The solution set must not contain...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-finding-all-subsets-via-backtracking-algorithm-recursion-depth-first-search/",
+          "publishedOn": "2022-03-28T20:37:03.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Finding All Subsets via Backtracking Algorithm (Recursion / Depth First Search)",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "https://helloacm.com/?p=149410",
           "author": "ACMer",
@@ -30319,6 +30390,76 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=528535",
+          "author": "Lewin Day",
+          "description": "A sauna is a great place to feel warm and toasty and refreshed, but few of us have one at home. [Linus Strothmann] decided to build his own, using an …read more",
+          "link": "https://hackaday.com/2022/03/28/old-boat-becomes-toasty-floating-sauna/",
+          "publishedOn": "2022-03-28T23:00:16.000Z",
+          "wordCount": 1147,
+          "title": "Old Boat Becomes Toasty Floating Sauna",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/FKMH1ISKZ1A5JKP-1-e1648443299722.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=528508",
+          "author": "Tom Nardi",
+          "description": "Looking like it dropped out of an alternate reality version of the 1980s, the Joopyter Personal Terminal is a 3D printed portable computer that includes everything you need for life …read more",
+          "link": "https://hackaday.com/2022/03/28/retro-portable-computer-packs-printer-for-the-trip/",
+          "publishedOn": "2022-03-28T20:00:24.000Z",
+          "wordCount": 1265,
+          "title": "Retro Portable Computer Packs Printer For the Trip",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/joopyter_feat.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=528353",
+          "author": "Matthew Carlson",
+          "description": "Air engines are a common occurrence here on Hackaday. They’re relatively novel and reasonably easy to 3D print without requiring any fluids or supporting machinery. For example, [Tom Stanton] took …read more",
+          "link": "https://hackaday.com/2022/03/28/gravity-water-air-powered-engine/",
+          "publishedOn": "2022-03-28T18:30:39.000Z",
+          "wordCount": 1698,
+          "title": "Gravity-Water-Air Powered Engine",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/air-water-gravity-engine-large.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=527915",
+          "author": "Kristina Panos",
+          "description": "What is a photograph? Technically and literally speaking, it’s a drawing (graph) of light (photo). Sentimentally speaking, it’s a moment in time, captured for all eternity, or until the medium …read more",
+          "link": "https://hackaday.com/2022/03/28/is-the-iphone-camera-too-smart-or-not-smart-enough/",
+          "publishedOn": "2022-03-28T17:00:24.000Z",
+          "wordCount": 4542,
+          "title": "Is the iPhone Camera Too Smart? Or Not Smart Enough?",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/iPhoneCamera.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=528121&preview=true&preview_id=528121",
+          "author": "Dan Maloney",
+          "description": "Join us on Wednesday, March 30 at noon Pacific for the PCB Thermal Design Hack Chat with Mike Jouppi! Most of the time, designing a printed circuit board is a …read more",
+          "link": "https://hackaday.com/2022/03/28/pcb-thermal-design-hack-chat/",
+          "publishedOn": "2022-03-28T16:00:00.000Z",
+          "wordCount": 1155,
+          "title": "PCB Thermal Design Hack Chat",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/flir_pcb.jpeg"
+        },
+        {
+          "id": "https://hackaday.com/?p=527665",
+          "author": "Arsenijs Picugins",
+          "description": "Handcrafted gifts are special, and this one’s no exception. [pender] made a Tolkien-inspired box for his son and shared the details with us on Hackaday.io. This one-of-a-kind handcrafted box fulfills …read more",
+          "link": "https://hackaday.com/2022/03/28/say-friend-and-have-this-box-open-for-you/",
+          "publishedOn": "2022-03-28T15:00:00.000Z",
+          "wordCount": 1489,
+          "title": "Say Friend And Have This Box Open For You",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/hadimg_durins_box_feat.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=528023",
+          "author": "Tom Nardi",
+          "description": "It’s often said that the wheels of government turn slowly, and perhaps nowhere is this on better display than at NASA. While it seems like every week we hear about …read more",
+          "link": "https://hackaday.com/2022/03/28/nasa-continues-slow-and-steady-pace-towards-moon/",
+          "publishedOn": "2022-03-28T14:00:38.000Z",
+          "wordCount": 4406,
+          "title": "NASA Continues Slow And Steady Pace Towards Moon",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/artemis_feat.jpg"
+        },
         {
           "id": "https://hackaday.com/?p=527900&preview=true&preview_id=527900",
           "author": "Dan Maloney",
@@ -41089,6 +41230,105 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "229D9FBE-FBD6-4D6F-8E87D28C349ABF1A",
+          "author": "David Robert Grimes",
+          "description": "Rather than take a side, these campaigns create decision paralysis that leads to inaction\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/russian-misinformation-seeks-to-confound-not-convince/",
+          "publishedOn": "2022-03-28T21:00:00.000Z",
+          "wordCount": null,
+          "title": "Russian Misinformation Seeks to Confound, Not Convince",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "E6967C48-4B86-4806-9E03C8CDEFB6A5D5",
+          "author": "Konstantinos Pelechrinis, Wayne Winston, The Conversation US",
+          "description": "A statistcal analysis finds evidence for shooting streaks in real game situations\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/the-hot-hand-is-a-real-basketball-phenomenon-but-it-is-rare/",
+          "publishedOn": "2022-03-28T20:00:00.000Z",
+          "wordCount": null,
+          "title": "The 'Hot Hand' Is a Real Basketball Phenomenon, But It Is Rare",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "A85904FB-5CAD-4D11-BFB3BB4DAD447FD0",
+          "author": "Heidi Ledford, Nature magazine",
+          "description": "Researchers are trying to establish whether existing COVID-19 vaccines and treatments can prevent lasting symptoms\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/can-drugs-reduce-the-risk-of-long-covid-what-scientists-know-so-far/",
+          "publishedOn": "2022-03-28T19:30:00.000Z",
+          "wordCount": null,
+          "title": "Can Drugs Reduce the Risk of Long COVID? What Scientists Know So Far",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "60E73A2A-3C94-4F85-B374D137685CBCB1",
+          "author": "Davide Castelvecchi, Nature magazine",
+          "description": "Dennis Sullivan’s work has advanced the study of shapes, and he developed tools that have helped to solve many mathematical problems\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/virtuoso-mathematician-who-reshaped-topology-wins-abel-prize/",
+          "publishedOn": "2022-03-28T17:00:00.000Z",
+          "wordCount": null,
+          "title": "Virtuoso Mathematician Who Reshaped Topology Wins Abel Prize",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "7F0EE72D-9747-47A0-929A4F342566E422",
+          "author": "Tory Bruno",
+          "description": "Surprising supply chain breakdowns\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/covid-disrupted-everything-even-rocket-launches/",
+          "publishedOn": "2022-03-28T15:00:00.000Z",
+          "wordCount": null,
+          "title": "COVID Disrupted Everything--Even Rocket Launches",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "6EC41F38-28CA-4144-A936EDE44B06F0DE",
+          "author": "Erika Kirgios, Aneesh Rai, Edward Chang, Katy Milkman",
+          "description": "When networking, women and people in racial and ethnic minority groups can benefit from calling out their identity\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/to-fight-bias-consider-highlighting-your-race-or-gender/",
+          "publishedOn": "2022-03-28T14:00:00.000Z",
+          "wordCount": null,
+          "title": "To Fight Bias, Consider Highlighting Your Race or Gender",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "98B1AA9F-7942-4917-97C08B38F07AB810",
+          "author": "Emily Waltz, Nature Biotechnology",
+          "description": "A bioreactor-made material is being marketed as an animal-friendly leather alternative that also aims to help save the planet\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/this-mushroom-leather-is-being-made-into-hermes-handbags/",
+          "publishedOn": "2022-03-28T13:00:00.000Z",
+          "wordCount": null,
+          "title": "This Mushroom Leather Is Being Made into Hermès Handbags",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "70AFB293-3538-49BE-B2E7C2BB89892D90",
+          "author": "Rachel Parsons",
+          "description": "For decades anthropologists exploited Indigenous peoples in the name of science. Now they are reckoning with that history\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/anthropology-association-apologizes-to-native-americans-for-the-fields-legacy-of-harm/",
+          "publishedOn": "2022-03-28T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Anthropology Association Apologizes to Native Americans for the Field's Legacy of Harm",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "E419EB82-A8A1-4397-AC9F46C3AB5708E9",
+          "author": "Anthony Warmack",
+          "description": "Saliva PCR tests may detect disease earlier in the course of an infection\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/new-covid-spit-tests-may-be-more-accurate-and-easier-than-nasal-swabs/",
+          "publishedOn": "2022-03-28T10:45:00.000Z",
+          "wordCount": null,
+          "title": "New COVID Spit Tests May Be More Accurate and Easier Than Nasal Swabs",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "354D7876-6D88-4C8C-98F108A301567D1A",
           "author": "Aldon Morris",
           "description": "COVID energized the Black Lives Matter movement—and provoked a dangerous backlash\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -41246,6 +41486,17 @@
           "publishedOn": "2022-03-24T14:30:00.000Z",
           "wordCount": null,
           "title": "Earth's Sonic Diversity, Secret Bird Scents, Pandemic-Inspired Sci-Fi, and More",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "8E4A6F16-4B31-4EAB-8841761B7A5952D6",
+          "author": "Christine Crudo Blackburn",
+          "description": "How do we live with it?\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/covid-is-here-to-stay1/",
+          "publishedOn": "2022-03-24T13:00:00.000Z",
+          "wordCount": null,
+          "title": "COVID Is Here to Stay",
           "itunes": {},
           "imageUrl": null
         },
@@ -49909,6 +50160,26 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=151056",
+          "author": "Ganesh Datta",
+          "description": "Cookiecutter is a templating library for creating project boilerplates in any programming language. When individuals, teams and organizations create projects, they must follow consistent standards so that those projects are easily readable and searchable. Templates accelerate the code writing process, too, since developers are able to spend less time on setup and can get straight […]\nThe post Everything You Need to Know About Cookiecutter appeared first on DevOps.com.",
+          "link": "https://devops.com/everything-you-need-to-know-about-cookiecutter/",
+          "publishedOn": "2022-03-28T11:00:48.000Z",
+          "wordCount": 1235,
+          "title": "Everything You Need to Know About Cookiecutter",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/07/cooking.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=151072",
+          "author": "ROELBOB",
+          "description": "The post Ego Panic appeared first on DevOps.com.",
+          "link": "https://devops.com/ego-panic-2/",
+          "publishedOn": "2022-03-28T06:00:47.000Z",
+          "wordCount": 421,
+          "title": "Ego Panic",
+          "imageUrl": "https://devops.com/wp-content/uploads/2022/03/ego-panic.jpg"
+        },
+        {
           "id": "https://devops.com/?p=151046",
           "author": "Alex Lane",
           "description": "One of the biggest headaches IT leaders face today is managing cross-functional teams to develop and deploy high-quality software faster. Not only does their work have to be continuous to stay productive, but there’s the need to save the business money, time and improve end user and customer satisfaction while fixing a seemingly endless parade […]\nThe post Why Your Business Needs DevOps appeared first on DevOps.com.",
@@ -54169,6 +54440,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=113624",
+          "author": "Elena Renken",
+          "description": "With self-generated gradients of chemicals and physical tension, cells in the body steer themselves to vital destinations.: shows up on hp and article listings            \nThe post Cells Blaze Their Own Trails to Navigate Through the Body first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/cells-blaze-their-own-trails-to-navigate-through-the-body-20220328/",
+          "publishedOn": "2022-03-28T17:10:57.000Z",
+          "wordCount": 2366,
+          "title": "Cells Blaze Their Own Trails to Navigate Through the Body",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/Cell_Migration_1200_Social-1.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=113504",
           "author": "Patrick Honner",
           "description": "Play this simple math game with your friends to gain insights into fundamental principles of graph theory.            \nThe post What a Math Party Game Tells Us About Graph Theory first appeared on Quanta Magazine",
@@ -55113,6 +55394,16 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=67218",
+          "author": "Nathan Yau",
+          "description": "Baryon Design collated data for all the vehicles James Bond used across all…\nTags: Baryon Design, James Bond, vehicles",
+          "link": "https://flowingdata.com/2022/03/28/charting-all-the-vehicles-of-james-bond/",
+          "publishedOn": "2022-03-28T07:51:58.000Z",
+          "wordCount": 278,
+          "title": "Charting all the vehicles of James Bond",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/03/James-Bond-vehicles-e1648443111313.png"
+        },
         {
           "id": "https://flowingdata.com/?p=67212",
           "author": "Nathan Yau",
@@ -57466,15 +57757,6 @@
           "publishedOn": "2021-04-30T00:00:00.000Z",
           "wordCount": 539,
           "title": "Luau Recap: April 2021"
-        },
-        {
-          "id": "https://luau-lang.org/2021/03/29/luau-recap-march-2021.html",
-          "author": null,
-          "description": "Luau is our new language that you can read more about at https://roblox.github.io/luau. It’s been a busy month in Luau!",
-          "link": "https://luau-lang.org/2021/03/29/luau-recap-march-2021.html",
-          "publishedOn": "2021-03-29T00:00:00.000Z",
-          "wordCount": 701,
-          "title": "Luau Recap: March 2021"
         }
       ]
     },
