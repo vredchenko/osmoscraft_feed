@@ -989,6 +989,26 @@
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
         {
+          "id": "http://www.i-programmer.info/news/182-frameworks/15323-react-18-released.html",
+          "author": null,
+          "description": "React 18 has been released with improvements including concurrent rendering, automatic batching, new APIs like startTransition, and streaming server-side rendering with support for Suspense. \n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/182-frameworks/15323-react-18-released.html",
+          "publishedOn": "2022-03-31T15:05:02.000Z",
+          "wordCount": 807,
+          "title": "React 18 Released",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.i-programmer.info/news/90-tools/15324-gitlab-integrates-security-training.html",
+          "author": null,
+          "description": "GitLab has been updated with improvements including epic-to-epic linking and integrated security training. The company has also announced changes to the free tier of GitLab.\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/90-tools/15324-gitlab-integrates-security-training.html",
+          "publishedOn": "2022-03-31T00:00:00.000Z",
+          "wordCount": 697,
+          "title": "GitLab Integrates Security Training",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.i-programmer.info/book-watch-archive/15322-front-end-back-end-development-wiley.html",
           "author": null,
           "description": "This three-book set combines three titles by Jon Duckett - HTML & CSS: Design and Build Web Sites (2011); JavaScript & jQuery: Interactive Front-End Development (2014); and PHP & MySQL: Server-side Web Development (2022). Together these three books cover HTML and CSS, the additional front-end interactivity possible with JavaScript and jQuery, and show how to build back-ends with features like content management and membership using PHP and MySQL.\n\r\n<ASIN:1119813093>\n\r\n\nRead more...",
@@ -30623,6 +30643,76 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
+          "id": "https://hackaday.com/?p=528832",
+          "author": "Robin Kearey",
+          "description": "The first electronic digital watches were admired for their pioneering technology, if not their everyday practicality, when they were introduced in the 1970s. Their power-hungry LED displays lit up only …read more",
+          "link": "https://hackaday.com/2022/03/31/modern-frugal-pcb-breathes-new-life-into-soviet-made-led-watch/",
+          "publishedOn": "2022-03-31T23:00:52.000Z",
+          "wordCount": 1423,
+          "title": "Modern, Frugal PCB Breathes New Life Into Soviet-Made LED Watch",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/Soviet-LED-Watch-replacement.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=528899",
+          "author": "Lewin Day",
+          "description": "When you’re driving around, you might occasionally notice your indicators or windscreen wipers sync up fortuitously with the music. [Cranktown City] wanted to ensure his wipers would always match the …read more",
+          "link": "https://hackaday.com/2022/03/31/making-windshield-wipers-rock-to-the-beat/",
+          "publishedOn": "2022-03-31T20:00:34.000Z",
+          "wordCount": 1207,
+          "title": "Making Windshield Wipers Rock To The Beat",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/I-Made-My-Windshield-Wipers-Move-To-The-Music-9-15-screenshot-1.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=528713",
+          "author": "Ryan Flowers",
+          "description": "YouTuber [Linguoer] has a knack, and it’s one that we don’t often see on the pages of Hackaday: rewinding and rebuilding dilapidated motors and generators. In the video below, you’ll …read more",
+          "link": "https://hackaday.com/2022/03/31/rural-hacker-de-crufts-and-rebuilds-hydroelectric-generator/",
+          "publishedOn": "2022-03-31T18:30:35.000Z",
+          "wordCount": 1407,
+          "title": "Rural Hacker De-Crufts and Rebuilds Hydroelectric Generator",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/Linguoer-hydroelectric-featured.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=527950",
+          "author": "Al Williams",
+          "description": "We are always impressed with something so simple can actually be so complex. For example, what would you think goes into an analog computer? Of course, a “real” analog computer …read more",
+          "link": "https://hackaday.com/2022/03/31/circuit-vr-the-wheatstone-bridge-analog-computer/",
+          "publishedOn": "2022-03-31T17:00:49.000Z",
+          "wordCount": 2465,
+          "title": "Circuit VR: The Wheatstone Bridge Analog Computer",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2018/04/circuitvr.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=528653",
+          "author": "Michael Shaub",
+          "description": "As a quantified-self experiment, [Ayan] has tracked several daily habits and moods for a couple of years and discovered some insights. Too much coffee is followed by anxiety while listening …read more",
+          "link": "https://hackaday.com/2022/03/31/know-which-way-the-wind-blows-whether-weather-boosts-your-mood/",
+          "publishedOn": "2022-03-31T15:48:13.000Z",
+          "wordCount": 1305,
+          "title": "Know which way the wind blows, whether weather boosts your mood",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/ayan-sensor2notion-featured.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=529011&preview=true&preview_id=529011",
+          "author": "Kristina Panos",
+          "description": "[Hal Rodriguez] and [Sahrye Cohen] of Amped Atelier focus on creating interactive wearable garments with some fairly high standards. Every garment must be pretty, and has to either be controllable …read more",
+          "link": "https://hackaday.com/2022/03/31/remoticon-2021-hal-rodriguez-and-sahrye-cohen-combine-couture-and-circuitry/",
+          "publishedOn": "2022-03-31T14:02:50.000Z",
+          "wordCount": 1723,
+          "title": "REMOTICON 2021 // Hal Rodriguez and Sahrye Cohen Combine Couture and Circuitry",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/remoticon_2021_hal_rodriguez_and_sahrye_cohen_combine_couture_and_circuitry_uvhofxt1_uqwebm-shot0006_featured.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=528818",
+          "author": "Dan Maloney",
+          "description": "When the widget you’re working on is powered by a battery or a USB charger, running it on the bench is probably pretty safe. But when the object of your …read more",
+          "link": "https://hackaday.com/2022/03/31/tricking-a-smart-meter-into-working-on-the-bench/",
+          "publishedOn": "2022-03-31T11:00:34.000Z",
+          "wordCount": 2131,
+          "title": "Tricking a Smart Meter into Working on the Bench",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/1280x720-vtime5_42-take2022-03-29-14.46.17.png"
+        },
+        {
           "id": "https://hackaday.com/?p=528898",
           "author": "Lewin Day",
           "description": "The sun is a great source of energy, delivering in the realm of 1000 watts per square meter on a nice clear day. [Jasper Sikken] has developed many projects that …read more",
@@ -41602,6 +41692,105 @@
       "siteUrl": "http://www.scientificamerican.com",
       "articles": [
         {
+          "id": "89356F04-33EB-4D8C-8C397ED3F0DB6611",
+          "author": "Anna Funk",
+          "description": "This “keystone” variant of a gene could make or break a food web in an experimental system\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/a-single-gene-in-one-species-can-cause-other-species-to-go-extinct/",
+          "publishedOn": "2022-03-31T19:10:00.000Z",
+          "wordCount": null,
+          "title": "A Single Gene in One Species Can Cause Other Species to Go Extinct",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "DDFCA820-4A07-464D-9DC7D51372891791",
+          "author": "Eric D. Green",
+          "description": "The Telomere-to-Telomere consortium just sequenced the tricky final 10 percent of the essentially complete human genome\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/completing-the-human-genome-sequence-again/",
+          "publishedOn": "2022-03-31T18:00:00.000Z",
+          "wordCount": null,
+          "title": "Completing the Human Genome Sequence (Again)",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "32DED6F1-B360-4C3A-ACCC44DAF496A082",
+          "author": "Anne C. Mulkern, E&E News",
+          "description": "Blazes burned more than 3 million acres last year—nearly the size of Connecticut\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/california-braces-for-another-cataclysmic-wildfire-season/",
+          "publishedOn": "2022-03-31T17:15:00.000Z",
+          "wordCount": null,
+          "title": "California Braces for Another Cataclysmic Wildfire Season",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "0C952B10-3EE4-40DB-9C6AD2B372C0E670",
+          "author": "Ashley Andreou",
+          "description": "I am a future psychiatrist hoping to care for transgender people. But I fear these laws will make it difficult to do so\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/anti-trans-laws-will-have-a-chilling-effect-on-medicine/",
+          "publishedOn": "2022-03-31T14:35:00.000Z",
+          "wordCount": null,
+          "title": "Anti-Trans Laws Will Have a Chilling Effect on Medicine",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "49E54588-5045-4A35-813766582EB5315B",
+          "author": "Andrea Gawrylewski",
+          "description": "-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/immune-system-master-class/",
+          "publishedOn": "2022-03-31T14:30:00.000Z",
+          "wordCount": null,
+          "title": "Immune System Master Class",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "4080BDC5-5AA2-4928-8796B6337D830260",
+          "author": "Gary Hartley",
+          "description": "Small flies’ extreme clamping feet let them walk on a flying bee\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/honeybee-parasites-have-record-breaking-clinginess/",
+          "publishedOn": "2022-03-31T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Honeybee Parasites Have Record-Breaking Clinginess",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "FDF3C859-AF86-44CF-B1D7B5A33879BD30",
+          "author": "Katie Hafner, The Lost Women of Science Initiative",
+          "description": "Before she entered a world of secrecy, computers and nuclear weapons, who was Klára von Neumann?\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/lost-women-of-science-podcast-season-2-episode-one-the-grasshopper/",
+          "publishedOn": "2022-03-31T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Lost Women of Science Podcast, Season 2: Episode One - The Grasshopper",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "EA52E5B8-ED37-4B05-921AD59BB2C909A2",
+          "author": "Katie Peek",
+          "description": "Citizen science data reveal how the declining species travels from its southern wintering site to its northern breeding grounds\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/monarchs-take-generations-to-make-annual-south-north-journey/",
+          "publishedOn": "2022-03-31T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Monarchs Take Generations to Make Annual South-North Journey",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "E0D65925-36AF-435A-8E61426E3CAB1FED",
+          "author": "Sara Reardon",
+          "description": "The Biden administration’s Test to Treat program aims to make the treatments available at pharmacies, yet it requires a medical provider to prescribe the drugs\n\r\n\r\n-- Read more on ScientificAmerican.com",
+          "link": "https://www.scientificamerican.com/article/a-simple-solution-would-make-covid-antivirals-more-accessible-pharmacists-say/",
+          "publishedOn": "2022-03-31T10:45:00.000Z",
+          "wordCount": null,
+          "title": "A Simple Solution Would Make COVID Antivirals More Accessible, Pharmacists Say",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "068014C8-B9EC-45E3-9750FF564FB9CB23",
           "author": "Arianna Skibell, E&E News",
           "description": "The General Services Administration oversees $75 billion in annual contracts\n\r\n\r\n-- Read more on ScientificAmerican.com",
@@ -50715,6 +50904,46 @@
       "siteUrl": "https://devops.com",
       "articles": [
         {
+          "id": "https://devops.com/?p=151196",
+          "author": "Mike Vizard",
+          "description": "GitLab has made available a 14.9 update to its namesake continuous integration/continuous delivery (CI/CD) platform that adds epic-linking, integrated security training, rule mode for scanning result policies and a revamped design, among other capabilities. The updated environment makes it easier to discover the state of the application development projects, GitLab said. Cindy Blake, director of […]\nThe post GitLab Updates CI/CD Platform to Improve Dev Productivity appeared first on DevOps.com.",
+          "link": "https://devops.com/gitlab-updates-ci-cd-platform-to-improve-dev-productivity/",
+          "publishedOn": "2022-03-31T16:56:43.000Z",
+          "wordCount": 1041,
+          "title": "GitLab Updates CI/CD Platform to Improve Dev Productivity",
+          "imageUrl": "https://devops.com/wp-content/uploads/2021/02/Developer-Teams.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=151149",
+          "author": "Manasi Vartak",
+          "description": "Intelligent applications are (by their very nature) complex. While conventional software basically consists of one thing (code), intelligent software involves code, models and data. As previously discussed, three distinct fields—DevOps, MLOps and DataOps—have evolved to govern each of these interconnected disciplines.  Moving through the ML life cycle quickly and efficiently requires collaboration between teams in […]\nThe post Positioning ML Devs and Teams for Success appeared first on DevOps.com.",
+          "link": "https://devops.com/positioning-ml-devs-and-teams-for-success/",
+          "publishedOn": "2022-03-31T11:30:29.000Z",
+          "wordCount": 1446,
+          "title": "Positioning ML Devs and Teams for Success",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/05/AI-and-machine-learning.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=151165",
+          "author": "Sacha Labourey",
+          "description": "As companies grow and expand to become global enterprises, IT infrastructure inevitably becomes more complex. When it comes to cloud computing, that usually means maintaining multiple clouds. There are many reasons for using different cloud service providers (CSPs)—some by choice and others by mandate.  For instance, a large enterprise with operations around the world may […]\nThe post Designing Your DevOps Ecosystem for Multi-Cloud appeared first on DevOps.com.",
+          "link": "https://devops.com/designing-your-devops-ecosystem-for-multi-cloud/",
+          "publishedOn": "2022-03-31T11:00:22.000Z",
+          "wordCount": 1364,
+          "title": "Designing Your DevOps Ecosystem for Multi-Cloud",
+          "imageUrl": "https://devops.com/wp-content/uploads/2020/11/multicloud.jpg"
+        },
+        {
+          "id": "https://devops.com/?p=151175",
+          "author": "ROELBOB",
+          "description": "The post A Driving Principle appeared first on DevOps.com.",
+          "link": "https://devops.com/a-driving-principle/",
+          "publishedOn": "2022-03-31T06:00:27.000Z",
+          "wordCount": 451,
+          "title": "A Driving Principle",
+          "imageUrl": "https://devops.com/wp-content/uploads/2022/03/a-driving-principle-02.jpg"
+        },
+        {
           "id": "https://devops.com/?p=151141",
           "author": "Veronica Haggar",
           "description": "Octopus Deploy launches Config as Code that combines the power of Git with a developer-friendly interface to streamline the deployment process   Brisbane, AUSTRALIA, March 30, 2022 – Octopus Deploy, a leading provider of continuous deployment orchestration software, today announced the launch of its long-awaited Config as Code feature, delivering the power of Git for tracking […]\nThe post Octopus Deploy Reimagines How Config as Code Should Be Done appeared first on DevOps.com.",
@@ -55085,6 +55314,16 @@
       "siteUrl": "https://www.quantamagazine.org",
       "articles": [
         {
+          "id": "https://www.quantamagazine.org/?p=113773",
+          "author": "Nicole Yunger Halpern",
+          "description": "Thanks to the power of fluctuation relations, physicists are taking the second law of thermodynamics to settings once thought impossible.            \nThe post Beyond the Second Law first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/beyond-the-second-law-of-thermodynamics-20220331/",
+          "publishedOn": "2022-03-31T15:59:07.000Z",
+          "wordCount": 1475,
+          "title": "Beyond the Second Law",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/03/Steampunk_1200_social.jpg"
+        },
+        {
           "id": "https://www.quantamagazine.org/?p=113740",
           "author": "Jordana Cepelewicz",
           "description": "Lillian Pierce wants to transform access to the world of mathematics, while making headway on problems that bridge the discrete and continuous.            \nThe post In Music and Math, Lillian Pierce Builds Landscapes first appeared on Quanta Magazine",
@@ -56059,6 +56298,26 @@
       "feedUrl": "https://flowingdata.com/feed",
       "siteUrl": "https://flowingdata.com",
       "articles": [
+        {
+          "id": "https://flowingdata.com/?p=67255",
+          "author": "Nathan Yau",
+          "description": "Here's the good stuff for March.\nTags: roundup",
+          "link": "https://flowingdata.com/2022/03/31/process-183-roundup/",
+          "publishedOn": "2022-03-31T18:30:08.000Z",
+          "wordCount": 270,
+          "title": "✚ Visualization Tools and Learning Resources, March 2022 Roundup",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/03/process-183-featured.png"
+        },
+        {
+          "id": "https://flowingdata.com/?p=67237",
+          "author": "Nathan Yau",
+          "description": "Say what you will about circular visualization, but the spiral plays. This one…\nTags: Ed Hawkins, NASA, temperature",
+          "link": "https://flowingdata.com/2022/03/31/climate-spiral-to-show-temperature-change/",
+          "publishedOn": "2022-03-31T07:59:02.000Z",
+          "wordCount": 339,
+          "title": "Climate spiral to show temperature change",
+          "imageUrl": "https://flowingdata.com/wp-content/uploads/2022/03/climate-spiral.png"
+        },
         {
           "id": "https://flowingdata.com/?p=67249",
           "author": "Nathan Yau",
