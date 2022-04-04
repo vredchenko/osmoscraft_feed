@@ -94,16 +94,6 @@
           "wordCount": 405,
           "title": "JuliaCon 2021, the largest Julia Programming event in history",
           "imageUrl": "https://media-exp1.licdn.com/dms/image/C560BAQFjhRdbE2Mbzw/company-logo_200_200/0/1611003674426?e=2159024400&v=beta&t=ICjmwSKSAAgH3fqbHwoUOSaNRqdSVyi9rQY5Sk9J5Bg"
-        },
-        {
-          "id": "https://julialang.org/blog/2021/04/gsod-2020-wrapup/",
-          "author": null,
-          "description": "Google Season of Docs 2020-2021 Wrap-Up.\nRead more",
-          "link": "https://julialang.org/blog/2021/04/gsod-2020-wrapup/",
-          "publishedOn": "2021-04-04T00:00:00.000Z",
-          "wordCount": 371,
-          "title": "Google Season of Docs 2020-2021 Wrap-Up",
-          "imageUrl": "https://1.bp.blogspot.com/-lp5QS2n9-Tk/Xt_dEWSO5kI/AAAAAAAAAdU/R7W-LQrnX-8HCS1yOBJEXw1cBiDOfkoMACLcBGAsYHQ/s1600/SeasonofDocs_Logo_MainGrey_300ppi.png"
         }
       ]
     },
@@ -988,6 +978,16 @@
       "feedUrl": "https://www.i-programmer.info/index.php?option=com_ninjarsssyndicator&feed_id=3&format=raw",
       "siteUrl": "https://www.i-programmer.info/",
       "articles": [
+        {
+          "id": "http://www.i-programmer.info/news/112-theory/15329-wordle-is-np-hard.html",
+          "author": null,
+          "description": "You probably think Wordle, the game all the bright people seem to be playing, is a mental challenge. But did you know it was hard.. NP hard?\n\r\n\nRead more...",
+          "link": "http://www.i-programmer.info/news/112-theory/15329-wordle-is-np-hard.html",
+          "publishedOn": "2022-04-03T10:04:33.000Z",
+          "wordCount": 1153,
+          "title": "Wordle is NP Hard",
+          "imageUrl": null
+        },
         {
           "id": "http://www.i-programmer.info/i-programmer-weekly/238-i-programmer-weekly-2022/15328-march-week-4.html",
           "author": null,
@@ -29455,6 +29455,17 @@
       "siteUrl": "https://helloacm.com",
       "articles": [
         {
+          "id": "https://helloacm.com/?p=149500",
+          "author": "ACMer",
+          "description": "Teaching Kids Programming: Videos on Data Structures and Algorithms Given an integer array nums, return the largest integer that only occurs once. If no integer occurs once, return -1. Example 1:...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
+          "link": "https://helloacm.com/teaching-kids-programming-largest-unique-number-via-hash-table-bucket-sorting-and-groupby-algorithms/",
+          "publishedOn": "2022-04-03T20:35:57.000Z",
+          "wordCount": null,
+          "title": "Teaching Kids Programming – Largest Unique Number via Hash Table, Bucket Sorting and GroupBy Algorithms",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://helloacm.com/?p=149487",
           "author": "ACMer",
           "description": "Sending TRX coin on TRON blockchain is easy. We can use the TronWeb library and here is the Javascript function to send Trx to a Tron wallet address: async function sendTrx(fromAddress, toAddress,...\n\r\n\r\n[[ This is a content summary only. Visit my website for full links, other content, and more! ]]",
@@ -30914,6 +30925,76 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=528703&preview=true&preview_id=528703",
+          "author": "Dan Maloney",
+          "description": "It’s that time of year again — the 2022 Hackaday Prize has officially launched, and we’re excited to see what it turns out. This year’s theme is “Sustainability, Resilience, and …read more",
+          "link": "https://hackaday.com/2022/04/03/hackaday-links-april-3-2022/",
+          "publishedOn": "2022-04-03T23:00:18.000Z",
+          "wordCount": 1742,
+          "title": "Hackaday Links: April 3, 2022",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=529409",
+          "author": "Donald Papp",
+          "description": "Discount (or even grey market) electronics can be economical ways to get a job done, but one usually pays in other ways. [Majenko] ran into this when a need to …read more",
+          "link": "https://hackaday.com/2022/04/03/is-your-device-actually-usb-3-0-or-is-the-connector-just-blue/",
+          "publishedOn": "2022-04-03T20:00:36.000Z",
+          "wordCount": 1424,
+          "title": "Is Your Device Actually USB 3.0, Or Is The Connector Just Blue?",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/04/USB-2.0-that-is-simply-colored-blue.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=529111",
+          "author": "Bryan Cockfield",
+          "description": "Texas Instruments is best known to the general public for building obsolete calculators and selling them at extraordinary prices to students, but they also build some interesting (and reasonably-priced) microcontrollers …read more",
+          "link": "https://hackaday.com/2022/04/03/flashing-ti-chips-with-an-esp/",
+          "publishedOn": "2022-04-03T17:00:37.000Z",
+          "wordCount": 1799,
+          "title": "Flashing TI Chips with an ESP",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/esp-ti-main.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=528919",
+          "author": "Dave Rowntree",
+          "description": "3D printer belt tension seems like a simple thing to deal with — you set the tension and then check it’s good now and then. If it gets really loose, …read more",
+          "link": "https://hackaday.com/2022/04/03/3d-printering-dont-tune-to-a-middle-c-after-all/",
+          "publishedOn": "2022-04-03T14:00:48.000Z",
+          "wordCount": 1621,
+          "title": "3D Printering: Don’t Tune To A Middle ‘C’ After All",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/Snap-2022-03-31-at-18.57.33.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=528439",
+          "author": "Bryan Cockfield",
+          "description": "Statistics often gets a bad rap in mathematics circles for being less than concrete at best, and being downright misleading at worst. While these sentiments might ring true for things …read more",
+          "link": "https://hackaday.com/2022/04/03/using-statistics-instead-of-sensors/",
+          "publishedOn": "2022-04-03T11:00:02.000Z",
+          "wordCount": 1701,
+          "title": "Using Statistics Instead of Sensors",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/statistics-coffee-main.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=529209",
+          "author": "Robin Kearey",
+          "description": "While mobile gaming has largely moved to smartphones these days, the classic Game Boy remains a hugely popular platform for retro enthusiasts, owing in no small part to its enormous …read more",
+          "link": "https://hackaday.com/2022/04/03/this-big-3d-printed-game-boy-actually-runs-macos/",
+          "publishedOn": "2022-04-03T08:00:46.000Z",
+          "wordCount": 1390,
+          "title": "This Big 3D-Printed Game Boy Actually Runs MacOS",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/03/Game-Boy-Hackintosh-disassembled.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=529451",
+          "author": "Tom Nardi",
+          "description": "We know, we know. A lot of you don’t like projects that consist of gutting a vintage computer (or anything else, for that matter) and replacing its internals with modern …read more",
+          "link": "https://hackaday.com/2022/04/02/compaq-286-laptop-gets-raspberry-transfusion/",
+          "publishedOn": "2022-04-03T05:00:14.000Z",
+          "wordCount": 1890,
+          "title": "Compaq 286 Laptop Gets Raspberry Transfusion",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2022/04/compaqpi_feat.jpg"
+        },
         {
           "id": "https://hackaday.com/?p=529167",
           "author": "Robin Kearey",
